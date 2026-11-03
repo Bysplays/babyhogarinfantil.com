@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "9032",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/9032-pantalon-algodon-estampado-bebe-nina-fucsia.html",
+  "name": "Pantalón algodón estampado bebé niña Fucsia",
+  "brand": "Chicco",
+  "sku": "2107107",
+  "description": "Pantalón de algodón en color fucsia con estampado y detalles en plateado. Con goma en la cintura y en los puños. DISPONIBLE EN TALLAS GRANDES PARA NIÑA.",
+  "details": "Pantalón de algodón de CHICCO, una de nuestras firmas preferidas! En color fucsia con estampado y detalles en plateado. Finas cenefas con brillo a lo laterales. Con goma en la cintura y en los puños de las perneras. La cintura está decorada con una lazada de adorno. Sin felpa, ideal para entretiempo. Una prenda cómoda, ligera y con colores alegres y estampado divertido! Echa un ojito a nuestras camisetas de manga corta y manga larga básicas, sudaderas y calzado y podrás combinarlos como más te guste! DISPONIBLE EN TALLAS GRANDES PARA NIÑA. \n\nComposición y cuidados:\n\nPantalón: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pantalón de algodón de <strong>CHICCO</strong>, una de nuestras firmas preferidas! En color fucsia con estampado y <strong>detalles en plateado.</strong> Finas cenefas con brillo a lo laterales. Con goma en la cintura y en los puños de las perneras. La cintura está decorada con una lazada de adorno. Sin felpa, ideal para entretiempo. Una prenda cómoda, ligera y con colores alegres y estampado divertido! Echa un ojito a nuestras <strong>camisetas de manga corta y manga larga básicas, sudaderas y calzado</strong> y podrás combinarlos como más te guste! <strong>DISPONIBLE EN TALLAS GRANDES PARA NIÑA. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-27 11:11:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68385",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2107107",
+      "productSku": "2107107",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:03.676Z"
+    },
+    {
+      "id": "68386",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2107107",
+      "productSku": "2107107",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:05.695Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9032-8435.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8435-large_default/pantalon-algodon-estampado-bebe-nina-fucsia.jpg",
+      "alt": "Pantalón algodón estampado bebé niña Fucsia",
+      "sourceId": "8435",
+      "variantIds": [],
+      "sha256": "bda084da66f6bd18be60a5e49ecda7c320316cf9938ae71b452b7c91310ab3be"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:05.798Z",
+  "issues": []
+}

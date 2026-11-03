@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "7800",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/7800-chaqueta-punto-grueso-alpino-azul.html",
+  "name": "Chaqueta punto grueso Alpino Azul",
+  "brand": "Mac Ilusión",
+  "sku": "1907102",
+  "description": "Envuelve a tu pequeño en la elegancia de montaña con la \"Chaqueta Punto Grueso Alpino Azul\". Diseñada para calidez y comodidad, esta chaqueta combina funcionalidad y estilo. El punto grueso garantiza un abrazo cálido en los días de invierno, mientras que su tono azul añade un toque chic. Perfecta para aquellos momentos entrañables al aire libre. Una compra que brinda amor, cuidado y conveniencia. ¡Prepara a tu pequeño para el invierno con un estilo distintivo!",
+  "details": "Un Abrigo de Lujo\n\nLa Chaqueta Punto Grueso Alpino Azul no es sólo un abrigo, es un complemento de lujo que añade un toque elegante a la imagen de los pequeños. Elaborado en punto grueso, este exclusivo abrigo proporciona un calor excepcionalmente suave y cómodo, perfecto para los días más fríos. Su tono azul alpino queda increíblemente bien con cualquier ropa debajo, asegurando que los niños lucen siempre elegantes.\n\n\nFabricada pensando en la Calidad\n\nLa prioridad es brindar productos de alta calidad que garantizan la durabilidad y confort. La Chaqueta Punto Grueso Alpino Azul no es una excepción. Hecha de los mejores materiales, esta chaqueta es resistente al desgaste y puede resistir las travesuras diarias que los niños seguro llevarán a cabo. Además, es increíblemente fácil de limpiar y cuidar, lo que significa que conservará su aspecto elegante y sofisticado durante muchos años.\n\n\nRegalo Perfecto para Todas las Ocasiones\n\nEsta chaqueta punto azul, es el regalo perfecto para los cumpleaños, navidades, o simplemente como una sorpresa sincera en cualquier día. Lleva la alegría y la dulzura a los niños, y al mismo tiempo, los manten a salvo y calientes. ¡Dale a los seres queridos el regalo del lujo, calidez y estilo con la Chaqueta Punto Grueso Alpino Azul!\n\n\n\n¡Adquiera Hoy la Chaqueta Punto Grueso Alpino Azul!\n \nEs más que un abrigo, es una prenda que envuelve en amor y calidez a cada niño que la usa. ¡No pierda más tiempo y adquiera hoy mismo la Chaqueta Punto Grueso Alpino Azul! Asegure la comodidad y el estilo de los pequeños en los días fríos.",
+  "sourceDescriptionHtml": "<h2>Un Abrigo de Lujo</h2>\n<p>La <strong>Chaqueta Punto Grueso Alpino Azul</strong> no es sólo un abrigo, es un complemento de lujo que añade un toque elegante a la imagen de los pequeños. Elaborado en punto grueso, este exclusivo abrigo proporciona un calor excepcionalmente suave y cómodo, perfecto para los días más fríos. Su tono azul alpino queda increíblemente bien con cualquier ropa debajo, asegurando que los niños lucen siempre elegantes.</p>\n\n<h2>Fabricada pensando en la Calidad</h2>\n<p>La prioridad es brindar productos de alta calidad que garantizan la durabilidad y confort. La <strong>Chaqueta Punto Grueso Alpino Azul</strong> no es una excepción. Hecha de los mejores materiales, esta chaqueta es resistente al desgaste y puede resistir las travesuras diarias que los niños seguro llevarán a cabo. Además, es increíblemente fácil de limpiar y cuidar, lo que significa que conservará su aspecto elegante y sofisticado durante muchos años.</p>\n\n<h2>Regalo Perfecto para Todas las Ocasiones</h2>\n<p>Esta chaqueta punto azul, es el regalo perfecto para los cumpleaños, navidades, o simplemente como una sorpresa sincera en cualquier día. Lleva la alegría y la dulzura a los niños, y al mismo tiempo, los manten a salvo y calientes. ¡Dale a los seres queridos el regalo del lujo, calidez y estilo con la Chaqueta Punto Grueso Alpino Azul!</p>\n\n<div>\n<h3>¡Adquiera Hoy la Chaqueta Punto Grueso Alpino Azul!</h3> \n<p>Es más que un abrigo, es una prenda que envuelve en amor y calidez a cada niño que la usa. ¡No pierda más tiempo y adquiera hoy mismo la <strong>Chaqueta Punto Grueso Alpino Azul</strong>! Asegure la comodidad y el estilo de los pequeños en los días fríos.</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 22.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:29",
+  "sourceUpdatedAt": "2026-10-27 11:10:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66424",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1907102",
+      "productSku": "1907102",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:01.331Z"
+    },
+    {
+      "id": "66422",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1907102",
+      "productSku": "1907102",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:02.690Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7800-5876.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5876-large_default/chaqueta-punto-grueso-alpino-azul.jpg",
+      "alt": "Chaqueta punto grueso Alpino Azul",
+      "sourceId": "5876",
+      "variantIds": [],
+      "sha256": "55054297d3a28bc28f90e533fff20cb92631413f5df4d89f9e2928c280020d86"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:02.744Z",
+  "issues": []
+}

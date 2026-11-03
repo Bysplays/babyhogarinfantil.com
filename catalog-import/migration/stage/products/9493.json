@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "9493",
+  "sourceUrl": "https://babyhogarinfantil.com/peleles-bebe-nina/9493-pelele-corto-algodon-amarillo.html",
+  "name": "Pelele corto algodón Amarillo",
+  "brand": "Zippy",
+  "sku": "2202134",
+  "description": "Pelele corto 100% algodón, en color amarillo con estampado en el pecho. Volantes y goma en mangas y perneras. Cierre con corchetes en el hombro y entrepierna.",
+  "details": "Pelele corto de ZIPPY, firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. De manga y pierna corta, rematadas en volante y gomita. 100% ALGODÓN. En color amarillo, con estampado en el pecho. Cierre con corchetes en el hombro y entrepierna para facilitar la puesta. Una prenda cómoda y fresquita, perfecta para los días de mucho calor! Echa un ojito a nuestro calzado y gorros para el sol y podrás combinarla como más te guste!\n\nComposición y cuidados:\n\nPelele: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Pelele corto de <strong style=\"margin:0px;padding:0px;\">ZIPPY</strong>, firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. De manga y pierna corta, rematadas en volante y gomita. <strong style=\"margin:0px;padding:0px;\">100% ALGODÓN</strong>. En color amarillo, con estampado en el pecho. Cierre con<strong style=\"margin:0px;padding:0px;\"> corchetes en el hombro y entrepierna</strong> para facilitar la puesta. Una prenda cómoda y fresquita, perfecta para los días de mucho calor! Echa un ojito a nuestro<strong style=\"margin:0px;padding:0px;\"> calzado y gorros para el sol</strong> y podrás combinarla como más te guste!</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición y cuidados:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Pelele: 100% algodón</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "773",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "773",
+  "sourceCategoryName": "Peleles Bebé Niña",
+  "price": 3.98,
+  "oldPrice": 7.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69344",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2202134",
+      "productSku": "2202134",
+      "taxRate": 21,
+      "price": 3.98,
+      "oldPrice": 7.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:48.140Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9493-7749.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7749-large_default/pelele-corto-algodon-amarillo.jpg",
+      "alt": "Pelele corto algodón Amarillo",
+      "sourceId": "7749",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9493-12420.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12420-large_default/pelele-corto-algodon-amarillo.jpg",
+      "alt": "Pelele corto algodón Amarillo",
+      "sourceId": "12420",
+      "variantIds": [],
+      "sha256": "e3e087934df041efb68ab1436bb39c01cb28e306f629f595fee62fc2bd990c9d"
+    },
+    {
+      "path": "assets/9493-7748.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7748-large_default/pelele-corto-algodon-amarillo.jpg",
+      "alt": "Pelele corto algodón Amarillo",
+      "sourceId": "7748",
+      "variantIds": [],
+      "sha256": "ec9435d3f880e8a41d7a6289783784fd7216d1f03a4f241a793c58563d28bfe3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:48.317Z",
+  "issues": []
+}

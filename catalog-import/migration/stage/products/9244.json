@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "9244",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-en-pack/9244-pack-7-calcetines-nina-0-a-3-meses-varios.html",
+  "name": "Pack 7 calcetines niña 0 a 3 meses Varios",
+  "brand": "Gamberritos",
+  "sku": "2111039",
+  "description": "Pack 7 calcetines 100% algodón. Talla única recién nacido.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "796",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "796",
+  "sourceCategoryName": "Calcetines en pack",
+  "price": 11.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68760",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2111039",
+      "productSku": "2111039",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:51.516Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9244-7496.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7496-large_default/pack-7-calcetines-nina-0-a-3-meses-varios.jpg",
+      "alt": "Pack 7 calcetines niña 0 a 3 meses Varios",
+      "sourceId": "7496",
+      "variantIds": [],
+      "sha256": "cf57c7850d5cc25a4955ac7f68b1a980e3f50df9be32ca9a57633e185dc083c2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:51.565Z",
+  "issues": []
+}

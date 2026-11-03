@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6207",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/6207-chaqueta-bebe-arena.html",
+  "name": "Chaqueta bebé Arena",
+  "brand": "Pecesa",
+  "sku": "993",
+  "description": "Descubre la fabulosa \\'Chaqueta Bebé Arena\\', perfecta para tu pequeño en los días más fríos. Su suave forro interior mantendrá a tu bebé cálido y cómodo, mientras que su exterior resistente protegerá del viento y la lluvia. Sus colores neutros la hacen perfecta para cualquier atuendo. ¡Haz que tu bebé se destaque en la multitud, sin sacrificar su comodidad! ¡Regala esa tranquilidad y seguridad a tu pequeño con esta chaqueta increíblemente versátil y duradera! Adecuada para cualquier temporada, un must-have para tu pequeño.",
+  "details": "Suavidad Incomparable\n\nEnvuelve a tu bebé en la calidez y confortabilidad de la Chaqueta para bebé Arena. Confeccionada con tejidos de calidad superior que aseguran un tacto suave contra la delicada piel de tu pequeño, esta chaqueta será su abrigo confiable en cualquier clima. Su diseño ligero y transpirable permite la libertad de movimiento esencial para las aventuras diarias de tu bebé. \n\n\nElegancia Versátil\n\nCada pieza de vestimenta en el armario de tu bebé debe ser tan funcional como hermosa. La Chaqueta para bebé Arena ofrece precisamente eso con su sutil combinación de estilo y versatilidad. Su estética minimalista se combina armoniosamente con cualquier conjunto, haciendo de cada ocasión una oportunidad para lucir encantadora.\n\n\nInsuperable Durabilidad\n\nLos niños crecen rápidamente, y es esencial que su ropa pueda resistir sus innumerables aventuras y al mismo tiempo estar a la altura de su crecimiento. Eso es por lo que la Chaqueta para bebé Arena es la elección perfecta. Su durabilidad y resistencia al desgate garantizan que acompañará a su pequeño durante mucho tiempo, brindando calidez y comodidad constantes.\n\n\nNo dejes pasar la oportunidad de brindarle a tu precioso ángel la mejor vestimenta. Haz clic en \\'Añadir al carrito\\' y lleva a casa la Chaqueta para bebé Arena hoy mismo.",
+  "sourceDescriptionHtml": "<h2>Suavidad Incomparable</h2>\n<p>Envuelve a tu bebé en la calidez y confortabilidad de la Chaqueta para bebé Arena. Confeccionada con tejidos de calidad superior que aseguran un tacto suave contra la delicada piel de tu pequeño, esta chaqueta será su abrigo confiable en cualquier clima. Su diseño ligero y transpirable permite la libertad de movimiento esencial para las aventuras diarias de tu bebé. </p>\n\n<h2>Elegancia Versátil</h2>\n<p>Cada pieza de vestimenta en el armario de tu bebé debe ser tan funcional como hermosa. La Chaqueta para bebé Arena ofrece precisamente eso con su sutil combinación de estilo y versatilidad. Su estética minimalista se combina armoniosamente con cualquier conjunto, haciendo de cada ocasión una oportunidad para lucir encantadora.</p>\n\n<h2>Insuperable Durabilidad</h2>\n<p>Los niños crecen rápidamente, y es esencial que su ropa pueda resistir sus innumerables aventuras y al mismo tiempo estar a la altura de su crecimiento. Eso es por lo que la Chaqueta para bebé Arena es la elección perfecta. Su durabilidad y resistencia al desgate garantizan que acompañará a su pequeño durante mucho tiempo, brindando calidez y comodidad constantes.</p>\n\n<p>No dejes pasar la oportunidad de brindarle a tu precioso ángel la mejor vestimenta. Haz clic en \\'Añadir al carrito\\' y lleva a casa la Chaqueta para bebé Arena hoy mismo.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Arena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 22.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62891",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "993",
+      "productSku": "993",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:21.441Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6207-4119.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4119-large_default/chaqueta-bebe-arena.jpg",
+      "alt": "Chaqueta bebé Arena",
+      "sourceId": "4119",
+      "variantIds": [],
+      "sha256": "73e64953e36e46c5ac28a8b014fbce70870582c285ae8323b66a2c0b3a2c57db"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:21.492Z",
+  "issues": []
+}

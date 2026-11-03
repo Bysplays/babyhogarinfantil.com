@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "id": "6005",
+  "sourceUrl": "https://babyhogarinfantil.com/polainas-bebe-nina/6005-polaina-punto-liso-sin-costuras-nube.html",
+  "name": "Polaina punto liso sin costuras Nube",
+  "brand": "Mac Ilusión",
+  "sku": "185",
+  "description": "Polaina de punto liso sin costuras, temporada otoño-invierno.\n\nHECHO EN ESPAÑA",
+  "details": "La Comodidad Última\n\n\nDeslumbra a tus pequeños con la Polaina Punto Liso sin Costuras Nube. Estas polainas están hechas de las fibras más suaves, garantizando un sueño relajado y duradero para tus niños. Su textura ligera y aireada las hace ideales para mantener a tus niños cómodos y felices durante todo el día. Además, se adaptan con facilidad a cualquier tipo de movimiento, dando la máxima comodidad.\n\n\n\nUn Estilo Inigualable\n\n\nAñade un toque chic al armario de tus niños con nuestras Polainas Punto Liso sin Costuras Nube. Con su diseño suave y estético, comúnmente conocido como \\'Nube\\', estas polainas proporcionarán un estilo único a tus hijos. Esta prenda de diseño neutral se adapta a cualquier conjunto, por lo que tus hijos lucirán siempre a la última moda.\n\n\n\nFabricación Duradera\n\n\n¿Buscas una pieza de ropa que resistir el uso y desgaste diario? Las Polainas Punto Liso sin Costuras Nube son la respuesta. Hechas con pulcritud, sin costuras, garantizan una durabilidad superior. Estas polainas pueden resistir incontables lavados sin perder nunca su forma o color, asegurando que estén listas para usarse una y otra vez.\n\n\n\n\nNo pierdas más tiempo, añade hoy mismo las Polainas Punto Liso sin Costuras Nube a tu carrito de compras. ¡Tus niños te lo agradecerán!",
+  "sourceDescriptionHtml": "<h2>La Comodidad Última</h2>\n<p>\nDeslumbra a tus pequeños con la Polaina Punto Liso sin Costuras Nube. Estas polainas están hechas de las fibras más suaves, garantizando un sueño relajado y duradero para tus niños. Su textura ligera y aireada las hace ideales para mantener a tus niños cómodos y felices durante todo el día. Además, se adaptan con facilidad a cualquier tipo de movimiento, dando la máxima comodidad.\n</p>\n\n<h2>Un Estilo Inigualable</h2>\n<p>\nAñade un toque chic al armario de tus niños con nuestras Polainas Punto Liso sin Costuras Nube. Con su diseño suave y estético, comúnmente conocido como \\'Nube\\', estas polainas proporcionarán un estilo único a tus hijos. Esta prenda de diseño neutral se adapta a cualquier conjunto, por lo que tus hijos lucirán siempre a la última moda.\n</p>\n\n<h2>Fabricación Duradera</h2>\n<p>\n¿Buscas una pieza de ropa que resistir el uso y desgaste diario? Las Polainas Punto Liso sin Costuras Nube son la respuesta. Hechas con pulcritud, sin costuras, garantizan una durabilidad superior. Estas polainas pueden resistir incontables lavados sin perder nunca su forma o color, asegurando que estén listas para usarse una y otra vez.\n</p>\n\n<p>\nNo pierdas más tiempo, añade hoy mismo las Polainas Punto Liso sin Costuras Nube a tu carrito de compras. ¡Tus niños te lo agradecerán!\n</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nube",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "672"
+  ],
+  "sourceDefaultCategoryId": "672",
+  "sourceCategoryName": "Polainas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:07",
+  "sourceUpdatedAt": "2026-10-27 11:08:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62183",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "90XA16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:24.043Z"
+    },
+    {
+      "id": "62184",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "90XB16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:27.214Z"
+    },
+    {
+      "id": "62185",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "90XC16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:30.761Z"
+    },
+    {
+      "id": "62186",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "90XD16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:33.335Z"
+    },
+    {
+      "id": "144023",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "90XE16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:36.103Z"
+    },
+    {
+      "id": "144024",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "90XF16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:38.749Z"
+    },
+    {
+      "id": "144025",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "90XG16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:42.089Z"
+    },
+    {
+      "id": "144026",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "90XH16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:44.784Z"
+    },
+    {
+      "id": "144027",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "90XI16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:47.330Z"
+    },
+    {
+      "id": "144028",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "90XJ16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:50.191Z"
+    },
+    {
+      "id": "144029",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "90XK16516",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:53.140Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6005-14142.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14142-large_default/polaina-punto-liso-sin-costuras-nube.jpg",
+      "alt": "Polaina punto liso sin costuras Nube",
+      "sourceId": "14142",
+      "variantIds": [],
+      "sha256": "1f3e1379bd8f17f9ac868b8a5723a743ab129db1d401443d51fa8a88dbcfa856"
+    },
+    {
+      "path": "assets/6005-17693.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17693-large_default/polaina-punto-liso-sin-costuras-nube.jpg",
+      "alt": "Polaina punto liso sin costuras Nube",
+      "sourceId": "17693",
+      "variantIds": [],
+      "sha256": "fe88b3ca5b76c6c0d8206b49e65d1748d774be48c711f685533f4e52fd6a5346"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:53.285Z",
+  "issues": []
+}

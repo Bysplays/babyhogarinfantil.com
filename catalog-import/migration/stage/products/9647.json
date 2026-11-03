@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "9647",
+  "sourceUrl": "https://babyhogarinfantil.com/banadores-bebe-nino/9647-conjunto-bano-nino-estrella-de-mar-blanco.html",
+  "name": "Conjunto baño niño ESTRELLA DE MAR Blanco",
+  "brand": "Calamaro",
+  "sku": "2204027",
+  "description": "¡Diseñado para los pequeños amantes del mar, el Conjunto de Baño Niño Estrella de Mar Blanco encantará! Con características como la cómoda tela de secado rápido, este conjunto es perfecto para días de diversión en la playa o la piscina. La linda estrella de mar agrega un toque lúdico, mientras que el color blanco clásico combina con todo. Este conjunto es una necesidad para cualquier armario de verano. ¡Garantizando un verano lleno de sonrisas y risas bajo el sol!",
+  "details": "Un Encanto Marino Para Tu Pequeño\n\nAnima las horas de baño de tu pequeño con el Conjunto de baño niño ESTRELLA DE MAR Blanco. Este set es perfecto para todos los niños, llevando su imaginación a las profundidades del océano, y haciendo que cada baño sea una emocionante aventura marina.\n\nAdecuado y Funcional\n\nEl Conjunto baño está hecho con la más alta calidad, proporcionando una suavidad única y una absorción excepcional después de cada baño. Además, su elegante diseño de estrella de mar brinda un aire de diversión y un toque de la frescura del océano a la rutina diaria.\n\nDiseño Exquisito - Un Toque Único\n\nEste conjunto destaca por sus inigualables detalles. Su color blanco puro y su delicado diseño de estrella de mar, otorgan elegancia y atractivo visual. No solo se trata de un conjunto de baño, sino también del complemento perfecto que aportará personalidad al baño de tu hogar.\n\nHaz que cada baño se convierta en una emocionante aventura subacuática para tu pequeño con el Conjunto baño niño ESTRELLA DE MAR Blanco. No dudes más, da a tu pequeño lo mejor, añádelo a tu carrito de compras ahora.\n\nComposición:\n\nBañador: 80% poliéster, 20% elastano.\n\nCamiseta: 100% algodón.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<h2>Un Encanto Marino Para Tu Pequeño</h2>\n<p>Anima las horas de baño de tu pequeño con el Conjunto de baño niño ESTRELLA DE MAR Blanco. Este set es perfecto para todos los niños, llevando su imaginación a las profundidades del océano, y haciendo que cada baño sea una emocionante aventura marina.</p>\n<h2>Adecuado y Funcional</h2>\n<p>El Conjunto baño está hecho con la más alta calidad, proporcionando una suavidad única y una absorción excepcional después de cada baño. Además, su elegante diseño de estrella de mar brinda un aire de diversión y un toque de la frescura del océano a la rutina diaria.</p>\n<h2>Diseño Exquisito - Un Toque Único</h2>\n<p>Este conjunto destaca por sus inigualables detalles. Su color blanco puro y su delicado diseño de estrella de mar, otorgan elegancia y atractivo visual. No solo se trata de un conjunto de baño, sino también del complemento perfecto que aportará personalidad al baño de tu hogar.</p>\n<p>Haz que cada baño se convierta en una emocionante aventura subacuática para tu pequeño con el Conjunto baño niño ESTRELLA DE MAR Blanco. No dudes más, da a tu pequeño lo mejor, añádelo a tu carrito de compras ahora.</p>\n<p>Composición:</p>\n<p>Bañador: 80% poliéster, 20% elastano.</p>\n<p>Camiseta: 100% algodón.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "818",
+    "802"
+  ],
+  "sourceDefaultCategoryId": "802",
+  "sourceCategoryName": "Bañadores bebé niño",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69738",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2204027",
+      "productSku": "2204027",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:50.847Z"
+    },
+    {
+      "id": "69739",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2204027",
+      "productSku": "2204027",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:52.410Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9647-7862.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7862-large_default/conjunto-bano-nino-estrella-de-mar-blanco.jpg",
+      "alt": "Conjunto baño niño ESTRELLA DE MAR Blanco",
+      "sourceId": "7862",
+      "variantIds": [],
+      "sha256": "1a7a2b84098d013b1c910aad271220cf4e50dbae716fffab58441a1fdecac002"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:52.483Z",
+  "issues": []
+}

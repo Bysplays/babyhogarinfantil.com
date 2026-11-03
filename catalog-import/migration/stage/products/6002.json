@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "id": "6002",
+  "sourceUrl": "https://babyhogarinfantil.com/polainas-bebe-nina/6002-polaina-punto-liso-sin-costuras-rosa.html",
+  "name": "Polaina punto liso sin costuras Rosa",
+  "brand": "Mac Ilusión",
+  "sku": "185",
+  "description": "Deleite a su pequeña con nuestras Polainas Punto Liso sin Costuras Rosa. Diseñadas con suavidad en cada hilo, estas polainas ofrecen comodidad inigualable, perfectas para la piel delicada de su bebé. El hermoso tono rosa evoca calidez y amor. La calidad superior garantiza durabilidad incluso tras lavados frecuentes. Este invierno, envuelva a su princesa en la ternura de nuestras polainas y observe cómo se convierte en el centro de atención. HECHO EN ESPAÑA",
+  "details": "Suave Como la Seda\n\nDescubre la Polaina punto liso sin costuras Rosa, diseñada pensando en la comodidad de tu pequeño. Esta delicada prenda, confeccionada en tejido suave y sin costuras, proporciona un confort sin igual. Este toque de suavidad será un verdadero regalo para la piel sensible de tu bebé.\n\nChic y Versátil\n\nLa Polaina punto liso sin costuras Rosa no solo es cómoda, sino también elegantemente versátil. Su color rosa vibrante inyectará un toque de alegría en el guardarropa de tu pequeño, y su diseño clásico y minimalista hará que combine perfectamente con cualquier otra prenda.\n\nConfección de Calidad\n\nHecha a la perfección, la Polaina punto liso sin costuras Rosa te garantiza durabilidad. Su tejido resistente garantiza que soportará el lavado frecuente y el uso diario, siempre manteniendo su forma y color. Sin duda, es una inversión valiosa para el guardarropa de tu pequeño.\n\nTrae a casa el Polaina punto liso sin costuras Rosa hoy y dale a tu bebé el regalo de la comodidad elegante. ¡Haz clic en \\'Añadir al Carrito\\' ya mismo!\n\nComposición y cuidados:\n\n100% Acrílico DRALON.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR SIEMPRE DEL REVES A 40º RECOMENDADO.",
+  "sourceDescriptionHtml": "<h2>Suave Como la Seda</h2>\n<p>Descubre la Polaina punto liso sin costuras Rosa, diseñada pensando en la comodidad de tu pequeño. Esta delicada prenda, confeccionada en tejido suave y sin costuras, proporciona un confort sin igual. Este toque de suavidad será un verdadero regalo para la piel sensible de tu bebé.</p>\n<h2>Chic y Versátil</h2>\n<p>La Polaina punto liso sin costuras Rosa no solo es cómoda, sino también elegantemente versátil. Su color rosa vibrante inyectará un toque de alegría en el guardarropa de tu pequeño, y su diseño clásico y minimalista hará que combine perfectamente con cualquier otra prenda.</p>\n<h2>Confección de Calidad</h2>\n<p>Hecha a la perfección, la Polaina punto liso sin costuras Rosa te garantiza durabilidad. Su tejido resistente garantiza que soportará el lavado frecuente y el uso diario, siempre manteniendo su forma y color. Sin duda, es una inversión valiosa para el guardarropa de tu pequeño.</p>\n<p>Trae a casa el Polaina punto liso sin costuras Rosa hoy y dale a tu bebé el regalo de la comodidad elegante. ¡Haz clic en \\'Añadir al Carrito\\' ya mismo!</p>\n<p>Composición y cuidados:</p>\n<p>100% Acrílico DRALON.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR SIEMPRE DEL REVES A 40º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "672"
+  ],
+  "sourceDefaultCategoryId": "672",
+  "sourceCategoryName": "Polainas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:07",
+  "sourceUpdatedAt": "2026-10-27 11:08:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 18,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62170",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "90XA173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:22.707Z"
+    },
+    {
+      "id": "62171",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "90XB173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:26.372Z"
+    },
+    {
+      "id": "62172",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "90XC173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:28.904Z"
+    },
+    {
+      "id": "62173",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "90XD173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:32.120Z"
+    },
+    {
+      "id": "144003",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "90XE173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:35.162Z"
+    },
+    {
+      "id": "144004",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "90XF173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:37.680Z"
+    },
+    {
+      "id": "144005",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "90XG173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:40.735Z"
+    },
+    {
+      "id": "144006",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "90XH173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:43.422Z"
+    },
+    {
+      "id": "144007",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "90XI173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:46.614Z"
+    },
+    {
+      "id": "144008",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "90XJ173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:49.452Z"
+    },
+    {
+      "id": "144009",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "90XK173",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:51.732Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6002-3851.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3851-large_default/polaina-punto-liso-sin-costuras-rosa.jpg",
+      "alt": "Polaina punto liso sin costuras Rosa",
+      "sourceId": "3851",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    },
+    {
+      "path": "assets/6002-3850.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3850-large_default/polaina-punto-liso-sin-costuras-rosa.jpg",
+      "alt": "Polaina punto liso sin costuras Rosa",
+      "sourceId": "3850",
+      "variantIds": [],
+      "sha256": "fb48c9c59c30d55cef4271941c3c7cc65f07ed87aa1c446f4b0dbecc625913eb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:51.813Z",
+  "issues": []
+}

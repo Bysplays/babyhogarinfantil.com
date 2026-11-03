@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "19126",
+  "sourceUrl": "https://babyhogarinfantil.com/mantas-bebe/19126-manta-infantil-80x110-nido-de-abeja-menta.html",
+  "name": "Manta infantil 80x110 nido de abeja Menta",
+  "brand": "Interbaby",
+  "sku": "2402109",
+  "description": "Manta infantil nido de abeja, de 80x110 cm de temaño. Con interior de borreguito. Disponible en varios colores, precio por unidad.",
+  "details": "Composición: 100% poliéster",
+  "sourceDescriptionHtml": "<p>Composición: 100% poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Menta",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "765",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "765",
+  "sourceCategoryName": "Mantas Bebé",
+  "price": 18.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-12-09 15:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:13:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149141",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12239XA19009",
+      "productSku": "2402109",
+      "taxRate": 21,
+      "price": 18.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:56.284Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19126-19916.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19916-large_default/manta-infantil-80x110-nido-de-abeja-menta.jpg",
+      "alt": "Manta infantil 80x110 nido de abeja Menta",
+      "sourceId": "19916",
+      "variantIds": [],
+      "sha256": "6c707ecbd852c0a946d93ade760bef11d6f4dae650902304dfca410d60daabbf"
+    },
+    {
+      "path": "assets/19126-19917.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19917-large_default/manta-infantil-80x110-nido-de-abeja-menta.jpg",
+      "alt": "Manta infantil 80x110 nido de abeja Menta",
+      "sourceId": "19917",
+      "variantIds": [],
+      "sha256": "6326a6f64a29a937fd6f291cd6fd46748a701e12fc07784bf144fb1815427b53"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:56.401Z",
+  "issues": []
+}

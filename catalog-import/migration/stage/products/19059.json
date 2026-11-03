@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "19059",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-altos/19059-calcetin-alto-canale-tamarisco.html",
+  "name": "Calcetin alto canalé Tamarisco",
+  "brand": "Condor",
+  "sku": "2006040",
+  "description": "Calcetína alto básico en canalé con algodón.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\n75% Algodón.\n\n22% poliamida.\n\n3% elastano (Lycra)\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>75% Algodón.</p>\n<p>22% poliamida.</p>\n<p>3% elastano (Lycra)</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Tamarisco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "688",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "688",
+  "sourceCategoryName": "Calcetines altos",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-11-11 15:52:51",
+  "sourceUpdatedAt": "2026-10-26 19:38:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88620",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2006040",
+      "productSku": "2006040",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:43.973Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19059-17589.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17589-large_default/calcetin-alto-canale-tamarisco.jpg",
+      "alt": "Calcetin alto canalé Tamarisco",
+      "sourceId": "17589",
+      "variantIds": [],
+      "sha256": "b0a707138a644f18579aedf9708e7cf8ad6de91af98836f17b6bfe16049f74d4"
+    },
+    {
+      "path": "assets/19059-17590.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17590-large_default/calcetin-alto-canale-tamarisco.jpg",
+      "alt": "Calcetin alto condor canale",
+      "sourceId": "17590",
+      "variantIds": [],
+      "sha256": "8093b4b28c5dd944a900ce59ed0ec6e0370cd37f84244b8ab654980f35cd1e43"
+    },
+    {
+      "path": "assets/19059-17591.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17591-large_default/calcetin-alto-canale-tamarisco.jpg",
+      "alt": "Calcetin alto canalé Tamarisco",
+      "sourceId": "17591",
+      "variantIds": [],
+      "sha256": "62968d446836fb10b98cfe961e260650a5da447b6783926692532d02c6c1ede6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:11:44.151Z",
+  "issues": []
+}

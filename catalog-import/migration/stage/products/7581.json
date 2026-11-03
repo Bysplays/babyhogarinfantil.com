@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "7581",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/7581-pantalon-pitillo-bebe-rojo.html",
+  "name": "Pantalón pitillo BEBE Rojo",
+  "brand": "Babybol",
+  "sku": "1902121",
+  "description": "Pantalón ROJO elástico, con cintura ajustable. Disponible en tallas grandes.",
+  "details": "Pantalón vaquero elástico en color rojo. Con corte pitillo, bolsillos delanteros y traseros, goma ajustable en la cintura, cierre con botón y trabillas para poder usar cinturón. Disponible en color azul marino, y en tallas grandes. Un básico ideal para el verano, fresco y ligero. Echa un vistazo a nuestras camisetas, sudaderas y camisas para completar el look.\n\nComposición:\n\nPantalón: 99% algodón, 1% elastano\n\n \n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nSE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Pantalón vaquero elástico en color rojo. Con corte pitillo, bolsillos delanteros y traseros, goma ajustable en la cintura, cierre con botón y trabillas para poder usar cinturón. Disponible en color azul marino, y en tallas grandes. Un básico ideal para el verano, fresco y ligero. Echa un vistazo a nuestras camisetas, sudaderas y camisas para completar el look.</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Pantalón: 99% algodón, 1% elastano</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"> </p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">SE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 9.48,
+  "oldPrice": 18.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65954",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1902121",
+      "productSku": "1902121",
+      "taxRate": 21,
+      "price": 9.48,
+      "oldPrice": 18.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:52.123Z"
+    },
+    {
+      "id": "65955",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1902121",
+      "productSku": "1902121",
+      "taxRate": 21,
+      "price": 9.48,
+      "oldPrice": 18.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:53.715Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7581-5554.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5554-large_default/pantalon-pitillo-bebe-rojo.jpg",
+      "alt": "Pantalón pitillo BEBE Rojo",
+      "sourceId": "5554",
+      "variantIds": [],
+      "sha256": "0ae0c6b6c7f52ad56fbc371ab144c684889a0f7885d119ce962b5e8ddf998b4c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:53.787Z",
+  "issues": []
+}

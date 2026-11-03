@@ -1,0 +1,7 @@
+{
+    "PS_NB_DAYS_NEW_PRODUCT": {
+        "before": "20",
+        "after": 35,
+        "reason": "Minimum whole-day window matching the nine publicly marked new products while retaining their original dates."
+    }
+}

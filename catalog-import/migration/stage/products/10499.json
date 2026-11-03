@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "id": "10499",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/10499-body-piconela-manga-corta-bcoclest.html",
+  "name": "Body Piconela manga corta Bco/Clest",
+  "brand": "Calamaro",
+  "sku": "1531685",
+  "description": "Body con cuello piquillo.",
+  "details": "Composición y cuidados: \n\nBody: 100% algodón.\n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados: </p>\n<p>Body: 100% algodón.</p>\n<p><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><strong><span lang=\"es\" xml:lang=\"es\">HECHO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Bco/Clest",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-14 09:09:30",
+  "sourceUpdatedAt": "2026-10-27 11:08:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63552",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1585XH2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:51.778Z"
+    },
+    {
+      "id": "144762",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1585XA2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:54.123Z"
+    },
+    {
+      "id": "144763",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1585XB2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:56.193Z"
+    },
+    {
+      "id": "144764",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1585XC2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:59.057Z"
+    },
+    {
+      "id": "144765",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1585XD2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:01.784Z"
+    },
+    {
+      "id": "144766",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1585XE2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:04.082Z"
+    },
+    {
+      "id": "144767",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1585XF2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:07.150Z"
+    },
+    {
+      "id": "144768",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1585XG2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:09.852Z"
+    },
+    {
+      "id": "63553",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "1585XI2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:12.360Z"
+    },
+    {
+      "id": "144769",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "1585XJ2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:14.631Z"
+    },
+    {
+      "id": "144770",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "1585XK2865",
+      "productSku": "1531685",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:17.185Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10499-9593.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9593-large_default/body-piconela-manga-corta-bcoclest.jpg",
+      "alt": "Body Piconela manga corta Bco/Clest",
+      "sourceId": "9593",
+      "variantIds": [],
+      "sha256": "ef70f7c3eef4359aff31ceba92644ef46f60972336bd0420dba9922a861da636"
+    },
+    {
+      "path": "assets/10499-9592.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9592-large_default/body-piconela-manga-corta-bcoclest.jpg",
+      "alt": "Body Piconela manga corta Bco/Clest",
+      "sourceId": "9592",
+      "variantIds": [],
+      "sha256": "78d5d503f3175f72c438ecc38a6d17984f794da931f886ce5d2b76457e753063"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:17.319Z",
+  "issues": []
+}

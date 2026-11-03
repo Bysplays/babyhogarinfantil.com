@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "20404",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/20404-chaleco-con-forro-polar-naranja.html",
+  "name": "Chaleco con forro polar Naranja",
+  "brand": "Zippy",
+  "sku": "2208029",
+  "description": "Sumérgete en la calidez inigualable del Chaleco con forro polar Naranja. Un escudo protector que le brinda a los niños y niñas la comodidad que necesitan mientras exploran el mundo. Con un color naranja vibrante que no solo realza su alegría, sino también su seguridad. Un tejido suave y ligero pero resistente al frío, hace de este chaleco un aliado indispensable para los juegos al aire libre. Permite a tus pequeños lucir a la moda, sentirse cálidos y experimentar la libertad sin restricciones. Ideal para cualquier estación del año. Marca la diferencia con este precioso chaleco naranja.",
+  "details": "Descubra la Calidez del Confort\n\nVístase con el chaleco con forro polar naranja para disfrutar de la calidez sin igual que proporciona su forro suntuosamente suave. El naranja vibrante embellece este chaleco, proyectando una energía juvenil y lúdica. Ideal para actividades al aire libre en los meses más fríos, este chaleco no debe faltar en el guardarropa de su pequeño.\n\nEstilo que Resalta\n\nHecho para impresionar y diseñado para durar, este chaleco naranja presenta un diseño moderno y versátil. El forro polar interno ofrece un confort excepcional, mientras que el exterior vívido, garantiza que su pequeño se destaque entre la multitud. Este chaleco se combina a la perfección tanto con prendas casuales como con ropa deportiva.\n\nRobusto y Fiable\n\nComprometidos con la calidad, este chaleco ha sido confeccionado con materiales duraderos y resistentes. Su resiliencia garantiza que sobreviva a las aventuras al aire libre y el juego de los niños. A la vez, el material fácil de lavar significa que no debe preocuparse por las manchas y suciedad.\n\nEnriquezca el guardarropa de su pequeño con este chaleco con forro polar naranja, la elección perfecta para mantener el frío a raya mientras se mantiene el estilo. ¡No esperes, añádelo a tu carrito ahora!\n\nComposición chaleco:\n\nExterior: 100% poliéster.\n\nRelleno: 100% poliéster.\n\nForro: 100% poliéster.",
+  "sourceDescriptionHtml": "<h2>Descubra la Calidez del Confort</h2>\n<p>Vístase con el chaleco con forro polar naranja para disfrutar de la calidez sin igual que proporciona su forro suntuosamente suave. El naranja vibrante embellece este chaleco, proyectando una energía juvenil y lúdica. Ideal para actividades al aire libre en los meses más fríos, este chaleco no debe faltar en el guardarropa de su pequeño.</p>\n<h2>Estilo que Resalta</h2>\n<p>Hecho para impresionar y diseñado para durar, este chaleco naranja presenta un diseño moderno y versátil. El forro polar interno ofrece un confort excepcional, mientras que el exterior vívido, garantiza que su pequeño se destaque entre la multitud. Este chaleco se combina a la perfección tanto con prendas casuales como con ropa deportiva.</p>\n<h2>Robusto y Fiable</h2>\n<p>Comprometidos con la calidad, este chaleco ha sido confeccionado con materiales duraderos y resistentes. Su resiliencia garantiza que sobreviva a las aventuras al aire libre y el juego de los niños. A la vez, el material fácil de lavar significa que no debe preocuparse por las manchas y suciedad.</p>\n<p>Enriquezca el guardarropa de su pequeño con este chaleco con forro polar naranja, la elección perfecta para mantener el frío a raya mientras se mantiene el estilo. <strong>¡No esperes, añádelo a tu carrito ahora!</strong></p>\n<p>Composición chaleco:</p>\n<p>Exterior: 100% poliéster.</p>\n<p>Relleno: 100% poliéster.</p>\n<p>Forro: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Naranja",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 15.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 19:11:02",
+  "sourceUpdatedAt": "2026-10-27 11:11:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94510",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2208029",
+      "productSku": "2208029",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:26.404Z"
+    },
+    {
+      "id": "94508",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2208029",
+      "productSku": "2208029",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:30.250Z"
+    },
+    {
+      "id": "94509",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2208029",
+      "productSku": "2208029",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:34.192Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20404-19098.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19098-large_default/chaleco-con-forro-polar-naranja.jpg",
+      "alt": "Chaleco con forro polar Naranja",
+      "sourceId": "19098",
+      "variantIds": [],
+      "sha256": "a36dcc6c6924e3df1b44d1194a27e520962f2b17489af2994ac362a8f9622068"
+    },
+    {
+      "path": "assets/20404-19100.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19100-large_default/chaleco-con-forro-polar-naranja.jpg",
+      "alt": "Chaleco con forro polar Naranja",
+      "sourceId": "19100",
+      "variantIds": [],
+      "sha256": "cbc66ae312629262dfaaaeafe33212c7d525bba81326a7b77556620cc6eebe48"
+    },
+    {
+      "path": "assets/20404-19101.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19101-large_default/chaleco-con-forro-polar-naranja.jpg",
+      "alt": "Chaleco con forro polar Naranja",
+      "sourceId": "19101",
+      "variantIds": [],
+      "sha256": "c387f860694f56524745784c3c2dde76eed7233776400ab8c11ef691bbd2a9d4"
+    },
+    {
+      "path": "assets/20404-19099.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19099-large_default/chaleco-con-forro-polar-naranja.jpg",
+      "alt": "Chaleco con forro polar Naranja",
+      "sourceId": "19099",
+      "variantIds": [],
+      "sha256": "6f3160720e392fd75f534f5da01cfa79168c157ccb2f7d13dc976a838615718b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:34.437Z",
+  "issues": []
+}

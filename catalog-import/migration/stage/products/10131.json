@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10131",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/10131-camiseta-live-nino-rojo.html",
+  "name": "Camiseta live niño Rojo",
+  "brand": "Babybol",
+  "sku": "2208248",
+  "description": "Descubre la Camiseta Live Niño en color rojo, perfecta para dar un toque de estilo y personalidad al vestuario de los pequeños. Este diseño combina comodidad y moda de una forma única, proporcionando a los jóvenes la libertad de ser niños mientras lucen fantásticos. Confeccionada con materiales de alta calidad, esta camiseta promete suavidad y durabilidad, asegurando un uso prolongado sin desgaste. Además, su vibrante color rojo añade un factor \"wow\" que realza el atractivo general. ¡Añade color y estilo al guardarropa de tu niño con la Camiseta Live Niño Rojo!",
+  "details": "Color y Comodidad Insuperable\n\nEsta espléndida Camiseta Live Niño Rojo es todo acerca del confort y estilo, diseñada especialmente para los niños más activos y aventureros. El rojo vibrante de la camiseta asegura que tu pequeño estará siempre radiante y visible, mientras que su suavidad al tacto asegura un confort inigualable. Es la camiseta perfecta para un día de juegos o una excursión familiar.\n\n\nTodo el día, en cualquier estación\n\nConfeccionada con una combinación de materiales de alta calidad, esta Camiseta Live Niño Rojo ofrece una comodidad excepcional sin comprometer la durabilidad. Además, es ligera y transpirable, lo que la hace perfecta para cualquier estación del año. Tanto si salen a jugar en un caluroso día de verano como si se abrigan para un paseo otoñal, esta camiseta es la opción ideal para mantener a tu pequeño cómodo y elegante.\n\n\nA la moda y versátil\n\nLa Camiseta Live Niño Rojo no sólo es incredibly cómoda y resistente, sino también tremendamente versátil. Su vibrante tono rojo puede complementar perfectamente cualquier conjunto, brindando un toque de vitalidad y diversión. Puede ser combinada con jeans para un look casual o con unos pantalones chinos para un look más elegante. Esta camiseta es la adición perfecta a la colección de modas de cualquier niño.\n\n \nNo dudes en darle a tu hijo el confort y estilo que merece. Haz clic en ‘Añadir al carrito’ ahora mismo!",
+  "sourceDescriptionHtml": "<h2>Color y Comodidad Insuperable</h2>\n<p>Esta espléndida <strong>Camiseta Live Niño Rojo</strong> es todo acerca del confort y estilo, diseñada especialmente para los niños más activos y aventureros. El rojo vibrante de la camiseta asegura que tu pequeño estará siempre radiante y visible, mientras que su suavidad al tacto asegura un confort inigualable. Es la camiseta perfecta para un día de juegos o una excursión familiar.</p>\n\n<h2>Todo el día, en cualquier estación</h2>\n<p>Confeccionada con una combinación de materiales de alta calidad, esta <strong>Camiseta Live Niño Rojo</strong> ofrece una comodidad excepcional sin comprometer la durabilidad. Además, es ligera y transpirable, lo que la hace perfecta para cualquier estación del año. Tanto si salen a jugar en un caluroso día de verano como si se abrigan para un paseo otoñal, esta camiseta es la opción ideal para mantener a tu pequeño cómodo y elegante.</p>\n\n<h2>A la moda y versátil</h2>\n<p>La <strong>Camiseta Live Niño Rojo</strong> no sólo es incredibly cómoda y resistente, sino también tremendamente versátil. Su vibrante tono rojo puede complementar perfectamente cualquier conjunto, brindando un toque de vitalidad y diversión. Puede ser combinada con jeans para un look casual o con unos pantalones chinos para un look más elegante. Esta camiseta es la adición perfecta a la colección de modas de cualquier niño.</p>\n \n<p>No dudes en darle a tu hijo el confort y estilo que merece. Haz clic en ‘Añadir al carrito’ ahora mismo!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 13.01,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:58",
+  "sourceUpdatedAt": "2026-10-27 11:12:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70977",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2208248",
+      "productSku": "2208248",
+      "taxRate": 21,
+      "price": 13.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:34.184Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10131-8143.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8143-large_default/camiseta-live-nino-rojo.jpg",
+      "alt": "Camiseta live niño Rojo",
+      "sourceId": "8143",
+      "variantIds": [],
+      "sha256": "98aba16bd91e183ee88951539d5278f8090c8b9c2316520fadc606194b84c595"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:34.262Z",
+  "issues": []
+}

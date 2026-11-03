@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "16356",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-cortos-lisos/16356-calcetin-tobillero-en-algodon-lino.html",
+  "name": "Calcetín tobillero en algodón Lino",
+  "brand": "Condor",
+  "sku": "2304068",
+  "description": "Calcetín tobillero de algodón elástico, fino y cómodo.",
+  "details": "Composición: 97% algodón, 3% elastano.\n\nNO USAR SECADORA\n\nNO PLANCHAR\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición: 97% algodón, 3% elastano.</p>\n<p>NO USAR SECADORA</p>\n<p>NO PLANCHAR</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "687",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "687",
+  "sourceCategoryName": "Calcetines cortos lisos",
+  "price": 6.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-06-15 23:52:44",
+  "sourceUpdatedAt": "2026-10-27 11:12:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 10,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "91510",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2304068",
+      "productSku": "2304068",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:31.446Z"
+    },
+    {
+      "id": "100613",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2304068",
+      "productSku": "2304068",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:34.203Z"
+    },
+    {
+      "id": "100614",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2304068",
+      "productSku": "2304068",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:36.876Z"
+    },
+    {
+      "id": "91513",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2304068",
+      "productSku": "2304068",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:39.890Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16356-14123.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14123-large_default/calcetin-tobillero-en-algodon-lino.jpg",
+      "alt": "Calcetín tobillero en algodón Lino",
+      "sourceId": "14123",
+      "variantIds": [],
+      "sha256": "1df45f73f22e8fb6e776ce53c61a9db32147dee54b98c6d395a262009da3be29"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:39.957Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10412",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/10412-conjunto-nino-cinturon-beige.html",
+  "name": "Conjunto niño cinturon Beige",
+  "brand": "Baby-Ferr",
+  "sku": "2301178",
+  "description": "¡Viste a tu pequeño caballero con estilo y confort con el Conjunto Niño Cinturón Beige! Este elegante conjunto no es sólo ropa, es una declaración de estilo. Confeccionado con fibra de alta calidad, garantiza una comodidad excepcional, manteniendo a los niños frescos y felices todo el día. El cinturón complementario agrega un toque de sofisticación y asegura un ajuste perfecto. Este es el vestuario perfecto para momentos especiales o simplemente para lucir genial en un día cualquiera. Transforma la vestimenta de tu niño en un estilo que habla de elegancia y comodidad. No te pierdas la oportunidad de mimar a tu pequeño con esta ropa de primera de clase, ¡Cómpralo ya!",
+  "details": "Comodidad y estilo\n\nEste Conjunto niño cinturón Beige combina la última tendencia con la comodidad sin sacrificio. Hecho con materiales de alta calidad, promete suavidad al tacto y durabilidad. Es el aliado perfecto para cualquier actividad, permitiendo la máxima libertad de movimiento.\n\nElegancia en cualquier ocasión\n\nCon una delicada combinación de colores y un diseño atemporal, este conjunto es apto para cualquier evento. Le dará a su hijo esa elegancia y porte que lo harán sentir seguro y a la vanguardia. Ideal para eventos formales o reuniones casuales.\n\nAccesorio funcional\n\nEl cinturón beige que acompaña al conjunto agrega ese toque final pero funcional. Asegura un ajuste perfecto que puede personalizarse para garantizar máximo confort. Además, su tono neutral complementa el conjunto y cualquier otro atuendo.\n\nOfreciendo una combinación de comodidad, estilo y funcionalidad, este Conjunto niño cinturón Beige es la solución perfecta para crear hermosos recuerdos con su hijo. ¿Por qué esperar? Haga clic para añadir al carrito y acomodarlo en su armario. ¡Enamórate del estilo y la comodidad como nunca antes!\n\nComposición:\n\nCamisa: 67% poliéster, 33% algodón.\n\nPantalón: 100% algodoón.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<h2>Comodidad y estilo</h2>\n<p>Este Conjunto niño cinturón Beige combina la última tendencia con la comodidad sin sacrificio. Hecho con materiales de alta calidad, promete suavidad al tacto y durabilidad. Es el aliado perfecto para cualquier actividad, permitiendo la máxima libertad de movimiento.</p>\n<h2>Elegancia en cualquier ocasión</h2>\n<p>Con una delicada combinación de colores y un diseño atemporal, este conjunto es apto para cualquier evento. Le dará a su hijo esa elegancia y porte que lo harán sentir seguro y a la vanguardia. Ideal para eventos formales o reuniones casuales.</p>\n<h2>Accesorio funcional</h2>\n<p>El cinturón beige que acompaña al conjunto agrega ese toque final pero funcional. Asegura un ajuste perfecto que puede personalizarse para garantizar máximo confort. Además, su tono neutral complementa el conjunto y cualquier otro atuendo.</p>\n<p>Ofreciendo una combinación de comodidad, estilo y funcionalidad, este Conjunto niño cinturón Beige es la solución perfecta para crear hermosos recuerdos con su hijo. ¿Por qué esperar? Haga clic para añadir al carrito y acomodarlo en su armario. ¡Enamórate del estilo y la comodidad como nunca antes!</p>\n<p>Composición:</p>\n<p>Camisa: 67% poliéster, 33% algodón.</p>\n<p>Pantalón: 100% algodoón.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 36.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71944",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2301178",
+      "productSku": "2301178",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:18.498Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10412-13725.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13725-large_default/conjunto-nino-cinturon-beige.jpg",
+      "alt": "Conjunto niño cinturon Beige",
+      "sourceId": "13725",
+      "variantIds": [],
+      "sha256": "47fb20c6adbed3b5229d40e938cb43d6f762bc781ff42ef96351835dbae995f4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:18.542Z",
+  "issues": []
+}

@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "6588",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/6588-calcetin-ceremonia-corto-puno-labrado-v-cava.html",
+  "name": "Calcetín ceremonia corto puño labrado V Cava",
+  "brand": "Condor",
+  "sku": "1602101",
+  "description": "Calcetín corto de hilo con bolillo calado, ideal para ceremonia.",
+  "details": "Calcetines de C&Oacute;NDOR, una de nuestras firmas favoritas! Modelo corto, de hilo. Detalles de pu&ntilde;o con puntilla, ideal para ceremonia. Disponibles en varios colores. Un complemento elegante y delicado, de tacto suave y transpirable, perfecto para combinar con vestidos o conjuntos en ocasiones especiales! Echa un ojito a nuestro calzado y podr&aacute;s combinarlos como m&aacute;s te gusten!\n\r\nComposici&oacute;n y cuidados:\n\r\nCalcet&iacute;n: 70% algod&oacute;n, 30% poliamida\n\r\nLAVAR A M&Aacute;QUINA (M&Aacute;XIMO 30 &ordm;C)\n\r\nNO USAR LEJ&Iacute;AS\n\r\nNO USAR SECADORA\n\r\nNO PLANCHAR\n\r\n \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">Calcetines de&nbsp;<strong>C&Oacute;NDOR</strong>, una de nuestras firmas favoritas! Modelo corto, de hilo. Detalles de pu&ntilde;o con puntilla, ideal para ceremonia. Disponibles en varios colores. Un complemento elegante y delicado, de tacto suave y transpirable, perfecto para combinar con vestidos o conjuntos en ocasiones especiales! Echa un ojito a nuestro&nbsp;<strong>calzado</strong>&nbsp;y podr&aacute;s combinarlos como m&aacute;s te gusten!</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">Composici&oacute;n y cuidados:</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">Calcet&iacute;n: 70% algod&oacute;n, 30% poliamida</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">LAVAR A M&Aacute;QUINA (M&Aacute;XIMO 30 &ordm;C)</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">NO USAR LEJ&Iacute;AS</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">NO USAR SECADORA</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">NO PLANCHAR</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">&nbsp;</span></p>\r\n<p><strong><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">FABRICADO EN ESPA&Ntilde;A</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cava",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-27 11:09:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 19,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63855",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:40.054Z"
+    },
+    {
+      "id": "83318",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:43.205Z"
+    },
+    {
+      "id": "100601",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 5.9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:45.669Z"
+    },
+    {
+      "id": "83320",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:48.297Z"
+    },
+    {
+      "id": "100602",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:52.109Z"
+    },
+    {
+      "id": "63858",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:56.234Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6588-4538.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4538-large_default/calcetin-ceremonia-corto-puno-labrado-v-cava.jpg",
+      "alt": "Calcetín ceremonia corto puño labrado V Cava",
+      "sourceId": "4538",
+      "variantIds": [],
+      "sha256": "efc8dab7d8ddd2840527f3b76cc2271993459a373755961292dc795d382e5710"
+    },
+    {
+      "path": "assets/6588-9657.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9657-large_default/calcetin-ceremonia-corto-puno-labrado-v-cava.jpg",
+      "alt": "Calcetín ceremonia corto puño labrado V Cava",
+      "sourceId": "9657",
+      "variantIds": [],
+      "sha256": "efc8dab7d8ddd2840527f3b76cc2271993459a373755961292dc795d382e5710"
+    },
+    {
+      "path": "assets/6588-4537.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4537-large_default/calcetin-ceremonia-corto-puno-labrado-v-cava.jpg",
+      "alt": "Calcetín ceremonia corto puño labrado V Cava",
+      "sourceId": "4537",
+      "variantIds": [],
+      "sha256": "957861882bc742804c5275a74c76f49ad156b937608234f5392a451d950f0ea3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:56.434Z",
+  "issues": []
+}

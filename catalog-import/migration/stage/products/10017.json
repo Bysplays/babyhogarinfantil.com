@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10017",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/10017-pijama-largo-algodon-crudo.html",
+  "name": "Pijama largo algodon Crudo",
+  "brand": "Mayoral",
+  "sku": "2208148",
+  "description": "Ilumina las noches frías con el Pijama largo algodón Crudo, perfecto para tus pequeños aventureros. Hecho de algodón suave, garantiza un sueño cálido y reparador. Su diseño temático emociona los sueños mientras mantiene a su bebé cómodo, causando una sensación de acurrucarse en nubes dulces. Con este pijama, no solo se brinda calidez, sino que se hace sentir a los niños amados y valorados. Regálate la tranquilidad de una noche de sueño tranquila. Elige Pijama largo algodón Crudo, elijas el amor.",
+  "details": "Conexión Íntima de Comodidad y Calidad\n\n Nuestro pijama largo de algodón crudo es la perfecta fusión de confort y calidad que le garantiza a su niño un descanso óptimo. Este pijama, fabricado con los más finos hilos de algodón, ofrece un tacto suave y acogedor, haciendo que cada noche sea una exclusiva invitación a soñar bajo las estrellas.\n\n\n Nunca Sacrifique Estilo por Comodidad\n\n La elegancia no tiene por qué estar en desacuerdo con la comodidad y nuestro pijama largo de algodón crudo es la prueba. Este pijama, diseñado con colores suaves y neutros, tiene un toque clásico pero contemporáneo que se convierte en la elección ideal para cualquier noche y cualquier estación del año. Convierta cada sueño de su hijo en una absoluta fiesta de estilo y sofisticación.\n\n\n Creando Noches de Ensueño\n\n Prepara a tu niño para una noche tranquila y llena de sueños llenos de maravillas con nuestro pijama largo de algodón crudo. El suave tejido de algodón permite una transpiración óptima, manteniendo a su hijo fresco en verano y cálido en invierno. Esta prenda es, en esencia, una caricia nocturna que alimenta el descanso del pequeño.\n\n\n Piensa en su comodidad, piensa en su sueño, piensa en su estilo. Dale a tu hijo la mejor noche de descanso con nuestro pijama largo de algodón crudo. ¡Haz click aquí y añádelo a tu carrito de compras ahora!",
+  "sourceDescriptionHtml": "<div>\n <h2>Conexión Íntima de Comodidad y Calidad</h2>\n <p>Nuestro pijama largo de algodón crudo es la perfecta fusión de confort y calidad que le garantiza a su niño un descanso óptimo. Este pijama, fabricado con los más finos hilos de algodón, ofrece un tacto suave y acogedor, haciendo que cada noche sea una exclusiva invitación a soñar bajo las estrellas.</p>\n\n <h2>Nunca Sacrifique Estilo por Comodidad</h2>\n <p>La elegancia no tiene por qué estar en desacuerdo con la comodidad y nuestro pijama largo de algodón crudo es la prueba. Este pijama, diseñado con colores suaves y neutros, tiene un toque clásico pero contemporáneo que se convierte en la elección ideal para cualquier noche y cualquier estación del año. Convierta cada sueño de su hijo en una absoluta fiesta de estilo y sofisticación.</p>\n\n <h2>Creando Noches de Ensueño</h2>\n <p>Prepara a tu niño para una noche tranquila y llena de sueños llenos de maravillas con nuestro pijama largo de algodón crudo. El suave tejido de algodón permite una transpiración óptima, manteniendo a su hijo fresco en verano y cálido en invierno. Esta prenda es, en esencia, una caricia nocturna que alimenta el descanso del pequeño.</p>\n\n <p style=\"font-weight:bold;\">Piensa en su comodidad, piensa en su sueño, piensa en su estilo. Dale a tu hijo la mejor noche de descanso con nuestro pijama largo de algodón crudo. ¡Haz click aquí y añádelo a tu carrito de compras ahora!</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 20.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:56",
+  "sourceUpdatedAt": "2026-10-27 11:12:02",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "339",
+          "label": "1-2m"
+        },
+        {
+          "id": "342",
+          "label": "6-9m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70704",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "339",
+          "group": "Tamaño",
+          "value": "1-2m"
+        }
+      ],
+      "sku": "2208148",
+      "productSku": "2208148",
+      "taxRate": 21,
+      "price": 20.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:16.276Z"
+    },
+    {
+      "id": "70707",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2208148",
+      "productSku": "2208148",
+      "taxRate": 21,
+      "price": 20.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:17.825Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10017-13164.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13164-large_default/pijama-largo-algodon-crudo.jpg",
+      "alt": "Pijama largo algodon Crudo",
+      "sourceId": "13164",
+      "variantIds": [],
+      "sha256": "81cd4c1ac9e8321e6570f8fc3c242652393891efd07f2b8f29f8b452bdad8c4f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:17.897Z",
+  "issues": []
+}

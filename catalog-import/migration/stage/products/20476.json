@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "id": "20476",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/20476-chaleco-contrastes-borrego-nina-topo.html",
+  "name": "Chaleco contrastes borrego niña Topo",
+  "brand": "Mayoral",
+  "sku": "2502048",
+  "description": "Chaleco hehco con poliéster reciclado.",
+  "details": "COMPOSICIÓN\n\nChaleco:\n\nExterior\n\n100% Poliéster\n\nForro\n\n100% Poliéster\n\nRelleno\n\n100% Poliéster",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Chaleco:</strong></p>\n<p>Exterior</p>\n<p>100% Poliéster</p>\n<p>Forro</p>\n<p>100% Poliéster</p>\n<p>Relleno</p>\n<p>100% Poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Topo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 37.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94837",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502048",
+      "productSku": "2502048",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:17.033Z"
+    },
+    {
+      "id": "94839",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502048",
+      "productSku": "2502048",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:18.978Z"
+    },
+    {
+      "id": "94840",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502048",
+      "productSku": "2502048",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:21.462Z"
+    },
+    {
+      "id": "94841",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502048",
+      "productSku": "2502048",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:23.531Z"
+    },
+    {
+      "id": "94842",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502048",
+      "productSku": "2502048",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:25.646Z"
+    },
+    {
+      "id": "94843",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502048",
+      "productSku": "2502048",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:28.168Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20476-19817.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19817-large_default/chaleco-contrastes-borrego-nina-topo.jpg",
+      "alt": "Chaleco contrastes borrego niña Topo",
+      "sourceId": "19817",
+      "variantIds": [],
+      "sha256": "e7c762b1fd7f2365d502e0c8f4f32c01a812298099ce45969dcdb4322388b36e"
+    },
+    {
+      "path": "assets/20476-19818.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19818-large_default/chaleco-contrastes-borrego-nina-topo.jpg",
+      "alt": "Chaleco contrastes borrego niña Topo",
+      "sourceId": "19818",
+      "variantIds": [],
+      "sha256": "11ffddaaac1214cadb2b8ed956fd51a307ed2617e48f82d05ca4ac8f54c3d8ef"
+    },
+    {
+      "path": "assets/20476-19819.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19819-large_default/chaleco-contrastes-borrego-nina-topo.jpg",
+      "alt": "Chaleco contrastes borrego niña Topo",
+      "sourceId": "19819",
+      "variantIds": [],
+      "sha256": "61b16f88a849d2d2959e15c8dad41974daec22325b8c53c1db55e6e80408fa4d"
+    },
+    {
+      "path": "assets/20476-19820.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19820-large_default/chaleco-contrastes-borrego-nina-topo.jpg",
+      "alt": "Chaleco contrastes borrego niña Topo",
+      "sourceId": "19820",
+      "variantIds": [],
+      "sha256": "e4baeaf1b69cc574c93599ca6c7e0d40b18590a49e8bd5be1c7ff954f3585568"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:28.426Z",
+  "issues": []
+}

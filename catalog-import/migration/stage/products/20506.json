@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "20506",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/20506-pelele-pijama-entero-crudo.html",
+  "name": "Pelele pijama entero Crudo",
+  "brand": "Babybol",
+  "sku": "2502075",
+  "description": "",
+  "details": "Composición: \n\n 100% Algodón.\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p> 100% Algodón.</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 19,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95019",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502075",
+      "productSku": "2502075",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:39.959Z"
+    },
+    {
+      "id": "95021",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502075",
+      "productSku": "2502075",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:42.253Z"
+    },
+    {
+      "id": "95022",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502075",
+      "productSku": "2502075",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:43.812Z"
+    },
+    {
+      "id": "95023",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502075",
+      "productSku": "2502075",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:45.309Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20506-19292.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19292-large_default/pelele-pijama-entero-crudo.jpg",
+      "alt": "Pelele pijama entero Crudo",
+      "sourceId": "19292",
+      "variantIds": [],
+      "sha256": "fd9624a5764129d61a5f27d0929ba8ebe3ac8c09a69fce61741735308fccd045"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:45.382Z",
+  "issues": []
+}

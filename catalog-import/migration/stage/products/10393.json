@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "10393",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas-bebe-nino/10393-parka-bebe-nino-patinetes-marino.html",
+  "name": "Parka bebé niño patinetes Marino",
+  "brand": "Chicco",
+  "sku": "2301142",
+  "description": "Prepárate para un invierno lleno de diversión y estilo con el Parka Bebé Niño Patinetes Marino. Fabricado con los más altos estándares de calidad, este parka mantendrá a tu pequeño cálido y seco durante las estaciones más frías. Los adorables patinetes estampados le dan un toque moderno y divertido. No importa si el próximo destino es una emocionante aventura de invierno en el parque o una reunión familiar, este parka es la elección perfecta para cualquier ocasión. ¿Quieres lo mejor para tu niño? Elige este parka que combina comodidad y sofisticación en una pieza única que hará que tu hijo resalte. ¡No esperes más! Compra ya este impresionante parka y haz que tu pequeño se vea encantador y a la moda en todo momento.",
+  "details": "Calidez y Confort Inmejorable\n\nExperimenta lo último en confort y calidez con el Parka Bebé Niño Patinetes Marino. Diseñada con un material de la más alta calidad, esta parka no sólo protegerá a tu pequeño del frío, sino que también le dará un estilo único y moderno. Desde los patinetes hasta la escuela, esta prenda es perfecta para todas las aventuras de invierno al aire libre.\n\nEstilo Único Para Los Más Pequeños\n\nDistingue a tu pequeño con un estilo inigualable. El Parka Bebé Niño Patinetes Marino presenta un diseño moderno y atractivo con detalles de patinetes que seguro encantará a los más pequeños. Este abrigo no sólo garantiza mantenerse abrigado, sino que también proporciona un look a la última. Perfecto para esos días de diversión invernal.\n\nCalidad Que Puedes Confiar\n\nCon el Parka Bebé Niño Patinetes Marino puedes estar seguro de que estás invirtiendo en una prenda de alta calidad que durará muchos inviernos. La atenta confección y los materiales duraderos garantizan que este abrigo pueda soportar toda la diversión y juegos que tu pequeño puede lanzarle. Ofreciendo una protección excepcional contra el frío, es un imprescindible en el armario de invierno de tu pequeño.\n\n¡No esperes más! Añade el Parka Bebé Niño Patinetes Marino a tu cesta de compra hoy mismo y asegúrate de que tu pequeño esté listo para enfrentar el invierno con estilo y confort!",
+  "sourceDescriptionHtml": "<div>\n<h2>Calidez y Confort Inmejorable</h2>\n<p>Experimenta lo último en confort y calidez con el Parka Bebé Niño Patinetes Marino. Diseñada con un material de la más alta calidad, esta parka no sólo protegerá a tu pequeño del frío, sino que también le dará un estilo único y moderno. Desde los patinetes hasta la escuela, esta prenda es perfecta para todas las aventuras de invierno al aire libre.</p>\n<h2>Estilo Único Para Los Más Pequeños</h2>\n<p>Distingue a tu pequeño con un estilo inigualable. El Parka Bebé Niño Patinetes Marino presenta un diseño moderno y atractivo con detalles de patinetes que seguro encantará a los más pequeños. Este abrigo no sólo garantiza mantenerse abrigado, sino que también proporciona un look a la última. Perfecto para esos días de diversión invernal.</p>\n<h2>Calidad Que Puedes Confiar</h2>\n<p>Con el Parka Bebé Niño Patinetes Marino puedes estar seguro de que estás invirtiendo en una prenda de alta calidad que durará muchos inviernos. La atenta confección y los materiales duraderos garantizan que este abrigo pueda soportar toda la diversión y juegos que tu pequeño puede lanzarle. Ofreciendo una protección excepcional contra el frío, es un imprescindible en el armario de invierno de tu pequeño.</p>\n<p style=\"text-align:center;\"><em>¡No esperes más! Añade el Parka Bebé Niño Patinetes Marino a tu cesta de compra hoy mismo y asegúrate de que tu pequeño esté listo para enfrentar el invierno con estilo y confort!</em></p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "724"
+  ],
+  "sourceDefaultCategoryId": "724",
+  "sourceCategoryName": "Cazadoras y parkas bebé niño",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71856",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301142",
+      "productSku": "2301142",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:47.978Z"
+    },
+    {
+      "id": "71857",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301142",
+      "productSku": "2301142",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:49.470Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10393-8855.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8855-large_default/parka-bebe-nino-patinetes-marino.jpg",
+      "alt": "Parka bebé niño patinetes Marino",
+      "sourceId": "8855",
+      "variantIds": [],
+      "sha256": "ed25ba6b7c4a2ce0177f6cf61c30663d583efb55d635a762c26f3b770e6f65e9"
+    },
+    {
+      "path": "assets/10393-8856.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8856-large_default/parka-bebe-nino-patinetes-marino.jpg",
+      "alt": "Parka bebé niño patinetes Marino",
+      "sourceId": "8856",
+      "variantIds": [],
+      "sha256": "553d457791fbe3626a89cd0f2c05dee440efe01aead52e0fc1ca7a9cfded9ed9"
+    },
+    {
+      "path": "assets/10393-8857.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8857-large_default/parka-bebe-nino-patinetes-marino.jpg",
+      "alt": "Parka bebé niño patinetes Marino",
+      "sourceId": "8857",
+      "variantIds": [],
+      "sha256": "f2300eb1e74ea4d1ff622d3b232ad855da06e90b4c958469b7ef57c8cb42d885"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:49.693Z",
+  "issues": []
+}

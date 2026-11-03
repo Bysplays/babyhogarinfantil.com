@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8307",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8307-lazo-mediano-con-coletero-crudo.html",
+  "name": "Lazo mediano con coletero Crudo",
+  "brand": "Siena",
+  "sku": "2007017",
+  "description": "Lazo grosgrain de 8 x 8 cm. aproximadamnete sobre clip pico-pato de 5,5 cm. aprox.\n\nHECHO EN ESPAÑA.\n\nHECHO A MANO.",
+  "details": "Un Adorno Infaltable\n\nEl Lazo Mediano con Coletero Crudo es un elemento imprescindible en el guardarropa de tu pequeña princesa. Esta elegante pieza hecha a mano, en un tono neutro y sutil, es el detalle perfecto para realzar cualquier atuendo, ya sea casual o formal. Este lazo está construido con materiales de alta calidad, garantizando durabilidad y un confort sin igual para su pequeña.\n\n\nIdeal Para Cualquier Ocasión\n\nNo hay nada más encantador que un lazo en el cabello de una niña. Nuestro Lazo Mediano con Coletero Crudo, elegante y versátil, es el complemento perfecto para cualquier ocasión, ya sea una celebración especial, una simple salida al parque, o un día común en el colegio. Su discreto tono crudo combina con prácticamente cualquier atuendo, ofreciendo una apariencia coqueta y pulida en todo momento.\n\n\nHechos Con Amor\n \nCada Lazo Mediano con Coletero Crudo está hecho a mano con dedicación, cuidado, y amor, garantizando no sólo su resistencia y durabilidad, sino también su suavidad y comodidad en la cabecita de tu pequeña. El lazo está unido a un coletero elástico resistente, ideal para manejar incluso los cabellos más gruesos y rebeldes.\n\n\n¡Agrega este imprescindible Lazo Mediano con Coletero Crudo a tu carrito de compras ahora y dale un toque extra de elegancia a los looks de tu pequeña!",
+  "sourceDescriptionHtml": "<p><b>Un Adorno Infaltable</b><br>\nEl Lazo Mediano con Coletero Crudo es un elemento imprescindible en el guardarropa de tu pequeña princesa. Esta elegante pieza hecha a mano, en un tono neutro y sutil, es el detalle perfecto para realzar cualquier atuendo, ya sea casual o formal. Este lazo está construido con materiales de alta calidad, garantizando durabilidad y un confort sin igual para su pequeña.</p>\n\n<p><b>Ideal Para Cualquier Ocasión</b><br>\nNo hay nada más encantador que un lazo en el cabello de una niña. Nuestro Lazo Mediano con Coletero Crudo, elegante y versátil, es el complemento perfecto para cualquier ocasión, ya sea una celebración especial, una simple salida al parque, o un día común en el colegio. Su discreto tono crudo combina con prácticamente cualquier atuendo, ofreciendo una apariencia coqueta y pulida en todo momento.</p>\n\n<p><b>Hechos Con Amor</b><br> \nCada Lazo Mediano con Coletero Crudo está hecho a mano con dedicación, cuidado, y amor, garantizando no sólo su resistencia y durabilidad, sino también su suavidad y comodidad en la cabecita de tu pequeña. El lazo está unido a un coletero elástico resistente, ideal para manejar incluso los cabellos más gruesos y rebeldes.</p>\n\n<p><i>¡Agrega este imprescindible Lazo Mediano con Coletero Crudo a tu carrito de compras ahora y dale un toque extra de elegancia a los looks de tu pequeña!</i></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67322",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8049XA15871",
+      "productSku": "2007017",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:34.954Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8307-6589.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6589-large_default/lazo-mediano-con-coletero-crudo.jpg",
+      "alt": "Lazo mediano con coletero Crudo",
+      "sourceId": "6589",
+      "variantIds": [],
+      "sha256": "91294f04a2137cf1e3330ba9454bd1ebe3c5aca626b4d19e4194b70db4cebf87"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:35.040Z",
+  "issues": []
+}

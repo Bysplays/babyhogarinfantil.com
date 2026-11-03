@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7683",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/7683-alpargata-bebe-vaquera-azul.html",
+  "name": "Alpargata bebé vaquera Azul",
+  "brand": "Chicco",
+  "sku": "1903037",
+  "description": "Descubre la Alpargata bebé vaquera Azul, el calzado perfecto para los pequeños exploradores del mundo. Impregnado de un dulce encanto, este diseño vaquero azul conjuga comodidad y estilo. Su suave y blando material garantiza seguimiento perfecto al movimiento del pie, mientras que su diseño vibrante despierta admiración. ¿Listo para la aventura? ¡Que no te pare nada con estas Alpargatas! Producto primordial para un guardarropa moderno y funcional de un niño.",
+  "details": "Un diseño único para los más pequeños\n\nRegala a tu pequeña joya un toque travieso y fresco con las Alpargatas de Bebé Vaqueras Azules. Están diseñadas con un hermoso color azul jean que you will adelanta las últimas tendencias de moda en calzado para bebés. Con su diseño elegante, estas alpargatas son un complemento perfecto para cualquier outfit de tu bebé.\n\n\nConfort que dura todo el día\n\nLa comodidad toca sus pies pequeños con nuestras Alpargatas de Bebé Vaqueras Azul. Están acolchadas con suaves materiales que garantizan el confort del pie durante todas sus actividades diarias. Ofrecen suficiente espacio para los pies en crecimiento, garantizando una transpiración y una temperatura agradables.\n\n\nHecho con materiales de alta calidad\n\nEl compromiso de proveer la mejor calidad se refleja en nuestras Alpargatas Vaqueras de Bebé Azul. Confeccionadas con material resistente y robusto, garantiza una larga durabilidad y resistencia a raspaduras o desgastes usuales. Su excelente acabado y detalles finos destacan su auténtica construcción vaquera.\n\n\nProporciona a tu bebé la ternura y el estilo que se merece con nuestras Alpargatas de Bebé Vaqueras Azul. Haz clic en “Agregar al Carro” ¡y embellece los adorables pies de tu bebé con estas Alpargatas!",
+  "sourceDescriptionHtml": "<h2>Un diseño único para los más pequeños</h2>\n<p>Regala a tu pequeña joya un toque travieso y fresco con las Alpargatas de Bebé Vaqueras Azules. Están diseñadas con un hermoso color azul jean que you will adelanta las últimas tendencias de moda en calzado para bebés. Con su diseño elegante, estas alpargatas son un complemento perfecto para cualquier outfit de tu bebé.</p>\n\n<h2>Confort que dura todo el día</h2>\n<p>La comodidad toca sus pies pequeños con nuestras Alpargatas de Bebé Vaqueras Azul. Están acolchadas con suaves materiales que garantizan el confort del pie durante todas sus actividades diarias. Ofrecen suficiente espacio para los pies en crecimiento, garantizando una transpiración y una temperatura agradables.</p>\n\n<h2>Hecho con materiales de alta calidad</h2>\n<p>El compromiso de proveer la mejor calidad se refleja en nuestras Alpargatas Vaqueras de Bebé Azul. Confeccionadas con material resistente y robusto, garantiza una larga durabilidad y resistencia a raspaduras o desgastes usuales. Su excelente acabado y detalles finos destacan su auténtica construcción vaquera.</p>\n\n<p>Proporciona a tu bebé la ternura y el estilo que se merece con nuestras Alpargatas de Bebé Vaqueras Azul. Haz clic en “Agregar al Carro” ¡y embellece los adorables pies de tu bebé con estas Alpargatas!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 24.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "256",
+          "label": "15"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66144",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "1903037",
+      "productSku": "1903037",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:52.023Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7683-5696.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5696-large_default/alpargata-bebe-vaquera-azul.jpg",
+      "alt": "Alpargata bebé vaquera Azul",
+      "sourceId": "5696",
+      "variantIds": [],
+      "sha256": "d796b82e473f676e1bc2ff4d65d55bc319ea42303464805bdb1e40517be80bc3"
+    },
+    {
+      "path": "assets/7683-5695.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5695-large_default/alpargata-bebe-vaquera-azul.jpg",
+      "alt": "Alpargata bebé vaquera Azul",
+      "sourceId": "5695",
+      "variantIds": [],
+      "sha256": "a7f8ce6faa35b371623cfe4dad06aef82e680bba24bce4e9797e440169e78802"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:52.164Z",
+  "issues": []
+}

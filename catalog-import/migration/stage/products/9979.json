@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9979",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/9979-pijama-largo-algodon-nino-azul-marino.html",
+  "name": "Pijama largo algodon niño Azul Marino",
+  "brand": "Babybol",
+  "sku": "2208110",
+  "description": "Fantástico pijama largo de algodón para niños en clásico azul marino. Un sinónimo de comodidad y calor para esos fríos días de invierno. Una elección perfecta para un dulce sueño para tus pequeños héroes del día a día. Fabricado con amor y precisión, es la prenda ideal para que sientan la ternura incluso mientras duermen. ¡Mima a tus niños con lo mejor, haz que sus noches sean tan especiales como ellos!",
+  "details": "Elegancia Nocturna\n\nPrepara al pequeño para una noche de sueños dulces con estos maravillosos pijamas largos de algodón en un elegante azul marino. Son ideales para garantizar el máximo confort nocturno. La suave tela de algodón es tierna al tacto y mantiene al niño cómodamente abrigado durante toda la noche.\n\nSuave como una Nube\n\nEl pijama está confeccionado con algodón de alta calidad, lo que le confiere suavidad y ligereza para garantizar noches de sueño tranquilo. Tu pequeño se sentirá cómodo y relajado todo el tiempo, ya que su piel podrá respirar libremente. Ideal para uso durante todo el año gracias a su maravilloso tacto y confort incomparable.\n\nDiseño Atractivo\n\nCon un diseño adorable y un cómodo cierre, este pijama largo de algodón es fácil de poner y quitar. Con su color de azul marino, este pijama aporta un toque de elegancia, haciéndolo lucir aún más adorable. Adicionalmente, su diseño proporciona facilidad de movimiento permitiendo que jueguen y se muevan libremente incluso en la cama.\n\nNo pierdas la oportunidad de proporcionar a tu pequeño la comodidad y elegancia con estos pijamas largos de algodon. Ház clic en \\'Añadir al Carrito\\' ahora mismo!\n\n\n\nComposición:\n\nPijama: 100% algodón.",
+  "sourceDescriptionHtml": "<h2>Elegancia Nocturna</h2>\n<p>Prepara al pequeño para una noche de sueños dulces con estos maravillosos pijamas largos de algodón en un elegante azul marino. Son ideales para garantizar el máximo confort nocturno. La suave tela de algodón es tierna al tacto y mantiene al niño cómodamente abrigado durante toda la noche.</p>\n<h2>Suave como una Nube</h2>\n<p>El pijama está confeccionado con algodón de alta calidad, lo que le confiere suavidad y ligereza para garantizar noches de sueño tranquilo. Tu pequeño se sentirá cómodo y relajado todo el tiempo, ya que su piel podrá respirar libremente. Ideal para uso durante todo el año gracias a su maravilloso tacto y confort incomparable.</p>\n<h2>Diseño Atractivo</h2>\n<p>Con un diseño adorable y un cómodo cierre, este pijama largo de algodón es fácil de poner y quitar. Con su color de azul marino, este pijama aporta un toque de elegancia, haciéndolo lucir aún más adorable. Adicionalmente, su diseño proporciona facilidad de movimiento permitiendo que jueguen y se muevan libremente incluso en la cama.</p>\n<p>No pierdas la oportunidad de proporcionar a tu pequeño la comodidad y elegancia con estos pijamas largos de algodon. Ház clic en \\'Añadir al Carrito\\' ahora mismo!</p>\n<p></p>\n<p>Composición:</p>\n<p>Pijama: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:56",
+  "sourceUpdatedAt": "2026-10-27 11:11:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70556",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2208110",
+      "productSku": "2208110",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:57.387Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9979-8054.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8054-large_default/pijama-largo-algodon-nino-azul-marino.jpg",
+      "alt": "Pijama largo algodon niño Azul Marino",
+      "sourceId": "8054",
+      "variantIds": [],
+      "sha256": "8c11b9ee76086d2cc134d2db25d5cd3ddfba32305578586a348bc9bb42cbfada"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:57.433Z",
+  "issues": []
+}

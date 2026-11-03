@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6412",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nina/6412-canvas-loneta-hebilla-marino.html",
+  "name": "Canvas loneta hebilla Marino",
+  "brand": "Gorila",
+  "sku": "1521541",
+  "description": "Loneta y velcro. Se puede lavar en lavadora.",
+  "details": "SUELA:  De caucho natural antideslizante de gran durabilidad \nPRODUCTO TEXTIL:  Elaborado con tejidos de la máxima calidad y resistencia. \nFORRO:  De material textil",
+  "sourceDescriptionHtml": "<p><span style=\"color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"font-weight:bolder;\">SUELA:  </span><span>De caucho natural antideslizante de gran durabilidad </span><br /></span><span style=\"color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"font-weight:bolder;\">PRODUCTO TEXTIL:  </span><span>Elaborado con tejidos de la máxima calidad y resistencia. </span><br /></span><span style=\"color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"font-weight:bolder;\">FORRO:  </span><span>De material textil </span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "695"
+  ],
+  "sourceDefaultCategoryId": "695",
+  "sourceCategoryName": "Calzado Niña",
+  "price": 10.5,
+  "oldPrice": 21.0056,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "281",
+          "label": "28"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63507",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "281",
+          "group": "Tamaño",
+          "value": "28"
+        }
+      ],
+      "sku": "1521541",
+      "productSku": "1521541",
+      "taxRate": 21,
+      "price": 10.5,
+      "oldPrice": 21.0056,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:50.789Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6412-4399.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4399-large_default/canvas-loneta-hebilla-marino.jpg",
+      "alt": "Canvas loneta hebilla Marino",
+      "sourceId": "4399",
+      "variantIds": [],
+      "sha256": "51d2fff4aee9c612bdaba1fbce1382e43dc1087506907eedb7376742e716ddd3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:50.831Z",
+  "issues": []
+}

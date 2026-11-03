@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "17758",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/17758-vestido-tietar-azul.html",
+  "name": "Vestido Tietar Azul",
+  "brand": "Calamaro",
+  "sku": "2402024",
+  "description": "Radiante y celestial, el Vestido Tietar Azul ilustra encanto y elegancia. Eleve la moda de sus pequeñas a nuevas alturas con este vestido azul deslumbrante. Fabricado con amor, proporciona una comodidad inigualable, manteniendo a su niña fresca en los días más calurosos. Su diseño chic y acabado impecable aportan un toque de glamour a su armario de verano. ¡El vestido perfecto para hacer de cualquier día una ocasión especial! Vestidos Niña, Ropa niña.",
+  "details": "Destacado en Elegancia\n\nEl \"Vestido Tietar Azul\" es la personificación de la elegancia y sofisticación. Compuesto de tela suave, cómoda y de alta calidad, este vestido está hecho para impresionar. La audaz tonalidad azul complementa cualquier tono de piel y asegura que el pequeño brille con esplendor.\n\n65% Poliéster, 32% Viscosa, 3% Elastano \n\n\nDiseño Único para Ocasiones Especiales\n\nCon su diseño contemporáneo y la meticulosa atención al detalle, este vestido es perfecto para las ocasiones más especiales. Ya sea un cumpleaños, bautizo o una fiesta de fin de semana, el \"Vestido Tietar Azul\" se adapta a todas las ocasiones con una singular elegancia.\n\n\nComodidad en Movimiento\n\nNo sólo se trata de la estética, el \"Vestido Tietar Azul\" asegura un nivel superior de comodidad. Ideal para mantener la diversión en movimiento mientras se ve impecable. La tela de alta calidad permite la perfecta transpiración y movimiento sin restricciones, asegurando que cada momento sea mágico.\n\n\nDecídete por la Elegancia hoy\n\n¿Por qué esperar? Haz de cada ocasión un recuerdo especial con el \"Vestido Tietar Azul\". Con su combinación inigualable de elegancia y comodidad, este vestido es una elección irresistible. Haz clic en \"Agregar al Carrito\" y experimenta la maravilla de la moda de lujo hoy.",
+  "sourceDescriptionHtml": "<!-- First Content Paragraph -->\n<h2>Destacado en Elegancia</h2>\n<p>El \"Vestido Tietar Azul\" es la personificación de la elegancia y sofisticación. Compuesto de tela suave, cómoda y de alta calidad, este vestido está hecho para impresionar. La audaz tonalidad azul complementa cualquier tono de piel y asegura que el pequeño brille con esplendor.</p>\n<p>65% Poliéster, 32% Viscosa, 3% Elastano </p>\n<!-- Second Content Paragraph -->\n<h2>Diseño Único para Ocasiones Especiales</h2>\n<p>Con su diseño contemporáneo y la meticulosa atención al detalle, este vestido es perfecto para las ocasiones más especiales. Ya sea un cumpleaños, bautizo o una fiesta de fin de semana, el \"Vestido Tietar Azul\" se adapta a todas las ocasiones con una singular elegancia.</p>\n<!-- Third Content Paragraph -->\n<h2>Comodidad en Movimiento</h2>\n<p>No sólo se trata de la estética, el \"Vestido Tietar Azul\" asegura un nivel superior de comodidad. Ideal para mantener la diversión en movimiento mientras se ve impecable. La tela de alta calidad permite la perfecta transpiración y movimiento sin restricciones, asegurando que cada momento sea mágico.</p>\n<!-- Call to Action -->\n<h2>Decídete por la Elegancia hoy</h2>\n<p>¿Por qué esperar? Haz de cada ocasión un recuerdo especial con el \"Vestido Tietar Azul\". Con su combinación inigualable de elegancia y comodidad, este vestido es una elección irresistible. Haz clic en \"Agregar al Carrito\" y experimenta la maravilla de la moda de lujo hoy.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 34.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-09 15:53:55",
+  "sourceUpdatedAt": "2026-10-27 11:13:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85392",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2402024",
+      "productSku": "2402024",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:52.773Z"
+    },
+    {
+      "id": "85393",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2402024",
+      "productSku": "2402024",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:54.331Z"
+    },
+    {
+      "id": "85394",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2402024",
+      "productSku": "2402024",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:55.683Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17758-15966.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15966-large_default/vestido-tietar-azul.jpg",
+      "alt": "Vestido Tietar Azul",
+      "sourceId": "15966",
+      "variantIds": [],
+      "sha256": "9ee1bd938617036e7d0cf09b9d61301b10515ba8e2ce5754068aa981867629fe"
+    },
+    {
+      "path": "assets/17758-15967.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15967-large_default/vestido-tietar-azul.jpg",
+      "alt": "vestido niña manga larga cuadros invierno",
+      "sourceId": "15967",
+      "variantIds": [],
+      "sha256": "0ff62d24621f4036a9dc9a0522fb2f1b39f58af65ef96e5a94bc83d6105f2409"
+    },
+    {
+      "path": "assets/17758-15968.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15968-large_default/vestido-tietar-azul.jpg",
+      "alt": "Vestido Tietar Azul",
+      "sourceId": "15968",
+      "variantIds": [],
+      "sha256": "dc2e8e396552926cbb428484ead1b2c826ab0e2ba8a8d0cecf7b2124813ee4d0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:55.944Z",
+  "issues": []
+}

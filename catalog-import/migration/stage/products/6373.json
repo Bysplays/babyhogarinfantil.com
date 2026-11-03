@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "id": "6373",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6373-leotardo-canale-gris-claro.html",
+  "name": "Leotardo canalé Gris Claro",
+  "brand": "Condor",
+  "sku": "1339",
+  "description": "Leotardo GRIS CLARO algodón CANALE.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los niños y niñas, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que los niños y niñas se muevan con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. HECHO EN ESPAÑA\n\n75% ALGODON 22% POLIAMIDA 3% ELASTANO\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nNO PLANCHAR.",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de <strong>CONDOR</strong> son sin duda una de las prendas más funcionales para los niños y niñas, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que los niños y niñas se muevan con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. <strong><span style=\"text-decoration:underline;\">HECHO EN ESPAÑA</span></strong></p>\n<p>75% ALGODON 22% POLIAMIDA 3% ELASTANO</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>NO PLANCHAR.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Claro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 13.81,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63441",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 13.81,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:19.521Z"
+    },
+    {
+      "id": "79731",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 13.81,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:21.551Z"
+    },
+    {
+      "id": "99077",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 13.81,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:23.462Z"
+    },
+    {
+      "id": "97857",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 13.81,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:25.640Z"
+    },
+    {
+      "id": "88615",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 16.81,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:28.338Z"
+    },
+    {
+      "id": "79735",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 16.81,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:31.273Z"
+    },
+    {
+      "id": "63443",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 19.41,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:33.483Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6373-4367.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4367-large_default/leotardo-canale-gris-claro.jpg",
+      "alt": "Leotardo canalé Gris Claro",
+      "sourceId": "4367",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6373-4366.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4366-large_default/leotardo-canale-gris-claro.jpg",
+      "alt": "Leotardo canalé Gris Claro",
+      "sourceId": "4366",
+      "variantIds": [],
+      "sha256": "5dd1ef513129140e4d266842bcd6b189668447b607c7b5d0a3ff58b63a67f136"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:29:34.365Z",
+  "issues": []
+}

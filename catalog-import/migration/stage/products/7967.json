@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "id": "7967",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/7967-chaqueta-chandal-adlg--xxl-xxxl-azul-marino.html",
+  "name": "Chaqueta Chandal ADLG XXL-XXXL Azul marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1911077",
+  "description": "OFERTA ULTIMAS TALLAS OFERTA CON EL ESCUDO ANTERIOR\n\nChaqueta chándal ANGEL DE LA GUARDA tallas muy grandes.\n\ncomposición:\n\nChaqueta: 100% poliéster.",
+  "details": "Composición:\n\nChaqueta: 100% poliéster.\n\nHECHO EN UE",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 100% poliéster.</p>\n<p>HECHO EN UE</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "705",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "705",
+  "sourceCategoryName": "Colegio Angel de la Guarda Nigran",
+  "price": 16,
+  "oldPrice": 31.9924,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-27 11:10:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "274",
+          "label": "S"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        },
+        {
+          "id": "278",
+          "label": "XXL"
+        },
+        {
+          "id": "330",
+          "label": "XXXL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66732",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "278",
+          "group": "Tamaño",
+          "value": "XXL"
+        }
+      ],
+      "sku": "7269XE11983",
+      "productSku": "1911077",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": 31.9924,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:31.099Z"
+    },
+    {
+      "id": "146441",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "274",
+          "group": "Tamaño",
+          "value": "S"
+        }
+      ],
+      "sku": "7269XA11983",
+      "productSku": "1911077",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": 31.9924,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:32.631Z"
+    },
+    {
+      "id": "146442",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "7269XB11983",
+      "productSku": "1911077",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": 31.9924,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:34.163Z"
+    },
+    {
+      "id": "146443",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "7269XC11983",
+      "productSku": "1911077",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": 31.9924,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:35.977Z"
+    },
+    {
+      "id": "146444",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "7269XD11983",
+      "productSku": "1911077",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": 31.9924,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:37.360Z"
+    },
+    {
+      "id": "146445",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "330",
+          "group": "Tamaño",
+          "value": "XXXL"
+        }
+      ],
+      "sku": "7269XF11983",
+      "productSku": "1911077",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": 31.9924,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:38.968Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7967-6083.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6083-large_default/chaqueta-chandal-adlg--xxl-xxxl-azul-marino.jpg",
+      "alt": "Chaqueta Chandal ADLG XXL-XXXL Azul marino",
+      "sourceId": "6083",
+      "variantIds": [],
+      "sha256": "29233904e5bceecb8c70da8dd4128905b99da8c35272e8d186a1e6424644d387"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:39.043Z",
+  "issues": []
+}

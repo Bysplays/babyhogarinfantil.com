@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "20480",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/20480-pantalon-largo-algodon-active-tahin.html",
+  "name": "Pantalón largo algodón active Tahin",
+  "brand": "Mayoral",
+  "sku": "2502051",
+  "description": "Pantalón largo deportivo con rodilleras reforzadas en el interior. Cintura y bajos con elástico.",
+  "details": "Composición:\n\n60% algodón.\n\n40% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>60% algodón.</p>\n<p>40% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Tahin",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94869",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502051",
+      "productSku": "2502051",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:47.674Z"
+    },
+    {
+      "id": "94870",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502051",
+      "productSku": "2502051",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:49.942Z"
+    },
+    {
+      "id": "94871",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502051",
+      "productSku": "2502051",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:52.093Z"
+    },
+    {
+      "id": "94873",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502051",
+      "productSku": "2502051",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:54.570Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20480-19831.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19831-large_default/pantalon-largo-algodon-active-tahin.jpg",
+      "alt": "Pantalón largo algodón active Tahin",
+      "sourceId": "19831",
+      "variantIds": [],
+      "sha256": "a3da6f8e9b53f4591033166f7c307951a7bbbb7b2837d0a771ff994e163203f5"
+    },
+    {
+      "path": "assets/20480-19832.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19832-large_default/pantalon-largo-algodon-active-tahin.jpg",
+      "alt": "Pantalón largo algodón active Tahin",
+      "sourceId": "19832",
+      "variantIds": [],
+      "sha256": "0ce5928680d47b055f7bcf7d4bca8f8cc7a9ec65bb4259345c7ed343d47ab6bf"
+    },
+    {
+      "path": "assets/20480-19833.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19833-large_default/pantalon-largo-algodon-active-tahin.jpg",
+      "alt": "Pantalón largo algodón active Tahin",
+      "sourceId": "19833",
+      "variantIds": [],
+      "sha256": "b1220e3d01c023f748ce0e2580bbb32e251e4ec36d19b957f5de68a47eeced0a"
+    },
+    {
+      "path": "assets/20480-19834.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19834-large_default/pantalon-largo-algodon-active-tahin.jpg",
+      "alt": "Pantalón largo algodón active Tahin",
+      "sourceId": "19834",
+      "variantIds": [],
+      "sha256": "1f9f12a83b67e8b4e181573d9bd9ae456ac6b12492ebcd25fae12446b1b54390"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:54.841Z",
+  "issues": []
+}

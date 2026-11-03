@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "17340",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/17340-pantalon-denim-cintura-goma-nino-azul.html",
+  "name": "Pantalon denim cintura goma niño Azul",
+  "brand": "Mayoral",
+  "sku": "2401076",
+  "description": "¡Una declaración de estilo para los pequeños fashionistas! Descubre el encanto de nuestros Pantalones Denim Cintura Goma Niño en color Azu. Confeccionados para ofrecer comodidad suprema y durabilidad, estos pantalones son perfectos para las aventuras diarias. Su textura suave y cintura elástica se combinan para dar una sensación de comodidad sin igual. Con su diseño elegante y auténtico color denim azul, aportarán un toque contemporáneo al guardarropa de tu pequeño. Este pantalón es una verdadera pieza esencial que transformará lo ordinario en extraordinario, ¡Haz que tu pequeño se destaque entre la multitud hoy!",
+  "details": "Estilo Excepcional para Niños en Crecimiento\n\nDestaca entre la multitud con nuestro Pantalón Denim Cintura Goma para Niño. Este pantalón, con su color Azul encantador, añade un toque de estilo a cualquier outfit. Este es un imprescindible en cualquier guardarropa infantil, aportando una gran mezcla de comodidad y estética que es perfecta para cualquier ocasión.\n\nConfort todo el Día\n\nFabricados pensando en el máximo confort, estos pantalones están diseñados con una cintura elástica que es tanto funcional como cómoda para los niños. Ofrecen un excelente ajuste que se adapta mientras tus pequeños crecen y juegan. Este Pantalón Denim Cintura Goma para Niño está diseñado para dar soporte y confort durante todo el día.\n\nCalidad y Durabilidad\n\nEste pantalón está confeccionado con una alta calidad de denim, garantizando una durabilidad que resistirá incluso los juegos más rudos. Con una confección robusta y resistente, este Pantalón Denim Cintura Goma para Niño está destinado a ser una pieza duradera en el guardarropa de tu hijo.\n\nHaz tu Pedido Ahora\n\n¿Por qué esperar para darle a tu pequeño un estilo moderno y confort en un solo paquete? Haz clic en \"añadir al carrito\" ya y deja que los pequeños experimenten la bondad del Pantalón Denim Cintura Goma Niño Azul ayude a tu pequeño a destacar entre la multitud.\n\nComposición:\n\nPantalón: 98% algodón, 2% elastano.",
+  "sourceDescriptionHtml": "<h2>Estilo Excepcional para Niños en Crecimiento</h2>\n<p>Destaca entre la multitud con nuestro <b>Pantalón Denim Cintura Goma para Niño</b>. Este pantalón, con su color Azul encantador, añade un toque de estilo a cualquier outfit. Este es un imprescindible en cualquier guardarropa infantil, aportando una gran mezcla de comodidad y estética que es perfecta para cualquier ocasión.</p>\n<h2>Confort todo el Día</h2>\n<p>Fabricados pensando en el máximo confort, estos pantalones están diseñados con una cintura elástica que es tanto funcional como cómoda para los niños. Ofrecen un excelente ajuste que se adapta mientras tus pequeños crecen y juegan. Este Pantalón Denim Cintura Goma para Niño está diseñado para dar soporte y confort durante todo el día.</p>\n<h2>Calidad y Durabilidad</h2>\n<p>Este pantalón está confeccionado con una alta calidad de denim, garantizando una durabilidad que resistirá incluso los juegos más rudos. Con una confección robusta y resistente, este Pantalón Denim Cintura Goma para Niño está destinado a ser una pieza duradera en el guardarropa de tu hijo.</p>\n<h2>Haz tu Pedido Ahora</h2>\n<p>¿Por qué esperar para darle a tu pequeño un estilo moderno y confort en un solo paquete? Haz clic en \"añadir al carrito\" ya y deja que los pequeños experimenten la bondad del Pantalón Denim Cintura Goma Niño Azul ayude a tu pequeño a destacar entre la multitud.</p>\n<p>Composición:</p>\n<p>Pantalón: 98% algodón, 2% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2024",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 27,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-02-09 23:54:22",
+  "sourceUpdatedAt": "2026-10-27 11:13:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "82357",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2401076",
+      "productSku": "2401076",
+      "taxRate": 21,
+      "price": 27,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:58.605Z"
+    },
+    {
+      "id": "82360",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2401076",
+      "productSku": "2401076",
+      "taxRate": 21,
+      "price": 27,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:01.016Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17340-14885.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14885-large_default/pantalon-denim-cintura-goma-nino-azul.jpg",
+      "alt": "Pantalon denim cintura goma niño Azul",
+      "sourceId": "14885",
+      "variantIds": [],
+      "sha256": "11475173ac4742ac13b57e0954ecebb02351502088802d03ae36c4cfda1f246a"
+    },
+    {
+      "path": "assets/17340-14886.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14886-large_default/pantalon-denim-cintura-goma-nino-azul.jpg",
+      "alt": "Pantalon denim cintura goma niño Azul",
+      "sourceId": "14886",
+      "variantIds": [],
+      "sha256": "991780ed547e3fff0f6a1ba33e6f1101f4b698c82bb68c40b5b0951dc309e530"
+    },
+    {
+      "path": "assets/17340-14887.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14887-large_default/pantalon-denim-cintura-goma-nino-azul.jpg",
+      "alt": "Pantalon denim cintura goma niño Azul",
+      "sourceId": "14887",
+      "variantIds": [],
+      "sha256": "37b9a895af8c83708668ecd9302ca3a5cb6a279957f45b5f31ef8def49425431"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:01.254Z",
+  "issues": []
+}

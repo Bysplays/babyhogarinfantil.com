@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "12850",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nina/12850-conjunto-nina-rayas-negro.html",
+  "name": "Conjunto niña rayas Negro",
+  "brand": "Talaman",
+  "sku": "2301367",
+  "description": "Conjunto sport de dos piezas, compuesto por camiseta de rayas y short",
+  "details": "Composición:\n\n95% Algodón\n\n5% Elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>95% Algodón</p>\n<p>5% Elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "755",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "755",
+  "sourceCategoryName": "Conjuntos Niña",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-05 16:32:04",
+  "sourceUpdatedAt": "2026-10-27 11:12:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72452",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2301367",
+      "productSku": "2301367",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:45.503Z"
+    },
+    {
+      "id": "72453",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2301367",
+      "productSku": "2301367",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:46.986Z"
+    },
+    {
+      "id": "72454",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2301367",
+      "productSku": "2301367",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:48.354Z"
+    },
+    {
+      "id": "72455",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2301367",
+      "productSku": "2301367",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:50.045Z"
+    },
+    {
+      "id": "72456",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2301367",
+      "productSku": "2301367",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:51.668Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12850-13788.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13788-large_default/conjunto-nina-rayas-negro.jpg",
+      "alt": "Conjunto niña rayas Negro",
+      "sourceId": "13788",
+      "variantIds": [],
+      "sha256": "7cbca264f601a95bcff9f9d9b23acd8cd68ba5cc3a0f3dcf8e03d8a60ccf70c5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:51.748Z",
+  "issues": []
+}

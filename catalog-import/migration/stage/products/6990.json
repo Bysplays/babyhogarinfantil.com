@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6990",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nina/6990-bota-inglesita-cordon-charol-charol-rojo.html",
+  "name": "Bota inglesita cordon charol Charol Rojo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1709011",
+  "description": "Bota inglesita en charol. Suela de goma antideslizante.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charol Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "695"
+  ],
+  "sourceDefaultCategoryId": "695",
+  "sourceCategoryName": "Calzado Niña",
+  "price": 34.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:19",
+  "sourceUpdatedAt": "2026-10-27 11:09:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "252",
+          "label": "26"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97687",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "1709011",
+      "productSku": "1709011",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:06.456Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6990-9872.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9872-large_default/bota-inglesita-cordon-charol-charol-rojo.jpg",
+      "alt": "Bota inglesita cordon charol Charol Rojo",
+      "sourceId": "9872",
+      "variantIds": [],
+      "sha256": "5a7948607fda106937e27a489f6769c4757d0d6db0a496f17c76b4979a0a295e"
+    },
+    {
+      "path": "assets/6990-9871.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9871-large_default/bota-inglesita-cordon-charol-charol-rojo.jpg",
+      "alt": "Bota inglesita cordon charol Charol Rojo",
+      "sourceId": "9871",
+      "variantIds": [],
+      "sha256": "64acc63822fee0ef61089e2e9aa8e94be6e6db6605bf42ed85d3f0a5d6a64989"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:06.598Z",
+  "issues": []
+}

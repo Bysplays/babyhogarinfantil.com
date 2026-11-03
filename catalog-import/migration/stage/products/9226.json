@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9226",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/9226-camiseta-algodon-capitan-america-azul-marino.html",
+  "name": "Camiseta algodon CAPITAN AMERICA Azul Marino",
+  "brand": "Zippy",
+  "sku": "2109255",
+  "description": "Camiseta 100% algodón, cuello redondo y manga larga en color azul marino con estampado en relieve del CAPITÁN AMÉRICA.",
+  "details": "Camiseta de ZIPPY, una de nuestras firmas preferidas! 100% ALGODÓN, cuello redondo y manga larga. En color azul marino con estampado en el pecho del CAPITÁN AMÉRICA en relieve, de color blanco. Una prenda cómoda, de tacto suave y agradable al contacto con la piel y un estampado sin igual! Echa un ojito a nuestros pantalones, sudaderas y calzado y podrás combinarla como más te guste! \n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Camiseta de <strong>ZIPPY</strong>, una de nuestras firmas preferidas!<strong> 100% ALGODÓN</strong>, cuello redondo y manga larga. En color azul marino con estampado en el pecho del <strong>CAPITÁN AMÉRICA</strong> en relieve, de color blanco. Una prenda cómoda, de tacto suave y agradable al contacto con la piel y un estampado sin igual! Echa un ojito a nuestros <strong>pantalones, sudaderas y calzado</strong> y podrás combinarla como más te guste! </p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 11.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68739",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2109255",
+      "productSku": "2109255",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:41.717Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9226-12053.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12053-large_default/camiseta-algodon-capitan-america-azul-marino.jpg",
+      "alt": "Camiseta algodon CAPITAN AMERICA Azul Marino",
+      "sourceId": "12053",
+      "variantIds": [],
+      "sha256": "5b607cb44547eb49e95fd5e93d50c365c61ed513e2a29fb78a89277b4d5980ec"
+    },
+    {
+      "path": "assets/9226-7483.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7483-large_default/camiseta-algodon-capitan-america-azul-marino.jpg",
+      "alt": "Camiseta algodon CAPITAN AMERICA Azul Marino",
+      "sourceId": "7483",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9226-8800.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8800-large_default/camiseta-algodon-capitan-america-azul-marino.jpg",
+      "alt": "Camiseta algodon CAPITAN AMERICA Azul Marino",
+      "sourceId": "8800",
+      "variantIds": [],
+      "sha256": "5f577eb8ef7eb517959ab735a65d9d3320c76774f5c3a23296891903c4e488d3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:41.856Z",
+  "issues": []
+}

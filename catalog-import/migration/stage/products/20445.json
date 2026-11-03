@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "20445",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/20445-cardigan-cuello-redondo-tricot-cereal.html",
+  "name": "Cardigan cuello redondo tricot Cereal",
+  "brand": "Mayoral",
+  "sku": "2502025",
+  "description": "Esta chaqueta está hecha con poliamida reciclada. Chaqueta tipo cardigan de manga larga para bebé. Con cuello redondo y cierre con botones en la parte delantera. Confeccionada en tejido de punto tricotosa de tacto muy suave y agradable. Los bolsillos son funcionales.",
+  "details": "Composición:\n\nChaqueta: 60% algodón, 30% poliamida reciclada, 10% lana.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 60% algodón, 30% poliamida reciclada, 10% lana. </p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cereal",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95414",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2502025",
+      "productSku": "2502025",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:19.980Z"
+    },
+    {
+      "id": "95416",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502025",
+      "productSku": "2502025",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:21.231Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20445-19699.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19699-large_default/cardigan-cuello-redondo-tricot-cereal.jpg",
+      "alt": "Cardigan cuello redondo tricot Cereal",
+      "sourceId": "19699",
+      "variantIds": [],
+      "sha256": "45e99593548c861dc985e30871067a65a9b98f9aff23a9d6d1e02abc5c91174d"
+    },
+    {
+      "path": "assets/20445-19700.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19700-large_default/cardigan-cuello-redondo-tricot-cereal.jpg",
+      "alt": "Cardigan cuello redondo tricot Cereal",
+      "sourceId": "19700",
+      "variantIds": [],
+      "sha256": "7f620af0e5738d69320f6ce0d822a5f69bd34bd8186fcf1b2c8cd2391033969f"
+    },
+    {
+      "path": "assets/20445-19701.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19701-large_default/cardigan-cuello-redondo-tricot-cereal.jpg",
+      "alt": "Cardigan cuello redondo tricot Cereal",
+      "sourceId": "19701",
+      "variantIds": [],
+      "sha256": "96dc2da0ce6fb6fbe295ae68260dc40bfccdf80b02d9f6694cea0d61820dd448"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:21.451Z",
+  "issues": []
+}

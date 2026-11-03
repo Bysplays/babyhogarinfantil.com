@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "7089",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nino/7089-zapatilla-lona-blanco.html",
+  "name": "Zapatilla lona Blanco",
+  "brand": "Sardon",
+  "sku": "1802009",
+  "description": "Zapatilla de loneta en color blanco, cierre con hebilla lateral, suela de goma. Disponible en color azul marino y rojo.",
+  "details": "Zapatilla de SARDON, una de nuestras firmas preferidas! En color blanco, de loneta. Cierre con hebilla met&aacute;lica, con tres posiciones de ajuste. Suela de goma, para evitar resbalones. Un complemento atemporal, desenfadado, c&oacute;modo y ligero, perfecto para la &eacute;poca de primavera y verano! Echa un ojito a nuestros conjuntos, chaquetas de perl&eacute; y calcetines y podr&aacute;s combinarlas como m&aacute;s te gusten! DISPONIBLE EN COLOR ROJO Y AZUL MARINO. \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p>Zapatilla de&nbsp;<strong>SARDON</strong>, una de nuestras firmas preferidas! En color blanco, de loneta. Cierre con hebilla met&aacute;lica, con tres posiciones de ajuste. Suela de goma, para evitar resbalones.&nbsp;<span style=\"color: #777777; font-family: robotoregular; font-size: 14px;\">&nbsp;Un complemento atemporal, desenfadado, c&oacute;modo y ligero, perfecto para la &eacute;poca de primavera y verano! Echa un ojito a nuestros<strong>&nbsp;conjuntos, chaquetas de perl&eacute; y calcetines</strong>&nbsp;y podr&aacute;s combinarlas como m&aacute;s te gusten!&nbsp;</span><strong style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none; color: #777777; font-family: robotoregular; font-size: 14px;\">DISPONIBLE EN COLOR ROJO Y AZUL MARINO.&nbsp;</strong></p>\r\n<p><strong>FABRICADO EN ESPA&Ntilde;A</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "701"
+  ],
+  "sourceDefaultCategoryId": "701",
+  "sourceCategoryName": "Calzado Niño",
+  "price": 15.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "262",
+          "label": "19"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        },
+        {
+          "id": "252",
+          "label": "26"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "77855",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "1802009",
+      "productSku": "1802009",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:07.974Z"
+    },
+    {
+      "id": "83746",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "1802009",
+      "productSku": "1802009",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:10.604Z"
+    },
+    {
+      "id": "83749",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "1802009",
+      "productSku": "1802009",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:13.991Z"
+    },
+    {
+      "id": "83904",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "1802009",
+      "productSku": "1802009",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:16.380Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7089-9962.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9962-large_default/zapatilla-lona-blanco.jpg",
+      "alt": "Zapatilla lona Blanco",
+      "sourceId": "9962",
+      "variantIds": [],
+      "sha256": "ac6dedb391babe3c7caa52b4f2e681bdc44df4470c5e9c72d98fb1a839d072a9"
+    },
+    {
+      "path": "assets/7089-9961.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9961-large_default/zapatilla-lona-blanco.jpg",
+      "alt": "Zapatilla lona Blanco",
+      "sourceId": "9961",
+      "variantIds": [],
+      "sha256": "ea3bdb520c4713392536d9f3f9fd745e91c64d11fd5fd05c6f10cb129d914068"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:16.539Z",
+  "issues": []
+}

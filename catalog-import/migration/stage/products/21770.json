@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "21770",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/21770-camiseta-manga-corta-mix-and-match-bambu.html",
+  "name": "Camiseta manga corta mix and match Bambú",
+  "brand": "Mayoral",
+  "sku": "2601064",
+  "description": "Camiseta infantil verde de manga corta Mayoral con estampado divertido “Virtual Island”, cómoda y suave para el día a día.",
+  "details": "Camiseta para niño de la marca Mayoral en color verde suave, con original estampado frontal “Virtual Island” de estilo divertido y moderno. Confeccionada en tejido agradable al tacto, es ideal para el uso diario, juegos y looks casuales de temporada. Su diseño de manga corta y cuello redondo ofrece comodidad y libertad de movimiento, perfecta para combinar con bermudas, jeans o joggers.\n\nComposición\n\n\n\n100% algodón.",
+  "sourceDescriptionHtml": "<p> Camiseta para niño de la marca Mayoral en color verde suave, con original estampado frontal “Virtual Island” de estilo divertido y moderno. Confeccionada en tejido agradable al tacto, es ideal para el uso diario, juegos y looks casuales de temporada. Su diseño de manga corta y cuello redondo ofrece comodidad y libertad de movimiento, perfecta para combinar con bermudas, jeans o joggers.</p>\n<h3>Composición</h3>\n<p></p>\n<p>100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Bambu",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-13 15:53:34",
+  "sourceUpdatedAt": "2026-10-27 11:15:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99369",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601064",
+      "productSku": "2601064",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:16.505Z"
+    },
+    {
+      "id": "99370",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601064",
+      "productSku": "2601064",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:17.730Z"
+    },
+    {
+      "id": "99371",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2601064",
+      "productSku": "2601064",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:18.832Z"
+    },
+    {
+      "id": "99373",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2601064",
+      "productSku": "2601064",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:20.062Z"
+    },
+    {
+      "id": "99374",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2601064",
+      "productSku": "2601064",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:21.328Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21770-20573.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20573-large_default/camiseta-manga-corta-mix-and-match-bambu.jpg",
+      "alt": "Camiseta Mayoral verde infantil con estampado frontal",
+      "sourceId": "20573",
+      "variantIds": [],
+      "sha256": "e7ccf9455100e8af2a9565ba4d3004095e1fca019cc60c41b32f5bb59db66cae"
+    },
+    {
+      "path": "assets/21770-20574.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20574-large_default/camiseta-manga-corta-mix-and-match-bambu.jpg",
+      "alt": "Camiseta verde Mayoral para niño con estampado “Virtual Island”",
+      "sourceId": "20574",
+      "variantIds": [],
+      "sha256": "b44ab2bc0bb858c500eda2c34cba141b48cd7704e0bcfdbea2fdf553bceb85e4"
+    },
+    {
+      "path": "assets/21770-20575.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20575-large_default/camiseta-manga-corta-mix-and-match-bambu.jpg",
+      "alt": "Detalle del estampado “Virtual Island” en camiseta Mayoral",
+      "sourceId": "20575",
+      "variantIds": [],
+      "sha256": "9e7f921dfabaa378893b86892af7199b4e8a8d24d773a1011e5a88fab160aa2f"
+    },
+    {
+      "path": "assets/21770-20576.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20576-large_default/camiseta-manga-corta-mix-and-match-bambu.jpg",
+      "alt": "Parte trasera lisa de camiseta verde Mayoral niño",
+      "sourceId": "20576",
+      "variantIds": [],
+      "sha256": "770165e99b94c6ab35739b28f9d7aaed6174fe6fc1a7284df177f76585e6bbb2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:21.545Z",
+  "issues": []
+}

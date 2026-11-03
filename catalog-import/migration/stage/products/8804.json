@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8804",
+  "sourceUrl": "https://babyhogarinfantil.com/cambiadores-cojines-lactancia/8804-cambiador-polipiel-mayoral-rosa.html",
+  "name": "Cambiador polipiel Mayoral Rosa",
+  "brand": "Mayoral",
+  "sku": "2104043",
+  "description": "Cambiador en polipiel, con bolsillo. Medidas 77 cm X 49 cm.",
+  "details": "Cambiador de MAYORAL, una de nuestras firmas preferidas! De polipiel, plegable y compacto con forma de bolso de mano. Con bolsillo trasero para poder guardar pañales. Un complemento indispensable para cualquier momento que te pille fuera de casa! DISPONIBLE EN COLOR CRUDO Y AZUL CELESTE.\n\nComposición:\n\nEXTERIOR: 100% Poliuretano.\n\nINTERIOE: 100% poliester.\n\nNO PLANCHAR.\n\nLAVAR A MANO.",
+  "sourceDescriptionHtml": "<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;\">Cambiador de </span><strong style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;\">MAYORAL</strong><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;\">, una de nuestras firmas preferidas! De polipiel, plegable y compacto con forma de bolso de mano. Con bolsillo trasero para poder guardar pañales. Un complemento indispensable para cualquier momento que te pille fuera de casa! </span><strong style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;\">DISPONIBLE EN COLOR CRUDO Y AZUL CELESTE.</strong></p>\n<p>Composición:</p>\n<p>EXTERIOR: 100% Poliuretano.</p>\n<p>INTERIOE: 100% poliester.</p>\n<p>NO PLANCHAR.</p>\n<p>LAVAR A MANO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "805",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "805",
+  "sourceCategoryName": "Cambiadores, cojines lactancia",
+  "price": 21.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:41",
+  "sourceUpdatedAt": "2026-10-27 11:11:01",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147012",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8922XA14163",
+      "productSku": "2104043",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:15.967Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8804-11553.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11553-large_default/cambiador-polipiel-mayoral-rosa.jpg",
+      "alt": "Cambiador polipiel Mayoral Rosa",
+      "sourceId": "11553",
+      "variantIds": [],
+      "sha256": "3ea7d2cbe2cdfe7b3328118753ab2357bc02fb6a32d2109d1ef8a2011071f750"
+    },
+    {
+      "path": "assets/8804-11554.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11554-large_default/cambiador-polipiel-mayoral-rosa.jpg",
+      "alt": "Cambiador polipiel Mayoral Rosa",
+      "sourceId": "11554",
+      "variantIds": [],
+      "sha256": "fdc81c5dfaccbec255f9e40cf59b07c29152408e790a6341109b672c760781b0"
+    },
+    {
+      "path": "assets/8804-11552.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11552-large_default/cambiador-polipiel-mayoral-rosa.jpg",
+      "alt": "Cambiador polipiel Mayoral Rosa",
+      "sourceId": "11552",
+      "variantIds": [],
+      "sha256": "dd2a249809f7eee98924bb8d59eb24c5d1b140cc36be7753c6c318fde4ffd6b3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:16.138Z",
+  "issues": []
+}

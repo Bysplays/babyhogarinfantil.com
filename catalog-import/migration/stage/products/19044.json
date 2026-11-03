@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "19044",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/19044-diadema-lazo-grosgrain-verde-botella.html",
+  "name": "Diadema lazo grosgrain Verde Botella",
+  "brand": "Siena",
+  "sku": "2402266",
+  "description": "Diadema con lazo grande verde botella.\n\nEl lazo mide 8,5 x 8,5 cm. aproximadamente. Sobre una diadema de 1 cm. de ancho aprimadamente.\n\nLa diedema está forrada a tono con el lazo.\n\nHECHO EN ESPAÑA",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde botella",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-29 08:34:28",
+  "sourceUpdatedAt": "2026-10-27 11:13:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149273",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12396XA18964",
+      "productSku": "2402266",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:14.805Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19044-17645.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17645-large_default/diadema-lazo-grosgrain-verde-botella.jpg",
+      "alt": "Diadema lazo grosgrain Verde Botella",
+      "sourceId": "17645",
+      "variantIds": [],
+      "sha256": "511345599e50e0a5020c5c9605fd5922289a4680a00c55b472284791e5137438"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:14.877Z",
+  "issues": []
+}

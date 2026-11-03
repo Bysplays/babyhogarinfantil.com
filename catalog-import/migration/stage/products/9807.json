@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "9807",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9807-sudadera-felpa-roja-nino-rojo.html",
+  "name": "Sudadera felpa roja niño Rojo",
+  "brand": "Zippy",
+  "sku": "2207046",
+  "description": "Con cada sonrisa y risa, la Sudadera de Felpa Roja Niño acrecienta la alegría de sus momentos. Con un color rojo vibrante, tejido suave y diseño cómodo, su pequeño ángel puede explorar, jugar y crecer con total libertad. Adecuada para todas las temporadas, siempre mantendrá a su pequeño caliente y con estilo. Una adición irresistible para cualquier vestuario infantil, ¡un auténtico abrazo cálido y alegre!",
+  "details": "¿Buscas la combinación perfecta de comodidad y calidez para tu hijo? La Sudadera felpa roja niño Rojo es la opción ideal. Cuidadosamente confeccionada con tejidos de la más alta calidad, promete mantener a tu pequeño confortable en los días más fríos. Diseñada con amor y cuidado, es suave al tacto y resistente al uso regular, garantizando una durabilidad inigualable.\n\n¿Quieres que tu hijo se destaque con estilo? La Sudadera felpa roja niño Rojo es el camino a seguir. Con un color vivo y atractivo, esta sudadera garantiza que tu hijo sea el centro de atención en cualquier reunión. Muy versátil, puede combinarse con varias piezas para crear un conjunto elegante y moderno. ¡Anímate a añadir un toque de color al guardarropa de tu hijo con esta sudadera vibrante!\n\n¿Estás preocupado por la calidad y resistencia del atuendo de tu hijo? Puedes dejar tus preocupaciones a un lado con la Sudadera felpa roja niño Rojo. Esta sudadera está diseñada pensando en una vida activa, por lo que su resistencia y robustez están garantizad. Con una combinación de confort, estilo y durabilidad, esta sudadera es el toque final perfecto para cualquier atuendo infantil.\n\n¡No esperes más! Lleva la Sudadera felpa roja niño Rojo hoy mismo y deja que tu pequeño empiece a disfrutar al instante su comodidad y vitalidad. ¡Haz clic para comprar ahora!\n\nComposición:\n\nSudadera: 80% algodón, 20% poliéster.",
+  "sourceDescriptionHtml": "<p>¿Buscas la combinación perfecta de comodidad y calidez para tu hijo? La Sudadera felpa roja niño Rojo es la opción ideal. Cuidadosamente confeccionada con tejidos de la más alta calidad, promete mantener a tu pequeño confortable en los días más fríos. Diseñada con amor y cuidado, es suave al tacto y resistente al uso regular, garantizando una durabilidad inigualable.</p>\n<p>¿Quieres que tu hijo se destaque con estilo? La Sudadera felpa roja niño Rojo es el camino a seguir. Con un color vivo y atractivo, esta sudadera garantiza que tu hijo sea el centro de atención en cualquier reunión. Muy versátil, puede combinarse con varias piezas para crear un conjunto elegante y moderno. ¡Anímate a añadir un toque de color al guardarropa de tu hijo con esta sudadera vibrante!</p>\n<p>¿Estás preocupado por la calidad y resistencia del atuendo de tu hijo? Puedes dejar tus preocupaciones a un lado con la Sudadera felpa roja niño Rojo. Esta sudadera está diseñada pensando en una vida activa, por lo que su resistencia y robustez están garantizad. Con una combinación de confort, estilo y durabilidad, esta sudadera es el toque final perfecto para cualquier atuendo infantil.</p>\n<p><b>¡No esperes más! Lleva la Sudadera felpa roja niño Rojo hoy mismo y deja que tu pequeño empiece a disfrutar al instante su comodidad y vitalidad. ¡Haz clic para comprar ahora!</b></p>\n<p>Composición:</p>\n<p>Sudadera: 80% algodón, 20% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70073",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2207046",
+      "productSku": "2207046",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:41.653Z"
+    },
+    {
+      "id": "70074",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2207046",
+      "productSku": "2207046",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:43.312Z"
+    },
+    {
+      "id": "70075",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2207046",
+      "productSku": "2207046",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:44.810Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9807-7952.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7952-large_default/sudadera-felpa-roja-nino-rojo.jpg",
+      "alt": "Sudadera felpa roja niño Rojo",
+      "sourceId": "7952",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9807-12771.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12771-large_default/sudadera-felpa-roja-nino-rojo.jpg",
+      "alt": "Sudadera felpa roja niño Rojo",
+      "sourceId": "12771",
+      "variantIds": [],
+      "sha256": "793f963dd3656949a847476b6bbd8787e68f784d107622e1229a57867f6ddb13"
+    },
+    {
+      "path": "assets/9807-9126.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9126-large_default/sudadera-felpa-roja-nino-rojo.jpg",
+      "alt": "Sudadera felpa roja niño Rojo",
+      "sourceId": "9126",
+      "variantIds": [],
+      "sha256": "fdcc3cd242d8f6d3049211ea85ab285b7d2764aa4c87ab8da33fdee27eab89b6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:45.008Z",
+  "issues": []
+}

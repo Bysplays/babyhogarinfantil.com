@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "17414",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/17414-pantalon-felpa-basico-titanio.html",
+  "name": "Pantalón felpa basico Titanio",
+  "brand": "Mayoral",
+  "sku": "2208063",
+  "description": "Descubre la comodidad y estilo sin límites con el Pantalón Felpa Básico Titanio. Perfecto para los pequeños exploradores en crecimiento, su suavidad se acompaña con la durabilidad necesaria para las actividades cotidianas. Cada detalle ostenta calidad y consideración, desde el material suave hasta el ajuste flexible, dando prioridad al confort del niño. La vitalidad del color Titanio añade un toque genial al guardarropa de los más pequeños. ¿Quiere moda y funcionalidad? Este pantalón lo tiene todo y más, ¡un must en el armario de los pequeños!",
+  "details": "Comodidad sin límites con el Pantalón felpa básico Titanio\n\n¡Experimenta la comodidad sin restricciones! Confeccionado en suave material de felpa, el Pantalón básico Titanio permite a los niños moverse libremente, asegurando la máxima comodidad durante todo el día. Perfecto para juegos interminables o simplemente para relajarse después de un día ajetreado, este pantalón se convertirá en la prenda favorita de todo niño.\n\nEstilo Sencillo y Versátil\n\nCon su diseño atemporal y la sobria tonalidad de titanio, este pantalón básico en felpa se convierte en la elección perfecta para cualquier outfit. Fácil de combinar con sus camisetas y suéteres favoritos, proporciona un look casual pero chic, perfecto para cualquier ocasión. Versátil y práctico, añade un toque de estilo a la vestimenta diaria.\n\nCalidad Duradera que Resiste el Juego\n\nFabricado con materiales duraderos y costuras de alta calidad, este pantalón puede resistir el juego más agresivo y las lavadas frecuentes. Su resistencia se une a la suavidad de la felpa para proporcionar una experiencia de uso excelente. Los pantalones son duraderos, por lo que ofrecen una gran relación calidad-precio.\n\nNo busques más, agrega el Pantalón felpa básico Titanio al carrito de compras y dale a tu hijo la comodidad y el estilo que se merece. ¡Haz clic en el botón de compra ahora!\n\nComposición:\n\n95% Algodón\n\n5% Elastano.",
+  "sourceDescriptionHtml": "<div>\n<h2>Comodidad sin límites con el Pantalón felpa básico Titanio</h2>\n<p>¡Experimenta la comodidad sin restricciones! Confeccionado en suave material de felpa, el Pantalón básico Titanio permite a los niños moverse libremente, asegurando la máxima comodidad durante todo el día. Perfecto para juegos interminables o simplemente para relajarse después de un día ajetreado, este pantalón se convertirá en la prenda favorita de todo niño.</p>\n<h2>Estilo Sencillo y Versátil</h2>\n<p>Con su diseño atemporal y la sobria tonalidad de titanio, este pantalón básico en felpa se convierte en la elección perfecta para cualquier outfit. Fácil de combinar con sus camisetas y suéteres favoritos, proporciona un look casual pero chic, perfecto para cualquier ocasión. Versátil y práctico, añade un toque de estilo a la vestimenta diaria.</p>\n<h2>Calidad Duradera que Resiste el Juego</h2>\n<p>Fabricado con materiales duraderos y costuras de alta calidad, este pantalón puede resistir el juego más agresivo y las lavadas frecuentes. Su resistencia se une a la suavidad de la felpa para proporcionar una experiencia de uso excelente. Los pantalones son duraderos, por lo que ofrecen una gran relación calidad-precio.</p>\n<p>No busques más, agrega el Pantalón felpa básico Titanio al carrito de compras y dale a tu hijo la comodidad y el estilo que se merece. ¡Haz clic en el botón de compra ahora!</p>\n<p>Composición:</p>\n<p>95% Algodón</p>\n<p>5% Elastano.</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Titanio",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-02-29 23:54:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "82847",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2208063",
+      "productSku": "2208063",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:48.491Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17414-17215.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17215-large_default/pantalon-felpa-basico-titanio.jpg",
+      "alt": "Pantalón felpa basico Titanio",
+      "sourceId": "17215",
+      "variantIds": [],
+      "sha256": "ecc4170e1904cc7cc1b02da69f846040289f83f1ee430db751beb7d10d5a9519"
+    },
+    {
+      "path": "assets/17414-17216.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17216-large_default/pantalon-felpa-basico-titanio.jpg",
+      "alt": "Pantalón felpa basico Titanio",
+      "sourceId": "17216",
+      "variantIds": [],
+      "sha256": "e0e47efae2b9357e07f1874ff92c2e1607fd9b8119852e97e05bbff99c22a910"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:48.575Z",
+  "issues": []
+}

@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "21939",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21939-conjunto-bebe-nino-3-piezas-verano-yema.html",
+  "name": "Conjunto bebe niño 3 piezas verano Yema",
+  "brand": "Babybol",
+  "sku": "2601107",
+  "description": "Conjunto de bebé niño Babybol de 3 piezas confeccionado en 95% algodón y 5% elastano. Incluye camiseta con dibujo de perro, pantalón largo negro y chaqueta con cremallera en color arcilla. Cómodo, práctico y perfecto para entretiempo.",
+  "details": "Este conjunto de bebé niño Babybol de 3 piezas es una opción completa y versátil para el día a día. Está confeccionado en 95% algodón y 5% elastano, ofreciendo suavidad, comodidad y una ligera elasticidad que facilita el movimiento.\n\nIncluye una camiseta blanca con un divertido diseño de perro y mensaje, un pantalón largo en color negro con ajuste cómodo y una chaqueta con cremallera en color arcilla, ideal para completar el conjunto en días más frescos.\n\nPerfecto para entretiempo o para combinar según la temperatura, este conjunto destaca por su comodidad, funcionalidad y estilo moderno.\n\nCaracterísticas:\n\n\nMarca: Babybol\n\nComposición: 95% algodón, 5% elastano\n\nConjunto de 3 piezas: camiseta, pantalón y chaqueta\n\nColor: Arcilla, blanco y negro\n\nCamiseta con estampado de perro\n\nChaqueta con cremallera\n\nTejido suave, cómodo y ligeramente elástico\n\n\nUn conjunto práctico y completo para vestir al bebé con estilo en cualquier ocasión.",
+  "sourceDescriptionHtml": "<p>Este <strong>conjunto de bebé niño Babybol</strong> de <strong>3 piezas</strong> es una opción completa y versátil para el día a día. Está confeccionado en <strong>95% algodón y 5% elastano</strong>, ofreciendo suavidad, comodidad y una ligera elasticidad que facilita el movimiento.</p>\n<p>Incluye una <strong>camiseta blanca</strong> con un divertido <strong>diseño de perro</strong> y mensaje, un <strong>pantalón largo en color negro</strong> con ajuste cómodo y una <strong>chaqueta con cremallera en color arcilla</strong>, ideal para completar el conjunto en días más frescos.</p>\n<p>Perfecto para entretiempo o para combinar según la temperatura, este conjunto destaca por su <strong>comodidad, funcionalidad y estilo moderno</strong>.</p>\n<p><strong>Características:</strong></p>\n<ul>\n<li>Marca: Babybol</li>\n<li>Composición: 95% algodón, 5% elastano</li>\n<li>Conjunto de 3 piezas: camiseta, pantalón y chaqueta</li>\n<li>Color: Arcilla, blanco y negro</li>\n<li>Camiseta con estampado de perro</li>\n<li>Chaqueta con cremallera</li>\n<li>Tejido suave, cómodo y ligeramente elástico</li>\n</ul>\n<p>Un conjunto práctico y completo para vestir al bebé con estilo en cualquier ocasión.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Yema",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 34.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-04-09 23:53:36",
+  "sourceUpdatedAt": "2026-10-27 11:15:07",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100842",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2601107",
+      "productSku": "2601107",
+      "taxRate": 21,
+      "price": 34.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:51.540Z"
+    },
+    {
+      "id": "100843",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2601107",
+      "productSku": "2601107",
+      "taxRate": 21,
+      "price": 34.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:52.229Z"
+    },
+    {
+      "id": "100844",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2601107",
+      "productSku": "2601107",
+      "taxRate": 21,
+      "price": 34.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:53.017Z"
+    },
+    {
+      "id": "100845",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2601107",
+      "productSku": "2601107",
+      "taxRate": 21,
+      "price": 34.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:53.856Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21939-20905.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20905-large_default/conjunto-bebe-nino-3-piezas-verano-yema.jpg",
+      "alt": "conjunto bebé niño babybol 3 piezas algodón arcilla",
+      "sourceId": "20905",
+      "variantIds": [],
+      "sha256": "7f89098a5c0ae5349a63d1e7c99b30784af277c5b6c421f41b1e14f0b8bae069"
+    },
+    {
+      "path": "assets/21939-20906.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20906-large_default/conjunto-bebe-nino-3-piezas-verano-yema.jpg",
+      "alt": "ropa bebé niño conjunto chaqueta pantalón camiseta",
+      "sourceId": "20906",
+      "variantIds": [],
+      "sha256": "de73b889a439f33113498490a94eaf4b365e280ca6e8378125cdb17ffd5e1912"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:51:53.984Z",
+  "issues": []
+}

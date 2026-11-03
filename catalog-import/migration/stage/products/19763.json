@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "19763",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/19763-rebeca-tricot-cuello-redondo-azul-marino.html",
+  "name": "Rebeca tricot cuello redondo Azul Marino",
+  "brand": "Mayoral",
+  "sku": "2501214",
+  "description": "Rebeca Tricot Cuello Redondo Azul Marino\n\nAdéntrate en el mundo de la elegancia infantil con la Rebeca Tricot Cuello Redondo Azul Marino. Perfecta para las frescas noches de verano, esta chaqueta de niña está tejida con amor y fino tricot que la hace delicada al tacto, intuitiva para la piel sensible de tus pequeños. Con un sorprendente y clásico color azul marino, añade un toque de distinción a cualquier atuendo. Recuerda esos días nostálgicos pero modernos con su diseño de cuello redondo. Ofrece calidez sin sacrificar estilo, ¡un tesoro para cualquier guardarropa infantil!",
+  "details": "¡Adorable y Confortable!\n\nLa Rebeca Tricot Cuello Redondo Azul Marino ofrece una combinación perfecta de comodidad y estilo. Confeccionada con fibras suaves y resistentes, esta prenda es ideal para mantener a los pequeños calientes durante los días más fríos. El azul marino clásico se adapta a cualquier combinación de colores y su diseño de tricot agrega un toque de encanto.\n\nCalidad Duradera\n\nCada Rebeca Tricot Cuello Redondo Azul Marino se ha creado con la máxima atención al detalle. Con costuras reforzadas e hilo de calidad, esta prenda garantiza una larga vida de uso frecuente. Además, la tela de tricot resiste al desgaste y mantiene su forma y color después de numerosos lavados.\n\nComposición:\n\n80% Algodón\n\n17% Poliamida\n\n3% Elastano\n\nIdeal para Cualquier Ocasión\n\nCon su estilo versátil, esta rebeca es perfecta para cualquier ocasión. Ya sea una salida al parque, una reunión familiar o una foto memorable, esta prenda complementará cualquier atuendo con estilo y elegancia. Adicionalmente, su cuello redondo ofrece una mayor protección y comodidad para la delicada piel de los niños.\n\nInvite a su pequeño a disfrutar de la comodidad y elegancia que proporciona nuestra Rebeca Tricot Cuello Redondo Azul Marino. ¡Haga click en “Agregar al Carrito” hoy mismo!",
+  "sourceDescriptionHtml": "<h2>¡Adorable y Confortable!</h2>\n<p>La Rebeca Tricot Cuello Redondo Azul Marino ofrece una combinación perfecta de comodidad y estilo. Confeccionada con fibras suaves y resistentes, esta prenda es ideal para mantener a los pequeños calientes durante los días más fríos. El azul marino clásico se adapta a cualquier combinación de colores y su diseño de tricot agrega un toque de encanto.</p>\n<h2>Calidad Duradera</h2>\n<p>Cada Rebeca Tricot Cuello Redondo Azul Marino se ha creado con la máxima atención al detalle. Con costuras reforzadas e hilo de calidad, esta prenda garantiza una larga vida de uso frecuente. Además, la tela de tricot resiste al desgaste y mantiene su forma y color después de numerosos lavados.</p>\n<p>Composición:</p>\n<p>80% Algodón</p>\n<p>17% Poliamida</p>\n<p>3% Elastano</p>\n<h2>Ideal para Cualquier Ocasión</h2>\n<p>Con su estilo versátil, esta rebeca es perfecta para cualquier ocasión. Ya sea una salida al parque, una reunión familiar o una foto memorable, esta prenda complementará cualquier atuendo con estilo y elegancia. Adicionalmente, su cuello redondo ofrece una mayor protección y comodidad para la delicada piel de los niños.</p>\n<p>Invite a su pequeño a disfrutar de la comodidad y elegancia que proporciona nuestra Rebeca Tricot Cuello Redondo Azul Marino. ¡Haga click en “Agregar al Carrito” hoy mismo!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2025",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-04-09 08:53:17",
+  "sourceUpdatedAt": "2026-10-27 11:14:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92067",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2501214",
+      "productSku": "2501214",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:21.419Z"
+    },
+    {
+      "id": "92069",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2501214",
+      "productSku": "2501214",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:23.591Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19763-18526.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18526-large_default/rebeca-tricot-cuello-redondo-azul-marino.jpg",
+      "alt": "Rebeca tricot cuello redondo Azul Marino",
+      "sourceId": "18526",
+      "variantIds": [],
+      "sha256": "1c1cb89d74e14f9d08f50dc724e07846aba1446e0eaa06f20441a1497c6f5561"
+    },
+    {
+      "path": "assets/19763-18527.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18527-large_default/rebeca-tricot-cuello-redondo-azul-marino.jpg",
+      "alt": "Rebeca tricot cuello redondo Azul Marino",
+      "sourceId": "18527",
+      "variantIds": [],
+      "sha256": "a2d435f60d20b696a0a632615060599903b62ead1fb5297d46aae4622b55ea23"
+    },
+    {
+      "path": "assets/19763-18528.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18528-large_default/rebeca-tricot-cuello-redondo-azul-marino.jpg",
+      "alt": "Rebeca tricot cuello redondo Azul Marino",
+      "sourceId": "18528",
+      "variantIds": [],
+      "sha256": "2890ac1703c8c1e1508c755c0127aca6f2856dc93ef3282edd499963755a67b2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:23.804Z",
+  "issues": []
+}

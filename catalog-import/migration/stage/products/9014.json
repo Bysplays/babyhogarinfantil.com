@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "id": "9014",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/9014-vestido-vicky-nido-de-abeja-azul-marino.html",
+  "name": "Vestido vicky nido de abeja Azul marino",
+  "brand": "Mayoral",
+  "sku": "2107084",
+  "description": "Vestido con ranita estampado cuadro vichy en marino y blanco, con nido de abeja en el pecho. Cuello bebé. Completamente forrado. Cierre trasero con cremallera invisible hasta media espalda.",
+  "details": "Vestido con ranita de MAYORAL, una de nuestras firmas preferidas! Estampado de cuadro vichy en color marino y blanco, con corte en el pecho con tejido nido de abeja, adornado con un lacito a tono. Mangas con volantes. Cuello bebé con onditas. Cierre trasero con cremallera invisible hasta media espalda. Forro interior rematado en volante para dar mayor vuelo y movimiento al vestido. Incluye ranita en color blanco con goma en la cintura y perneras, y lacito marino decorando la cinturilla. Un vestido cómodo, coqueto y de color alegre y favorecedor, ideal para la época de primavera y verano! Echa un ojito a nuestros leotardos, medias y calcetines de perlé, calzado y accesorios para el pelo y podrás completarlo como más te guste! DISPONIBLE EN COLOR FUCSIA. \n\nComposición y cuidados:\n\nVestido: 60% algodón, 40% poliéster\n\nForro: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Vestido con ranita de<strong> MAYORAL</strong>, una de nuestras firmas preferidas! Estampado de <strong>cuadro vichy</strong> en color marino y blanco, con corte en el pecho con tejido<strong> nido de abeja</strong>, adornado con un lacito a tono. Mangas con volantes. Cuello bebé con onditas. Cierre trasero con<strong> cremallera invisible</strong> hasta media espalda. <strong>Forro interior</strong> rematado en volante para dar mayor vuelo y movimiento al vestido.<strong> Incluye ranita</strong> en color blanco con goma en la cintura y perneras, y lacito marino decorando la cinturilla. Un vestido cómodo, coqueto y de color alegre y favorecedor, ideal para la época de primavera y verano! Echa un ojito a nuestros <strong>leotardos, medias y calcetines de perlé, calzado y accesorios para el pelo</strong> y podrás completarlo como más te guste! <strong>DISPONIBLE EN COLOR FUCSIA. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Vestido: 60% algodón, 40% poliéster</p>\n<p>Forro: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 17.5,
+  "oldPrice": 34.9932,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-27 11:11:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "338",
+          "label": "0-1m"
+        },
+        {
+          "id": "339",
+          "label": "1-2m"
+        },
+        {
+          "id": "340",
+          "label": "2-4m"
+        },
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "73038",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "9284XD14666",
+      "productSku": "2107084",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:57.165Z"
+    },
+    {
+      "id": "147186",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "338",
+          "group": "Tamaño",
+          "value": "0-1m"
+        }
+      ],
+      "sku": "9284XA14666",
+      "productSku": "2107084",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:00.302Z"
+    },
+    {
+      "id": "147187",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "339",
+          "group": "Tamaño",
+          "value": "1-2m"
+        }
+      ],
+      "sku": "9284XB14666",
+      "productSku": "2107084",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:02.062Z"
+    },
+    {
+      "id": "147188",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "9284XC14666",
+      "productSku": "2107084",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:03.329Z"
+    },
+    {
+      "id": "147189",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "9284XE14666",
+      "productSku": "2107084",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:04.972Z"
+    },
+    {
+      "id": "73040",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "9284XF14666",
+      "productSku": "2107084",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:07.557Z"
+    },
+    {
+      "id": "147190",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "9284XG14666",
+      "productSku": "2107084",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:09.858Z"
+    },
+    {
+      "id": "147191",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "9284XH14666",
+      "productSku": "2107084",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:12.374Z"
+    },
+    {
+      "id": "147192",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "9284XI14666",
+      "productSku": "2107084",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:13.781Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9014-7328.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7328-large_default/vestido-vicky-nido-de-abeja-azul-marino.jpg",
+      "alt": "Vestido vicky nido de abeja Azul marino",
+      "sourceId": "7328",
+      "variantIds": [],
+      "sha256": "1f482931a682943895159e28b22f86bfdc730c8272bc6af786ea84b5641e1ae1"
+    },
+    {
+      "path": "assets/9014-11802.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11802-large_default/vestido-vicky-nido-de-abeja-azul-marino.jpg",
+      "alt": "Vestido vicky nido de abeja Azul marino",
+      "sourceId": "11802",
+      "variantIds": [],
+      "sha256": "dff3f9935a3f61bd2c2475ed58f8650cf9afd3540bd93123ef67792931a46126"
+    },
+    {
+      "path": "assets/9014-11801.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11801-large_default/vestido-vicky-nido-de-abeja-azul-marino.jpg",
+      "alt": "Vestido vicky nido de abeja Azul marino",
+      "sourceId": "11801",
+      "variantIds": [],
+      "sha256": "a4e4dd3b27c28a5479240832e1f5e427760f70bf24c1d11a0e7c65f549ea0308"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:14.049Z",
+  "issues": []
+}

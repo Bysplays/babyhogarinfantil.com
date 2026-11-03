@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "17569",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/17569-short-nina-volantes-lila.html",
+  "name": "Short niña volantes Lila",
+  "brand": "Newness",
+  "sku": "2401275",
+  "description": "Adéntrate en el maravilloso mundo de la moda infantil con estos increíbles Shorts Niña Volantes Lila. Con un color vibrante que refleja alegría y una serie de volantes que añaden un toque de distinción, estarás proporcionando a tu hija una pieza de ropa que grita individualidad. Su comodidad excepcional hará que deseé usarlos todos los días, mientras que su belleza estética la convierte en la envidia del parque. Recuerda, no es solo ropa, sino una oportunidad para permitir que su personalidad brille en todo su esplendor. ¡Estos shorts son la elección perfecta para las pequeñas fashionistas!",
+  "details": "Una Única Mezcla De Elegancia Y Comodidad\n\nConvierta a su pequeña en el centro de todas las miradas con estos shorts de volantes lila para niñas. Hechos con una tela suave y duradera, estos shorts son una adición perfecta a su guardarropa. La atracción principal son definitivamente los volantes, aportando un toque femenino y elegante al conjunto.\n\nPerfecto Para Todas Las Ocasiones\n\nEstos shorts de volantes lila son increíbles para cualquier ocasión. Son perfectos para días normales, picnics, cumpleaños, o incluso para eventos especiales. Ya sea que estén jugando en el parque o asistiendo a una fiesta de cumpleaños, su pequeña se verá adorable y a la moda en estos shorts.\n\nOfrece Confort Durante Todo El Dia\n\nAdemás de ser visualmente hermosos, estos shorts de volantes lila son extremadamente cómodos. La tela ligera y elástica aseguran que su pequeña pueda moverse libremente, mientras que el tejido transpirable mantiene a su niña fresca durante todo el día, haciendo que estos shorts sean una opción increíblemente cómoda para cualquier actividad.\n\nAsegúrese de que su pequeña esté siempre a la moda y cómoda. Añada estos shorts de volantes lila a su carrito de compras ahora para darle a su pequeña un bonito conjunto que la hará sentir especial y amada. ¡Compra ahora!\n\nComposición:\n\n100% Algodón",
+  "sourceDescriptionHtml": "<h2>Una Única Mezcla De Elegancia Y Comodidad</h2>\n<p>Convierta a su pequeña en el centro de todas las miradas con estos shorts de volantes lila para niñas. Hechos con una tela suave y duradera, estos shorts son una adición perfecta a su guardarropa. La atracción principal son definitivamente los volantes, aportando un toque femenino y elegante al conjunto.</p>\n<h2>Perfecto Para Todas Las Ocasiones</h2>\n<p>Estos shorts de volantes lila son increíbles para cualquier ocasión. Son perfectos para días normales, picnics, cumpleaños, o incluso para eventos especiales. Ya sea que estén jugando en el parque o asistiendo a una fiesta de cumpleaños, su pequeña se verá adorable y a la moda en estos shorts.</p>\n<h2>Ofrece Confort Durante Todo El Dia</h2>\n<p>Además de ser visualmente hermosos, estos shorts de volantes lila son extremadamente cómodos. La tela ligera y elástica aseguran que su pequeña pueda moverse libremente, mientras que el tejido transpirable mantiene a su niña fresca durante todo el día, haciendo que estos shorts sean una opción increíblemente cómoda para cualquier actividad.</p>\n<p style=\"font-weight:bold;\">Asegúrese de que su pequeña esté siempre a la moda y cómoda. Añada estos shorts de volantes lila a su carrito de compras ahora para darle a su pequeña un bonito conjunto que la hará sentir especial y amada. ¡Compra ahora!</p>\n<p>Composición:</p>\n<p>100% Algodón</p>\n<p></p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2024",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lila",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-05-06 23:54:57",
+  "sourceUpdatedAt": "2026-10-27 11:13:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84348",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2401275",
+      "productSku": "2401275",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:45.669Z"
+    },
+    {
+      "id": "84349",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2401275",
+      "productSku": "2401275",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:47.585Z"
+    },
+    {
+      "id": "84350",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2401275",
+      "productSku": "2401275",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:49.205Z"
+    },
+    {
+      "id": "84351",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2401275",
+      "productSku": "2401275",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:52.395Z"
+    },
+    {
+      "id": "84352",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2401275",
+      "productSku": "2401275",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:55.492Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17569-15348.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15348-large_default/short-nina-volantes-lila.jpg",
+      "alt": "Short niña volantes Lila",
+      "sourceId": "15348",
+      "variantIds": [],
+      "sha256": "9df107612d10e6a4d7106e8e82d221843752d56f8803f2e960758fb963106096"
+    },
+    {
+      "path": "assets/17569-15349.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15349-large_default/short-nina-volantes-lila.jpg",
+      "alt": "Short niña volantes Lila",
+      "sourceId": "15349",
+      "variantIds": [],
+      "sha256": "8a874b246a7e553219be4f13d442cb38fb82d80565fb569fdb573ea4393272e2"
+    },
+    {
+      "path": "assets/17569-15350.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15350-large_default/short-nina-volantes-lila.jpg",
+      "alt": "Short niña volantes Lila",
+      "sourceId": "15350",
+      "variantIds": [],
+      "sha256": "b725031ca46b109146048659221716f525d45a0e8802f6f55500a4fc5979d132"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:55.687Z",
+  "issues": []
+}

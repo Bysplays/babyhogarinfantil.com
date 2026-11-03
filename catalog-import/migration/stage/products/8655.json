@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "8655",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-punto-bebe-nina/8655-conjunto-jubon-y-polaina-flor-rosa-palo-rosa-palo.html",
+  "name": "Conjunto jubón y polaina flor rosa palo Rosa palo",
+  "brand": "A&amp;J",
+  "sku": "2102050",
+  "description": "Conjunto de dos piezas en perlé, 100% algodón, color rosa empolvado. El jubón tiene amplio cuello volante acabado en pequeñas borlitas. Cierre con botones en toda la espalda.",
+  "details": "Conjunto de dos piezas en perlé, 100% algodón, de color rosa empolvado. Compuesto por jubón de manga larga y cuello redondo, con amplio volante acabado en pequeñas borlas en color blanco. El pecho está decorado con detalles en blanco y pequeños pétalos. Cierre trasero con botones en toda la espalda, para facilitar la puesta. La polaina es lisa, con suave canalé elástico en la cintura, y pequeños detalles bordados con hilo en los pies. Un conjunto coqueto, cómodo, ligero y fresquito, perfecto para la época de entretiempo y verano! Echa un ojito a nuestros bodies interiores, toquillas y complementos para la primera puesta y podrás combinarlo como más te guste!\n\nComposición y cuidados: \n\nConjunto: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN PORTUGAL",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas en perlé, <strong>100% algodón</strong>, de color rosa empolvado. Compuesto por jubón de manga larga y cuello redondo, con amplio volante acabado en pequeñas borlas en color blanco. El pecho está decorado con detalles en blanco y pequeños pétalos. Cierre trasero con botones en toda la espalda, para facilitar la puesta. La polaina es lisa, con suave canalé elástico en la cintura, y pequeños detalles bordados con hilo en los pies. Un conjunto coqueto, cómodo, ligero y fresquito, perfecto para la época de entretiempo y verano! Echa un ojito a nuestros <strong>bodies interiores, toquillas y complementos</strong> para la primera puesta y podrás combinarlo como más te guste!</p>\n<p>Composición y cuidados: </p>\n<p>Conjunto: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN PORTUGAL</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa palo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "737",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "737",
+  "sourceCategoryName": "Conjuntos punto bebé niña",
+  "price": 14.48,
+  "oldPrice": 28.9553,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:40",
+  "sourceUpdatedAt": "2026-10-27 11:10:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67734",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2102050",
+      "productSku": "2102050",
+      "taxRate": 21,
+      "price": 14.48,
+      "oldPrice": 28.9553,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:21.407Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8655-11417.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11417-large_default/conjunto-jubon-y-polaina-flor-rosa-palo-rosa-palo.jpg",
+      "alt": "Conjunto jubón y polaina flor rosa palo Rosa palo",
+      "sourceId": "11417",
+      "variantIds": [],
+      "sha256": "977c04c1dec1ae86ec0720e68aec0fda84b769db925f955bcff445a5febad58a"
+    },
+    {
+      "path": "assets/8655-8404.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8404-large_default/conjunto-jubon-y-polaina-flor-rosa-palo-rosa-palo.jpg",
+      "alt": "Conjunto jubón y polaina flor rosa palo Rosa palo",
+      "sourceId": "8404",
+      "variantIds": [],
+      "sha256": "7ba133a35ee9111af014641b08be26f0f4bc9c32d93d0476f5dc6a1dbf3e9daf"
+    },
+    {
+      "path": "assets/8655-8405.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8405-large_default/conjunto-jubon-y-polaina-flor-rosa-palo-rosa-palo.jpg",
+      "alt": "Conjunto jubón y polaina flor rosa palo Rosa palo",
+      "sourceId": "8405",
+      "variantIds": [],
+      "sha256": "5154f664c61084b0661f5db805b6355cf024f8ac4b2541f551d2d0d14f1b4559"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:21.610Z",
+  "issues": []
+}

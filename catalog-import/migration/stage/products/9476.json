@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "9476",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/9476-conjunto-ceremonia-nino-arena.html",
+  "name": "Conjunto ceremonia niño Arena",
+  "brand": "Anavig",
+  "sku": "2202115",
+  "description": "Conjunto de ceremonia de dos piezas, compuesto por camisa de algodón y lino, en color crudo con cuello mao y manga larga con botones para llevar remangada, y pantalón corto en color tostado, con cierre de botón y cremallera, goma en la cintura, trabillas y bolsillos.",
+  "details": "Conjunto de dos piezas de ANAVIG, firma con fabricación española fundada en 1980 dedicada a la confección de vestidos y conjuntos de ceremonia y arras. Compuesto por camisa de algodón y lino, en color crudo. Cuello mao con botones. Manga larga con botón para poder llevar remangada. Y pantalón corto en color arena con cierre de botón y cremallera. Tiene goma en la cintura para mayor confort. Trabillas para poder llevar cinturón y tiene bolsillos. Un conjunto estiloso y atemporal, perfecto para cualquier evento! Echa un ojito a nuestras chaquetas de perlé, ropa interior y calzado y podrás completarlo hasta el mínimo detalle!\n\nComposición y cuidados:\n\nCamisa: 50% algodón, 50% lino\n\nPantalón: 90% algodón, 10% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO LAVAR A MANO\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas de<strong> ANAVIG</strong>, firma con <strong>fabricación española</strong> fundada en 1980 dedicada a la confección de vestidos y conjuntos de ceremonia y arras. Compuesto por camisa de <strong>algodón y lino</strong>, en color crudo. <strong>Cuello mao</strong> con botones. Manga larga con botón para poder llevar remangada. Y pantalón corto en color arena con cierre de botón y cremallera. Tiene goma en la cintura para mayor confort. Trabillas para poder llevar cinturón y tiene bolsillos. Un conjunto estiloso y atemporal, perfecto para cualquier evento! Echa un ojito a nuestras <strong>chaquetas de perlé, ropa interior y calzado</strong> y podrás completarlo hasta el mínimo detalle!</p>\n<p>Composición y cuidados:</p>\n<p>Camisa: 50% algodón, 50% lino</p>\n<p>Pantalón: 90% algodón, 10% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO LAVAR A MANO</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Arena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824",
+    "825",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 25,
+  "oldPrice": 49.990001,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69295",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2202115",
+      "productSku": "2202115",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": 49.990001,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:20.934Z"
+    },
+    {
+      "id": "69298",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2202115",
+      "productSku": "2202115",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": 49.990001,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:23.755Z"
+    },
+    {
+      "id": "69299",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2202115",
+      "productSku": "2202115",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": 49.990001,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:27.744Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9476-12372.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12372-large_default/conjunto-ceremonia-nino-arena.jpg",
+      "alt": "Conjunto ceremonia niño Arena",
+      "sourceId": "12372",
+      "variantIds": [],
+      "sha256": "089cc43688b4d3a59a14ca32135a42bfe7dc401a29ada7a198f17289140792bd"
+    },
+    {
+      "path": "assets/9476-8862.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8862-large_default/conjunto-ceremonia-nino-arena.jpg",
+      "alt": "Conjunto ceremonia niño Arena",
+      "sourceId": "8862",
+      "variantIds": [],
+      "sha256": "de083f352ca1569cc09febe31d00dd62e6d44e7c75dd21f5c4e42ba5104f9947"
+    },
+    {
+      "path": "assets/9476-8863.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8863-large_default/conjunto-ceremonia-nino-arena.jpg",
+      "alt": "Conjunto ceremonia niño Arena",
+      "sourceId": "8863",
+      "variantIds": [],
+      "sha256": "d47836b01e4740714f228c44d0b2167128aeda52183eaf54d5ebc0b3dccf0f9a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:27.964Z",
+  "issues": []
+}

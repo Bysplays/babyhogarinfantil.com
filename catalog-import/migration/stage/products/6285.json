@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "6285",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-pom-pom/6285-calcetin-alto-con-borlas-camel.html",
+  "name": "Calcetín alto con borlas Camel",
+  "brand": "Condor",
+  "sku": "1020",
+  "description": "Calcetín alto con borlas en ALGODON CALIDO.",
+  "details": "Composición:\nCalcetín alto: 80% algodón, 20% poliamida.",
+  "sourceDescriptionHtml": "<p>Composición:<br />Calcetín alto: 80% algodón, 20% poliamida.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "686",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "686",
+  "sourceCategoryName": "Calcetines con pom-pom",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 12,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63192",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:14.645Z"
+    },
+    {
+      "id": "82126",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:17.514Z"
+    },
+    {
+      "id": "63193",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:20.585Z"
+    },
+    {
+      "id": "63194",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:23.513Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6285-4259.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4259-large_default/calcetin-alto-con-borlas-camel.jpg",
+      "alt": "Calcetín alto con borlas Camel",
+      "sourceId": "4259",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6285-9502.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9502-large_default/calcetin-alto-con-borlas-camel.jpg",
+      "alt": "Calcetín alto con borlas Camel",
+      "sourceId": "9502",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6285-4258.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4258-large_default/calcetin-alto-con-borlas-camel.jpg",
+      "alt": "Calcetín alto con borlas Camel",
+      "sourceId": "4258",
+      "variantIds": [],
+      "sha256": "9f84621c9800d418200093ce96953701f8f17c29be4022c37d46393a68f3fe31"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:23.683Z",
+  "issues": []
+}

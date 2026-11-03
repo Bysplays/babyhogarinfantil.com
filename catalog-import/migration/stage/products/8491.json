@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "8491",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/8491-pantalon-jegging-gris.html",
+  "name": "Pantalón Jegging Gris",
+  "brand": "Zippy",
+  "sku": "2010014",
+  "description": "Descubre la comodidad y estilo insuperable del Pantalón Jegging Gris para niñas. Confeccionado con tela suave, garantiza un ajuste perfecto para todas sus aventuras. Su tono gris versátil combina fácilmente con cualquier camiseta o suéter, haciendo de este pantalón un elemento esencial en su guardarropa. El diseño jegging ofrece la apariencia de un vaquero con la comodidad de un legging. Ideal para el colegio, juegos y salidas, este Pantalón Jegging Gris promete ser su nuevo favorito. ¡Déjala destacar y sentirse fabulosa todos los días!",
+  "details": "Estilo y Comodidad\n\nLos Pantalones Jegging Gris son un imprescindible en el guardarropa de cualquier niño. Confeccionados con materiales de la más alta calidad, estos pantalones garantizan una comodidad excepcional durante todo el día. Su elegante color gris los convierte en una elección perfecta para cualquier ocasión.\n\n\nResistencia y Durabilidad\n\nEstos Pantalones Jegging Gris están diseñados para durar. Resistentes al desgaste y las manchas, soportarán las actividades más activas de los pequeños. Los pantalones son fáciles de lavar y mantendrán su forma y color lavado tras lavado.\n\n\nFlexible y Versátil\n\nLos Pantalones Jegging Gris son extremadamente versátiles. Ya sea para la guardería, para jugar con amigos o para una ocasión especial, estos pantalones son la elección perfecta. Fáciles de combinar, pueden usarse con una camisa elegante para un look más formal, o con una camiseta para el día a día.\n\n\nNo pierdas la oportunidad de tener estos pantalones en el guardarropa de tus pequeños. Ofrece comodidad, resistencia y versatilidad con un solo clic. ¡Consigue tus Pantalones Jegging Gris hoy mismo!",
+  "sourceDescriptionHtml": "<h2>Estilo y Comodidad</h2>\n<p>Los Pantalones Jegging Gris son un imprescindible en el guardarropa de cualquier niño. Confeccionados con materiales de la más alta calidad, estos pantalones garantizan una comodidad excepcional durante todo el día. Su elegante color gris los convierte en una elección perfecta para cualquier ocasión.</p>\n\n<h2>Resistencia y Durabilidad</h2>\n<p>Estos Pantalones Jegging Gris están diseñados para durar. Resistentes al desgaste y las manchas, soportarán las actividades más activas de los pequeños. Los pantalones son fáciles de lavar y mantendrán su forma y color lavado tras lavado.</p>\n\n<h2>Flexible y Versátil</h2>\n<p>Los Pantalones Jegging Gris son extremadamente versátiles. Ya sea para la guardería, para jugar con amigos o para una ocasión especial, estos pantalones son la elección perfecta. Fáciles de combinar, pueden usarse con una camisa elegante para un look más formal, o con una camiseta para el día a día.</p>\n\n<p>No pierdas la oportunidad de tener estos pantalones en el guardarropa de tus pequeños. Ofrece comodidad, resistencia y versatilidad con un solo clic. ¡Consigue tus Pantalones Jegging Gris hoy mismo!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:37",
+  "sourceUpdatedAt": "2026-10-27 11:10:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67507",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2010014",
+      "productSku": "2010014",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:57.954Z"
+    },
+    {
+      "id": "67508",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2010014",
+      "productSku": "2010014",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:59.756Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8491-11209.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11209-large_default/pantalon-jegging-gris.jpg",
+      "alt": "Pantalón Jegging Gris",
+      "sourceId": "11209",
+      "variantIds": [],
+      "sha256": "0feb7bfe4752d905bb612c8d31cae865dd062d84494660f1e33f9da52c48b7a4"
+    },
+    {
+      "path": "assets/8491-11210.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11210-large_default/pantalon-jegging-gris.jpg",
+      "alt": "Pantalón Jegging Gris",
+      "sourceId": "11210",
+      "variantIds": [],
+      "sha256": "41dfc9c481fcee2337dd7419e19943c9060a880dfa526f149f17f445755bf9a6"
+    },
+    {
+      "path": "assets/8491-11211.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11211-large_default/pantalon-jegging-gris.jpg",
+      "alt": "Pantalón Jegging Gris",
+      "sourceId": "11211",
+      "variantIds": [],
+      "sha256": "08d9d50c7ce7902f527dd7b0cf991c4676760af510ca60d95976389b28db40b0"
+    },
+    {
+      "path": "assets/8491-6797.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6797-large_default/pantalon-jegging-gris.jpg",
+      "alt": "Pantalón Jegging Gris",
+      "sourceId": "6797",
+      "variantIds": [],
+      "sha256": "46c45377b184807f9ccad3e7348729f23f3e2a83a6a303068eb1c7a2b284550d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:00.103Z",
+  "issues": []
+}

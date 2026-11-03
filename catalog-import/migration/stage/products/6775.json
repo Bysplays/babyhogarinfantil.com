@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "6775",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/6775-gorro-pique-lazo-fucsia.html",
+  "name": "Gorro piqué lazo Fucsia",
+  "brand": "Niseret",
+  "sku": "1703148",
+  "description": "Gorro de piqué con lazo de adorno en la parte delantera. Tiene goma en la parte trasera. Completamente forrado. La talla es el diámetro de la cabeza.",
+  "details": "Gorro de NISERET, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De piqué con lazo en la parte delantera y goma en la parte trasera, para un mejor ajuste. Completamente forrado en el interior. Un complemento perfecto para darle el toque final a los vestidos y conjuntos de tu peque, además de protegerla del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. \n\nComposición y cuidados:\n\nGorro: 55% algodón, 45% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro de <strong style=\"margin:0px;padding:0px;\">NISERET</strong>, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De piqué con lazo en la parte delantera y goma en la parte trasera, para un mejor ajuste. <strong style=\"margin:0px;padding:0px;\">Completamente forrado</strong> en el interior. Un complemento perfecto para darle el toque final a los vestidos y conjuntos de tu peque, además de <strong style=\"margin:0px;padding:0px;\">protegerla del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. </strong></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición y cuidados:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro: 55% algodón, 45% poliéster</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><strong style=\"margin:0px;padding:0px;\">FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 15,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64298",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "1703148",
+      "productSku": "1703148",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:29.159Z"
+    },
+    {
+      "id": "64299",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "1703148",
+      "productSku": "1703148",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:32.500Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6775-9763.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9763-large_default/gorro-pique-lazo-fucsia.jpg",
+      "alt": "Gorro piqué lazo Fucsia",
+      "sourceId": "9763",
+      "variantIds": [],
+      "sha256": "bf65608db082e2c84dcf1f77071eb8de0eb113a3d9cc9760a1512471a2ae54d1"
+    },
+    {
+      "path": "assets/6775-9764.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9764-large_default/gorro-pique-lazo-fucsia.jpg",
+      "alt": "Gorro piqué lazo Fucsia",
+      "sourceId": "9764",
+      "variantIds": [],
+      "sha256": "75fb057f30a60b75881ce60fa4f6f7dbcad96674fd42ff1e85e91ae64b3ee2c4"
+    },
+    {
+      "path": "assets/6775-9762.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9762-large_default/gorro-pique-lazo-fucsia.jpg",
+      "alt": "Gorro piqué lazo Fucsia",
+      "sourceId": "9762",
+      "variantIds": [],
+      "sha256": "b54274170f95a71e0473e41c9bf4a695e096f64d14dc8bf7793707464e8d8bab"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:32.706Z",
+  "issues": []
+}

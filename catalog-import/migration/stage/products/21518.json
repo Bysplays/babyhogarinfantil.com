@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "21518",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals-nino/21518-chandal-con-crremallera-negro.html",
+  "name": "Chandal con crremallera Negro",
+  "brand": "Yatsi",
+  "sku": "2502155",
+  "description": "Chandal 2 piezas con: sudadera con capucha y cremallera, pantalón con cintura de goma y cordón ajustable, bajos con elástico y bolsillos funcionales. El chandal es todo con felpa interior para que sea cálido en el invierno.",
+  "details": "Composición:\n\nChandal: 60% algodón, 40% poléster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Chandal:</strong> 60% algodón, 40% poléster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "798"
+  ],
+  "sourceDefaultCategoryId": "798",
+  "sourceCategoryName": "Chandals niño",
+  "price": 34,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:09",
+  "sourceUpdatedAt": "2026-10-27 11:14:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96923",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502155",
+      "productSku": "2502155",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:14.341Z"
+    },
+    {
+      "id": "96926",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2502155",
+      "productSku": "2502155",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:16.072Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21518-20133.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20133-large_default/chandal-con-crremallera-negro.jpg",
+      "alt": "Chandal con crremallera Negro",
+      "sourceId": "20133",
+      "variantIds": [],
+      "sha256": "59a3500e0193b7c5f5657b19ec03163a8091e03cb4dc73481135c12cbebb306b"
+    },
+    {
+      "path": "assets/21518-20134.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20134-large_default/chandal-con-crremallera-negro.jpg",
+      "alt": "Chandal con crremallera Negro",
+      "sourceId": "20134",
+      "variantIds": [],
+      "sha256": "3c772abeca1fdeb6b4f26a8cd05e74b45d7114d692a5b6ed463308e03bba2900"
+    },
+    {
+      "path": "assets/21518-20135.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20135-large_default/chandal-con-crremallera-negro.jpg",
+      "alt": "Chandal con crremallera Negro",
+      "sourceId": "20135",
+      "variantIds": [],
+      "sha256": "0673411016eeb91691e72bc4ee4cde3cfe38fb774103d2e6bb8495059c9a8950"
+    },
+    {
+      "path": "assets/21518-20136.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20136-large_default/chandal-con-crremallera-negro.jpg",
+      "alt": "Chandal con crremallera Negro",
+      "sourceId": "20136",
+      "variantIds": [],
+      "sha256": "0673411016eeb91691e72bc4ee4cde3cfe38fb774103d2e6bb8495059c9a8950"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:16.318Z",
+  "issues": []
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "9996",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9996-conjunto-algodon-tres-piezas-rojo.html",
+  "name": "Conjunto algodon tres piezas Rojo",
+  "brand": "Babybol",
+  "sku": "2208131",
+  "description": "Enamorante del Conjunto de algodón de tres piezas en Rojo para bebés niños. Hecho de algodón suave, este conjunto no solo aportará comodidad durante todo el día, sino que también acentuará la ternura de tu bebé. La coloración roja brinda una apariencia gallarda que asegurará que tu pequeño esté siempre a la moda. Ideal para actividades deportivas y de ocio, este conjunto es una adición imprescindible para el guardarropa de tu niño.",
+  "details": "Disfruta de la Comodidad y Elegancia\n\nEnfúndale a tu pequeño en el conjunto de algodón de tres piezas en color rojo, madeja magnífica de confort absoluto. Con una tela súper suave y cálida, este conjunto es perfecto para los días de invierno y las noches frescas de verano. Transmite una sensación de cariño y cuidado que cada niño merece sentir. \n\n\nRobustecer la Belleza Natural\n\nRealza la belleza y la inocencia de tu pequeño con este deslumbrante conjunto de algodón de tres piezas en color rojo. El color vibrante complementa perfectamente el resplandor natural de tu pequeño, haciendo que destaque en cada reunión o evento. Este producto es un testimonio impresionante de que la comodidad no necesita ser comprometida por la belleza. \n\n\nCalidad que se Puede Sentir\n\nHecho de algodón de primera calidad, este tres piezas promete durabilidad y resistencia. Cada puntada habla de la artesanía de excelencia que se ha empleado. El conjunto mantiene su textura y color incluso después de múltiples lavados, asegurando que tu pequeño siempre tenga lo mejor.\n\n\nDa al botón de compra ahora y destella a tu pequeño con este deslumbrante conjunto de algodón de tres piezas en color rojo. Siente el cariño que este conjunto aporta y descubre lo que significa la verdadera comodidad.",
+  "sourceDescriptionHtml": "<h2>Disfruta de la Comodidad y Elegancia</h2>\n<p>Enfúndale a tu pequeño en el conjunto de algodón de tres piezas en color rojo, madeja magnífica de confort absoluto. Con una tela súper suave y cálida, este conjunto es perfecto para los días de invierno y las noches frescas de verano. Transmite una sensación de cariño y cuidado que cada niño merece sentir. </p>\n\n<h2>Robustecer la Belleza Natural</h2>\n<p>Realza la belleza y la inocencia de tu pequeño con este deslumbrante conjunto de algodón de tres piezas en color rojo. El color vibrante complementa perfectamente el resplandor natural de tu pequeño, haciendo que destaque en cada reunión o evento. Este producto es un testimonio impresionante de que la comodidad no necesita ser comprometida por la belleza. </p>\n\n<h2>Calidad que se Puede Sentir</h2>\n<p>Hecho de algodón de primera calidad, este tres piezas promete durabilidad y resistencia. Cada puntada habla de la artesanía de excelencia que se ha empleado. El conjunto mantiene su textura y color incluso después de múltiples lavados, asegurando que tu pequeño siempre tenga lo mejor.</p>\n\n<p><strong>Da al botón de compra ahora y destella a tu pequeño con este deslumbrante conjunto de algodón de tres piezas en color rojo. Siente el cariño que este conjunto aporta y descubre lo que significa la verdadera comodidad.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 34.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:56",
+  "sourceUpdatedAt": "2026-10-27 11:12:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70617",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2208131",
+      "productSku": "2208131",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:00.175Z"
+    },
+    {
+      "id": "100965",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2208131",
+      "productSku": "2208131",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:01.319Z"
+    },
+    {
+      "id": "70618",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2208131",
+      "productSku": "2208131",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:02.512Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9996-8071.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8071-large_default/conjunto-algodon-tres-piezas-rojo.jpg",
+      "alt": "Conjunto algodon tres piezas Rojo",
+      "sourceId": "8071",
+      "variantIds": [],
+      "sha256": "e556af224b12a2e2432bca9d5a4c2107395499731fa90bc7e6f92929a4a259b5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:02.580Z",
+  "issues": []
+}

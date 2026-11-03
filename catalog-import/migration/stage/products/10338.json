@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10338",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/10338-conjunto-polaina-algodon-gatito-gris.html",
+  "name": "Conjunto polaina algodon gatito Gris",
+  "brand": "Talaman",
+  "sku": "2301098",
+  "description": "Pijamita con pie, en algodón verano.",
+  "details": "Composición y cuidados:\n\nPijama dos piezas: 95% algodón, 5% elastano.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pijama dos piezas: 95% algodón, 5% elastano.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71670",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2301098",
+      "productSku": "2301098",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:26.853Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10338-8394.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8394-large_default/conjunto-polaina-algodon-gatito-gris.jpg",
+      "alt": "Conjunto polaina algodon gatito Gris",
+      "sourceId": "8394",
+      "variantIds": [],
+      "sha256": "b066ff617ad0f74a71446922b328edd09135f7e51722c5135ef4fefc7133f36b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:26.895Z",
+  "issues": []
+}

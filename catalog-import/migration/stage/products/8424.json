@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "8424",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/8424-camiseta-basica-larga-bebe-nina-crudo.html",
+  "name": "Camiseta básica larga bebé niña Crudo",
+  "brand": "Zippy",
+  "sku": "2008015",
+  "description": "Camiseta básica larga bebé niña Crudo 100% algodón. Este artículo imprescindible completará el armario de tu pequeña a la perfección. La Camiseta Básica Larga Bebé Niña Crudo redefine la comodidad y la elegancia con su tejido extraordinariamente suave y su encantador color crudo, que combina sin esfuerzo con cualquier prenda. Con manga larga para esas noches frescas, esta camiseta promete mantener a tu princesa abrigada mientras se luce. Ideal para cualquier ocasión, desde jugar en el parque hasta cenas familiares. Llena de amor y ternura, es la elección ideal para vestir a las niñas pequeñas con elegancia y estilo. Haz la diferencia hoy y embellece a tu niña con lo mejor. Camiseta básica manga larga algodón. Con botón en el cuello. Color Crudo.",
+  "details": "Comodidad y Calidad sin Compromiso\n\nDescubre el encanto de la comodidad premium para los más pequeños con nuestra Camiseta Básica Larga Bebé Niña Crudo. Fabricada con materiales de alta calidad que son amables con la delicada piel de tu bebé. Diseñada para proporcionar una comodidad duradera, suavidad y una adaptación perfecta para tu bebé.\n\nPerfecta para Cualquier Ocasión\n\nPor su diseño versátil y clásico, esta camiseta básica larga para bebés niñas en color crudo es perfecta para conjuntar con cualquier prenda. Tanto para un día de juego, como para una tarde de paseo, tu pequeña siempre lucirá adorable y se sentirá fenomenal. Perfecta para mezclar y combinar, esta es una prenda versátil que no puede faltar en el guardarropa de tu bebé.\n\nSencillamente Adorable\n\nLlena el mundo de tu pequeña con la ternura y el estilo que ofrece nuestra camiseta básica larga para bebe niña color crudo. Con un diseño simple pero bonito, esta camiseta destacará en cualquier conjunto, y hará que tu niña esté lista para la foto perfecta en todo momento.\n\n¡No esperes más! Añade esta prenda indispensable a su armario ahora y disfruta viendo a tu pequeña cómoda y adorable. Haz clic en 'añadir a la cesta' para comprar.",
+  "sourceDescriptionHtml": "<h3>Comodidad y Calidad sin Compromiso</h3>\n<p>Descubre el encanto de la comodidad premium para los más pequeños con nuestra <strong>Camiseta Básica Larga Bebé Niña Crudo</strong>. Fabricada con materiales de alta calidad que son amables con la delicada piel de tu bebé. Diseñada para proporcionar una comodidad duradera, suavidad y una adaptación perfecta para tu bebé.</p>\n<h3>Perfecta para Cualquier Ocasión</h3>\n<p>Por su diseño versátil y clásico, esta camiseta básica larga para bebés niñas en color crudo es perfecta para conjuntar con cualquier prenda. Tanto para un día de juego, como para una tarde de paseo, tu pequeña siempre lucirá adorable y se sentirá fenomenal. Perfecta para mezclar y combinar, esta es una prenda versátil que no puede faltar en el guardarropa de tu bebé.</p>\n<h3>Sencillamente Adorable</h3>\n<p>Llena el mundo de tu pequeña con la ternura y el estilo que ofrece nuestra camiseta básica larga para bebe niña color crudo. Con un diseño simple pero bonito, esta camiseta destacará en cualquier conjunto, y hará que tu niña esté lista para la foto perfecta en todo momento.</p>\n<p><strong>¡No esperes más!</strong> Añade esta prenda indispensable a su armario ahora y disfruta viendo a tu pequeña cómoda y adorable. Haz clic en 'añadir a la cesta' para comprar.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 4.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:37",
+  "sourceUpdatedAt": "2026-10-27 11:10:49",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67446",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2008015",
+      "productSku": "2008015",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:20.545Z"
+    },
+    {
+      "id": "67448",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2008015",
+      "productSku": "2008015",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:22.265Z"
+    },
+    {
+      "id": "67449",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2008015",
+      "productSku": "2008015",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:23.652Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8424-8281.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8281-large_default/camiseta-basica-larga-bebe-nina-crudo.jpg",
+      "alt": "Camiseta básica larga bebé niña Crudo",
+      "sourceId": "8281",
+      "variantIds": [],
+      "sha256": "3b37e51d6201200c75c53032459650e4c8d5ac3ba759fa5b850b9f44c5c61258"
+    },
+    {
+      "path": "assets/8424-14979.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14979-large_default/camiseta-basica-larga-bebe-nina-crudo.jpg",
+      "alt": "Camiseta básica larga bebé niña Crudo",
+      "sourceId": "14979",
+      "variantIds": [],
+      "sha256": "c3b5a308be6a12e4d78067d47314017540aa8160539b97b74a8eb3bc1a3ea2ed"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:23.774Z",
+  "issues": []
+}

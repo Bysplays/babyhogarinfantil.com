@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "9503",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/9503-merceditas-con-lazo-rojo.html",
+  "name": "Merceditas con lazo Rojo",
+  "brand": "Mayoral",
+  "sku": "2202145",
+  "description": "Merceditas con lazo y cierre de velcro.",
+  "details": "Corte y empeine 100% poliuretano.\n\nForro y plantilla 100% algodon.\n\nSuela sintetica.",
+  "sourceDescriptionHtml": "<p>Corte y empeine 100% poliuretano.</p>\n<p>Forro y plantilla 100% algodon.</p>\n<p>Suela sintetica.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 13.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "257",
+          "label": "17"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69379",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "2202145",
+      "productSku": "2202145",
+      "taxRate": 21,
+      "price": 13.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:34.317Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9503-12438.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12438-large_default/merceditas-con-lazo-rojo.jpg",
+      "alt": "Merceditas con lazo Rojo",
+      "sourceId": "12438",
+      "variantIds": [],
+      "sha256": "f09937699a3ff691bb595e69e9eb8d17b97a2bece550836cf0bf06efdfcf8e6a"
+    },
+    {
+      "path": "assets/9503-12437.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12437-large_default/merceditas-con-lazo-rojo.jpg",
+      "alt": "Merceditas con lazo Rojo",
+      "sourceId": "12437",
+      "variantIds": [],
+      "sha256": "079b91a5a7849980d5ebd63015b9940d11aefe6ba993a203cbaf9b8e10bffaa1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:34.444Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10060",
+  "sourceUrl": "https://babyhogarinfantil.com/patucos/10060-patuco-punto-invierno-azul-celeste.html",
+  "name": "Patuco punto invierno Azul Celeste",
+  "brand": "Mac Ilusión",
+  "sku": "2208171",
+  "description": "Patuco invierno 100% acrílico Bayer antialérgico.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "779"
+  ],
+  "sourceDefaultCategoryId": "779",
+  "sourceCategoryName": "Patucos",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70773",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10657XA16555",
+      "productSku": "2208171",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:26.193Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10060-8109.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8109-large_default/patuco-punto-invierno-azul-celeste.jpg",
+      "alt": "Patuco punto invierno Azul Celeste",
+      "sourceId": "8109",
+      "variantIds": [],
+      "sha256": "12f3c411297c3e209da21f530808b1221c06f5637468b0779c038bf25f4ed5f1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:26.235Z",
+  "issues": []
+}

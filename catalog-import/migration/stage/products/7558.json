@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "7558",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/7558-camiseta-stop-play-azul-cobalto.html",
+  "name": "Camiseta STOP PLAY Azul Cobalto",
+  "brand": "Zippy",
+  "sku": "1902050",
+  "description": "Camiseta bebé manga larga, con corchetes en el cuello para facilitar la puesta.",
+  "details": "Camiseta de ZIPPY de manga larga, cuello redondo y corchetes en el cuello para facilitar la puesta. En color azulón, con mensaje en el pecho en amarillo. Una camiseta cómoda, suave y ligera, ideal para combinar con pantalones de todos los colores o vaqueros. Echa un vistazo a nuestra sección de sudaderas y chaquetas y podrás completar el look. \n\nComposición: \n\nCamista: 100% algodón\n\n \n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO SECAR EN SECADORA\n\nNO LAVAR EN SECO\n\nPLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)",
+  "sourceDescriptionHtml": "<p>Camiseta de<strong> ZIPPY</strong> de manga larga, cuello redondo y corchetes en el cuello para facilitar la puesta. En color azulón, con mensaje en el pecho en amarillo. <span style=\"color:#777777;font-family:robotoregular;font-size:14px;\">Una camiseta cómoda, suave y ligera, ideal para combinar con pantalones de todos los colores o vaqueros. Echa un vistazo a nuestra sección de sudaderas y chaquetas y podrás completar el look. </span></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición: </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Camista: 100% algodón</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"> </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO SECAR EN SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO LAVAR EN SECO</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Cobalto",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 4.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65927",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1902050",
+      "productSku": "1902050",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:07.019Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7558-5518.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5518-large_default/camiseta-stop-play-azul-cobalto.jpg",
+      "alt": "Camiseta STOP PLAY Azul Cobalto",
+      "sourceId": "5518",
+      "variantIds": [],
+      "sha256": "5950d6f4d78c0ebe2d1782280fda3c6078a911fee031e62647f1fb1caa36f8c9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:07.069Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9871",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/9871-conjunto-legin-bebe-nina-felpa-rosa-palo.html",
+  "name": "Conjunto legin bebe niña felpa Rosa Palo",
+  "brand": "Babybol",
+  "sku": "2207092",
+  "description": "Envuelve a tu pequeña joya en el Conjunto Legin Bebé Niña Felpa Rosa Palo. Ideal para los días más frescos, aporta calidez y suavidad sin igual. Descubre cómo contrasta con su delicada piel, aportándole un look encantador y adorable. Te enamorarás de las dulces risas que provocará este conjunto. Este atuendo de gran calidad y diseño inigualable hará que tu niña se sienta abrigada y confortable. Un regalo que despierta ternura. ¡Añádelo al carrito ahora para experiencias adorables!",
+  "details": "Composición y cuidados:\n\nConjunto: 95% algodón, 5% elastano.\n\nNO USAR SECADORA\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Conjunto: 95% algodón, 5% elastano.</p>\n<p>NO USAR SECADORA</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa palo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70260",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2207092",
+      "productSku": "2207092",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:45.264Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9871-8003.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8003-large_default/conjunto-legin-bebe-nina-felpa-rosa-palo.jpg",
+      "alt": "Conjunto legin bebe niña felpa Rosa Palo",
+      "sourceId": "8003",
+      "variantIds": [],
+      "sha256": "2337d0a1217c993cb5bd428d03a8910b98ed28ba385d06e7a6673d63c6f502d6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:45.328Z",
+  "issues": []
+}

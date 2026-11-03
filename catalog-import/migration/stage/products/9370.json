@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "9370",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys/9370-sudadera-nina-verano-algodon-tokyo-blanco.html",
+  "name": "Sudadera niña verano algodon Tokyo Blanco",
+  "brand": "Zippy",
+  "sku": "2201064",
+  "description": "Sudadera en color crudo con estampado de muñeca y flores en el pecho. Acabado de canalé elástico en cuello, puños y cinturilla. Las mangas son ligeramente abullonadas.",
+  "details": "Sudadera de entretiempo de ZIPPY, una de nuestras firmas preferidas! En color crudo con estampado de muñeca japonesa en el pecho y florecillas de colores con detalles de purpurina. Acabado de canalé elástico en cuello, puños y cinturilla, para un mayor ajuste. Las mangas son ligeramente abullonadas. Una prenda coqueta, cómoda e ideal para darle un toque original a todos los conjuntos sport de tu peque! Echa un ojito a nuestros leggings y pantalones, ropa interior y calzado y podrás completarla como más te guste!\n\nComposición y cuidados:\n\nSudadera: 67% algodón, 33% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Sudadera de entretiempo de <strong>ZIPPY</strong>, una de nuestras firmas preferidas! En color crudo con estampado de <strong>muñeca japonesa</strong> en el pecho y florecillas de colores con detalles de purpurina. Acabado de canalé elástico en cuello, puños y cinturilla, para un mayor ajuste. Las mangas son ligeramente <strong>abullonadas</strong>. Una prenda coqueta, cómoda e ideal para darle un toque original a todos los conjuntos sport de tu peque! Echa un ojito a nuestros <strong>leggings y pantalones, ropa interior y calzado</strong> y podrás completarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Sudadera: 67% algodón, 33% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "772",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "772",
+  "sourceCategoryName": "Sudaderas y jerseys",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69095",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2201064",
+      "productSku": "2201064",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:23.744Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9370-7626.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7626-large_default/sudadera-nina-verano-algodon-tokyo-blanco.jpg",
+      "alt": "Sudadera niña verano algodon Tokyo Blanco",
+      "sourceId": "7626",
+      "variantIds": [],
+      "sha256": "e3daff6dc6e9e5c99713729048445df48b869e0f6c02edba81375c9b2c207194"
+    },
+    {
+      "path": "assets/9370-12260.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12260-large_default/sudadera-nina-verano-algodon-tokyo-blanco.jpg",
+      "alt": "Sudadera niña verano algodon Tokyo Blanco",
+      "sourceId": "12260",
+      "variantIds": [],
+      "sha256": "63fa29265bd531833cb628a94ded785cf988553ba78386fe3ea832ded7cdd9ce"
+    },
+    {
+      "path": "assets/9370-12262.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12262-large_default/sudadera-nina-verano-algodon-tokyo-blanco.jpg",
+      "alt": "Sudadera niña verano algodon Tokyo Blanco",
+      "sourceId": "12262",
+      "variantIds": [],
+      "sha256": "08d9d50c7ce7902f527dd7b0cf991c4676760af510ca60d95976389b28db40b0"
+    },
+    {
+      "path": "assets/9370-7624.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7624-large_default/sudadera-nina-verano-algodon-tokyo-blanco.jpg",
+      "alt": "Sudadera niña verano algodon Tokyo Blanco",
+      "sourceId": "7624",
+      "variantIds": [],
+      "sha256": "59a9cb70a8935a3137ed1267a782f6e20ff64f56a43fcf6437b91f7f92b18a6b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:23.959Z",
+  "issues": []
+}

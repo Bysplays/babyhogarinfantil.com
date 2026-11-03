@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "21386",
+  "sourceUrl": "https://babyhogarinfantil.com/patucos/21386-patucos-pompom-nuez.html",
+  "name": "Patucos pompom Nuez",
+  "brand": "Mac Ilusión",
+  "sku": "2307009",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nuez",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "779"
+  ],
+  "sourceDefaultCategoryId": "779",
+  "sourceCategoryName": "Patucos",
+  "price": 11.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-16 23:53:44",
+  "sourceUpdatedAt": "2026-10-27 11:12:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "148705",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11361XA17498",
+      "productSku": "2307009",
+      "taxRate": 21,
+      "price": 11.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:21.364Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:21.364Z",
+  "issues": [
+    "No verified images"
+  ]
+}

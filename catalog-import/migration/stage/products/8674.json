@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "8674",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nino/8674-deportivo-nino-loneta-velcro-frederic-azul.html",
+  "name": "Deportivo niño loneta velcro Frederic Azul",
+  "brand": "Chicco",
+  "sku": "2103024",
+  "description": "Zapatilla deportiva en loneta, color tejano oscuro con detalles en naranja y cierre doble con velcro.",
+  "details": "Zapatillas deportivas de CHICCO, una de nuestra firmas preferidas! De tejido loneta, con doble tira de velcro ajustable de cierre, para mejor sujeción y confort. Color tejano oscuro con detalles en naranja. Suela FLEX-ZONE con líneas flexibles para garantizar el movimiento natural del pie. Plantilla NATURAL CHICCO, que apoya el desarrollo natural del arco plantar. Un calzado ligero, flexible, cómodo y transpirable, perfecto para poner el broche de oro a cualquier conjunto! Echa un ojito a nuestros calcetines, gorros y viseras para el sol! \n\nComposición y cuidados:\n\nParte superior: tela\n\nForro: tela\n\nSuela: termoplástico\n\nPlantilla: tela\n\nNO LAVAR A MÁQUINA \n\nELIMINAR LA SUCIEDAD CON UN PAÑO HÚMEDO Y DEJAR SECAR ALEJADO DE FUENTES DE CALOR\n\nNO USAR DISPOSITIVOS ELECTRÓNICOS DE SECADO",
+  "sourceDescriptionHtml": "<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">Zapatillas deportivas de <strong>CHICCO</strong>, una de nuestra firmas preferidas! De tejido loneta, con doble tira de velcro ajustable de cierre, para mejor sujeción y confort. Color tejano oscuro con detalles en naranja. <strong>Suela FLEX-ZONE</strong> con líneas flexibles para garantizar el movimiento natural del pie. <strong>Plantilla NATURAL CHICCO</strong>, que apoya el desarrollo natural del arco plantar. Un calzado ligero, flexible, cómodo y transpirable, perfecto para poner el broche de oro a cualquier conjunto! Echa un ojito a nuestros <strong>calcetines, gorros y viseras para el sol</strong>! </span></span></p>\n<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">Composición y cuidados:</span></span></p>\n<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">Parte superior: tela</span></span></p>\n<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">Forro: tela</span></span></p>\n<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">Suela: termoplástico</span></span></p>\n<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">Plantilla: tela</span></span></p>\n<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">NO LAVAR A MÁQUINA </span></span></p>\n<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">ELIMINAR LA SUCIEDAD CON UN PAÑO HÚMEDO Y DEJAR SECAR ALEJADO DE FUENTES DE CALOR</span></span></p>\n<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">NO USAR DISPOSITIVOS ELECTRÓNICOS DE SECADO</span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "701"
+  ],
+  "sourceDefaultCategoryId": "701",
+  "sourceCategoryName": "Calzado Niño",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:40",
+  "sourceUpdatedAt": "2026-10-27 11:10:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "281",
+          "label": "28"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67777",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "2103024",
+      "productSku": "2103024",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:04.679Z"
+    },
+    {
+      "id": "67779",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "281",
+          "group": "Tamaño",
+          "value": "28"
+        }
+      ],
+      "sku": "2103024",
+      "productSku": "2103024",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:07.166Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8674-6984.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6984-large_default/deportivo-nino-loneta-velcro-frederic-azul.jpg",
+      "alt": "Deportivo niño loneta velcro Frederic Azul",
+      "sourceId": "6984",
+      "variantIds": [],
+      "sha256": "796ece6d195cf1030833b1738f93a0ad0ffcebe023cbecd01dcab34b86c88208"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:07.228Z",
+  "issues": []
+}

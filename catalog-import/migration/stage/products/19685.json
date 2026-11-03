@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "id": "19685",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-cortos-lisos/19685-calcetin-invisible-sport-blanco.html",
+  "name": "Calcetín invisible sport Blanco",
+  "brand": "Condor",
+  "sku": "2501172",
+  "description": "Descubre el imprescindible \"Calcetín Invisible Sport Blanco\", el secreto mejor guardado para el máximo confort de tu pequeño en todo tipo de actividades deportivas. Este calcetín, prácticamente indetectable, proporciona una protección discreta y segura, mientras mantiene esos pequeños pies frescos gracias a su color blanco puro. Destaca por ser un claro vencedor en durabilidad y comodidad, gracias a su diseño clásico y suave tejido. Una pequeña inversión para una gran tranquilidad. Perfecto para uso diario, la mejor opción para garantizar el bienestar de los pies de tus hijos.",
+  "details": "Confort sin igual\n\nDescubre los calcetines deportivos invisibles en blanco, diseñados para mantener los pies cómodos y secos durante tus aventuras diarias. Con una mezcla de materiales de primera calidad que capturan la humedad del pie, estos calcetines son perfectos para los pequeños activos. Experimenta la agradable sensación de llevar unos calcetines que casi no se sienten, pero sin comprometer la comodidad y protección que brindan.\n\n\n\n\n\nEstilo y funcionalidad en un solo producto\n\nEstos calcetines blancos invisibles combinan a la perfección con cualquier conjunto deportivo o casual. Su diseño novedoso y discreto se esconde perfectamente en zapatillas deportivas o zapatos casuales, brindando a los pequeños un look pulcro y moderno. Además, su color blanco brillante hace que estos calcetines sean fáciles de emparejar con cualquier color de calzado.\n\n\n\n\n\nSolución práctica para todas las estaciones\n\nInvisibles pero invaluables, estos calcetines son el socio perfecto para llevar en cualquier estación del año. Proporcionan transpirabilidad durante el verano, y una capa adicional de calor en invierno. Son fácilmente lavables y se secan rápido, haciéndolos una solución muy práctica para el ajetreado ritmo de vida de los niños y bebés.\n\n\n\n\n¡No esperes más! Añade los calcetines deportivos invisibles blancos a tu carro de compras hoy mismo y transforma la comodidad diaria de tus pequeños!",
+  "sourceDescriptionHtml": "<div>\n<h2>Confort sin igual</h2>\n<p>Descubre los calcetines deportivos invisibles en blanco, diseñados para mantener los pies cómodos y secos durante tus aventuras diarias. Con una mezcla de materiales de primera calidad que capturan la humedad del pie, estos calcetines son perfectos para los pequeños activos. Experimenta la agradable sensación de llevar unos calcetines que casi no se sienten, pero sin comprometer la comodidad y protección que brindan.</p>\n</div>\n\n<div>\n<h2>Estilo y funcionalidad en un solo producto</h2>\n<p>Estos calcetines blancos invisibles combinan a la perfección con cualquier conjunto deportivo o casual. Su diseño novedoso y discreto se esconde perfectamente en zapatillas deportivas o zapatos casuales, brindando a los pequeños un look pulcro y moderno. Además, su color blanco brillante hace que estos calcetines sean fáciles de emparejar con cualquier color de calzado.</p>\n</div>\n\n<div>\n<h2>Solución práctica para todas las estaciones</h2>\n<p>Invisibles pero invaluables, estos calcetines son el socio perfecto para llevar en cualquier estación del año. Proporcionan transpirabilidad durante el verano, y una capa adicional de calor en invierno. Son fácilmente lavables y se secan rápido, haciéndolos una solución muy práctica para el ajetreado ritmo de vida de los niños y bebés.</p>\n</div>\n\n<p style=\"text-align:center;\"><strong>¡No esperes más! Añade los calcetines deportivos invisibles blancos a tu carro de compras hoy mismo y transforma la comodidad diaria de tus pequeños!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "687",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "687",
+  "sourceCategoryName": "Calcetines cortos lisos",
+  "price": 5.51,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-03-19 00:05:46",
+  "sourceUpdatedAt": "2026-10-27 11:14:14",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 24,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "91518",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2501172",
+      "productSku": "2501172",
+      "taxRate": 21,
+      "price": 5.51,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:30.083Z"
+    },
+    {
+      "id": "91519",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2501172",
+      "productSku": "2501172",
+      "taxRate": 21,
+      "price": 5.51,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:33.073Z"
+    },
+    {
+      "id": "91520",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2501172",
+      "productSku": "2501172",
+      "taxRate": 21,
+      "price": 5.51,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:35.618Z"
+    },
+    {
+      "id": "91521",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2501172",
+      "productSku": "2501172",
+      "taxRate": 21,
+      "price": 5.51,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:38.708Z"
+    },
+    {
+      "id": "91522",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2501172",
+      "productSku": "2501172",
+      "taxRate": 21,
+      "price": 5.51,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:41.195Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19685-18656.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18656-large_default/calcetin-invisible-sport-blanco.jpg",
+      "alt": "Calcetín invisible sport Blanco",
+      "sourceId": "18656",
+      "variantIds": [],
+      "sha256": "42582afed4f3dfb633527414befe83221d8b267faeb8501bbb217b624fd04691"
+    },
+    {
+      "path": "assets/19685-18657.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18657-large_default/calcetin-invisible-sport-blanco.jpg",
+      "alt": "Calcetín invisible sport Blanco",
+      "sourceId": "18657",
+      "variantIds": [],
+      "sha256": "0ee71f54f95f1042583fb066c4c579cc223a4e9acdd6cec2f7d4013a81bd5f88"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:41.328Z",
+  "issues": []
+}

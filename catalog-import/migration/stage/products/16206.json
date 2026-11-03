@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "16206",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-divino-salvador-vigo/16206-chaqueta-chandal-divino-salvador-azul-marino.html",
+  "name": "Chaqueta chandal Divino Salvador Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2301324",
+  "description": "Chaqueta de chandal para primaria y ESO del uniforme colegio Divino Salvador Vigo.",
+  "details": "Chaqueta chandal del uniforme deportivo del colegio DIVINO SALVADOR de Vigo, para los cursos de primaria y ESO.\n\nComposición:\n\nChaqueta: 80% poliéster, 20% algodón.\n\nNO PLANCHAR\n\nNO USAR SECADORA\n\nHECHO EN UE",
+  "sourceDescriptionHtml": "<p>Chaqueta chandal del uniforme deportivo del colegio DIVINO SALVADOR de Vigo, para los cursos de primaria y ESO.</p>\n<p>Composición:</p>\n<p>Chaqueta: 80% poliéster, 20% algodón.</p>\n<p>NO PLANCHAR</p>\n<p>NO USAR SECADORA</p>\n<p><strong>HECHO EN UE</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "783"
+  ],
+  "sourceDefaultCategoryId": "783",
+  "sourceCategoryName": "Colegio Divino Salvador Vigo",
+  "price": 31.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-26 16:02:47",
+  "sourceUpdatedAt": "2026-10-26 19:38:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 109,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "313",
+          "label": "16(S)"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "143826",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "11192XB17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:07.607Z"
+    },
+    {
+      "id": "148517",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "11192XA17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:09.565Z"
+    },
+    {
+      "id": "143827",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "11192XC17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 9,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:12.459Z"
+    },
+    {
+      "id": "143828",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "11192XD17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:15.070Z"
+    },
+    {
+      "id": "143829",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "11192XE17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:17.748Z"
+    },
+    {
+      "id": "143830",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "11192XF17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:20.742Z"
+    },
+    {
+      "id": "143831",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "11192XG17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:23.308Z"
+    },
+    {
+      "id": "143832",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "313",
+          "group": "Tamaño",
+          "value": "16(S)"
+        }
+      ],
+      "sku": "11192XH17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:26.052Z"
+    },
+    {
+      "id": "143833",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "11192XI17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:28.973Z"
+    },
+    {
+      "id": "143834",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "11192XJ17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:32.445Z"
+    },
+    {
+      "id": "143835",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "11192XK17268",
+      "productSku": "2301324",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:35.082Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16206-18853.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18853-large_default/chaqueta-chandal-divino-salvador-azul-marino.jpg",
+      "alt": "Chaqueta chandal Divino Salvador",
+      "sourceId": "18853",
+      "variantIds": [],
+      "sha256": "4e21c241aededf56fa46e0c6b9beeb9ad133f52054ea8f401727a8ec290e166d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:35.157Z",
+  "issues": []
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "10073",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/10073-vestido-cuadros-manga-larga-verde.html",
+  "name": "Vestido cuadros manga larga Verde",
+  "brand": "Alber",
+  "sku": "2208186",
+  "description": "Despierte la elegancia de su pequeña princesa con el Vestido cuadros manga larga Verde. Este encantador vestido rinde homenaje a la inocencia y a la alegría juvenil. Con sus delicados cuadros verdes, dará un toque fresco y lúdico al armario de su niña. La manga larga añade un toque de calidez para esas frías noches primaverales y hace que este vestido sea un verdadero todoterreno. Verdaderamente una pieza esencial para cualquier pequeña fashionista.",
+  "details": "Exquisita Confección\n\nEspecialmente desarrollada para niños, esta prenda garantiza comodidad y suavidad que los más pequeños amarán. El Vestido Cuadros Manga Larga Verde presenta un diseño atemporal que es perfecto para cualquier ocasión. Con una tela de alta calidad, este vestido promete una durabilidad sobre la cual los padres pueden confiar en todo momento.\n\n\nApariencia Adorable\n\nCon un diseño de cuadros en tonos verdes, este vestido se roba el show. Es perfecto para combinar con una amplia gama de accesorios y zapatos, dando a sus hijos una apariencia llena de personalidad y dulzura. El Vestido Cuadros Manga Larga Verde definitivamente hará que sus hijos sobresalgan y se sientan especiales.\n\n\nPerfecto para Toda Ocasión\n\nCada detalle de este vestido ha sido cuidadosamente diseñado para garantizar que se adapte perfectamente a todo tipo de eventos. Desde una calmada tarde en el parque hasta una alegre fiesta de cumpleaños, el Vestido Cuadros Manga Larga Verde se adapta a cada ocasión, convirtiéndose en la elección perfecta para quienes valoran la versatilidad y el estilo en la ropa infantil.\n\n\nAhora es tu oportunidad de darle un giro fresco y único al guardarropa de tus hijos con este Vestido Cuadros Manga Larga Verde. ¡No esperes más, adquiérelo hoy mismo!",
+  "sourceDescriptionHtml": "<h2>Exquisita Confección</h2>\n<p>Especialmente desarrollada para niños, esta prenda garantiza comodidad y suavidad que los más pequeños amarán. El <strong>Vestido Cuadros Manga Larga Verde</strong> presenta un diseño atemporal que es perfecto para cualquier ocasión. Con una tela de alta calidad, este vestido promete una durabilidad sobre la cual los padres pueden confiar en todo momento.</p>\n\n<h2>Apariencia Adorable</h2>\n<p>Con un diseño de cuadros en tonos verdes, este vestido se roba el show. Es perfecto para combinar con una amplia gama de accesorios y zapatos, dando a sus hijos una apariencia llena de personalidad y dulzura. El <strong>Vestido Cuadros Manga Larga Verde</strong> definitivamente hará que sus hijos sobresalgan y se sientan especiales.</p>\n\n<h2>Perfecto para Toda Ocasión</h2>\n<p>Cada detalle de este vestido ha sido cuidadosamente diseñado para garantizar que se adapte perfectamente a todo tipo de eventos. Desde una calmada tarde en el parque hasta una alegre fiesta de cumpleaños, el <strong>Vestido Cuadros Manga Larga Verde</strong> se adapta a cada ocasión, convirtiéndose en la elección perfecta para quienes valoran la versatilidad y el estilo en la ropa infantil.</p>\n\n<p>Ahora es tu oportunidad de darle un giro fresco y único al guardarropa de tus hijos con este <strong>Vestido Cuadros Manga Larga Verde</strong>. ¡No esperes más, adquiérelo hoy mismo!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 47.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "90517",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2208186",
+      "productSku": "2208186",
+      "taxRate": 21,
+      "price": 47.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:14.603Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10073-13205.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13205-large_default/vestido-cuadros-manga-larga-verde.jpg",
+      "alt": "Vestido cuadros manga larga Verde",
+      "sourceId": "13205",
+      "variantIds": [],
+      "sha256": "9e936e656b774062b0690ce21f30d74881531046195c61ea439f8092686a48a1"
+    },
+    {
+      "path": "assets/10073-8606.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8606-large_default/vestido-cuadros-manga-larga-verde.jpg",
+      "alt": "Vestido cuadros manga larga Verde",
+      "sourceId": "8606",
+      "variantIds": [],
+      "sha256": "2291c42c77128a836d90a5cd5d3027bec1f2f657840fe26eb695e8d0468a8707"
+    },
+    {
+      "path": "assets/10073-8607.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8607-large_default/vestido-cuadros-manga-larga-verde.jpg",
+      "alt": "Vestido cuadros manga larga Verde",
+      "sourceId": "8607",
+      "variantIds": [],
+      "sha256": "8ef95933ee16dc45b17a7b03914054752f8b880ff50e914990c2eefe99336611"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:14.797Z",
+  "issues": []
+}

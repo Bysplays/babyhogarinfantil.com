@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "20414",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/20414-conjunto-pololo-bebe-nina-nude.html",
+  "name": "Conjunto pololo bebe niña Nude",
+  "brand": "Calamaro",
+  "sku": "2502002",
+  "description": "Conjunto de jersey con polode de volantes.\n\nHECHO EN ESPAÑA",
+  "details": "Composición y cuidados:\n\n\n\nJersey: 86% poliester, 10% viscosa, 4% elastano.\n\nPololo: 55% algodón orgánico, 45% algodón.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:<br /><br /></p>\n<p>Jersey: 86% poliester, 10% viscosa, 4% elastano.</p>\n<p>Pololo: 55% algodón orgánico, 45% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nude",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 36,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94527",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502002",
+      "productSku": "2502002",
+      "taxRate": 21,
+      "price": 36,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:56.157Z"
+    },
+    {
+      "id": "94528",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502002",
+      "productSku": "2502002",
+      "taxRate": 21,
+      "price": 36,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:59.246Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20414-19607.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19607-large_default/conjunto-pololo-bebe-nina-nude.jpg",
+      "alt": "Conjunto pololo bebe niña Nude",
+      "sourceId": "19607",
+      "variantIds": [],
+      "sha256": "a14995e5f7956983cff053e04481ccfdfc21c3f135203014991443ff16f911f5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:59.349Z",
+  "issues": []
+}

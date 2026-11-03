@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "9885",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9885-sudadera-caldero-algodon-felpa-caldera.html",
+  "name": "Sudadera caldero algodon felpa Caldera",
+  "brand": "Zippy",
+  "sku": "2207104",
+  "description": "Revela el lado moderno y alegre de tu pequeño con la \\'Sudadera Caldero Algodón Felpa Caldera\\'. Hecha de algodón suave de alta calidad, esta sudadera brinda calidez y comodidad durante todo el día. Cuenta con un diseño versátil y chic, haciéndola perfecta para cualquier ocasión, desde un día de diversión en el parque hasta el colegio. ¡Niños y niñas harán alarde con estilo! No sólo será su elección favorita en el closet, sino que también sentirán el amor y cuidado en cada centímetro de su piel gracias a nuestro tacto suave. ¡Compra ahora y haz que tus pequeños brillen con felicidad!",
+  "details": "Abraza el Confort\n\nDescubre la suavidad incomparable de la sudadera felpa Caldera, confeccionada con algodón de la más alta calidad. Sus fibras suaves y transpirables proporcionan un confort excepcional, incluso en los días más fríos. Ideal para mantener a los pequeños cálidos y acogedores.\n\nEstilo que Destaca\n\nCon un diseño moderno y atractivo, la sudadera Caldera aporta un toque de estilo a cualquier conjunto. El color vibrante del caldero se complementa con el esponjoso felpa, haciendo que este adorable abrigo sea tan llamativo como suave. Combina espectacularmente con jeans o pantalones cortos, garantizando que los pequeños sean el centro de atención.\n\nDurabilidad en cada fibra\n\nLa sudadera felpa Caldera es sinónimo de durabilidad. Hecha de algodón resistente, sobrevive al desgaste de la vida diaria y las múltiples lavadas sin perder su color ni suavidad. Sin duda, es una inversión inteligente que brinda confort y estilo a largo plazo.\n\nNo esperes más, añade la sudadera felpa Caldera a tu carrito hoy y lo vez la alegría y satisfacción en las caritas de los peques. ¿Quién puede resistirse a la oportunidad de proporcionar calor, confort y estilo a los más pequeños?\n\nComposición:\n\nSudadera: 80% algodón, 20% poliéster.",
+  "sourceDescriptionHtml": "<h2>Abraza el Confort</h2>\n<p>Descubre la suavidad incomparable de la sudadera felpa Caldera, confeccionada con algodón de la más alta calidad. Sus fibras suaves y transpirables proporcionan un confort excepcional, incluso en los días más fríos. Ideal para mantener a los pequeños cálidos y acogedores.</p>\n<h2>Estilo que Destaca</h2>\n<p>Con un diseño moderno y atractivo, la sudadera Caldera aporta un toque de estilo a cualquier conjunto. El color vibrante del caldero se complementa con el esponjoso felpa, haciendo que este adorable abrigo sea tan llamativo como suave. Combina espectacularmente con jeans o pantalones cortos, garantizando que los pequeños sean el centro de atención.</p>\n<h2>Durabilidad en cada fibra</h2>\n<p>La sudadera felpa Caldera es sinónimo de durabilidad. Hecha de algodón resistente, sobrevive al desgaste de la vida diaria y las múltiples lavadas sin perder su color ni suavidad. Sin duda, es una inversión inteligente que brinda confort y estilo a largo plazo.</p>\n<p>No esperes más, añade la sudadera felpa Caldera a tu carrito hoy y lo vez la alegría y satisfacción en las caritas de los peques. ¿Quién puede resistirse a la oportunidad de proporcionar calor, confort y estilo a los más pequeños?</p>\n<p>Composición:</p>\n<p>Sudadera: 80% algodón, 20% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Caldera",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70284",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2207104",
+      "productSku": "2207104",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:48.506Z"
+    },
+    {
+      "id": "70286",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2207104",
+      "productSku": "2207104",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:50.074Z"
+    },
+    {
+      "id": "98388",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2207104",
+      "productSku": "2207104",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:51.816Z"
+    },
+    {
+      "id": "70288",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2207104",
+      "productSku": "2207104",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:53.441Z"
+    },
+    {
+      "id": "70290",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2207104",
+      "productSku": "2207104",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:54.978Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9885-12862.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12862-large_default/sudadera-caldero-algodon-felpa-caldera.jpg",
+      "alt": "Sudadera caldero algodon felpa Caldera",
+      "sourceId": "12862",
+      "variantIds": [],
+      "sha256": "b6140c128e22460e226e580cacda9820a0052a708d4a3c6130e209618563ff42"
+    },
+    {
+      "path": "assets/9885-8013.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8013-large_default/sudadera-caldero-algodon-felpa-caldera.jpg",
+      "alt": "Sudadera caldero algodon felpa Caldera",
+      "sourceId": "8013",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9885-9138.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9138-large_default/sudadera-caldero-algodon-felpa-caldera.jpg",
+      "alt": "Sudadera caldero algodon felpa Caldera",
+      "sourceId": "9138",
+      "variantIds": [],
+      "sha256": "a343def9079aee509443c8adf205ce9dba75ffb931516270dd8662bfc99b9ddd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:55.193Z",
+  "issues": []
+}

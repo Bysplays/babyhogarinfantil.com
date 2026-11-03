@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "7731",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/7731-short-cuadros-azul-marino.html",
+  "name": "Short cuadros Azul marino",
+  "brand": "Zippy",
+  "sku": "1904085",
+  "description": "Presentamos los Shorts Cuadros Azul Marino, la adición perfecta a la colección de ropa para tus pequeños tesoros. Diseñados para proporcionar comodidad y estilo, estos shorts seguramente realzarán su encanto infantil. El lujoso algodón suave abraza suavemente esas pequeñas cinturas, asegurando libertad de movimiento durante el juego y exploraciones cotidianas. Estos magníficos shorts combinan un estilo clásico de cuadros azul marino con toques de modernidad. Ideales para cualquier ocasión, desde paseos por el parque hasta reuniones familiares. Aquí la moda y la funcionalidad van de la mano, garantizando que sus pequeños estén siempre elegantes, pero nunca a costa de su comodidad. !",
+  "details": "Traje Elegante para los Pequeños\n\nDescubre el asombroso Short cuadros Azul marino. Confeccionado con el amor y la sensación de la textura suave, este es el producto perfecto para envolver a tu pequeño en pura comodidad. Proporcionándole un estilo cómodo, este short entallado proporcionará a tu pequeño príncipe un aspecto encantador. Con el objetivo de maximizar la comodidad, hemos incorporado un diseño flexible y agradable para la piel.\n\nDiseño Unico y Atractivo\n\nEste Short cuadros Azul marino tiene un diseño adorable que destacará tu pequeño. El azul marino, un color que simboliza la confianza y la inteligencia, convertirá a tu pequeño en el centro de atracción en todas las reuniones sociales. Además, estos shorts de cuadros embellecerán aún más su estilo inmaculado e inocente.\n\nComodidad y Estilo en Uno\n\nEl Short cuadros Azul marino no solo es adorable, sino que también garantiza el máximo confort. Su especial diseño permite una ventilación adecuada, garantizando que tu hijo se mantenga fresco y cómodo en todo momento. La tela suave y de calidad asegura que ni siquiera las pieles más sensibles se irriten. Así que adelante, haz que tu pequeño rayo de sol se vea aún más adorable cada día.\n\n¡No esperes más! Haz clic abajo para convertir a tu pequeño en el príncipe de la moda. ¡Compra el Short cuadros Azul marino hoy!",
+  "sourceDescriptionHtml": "<div>\n<h2>Traje Elegante para los Pequeños</h2>\n<p>Descubre el asombroso <strong>Short cuadros Azul marino</strong>. Confeccionado con el amor y la sensación de la textura suave, este es el producto perfecto para envolver a tu pequeño en pura comodidad. Proporcionándole un estilo cómodo, este short entallado proporcionará a tu pequeño príncipe un aspecto encantador. Con el objetivo de maximizar la comodidad, hemos incorporado un diseño flexible y agradable para la piel.</p>\n<h2>Diseño Unico y Atractivo</h2>\n<p>Este Short cuadros Azul marino tiene un diseño adorable que destacará tu pequeño. El azul marino, un color que simboliza la confianza y la inteligencia, convertirá a tu pequeño en el centro de atracción en todas las reuniones sociales. Además, estos shorts de cuadros embellecerán aún más su estilo inmaculado e inocente.</p>\n<h2>Comodidad y Estilo en Uno</h2>\n<p>El Short cuadros Azul marino no solo es adorable, sino que también garantiza el máximo confort. Su especial diseño permite una ventilación adecuada, garantizando que tu hijo se mantenga fresco y cómodo en todo momento. La tela suave y de calidad asegura que ni siquiera las pieles más sensibles se irriten. Así que adelante, haz que tu pequeño rayo de sol se vea aún más adorable cada día.</p>\n<p>¡No esperes más! Haz clic abajo para convertir a tu pequeño en el príncipe de la moda. ¡Compra el <strong>Short cuadros Azul marino</strong> hoy!</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66237",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1904085",
+      "productSku": "1904085",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:01.146Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7731-10519.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10519-large_default/short-cuadros-azul-marino.jpg",
+      "alt": "Short cuadros Azul marino",
+      "sourceId": "10519",
+      "variantIds": [],
+      "sha256": "720d47ab9105da1d1e804457cec0e0d6fb9a1559db2058e453edb75f81449482"
+    },
+    {
+      "path": "assets/7731-10520.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10520-large_default/short-cuadros-azul-marino.jpg",
+      "alt": "Short cuadros Azul marino",
+      "sourceId": "10520",
+      "variantIds": [],
+      "sha256": "62c8a99282ee889a842b8e7204204ef5c8be70cd978dac89a535d6cb4b59db2d"
+    },
+    {
+      "path": "assets/7731-5776.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5776-large_default/short-cuadros-azul-marino.jpg",
+      "alt": "Short cuadros Azul marino",
+      "sourceId": "5776",
+      "variantIds": [],
+      "sha256": "6042233c18e5bb87dea6c795c98c730186b8862a722367954f45313719bf1b65"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:01.340Z",
+  "issues": []
+}

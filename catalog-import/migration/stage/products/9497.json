@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "9497",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-nina/9497-camiseta-estrella-de-colores-blanco.html",
+  "name": "Camiseta estrella de colores Blanco",
+  "brand": "Chicco",
+  "sku": "2202138",
+  "description": "Camiseta de manga corta y cuello redondo, en color blanco estampado con estrellas y caritas sonrientes en colores.",
+  "details": "Camiseta de CHICCO, firma italiana con más de 60 años de experiencia y puntos de venta en todo el mundo. De manga corta y cuello redondo, en color blanco con estampado diagonal de estrellas y caritas sonrientes de colores flúor. Una prenda fresquita, cómoda y ligera, ideal para la época de verano! Echa un ojito a nuestros shorts y vaqueros, calzado y sudaderas y podrás combinarla como más te guste!\n\nComposición y cuidados:\n\nCamiseta: 95% algodón, 5% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Camiseta de <strong>CHICCO</strong>, firma italiana con más de 60 años de experiencia y puntos de venta en todo el mundo. De manga corta y cuello redondo, en color blanco con estampado diagonal de estrellas y caritas sonrientes de colores flúor. Una prenda fresquita, cómoda y ligera, ideal para la época de verano! Echa un ojito a nuestros <strong>shorts y vaqueros, calzado y sudaderas</strong> y podrás combinarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 95% algodón, 5% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "736",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "736",
+  "sourceCategoryName": "Camisetas niña",
+  "price": 5,
+  "oldPrice": 9.9946,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69362",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2202138",
+      "productSku": "2202138",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:49.423Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9497-7755.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7755-large_default/camiseta-estrella-de-colores-blanco.jpg",
+      "alt": "Camiseta estrella de colores Blanco",
+      "sourceId": "7755",
+      "variantIds": [],
+      "sha256": "2a49cd47fdd56e9af691e6e4792934b05edb1638a7b524437effdcf7438d9313"
+    },
+    {
+      "path": "assets/9497-9211.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9211-large_default/camiseta-estrella-de-colores-blanco.jpg",
+      "alt": "Camiseta estrella de colores Blanco",
+      "sourceId": "9211",
+      "variantIds": [],
+      "sha256": "68270021f4aa5a60236da1d628094a272a5c4fd2e2ebb189d89428aaf9aa6b32"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:49.557Z",
+  "issues": []
+}

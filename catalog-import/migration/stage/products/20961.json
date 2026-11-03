@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "20961",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/20961-chubasquero-bebe-nina-azul-marino.html",
+  "name": "Chubasquero bebé niña Azul Marino",
+  "brand": "Mayoral",
+  "sku": "2502043",
+  "description": "Chubasquero impermeable con capucha y forro polar.",
+  "details": "COMPOSICIÓN\n\nChubasquero:\n\nExterior\n\n100% Poliéster\n\nForro\n\n100% Poliéster",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Chubasquero:</strong></p>\n<p>Exterior</p>\n<p>100% Poliéster</p>\n<p>Forro</p>\n<p>100% Poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 35.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-09-23 08:36:09",
+  "sourceUpdatedAt": "2026-10-27 11:14:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95979",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502043",
+      "productSku": "2502043",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:42.633Z"
+    },
+    {
+      "id": "96479",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502043",
+      "productSku": "2502043",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:45.195Z"
+    },
+    {
+      "id": "96480",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502043",
+      "productSku": "2502043",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:47.730Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20961-19897.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19897-large_default/chubasquero-bebe-nina-azul-marino.jpg",
+      "alt": "Chubasquero bebé niña Azul Marino",
+      "sourceId": "19897",
+      "variantIds": [],
+      "sha256": "ed31b3fc8522bf36742ce8db5348621416d3d60ed8b480040d40c789328ae35f"
+    },
+    {
+      "path": "assets/20961-19898.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19898-large_default/chubasquero-bebe-nina-azul-marino.jpg",
+      "alt": "Chubasquero bebé niña Azul Marino",
+      "sourceId": "19898",
+      "variantIds": [],
+      "sha256": "2f55037bfd1ad1b277a70aae13c86b893d9b95c9c68b0f2f14918e7d0b84026a"
+    },
+    {
+      "path": "assets/20961-19899.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19899-large_default/chubasquero-bebe-nina-azul-marino.jpg",
+      "alt": "Chubasquero bebé niña Azul Marino",
+      "sourceId": "19899",
+      "variantIds": [],
+      "sha256": "9d5c8bd448cdd2f056abbc680ebec2753eed39d11410cc14921631ddfd6de432"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:47.893Z",
+  "issues": []
+}

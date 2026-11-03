@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6611",
+  "sourceUrl": "https://babyhogarinfantil.com/bolsas-bebe/6611-bolso-tapeta-plastic-personalizable-camel.html",
+  "name": "Bolso tapeta plastic Personalizable Camel",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1606015",
+  "description": "Bolso con tapeta y cremallera para silla o cochecito. Opción de hacerla en polipiel.\n\nPersonalízalo a tu gusto. Contacta con nosotros.\n\nBORDAMOS EL NOMBRE\n\nEL PLAZO DE ENTREGA PARA LAS BOLSAS PERSONALIZADAS ES DE 20 DIAS MINIMO.",
+  "details": "Puedes personalizar el bolso con la combinación de colores que desees. Elige el color de fondo y combina el lazo y el ribete en otro color. Ponte en contacto con nosotros en el 886 166 179 o por WSP 695 251 402 y te decimos todas las opciones posibles. También puede hacerse en poli piel.\n\nEL PLAZO DE ENTREGA PARA LAS BOLSAS PERSONALIZADAS ES DE 20 DIAS MINIMO. \n\nComposición: 100% poliester.",
+  "sourceDescriptionHtml": "<p><span style=\"font-family:Calibri;font-size:medium;\">P</span><span style=\"line-height:115%;font-family:Verdana, sans-serif;font-size:7.5pt;\">uedes personalizar el bolso con la combinación de colores que desees. Elige el color de fondo y combina el lazo y el ribete en otro color. Ponte en contacto con nosotros en el <strong>886 166 179</strong> o por WSP <strong>695 251 402</strong></span><span style=\"line-height:115%;font-family:Verdana, sans-serif;font-size:7.5pt;\"><span> </span>y te decimos todas las opciones posibles. También puede hacerse en poli piel.</span></p>\n<p><strong><span style=\"font-size:7.5pt;line-height:115%;font-family:Verdana, sans-serif;\">EL PLAZO DE ENTREGA PARA LAS BOLSAS PERSONALIZADAS ES DE 20 DIAS MINIMO.</span></strong> </p>\n<p>Composición: 100% poliester.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "691",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "691",
+  "sourceCategoryName": "Bolsas bebé",
+  "price": 50,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-26 19:38:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 12,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "93963",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "1606015",
+      "productSku": "1606015",
+      "taxRate": 21,
+      "price": 50,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:11.710Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6611-4566.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4566-large_default/bolso-tapeta-plastic-personalizable-camel.jpg",
+      "alt": "Bolso tapeta plastic Personalizable Camel",
+      "sourceId": "4566",
+      "variantIds": [],
+      "sha256": "9b2ce502b1f8b7b5f3046277f82478686a9fda9bbdc9f9502b28076d13644d89"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:11.757Z",
+  "issues": []
+}

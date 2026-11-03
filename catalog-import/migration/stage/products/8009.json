@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "8009",
+  "sourceUrl": "https://babyhogarinfantil.com/sacos-dormir/8009-saco-dormir-acolchado-estrellas-rosa.html",
+  "name": "Saco dormir acolchado Estrellas Rosa",
+  "brand": "Calamaro",
+  "sku": "2001029",
+  "description": "Saquito para dormir acolchado, en color rosa bebé. Ideal para los bebés que se destapan mientras duermen. Disponible en dos medidas, 70 cm y 95 cm.",
+  "details": "Saquito sin mangas para dormir, en color rosa bebé, con estrellas bordadas en el centro. Acolchadito, mullido y muy agradable al tacto. Con cremallera en un lateral y corchetes en las asas. Perfecto para los peques que se destapan mientras duermen. Con este saquito conseguiremos que el bebé pueda moverse libremente mientras duerme sin destaparse y sin riesgo de resfriarse. Controla la temperatura para mantener un confort constante durante el sueño. Y nos olvidamos de sábanas y mantas. Echa un ojito a nuestros pijamitas, acomoda a tu bebé dentro del saquito y a soñar a lo grande! Puede lavarse en la lavadora sin problema. Disponible dos tamaños: 70 cm y 95 cm. \n\nCOMPOSICIÓN Y CUIDADOS:\n\nSaquito: 80% algodón, 20% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Saquito sin mangas para dormir, en color rosa bebé, con estrellas bordadas en el centro. Acolchadito, mullido y muy agradable al tacto. Con cremallera en un lateral y corchetes en las asas. Perfecto para los peques que se destapan mientras duermen. Con este saquito conseguiremos que el bebé pueda moverse libremente mientras duerme sin destaparse y sin riesgo de resfriarse. Controla la temperatura para mantener un confort constante durante el sueño. Y nos olvidamos de sábanas y mantas. Echa un ojito a nuestros pijamitas, acomoda a tu bebé dentro del saquito y a soñar a lo grande! Puede lavarse en la lavadora sin problema. Disponible dos tamaños: 70 cm y 95 cm. </p>\n<p>COMPOSICIÓN Y CUIDADOS:</p>\n<p>Saquito: 80% algodón, 20% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "712"
+  ],
+  "sourceDefaultCategoryId": "712",
+  "sourceCategoryName": "Sacos Dormir",
+  "price": 0,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [],
+  "variants": [
+    {
+      "id": "66818",
+      "attributes": [],
+      "sku": "2001029",
+      "productSku": "2001029",
+      "taxRate": 21,
+      "price": 0,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:24.140Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8009-6180.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6180-large_default/saco-dormir-acolchado-estrellas-rosa.jpg",
+      "alt": "Saco dormir acolchado Estrellas Rosa",
+      "sourceId": "6180",
+      "variantIds": [],
+      "sha256": "f42b7b3efc68d70c88ea2a7fbd55556fee5b7596280ac1818ce4ca18488aa771"
+    },
+    {
+      "path": "assets/8009-6179.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6179-large_default/saco-dormir-acolchado-estrellas-rosa.jpg",
+      "alt": "Saco dormir acolchado Estrellas Rosa",
+      "sourceId": "6179",
+      "variantIds": [],
+      "sha256": "e24516f21944bbf6bfd38ab8c95ddf11ec064df6efbbc0e9e5c5eba3ea5e4495"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:24.261Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "10389",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/10389-pijama-abierto-delante-conejitos-rosa.html",
+  "name": "Pijama abierto delante conejitos Rosa",
+  "brand": "Chicco",
+  "sku": "2301138",
+  "description": "Pijama en algodón interlock para todo tiempo.",
+  "details": "Composición y cuidados:\n\nPijama: 95% algodón, 5% elastano.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pijama: 95% algodón, 5% elastano.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 15.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72739",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301138",
+      "productSku": "2301138",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:29.015Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10389-8477.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8477-large_default/pijama-abierto-delante-conejitos-rosa.jpg",
+      "alt": "Pijama abierto delante conejitos Rosa",
+      "sourceId": "8477",
+      "variantIds": [],
+      "sha256": "62726186cc23165c01e553a3eed2b253d485fe41c5e4ded3667d7157858868be"
+    },
+    {
+      "path": "assets/10389-8478.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8478-large_default/pijama-abierto-delante-conejitos-rosa.jpg",
+      "alt": "Pijama abierto delante conejitos Rosa",
+      "sourceId": "8478",
+      "variantIds": [],
+      "sha256": "eda35ec733d0dca4183e5aaa475166d5189156559a16769d746b19532bce98dc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:29.135Z",
+  "issues": []
+}

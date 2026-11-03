@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "9650",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/9650-vestido-combinado-bambula-crudo.html",
+  "name": "Vestido combinado bambula Crudo",
+  "brand": "Mayoral",
+  "sku": "2204030",
+  "description": "Vestido combinado en color blanco roto, sin mangas y con cuello redondo, tejido estilo gasa con forro interior. Encaje superpuesto en la parte superior. Tiene goma en la cintura. Cierre trasero con cremallera invisible.",
+  "details": "Vestidazo combinado de MAYORAL, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. En color blanco roto, con corte en la cintura, la cual es elástica. En tejido estilo gasa con corpiño super puesto completamente bordado y acabado en onditas. Cierre trasero con cremallera invisible hasta media espalda. Completamente forrado. Un vestido perfecto para verano, estiloso y con un aire fresco, ideal para cualquier ocasión! Echa un ojito a nuestro calzado, chaquetas y calcetines de perlé y podrás completarlo como más te guste! \n\nComposición y cuidados:\n\nExterior: 91% poliester, 9% poliamida\n\nForro: 80% poliester, 20% algodón\n\nLAVAR A BAJA TEMPERATURA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Vestidazo combinado de <strong>MAYORAL</strong>, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. En color blanco roto, con corte en la <strong>cintura, la cual es elástica</strong>. En tejido estilo gasa con corpiño super puesto completamente <strong>bordado y acabado en onditas</strong>. Cierre trasero con <strong>cremallera invisible</strong> hasta media espalda. <strong>Completamente forrado</strong>. Un vestido perfecto para verano, estiloso y con un aire fresco, ideal para cualquier ocasión! Echa un ojito a nuestro<strong> calzado, chaquetas y calcetines de perlé</strong> y podrás completarlo como más te guste! </p>\n<p>Composición y cuidados:</p>\n<p>Exterior: 91% poliester, 9% poliamida</p>\n<p>Forro: 80% poliester, 20% algodón</p>\n<p>LAVAR A BAJA TEMPERATURA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823",
+    "729"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 24,
+  "oldPrice": 47.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69748",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2204030",
+      "productSku": "2204030",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": 47.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:16.929Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9650-12579.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12579-large_default/vestido-combinado-bambula-crudo.jpg",
+      "alt": "Vestido combinado bambula Crudo",
+      "sourceId": "12579",
+      "variantIds": [],
+      "sha256": "fadb267fa030138d34b474e83acc3716c06bd0573c5b5a5c2c4eebe20f79bdb7"
+    },
+    {
+      "path": "assets/9650-12580.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12580-large_default/vestido-combinado-bambula-crudo.jpg",
+      "alt": "Vestido combinado bambula Crudo",
+      "sourceId": "12580",
+      "variantIds": [],
+      "sha256": "da380b1a7497fa1f1e077edc4f8aba2f083de1e385532714aa7ff8f4aed9ce3b"
+    },
+    {
+      "path": "assets/9650-12578.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12578-large_default/vestido-combinado-bambula-crudo.jpg",
+      "alt": "Vestido combinado bambula Crudo",
+      "sourceId": "12578",
+      "variantIds": [],
+      "sha256": "48ad4af79cf8fcaa0b79e47adc0a5b2d5e8bdc763e7a37e50b15175c386e3c44"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:17.101Z",
+  "issues": []
+}

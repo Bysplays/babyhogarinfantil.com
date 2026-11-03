@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "21986",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21986-conjunto-bebe-nino-algodon-palmeras-verde.html",
+  "name": "Conjunto bebé niño algodón palmeras Verde",
+  "brand": "Babybol",
+  "sku": "2601248",
+  "description": "Conjunto para bebé niño BABYBOL con camiseta estampada “Beach Days” y short verde. Confeccionado en 100% algodón, ligero y perfecto para verano.",
+  "details": "El conjunto de bebé niño BABYBOL es ideal para los días más calurosos, combinando comodidad y un diseño veraniego lleno de estilo.\n\nLa camiseta de manga corta, confeccionada en 100% algodón, presenta un alegre estampado “Beach Days” con motivos de playa, aportando un aire fresco y divertido. Incluye botones en el hombro para facilitar el cambio.\n\nEl short en color verde, también en algodón, es ligero y cómodo, con cintura elástica que se adapta perfectamente al bebé y permite total libertad de movimiento.\n\n\nMarca: BABYBOL\n\nConjunto de 2 piezas: camiseta + short\n\nTejido: 100% algodón\n\nCamiseta con botones en el hombro\n\nColor: beige y verde\n\n\nPerfecto para paseos, vacaciones o el día a día en verano, con un estilo cómodo y desenfadado.",
+  "sourceDescriptionHtml": "<p>El <strong>conjunto de bebé niño BABYBOL</strong> es ideal para los días más calurosos, combinando comodidad y un diseño veraniego lleno de estilo.</p>\n<p>La <strong>camiseta de manga corta</strong>, confeccionada en <strong>100% algodón</strong>, presenta un alegre <strong>estampado “Beach Days”</strong> con motivos de playa, aportando un aire fresco y divertido. Incluye <strong>botones en el hombro</strong> para facilitar el cambio.</p>\n<p>El <strong>short en color verde</strong>, también en <strong>algodón</strong>, es ligero y cómodo, con cintura elástica que se adapta perfectamente al bebé y permite total libertad de movimiento.</p>\n<ul>\n<li>Marca: <strong>BABYBOL</strong></li>\n<li>Conjunto de 2 piezas: camiseta + short</li>\n<li>Tejido: 100% algodón</li>\n<li>Camiseta con botones en el hombro</li>\n<li>Color: beige y verde</li>\n</ul>\n<p>Perfecto para <strong>paseos, vacaciones o el día a día en verano</strong>, con un estilo cómodo y desenfadado.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 20,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-04-15 23:53:31",
+  "sourceUpdatedAt": "2026-10-27 11:15:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "101134",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2601248",
+      "productSku": "2601248",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:55.289Z"
+    },
+    {
+      "id": "101135",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2601248",
+      "productSku": "2601248",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:56.095Z"
+    },
+    {
+      "id": "101136",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2601248",
+      "productSku": "2601248",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:56.892Z"
+    },
+    {
+      "id": "101137",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2601248",
+      "productSku": "2601248",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:57.963Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21986-21050.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21050-large_default/conjunto-bebe-nino-algodon-palmeras-verde.jpg",
+      "alt": "Conjunto bebé niño BABYBOL beach days camiseta y short",
+      "sourceId": "21050",
+      "variantIds": [],
+      "sha256": "310046288d324d314932baf32b38b89fef2d309e11934fdbe2cbc0337f3c2ccd"
+    },
+    {
+      "path": "assets/21986-21051.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21051-large_default/conjunto-bebe-nino-algodon-palmeras-verde.jpg",
+      "alt": "Trasera conjunto bebé niño BABYBOL beach days camiseta y short",
+      "sourceId": "21051",
+      "variantIds": [],
+      "sha256": "9d41d0c73acd5b9954357d23629af8f7c4ceace6c35d69538e013b4a70064fb2"
+    },
+    {
+      "path": "assets/21986-21052.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21052-large_default/conjunto-bebe-nino-algodon-palmeras-verde.jpg",
+      "alt": "Detalle estampado beach days BABYBOL",
+      "sourceId": "21052",
+      "variantIds": [],
+      "sha256": "c4acc60880010f8e62123abe4402669c4d73751a4e401f54aa30040c10f29ebe"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:51:58.139Z",
+  "issues": []
+}

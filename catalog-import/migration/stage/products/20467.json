@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "20467",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nino/20467-chubasquero-bebe-nino-azul.html",
+  "name": "Chubasquero bebé niño Azul",
+  "brand": "Mayoral",
+  "sku": "2502042",
+  "description": "Chubasquero impermeable para la lluvia, con forro polar interio. Las mangas no tienen forro.",
+  "details": "COMPOSICIÓN\n\nChubasquero:\n\nExterior: 100% Poliéster\n\nForro: 100% Poliéster",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Chubasquero:</strong></p>\n<p>Exterior: 100% Poliéster</p>\n<p>Forro: 100% Poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "827"
+  ],
+  "sourceDefaultCategoryId": "827",
+  "sourceCategoryName": "Abrigos chaquetones bebé niño",
+  "price": 35.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94778",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502042",
+      "productSku": "2502042",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:27.613Z"
+    },
+    {
+      "id": "94783",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502042",
+      "productSku": "2502042",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:29.265Z"
+    },
+    {
+      "id": "94779",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502042",
+      "productSku": "2502042",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:30.729Z"
+    },
+    {
+      "id": "94780",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502042",
+      "productSku": "2502042",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:32.483Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20467-19784.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19784-large_default/chubasquero-bebe-nino-azul.jpg",
+      "alt": "Chubasquero bebé niño Azul",
+      "sourceId": "19784",
+      "variantIds": [],
+      "sha256": "c8706291dc20914a31c83a2bc53b5df0c9c5d605b8dc2531772dd8db3d72fd7a"
+    },
+    {
+      "path": "assets/20467-19785.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19785-large_default/chubasquero-bebe-nino-azul.jpg",
+      "alt": "Chubasquero bebé niño Azul",
+      "sourceId": "19785",
+      "variantIds": [],
+      "sha256": "4d2ddcc6fa98e7a6a279aa74b399200ce0246025ccf25594791caf1cb7dfef0b"
+    },
+    {
+      "path": "assets/20467-19786.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19786-large_default/chubasquero-bebe-nino-azul.jpg",
+      "alt": "Chubasquero bebé niño Azul",
+      "sourceId": "19786",
+      "variantIds": [],
+      "sha256": "7868f792933f9aa0fb22dd83f2e9b3dd8692e43a147747d81c8abf1b260a8745"
+    },
+    {
+      "path": "assets/20467-19787.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19787-large_default/chubasquero-bebe-nino-azul.jpg",
+      "alt": "Chubasquero bebé niño Azul",
+      "sourceId": "19787",
+      "variantIds": [],
+      "sha256": "f5c84587febd975837fd01ea0c23a8b5f75d1c626e21e86d4755652cb5197ae6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:32.771Z",
+  "issues": []
+}

@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "id": "9251",
+  "sourceUrl": "https://babyhogarinfantil.com/faldas-escolares/9251-falda-colegial-tablilla-con-botones-azul-marino.html",
+  "name": "Falda colegial tablilla con botones Azul Marino",
+  "brand": "Mayoral",
+  "sku": "2111048",
+  "description": "Falda plisada con botones de la firma MAYORAL, cintura con goma.",
+  "details": "Composición:\n\nFalda: 100% poliéster.\n\nHECHA EN CHINA.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Falda: 100% poliéster.</p>\n<p>HECHA EN CHINA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "809",
+    "783"
+  ],
+  "sourceDefaultCategoryId": "809",
+  "sourceCategoryName": "Faldas escolares",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88631",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "9767XF16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:40.823Z"
+    },
+    {
+      "id": "147406",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "9767XA16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:42.449Z"
+    },
+    {
+      "id": "147407",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "9767XB16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:44.031Z"
+    },
+    {
+      "id": "147408",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "9767XC16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:46.032Z"
+    },
+    {
+      "id": "147409",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "9767XD16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:47.503Z"
+    },
+    {
+      "id": "147410",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "9767XE16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:48.949Z"
+    },
+    {
+      "id": "95967",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "9767XG16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:50.174Z"
+    },
+    {
+      "id": "100579",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "9767XH16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:50.983Z"
+    },
+    {
+      "id": "95969",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "9767XI16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:52.213Z"
+    },
+    {
+      "id": "68764",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "9767XJ16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:53.716Z"
+    },
+    {
+      "id": "68765",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "9767XK16559",
+      "productSku": "2111048",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:54.929Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9251-12080.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12080-large_default/falda-colegial-tablilla-con-botones-azul-marino.jpg",
+      "alt": "Falda colegial tablilla y botones Azul Marino",
+      "sourceId": "12080",
+      "variantIds": [],
+      "sha256": "e7046d6f9468066d81e97b7fcc1d3d068de11e60f3ea62f786ace64c296e827d"
+    },
+    {
+      "path": "assets/9251-12077.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12077-large_default/falda-colegial-tablilla-con-botones-azul-marino.jpg",
+      "alt": "Falda colegial tablilla y botones Azul Marino vista delantera Mayoral",
+      "sourceId": "12077",
+      "variantIds": [],
+      "sha256": "9b537aeb388f026540a25318a742bdf1c99c093ee42c9fdf3c3f0ee39a1c914c"
+    },
+    {
+      "path": "assets/9251-12078.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12078-large_default/falda-colegial-tablilla-con-botones-azul-marino.jpg",
+      "alt": "Falda colegial tablilla y botones Azul Marino vista trasera Mayoral",
+      "sourceId": "12078",
+      "variantIds": [],
+      "sha256": "c0422d71a08eabc90c72f01295185b9b1e895c58ff207c4fc88625fc9df7f440"
+    },
+    {
+      "path": "assets/9251-12079.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12079-large_default/falda-colegial-tablilla-con-botones-azul-marino.jpg",
+      "alt": "Falda colegial tablilla y botones Azul Marino detalle botones Mayoral",
+      "sourceId": "12079",
+      "variantIds": [],
+      "sha256": "356c28953a1ef7c3a4f45e90e4b8555668bffe78d2adaa383ee147fb55621404"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:55.130Z",
+  "issues": []
+}

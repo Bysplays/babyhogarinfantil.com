@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "7909",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/7909-abrigo-pano-rosa-rosa.html",
+  "name": "Abrigo paño rosa Rosa",
+  "brand": "Anavig",
+  "sku": "1908136",
+  "description": "Un Abrigo paño rosa, prenda imprescindible para tu princesa durante los meses más fríos. Hecho con paño suave delicadamente rosa, conjuga estilo y funcionalidad. Perfecta para cualquier ocasión, desde aventuras de parque hasta reuniones familiares. Proporciona comodidad sin comprometer la elegancia. Sus pequeños se sentirán como estrellas de cine manteniéndose cálidos. Este abrigo es un abrazo cálido, una seguridad sin igual, y un detalle de moda en su vestuario. ¡Haz que tu pequeña brille con este Abrigo paño rosa!",
+  "details": "Moda Infantil Envuelta en Calidez\n\nEl Abrigo paño rosa Rosa es más que una prenda de vestir, es una auténtica declaración de moda. Hecho con suave lana, ofrece calidez, comodidad y un estilo chic a la moda. Es ligero pero al mismo tiempo capaz de proporcionar un calor acogedor durante los meses más frescos. Su rico color rosa combina a la perfección con cualquier conjunto y resalta en cualquier multitud.\n\nComposición y cuidados:\n\nAbrigo: 90% poliéster, 8% rayon, 2% elastano.\n\nForro: 100% poléster.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<h2>Moda Infantil Envuelta en Calidez</h2>\n<p>El Abrigo paño rosa Rosa es más que una prenda de vestir, es una auténtica declaración de moda. Hecho con suave lana, ofrece calidez, comodidad y un estilo chic a la moda. Es ligero pero al mismo tiempo capaz de proporcionar un calor acogedor durante los meses más frescos. Su rico color rosa combina a la perfección con cualquier conjunto y resalta en cualquier multitud.</p>\n<p style=\"font-size:11px;font-weight:400;\">Composición y cuidados:</p>\n<p style=\"font-size:11px;font-weight:400;\">Abrigo: 90% poliéster, 8% rayon, 2% elastano.</p>\n<p style=\"font-size:11px;font-weight:400;\">Forro: 100% poléster.</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR LEJIAS</p>\n<p style=\"font-size:11px;font-weight:400;\">LAVAR A 30º RECOMENDADO</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 49.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:30",
+  "sourceUpdatedAt": "2026-10-27 11:10:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66665",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1908136",
+      "productSku": "1908136",
+      "taxRate": 21,
+      "price": 49.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:12.211Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7909-10670.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10670-large_default/abrigo-pano-rosa-rosa.jpg",
+      "alt": "Abrigo paño rosa Rosa",
+      "sourceId": "10670",
+      "variantIds": [],
+      "sha256": "8a8f12a153be0404d728b589edcf8657f3e22b641147ee38cee2655000ac74c0"
+    },
+    {
+      "path": "assets/7909-10671.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10671-large_default/abrigo-pano-rosa-rosa.jpg",
+      "alt": "Abrigo paño rosa Rosa",
+      "sourceId": "10671",
+      "variantIds": [],
+      "sha256": "e7c5faab9096d0388751cd3b4d0a3dd977e10fe33429ca8a715c7c37d915c420"
+    },
+    {
+      "path": "assets/7909-10669.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10669-large_default/abrigo-pano-rosa-rosa.jpg",
+      "alt": "Abrigo paño rosa Rosa",
+      "sourceId": "10669",
+      "variantIds": [],
+      "sha256": "b1b0973a39a1c076822c9efe9958e2c3e99776cb8e59f008c0c66647dc3b006e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:12.435Z",
+  "issues": []
+}

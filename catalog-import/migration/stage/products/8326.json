@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8326",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8326-lazo-mediano-con-pinza-blanco.html",
+  "name": "Lazo mediano con pinza Blanco",
+  "brand": "Siena",
+  "sku": "2007019",
+  "description": "Lazo de 8 x 5,5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox.\n\nHECHO A MANO.\n\nHECHO EN ESPAÑA.",
+  "details": "Estilo y Versatilidad\n\n\nEl Lazo Mediano con Pinza Blanco es la definición perfecta de estilo y versatilidad. Hecho de material de alta calidad, aporta un toque instantáneo de elegancia a cualquier conjunto. Es una opción excelente para añadir un detalle adicional a la ropa de tu hijo, desde un vestido cotidiano hasta la vestimenta más formal.\n\n\nElegancia Clásica en un Solo Accesorio\n\n\nEl color blanco significa pureza y elegancia, y este accesorio lo tiene todo. El Lazo Mediano con Pinza Blanco irradia sofisticación y brillo. Este lazo no es solo un simple adornamento, sino que simboliza la inocencia y la felicidad de la infancia.\n\n\nFácil de Usar y Seguro\n\n\nEl Lazo Mediano con Pinza Blanco es muy fácil de usar, su pinza garantiza que se mantenga en su lugar, incluso durante el juego más activo. Sin bordes afilados y con el tamaño perfecto, es seguro y cómodo para todos los niños.\n\n\n¿Por qué esperar? Da un paso más allá en el estilo de tu pequeño. Compra ahora el Lazo Mediano con Pinza Blanco y déjate cautivar por la pureza, el estilo y la elegancia.",
+  "sourceDescriptionHtml": "<h2>Estilo y Versatilidad</h2>\n\n<p>El <strong>Lazo Mediano con Pinza Blanco</strong> es la definición perfecta de estilo y versatilidad. Hecho de material de alta calidad, aporta un toque instantáneo de elegancia a cualquier conjunto. Es una opción excelente para añadir un detalle adicional a la ropa de tu hijo, desde un vestido cotidiano hasta la vestimenta más formal.</p>\n\n<h2>Elegancia Clásica en un Solo Accesorio</h2>\n\n<p>El color blanco significa pureza y elegancia, y este accesorio lo tiene todo. El <strong>Lazo Mediano con Pinza Blanco</strong> irradia sofisticación y brillo. Este lazo no es solo un simple adornamento, sino que simboliza la inocencia y la felicidad de la infancia.</p>\n\n<h2>Fácil de Usar y Seguro</h2>\n\n<p>El <strong>Lazo Mediano con Pinza Blanco</strong> es muy fácil de usar, su pinza garantiza que se mantenga en su lugar, incluso durante el juego más activo. Sin bordes afilados y con el tamaño perfecto, es seguro y cómodo para todos los niños.</p>\n\n<p>¿Por qué esperar? Da un paso más allá en el estilo de tu pequeño. <em>Compra ahora el Lazo Mediano con Pinza Blanco y déjate cautivar por la pureza, el estilo y la elegancia.</em></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146673",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8051XA12985",
+      "productSku": "2007019",
+      "taxRate": 21,
+      "price": 2.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:47.520Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8326-6622.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6622-large_default/lazo-mediano-con-pinza-blanco.jpg",
+      "alt": "Lazo mediano con pinza Blanco",
+      "sourceId": "6622",
+      "variantIds": [],
+      "sha256": "dd0b85d20966964385271d3a0ca6dddfdaa7d1c8f7c8497b295960110bac5e1b"
+    },
+    {
+      "path": "assets/8326-6623.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6623-large_default/lazo-mediano-con-pinza-blanco.jpg",
+      "alt": "Lazo mediano con pinza Blanco",
+      "sourceId": "6623",
+      "variantIds": [],
+      "sha256": "09577ad7813b15499c7100c4a85d7dc33d1c3a7749bda68bef07a015d42bbc9f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:47.645Z",
+  "issues": []
+}

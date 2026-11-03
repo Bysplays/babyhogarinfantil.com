@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "7405",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/7405-sudadera-nino-1978-azul-marino.html",
+  "name": "Sudadera niño 1978 Azul marino",
+  "brand": "Talaman",
+  "sku": "1809046",
+  "description": "Sudadera con capucha y felpa interior.",
+  "details": "Composición:\n\nSudadera: 80% algodón, 20% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Sudadera: 80% algodón, 20% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 19.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:24",
+  "sourceUpdatedAt": "2026-10-27 11:10:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65713",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1809046",
+      "productSku": "1809046",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:01.383Z"
+    },
+    {
+      "id": "65714",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1809046",
+      "productSku": "1809046",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:02.577Z"
+    },
+    {
+      "id": "65715",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1809046",
+      "productSku": "1809046",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:04.269Z"
+    },
+    {
+      "id": "65717",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1809046",
+      "productSku": "1809046",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:06.712Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7405-10267.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10267-large_default/sudadera-nino-1978-azul-marino.jpg",
+      "alt": "Sudadera niño 1978 Azul marino",
+      "sourceId": "10267",
+      "variantIds": [],
+      "sha256": "051a18a8462c3c435a2f6a55a965e7227bc0b62b7f2ca36f1d6562d7d17034e0"
+    },
+    {
+      "path": "assets/7405-9075.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9075-large_default/sudadera-nino-1978-azul-marino.jpg",
+      "alt": "Sudadera niño 1978 Azul marino",
+      "sourceId": "9075",
+      "variantIds": [],
+      "sha256": "29fc39d9153fedb4522224ba8beca0c63bbe888018ec97d3e1713e29accb6e74"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:06.859Z",
+  "issues": []
+}

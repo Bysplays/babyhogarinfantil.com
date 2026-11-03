@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "12846",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/12846-cubrepanal-cuadro-vichy-rosa.html",
+  "name": "Cubrepañal cuadro vichy Rosa",
+  "brand": "Mac Ilusión",
+  "sku": "2301364",
+  "description": "Ranita de cuadro vichy.\n\nHECHO EN ESPAÑA",
+  "details": "Composición y cuidados:\n\nRanita: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Ranita: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-05 16:32:04",
+  "sourceUpdatedAt": "2026-10-27 11:12:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72430",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2301364",
+      "productSku": "2301364",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:12.384Z"
+    },
+    {
+      "id": "72431",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301364",
+      "productSku": "2301364",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:16.181Z"
+    },
+    {
+      "id": "72432",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301364",
+      "productSku": "2301364",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:19.670Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12846-14010.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14010-large_default/cubrepanal-cuadro-vichy-rosa.jpg",
+      "alt": "Cubrepañal cuadro vichy Rosa",
+      "sourceId": "14010",
+      "variantIds": [],
+      "sha256": "9b22df8a71bca07ba93503765dd3e4aac670db7ca0b8f5eccd2dc96506653ca9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:19.750Z",
+  "issues": []
+}

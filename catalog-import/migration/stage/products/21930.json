@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "21930",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/21930-chaqueta-vaquera-nina-mayoral-algodon-verde.html",
+  "name": "Chaqueta vaquera niña Mayoral algodon Verde",
+  "brand": "Mayoral",
+  "sku": "2501239",
+  "description": "Chaqueta vaquera verde para niña de Mayoral, confeccionada en 98% algodón y 2% elastano. Cómoda, flexible y perfecta para looks casuales de entretiempo con un toque moderno.",
+  "details": "La chaqueta vaquera verde de niña Mayoral es una prenda ideal para dar un toque de color y estilo a cualquier conjunto infantil. Su diseño tipo denim en tono verde la convierte en una alternativa original a la clásica chaqueta vaquera.\n\nGracias a su composición de 98% algodón y 2% elastano, ofrece una gran comodidad y libertad de movimiento, adaptándose perfectamente al día a día de las niñas.\n\nEs perfecta para combinar con vestidos, pantalones o conjuntos informales, siendo una prenda muy versátil para primavera y verano.\n\nCaracterísticas:\n\n\nChaqueta vaquera para niña\n\nColor verde\n\nTejido elástico: 98% algodón, 2% elastano\n\nMarca Mayoral\n\nPrenda cómoda, flexible y resistente\n\n\nDescubre más modelos en nuestra colección de chaquetas para niña y completa el look perfecto.",
+  "sourceDescriptionHtml": "<p>La <strong>chaqueta vaquera verde de niña Mayoral</strong> es una prenda ideal para dar un toque de color y estilo a cualquier conjunto infantil. Su diseño tipo denim en tono verde la convierte en una alternativa original a la clásica chaqueta vaquera.</p>\n<p>Gracias a su composición de <strong>98% algodón y 2% elastano</strong>, ofrece una gran comodidad y libertad de movimiento, adaptándose perfectamente al día a día de las niñas.</p>\n<p>Es perfecta para combinar con vestidos, pantalones o conjuntos informales, siendo una prenda muy versátil para primavera y verano.</p>\n<p><strong>Características:</strong></p>\n<ul>\n<li>Chaqueta vaquera para niña</li>\n<li>Color verde</li>\n<li>Tejido elástico: 98% algodón, 2% elastano</li>\n<li>Marca Mayoral</li>\n<li>Prenda cómoda, flexible y resistente</li>\n</ul>\n<p>Descubre más modelos en nuestra colección de <strong>chaquetas para niña</strong> y completa el look perfecto.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2025",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "728"
+  ],
+  "sourceDefaultCategoryId": "728",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 0,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-04-09 23:53:25",
+  "sourceUpdatedAt": "2026-10-26 19:38:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [],
+  "variants": [
+    {
+      "id": "100802",
+      "attributes": [],
+      "sku": "2501239",
+      "productSku": "2501239",
+      "taxRate": 21,
+      "price": 0,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:04.430Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21930-20881.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20881-large_default/chaqueta-vaquera-nina-mayoral-algodon-verde.jpg",
+      "alt": "Chaqueta vaquera verde niña Mayoral modelo",
+      "sourceId": "20881",
+      "variantIds": [],
+      "sha256": "9a140c7fbb9b9a0a85133d4acad210b7a1b1bb8b13e5c044f9c965c6571b8d31"
+    },
+    {
+      "path": "assets/21930-20882.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20882-large_default/chaqueta-vaquera-nina-mayoral-algodon-verde.jpg",
+      "alt": "Chaqueta vaquera verde niña Mayoral",
+      "sourceId": "20882",
+      "variantIds": [],
+      "sha256": "221dd23c791e3a7fc984d8f6b63291f213b478abdb40d19529126800edf70fd5"
+    },
+    {
+      "path": "assets/21930-20883.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20883-large_default/chaqueta-vaquera-nina-mayoral-algodon-verde.jpg",
+      "alt": "Chaqueta denim verde niña algodón elástico",
+      "sourceId": "20883",
+      "variantIds": [],
+      "sha256": "ae5d076468de56a23431a47cb29737455a0b1ed7fd2ee870352b7e6e4cb791f4"
+    },
+    {
+      "path": "assets/21930-20884.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20884-large_default/chaqueta-vaquera-nina-mayoral-algodon-verde.jpg",
+      "alt": "Detalle tejido chaqueta verde niña Mayoral",
+      "sourceId": "20884",
+      "variantIds": [],
+      "sha256": "77dafae6d5903169f0ad144cfdba4d2dce5cf601442361c3fdc2b77724d13ea0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:04.679Z",
+  "issues": []
+}

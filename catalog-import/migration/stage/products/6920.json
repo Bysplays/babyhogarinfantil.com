@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6920",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/6920-botin-bebe-pelo-orchestra-granate.html",
+  "name": "Botin bebé pelo \"ORCHESTRA\" Granate",
+  "brand": "Chicco",
+  "sku": "1708006",
+  "description": "Botita para bebé niña en color granate, sin suela, interior de borreguito, se abre con velcro por los dos laterales, fácil de poner. Muy calentita.",
+  "details": "What do you want to do ?\n\nNew mailCopy",
+  "sourceDescriptionHtml": "<p> </p>\n<div id=\"ventanamailtotoModal\">\n<div id=\"ventanamailtopopupModalContent\">\n<div id=\"ventanamailtopopupMailModalCloseTo\"> </div>\n<div id=\"ventanamailtopopupQuestionToMail\">What do you want to do ?</div>\n<a id=\"ventanamailtoappCreateNew\"></a>New mail<button id=\"ventanamailtoemailCopy\">Copy</button><textarea id=\"ventanamailtoareaSelectTextTo\" cols=\"22\" rows=\"3\"></textarea></div>\n</div>\n<div><img src=\"https://babyhogarinfantil.com/gestion/Catalogo/\" alt=\"\" /></div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Granate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "257",
+          "label": "17"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "98470",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "1708006",
+      "productSku": "1708006",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:18.002Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6920-4835.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4835-large_default/botin-bebe-pelo-orchestra-granate.jpg",
+      "alt": "Botin bebé pelo \"ORCHESTRA\" Granate",
+      "sourceId": "4835",
+      "variantIds": [],
+      "sha256": "367b6238bf581b46a62af18ba865fc296b155d4c61e32f1fa591fa5504524300"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:18.044Z",
+  "issues": []
+}

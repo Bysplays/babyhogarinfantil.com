@@ -1,0 +1,264 @@
+{
+  "schemaVersion": 1,
+  "id": "6587",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/6587-calcetin-ceremonia-corto-puno-labrado-v-blanco.html",
+  "name": "Calcetín ceremonia corto puño labrado V Blanco",
+  "brand": "Condor",
+  "sku": "1602101",
+  "description": "Calcetín corto de hilo con bolillo calado, ideal para ceremonia.",
+  "details": "Calcetines de CÓNDOR, una de nuestras firmas favoritas! Modelo corto, de hilo. Detalles de puño con puntilla, ideal para ceremonia. Disponibles en varios colores. Un complemento elegante y delicado, de tacto suave y transpirable, perfecto para combinar con vestidos o conjuntos en ocasiones especiales! Echa un ojito a nuestro calzado y podrás combinarlos como más te gusten!\n\nComposición y cuidados:\n\nCalcetín: 70% algodón, 30% poliamida\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">Calcetines de <strong>CÓNDOR</strong>, una de nuestras firmas favoritas! Modelo corto, de hilo. Detalles de puño con puntilla, ideal para ceremonia. Disponibles en varios colores. Un complemento elegante y delicado, de tacto suave y transpirable, perfecto para combinar con vestidos o conjuntos en ocasiones especiales! Echa un ojito a nuestro <strong>calzado</strong> y podrás combinarlos como más te gusten!</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">Composición y cuidados:</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">Calcetín: 70% algodón, 30% poliamida</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">NO USAR LEJÍAS</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">NO USAR SECADORA</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">NO PLANCHAR</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\"> </span></p>\n<p><strong><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">FABRICADO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-27 11:09:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 20,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63848",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:39.927Z"
+    },
+    {
+      "id": "100599",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:43.245Z"
+    },
+    {
+      "id": "91504",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:47.514Z"
+    },
+    {
+      "id": "91505",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:50.647Z"
+    },
+    {
+      "id": "63849",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:55.140Z"
+    },
+    {
+      "id": "63850",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:58.533Z"
+    },
+    {
+      "id": "100600",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:01.316Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6587-4536.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4536-large_default/calcetin-ceremonia-corto-puno-labrado-v-blanco.jpg",
+      "alt": "Calcetín ceremonia corto puño labrado V Blanco",
+      "sourceId": "4536",
+      "variantIds": [],
+      "sha256": "efc8dab7d8ddd2840527f3b76cc2271993459a373755961292dc795d382e5710"
+    },
+    {
+      "path": "assets/6587-9656.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9656-large_default/calcetin-ceremonia-corto-puno-labrado-v-blanco.jpg",
+      "alt": "Calcetín ceremonia corto puño labrado V Blanco",
+      "sourceId": "9656",
+      "variantIds": [],
+      "sha256": "efc8dab7d8ddd2840527f3b76cc2271993459a373755961292dc795d382e5710"
+    },
+    {
+      "path": "assets/6587-4535.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4535-large_default/calcetin-ceremonia-corto-puno-labrado-v-blanco.jpg",
+      "alt": "Calcetín ceremonia corto puño labrado V Blanco",
+      "sourceId": "4535",
+      "variantIds": [],
+      "sha256": "d6ab594dc81d5e8c4a312998de6f143af6df9298cf52cae6c8e4f022968dbefa"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:23:01.526Z",
+  "issues": []
+}

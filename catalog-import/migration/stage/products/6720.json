@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "6720",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/6720-calcetin-bebe-puno-vuelto-rizo-interior-blcrsa.html",
+  "name": "Calcetin bebé puño vuelto rizo interior Blc/Rsa",
+  "brand": "Condor",
+  "sku": "1610096",
+  "description": "Calcetín de algodón para bebé, con puño vuelto e interior de rizo lo que hace que sea cálido.",
+  "details": "Composici&oacute;n y cuidados:\n\r\nCalcetines: 90% algod&oacute;n, 8% poliamida, 2% elastano.\n\r\nNO USAR LEJIA.\n\r\nNO USAR SECADORA.\n\r\nNO PLANCHAR.",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n y cuidados:</p>\r\n<p>Calcetines: 90% algod&oacute;n, 8% poliamida, 2% elastano.</p>\r\n<p>NO USAR LEJIA.</p>\r\n<p>NO USAR SECADORA.</p>\r\n<p>NO PLANCHAR.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blc/Rsa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 4.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-27 11:09:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64212",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1610096",
+      "productSku": "1610096",
+      "taxRate": 21,
+      "price": 4.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:43.456Z"
+    },
+    {
+      "id": "64213",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1610096",
+      "productSku": "1610096",
+      "taxRate": 21,
+      "price": 4.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:47.759Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6720-4659.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4659-large_default/calcetin-bebe-puno-vuelto-rizo-interior-blcrsa.jpg",
+      "alt": "Calcetin bebé puño vuelto rizo interior Blc/Rsa",
+      "sourceId": "4659",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6720-9743.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9743-large_default/calcetin-bebe-puno-vuelto-rizo-interior-blcrsa.jpg",
+      "alt": "Calcetin bebé puño vuelto rizo interior Blc/Rsa",
+      "sourceId": "9743",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6720-4658.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4658-large_default/calcetin-bebe-puno-vuelto-rizo-interior-blcrsa.jpg",
+      "alt": "Calcetin bebé puño vuelto rizo interior Blc/Rsa",
+      "sourceId": "4658",
+      "variantIds": [],
+      "sha256": "6fb1e2a383da44fa1daa6c8fba192b744e34bf8fc3a3ef2d94310a66c7efe8cc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:47.971Z",
+  "issues": []
+}

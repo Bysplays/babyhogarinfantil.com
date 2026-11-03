@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "10365",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/10365-chaqueta-larga-bebe-sin-costuras-azul.html",
+  "name": "Chaqueta larga bebe sin costuras Azul",
+  "brand": "Mac Ilusión",
+  "sku": "2301123",
+  "description": "Abraza la dulzura y el confort óptimo con la exquisita \"Chaqueta larga bebe sin costuras azul\". Es una elección perfecta para los peques que desbordan estilo y encanto. Creada sin costuras para evitar cualquier irritación, esta chaqueta lleva comodidad al siguiente nivel. La fresca tonalidad azul destaca, invocando un sentido de calma y encanto infantil. Es ideal para esas noches de verano cuando el aire se pone fresco o para dar un acabado peculiar y cariñoso a cualquier atuendo diario. ¿El mejor regalo? Sin duda, que sus pequeños estarán tan acogedores como elegantes. HECHA EN ESPAÑA",
+  "details": "Confort Total para tu Bebé\n\nLa Chaqueta Larga Bebé sin Costuras Azul es la elección perfecta cuando buscas darle a tu pequeño confort y suavidad máxima. Confeccionada sin costuras, esta chaqueta no le causará ninguna incomodidad ni roces indeseados a tu bebé. La delicada piel de tu pequeño merece ser acariciada únicamente por las mejores telas.\n\nAzul que Hipnotiza\n\nMás allá de la comodidad, esta chaqueta brillará por su elegante tono azul. Su diseño sutil y fino hará que tu bebé sea el centro de atención en cualquier evento. Un color azul vívido que no sólo es agradable a la vista, sino que también evoca sentimientos de tranquilidad y paz. Deja que tu bebé sea la estrella brillante en cada reunión familiar.\n\nDiseño Largo para Máxima Protección\n\nLa longitud de la Chaqueta Larga Bebé sin Costuras Azul es otra característica que no puedes pasar por alto. No sólo cuenta con un diseño atractivo, sino que también proporciona a tu bebé una protección extra contra el frío. Cubre perfectamente al pequeño, manteniéndolo protegido y abrigado. No hay nada mejor para las frías noches de invierno o para los días de viento.\n\nDemuéstrale todo tu amor a tu bebé vistiéndolo con la Chaqueta Larga Bebé sin Costuras Azul. Haz que cada día sea especial. Haz tu compra ahora y disfruta de la sonrisa de tu pequeño.\n\n\n\n```",
+  "sourceDescriptionHtml": "<p></p>\n<div>\n<h2>Confort Total para tu Bebé</h2>\n<p>La <strong>Chaqueta Larga Bebé sin Costuras Azul</strong> es la elección perfecta cuando buscas darle a tu pequeño confort y suavidad máxima. Confeccionada sin costuras, esta chaqueta no le causará ninguna incomodidad ni roces indeseados a tu bebé. La delicada piel de tu pequeño merece ser acariciada únicamente por las mejores telas.</p>\n<h2>Azul que Hipnotiza</h2>\n<p>Más allá de la comodidad, esta chaqueta brillará por su elegante tono azul. Su diseño sutil y fino hará que tu bebé sea el centro de atención en cualquier evento. Un color azul vívido que no sólo es agradable a la vista, sino que también evoca sentimientos de tranquilidad y paz. Deja que tu bebé sea la estrella brillante en cada reunión familiar.</p>\n<h2>Diseño Largo para Máxima Protección</h2>\n<p>La longitud de la <strong>Chaqueta Larga Bebé sin Costuras Azul</strong> es otra característica que no puedes pasar por alto. No sólo cuenta con un diseño atractivo, sino que también proporciona a tu bebé una protección extra contra el frío. Cubre perfectamente al pequeño, manteniéndolo protegido y abrigado. No hay nada mejor para las frías noches de invierno o para los días de viento.</p>\n<p>Demuéstrale todo tu amor a tu bebé vistiéndolo con la <strong>Chaqueta Larga Bebé sin Costuras Azul</strong>. Haz que cada día sea especial. Haz tu compra ahora y disfruta de la sonrisa de tu pequeño.</p>\n</div>\n<p>```</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71758",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301123",
+      "productSku": "2301123",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:42.952Z"
+    },
+    {
+      "id": "71759",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301123",
+      "productSku": "2301123",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:44.706Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10365-8948.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8948-large_default/chaqueta-larga-bebe-sin-costuras-azul.jpg",
+      "alt": "Chaqueta larga bebe sin costuras Azul",
+      "sourceId": "8948",
+      "variantIds": [],
+      "sha256": "afc79f48ff4348b5c86a1b013668537d44db1aaab9e432309840e7696eb50421"
+    },
+    {
+      "path": "assets/10365-15017.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15017-large_default/chaqueta-larga-bebe-sin-costuras-azul.jpg",
+      "alt": "Chaqueta larga bebe sin costuras Azul",
+      "sourceId": "15017",
+      "variantIds": [],
+      "sha256": "5a0668f940b663e7207f5a1ec329adc73c9459f1cef6653d3b4f09b491a1f5fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:44.861Z",
+  "issues": []
+}

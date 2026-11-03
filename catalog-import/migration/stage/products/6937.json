@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6937",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/6937-pantalon-bebe-monstruo-mostaza.html",
+  "name": "Pantalón bebé \"MONSTRUO\" Mostaza",
+  "brand": "Chicco",
+  "sku": "1708021",
+  "description": "Simpático pantalón largo para bebé, con detalle de monstruo serigrafiado y bordado en la pierna. Cintura todo goma sin botones. Interior perchado, así es mas calentito.",
+  "details": "Composición:\n\n100% Algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR DEL REVES A 30º.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>100% Algodón.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR DEL REVES A 30º.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mostaza",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64729",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1708021",
+      "productSku": "1708021",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:30.076Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6937-4856.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4856-large_default/pantalon-bebe-monstruo-mostaza.jpg",
+      "alt": "Pantalón bebé \"MONSTRUO\" Mostaza",
+      "sourceId": "4856",
+      "variantIds": [],
+      "sha256": "df6f00536bb961438f16907f8ea008f910c630bd1a9af9de916179b3fe0e0818"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:30.124Z",
+  "issues": []
+}

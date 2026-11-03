@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "8401",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/8401-mocasin-del-40-al-44-azul-marino.html",
+  "name": "Mocasín del 40 al 44 Azul Marino",
+  "brand": "Gorila",
+  "sku": "2007108",
+  "description": "Mágicamente cómodos y sorprendentemente versátiles, los Mocasines de 40 al 44 en azul marino se convertirán rápidamente en los zapatos preferidos de tu pequeño. Hechos para el ajetreo y el bullicio de la vida escolar, estos mocasines ofrecen durabilidad y confort insuperables. El vibrante tono azul marino garantiza que se destacarán en cualquier multitud. Su tamaño flexible, desde 40 hasta 44, garantiza su utilidad en crecimientos repentinos. No sólo son zapatos, son una inversión en la comodidad diaria de su hijo, lo que significa menos distracciones y más concentración en la escuela. Asegúrate de agregar estos a tu carrito de compras hoy.\n\n Plantilla extraíble.",
+  "details": "Mocasín colegial de GORILA, una de nuestras firmas de confianza. En color azul marino, elaborado en piel de máxima calidad. Suela de caucho natural antideslizante y resistente, para mayor sujeción y evitar resbalones. Con forro textil transpirable. Fabricado con hormas estudiadas para un máximo confort del pie en el día a día, para un uso continuado. Un calzado perfecto para el cole, resistente y cómodo! Echa un ojito a nuestros pantalones y faldas escolares, jerséis y chaquetas y podrás encontrar todo lo que necesites!",
+  "sourceDescriptionHtml": "<p><span style=\"color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;line-height:1.5;\"><span style=\"font-weight:bolder;\">Mocasín colegial de <strong>GORILA</strong>, una de nuestras firmas de confianza. En color azul marino, elaborado en piel de máxima calidad. Suela de caucho natural antideslizante y resistente, para mayor sujeción y evitar resbalones. Con forro textil transpirable. </span></span><span style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">Fabricado con hormas estudiadas para un máximo confort del pie en el día a día, para un uso continuado. Un calzado</span><strong style=\"margin:0px;padding:0px;color:#333333;font-family:Constantia, serif;font-size:15.3333px;\"> perfecto para el cole</strong><span style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">, resistente y cómodo! Echa un ojito a nuestros </span><strong style=\"margin:0px;padding:0px;color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">pantalones y faldas escolares, jerséis y chaquetas</strong><span style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\"> y podrás encontrar todo lo que necesites! </span></p>\n<p> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "783",
+    "684",
+    "850",
+    "879"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 59.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "294",
+          "label": "41"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67409",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "2007108",
+      "productSku": "2007108",
+      "taxRate": 21,
+      "price": 59.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:58.230Z"
+    },
+    {
+      "id": "67410",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "294",
+          "group": "Tamaño",
+          "value": "41"
+        }
+      ],
+      "sku": "2007108",
+      "productSku": "2007108",
+      "taxRate": 21,
+      "price": 59.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:01.144Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8401-15666.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15666-large_default/mocasin-del-40-al-44-azul-marino.jpg",
+      "alt": "Mocasín del 40 al 44 Azul Marino",
+      "sourceId": "15666",
+      "variantIds": [
+        "67409"
+      ],
+      "sha256": "d6e107595ed4223d5119730340e71265eac8804314d8dbfe8d539d35cdfc7ca3"
+    },
+    {
+      "path": "assets/8401-15667.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15667-large_default/mocasin-del-40-al-44-azul-marino.jpg",
+      "alt": "Mocasín del 40 al 44 Azul Marino",
+      "sourceId": "15667",
+      "variantIds": [
+        "67409"
+      ],
+      "sha256": "c6a41a4d815fdd97935ec1ff186b81905da704b3f0c9f96e88ab9e93f190b933"
+    },
+    {
+      "path": "assets/8401-15668.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15668-large_default/mocasin-del-40-al-44-azul-marino.jpg",
+      "alt": "Mocasín del 40 al 44 Azul Marino",
+      "sourceId": "15668",
+      "variantIds": [
+        "67409"
+      ],
+      "sha256": "fd3f684ff3520d4ca4f90a51fcb3d7a1fc8adcb246a30c26a11cced482624d20"
+    },
+    {
+      "path": "assets/8401-15669.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15669-large_default/mocasin-del-40-al-44-azul-marino.jpg",
+      "alt": "Mocasín del 40 al 44 Azul Marino",
+      "sourceId": "15669",
+      "variantIds": [
+        "67409"
+      ],
+      "sha256": "9c2d070e43d026cf083291df3ce6a43c0c2dff80ee64dd390aabead94dfe7094"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:01.495Z",
+  "issues": []
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "12843",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-martin-codax-vigo/12843-sudadera-martin-codax-50-aniversario-gris.html",
+  "name": "Sudadera Martin Codax 50 aniversario Gris",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2301361",
+  "description": "PLAZO DE RESERVA FINALIZADO. Los pedidos serán entregados la semana del 26 de Junio.\n\nEste artículo no acepta cambios ni devolución, excepto por defecto de fabricación.",
+  "details": "Sudadera conmemorativa 50 aniversario. El periodo de reserva es del 10/04/2023 hasta el 01/06/2023. Una vez vencido el plazo no se podrá hacer mas reservas. IMPRESCINDIBLE PAGO POR ADELANTADO.\n\nLa fiesta aniversario es el día 01/07/2023 en el colegio.\n\nUno días antes se podrán recoger las sudaderas en nuestra tienda de la c/Barcelona, 84-bajo. O para quien haya elegido la opción de envío a domicilio le será también enviada unos días antes. Se avisará cuando estén ya disponibles.\n\nComposición:\n\nSudadera: 50% algodón, 50% poliéster.\n\nFelpa perchada.\n\nEste artículo no acepta cambios ni devolución, excepto por defeco de fabricación.",
+  "sourceDescriptionHtml": "<p>Sudadera conmemorativa 50 aniversario. <strong>El periodo de reserva es del</strong> <strong>10/04/2023 hasta el 01/06/2023</strong>. Una vez vencido el plazo no se podrá hacer mas reservas. IMPRESCINDIBLE PAGO POR ADELANTADO.</p>\n<p>La fiesta aniversario es el día 01/07/2023 en el colegio.</p>\n<p>Uno días antes se podrán recoger las sudaderas en nuestra tienda de la c/Barcelona, 84-bajo. O para quien haya elegido la opción de envío a domicilio le será también enviada unos días antes. Se avisará cuando estén ya disponibles.</p>\n<p>Composición:</p>\n<p>Sudadera: 50% algodón, 50% poliéster.</p>\n<p>Felpa perchada.</p>\n<p><strong>Este artículo no acepta cambios ni devolución, excepto por defeco de fabricación.</strong></p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "707"
+  ],
+  "sourceDefaultCategoryId": "707",
+  "sourceCategoryName": "Colegio Martin Codax Vigo",
+  "price": 0,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-05 16:32:04",
+  "sourceUpdatedAt": "2026-10-26 19:38:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": -1,
+  "groups": [],
+  "variants": [
+    {
+      "id": "77337",
+      "attributes": [],
+      "sku": "2301361",
+      "productSku": "2301361",
+      "taxRate": 21,
+      "price": 0,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:42.847Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12843-13781.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13781-large_default/sudadera-martin-codax-50-aniversario-gris.jpg",
+      "alt": "Sudadera Martin Codax 50 aniversario Gris",
+      "sourceId": "13781",
+      "variantIds": [],
+      "sha256": "ef79d6ff2b225dfe11db9fa479ade79c010a2eb984b54976f0997b9479b625db"
+    },
+    {
+      "path": "assets/12843-13782.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13782-large_default/sudadera-martin-codax-50-aniversario-gris.jpg",
+      "alt": "Sudadera Martin Codax 50 aniversario Gris",
+      "sourceId": "13782",
+      "variantIds": [],
+      "sha256": "944217feb2a70f66e46cb465dc7a99341e33cbfb0b5c1dd82ffbe09fedbac204"
+    },
+    {
+      "path": "assets/12843-13873.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13873-large_default/sudadera-martin-codax-50-aniversario-gris.jpg",
+      "alt": "Sudadera Martin Codax 50 aniversario Gris",
+      "sourceId": "13873",
+      "variantIds": [],
+      "sha256": "af7d4f9a05b2cfdb8de865d866623f35cd0004a7220a44dc2abe53c252b45cbc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:43.008Z",
+  "issues": []
+}

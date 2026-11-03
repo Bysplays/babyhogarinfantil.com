@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10441",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10441-peto-corto-astronautas-gris.html",
+  "name": "Peto corto astronautas Gris",
+  "brand": "Babybol",
+  "sku": "2301208",
+  "description": "Conjunto de camiseta de manga corta y peto de algodón corto estampado con astronautas",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 20.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:02",
+  "sourceUpdatedAt": "2026-10-27 11:12:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72072",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2301208",
+      "productSku": "2301208",
+      "taxRate": 21,
+      "price": 20.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:34.216Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10441-13608.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13608-large_default/peto-corto-astronautas-gris.jpg",
+      "alt": "Peto corto astronautas Gris",
+      "sourceId": "13608",
+      "variantIds": [],
+      "sha256": "f1ce9f5fe72fdde2371c3a18b4391587806ab3b517ee6627c4b085cac21bd59b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:34.267Z",
+  "issues": []
+}

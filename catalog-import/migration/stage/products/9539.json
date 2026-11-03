@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "9539",
+  "sourceUrl": "https://babyhogarinfantil.com/capotas-bebe-nina/9539-capota-bebe-verano-azul-celeste.html",
+  "name": "Capota bebe verano Azul Celeste",
+  "brand": "Mac Ilusión",
+  "sku": "2203047",
+  "description": "Capota de punto en perlé. Se sugeta con cinta y abrocha con botón lateral. HECHA EN ESPAÑA",
+  "details": "Composición:\n\n100% acrílico Dralon.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>100% acrílico Dralon.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "810",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "810",
+  "sourceCategoryName": "Capotas Bebé niña",
+  "price": 5,
+  "oldPrice": 9.9946,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69473",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2203047",
+      "productSku": "2203047",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:50.912Z"
+    },
+    {
+      "id": "69474",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2203047",
+      "productSku": "2203047",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:54.206Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9539-14982.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14982-large_default/capota-bebe-verano-azul-celeste.jpg",
+      "alt": "Capota bebe verano Azul Celeste",
+      "sourceId": "14982",
+      "variantIds": [],
+      "sha256": "9e7a53cacb0246f4c12e77f0b487b3bf6ac5d362eaf25050ba5a5fe9ea9c96be"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:54.256Z",
+  "issues": []
+}

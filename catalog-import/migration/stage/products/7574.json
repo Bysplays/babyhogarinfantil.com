@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7574",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nino-verano/7574-pijama-largo-good-night-gris.html",
+  "name": "Pijama largo Good Night Gris",
+  "brand": "Babybol",
+  "sku": "1902096",
+  "description": "Pijama de verano para niño 100% ALGODÓN.",
+  "details": "Pijama de dos piezas para verano y entretiempo. Camiseta de manga larga y con cuello redondo. Con el fondo gris y el dibujo de un simpático osito dormilón. El cuello y los puños de las mangas van en azul marino. El pantalón largo, tiene goma en la cintura y puños en los tobillos, en marino, a juego con la camiseta. Un pijama cómodo que, a pesar de ser de manga y pierna larga, es finito, perfecto para el verano o el entretiempo. \n\nComposición: \n\nCamiseta: 100% algodón\n\nPantalón: 100% algodón\n\n LAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nSE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Pijama de dos piezas para verano y entretiempo. Camiseta de manga larga y con cuello redondo. Con el fondo gris y el dibujo de un simpático osito dormilón. El cuello y los puños de las mangas van en azul marino. El pantalón largo, tiene goma en la cintura y puños en los tobillos, en marino, a juego con la camiseta. Un pijama cómodo que, a pesar de ser de manga y pierna larga, es finito, perfecto para el verano o el entretiempo. </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición: </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Camiseta: 100% algodón</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Pantalón: 100% algodón</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"> <span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">SE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "775"
+  ],
+  "sourceDefaultCategoryId": "775",
+  "sourceCategoryName": "Pijamas Niño Verano",
+  "price": 8.48,
+  "oldPrice": 16.9521,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65943",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1902096",
+      "productSku": "1902096",
+      "taxRate": 21,
+      "price": 8.48,
+      "oldPrice": 16.9521,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:08.428Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7574-5543.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5543-large_default/pijama-largo-good-night-gris.jpg",
+      "alt": "Pijama largo Good Night Gris",
+      "sourceId": "5543",
+      "variantIds": [],
+      "sha256": "442bf81d0e022e18c5e187b9bd4bed7f5d651216fdac13f4a3fcb6e294143481"
+    },
+    {
+      "path": "assets/7574-5542.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5542-large_default/pijama-largo-good-night-gris.jpg",
+      "alt": "Pijama largo Good Night Gris",
+      "sourceId": "5542",
+      "variantIds": [],
+      "sha256": "e2ea31383f512ce7d3f06a52e4a0f3e676b0520af760e8cd4772a599dd66d2bd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:08.548Z",
+  "issues": []
+}

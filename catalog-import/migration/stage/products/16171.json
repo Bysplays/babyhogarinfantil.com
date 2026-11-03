@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16171",
+  "sourceUrl": "https://babyhogarinfantil.com/bano-nino/16171-banador-boxer-avengers-azul-marino.html",
+  "name": "Bañador boxer Avengers Azul Marino",
+  "brand": "Sun City",
+  "sku": "2301388",
+  "description": "Bañador boxer de los Vengadores",
+  "details": "Composición:\n\nBañador: 80% poliéster, 20% elastano.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Bañador: 80% poliéster, 20% elastano.</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "807"
+  ],
+  "sourceDefaultCategoryId": "807",
+  "sourceCategoryName": "Baño niño",
+  "price": 11.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-21 16:14:55",
+  "sourceUpdatedAt": "2026-10-27 11:12:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72559",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2301388",
+      "productSku": "2301388",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:44.100Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16171-13915.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13915-large_default/banador-boxer-avengers-azul-marino.jpg",
+      "alt": "Bañador boxer Avengers Azul Marino",
+      "sourceId": "13915",
+      "variantIds": [],
+      "sha256": "4d4ea83a65a0e9a7f1939fce7afdd7fb6a20ae0e9856bc9a2edad5f9226bfe16"
+    },
+    {
+      "path": "assets/16171-13916.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13916-large_default/banador-boxer-avengers-azul-marino.jpg",
+      "alt": "Bañador boxer Avengers Azul Marino",
+      "sourceId": "13916",
+      "variantIds": [],
+      "sha256": "270b0968911d02a48aa9bfe8746a8c13bdfd73e38499b5b4c77db5c0d22ef8d0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:44.221Z",
+  "issues": []
+}

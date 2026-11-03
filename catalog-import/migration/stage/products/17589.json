@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "17589",
+  "sourceUrl": "https://babyhogarinfantil.com/toallas-y-capas/17589-poncho-playa-magemta.html",
+  "name": "Poncho playa Magemta",
+  "brand": "Mayoral",
+  "sku": "2401304",
+  "description": "Sumérgete en un mundo de lujo y comodidad con el Poncho Playa Magemta. Diseñado para las pequeñas amantes de la playa, este poncho encantador convertirá cada momento en la arena en una fiesta de color y suavidad. Su material de alta calidad abraza la piel delicada, absorbiendo rápidamente el agua y ofreciendo una agradable sensación de secado. Su tonalidad magenta vibrante refleja la alegría y energía de las vacaciones, capturando todas las miradas. Ahora, cada día bajo el sol se convertirá en una experiencia llena de confort y estilo. Este maravilloso poncho es el compañero perfecto para hacer realidad los sueños playeros de tus niños, brindándoles momentos inolvidables. Permíteles descubrir el gozo de la playa con la comodidad y belleza del Poncho Playa Magemta. 100% ALGODON",
+  "details": "Cobertura Vibrante\n\nLas tardes en la playa no se volverán a ver igual con el colorido 'Poncho Playa Magemta'. Envuélvete de alegría y calor con estos preciosos colores tropicales que irradian de cada fibra de este imprescindible estilo playero. Perfecto para los pequeños aventureros.\n\nMaterial Durable y Cómodo\n\nExperimenta la increíble suavidad de este poncho playa, perfectamente diseñado para las más pequeñas. Su material de alta calidad garantiza una absorción excepcional después de un divertido día en el agua, mientras que su durabilidad permite múltiples temporadas de uso.\n\nProtección Saludable\n\nNo solo atractivo sino también práctico. Este poncho playa ofrece una cómoda cobertura para ayudar a proteger la piel delicada de los más pequeños del sol en los días calurosos de verano. Transportable y fácil de usar, es una adición imprescindible para experiencias seguras en la playa.\n\n¡Cómpralo hoy mismo!\n\nCrea momentos inolvidables para tus pequeños con el 'Poncho Playa Magemta'. ¡Haz click y agrega al carrito ahora!\n\nComposición:\n\nPoncho: 100% algodón.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<h2>Cobertura Vibrante</h2>\n<p>Las tardes en la playa no se volverán a ver igual con el colorido 'Poncho Playa Magemta'. Envuélvete de alegría y calor con estos preciosos colores tropicales que irradian de cada fibra de este imprescindible estilo playero. Perfecto para los pequeños aventureros.</p>\n<h2>Material Durable y Cómodo</h2>\n<p>Experimenta la increíble suavidad de este poncho playa, perfectamente diseñado para las más pequeñas. Su material de alta calidad garantiza una absorción excepcional después de un divertido día en el agua, mientras que su durabilidad permite múltiples temporadas de uso.</p>\n<h2>Protección Saludable</h2>\n<p>No solo atractivo sino también práctico. Este poncho playa ofrece una cómoda cobertura para ayudar a proteger la piel delicada de los más pequeños del sol en los días calurosos de verano. Transportable y fácil de usar, es una adición imprescindible para experiencias seguras en la playa.</p>\n<h3>¡Cómpralo hoy mismo!</h3>\n<p>Crea momentos inolvidables para tus pequeños con el 'Poncho Playa Magemta'. ¡Haz click y agrega al carrito ahora!</p>\n<p>Composición:</p>\n<p>Poncho: 100% algodón.</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Magemta",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "806"
+  ],
+  "sourceDefaultCategoryId": "806",
+  "sourceCategoryName": "Toallas y capas",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-05-16 23:55:24",
+  "sourceUpdatedAt": "2026-10-27 11:13:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84523",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12104XA18555",
+      "productSku": "2401304",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:51.549Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17589-15482.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15482-large_default/poncho-playa-magemta.jpg",
+      "alt": "Poncho playa Magemta",
+      "sourceId": "15482",
+      "variantIds": [],
+      "sha256": "7a82bf435160357f2df5bcde9058314cc210c7cdf0b75bc87a0dfc8f13ff3c95"
+    },
+    {
+      "path": "assets/17589-15483.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15483-large_default/poncho-playa-magemta.jpg",
+      "alt": "Poncho playa Magemta",
+      "sourceId": "15483",
+      "variantIds": [],
+      "sha256": "ebb1062397345e03b62a39435b83b28e4c00a8133eb32ef573f9cb0cb8e8a1c7"
+    },
+    {
+      "path": "assets/17589-15484.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15484-large_default/poncho-playa-magemta.jpg",
+      "alt": "Poncho playa Magemta",
+      "sourceId": "15484",
+      "variantIds": [],
+      "sha256": "a45ae0588f2879a8b956e2f88fbf1809d02dd947b25081daf8019283ea325415"
+    },
+    {
+      "path": "assets/17589-15485.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15485-large_default/poncho-playa-magemta.jpg",
+      "alt": "Poncho playa Magemta",
+      "sourceId": "15485",
+      "variantIds": [],
+      "sha256": "d9e9fb009517af2b8c6821536128553ca9bd52809570ba5394de1ff8a70c36b1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:51.752Z",
+  "issues": []
+}

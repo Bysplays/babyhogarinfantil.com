@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8409",
+  "sourceUrl": "https://babyhogarinfantil.com/velas-para-bautizo/8409-vela-para-bautizo-cochecito-crudo.html",
+  "name": "Vela para bautizo COCHECITO Crudo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2007134",
+  "description": "Vela para el padrino de la ceremonia. Con detalle de conchecito y lazo. Guárdala después para la 1ª comunión. Medias alto 30 cm Diámetro 2,5 cm.",
+  "details": "Recuerda que disponemos de todo lo necesario para el bautizo, desde el faldón o vestido y el traje hasta todos los complementos para el bautizo, como las toquillas, la vela para el padrino, y los paños bautismales que puedes personalizar con nombre y fecha. Consúltalo todo en nuestras secciones de bautizo, y no dudes en llamarnos para cualquier aclaración a nuestros teléfono 886 166 179 o por WSP 695 251 402",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\"><span style=\"font-size:10pt;line-height:107%;font-family:robotoregular;color:#777777;\">Recuerda que disponemos de todo lo necesario para el bautizo, desde el faldón o vestido y el traje hasta todos los complementos para el bautizo, como las<strong><span style=\"font-family:robotoregular;\"> toquillas</span></strong>, la<strong><span style=\"font-family:robotoregular;\"> vela para el padrino</span></strong>, y los <strong><span style=\"font-family:robotoregular;\">paños bautismales</span></strong> que puedes personalizar con nombre y fecha. Consúltalo todo en nuestras secciones de bautizo, y no dudes en llamarnos para cualquier aclaración a nuestros teléfono <strong><span style=\"font-family:robotoregular;\">886 166 179</span></strong> o por WSP <strong><span style=\"font-family:robotoregular;\">695 251 402</span></strong></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "814",
+    "731"
+  ],
+  "sourceDefaultCategoryId": "731",
+  "sourceCategoryName": "Velas para bautizo",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99966",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8166XA13162",
+      "productSku": "2007134",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:00.813Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8409-11166.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11166-large_default/vela-para-bautizo-cochecito-crudo.jpg",
+      "alt": "Vela para bautizo COCHECITO Crudo",
+      "sourceId": "11166",
+      "variantIds": [],
+      "sha256": "d37d4ab482e94dd3a47a2f6c850694ab149582a368eb90327122dcea7f80e9a0"
+    },
+    {
+      "path": "assets/8409-11165.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11165-large_default/vela-para-bautizo-cochecito-crudo.jpg",
+      "alt": "Vela para bautizo COCHECITO Crudo",
+      "sourceId": "11165",
+      "variantIds": [],
+      "sha256": "93a67f8eb84ef203a0c3cd1c61c9d82ad71eff818a27b894ab7c9bbb66b6fef1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:00.912Z",
+  "issues": []
+}

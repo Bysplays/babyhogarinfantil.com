@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "id": "16194",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-san-fernando/16194-camiseta-san-fernando-2-a-16-blanco.html",
+  "name": "Camiseta San Fernando 2 a 16 Blanco",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2301349",
+  "description": "Camiseta bordada de deporte del colegio San Fernando, para infantil y primaria.",
+  "details": "Composición:\n\nCamiseta: 50% algodón 50% poliéster.\n\nLavar siempre del revés.\n\nNO LAVAR A MANO.\n\nNO USAR SECADORA.\n\nHECHA EN GALICIA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Camiseta: 50% algodón 50% poliéster.</p>\n<p>Lavar siempre del revés.</p>\n<p>NO LAVAR A MANO.</p>\n<p>NO USAR SECADORA.</p>\n<p><strong>HECHA EN GALICIA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "844"
+  ],
+  "sourceDefaultCategoryId": "844",
+  "sourceCategoryName": "Colegio San Fernando",
+  "price": 15.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-26 00:21:30",
+  "sourceUpdatedAt": "2026-10-26 19:38:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 11,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "73123",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "11217XA17293",
+      "productSku": "2301349",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:57.747Z"
+    },
+    {
+      "id": "80765",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "11217XB17293",
+      "productSku": "2301349",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:00.315Z"
+    },
+    {
+      "id": "80766",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "11217XC17293",
+      "productSku": "2301349",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:03.299Z"
+    },
+    {
+      "id": "88532",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "11217XD17293",
+      "productSku": "2301349",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:05.729Z"
+    },
+    {
+      "id": "73127",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "11217XE17293",
+      "productSku": "2301349",
+      "taxRate": 21,
+      "price": 16.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:08.622Z"
+    },
+    {
+      "id": "95319",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "11217XF17293",
+      "productSku": "2301349",
+      "taxRate": 21,
+      "price": 16.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:11.424Z"
+    },
+    {
+      "id": "97168",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "11217XG17293",
+      "productSku": "2301349",
+      "taxRate": 21,
+      "price": 16.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:13.767Z"
+    },
+    {
+      "id": "73130",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "11217XH17293",
+      "productSku": "2301349",
+      "taxRate": 21,
+      "price": 16.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:16.542Z"
+    },
+    {
+      "id": "172636",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "2301349",
+      "productSku": "2301349",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:19.503Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16194-13921.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13921-large_default/camiseta-san-fernando-2-a-16-blanco.jpg",
+      "alt": "Camiseta San Fernando 2 a 16 Blanco",
+      "sourceId": "13921",
+      "variantIds": [],
+      "sha256": "f9480bcbe8ee17535a854d6eeff5e87bf07776348c09c8ce85715ea0e6d93b7c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:19.573Z",
+  "issues": []
+}

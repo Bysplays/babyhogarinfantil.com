@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "id": "8625",
+  "sourceUrl": "https://babyhogarinfantil.com/batas-nina/8625-bata-lol-rosa.html",
+  "name": "Bata LOL Rosa",
+  "brand": "Cerdá",
+  "sku": "2102009",
+  "description": "Bata de invierno de LOL SURPRISE! En color rosa con estampado de caritas LOL. Cierre con cinturón. Tiene capucha.",
+  "details": "Bata de invierno de LOL SURPRISE! En color rosa con estampado de caritas LOL en tonos fucsias, El pecho está decorado con un parche. Cierre con cinturón, tiene trabillas para poder sujetarlo. Con capucha. Una prenda ligera, cómoda, tejido de gran suavidad y tacto muy cálido, indispensable para la época de frío! Echa un ojito a nuestros pijamas, zapatillas de casa y calcetines antideslizantes y podrás combinarla con todo lo que necesites!\n\nComposición y cuidados:\n\nBata: 100% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Bata de invierno de LOL SURPRISE! En color rosa con estampado de caritas LOL en tonos fucsias, El pecho está decorado con un parche. Cierre con cinturón, tiene trabillas para poder sujetarlo. Con capucha. Una prenda ligera, cómoda, tejido de gran suavidad y tacto muy cálido, indispensable para la época de frío! Echa un ojito a nuestros pijamas, zapatillas de casa y calcetines antideslizantes y podrás combinarla con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Bata: 100% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776",
+    "897"
+  ],
+  "sourceDefaultCategoryId": "897",
+  "sourceCategoryName": "Batas niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:39",
+  "sourceUpdatedAt": "2026-10-27 11:10:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67683",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "8615XI13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:15.747Z"
+    },
+    {
+      "id": "146894",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "8615XA13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:18.142Z"
+    },
+    {
+      "id": "146895",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "8615XB13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:20.065Z"
+    },
+    {
+      "id": "146896",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "8615XC13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:21.824Z"
+    },
+    {
+      "id": "146897",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "8615XD13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:24.491Z"
+    },
+    {
+      "id": "146898",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "8615XE13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:27.132Z"
+    },
+    {
+      "id": "146899",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "8615XF13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:29.602Z"
+    },
+    {
+      "id": "146900",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "8615XG13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:31.687Z"
+    },
+    {
+      "id": "146901",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "8615XH13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:34.172Z"
+    },
+    {
+      "id": "146902",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "8615XJ13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:36.750Z"
+    },
+    {
+      "id": "146903",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "8615XK13778",
+      "productSku": "2102009",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:38.975Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8625-11389.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11389-large_default/bata-lol-rosa.jpg",
+      "alt": "Bata LOL Rosa",
+      "sourceId": "11389",
+      "variantIds": [],
+      "sha256": "ef5e9c2660b739f8c75532659d4ed48cdb718567d639484eda61f56ea5a2ed50"
+    },
+    {
+      "path": "assets/8625-11390.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11390-large_default/bata-lol-rosa.jpg",
+      "alt": "Bata LOL Rosa",
+      "sourceId": "11390",
+      "variantIds": [],
+      "sha256": "303aba36e2c0a3e18e994b12f534daf885cdbe138c9ae73f76fd3cb05e10ee10"
+    },
+    {
+      "path": "assets/8625-11391.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11391-large_default/bata-lol-rosa.jpg",
+      "alt": "Bata LOL Rosa",
+      "sourceId": "11391",
+      "variantIds": [],
+      "sha256": "682ceddf862571637a30bbdde89d6ca010df8b674411d888241fc53a1a822334"
+    },
+    {
+      "path": "assets/8625-6951.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6951-large_default/bata-lol-rosa.jpg",
+      "alt": "Bata LOL Rosa",
+      "sourceId": "6951",
+      "variantIds": [],
+      "sha256": "b07a0ed8c8f8888e0d572cac40b752ff216d2eb4854ff07c8f6860326f12d853"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:39.221Z",
+  "issues": []
+}

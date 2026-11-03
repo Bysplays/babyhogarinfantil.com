@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "7975",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nino/7975-sudadera-bebe-con-cremallera-zy-96-gris.html",
+  "name": "Sudadera bebe con cremallera ZY 96 Gris",
+  "brand": "Zippy",
+  "sku": "1911090",
+  "description": "Sudadera gris con cremallera y capucha. Con felpa interior para el invierno.",
+  "details": "Composición y cuidados:\n\nSudadera: 95% algodón, 5% elastano.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Sudadera: 95% algodón, 5% elastano.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "741"
+  ],
+  "sourceDefaultCategoryId": "741",
+  "sourceCategoryName": "Sudaderas y jerseys bebé niño",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-27 11:10:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99577",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1911090",
+      "productSku": "1911090",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:09.708Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7975-6109.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6109-large_default/sudadera-bebe-con-cremallera-zy-96-gris.jpg",
+      "alt": "Sudadera bebe con cremallera ZY 96 Gris",
+      "sourceId": "6109",
+      "variantIds": [],
+      "sha256": "b721792f2c62be8634c512250b6f34a83ae9552067756fc2e0582aafd6a1f2b8"
+    },
+    {
+      "path": "assets/7975-6110.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6110-large_default/sudadera-bebe-con-cremallera-zy-96-gris.jpg",
+      "alt": "Sudadera bebe con cremallera ZY 96 Gris",
+      "sourceId": "6110",
+      "variantIds": [],
+      "sha256": "79e0b0df1197ea0f3b4bced825e07907718d3e046464ca4a42324f6ce41ff41d"
+    },
+    {
+      "path": "assets/7975-6111.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6111-large_default/sudadera-bebe-con-cremallera-zy-96-gris.jpg",
+      "alt": "Sudadera bebe con cremallera ZY 96 Gris",
+      "sourceId": "6111",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/7975-6108.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6108-large_default/sudadera-bebe-con-cremallera-zy-96-gris.jpg",
+      "alt": "Sudadera bebe con cremallera ZY 96 Gris",
+      "sourceId": "6108",
+      "variantIds": [],
+      "sha256": "52ab9d0fa704a1e2cfb3f33b7c29767c096e946769ba0462426bbe65727c63d2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:09.936Z",
+  "issues": []
+}

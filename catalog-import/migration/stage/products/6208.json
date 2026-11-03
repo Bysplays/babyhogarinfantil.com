@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "6208",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/6208-chaqueta-bebe-nino-carteras-azul-marino.html",
+  "name": "Chaqueta Bebé niño Carteras Azul Marino",
+  "brand": "Pecesa",
+  "sku": "995",
+  "description": "Con la frescura suave y acogedora de la chaqueta Carteras Azul Marino para bebé, tu pequeño estará listo para afrontar el clima con estilo. Esta chaqueta de invierno brinda calidez excepcional, protegiendo a tu bebé del frío sin sacrificar su comodidad. El color azul marino vibrante añade un toque de elegancia, evocando un aire de sofisticación miniatura. Un cierre seguro garantiza que la chaqueta se mantendrá en su lugar mientras tu pequeño explora el mundo. ¡Eleva el estilo de tu bebé con la Chaqueta Carteras Azul Marino!",
+  "details": "Confort y Calidez Incomparables\n\nCon la Chaqueta Bebé Niño Carteras Azul Marino, cada niño experimentará una comodidad insuperable. Confeccionada con materiales de alta calidad que mantienen el calor, esta prenda es esencial para los días frescos. Su tela suave y aterciopelada garantiza la mayor comodidad para su bebé, permitiendo un movimiento sin restricciones mientras brinda una calidez envolvente.\n\n\nDiseño Atemporal y Práctico\n\nAdemás del confort, esta chaqueta presenta un diseño clásico de azul marino, perfecto para una variedad de ocasiones. Con sus prácticas carteras, mantiene las pequeñas manos calientes y proporciona espacio para guardar tesoros. Más que una simple chaqueta, la Carteras Azul Marino ofrece funcionalidad añadida, asegurando que su pequeño esté listo para cualquier aventura.\n\n\nCalidad que Resiste el Paso del Tiempo\n\nLa Chaqueta Bebé Niño Carteras Azul Marino representa durabilidad. La calidad de su confección garantiza que resistirá el juego vigoroso y el paso del tiempo, manteniendo su forma y color. Esta es una inversión en ropa infantil que vale la pena, con la promesa de comodidad duradera y estilo perdurable.\n\n\nNo espere más. Proteja a su pequeño del frío con nuestra Chaqueta Bebé Niño Carteras Azul Marino. Añádala a su carrito de compras hoy y experimente la diferencia que hace la calidad superior.",
+  "sourceDescriptionHtml": "<h2>Confort y Calidez Incomparables</h2>\n<p>Con la <strong>Chaqueta Bebé Niño Carteras Azul Marino</strong>, cada niño experimentará una comodidad insuperable. Confeccionada con materiales de alta calidad que mantienen el calor, esta prenda es esencial para los días frescos. Su tela suave y aterciopelada garantiza la mayor comodidad para su bebé, permitiendo un movimiento sin restricciones mientras brinda una calidez envolvente.</p>\n\n<h2>Diseño Atemporal y Práctico</h2>\n<p>Además del confort, esta chaqueta presenta un diseño clásico de azul marino, perfecto para una variedad de ocasiones. Con sus prácticas carteras, mantiene las pequeñas manos calientes y proporciona espacio para guardar tesoros. Más que una simple chaqueta, la Carteras Azul Marino ofrece funcionalidad añadida, asegurando que su pequeño esté listo para cualquier aventura.</p>\n\n<h2>Calidad que Resiste el Paso del Tiempo</h2>\n<p>La Chaqueta Bebé Niño Carteras Azul Marino representa durabilidad. La calidad de su confección garantiza que resistirá el juego vigoroso y el paso del tiempo, manteniendo su forma y color. Esta es una inversión en ropa infantil que vale la pena, con la promesa de comodidad duradera y estilo perdurable.</p>\n\n<p><em>No espere más. Proteja a su pequeño del frío con nuestra Chaqueta Bebé Niño Carteras Azul Marino. Añádala a su carrito de compras hoy y experimente la diferencia que hace la calidad superior.</em></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 24.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62892",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "995",
+      "productSku": "995",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:22.051Z"
+    },
+    {
+      "id": "62893",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "995",
+      "productSku": "995",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:24.185Z"
+    },
+    {
+      "id": "62895",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "995",
+      "productSku": "995",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:25.784Z"
+    },
+    {
+      "id": "62896",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "995",
+      "productSku": "995",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:27.859Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6208-4121.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4121-large_default/chaqueta-bebe-nino-carteras-azul-marino.jpg",
+      "alt": "Chaqueta Bebé niño Carteras Azul Marino",
+      "sourceId": "4121",
+      "variantIds": [],
+      "sha256": "70120df8030cd5487b0d8a00a3eaa594fb4b35216d91d78aa72e422e54a1a662"
+    },
+    {
+      "path": "assets/6208-4120.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4120-large_default/chaqueta-bebe-nino-carteras-azul-marino.jpg",
+      "alt": "Chaqueta Bebé niño Carteras Azul Marino",
+      "sourceId": "4120",
+      "variantIds": [],
+      "sha256": "87686ca39ef230036c949191b9e629fa7c26e471feb77ed9259f5367863783c8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:28.012Z",
+  "issues": []
+}

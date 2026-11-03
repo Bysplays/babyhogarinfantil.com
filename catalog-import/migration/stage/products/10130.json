@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10130",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/10130-camiseta-oso-bebe-nino-rojo.html",
+  "name": "Camiseta oso bebé niño Rojo",
+  "brand": "Babybol",
+  "sku": "2208247",
+  "description": "Enamórate de la adorable \"Camiseta oso bebé niño Rojo\". Esta camiseta refleja la inocencia y alegría de tu pequeño. El diseño de oso es tan tierno como él y su vibrante color rojo inspira energía y vivacidad. Hecha de la tela más suave, pensada para su delicada piel, garantizando su comodidad y felicidad. Además, es duradera y resistente a innumerables aventuras y lavados. ¡Convertirá a tu pequeño en el centro de todas las miradas! esta pieza es imprescindible en su guardarropa.",
+  "details": "Encantador y Confortable\n\nEl encantador Camiseta oso bebé niño Rojo proporciona todo el confort que tu pequeño necesita. Diseñado con algodón de la más alta calidad, esta prenda acaricia suavemente la piel del bebé, asegurando su comodidad durante todo el día. Con su adorable estampado de oso, podrás vestir a tu pequeño con estilo sin sacrificar la funcionalidad.\n\nAjuste Perfecto\n\nEsta camiseta para bebé es perfecta en todos los detalles. Los bordes están cuidadosamente cosidos para evitar que se deshilachen, y sus broches de presión son fuertes y duraderos, creando un ajuste perfecto para tu pequeño. Además, el añadido de elastano en el tejido permite un excelente estiramiento, haciendo que el cambio de pañales y la movilidad sean una brisa.\n\nAdemás de Ser Encantadora, es Práctica\n\nEste diseño clásico jamás pasa de moda y el color rojo vibrante añade un toque extra de alegría. Y éste no es simplemente un artículo adorable, es también extremadamente práctico. Su durabilidad y facilidad de cuidado hacen que la Camiseta oso bebé niño Rojo sea un artículo imprescindible en el guardarropa de cualquier pequeño.\n\nNo esperes más y haz clic en el botón de \"comprar ahora\" para vestir a tu pequeño con el mayor confort y estilo con la Camiseta oso bebé niño Rojo.",
+  "sourceDescriptionHtml": "<div>\n<h2>Encantador y Confortable</h2>\n<p>El encantador <strong>Camiseta oso bebé niño Rojo</strong> proporciona todo el confort que tu pequeño necesita. Diseñado con algodón de la más alta calidad, esta prenda acaricia suavemente la piel del bebé, asegurando su comodidad durante todo el día. Con su adorable estampado de oso, podrás vestir a tu pequeño con estilo sin sacrificar la funcionalidad.</p>\n<h2>Ajuste Perfecto</h2>\n<p>Esta camiseta para bebé es perfecta en todos los detalles. Los bordes están cuidadosamente cosidos para evitar que se deshilachen, y sus broches de presión son fuertes y duraderos, creando un ajuste perfecto para tu pequeño. Además, el añadido de elastano en el tejido permite un excelente estiramiento, haciendo que el cambio de pañales y la movilidad sean una brisa.</p>\n<h2>Además de Ser Encantadora, es Práctica</h2>\n<p>Este diseño clásico jamás pasa de moda y el color rojo vibrante añade un toque extra de alegría. Y éste no es simplemente un artículo adorable, es también extremadamente práctico. Su durabilidad y facilidad de cuidado hacen que la <strong>Camiseta oso bebé niño Rojo</strong> sea un artículo imprescindible en el guardarropa de cualquier pequeño.</p>\n<p>No esperes más y haz clic en el botón de \"comprar ahora\" para vestir a tu pequeño con el mayor confort y estilo con la <strong>Camiseta oso bebé niño Rojo</strong>.</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:58",
+  "sourceUpdatedAt": "2026-10-27 11:12:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70972",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2208247",
+      "productSku": "2208247",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:47.949Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10130-8142.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8142-large_default/camiseta-oso-bebe-nino-rojo.jpg",
+      "alt": "Camiseta oso bebé niño Rojo",
+      "sourceId": "8142",
+      "variantIds": [],
+      "sha256": "f9016f321a3d4c6c59150c414bd71feed2bbea16b7f3dbe4491ef926dfab0c26"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:48.086Z",
+  "issues": []
+}

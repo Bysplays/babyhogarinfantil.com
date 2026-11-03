@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16135",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16135-lazo-pequeno-camel.html",
+  "name": "Lazo pequeño Camel",
+  "brand": "Siena",
+  "sku": "2007020",
+  "description": "Envuelve a tu pequeña en dulzura con nuestro Lazo pequeño Camel. Este encantador accesorio es más que un simple lazo, es una declaración de estilo, un toque de elegancia y un susurro de inocencia infantil. Transforma el atuendo más simple en un conjunto digno de una princesa, perfecto para ocasiones especiales o para elevar el día a día. María una barrita con un vestidito o utilízalo como broche final para un atuendo pulido. Con nuestro Lazo pequeño Camel, cada día es una oportunidad para brillar. HECHO A MANO. HECHO EN ESPAÑA.\n\nLazo de 6 x 4 cm. aprox.",
+  "details": "Encanto Infantil\n\nImpregnado con un aire de elegancia atemporal, el Lazo Pequeño Camel es un complemento imprescindible para cualquier conjunto infantil. Diseñado con sutiles tonos camel, este lazo puede combinar con una multiplicidad de colores y estilos, desde informales hasta sofisticados. Proporciona ese toque final perfecto que transformará un atuendo común en algo realmente encantador.\n\nConfección de Alta Calidad\n\nEste lazo pequeño camel es más que un simple accesorio. Está confeccionado con materiales de alta calidad que garantizan su durabilidad y resistencia. Los delicados hilos tejidos con precisión aseguran que retiene su forma y color, incluso después de múltiples usos. Definitivamente, es una inversión que valdrá la pena en el guardarropa de tu pequeño.\n\nPerfecto para Cada Ocasión\n\nYa sea para una foto de familia, una reunión especial o simplemente un día en el parque, el Lazo Pequeño Camel aportará una dosis de dulzura y estilo. Cómodo de usar y fácil de poner, este lazo se mantendrá en su lugar mientras tu pequeño se divierte, asegurando que siempre esté listo para la foto perfecta.\n\n¡No espera más! Añade el Lazo Pequeño Camel a tu cesta de compras hoy y dale a tu pequeño un accesorio elegante que amará!",
+  "sourceDescriptionHtml": "<h2>Encanto Infantil</h2>\n<p>Impregnado con un aire de elegancia atemporal, el Lazo Pequeño Camel es un complemento imprescindible para cualquier conjunto infantil. Diseñado con sutiles tonos camel, este lazo puede combinar con una multiplicidad de colores y estilos, desde informales hasta sofisticados. Proporciona ese toque final perfecto que transformará un atuendo común en algo realmente encantador.</p>\n<h2>Confección de Alta Calidad</h2>\n<p>Este lazo pequeño camel es más que un simple accesorio. Está confeccionado con materiales de alta calidad que garantizan su durabilidad y resistencia. Los delicados hilos tejidos con precisión aseguran que retiene su forma y color, incluso después de múltiples usos. Definitivamente, es una inversión que valdrá la pena en el guardarropa de tu pequeño.</p>\n<h2>Perfecto para Cada Ocasión</h2>\n<p>Ya sea para una foto de familia, una reunión especial o simplemente un día en el parque, el Lazo Pequeño Camel aportará una dosis de dulzura y estilo. Cómodo de usar y fácil de poner, este lazo se mantendrá en su lugar mientras tu pequeño se divierte, asegurando que siempre esté listo para la foto perfecta.</p>\n<p><b>¡No espera más! Añade el Lazo Pequeño Camel a tu cesta de compras hoy y dale a tu pequeño un accesorio elegante que amará! </b></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.2,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:15",
+  "sourceUpdatedAt": "2026-10-27 11:10:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84924",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2007020",
+      "productSku": "2007020",
+      "taxRate": 21,
+      "price": 2.2,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:14.646Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16135-15691.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15691-large_default/lazo-pequeno-camel.jpg",
+      "alt": "Lazo pequeño Camel",
+      "sourceId": "15691",
+      "variantIds": [],
+      "sha256": "09423051c61278ccff196de7c133b1250b54ecf248b31028869437afccfe0096"
+    },
+    {
+      "path": "assets/16135-15692.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15692-large_default/lazo-pequeno-camel.jpg",
+      "alt": "Lazo pequeño Camel",
+      "sourceId": "15692",
+      "variantIds": [],
+      "sha256": "90940b9e10959509de7a1513ed0e458293d737ccd2c0542f1e1ee9c7b7c4b319"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:14.780Z",
+  "issues": []
+}

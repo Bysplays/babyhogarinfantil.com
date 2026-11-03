@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "20453",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/20453-chadal-punto-tricot-bebe-nina-cereal.html",
+  "name": "Chadal punto tricot bebé niña Cereal",
+  "brand": "Mayoral",
+  "sku": "2502031",
+  "description": "Original conjunto de tres piezas para recién nacido compuesto por sudadera de manga larga con cuello y capucha. Cierra con botones en la parte delantera.\n\nElementos de adorno: aplique de orejitas.\n\nY la Camiseta de manga larga con cuello redondo. Cierre con botones a presión en la parte posterior.\n\nPantalón con cinturilla elástica y bajo elástico para un mejor ajuste.",
+  "details": "Composición:\n\nSudadera:\n\n60% Algodón\n\n36% Poliéster\n\n4% Elastano\n\nCamiseta:\n\n94% Algodón\n\n5% Poliéster\n\n1% Elastano\n\nPantalón:\n\n58% Algodón\n\n38% Poliéster\n\n4% Elastano",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Sudadera:</strong></p>\n<p>60% Algodón</p>\n<p>36% Poliéster</p>\n<p>4% Elastano</p>\n<p><strong>Camiseta:</strong></p>\n<p>94% Algodón</p>\n<p>5% Poliéster</p>\n<p>1% Elastano</p>\n<p><strong>Pantalón:</strong></p>\n<p>58% Algodón</p>\n<p>38% Poliéster</p>\n<p>4% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cereal",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94707",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502031",
+      "productSku": "2502031",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:46.478Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20453-19719.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19719-large_default/chadal-punto-tricot-bebe-nina-cereal.jpg",
+      "alt": "Chadal punto tricot bebé niña Cereal",
+      "sourceId": "19719",
+      "variantIds": [],
+      "sha256": "dad964f952b4d7004e25400f3e1249d785e6550eea2757d4c9c06d48beb4eabe"
+    },
+    {
+      "path": "assets/20453-19720.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19720-large_default/chadal-punto-tricot-bebe-nina-cereal.jpg",
+      "alt": "Chadal punto tricot bebé niña Cereal",
+      "sourceId": "19720",
+      "variantIds": [],
+      "sha256": "733f6bf72d790f6137630871cfc8c4a5f16548deecf32c5071cb6653de0cad19"
+    },
+    {
+      "path": "assets/20453-19721.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19721-large_default/chadal-punto-tricot-bebe-nina-cereal.jpg",
+      "alt": "Chadal punto tricot bebé niña Cereal",
+      "sourceId": "19721",
+      "variantIds": [],
+      "sha256": "f78f9295fecac3219940daae2785bd880fd5befd8bb2e2c05469e629b487ca9a"
+    },
+    {
+      "path": "assets/20453-19722.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19722-large_default/chadal-punto-tricot-bebe-nina-cereal.jpg",
+      "alt": "Chadal punto tricot bebé niña Cereal",
+      "sourceId": "19722",
+      "variantIds": [],
+      "sha256": "ab9f24a16397670fc54af6932889161f05c00c00c8784c278bf9ce6d4084b3d7"
+    },
+    {
+      "path": "assets/20453-19723.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19723-large_default/chadal-punto-tricot-bebe-nina-cereal.jpg",
+      "alt": "Chadal punto tricot bebé niña Cereal",
+      "sourceId": "19723",
+      "variantIds": [],
+      "sha256": "28586fe67fbdbf75cf4a7c2e75443cd569d84775335aaf75286358d06f253d86"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:46.779Z",
+  "issues": []
+}

@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "9276",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9276-sudadera-nino-verano-algodon-godzilla-azul.html",
+  "name": "Sudadera niño verano algodon godzilla Azul",
+  "brand": "Zippy",
+  "sku": "2111074",
+  "description": "Sudadera en color azulón con estampado en el pecho. Acabado de canalé elástico en cuello, puños y cinturilla. Tacto de gran suavidad.",
+  "details": "Sudadera de ZIPPY, una de nuestras firmas más chulas! En color azulón con estampado japonés en el pecho. Acabado de canalé elástico en el cuello, puños y cinturilla. Sin felpa interior. Una prenda cómoda, ligera y de tacto muy suave y amoroso. Echa un ojito a nuestras camisetas, pantalones vaqueros y de algodón y calzado y podrás combinarla como más te guste!\n\nComposición y cuidados:\n\nSudadera: 68% algodón, 32% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Sudadera de <strong>ZIPPY</strong>, una de nuestras firmas más chulas! En color azulón con estampado japonés en el pecho. Acabado de canalé elástico en el cuello, puños y cinturilla. Sin felpa interior. Una prenda cómoda, ligera y de tacto muy suave y amoroso. Echa un ojito a nuestras <strong>camisetas, pantalones vaqueros y de algodón y calzado</strong> y podrás combinarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Sudadera: 68% algodón, 32% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 8,
+  "oldPrice": 15.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68850",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2111074",
+      "productSku": "2111074",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:23.160Z"
+    },
+    {
+      "id": "68852",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2111074",
+      "productSku": "2111074",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:25.076Z"
+    },
+    {
+      "id": "68853",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2111074",
+      "productSku": "2111074",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:26.803Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9276-7520.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7520-large_default/sudadera-nino-verano-algodon-godzilla-azul.jpg",
+      "alt": "Sudadera niño verano algodon godzilla Azul",
+      "sourceId": "7520",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9276-12152.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12152-large_default/sudadera-nino-verano-algodon-godzilla-azul.jpg",
+      "alt": "Sudadera niño verano algodon godzilla Azul",
+      "sourceId": "12152",
+      "variantIds": [],
+      "sha256": "16e60c05b8182a5349ea84cc3007e9d020a1c47ebb1106a8951df02a40af62e4"
+    },
+    {
+      "path": "assets/9276-12153.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12153-large_default/sudadera-nino-verano-algodon-godzilla-azul.jpg",
+      "alt": "Sudadera niño verano algodon godzilla Azul",
+      "sourceId": "12153",
+      "variantIds": [],
+      "sha256": "868edce57d4317315880aa2023e12ab21846fe7d9a1b582fe1b3529418691061"
+    },
+    {
+      "path": "assets/9276-9099.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9099-large_default/sudadera-nino-verano-algodon-godzilla-azul.jpg",
+      "alt": "Sudadera niño verano algodon godzilla Azul",
+      "sourceId": "9099",
+      "variantIds": [],
+      "sha256": "3d1154671dcf0be61432c5e79ca449954853d1ff5de526a920c0173112811ee6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:27.056Z",
+  "issues": []
+}

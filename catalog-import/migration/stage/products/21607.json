@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "21607",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-nina/21607-camiseta-manga-larga-nina-nude.html",
+  "name": "Camiseta manga larga niña Nude",
+  "brand": "Mayoral",
+  "sku": "2502217",
+  "description": "Camiseta manga larga para niña con cuello redondo. Con motivo de chica estampada. Es un básico de fondo de armario. Fácilmente combinable.",
+  "details": "Composición:\n\nCamiseta manga larga: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Camiseta manga larga: </strong>100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nude",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "736",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "736",
+  "sourceCategoryName": "Camisetas niña",
+  "price": 15.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-20 15:54:16",
+  "sourceUpdatedAt": "2026-10-27 11:14:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97634",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502217",
+      "productSku": "2502217",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:32.801Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21607-20197.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20197-large_default/camiseta-manga-larga-nina-nude.jpg",
+      "alt": "Camiseta manga larga niña Nude",
+      "sourceId": "20197",
+      "variantIds": [],
+      "sha256": "4e06e7beeae53ae715d6e437030d8aa6f7c5b51be003c6a73430160c12afeac9"
+    },
+    {
+      "path": "assets/21607-20198.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20198-large_default/camiseta-manga-larga-nina-nude.jpg",
+      "alt": "Camiseta manga larga niña Nude",
+      "sourceId": "20198",
+      "variantIds": [],
+      "sha256": "2088df78420c3517f9c4da2aceb4f8be02f55f8c0380310b2abfcb86299a0d17"
+    },
+    {
+      "path": "assets/21607-20199.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20199-large_default/camiseta-manga-larga-nina-nude.jpg",
+      "alt": "Camiseta manga larga niña Nude",
+      "sourceId": "20199",
+      "variantIds": [],
+      "sha256": "20580a33c81e8a967a2eebf61df17336884db7731623f75591e11aa6757d1ce6"
+    },
+    {
+      "path": "assets/21607-20200.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20200-large_default/camiseta-manga-larga-nina-nude.jpg",
+      "alt": "Camiseta manga larga niña Nude",
+      "sourceId": "20200",
+      "variantIds": [],
+      "sha256": "3e5ec724ed532dcd030a16e50c298366f620972dae8411e570adde4ef5228238"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:33.009Z",
+  "issues": []
+}

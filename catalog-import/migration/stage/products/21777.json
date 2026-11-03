@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "21777",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals-nino/21777-chandal-pullover-nino-peach.html",
+  "name": "Chandal pullover niño Peach",
+  "brand": "Mayoral",
+  "sku": "2601076",
+  "description": "Chándal Mayoral para niño con sudadera naranja estampada y pantalón arena, cómodo y moderno para el uso diario.",
+  "details": "Chándal infantil Mayoral para niño compuesto por sudadera color naranja con estampado de monopatín y mensaje “Great Day”, combinado con pantalón arena de cintura elástica y puños ajustados. Confeccionado en tejidos suaves y resistentes que garantizan confort y libertad de movimiento, es ideal para el día a día, el colegio y actividades al aire libre. Su diseño casual y actual aporta un look deportivo y cómodo perfecto para cualquier temporada.\n\nComposición:\n\nSudadera\n\n99% Algodón\n\n1% Elastano\n\nPantalón:\n\n100% Algodón",
+  "sourceDescriptionHtml": "<p>Chándal infantil Mayoral para niño compuesto por sudadera color naranja con estampado de monopatín y mensaje “Great Day”, combinado con pantalón arena de cintura elástica y puños ajustados. Confeccionado en tejidos suaves y resistentes que garantizan confort y libertad de movimiento, es ideal para el día a día, el colegio y actividades al aire libre. Su diseño casual y actual aporta un look deportivo y cómodo perfecto para cualquier temporada.</p>\n<p><strong>Composición:</strong></p>\n<p><strong>Sudadera</strong></p>\n<div class=\"Cuni\" style=\"font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';font-size:15px;line-height:22px;color:#101012;background-color:#ffffff;\">99% Algodón</div>\n<p><span style=\"background-color:#ffffff;color:#101012;font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';font-size:15px;\">1% Elastano</span></p>\n<p><strong><span style=\"background-color:#ffffff;color:#101012;font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';font-size:15px;\">Pantalón:</span></strong></p>\n<p><span style=\"color:#101012;font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';font-size:15px;background-color:#ffffff;\">100% Algodón</span><strong><span style=\"background-color:#ffffff;color:#101012;font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';font-size:15px;\"></span></strong></p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Peach",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "798"
+  ],
+  "sourceDefaultCategoryId": "798",
+  "sourceCategoryName": "Chandals niño",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-13 15:53:34",
+  "sourceUpdatedAt": "2026-10-27 11:15:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99408",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601076",
+      "productSku": "2601076",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:47.154Z"
+    },
+    {
+      "id": "99409",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2601076",
+      "productSku": "2601076",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:48.903Z"
+    },
+    {
+      "id": "99410",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601076",
+      "productSku": "2601076",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:50.443Z"
+    },
+    {
+      "id": "99412",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2601076",
+      "productSku": "2601076",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:52.371Z"
+    },
+    {
+      "id": "99413",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2601076",
+      "productSku": "2601076",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:54.089Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21777-20598.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20598-large_default/chandal-pullover-nino-peach.jpg",
+      "alt": "Look infantil Mayoral con sudadera naranja estampada y pantalón arena cómodo.",
+      "sourceId": "20598",
+      "variantIds": [],
+      "sha256": "7b0c8d2dc1335d5f638781085911e053cf76517a8109131c3321c13df622149d"
+    },
+    {
+      "path": "assets/21777-20599.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20599-large_default/chandal-pullover-nino-peach.jpg",
+      "alt": "Conjunto chándal Mayoral para niño con sudadera de monopatín y pantalón con cintura elástica.",
+      "sourceId": "20599",
+      "variantIds": [],
+      "sha256": "885f914d55c1acd27bf7077361684f740423cb0bf96a47d830b207ee3a7fc0d9"
+    },
+    {
+      "path": "assets/21777-20600.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20600-large_default/chandal-pullover-nino-peach.jpg",
+      "alt": "Detalle del estampado de la sudadera y del tejido del pantalón.",
+      "sourceId": "20600",
+      "variantIds": [],
+      "sha256": "4783ff7aa8516905a4bf52c390b914b5f42aef96c994c34972ed3c36e4bccc56"
+    },
+    {
+      "path": "assets/21777-20601.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20601-large_default/chandal-pullover-nino-peach.jpg",
+      "alt": "Vista trasera del chándal infantil con sudadera lisa y pantalón beige con puños.",
+      "sourceId": "20601",
+      "variantIds": [],
+      "sha256": "109113b695e3b9b5a3ea03e241af9c8894a3b6aa053104fd735a3a16e99638d0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:54.353Z",
+  "issues": []
+}

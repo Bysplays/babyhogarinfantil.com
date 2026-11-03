@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "21748",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/21748-short-algodon-basico-nina-geranio.html",
+  "name": "Short algodón básico niña Geranio",
+  "brand": "Mayoral",
+  "sku": "2601045",
+  "description": "Short de niña en color geranio confeccionado en algodón suave, con cintura elástica y cordón regulable. Prenda cómoda, ligera y perfecta para looks casuales de verano.",
+  "details": "Este short de niña en color geranio es una prenda básica y cómoda ideal para el día a día. Confeccionado en algodón suave y transpirable, ofrece una sensación agradable sobre la piel, perfecta para climas cálidos. Su diseño incorpora cintura elástica con cordón ajustable que proporciona un ajuste seguro y práctico, adaptándose al movimiento natural de las niñas.\nCuenta con bolsillos laterales funcionales y detalles decorativos que aportan un toque delicado y moderno. Su corte cómodo y versátil permite combinarlo fácilmente con camisetas, blusas o sudaderas, creando outfits casuales y frescos. Ideal para paseos, actividades al aire libre o uso diario, este short combina estilo, confort y calidad en una sola prenda.\n\nComposición:\n95% Algodón, 5% Elastano (tejido suave, ligero y transpirable).",
+  "sourceDescriptionHtml": "<p>Este short de niña en color geranio es una prenda básica y cómoda ideal para el día a día. Confeccionado en algodón suave y transpirable, ofrece una sensación agradable sobre la piel, perfecta para climas cálidos. Su diseño incorpora cintura elástica con cordón ajustable que proporciona un ajuste seguro y práctico, adaptándose al movimiento natural de las niñas.<br />Cuenta con bolsillos laterales funcionales y detalles decorativos que aportan un toque delicado y moderno. Su corte cómodo y versátil permite combinarlo fácilmente con camisetas, blusas o sudaderas, creando outfits casuales y frescos. Ideal para paseos, actividades al aire libre o uso diario, este short combina estilo, confort y calidad en una sola prenda.</p>\n<p><strong>Composición:</strong><br />95% Algodón, 5% Elastano (tejido suave, ligero y transpirable).</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Geranio",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-12 08:34:14",
+  "sourceUpdatedAt": "2026-10-27 11:15:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99242",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601045",
+      "productSku": "2601045",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:28.026Z"
+    },
+    {
+      "id": "99243",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601045",
+      "productSku": "2601045",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:30.364Z"
+    },
+    {
+      "id": "99244",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2601045",
+      "productSku": "2601045",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:32.961Z"
+    },
+    {
+      "id": "99245",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601045",
+      "productSku": "2601045",
+      "taxRate": 21,
+      "price": 13.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:34.882Z"
+    },
+    {
+      "id": "99247",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2601045",
+      "productSku": "2601045",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:36.349Z"
+    },
+    {
+      "id": "99248",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2601045",
+      "productSku": "2601045",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:37.859Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21748-20500.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20500-large_default/short-algodon-basico-nina-geranio.jpg",
+      "alt": "Short niña Mayoral rosa algodón, vista frontal",
+      "sourceId": "20500",
+      "variantIds": [],
+      "sha256": "4e7cef253110c76601b7b8ff3cc165d4c7982582e1ef93d270271820d0f0cb3d"
+    },
+    {
+      "path": "assets/21748-20501.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20501-large_default/short-algodon-basico-nina-geranio.jpg",
+      "alt": "Short niña Mayoral rosa con cintura elástica y cordón ajustable, vista detalle bolsillo",
+      "sourceId": "20501",
+      "variantIds": [],
+      "sha256": "3de89deb7d456c79554e06f3c2e3b7a679749d7071134eca6cacf3cb830de054"
+    },
+    {
+      "path": "assets/21748-20502.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20502-large_default/short-algodon-basico-nina-geranio.jpg",
+      "alt": "Short niña Mayoral rosa, vista trasera",
+      "sourceId": "20502",
+      "variantIds": [],
+      "sha256": "b73a7a14bb79e496814b6a7ea7aa31e2a54bccf12fe1ebcce5c37483e786f11e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:38.012Z",
+  "issues": []
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "20448",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-de-punto-bebe-nino/20448-conjunto-polaina-tricot-bebe-nino-nube.html",
+  "name": "Conjunto polaina tricot bebe niño Nube",
+  "brand": "Mayoral",
+  "sku": "2502027",
+  "description": "Conjunto tricot azul nebe de dos piezas para recién nacido compuesto por jersey y polaina a juego.\n\nEste jersey de manga larga para bebé tiene el cuello redondo y botones en el hombro para facilitar la puesta. E tTejido de punto tricotosa tiene tacto suave y muy agradable. \n\nLa polaina con pies tipo tirnr la cinturilla elástica y los bolsillos son funcionales. Las tallas pequeñas de este modelo (0-0 a 4-6 meses) tienen cinturilla doble.",
+  "details": "Composición:\n\nJersey:\n\n55% Algodón\n\n25% Acrílico\n\n15% Poliamida\n\n5% Lana\n\nPolaina:\n\n55% Algodón\n\n25% Acrílico\n\n15% Poliamida\n\n5% Lana",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Jersey:</strong></p>\n<p>55% Algodón</p>\n<p>25% Acrílico</p>\n<p>15% Poliamida</p>\n<p>5% Lana</p>\n<p><strong>Polaina:</strong></p>\n<p>55% Algodón</p>\n<p>25% Acrílico</p>\n<p>15% Poliamida</p>\n<p>5% Lana</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nube",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "692"
+  ],
+  "sourceDefaultCategoryId": "692",
+  "sourceCategoryName": "Conjuntos de punto BEBE NIÑO",
+  "price": 35.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "338",
+          "label": "0-1m"
+        },
+        {
+          "id": "343",
+          "label": "4-6m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95417",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "338",
+          "group": "Tamaño",
+          "value": "0-1m"
+        }
+      ],
+      "sku": "2502027",
+      "productSku": "2502027",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:22.965Z"
+    },
+    {
+      "id": "95420",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2502027",
+      "productSku": "2502027",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:24.174Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20448-19709.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19709-large_default/conjunto-polaina-tricot-bebe-nino-nube.jpg",
+      "alt": "Conjunto polaina tricot bebe niño Nube",
+      "sourceId": "19709",
+      "variantIds": [],
+      "sha256": "328e58953275da88aab9183391c4c8ceebf5e069d8deac3ed9457ac37f538704"
+    },
+    {
+      "path": "assets/20448-19710.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19710-large_default/conjunto-polaina-tricot-bebe-nino-nube.jpg",
+      "alt": "Conjunto polaina tricot bebe niño Nube",
+      "sourceId": "19710",
+      "variantIds": [],
+      "sha256": "40123f6e754c3c569fa92fa85228cb317339d9c66b0ec2551d3e3f699d5a2754"
+    },
+    {
+      "path": "assets/20448-19711.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19711-large_default/conjunto-polaina-tricot-bebe-nino-nube.jpg",
+      "alt": "Conjunto polaina tricot bebe niño Nube",
+      "sourceId": "19711",
+      "variantIds": [],
+      "sha256": "e5973ab8811b552bac8e3bea65dac7e92517b99e85ea26a0d65463698324cf39"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:24.380Z",
+  "issues": []
+}

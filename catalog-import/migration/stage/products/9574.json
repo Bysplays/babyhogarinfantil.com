@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "9574",
+  "sourceUrl": "https://babyhogarinfantil.com/peleles-bebe-nina/9574-pelele-bebe-nina-corto-verano-blanco.html",
+  "name": "Pelele bebe niña corto verano Blanco",
+  "brand": "Babybol",
+  "sku": "2203086",
+  "description": "Pelele cortos en 100% algodón, se abre por la espalda y en la entrepierna con corchetes.",
+  "details": "Composición y cuidados:\n\nPelele: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pelele: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "773",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "773",
+  "sourceCategoryName": "Peleles Bebé Niña",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69558",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2203086",
+      "productSku": "2203086",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:51.730Z"
+    },
+    {
+      "id": "69560",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2203086",
+      "productSku": "2203086",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:55.667Z"
+    },
+    {
+      "id": "69562",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2203086",
+      "productSku": "2203086",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:58.697Z"
+    },
+    {
+      "id": "89648",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2203086",
+      "productSku": "2203086",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:02.901Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9574-7795.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7795-large_default/pelele-bebe-nina-corto-verano-blanco.jpg",
+      "alt": "Pelele bebe niña corto verano Blanco",
+      "sourceId": "7795",
+      "variantIds": [],
+      "sha256": "4583261eb33b2d19f7561269320484a906540c1d105c029764e15f6ab73b2cf2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:02.949Z",
+  "issues": []
+}

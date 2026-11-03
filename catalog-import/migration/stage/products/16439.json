@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16439",
+  "sourceUrl": "https://babyhogarinfantil.com/toquillas-tocas-arrullos/16439-toquilla-toca-dulzura-malva.html",
+  "name": "Toquilla toca DULZURA Malva",
+  "brand": "Mac Ilusión",
+  "sku": "2307011",
+  "description": "Toquilla confeccionada en 100% acrílico. Medidas 92x90 cm. HECHO EN ESPAÑA",
+  "details": "Descubre nuestra exquisita colección de toquillas, tocas y arrullos, perfectos para envolver a tu bebé en comodidad y estilo. Confeccionados con los materiales más suaves y delicados, nuestras toquillas garantizan el máximo confort y abrigo para tu pequeño tesoro. Ya sea que estés buscando una toquilla clásica y elegante, una toca adorable o un arrullo acogedor, nuestra tienda online ofrece una amplia variedad de diseños y colores para satisfacer tus gustos y necesidades. Cada pieza ha sido cuidadosamente elaborada con atención al detalle y a la calidad, para asegurar que tu bebé se sienta arropado en suavidad desde el primer momento. Explora nuestra selección de toquillas, tocas y arrullos y encuentra el accesorio perfecto para tu bebé. ¡Compra ahora y dale a tu pequeño la calidez y el confort que se merece!\n\nComposición y cuidados:\n\nToquilla: 100% acrílico.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Descubre nuestra exquisita colección de toquillas, tocas y arrullos, perfectos para envolver a tu bebé en comodidad y estilo. Confeccionados con los materiales más suaves y delicados, nuestras toquillas garantizan el máximo confort y abrigo para tu pequeño tesoro. Ya sea que estés buscando una toquilla clásica y elegante, una toca adorable o un arrullo acogedor, nuestra tienda online ofrece una amplia variedad de diseños y colores para satisfacer tus gustos y necesidades. Cada pieza ha sido cuidadosamente elaborada con atención al detalle y a la calidad, para asegurar que tu bebé se sienta arropado en suavidad desde el primer momento. Explora nuestra selección de toquillas, tocas y arrullos y encuentra el accesorio perfecto para tu bebé. ¡Compra ahora y dale a tu pequeño la calidez y el confort que se merece!</p>\n<p>Composición y cuidados:</p>\n<p>Toquilla: 100% acrílico.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Malva",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "785"
+  ],
+  "sourceDefaultCategoryId": "785",
+  "sourceCategoryName": "Toquillas Tocas Arrullos",
+  "price": 35.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-07-11 15:52:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "77948",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11363XA17511",
+      "productSku": "2307011",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:58.430Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16439-14311.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14311-large_default/toquilla-toca-dulzura-malva.jpg",
+      "alt": "Toquilla toca DULZURA Malva",
+      "sourceId": "14311",
+      "variantIds": [],
+      "sha256": "27b39f3af4cbb723d44c64a5baf1c2d9f5248a0fb8003e8e13b6eda8c214dba7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:58.474Z",
+  "issues": []
+}

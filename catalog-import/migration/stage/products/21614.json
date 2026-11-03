@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "21614",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-en-pack/21614-pack-3-calcetines-fantasia-azul.html",
+  "name": "Pack 3 calcetines fantasía Azul",
+  "brand": "Mayoral",
+  "sku": "2502258",
+  "description": "Pack tres calcetines ninño.",
+  "details": "COMPOSICIÓN\n\n\nCalcetines:\n\n\n72% Algodón\n\n\n25% Poliamida\n\n\n3% Elastano",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\">COMPOSICIÓN</p><p></p>\n<p class=\"MsoNormal\"><b>Calcetines:</b></p><p></p>\n<p class=\"MsoNormal\">72% Algodón</p><p></p>\n<p class=\"MsoNormal\">25% Poliamida</p><p></p>\n<p class=\"MsoNormal\">3% Elastano</p><p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "796",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "796",
+  "sourceCategoryName": "Calcetines en pack",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-12-03 15:53:36",
+  "sourceUpdatedAt": "2026-10-27 11:14:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97800",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502258",
+      "productSku": "2502258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:43.539Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21614-20213.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20213-large_default/pack-3-calcetines-fantasia-azul.jpg",
+      "alt": "Pack 3 calcetines fantasía Azul",
+      "sourceId": "20213",
+      "variantIds": [],
+      "sha256": "4815947d26e10fbedc77fd9f8f985269436be339800fd5918662d1d55969e482"
+    },
+    {
+      "path": "assets/21614-20214.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20214-large_default/pack-3-calcetines-fantasia-azul.jpg",
+      "alt": "Pack 3 calcetines fantasía Azul",
+      "sourceId": "20214",
+      "variantIds": [],
+      "sha256": "2d78e883c84ea7ccd8fe20337bda220fb231434aeff59fc384eadebe95cc5435"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:43.687Z",
+  "issues": []
+}

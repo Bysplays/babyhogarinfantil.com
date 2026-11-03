@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "21413",
+  "sourceUrl": "https://babyhogarinfantil.com/toallas-y-capas/21413-poncho-playa-azul.html",
+  "name": "Poncho playa Azul",
+  "brand": "Mayoral",
+  "sku": "2401304",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "806"
+  ],
+  "sourceDefaultCategoryId": "806",
+  "sourceCategoryName": "Toallas y capas",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-16 23:53:52",
+  "sourceUpdatedAt": "2026-10-27 11:13:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149019",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12104XA18556",
+      "productSku": "2401304",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:44.362Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:44.362Z",
+  "issues": [
+    "No verified images"
+  ]
+}

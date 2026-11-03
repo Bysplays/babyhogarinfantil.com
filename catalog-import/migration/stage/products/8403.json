@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "8403",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/8403-conjunto-tirantes-con-pajarita-azul-marino.html",
+  "name": "Conjunto tirantes con pajarita Azul marino",
+  "brand": "Baby-Ferr",
+  "sku": "2007124",
+  "description": "El Conjunto de tirantes con pajarita Azul marino marca una fusión perfecta de elegancia y estilo para tu pequeño caballero. Este conjunto transformará a tu hijo en el centro de atención en cualquier evento. Con su color azul profundo e intensamente elegante, aporta una apariencia sofisticicada y a la vez divertida que encantará a todos. Esta elección de vestuario es perfecta para cualquier ocasión especial que requiera un toque extra de estilo. Su calidad superior asegura la comodidad que tu hijo necesita durante todo el día. Porque tu pequeño príncipe merece solo lo mejor.",
+  "details": "Capítulo Uno: Elegancia Infantil\n\nEl \"Conjunto tirantes con pajarita Azul marino\" representa la esencia de la elegancia y estilo encantador. Este conjunto es ideal para agregar un toque de distinción y elegancia a cualquier ocasión. El azul marino evoca una sensación de sofisticación y confianza, productos ideales para aquellos que valoran la moda y quieren que su pequeño brille.\n\n\nCapítulo Dos: Comodidad y Vestimenta\n\nAl priorizar el confort, este conjunto de tirantes y pajarita es una combinación impecable de estilo y funcionalidad. Diseñado para moverse de acuerdo con el ritmo del niño, garantiza máxima comodidad incluso durante las actividades más frenéticas. El material suave y duradero se coloca con cuidado y afecto en la piel del niño, asegurando que siempre se sienta a gusto.\n\n\nCapítulo Tres: Calidad Impresionante\n\nLa calidad del \"Conjunto tirantes con pajarita Azul marino\" es inigualable. Cada detalle, desde la tela hasta las costuras y los botones, ha sido cuidadosamente pensado y seleccionado para proporcionar un atuendo duradero y cómodo. El resultado es un conjunto que no solo se ve bien, sino que también soporta el paso del tiempo con gracia, ofreciendo su máximo valor.\n\n\nLlama a la acción\n\nAñade el \"Conjunto tirantes con pajarita Azul marino\" al carrito de compras hoy y transforma cualquier ocasión en una celebración de estilo. Deja que tu pequeño conquiste el mundo con la elegancia y el encanto que sólo este conjunto puede ofrecer. No pierdas la oportunidad de aportar sofisticación y encanto a su vestimenta con este versátil conjunto azul marino.",
+  "sourceDescriptionHtml": "<h2>Capítulo Uno: Elegancia Infantil</h2>\n<p>El \"Conjunto tirantes con pajarita Azul marino\" representa la esencia de la elegancia y estilo encantador. Este conjunto es ideal para agregar un toque de distinción y elegancia a cualquier ocasión. El azul marino evoca una sensación de sofisticación y confianza, productos ideales para aquellos que valoran la moda y quieren que su pequeño brille.</p>\n\n<h2>Capítulo Dos: Comodidad y Vestimenta</h2>\n<p>Al priorizar el confort, este conjunto de tirantes y pajarita es una combinación impecable de estilo y funcionalidad. Diseñado para moverse de acuerdo con el ritmo del niño, garantiza máxima comodidad incluso durante las actividades más frenéticas. El material suave y duradero se coloca con cuidado y afecto en la piel del niño, asegurando que siempre se sienta a gusto.</p>\n\n<h3>Capítulo Tres: Calidad Impresionante</h3>\n<p>La calidad del \"Conjunto tirantes con pajarita Azul marino\" es inigualable. Cada detalle, desde la tela hasta las costuras y los botones, ha sido cuidadosamente pensado y seleccionado para proporcionar un atuendo duradero y cómodo. El resultado es un conjunto que no solo se ve bien, sino que también soporta el paso del tiempo con gracia, ofreciendo su máximo valor.</p>\n\n<h4>Llama a la acción</h4>\n<p>Añade el \"Conjunto tirantes con pajarita Azul marino\" al carrito de compras hoy y transforma cualquier ocasión en una celebración de estilo. Deja que tu pequeño conquiste el mundo con la elegancia y el encanto que sólo este conjunto puede ofrecer. No pierdas la oportunidad de aportar sofisticación y encanto a su vestimenta con este versátil conjunto azul marino.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 32.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67414",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2007124",
+      "productSku": "2007124",
+      "taxRate": 21,
+      "price": 32.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:30.764Z"
+    },
+    {
+      "id": "67415",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2007124",
+      "productSku": "2007124",
+      "taxRate": 21,
+      "price": 32.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:31.997Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8403-11158.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11158-large_default/conjunto-tirantes-con-pajarita-azul-marino.jpg",
+      "alt": "Conjunto tirantes con pajarita Azul marino",
+      "sourceId": "11158",
+      "variantIds": [],
+      "sha256": "4355079562c3637b502423e93bfcf01b8693748666ba1f418ebb60278ce0bb0b"
+    },
+    {
+      "path": "assets/8403-6718.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6718-large_default/conjunto-tirantes-con-pajarita-azul-marino.jpg",
+      "alt": "Conjunto tirantes con pajarita Azul marino",
+      "sourceId": "6718",
+      "variantIds": [],
+      "sha256": "cf8414726d06509d43b62c492db8d19c854bab2a5e9d864678706179bad59d71"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:32.190Z",
+  "issues": []
+}

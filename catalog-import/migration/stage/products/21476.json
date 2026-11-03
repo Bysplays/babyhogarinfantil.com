@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "id": "21476",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nino/21476-cardigan-con-capucha-azul-marino.html",
+  "name": "Cardigan con capucha Azul Marino",
+  "brand": "Chicco",
+  "sku": "2502111",
+  "description": "Chaqueta, cardigan en algodón para niño. Bolsillos con cremallera, y capucha. Es muy cálida. Tacto muy suave y agradable.",
+  "details": "Composición:\n\nCárdigan:  97% algodón, 3% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Cárdigan: </strong> 97% algodón, 3% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "738"
+  ],
+  "sourceDefaultCategoryId": "738",
+  "sourceCategoryName": "Chaquetas Niño",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96693",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502111",
+      "productSku": "2502111",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:06.714Z"
+    },
+    {
+      "id": "96695",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502111",
+      "productSku": "2502111",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:07.861Z"
+    },
+    {
+      "id": "96696",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502111",
+      "productSku": "2502111",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:09.107Z"
+    },
+    {
+      "id": "96697",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502111",
+      "productSku": "2502111",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:10.425Z"
+    },
+    {
+      "id": "96698",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502111",
+      "productSku": "2502111",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:11.861Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21476-20016.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20016-large_default/cardigan-con-capucha-azul-marino.jpg",
+      "alt": "Cardigan con capucha Azul Marino",
+      "sourceId": "20016",
+      "variantIds": [],
+      "sha256": "932ddc275da3a7f20f15e2ecdc972ba9b10cb40e8b45ed8ec7f1623b187e4560"
+    },
+    {
+      "path": "assets/21476-20017.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20017-large_default/cardigan-con-capucha-azul-marino.jpg",
+      "alt": "Cardigan con capucha Azul Marino",
+      "sourceId": "20017",
+      "variantIds": [],
+      "sha256": "90a96f5d825158f9008b27b22d9d91e8f1a0029a817e21605d233e48342f37dd"
+    },
+    {
+      "path": "assets/21476-20018.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20018-large_default/cardigan-con-capucha-azul-marino.jpg",
+      "alt": "Cardigan con capucha Azul Marino",
+      "sourceId": "20018",
+      "variantIds": [],
+      "sha256": "00662c0669095a24635d51efda83c80b2a478c23a42ff2c345db6b49673a29cc"
+    },
+    {
+      "path": "assets/21476-20019.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20019-large_default/cardigan-con-capucha-azul-marino.jpg",
+      "alt": "Cardigan con capucha Azul Marino",
+      "sourceId": "20019",
+      "variantIds": [],
+      "sha256": "f94d16eed4b0ab1ce3aa10b24fcf3189be7726747ea5ce334054147bff3f525d"
+    },
+    {
+      "path": "assets/21476-20020.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20020-large_default/cardigan-con-capucha-azul-marino.jpg",
+      "alt": "Cardigan con capucha Azul Marino",
+      "sourceId": "20020",
+      "variantIds": [],
+      "sha256": "4919b7b0a033b8ac9b350a683bbf9aad0bd8535b6e35532c71b63d033cb28148"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:12.222Z",
+  "issues": []
+}

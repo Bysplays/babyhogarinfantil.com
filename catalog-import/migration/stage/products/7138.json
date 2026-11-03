@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "7138",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/7138-pantalon-corto-cuadros-varios.html",
+  "name": "Pantalón corto cuadros Varios",
+  "brand": "DR.Kid",
+  "sku": "1802184",
+  "description": "Este pantalón corto tiene cintura ajustable con gomas y botones.",
+  "details": "Composición y cuidados:\n\n100% algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>100% algodón.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 9.98,
+  "oldPrice": 19.9529,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:49",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65075",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1802184",
+      "productSku": "1802184",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.9529,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:40.909Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7138-5094.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5094-large_default/pantalon-corto-cuadros-varios.jpg",
+      "alt": "Pantalón corto cuadros Varios",
+      "sourceId": "5094",
+      "variantIds": [],
+      "sha256": "fdc48c59cff39e9ee53798a1c8a62e418fca821887a32ec5ede5a6a5c08e74d5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:40.986Z",
+  "issues": []
+}

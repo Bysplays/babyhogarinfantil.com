@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8336",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8336-lazo-mediano-con-pinza-cobalto.html",
+  "name": "Lazo mediano con pinza Cobalto",
+  "brand": "Siena",
+  "sku": "2007019",
+  "description": "Lazo de 8 x 5,5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox. \n\nHECHO A MANO.\n\nHECHO EN ESPAÑA.",
+  "details": "Color y Calidad Inigualable\n\nEl Lazo Mediano con Pinza Cobalto es más que un simple adorno, es un distintivo de elegancia que realza la belleza de cualquier peinado. Cada detalle ha sido cuidadosamente ideado. Su vibrante color azul cobalto es el protagonista, elegido con precisión para destacar en cualquier tono de cabello.\n\n\nEstilo Siempre en su Lugar\n\nNada arruina un lindo peinado como un lazo que no se ajusta bien. Con nuestra exclusiva pinza de cobalto, eso es cosa del pasado. Esta pinza ha sido diseñada para mantener el lazo firmemente en su lugar, sin importar cuán activo sea el día. Además, es tan cómoda que se olvidará de que está allí.\n\n\nEl Detalle Perfecto para Cualquier Ocasion\n\nYa sea para una ocasión especial, una fiesta de cumpleaños, o simplemente para darle un toque de estilo al look del día a día, el lazo mediano con pinza cobalto es el complemento perfecto. Su diseño atemporal y el color intenso hacen que este accesorio sea versátil y adecuado para cualquier acontecimiento. \n\n\nNo cabe duda de que el lazo mediano con pinza cobalto se convertirá en un imprescindible en cualquier repertorio de estilo. Así que, ¿a qué esperas? Añade una pieza de elegancia a tu colección. ¡Haz clic en \"añadir a la cesta\" ahora mismo y descubre la diferencia de tener este lazo único en su vida!",
+  "sourceDescriptionHtml": "<blockquote>\n<h2>Color y Calidad Inigualable</h2>\n<p>El <strong>Lazo Mediano con Pinza Cobalto</strong> es más que un simple adorno, es un distintivo de elegancia que realza la belleza de cualquier peinado. Cada detalle ha sido cuidadosamente ideado. Su vibrante color azul cobalto es el protagonista, elegido con precisión para destacar en cualquier tono de cabello.</p>\n\n<h2>Estilo Siempre en su Lugar</h2>\n<p>Nada arruina un lindo peinado como un lazo que no se ajusta bien. Con nuestra exclusiva <strong>pinza de cobalto</strong>, eso es cosa del pasado. Esta pinza ha sido diseñada para mantener el lazo firmemente en su lugar, sin importar cuán activo sea el día. Además, es tan cómoda que se olvidará de que está allí.</p>\n\n<h2>El Detalle Perfecto para Cualquier Ocasion</h2>\n<p>Ya sea para una ocasión especial, una fiesta de cumpleaños, o simplemente para darle un toque de estilo al look del día a día, el <strong>lazo mediano con pinza cobalto</strong> es el complemento perfecto. Su diseño atemporal y el color intenso hacen que este accesorio sea versátil y adecuado para cualquier acontecimiento. </p>\n\n<p>No cabe duda de que el lazo mediano con pinza cobalto se convertirá en un imprescindible en cualquier repertorio de estilo. Así que, ¿a qué esperas? <strong>Añade una pieza de elegancia a tu colección</strong>. ¡Haz clic en \"añadir a la cesta\" ahora mismo y descubre la diferencia de tener este lazo único en su vida!</p>\n</blockquote>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cobalto",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146677",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8051XA14315",
+      "productSku": "2007019",
+      "taxRate": 21,
+      "price": 2.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:51.861Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8336-6639.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6639-large_default/lazo-mediano-con-pinza-cobalto.jpg",
+      "alt": "Lazo mediano con pinza Cobalto",
+      "sourceId": "6639",
+      "variantIds": [],
+      "sha256": "dd0b85d20966964385271d3a0ca6dddfdaa7d1c8f7c8497b295960110bac5e1b"
+    },
+    {
+      "path": "assets/8336-11086.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11086-large_default/lazo-mediano-con-pinza-cobalto.jpg",
+      "alt": "Lazo mediano con pinza Cobalto",
+      "sourceId": "11086",
+      "variantIds": [],
+      "sha256": "3f901e7c53ebaca2a76fca0aae71bce4e943fe05a9a4d56af5aa3c96dde7cf85"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:51.990Z",
+  "issues": []
+}

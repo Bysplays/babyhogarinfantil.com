@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "6843",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nino/6843-sandalia-nino-azul-marino.html",
+  "name": "Sandalia niño Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1705002",
+  "description": "Sandalia en piel con suela de goma. Abrocha con hebilla.",
+  "details": "FABRICADA EN ESPAÑA.",
+  "sourceDescriptionHtml": "<p><strong>FABRICADA EN ESPAÑA.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "701"
+  ],
+  "sourceDefaultCategoryId": "701",
+  "sourceCategoryName": "Calzado Niño",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:17",
+  "sourceUpdatedAt": "2026-10-27 11:09:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        },
+        {
+          "id": "251",
+          "label": "24"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64560",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "1705002",
+      "productSku": "1705002",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:05.684Z"
+    },
+    {
+      "id": "64561",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "1705002",
+      "productSku": "1705002",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:08.561Z"
+    },
+    {
+      "id": "64562",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "1705002",
+      "productSku": "1705002",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:12.315Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6843-4764.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4764-large_default/sandalia-nino-azul-marino.jpg",
+      "alt": "Sandalia niño Azul Marino",
+      "sourceId": "4764",
+      "variantIds": [],
+      "sha256": "1395f2ba731376721a615ef009e6b10810128e8a31254b198dc2c0995e1efb20"
+    },
+    {
+      "path": "assets/6843-9796.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9796-large_default/sandalia-nino-azul-marino.jpg",
+      "alt": "Sandalia niño Azul Marino",
+      "sourceId": "9796",
+      "variantIds": [],
+      "sha256": "1395f2ba731376721a615ef009e6b10810128e8a31254b198dc2c0995e1efb20"
+    },
+    {
+      "path": "assets/6843-4763.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4763-large_default/sandalia-nino-azul-marino.jpg",
+      "alt": "Sandalia niño Azul Marino",
+      "sourceId": "4763",
+      "variantIds": [],
+      "sha256": "e87ce85d21c672bc9a475a57b6275525bf2d2a2e8605d144a18eca9ee9341e89"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:12.517Z",
+  "issues": []
+}

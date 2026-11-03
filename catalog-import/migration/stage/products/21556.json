@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "21556",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/21556-jesusito-lunas-blanco.html",
+  "name": "Jesusito lunas Blanco",
+  "brand": "Baby-Ferr",
+  "sku": "2502176",
+  "description": "Jesusito forrado modelo luna, para bebé. Cuello volante con detalle de lacito. Capota y braguita a juego. \n\nBusca aquí los leotardos que mejor te combinen Leotardos Invierno\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nJesusito: 100% algodón.\n\nForro: 67% poliester, 33% algodón.\n\nCapota y ranita: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Jesusito: </strong>100% algodón.</p>\n<p>Forro: 67% poliester, 33% algodón.</p>\n<p><strong>Capota y ranita: </strong>100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 37,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-05 15:53:12",
+  "sourceUpdatedAt": "2026-10-27 11:14:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97196",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502176",
+      "productSku": "2502176",
+      "taxRate": 21,
+      "price": 37,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:23.746Z"
+    },
+    {
+      "id": "97197",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502176",
+      "productSku": "2502176",
+      "taxRate": 21,
+      "price": 37,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:25.939Z"
+    },
+    {
+      "id": "97198",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502176",
+      "productSku": "2502176",
+      "taxRate": 21,
+      "price": 37,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:28.625Z"
+    },
+    {
+      "id": "97199",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502176",
+      "productSku": "2502176",
+      "taxRate": 21,
+      "price": 37,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:31.423Z"
+    },
+    {
+      "id": "97201",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2502176",
+      "productSku": "2502176",
+      "taxRate": 21,
+      "price": 37,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:33.748Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21556-20140.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20140-large_default/jesusito-lunas-blanco.jpg",
+      "alt": "Jesusito lunas Blanco",
+      "sourceId": "20140",
+      "variantIds": [],
+      "sha256": "c236620a2b7cc589fc6523a22d62f88fcc9bc41d8b98c413a80612512de87dd6"
+    },
+    {
+      "path": "assets/21556-20141.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20141-large_default/jesusito-lunas-blanco.jpg",
+      "alt": "Jesusito lunas Blanco",
+      "sourceId": "20141",
+      "variantIds": [],
+      "sha256": "08471ebbd973872a701fab9fb922061f2c33cb78f7d15c72132483fff2291e5b"
+    },
+    {
+      "path": "assets/21556-20142.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20142-large_default/jesusito-lunas-blanco.jpg",
+      "alt": "Jesusito lunas Blanco",
+      "sourceId": "20142",
+      "variantIds": [],
+      "sha256": "a29325e2c65967aff237dad3f1b18ad976ba1b692f1b640a8d6774fafdd6aa6f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:33.958Z",
+  "issues": []
+}

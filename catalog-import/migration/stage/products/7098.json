@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "7098",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas-bebe-nino/7098-parka-bebe-roja-rojo.html",
+  "name": "Parka bebé roja Rojo",
+  "brand": "Chicco",
+  "sku": "1802083",
+  "description": "Parka color rojo para bebé. Forrada en el interior en 100% algodón. Con tratamiento repelente al agua. Disponible hasta la talla 7 años (ver mas abajo)",
+  "details": "Composición:\n\nExterior: 100% Poliéster.\n\nInterior: 100% Algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Exterior: 100% Poliéster.</p>\n<p>Interior: 100% Algodón.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "724"
+  ],
+  "sourceDefaultCategoryId": "724",
+  "sourceCategoryName": "Cazadoras y parkas bebé niño",
+  "price": 9.98,
+  "oldPrice": 19.9529,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65017",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1802083",
+      "productSku": "1802083",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.9529,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:37.894Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7098-5011.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5011-large_default/parka-bebe-roja-rojo.jpg",
+      "alt": "Parka bebé roja Rojo",
+      "sourceId": "5011",
+      "variantIds": [],
+      "sha256": "df29b09f58a95b60109494f8b10d0396a5ee3c8620f088f4de8ba5d67661cc14"
+    },
+    {
+      "path": "assets/7098-5012.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5012-large_default/parka-bebe-roja-rojo.jpg",
+      "alt": "Parka bebé roja Rojo",
+      "sourceId": "5012",
+      "variantIds": [],
+      "sha256": "3ac4feada4638620dbcf0e04af4533a60de4d5875917d8e9152a87e5f52d4328"
+    },
+    {
+      "path": "assets/7098-9970.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9970-large_default/parka-bebe-roja-rojo.jpg",
+      "alt": "Parka bebé roja Rojo",
+      "sourceId": "9970",
+      "variantIds": [],
+      "sha256": "df29b09f58a95b60109494f8b10d0396a5ee3c8620f088f4de8ba5d67661cc14"
+    },
+    {
+      "path": "assets/7098-9971.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9971-large_default/parka-bebe-roja-rojo.jpg",
+      "alt": "Parka bebé roja Rojo",
+      "sourceId": "9971",
+      "variantIds": [],
+      "sha256": "3ac4feada4638620dbcf0e04af4533a60de4d5875917d8e9152a87e5f52d4328"
+    },
+    {
+      "path": "assets/7098-5010.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5010-large_default/parka-bebe-roja-rojo.jpg",
+      "alt": "Parka bebé roja Rojo",
+      "sourceId": "5010",
+      "variantIds": [],
+      "sha256": "a60d7b4c60f6b989080e04d950ea49b9c514899902ab7f021b2409fb6595a77a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:38.135Z",
+  "issues": []
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "9055",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas-bebe-nino/9055-cazadora-vaquera-bebe-azul.html",
+  "name": "Cazadora vaquera bebé Azul",
+  "brand": "Babybol",
+  "sku": "2108002",
+  "description": "Cazadora vaquera color tejano oscuro, completamente forrada con tejido de algodón. Cierre con corchetes. DISPONIBLE EN TALLAS GRANDES PARA NIÑO.",
+  "details": "Cazadora vaquera color tejano oscuro, elástica y completamente forrada con tejido de algodón. Cierre con corchetes delanteros y en los puños de las mangas. Bolsillos de adorno en el pecho. Una prenda clásica y atemporal, con tejido cómodo, ligero y flexible. Echa un ojito a nuestras camisetas, calzado y calcetines y podrás combinarla como más te guste! DISPONIBLE EN TALLAS GRANDES PARA NIÑO. \n\nComposición y cuidados:\n\nCazadora: 80% algodón, 18% poliéster, 2% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA \n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nDISEÑADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Cazadora vaquera color tejano oscuro, <strong>elástica y completamente forrada</strong> con tejido de algodón. Cierre con corchetes delanteros y en los puños de las mangas. Bolsillos de adorno en el pecho. Una prenda clásica y atemporal, con tejido cómodo, ligero y flexible. Echa un ojito a nuestras <strong>camisetas, calzado y calcetines</strong> y podrás combinarla como más te guste! <strong>DISPONIBLE EN TALLAS GRANDES PARA NIÑO. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Cazadora: 80% algodón, 18% poliéster, 2% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA </p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>DISEÑADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "724"
+  ],
+  "sourceDefaultCategoryId": "724",
+  "sourceCategoryName": "Cazadoras y parkas bebé niño",
+  "price": 32.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-27 11:11:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68418",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2108002",
+      "productSku": "2108002",
+      "taxRate": 21,
+      "price": 32.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:19.276Z"
+    },
+    {
+      "id": "95205",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2108002",
+      "productSku": "2108002",
+      "taxRate": 21,
+      "price": 32.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:20.926Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9055-8743.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8743-large_default/cazadora-vaquera-bebe-azul.jpg",
+      "alt": "Cazadora vaquera bebé Azul",
+      "sourceId": "8743",
+      "variantIds": [],
+      "sha256": "a004630b475fbf47ff66c22d8e4fb8f3cffd6dd2822577698bb7a98904aee801"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:21.004Z",
+  "issues": []
+}

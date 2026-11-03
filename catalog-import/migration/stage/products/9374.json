@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "9374",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nina/9374-deportiva-fantasia-nina-azul-marino.html",
+  "name": "Deportiva fantasía niña Azul Marino",
+  "brand": "Chicco",
+  "sku": "2202007",
+  "description": "Zapatilla deportiva fantasía en color azul marino estampado con margaritas, y acabado brillante. Cierre con doble velcro ajustable.",
+  "details": "Zapatilla deportiva de CHICCO, firma italiana con m&aacute;s de 60 a&ntilde;os de experiencia y puntos de venta en todo el mundo. Estilo fantas&iacute;a, en color azul marino estampado con margaritas y detalles a contraste en amarillo fl&uacute;or. Acabado brillante con purpurina. Puntera redondeada y cierre con doble tira de velcro ajustable. Suela FLEX-ZONE con l&iacute;neas flexibles para garantizar la flexibilidad natural del pie y plantilla NATURAL CHICCO, que apoya el desarrollo natural del arco plantar. Una calzado ligero, flexible y TRANSPIRABLE, perfecta para darle un toque original a cualquier conjunto! Echa un ojito a nuestros calcetines y ropa interior y podr&aacute;s combinarlos como m&aacute;s te guste!\n\r\nComposici&oacute;n y cuidados:\n\r\nForro: textil\n\r\nSuela: termopl&aacute;stico\n\r\nNO LAVAR EN LA LAVADORA\n\r\nELIMINAR LA SUCIEDAD CON PA&Ntilde;O H&Uacute;MEDO \n\r\nDEJAR SECAR LEJOS DE FUENTES DE CALOR",
+  "sourceDescriptionHtml": "<p>Zapatilla deportiva de<strong> CHICCO</strong>, firma italiana con m&aacute;s de 60 a&ntilde;os de experiencia y puntos de venta en todo el mundo. Estilo fantas&iacute;a, en color azul marino estampado con margaritas y detalles a contraste en amarillo fl&uacute;or. Acabado brillante con <strong>purpurina</strong>. Puntera redondeada y cierre con <strong>doble tira de velcro ajustable</strong>. Suela <strong>FLEX-ZONE</strong> con l&iacute;neas flexibles para garantizar la flexibilidad natural del pie y plantilla <strong>NATURAL CHICCO</strong>, que apoya el desarrollo natural del arco plantar. Una calzado ligero, flexible y <strong>TRANSPIRABLE</strong>, perfecta para darle un toque original a cualquier conjunto! Echa un ojito a nuestros <strong>calcetines y ropa interior</strong> y podr&aacute;s combinarlos como m&aacute;s te guste!</p>\r\n<p>Composici&oacute;n y cuidados:</p>\r\n<p>Forro: textil</p>\r\n<p>Suela: termopl&aacute;stico</p>\r\n<p>NO LAVAR EN LA LAVADORA</p>\r\n<p>ELIMINAR LA SUCIEDAD CON PA&Ntilde;O H&Uacute;MEDO&nbsp;</p>\r\n<p>DEJAR SECAR LEJOS DE FUENTES DE CALOR</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "695"
+  ],
+  "sourceDefaultCategoryId": "695",
+  "sourceCategoryName": "Calzado Niña",
+  "price": 31.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "261",
+          "label": "23"
+        },
+        {
+          "id": "280",
+          "label": "27"
+        },
+        {
+          "id": "281",
+          "label": "28"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69109",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "2202007",
+      "productSku": "2202007",
+      "taxRate": 21,
+      "price": 31.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:14.149Z"
+    },
+    {
+      "id": "69112",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "280",
+          "group": "Tamaño",
+          "value": "27"
+        }
+      ],
+      "sku": "2202007",
+      "productSku": "2202007",
+      "taxRate": 21,
+      "price": 31.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:17.094Z"
+    },
+    {
+      "id": "69113",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "281",
+          "group": "Tamaño",
+          "value": "28"
+        }
+      ],
+      "sku": "2202007",
+      "productSku": "2202007",
+      "taxRate": 21,
+      "price": 31.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:19.328Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9374-12263.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12263-large_default/deportiva-fantasia-nina-azul-marino.jpg",
+      "alt": "Deportiva fantasía niña Azul Marino",
+      "sourceId": "12263",
+      "variantIds": [],
+      "sha256": "e4c81aeb485703b719cf39b8b26e1ccce0a1a1de02d8eee0ee16fe97e8a8b724"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:19.434Z",
+  "issues": []
+}

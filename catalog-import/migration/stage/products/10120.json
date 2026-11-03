@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "10120",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/10120-chaqueta-larga-pompones-rojo.html",
+  "name": "Chaqueta larga pompones Rojo",
+  "brand": "Mac Ilusión",
+  "sku": "2208231",
+  "description": "Eleva el estilo de tu pequeño con la increíble Chaqueta Larga Pompones Rojo. Este abrigo invernal esencial es cálido y maravillosamente lujoso, destacando con pompones adorables para un toque juguetón. El rojo vibrante se destaca en cualquier escena invernal, siendo una elección segura para agregar color y diversión al guardarropa de tu hijo. Resistente al frio, suavidad inigualable, con la garantía de que tu pequeño estará cómodo todo el día. ¡Invierte en estilo, diversión y confort!",
+  "details": "Maneja el clima helado con estilo y elegancia con la Chaqueta Larga Pompones Rojo. Diseñada para mantener a los pequeños cálidos y acogedores, esta chaqueta larga no sólo ofrece un alto rendimiento contra el frío, sino que también aporta un toque elegante a cualquier conjunto. Los pompones le dan un toque juguetón que seguramente captará la atención de los niños.\n\n\n\n\nDetalles Únicos y Diseño Atractivo\n\n\nLa Chaqueta Larga Pompones Rojo está diseñada pensando en los pequeños, con detalles llamativos que le encantarán. Los pompones dan un toque divertido y único que garantiza que su hijo se destacará en la multitud. Perfecta para combinar con cualquier prenda, esta chaqueta se convertirá rápidamente en la favorita de su pequeño.\n\n\n\n\nConfort y Calidez\n\n\nEvita el frío con esta sensacional Chaqueta Larga Pompones. Hecha de materiales suaves y acogedores, esta chaqueta se mantiene calientita incluso en las temperaturas más bajas, lo que la convierte en el atuendo perfecto para el invierno de su pequeño. \n\n\n\n\nConsíguela Ahora\n\n\nLa Chaqueta Larga Pompones Rojo es exactamente lo que ha estado buscando. Dale a tu hijo el regalo de la comodidad y el estilo este invierno. Haz clic para agregarla al carrito hoy mismo.",
+  "sourceDescriptionHtml": "<p>\nManeja el clima helado con estilo y elegancia con la Chaqueta Larga Pompones Rojo. Diseñada para mantener a los pequeños cálidos y acogedores, esta chaqueta larga no sólo ofrece un alto rendimiento contra el frío, sino que también aporta un toque elegante a cualquier conjunto. Los pompones le dan un toque juguetón que seguramente captará la atención de los niños.\n</p>\n\n<!-- Details -->\n<h2>Detalles Únicos y Diseño Atractivo</h2>\n<p>\nLa Chaqueta Larga Pompones Rojo está diseñada pensando en los pequeños, con detalles llamativos que le encantarán. Los pompones dan un toque divertido y único que garantiza que su hijo se destacará en la multitud. Perfecta para combinar con cualquier prenda, esta chaqueta se convertirá rápidamente en la favorita de su pequeño.\n</p>\n\n<!-- Comfort -->\n<h2>Confort y Calidez</h2>\n<p>\nEvita el frío con esta sensacional Chaqueta Larga Pompones. Hecha de materiales suaves y acogedores, esta chaqueta se mantiene calientita incluso en las temperaturas más bajas, lo que la convierte en el atuendo perfecto para el invierno de su pequeño. \n</p>\n\n<!-- Llamado a la Acción -->\n<h2>Consíguela Ahora</h2>\n<p>\nLa Chaqueta Larga Pompones Rojo es exactamente lo que ha estado buscando. Dale a tu hijo el regalo de la comodidad y el estilo este invierno. Haz clic para agregarla al carrito hoy mismo. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:58",
+  "sourceUpdatedAt": "2026-10-27 11:12:07",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70937",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2208231",
+      "productSku": "2208231",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:26.408Z"
+    },
+    {
+      "id": "70939",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2208231",
+      "productSku": "2208231",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:28.320Z"
+    },
+    {
+      "id": "70940",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "2208231",
+      "productSku": "2208231",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:30.593Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10120-8135.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8135-large_default/chaqueta-larga-pompones-rojo.jpg",
+      "alt": "Chaqueta larga pompones Rojo",
+      "sourceId": "8135",
+      "variantIds": [],
+      "sha256": "1ed2111a78cdca3eb135e7c1113172d26b951db8e1018729c0cc3f481bfa4ffd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:30.686Z",
+  "issues": []
+}

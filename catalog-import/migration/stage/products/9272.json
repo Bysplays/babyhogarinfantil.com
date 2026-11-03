@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "9272",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/9272-parka-bebe-nina-impermeable-rosa.html",
+  "name": "Parka bebe niña impermeable Rosa",
+  "brand": "Zippy",
+  "sku": "2111070",
+  "description": "Parka impermeable en color rosa con estampado floral a contraste. Con capucha y puños elástico. Bajo en asimetría. Cierre delantero con cremallera y corchetes.",
+  "details": "Parka IMPERMEABLE de ZIPPY, una de nuestras firmas preferidas! En color rosa clarito con estampado floral a contraste y forro liso. Puños elásticos. Bajo en asimetría, ligeramente más largo por detrás, con pequeñas aberturas laterales. Cierre delantero con cremallera y corchetes que la dejan oculta. Una prenda perfecta para los días de lluvia y viento! Echa un ojito a nuestros conjuntos, calzado y ropa interior y podrás combinarla como más te guste! \n\nComposición y cuidados:\n\nParka: 100% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR",
+  "sourceDescriptionHtml": "<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;font-size:12px;letter-spacing:0.28px;\">Parka <strong>IMPERMEABLE</strong> de <strong>ZIPPY</strong>, una de nuestras firmas preferidas! En color rosa clarito con estampado floral a contraste y forro liso. Puños elásticos. <strong>Bajo en asimetría</strong>, ligeramente más largo por detrás, con pequeñas aberturas laterales. Cierre delantero con cremallera y corchetes que la dejan oculta. Una prenda perfecta para los días de lluvia y viento! Echa un ojito a nuestros <strong>conjuntos, calzado y ropa interior</strong> y podrás combinarla como más te guste! </span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;font-size:12px;letter-spacing:0.28px;\">Composición y cuidados:</span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;\"><span style=\"font-size:12px;letter-spacing:0.28px;\">Parka: 100% poliéster</span></span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;\"><span style=\"font-size:12px;letter-spacing:0.28px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</span></span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;\"><span style=\"font-size:12px;letter-spacing:0.28px;\">NO USAR LEJÍAS</span></span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;\"><span style=\"font-size:12px;letter-spacing:0.28px;\">NO USAR SECADORA</span></span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;\"><span style=\"font-size:12px;letter-spacing:0.28px;\">NO PLANCHAR</span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "725",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "725",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 15,
+  "oldPrice": 29.9959,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68837",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2111070",
+      "productSku": "2111070",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": 29.9959,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:38.391Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9272-7516.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7516-large_default/parka-bebe-nina-impermeable-rosa.jpg",
+      "alt": "Parka bebe niña impermeable Rosa",
+      "sourceId": "7516",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9272-12141.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12141-large_default/parka-bebe-nina-impermeable-rosa.jpg",
+      "alt": "Parka bebe niña impermeable Rosa",
+      "sourceId": "12141",
+      "variantIds": [],
+      "sha256": "35030d6139bd1ba4ad10fdd7cca995b20fcae1d87cd1a293c4a4444d26c86137"
+    },
+    {
+      "path": "assets/9272-8289.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8289-large_default/parka-bebe-nina-impermeable-rosa.jpg",
+      "alt": "Parka bebe niña impermeable Rosa",
+      "sourceId": "8289",
+      "variantIds": [],
+      "sha256": "aaf16f389de72c94309b0f23069132c3667eac1de0d30842012c451d0ecbdcf2"
+    },
+    {
+      "path": "assets/9272-8288.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8288-large_default/parka-bebe-nina-impermeable-rosa.jpg",
+      "alt": "Parka bebe niña impermeable Rosa",
+      "sourceId": "8288",
+      "variantIds": [],
+      "sha256": "7b3e6677e56ddd6a3190f0d1c4ce0640ed5b4ed24d1729188ee924c48369c80d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:38.597Z",
+  "issues": []
+}

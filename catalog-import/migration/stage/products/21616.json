@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "21616",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-en-pack/21616-pack-3-calcetines-fantasia-calabaza.html",
+  "name": "Pack 3 calcetines fantasía Calabaza",
+  "brand": "Mayoral",
+  "sku": "2502258",
+  "description": "Pack de tres calcetines para niño.",
+  "details": "COMPOSICIÓN\n\nCalcetines:\n\n72% Algodón\n\n25% Poliamida\n\n3% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Calcetines:</strong></p>\n<p>72% Algodón</p>\n<p>25% Poliamida</p>\n<p>3% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Calabaza",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "796",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "796",
+  "sourceCategoryName": "Calcetines en pack",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-12-03 15:53:36",
+  "sourceUpdatedAt": "2026-10-27 11:14:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97794",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502258",
+      "productSku": "2502258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:46.094Z"
+    },
+    {
+      "id": "97795",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502258",
+      "productSku": "2502258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:49.637Z"
+    },
+    {
+      "id": "97830",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502258",
+      "productSku": "2502258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:52.590Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21616-20209.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20209-large_default/pack-3-calcetines-fantasia-calabaza.jpg",
+      "alt": "Pack 3 calcetines fantasía Calabaza",
+      "sourceId": "20209",
+      "variantIds": [],
+      "sha256": "9c68aab5ea79f1954973ededd08d58aab9f5b7bffef1ff7f791682e9b555abd3"
+    },
+    {
+      "path": "assets/21616-20210.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20210-large_default/pack-3-calcetines-fantasia-calabaza.jpg",
+      "alt": "Pack 3 calcetines fantasía Calabaza",
+      "sourceId": "20210",
+      "variantIds": [],
+      "sha256": "ed8a227563715ae256d44d867291105b2dd5fb0d32b60cd1117ed07176615274"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:52.750Z",
+  "issues": []
+}

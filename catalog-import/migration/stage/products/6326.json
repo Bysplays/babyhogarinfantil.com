@@ -1,0 +1,389 @@
+{
+  "schemaVersion": 1,
+  "id": "6326",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/6326-zapato-velcro-reforzado-del-25-al-28-negro.html",
+  "name": "Zapato velcro reforzado del 25 al 28 Negro",
+  "brand": "Gorila",
+  "sku": "1165",
+  "description": "¡Descubre el zapato con velcro reforzado, disponible en talla 25 a 28 en un elegante color negro! Perfectamente diseñado para pies pequeños pero en constante crecimiento. Con un sistema de velcro fuerte y duradero que hace que ponerse y quitarse los zapatos sea un juego de niños. La robustez se combina con la comodidad para garantizar que cada paso de tu pequeño esté lleno de confianza. Perfecto para el entorno escolar y más allá, este calzado es la mezcla ideal de funcionalidad y estilo sofisticado. ¡Es hora de que tu pequeño camine con orgullo y comodidad!",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "705",
+    "759",
+    "888",
+    "868",
+    "878",
+    "871",
+    "890"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 46.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        },
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "260",
+          "label": "21"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        },
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "279",
+          "label": "25"
+        },
+        {
+          "id": "252",
+          "label": "26"
+        },
+        {
+          "id": "280",
+          "label": "27"
+        },
+        {
+          "id": "281",
+          "label": "28"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "93601",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "280",
+          "group": "Tamaño",
+          "value": "27"
+        }
+      ],
+      "sku": "1058XJ7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:27.556Z"
+    },
+    {
+      "id": "144659",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "1058XA7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:30.091Z"
+    },
+    {
+      "id": "144660",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "1058XB7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:32.300Z"
+    },
+    {
+      "id": "144661",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "1058XC7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:35.959Z"
+    },
+    {
+      "id": "144662",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "260",
+          "group": "Tamaño",
+          "value": "21"
+        }
+      ],
+      "sku": "1058XD7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:38.419Z"
+    },
+    {
+      "id": "144663",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "1058XE7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:41.538Z"
+    },
+    {
+      "id": "144664",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "1058XF7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:44.726Z"
+    },
+    {
+      "id": "144665",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "1058XG7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:47.185Z"
+    },
+    {
+      "id": "144666",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "279",
+          "group": "Tamaño",
+          "value": "25"
+        }
+      ],
+      "sku": "1058XH7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:49.980Z"
+    },
+    {
+      "id": "144667",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "1058XI7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:53.046Z"
+    },
+    {
+      "id": "79259",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "281",
+          "group": "Tamaño",
+          "value": "28"
+        }
+      ],
+      "sku": "1058XK7048",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 46.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:56.954Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6326-15589.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15589-large_default/zapato-velcro-reforzado-del-25-al-28-negro.jpg",
+      "alt": "Zapato velcro reforzado del 25 al 28 Negro",
+      "sourceId": "15589",
+      "variantIds": [],
+      "sha256": "d6e107595ed4223d5119730340e71265eac8804314d8dbfe8d539d35cdfc7ca3"
+    },
+    {
+      "path": "assets/6326-15590.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15590-large_default/zapato-velcro-reforzado-del-25-al-28-negro.jpg",
+      "alt": "Zapato velcro reforzado del 25 al 28 Negro",
+      "sourceId": "15590",
+      "variantIds": [],
+      "sha256": "787ccee6cd154d4228fb97a6d29bf4b3f517b80f2fc3f081056e3ff774cd6c9e"
+    },
+    {
+      "path": "assets/6326-15591.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15591-large_default/zapato-velcro-reforzado-del-25-al-28-negro.jpg",
+      "alt": "Zapato velcro reforzado del 25 al 28 Negro",
+      "sourceId": "15591",
+      "variantIds": [],
+      "sha256": "d111a719f5fd76b4b44d1cf633ddbdd48253ab57dc5036838abbb2a238b01d7d"
+    },
+    {
+      "path": "assets/6326-15592.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15592-large_default/zapato-velcro-reforzado-del-25-al-28-negro.jpg",
+      "alt": "Zapato velcro reforzado del 25 al 28 Negro",
+      "sourceId": "15592",
+      "variantIds": [],
+      "sha256": "5afb9d29d2ca5781f89d49df435008ce7e636ff060fb64966c2870c1e474c2ee"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:57.209Z",
+  "issues": []
+}

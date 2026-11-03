@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "20496",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/20496-conjunto-pantalon-corto-con-leotardo-aceituna.html",
+  "name": "Conjunto pantalón corto con leotardo Aceituna",
+  "brand": "Mayoral",
+  "sku": "2502064",
+  "description": "Conjunto 3 piezas, incluye leotardo a juego.",
+  "details": "Composición:\n\nJersey: 100% algodón.\n\nPantalón: 98% algodón, 2% elastano.\n\nLeotardo: 73% algodón, 25% poliéster, 2% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Jersey: 100% algodón.</p>\n<p>Pantalón: 98% algodón, 2% elastano.</p>\n<p>Leotardo: 73% algodón, 25% poliéster, 2% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Aceituna",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "340",
+          "label": "2-4m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94969",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502064",
+      "productSku": "2502064",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:10.599Z"
+    },
+    {
+      "id": "99582",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2502064",
+      "productSku": "2502064",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:11.621Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20496-19154.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19154-large_default/conjunto-pantalon-corto-con-leotardo-aceituna.jpg",
+      "alt": "Conjunto pantalón corto con leotardo Aceituna",
+      "sourceId": "19154",
+      "variantIds": [],
+      "sha256": "afde9bbb4fcf29cb18f0e6c1b9f7b7eab32ecf4d452d5f63a81c1415922da042"
+    },
+    {
+      "path": "assets/20496-19155.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19155-large_default/conjunto-pantalon-corto-con-leotardo-aceituna.jpg",
+      "alt": "Conjunto pantalón corto con leotardo Aceituna",
+      "sourceId": "19155",
+      "variantIds": [],
+      "sha256": "2cda1b62e67e85024b990899f1b8827b17057a123f28f88ade2bdc987c654946"
+    },
+    {
+      "path": "assets/20496-19156.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19156-large_default/conjunto-pantalon-corto-con-leotardo-aceituna.jpg",
+      "alt": "Conjunto pantalón corto con leotardo Aceituna",
+      "sourceId": "19156",
+      "variantIds": [],
+      "sha256": "6a20e9aba6c703e634fe8c9522a9b37c698ff8c98b0c543653c4f01855d808e3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:11.862Z",
+  "issues": []
+}

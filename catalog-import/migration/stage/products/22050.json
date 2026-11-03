@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "id": "22050",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/22050-pantalon-infantil-el-castro-san-miguel-azul.html",
+  "name": "Pantalón infantíl El Castro-San Miguel Azul",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2601146",
+  "description": "Pantalón largo para el uniforme de infantil del colegio EL Castro y San Miguel de Vigo. Comprando el chándal completo sudadera+pantalón largo disfruta de un descuento especial. Puedes elegir tallas diferentes de cada prenda. Si necesitas una talla mas grande puedes verla aquí: 2601151",
+  "details": "Composición pantalón largo:\n\n50% poliester, 50% algodón",
+  "sourceDescriptionHtml": "<p>Composición pantalón largo:</p>\n<p>50% poliester, 50% algodón</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "893",
+    "894"
+  ],
+  "sourceDefaultCategoryId": "894",
+  "sourceCategoryName": "Colegio San Miguel Vigo",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-05-13 23:54:41",
+  "sourceUpdatedAt": "2026-10-27 11:15:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 94,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "128644",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2601146",
+      "productSku": "2601146",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 14,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:30.750Z"
+    },
+    {
+      "id": "128645",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2601146",
+      "productSku": "2601146",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:33.686Z"
+    },
+    {
+      "id": "128646",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2601146",
+      "productSku": "2601146",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 16,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:36.242Z"
+    },
+    {
+      "id": "128647",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2601146",
+      "productSku": "2601146",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 13,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:39.770Z"
+    },
+    {
+      "id": "128648",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601146",
+      "productSku": "2601146",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 14,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:43.300Z"
+    },
+    {
+      "id": "128649",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601146",
+      "productSku": "2601146",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 27,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:46.548Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/22050-21230.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21230-large_default/pantalon-infantil-el-castro-san-miguel-azul.jpg",
+      "alt": "Pantalon infantil largo chandal colegio El Castro San Miguel Vigo",
+      "sourceId": "21230",
+      "variantIds": [],
+      "sha256": "b305af9c548c9818755380d15ece4ca3af4c00bb571c553d4139220278c26dfe"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:31:46.911Z",
+  "issues": []
+}

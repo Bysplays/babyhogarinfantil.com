@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "21464",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/21464-camiseta-manga-larga-chicco-verde.html",
+  "name": "Camiseta manga larga CHICCO Verde",
+  "brand": "Chicco",
+  "sku": "2502102",
+  "description": "Camiseta manga larga verde en algodón para bebé. Estampado de dragones. Con botones automáticos en la parte trasera del cuello para facilitar la puesta.",
+  "details": "Composición:\n\nCamiseta manga larga: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Camiseta manga larga: </strong>100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96643",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502102",
+      "productSku": "2502102",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:39.853Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21464-19989.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19989-large_default/camiseta-manga-larga-chicco-verde.jpg",
+      "alt": "Camiseta manga larga CHICCO Verde",
+      "sourceId": "19989",
+      "variantIds": [],
+      "sha256": "2cf407659b59fd6fd82cce12ace8ed87893201c3b0019e02395e3af0fab29f91"
+    },
+    {
+      "path": "assets/21464-19990.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19990-large_default/camiseta-manga-larga-chicco-verde.jpg",
+      "alt": "Camiseta manga larga CHICCO Verde",
+      "sourceId": "19990",
+      "variantIds": [],
+      "sha256": "73c54db9973e25d5afcc50be538e4ff75e83183bfab0aa72fe7ca46939107751"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:39.971Z",
+  "issues": []
+}

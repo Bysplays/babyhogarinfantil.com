@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "7145",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nino/7145-zapato-piel-con-hebilla-azul-marino.html",
+  "name": "Zapato piel con hebilla Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1803008",
+  "description": "Zapato pepito de piel napa lisa, con suela de goma. Cierre con hebilla metálica. Disponible en varios colores. FABRICADO EN ESPAÑA.",
+  "details": "Zapato pepito de piel napa lisa de gran calidad, con suela de goma, perfecta para evitar resbalones. Cierre con hebilla metálica para una óptima sujeción y comodidad en el pie. Un calzado clásico y atemporal, perfecto fondo de armario, combinable con todo tipo de conjuntos. Disponible en varios colores. \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><strong>Zapato pepito de piel</strong> napa lisa de gran calidad, con suela de goma, perfecta para evitar resbalones. Cierre con hebilla metálica para una óptima sujeción y comodidad en el pie. Un calzado clásico y atemporal, perfecto fondo de armario, combinable con todo tipo de conjuntos. <strong>Disponible en varios colores. </strong></p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "701"
+  ],
+  "sourceDefaultCategoryId": "701",
+  "sourceCategoryName": "Calzado Niño",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "262",
+          "label": "19"
+        },
+        {
+          "id": "260",
+          "label": "21"
+        },
+        {
+          "id": "252",
+          "label": "26"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65090",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "1803008",
+      "productSku": "1803008",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:17.229Z"
+    },
+    {
+      "id": "65091",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "260",
+          "group": "Tamaño",
+          "value": "21"
+        }
+      ],
+      "sku": "1803008",
+      "productSku": "1803008",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:20.611Z"
+    },
+    {
+      "id": "65096",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "1803008",
+      "productSku": "1803008",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:23.344Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7145-10036.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10036-large_default/zapato-piel-con-hebilla-azul-marino.jpg",
+      "alt": "Zapato piel con hebilla Azul Marino",
+      "sourceId": "10036",
+      "variantIds": [],
+      "sha256": "9a4f7ee6f1a214631e7167ac9a8d6ba82e86733ae80829b4d65090517b3f3f3d"
+    },
+    {
+      "path": "assets/7145-10037.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10037-large_default/zapato-piel-con-hebilla-azul-marino.jpg",
+      "alt": "Zapato piel con hebilla Azul Marino",
+      "sourceId": "10037",
+      "variantIds": [],
+      "sha256": "6d68dfbd30a47ad165add87e8470d3ac728f89fa17923d3e5cdc9d809fa0c9f5"
+    },
+    {
+      "path": "assets/7145-5111.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5111-large_default/zapato-piel-con-hebilla-azul-marino.jpg",
+      "alt": "Zapato piel con hebilla Azul Marino",
+      "sourceId": "5111",
+      "variantIds": [],
+      "sha256": "1b8341f65aed1e5d090ac22b78fea0dab38879416a70d86f8aa8ba87797c3b66"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:23.553Z",
+  "issues": []
+}

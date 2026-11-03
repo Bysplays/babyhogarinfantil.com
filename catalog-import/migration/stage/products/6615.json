@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "6615",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/6615-ranita-micropana-lisa-rosa.html",
+  "name": "Ranita micropana lisa Rosa",
+  "brand": "Calamaro",
+  "sku": "1606038",
+  "description": "Ranita cubre pañal en micro pana azul marino. 100% ALGODON.\n\nHECHA EN ESPAÑA.",
+  "details": "Composición y cuidados:\n\nRanita: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Ranita: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2016-17",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-27 11:09:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 11,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63940",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1606038",
+      "productSku": "1606038",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:54.548Z"
+    },
+    {
+      "id": "63941",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1606038",
+      "productSku": "1606038",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:56.633Z"
+    },
+    {
+      "id": "63942",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1606038",
+      "productSku": "1606038",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:59.010Z"
+    },
+    {
+      "id": "63943",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1606038",
+      "productSku": "1606038",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:01.386Z"
+    },
+    {
+      "id": "63944",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1606038",
+      "productSku": "1606038",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:03.299Z"
+    },
+    {
+      "id": "63945",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "1606038",
+      "productSku": "1606038",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:05.342Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6615-4568.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4568-large_default/ranita-micropana-lisa-rosa.jpg",
+      "alt": "Ranita micropana lisa Rosa",
+      "sourceId": "4568",
+      "variantIds": [],
+      "sha256": "51f766b1ea17ee7a8e9f42cc1b45d974440ad23bc85f099162e33e32883f1d10"
+    },
+    {
+      "path": "assets/6615-9668.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9668-large_default/ranita-micropana-lisa-rosa.jpg",
+      "alt": "Ranita micropana lisa Rosa",
+      "sourceId": "9668",
+      "variantIds": [],
+      "sha256": "1da507d89357cf9e044ff782041e662244aa66f388a2af0626a9253f3d67fee6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:05.673Z",
+  "issues": []
+}

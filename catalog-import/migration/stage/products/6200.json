@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "6200",
+  "sourceUrl": "https://babyhogarinfantil.com/jerseys-y-chaquetas-escolares/6200-jersey-escolar-100-acrilico-6-a-46-verde-botella.html",
+  "name": "Jersey escolar 100% ACRILICO 6 a 46 Verde Botella",
+  "brand": "Pecesa",
+  "sku": "979",
+  "description": "Jersey escolar cuello pico color VERDE BOTELLA. Resistente al duro trato de los colegios. NO PICA. Tallaje escaso, recomendamos una talla mas de la habitual.",
+  "details": "El jersey escolar 100% acrílico es el más sesistente para el colegio. No hace bollos, se mete en la secadora es resistente no estira no pica. Como comentamos es el mas trotero para el uso tan intensivo que se le dá a este tipo de prendas. y sobre todo HECHO EN ESPAÑA.\n\nComposición:\n\nJersey: 100% Acrílico.\n\nLAVAR A 30º RECOMENDADO.\n\nEL PUNTO LAVALO SIEMPRE DEL REVES.\n\nNO USAR LEJIAS.\n\nSE PUEDE USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>El jersey escolar 100% acrílico es el más sesistente para el colegio. No hace bollos, se mete en la secadora es resistente no estira no pica. Como comentamos es el mas trotero para el uso tan intensivo que se le dá a este tipo de prendas. y sobre todo HECHO EN ESPAÑA.</p>\n<p>Composición:</p>\n<p>Jersey: 100% Acrílico.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>EL PUNTO LAVALO SIEMPRE DEL REVES.</p>\n<p>NO USAR LEJIAS.</p>\n<p>SE PUEDE USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde botella",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "683"
+  ],
+  "sourceDefaultCategoryId": "683",
+  "sourceCategoryName": "Jerseys y chaquetas escolares",
+  "price": 32.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62859",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "870XH1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:38.750Z"
+    },
+    {
+      "id": "144229",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "870XA1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:40.922Z"
+    },
+    {
+      "id": "144230",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "870XB1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:43.647Z"
+    },
+    {
+      "id": "144231",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "870XC1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:46.006Z"
+    },
+    {
+      "id": "144232",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "870XD1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:48.577Z"
+    },
+    {
+      "id": "144233",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "870XE1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:50.604Z"
+    },
+    {
+      "id": "144234",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "870XF1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:53.150Z"
+    },
+    {
+      "id": "144235",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "870XG1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:55.565Z"
+    },
+    {
+      "id": "62860",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "870XI1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:58.261Z"
+    },
+    {
+      "id": "62861",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "870XJ1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:01.433Z"
+    },
+    {
+      "id": "62862",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "870XK1588",
+      "productSku": "979",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:03.877Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6200-4107.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4107-large_default/jersey-escolar-100-acrilico-6-a-46-verde-botella.jpg",
+      "alt": "Jersey escolar 100% ACRILICO 6 a 46 Verde Botella",
+      "sourceId": "4107",
+      "variantIds": [],
+      "sha256": "caf25d3c12d30c3b59545d7b2a3b9693ef36e89ea5fca42f4f59fac3f74d808f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:03.943Z",
+  "issues": []
+}

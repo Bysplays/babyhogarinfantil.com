@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "8921",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/8921-pantalon-corto-ceremonia-con-fajin-camel.html",
+  "name": "Pantalon corto ceremonia con fajín Camel",
+  "brand": "Newness",
+  "sku": "2105046",
+  "description": "Pantalón corto con fajín, de hilo de algodón y lino, en color camel. Cierre con botón y cremallera, y goma en la cintura por la parte trasera. Ideal para ceremonia.",
+  "details": "Pantalón corto con fajín, en color camel. Mezcla de hilo de algodón y lino. Cierre con botón y cremallera. Bolsillos delanteros y traseros. Tiene goma en la cinturilla, por la parte trasera. Incluye fajín a tono, con tablillas. Una prenda elegante y delicada, en un color neutro, ideal para combinar con camisas de diferentes tonos para ir como un pincel al evento o ceremonia que tengas próximamente! Echa un ojito a nuestras camisas, calzado y americanas y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nPantalón: 70% algodón, 30% lino\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pantalón corto con fajín, en color camel. Mezcla de hilo de <strong>algodón y lino</strong>. Cierre con botón y cremallera. Bolsillos delanteros y traseros. Tiene goma en la cinturilla, por la parte trasera. <strong>Incluye fajín a tono</strong>, con tablillas. Una prenda elegante y delicada, en un color neutro, ideal para combinar con camisas de diferentes tonos para ir como un pincel al <strong>evento o ceremonia</strong> que tengas próximamente! Echa un ojito a nuestras <strong>camisas, calzado y americanas</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 70% algodón, 30% lino</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 9.5,
+  "oldPrice": 18.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:43",
+  "sourceUpdatedAt": "2026-10-27 11:11:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68195",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2105046",
+      "productSku": "2105046",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:09.169Z"
+    },
+    {
+      "id": "68196",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2105046",
+      "productSku": "2105046",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:11.942Z"
+    },
+    {
+      "id": "68197",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2105046",
+      "productSku": "2105046",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:14.584Z"
+    },
+    {
+      "id": "68198",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2105046",
+      "productSku": "2105046",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:17.665Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8921-11646.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11646-large_default/pantalon-corto-ceremonia-con-fajin-camel.jpg",
+      "alt": "Pantalon corto ceremonia con fajín Camel",
+      "sourceId": "11646",
+      "variantIds": [],
+      "sha256": "03b5d862aa4fa6c9df55bedbeff6a94e1d89f193855aae6268ec78f3a791874b"
+    },
+    {
+      "path": "assets/8921-9024.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9024-large_default/pantalon-corto-ceremonia-con-fajin-camel.jpg",
+      "alt": "Pantalon corto ceremonia con fajín Camel",
+      "sourceId": "9024",
+      "variantIds": [],
+      "sha256": "5a6f8c0ea6d5350d86af951d1da283d448ba5ef80add5ca6dd525f0f257a2f78"
+    },
+    {
+      "path": "assets/8921-9025.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9025-large_default/pantalon-corto-ceremonia-con-fajin-camel.jpg",
+      "alt": "Pantalon corto ceremonia con fajín Camel",
+      "sourceId": "9025",
+      "variantIds": [],
+      "sha256": "5fddd4b6acfd74b27569be52daeefde73a3f8bdfd904eb9062589d33e7fbdee8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:17.877Z",
+  "issues": []
+}

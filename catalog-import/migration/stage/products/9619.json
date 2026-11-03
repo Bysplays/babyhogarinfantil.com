@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9619",
+  "sourceUrl": "https://babyhogarinfantil.com/peleles-bebe-nino/9619-pelele-punto-bebe-nino-verano-gris.html",
+  "name": "Pelele punto bebe niño verano Gris",
+  "brand": "A&amp;J",
+  "sku": "2204002",
+  "description": "Pelele entero de punto 100% ALGODÓN, en color gris con cuello bebé en blanco y detalles calados. Cierre con botones en toda la espalda y entrepierna, para facilitar la puesta.",
+  "details": "Pelele entero de punto de A&J, firma portuguesa especializada en prendas de punto, ofrece una mezcla de estilos que tiene como resultado una combinación de comodidad, moda y calidad. 100% ALGODÓN, en color gris con cuello bebé de tela en blanco y detalles calados. Cierre con botones en toda la espalda y entrepierna, para facilitar la puesta y el cambio de pañal. Una prenda cómoda, ligera y práctica, perfecta para los más bebés! Echa un ojito a nuestros bodies interiores, toquillas y muselinas y podrás completarlo con todo lo que necesites para las primeras puestas! \n\nComposición y cuidados:\n\nPelele: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nHECHO EN PORTUGAL",
+  "sourceDescriptionHtml": "<p>Pelele entero de punto de <strong>A&amp;J</strong>, firma portuguesa especializada en prendas de punto, ofrece una mezcla de estilos que tiene como resultado una combinación de comodidad, moda y calidad. <strong>100% ALGODÓN</strong>, en color gris con cuello bebé de tela en blanco y detalles calados. Cierre con <strong>botones en toda la espalda y entrepierna</strong>, para facilitar la puesta y el cambio de pañal. Una prenda cómoda, ligera y práctica, perfecta para los más bebés! Echa un ojito a nuestros <strong>bodies interiores, toquillas y muselinas</strong> y podrás completarlo con todo lo que necesites para las primeras puestas! </p>\n<p>Composición y cuidados:</p>\n<p>Pelele: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p><strong> </strong></p>\n<p><strong>HECHO EN PORTUGAL</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "756"
+  ],
+  "sourceDefaultCategoryId": "756",
+  "sourceCategoryName": "Peleles Bebé Niño",
+  "price": 14.98,
+  "oldPrice": 29.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69692",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2204002",
+      "productSku": "2204002",
+      "taxRate": 21,
+      "price": 14.98,
+      "oldPrice": 29.95,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:56.316Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9619-12564.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12564-large_default/pelele-punto-bebe-nino-verano-gris.jpg",
+      "alt": "Pelele punto bebe niño verano Gris",
+      "sourceId": "12564",
+      "variantIds": [],
+      "sha256": "cfe3102b65c9bdad2ea68b531688082d3d50f64e33467498f4e5a3164d86b2a0"
+    },
+    {
+      "path": "assets/9619-12565.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12565-large_default/pelele-punto-bebe-nino-verano-gris.jpg",
+      "alt": "Pelele punto bebe niño verano Gris",
+      "sourceId": "12565",
+      "variantIds": [],
+      "sha256": "abefb8da17e653b47bc63889eeb37697445a9875d0174b11ee559ae54cfb4aec"
+    },
+    {
+      "path": "assets/9619-12566.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12566-large_default/pelele-punto-bebe-nino-verano-gris.jpg",
+      "alt": "Pelele punto bebe niño verano Gris",
+      "sourceId": "12566",
+      "variantIds": [],
+      "sha256": "ebe23e9ad207503d83b9027e4e9c33172f4cc9d348422a84c59d64e4001dadae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:56.474Z",
+  "issues": []
+}

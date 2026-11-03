@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "17617",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/17617-pack-lazo-mas-horquillas-musgo.html",
+  "name": "Pack lazo mas horquillas Musgo",
+  "brand": "Siena",
+  "sku": "2204004",
+  "description": "",
+  "details": "Estilo Irresistible\n\nAdorna a tu pequeño con el Pack lazo más horquillas Musgo, diseñado especialmente para añadir encanto a cualquier conjunto. Su diseño atemporal y su hermoso color musgo, hacen de este set un complemento imprescindible en el guardarropa de cualquier niño. Las palabras no son suficientes para describir cuán adorable se verá tu pequeño cuando lleve puesto este conjunto.\n\n\nCalidad Incomparable\n\nEste pack no sólo es adorable, sino que también ha sido fabricado con materiales de alta calidad para asegurar su durabilidad. Las horquillas son robustas y mantendrán el cabello en su lugar, mientras que el lazo añade un toque de dulzura. Nunca tendrás que preocuparte por que se deshilachen o pierdan su forma. Este set es sin duda una inversión que continuarás apreciando en los años venideros.\n\n\nVariedad de Usos\n\nNo importa la ocasión, el Pack lazo más horquillas Musgo se asegurará de que tu pequeño siempre esté a la moda. Es perfecto para fiestas, fotos, eventos especiales o incluso para el uso cotidiano. Con este pack, la cantidad de combinaciones es infinita, y las posibilidades, innumerables. Permita a su hijo captar todas las miradas gracias a este accesorio.\n\n\nHaz clic en \"Añadir al carrito\" ahora y dale a tu pequeño un toque de originalidad con el Pack lazo más horquillas Musgo. Recuerda, la elegancia y estilo comienzan desde pequeños.",
+  "sourceDescriptionHtml": "<h2>Estilo Irresistible</h2>\n<p>Adorna a tu pequeño con el Pack lazo más horquillas Musgo, diseñado especialmente para añadir encanto a cualquier conjunto. Su diseño atemporal y su hermoso color musgo, hacen de este set un complemento imprescindible en el guardarropa de cualquier niño. Las palabras no son suficientes para describir cuán adorable se verá tu pequeño cuando lleve puesto este conjunto.</p>\n\n<h2>Calidad Incomparable</h2>\n<p>Este pack no sólo es adorable, sino que también ha sido fabricado con materiales de alta calidad para asegurar su durabilidad. Las horquillas son robustas y mantendrán el cabello en su lugar, mientras que el lazo añade un toque de dulzura. Nunca tendrás que preocuparte por que se deshilachen o pierdan su forma. Este set es sin duda una inversión que continuarás apreciando en los años venideros.</p>\n\n<h2>Variedad de Usos</h2>\n<p>No importa la ocasión, el Pack lazo más horquillas Musgo se asegurará de que tu pequeño siempre esté a la moda. Es perfecto para fiestas, fotos, eventos especiales o incluso para el uso cotidiano. Con este pack, la cantidad de combinaciones es infinita, y las posibilidades, innumerables. Permita a su hijo captar todas las miradas gracias a este accesorio.</p>\n\n<p><strong>Haz clic en \"Añadir al carrito\" ahora y dale a tu pequeño un toque de originalidad con el Pack lazo más horquillas Musgo. Recuerda, la elegancia y estilo comienzan desde pequeños.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Musgo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-06-07 23:56:29",
+  "sourceUpdatedAt": "2026-10-27 11:11:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84964",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10182XA18585",
+      "productSku": "2204004",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:33.444Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17617-15738.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15738-large_default/pack-lazo-mas-horquillas-musgo.jpg",
+      "alt": "Pack lazo mas horquillas Musgo",
+      "sourceId": "15738",
+      "variantIds": [],
+      "sha256": "233244d641844e6f356b063a58b2fcad8351f7a5b316399a1f4fdcf23f5e70e0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:33.511Z",
+  "issues": []
+}

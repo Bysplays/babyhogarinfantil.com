@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "18103",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals-nino/18103-chandal-road-race-finish-nino-marino.html",
+  "name": "Chandal road race finish niño Marino",
+  "brand": "Babybol",
+  "sku": "2402090",
+  "description": "Chandal dos piezas.",
+  "details": "Composición:\n\nChaqueta: 98% algodón, 2% poliéster.\n\nPantalón: 98% algodón, 2% poliéster.\n\nHECHO EN INDIA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 98% algodón, 2% poliéster.</p>\n<p>Pantalón: 98% algodón, 2% poliéster.</p>\n<p>HECHO EN INDIA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "798"
+  ],
+  "sourceDefaultCategoryId": "798",
+  "sourceCategoryName": "Chandals niño",
+  "price": 35.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-01 15:54:10",
+  "sourceUpdatedAt": "2026-10-27 11:13:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "86188",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2402090",
+      "productSku": "2402090",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:28.652Z"
+    },
+    {
+      "id": "86190",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2402090",
+      "productSku": "2402090",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:30.122Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18103-16562.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16562-large_default/chandal-road-race-finish-nino-marino.jpg",
+      "alt": "Chandal road race finish niño Marino",
+      "sourceId": "16562",
+      "variantIds": [],
+      "sha256": "61f9f82405bce59207e9c79e5fa71b10bcb42469a5c6a21c937c2378a8eaa901"
+    },
+    {
+      "path": "assets/18103-16563.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16563-large_default/chandal-road-race-finish-nino-marino.jpg",
+      "alt": "Chandal road race finish niño Marino",
+      "sourceId": "16563",
+      "variantIds": [],
+      "sha256": "c9136e40e3a7a9f8e4530e389e475896ad63762b4ca0c81da72ec6bc6d3f81df"
+    },
+    {
+      "path": "assets/18103-16564.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16564-large_default/chandal-road-race-finish-nino-marino.jpg",
+      "alt": "Chandal road race finish niño Marino",
+      "sourceId": "16564",
+      "variantIds": [],
+      "sha256": "fa1f09a20c3eff8dacbb6e03a7266f617879ac9c69a7c2c8104ec8a5f8185f5c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:30.279Z",
+  "issues": []
+}

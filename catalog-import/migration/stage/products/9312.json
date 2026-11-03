@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "9312",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/9312-camiseta-bebe-nino-pulpito-gris.html",
+  "name": "Camiseta bebe niño pulpito Gris",
+  "brand": "Zippy",
+  "sku": "2201009",
+  "description": "Camiseta de algodón de manga corta y cuello redondo, con corchetes en el hombro. En color gris con simpático pulpo en el pecho.",
+  "details": "Camiseta de algodón de ZIPPY, una de nuestras firmas preferidas! De manga corta y cuello redondo, con corchetes en el hombro para facilitar la puesta. En color gris ligeramente jaspeado con simpático pulpo estilo japonés en el pecho. Una camiseta cómoda, fresquita y con un estampado divertido, ideal para la época de verano! Echa un ojito a nuestros pantalones, bermudas y ropa interior y podrás combinarla con todo lo que necesites!\n\nComposición y cuidados:\n\nCamiseta: 95% algodón, 5% viscosa\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Camiseta de algodón de <strong>ZIPPY</strong>, una de nuestras firmas preferidas! De manga corta y cuello redondo, con corchetes en el hombro para facilitar la puesta. En color gris ligeramente jaspeado con simpático <strong>pulpo</strong> estilo japonés en el pecho. Una camiseta cómoda, fresquita y con un estampado divertido, ideal para la época de verano! Echa un ojito a nuestros <strong>pantalones, bermudas y ropa interior</strong> y podrás combinarla con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 95% algodón, 5% viscosa</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 2.5,
+  "oldPrice": 4.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68907",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2201009",
+      "productSku": "2201009",
+      "taxRate": 21,
+      "price": 2.5,
+      "oldPrice": 4.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:57.351Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9312-7553.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7553-large_default/camiseta-bebe-nino-pulpito-gris.jpg",
+      "alt": "Camiseta bebe niño pulpito Gris",
+      "sourceId": "7553",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9312-7552.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7552-large_default/camiseta-bebe-nino-pulpito-gris.jpg",
+      "alt": "Camiseta bebe niño pulpito Gris",
+      "sourceId": "7552",
+      "variantIds": [],
+      "sha256": "d7650c8e14a8c4ca8b9f8f89c0f8b5c322b789f260d471880c8375e2c10f227a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:57.469Z",
+  "issues": []
+}

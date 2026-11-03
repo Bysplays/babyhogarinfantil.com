@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8422",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/8422-camiseta-basica-larga-bebe-nina-rosa.html",
+  "name": "Camiseta básica larga bebé niña Rosa",
+  "brand": "Zippy",
+  "sku": "2008015",
+  "description": "Camiseta básica de algodón, en color rosa palo. Cierre con botón en la espalda.",
+  "details": "Camiseta básica de algodón, manga larga y cuello redondo. Cierre con botón en la espalda. Disponible en color azul marino, rosa palo y blanco. Una prenda básica perfecta para combinar con prendas estampadas o coloridas o incluso útil como prenda interior. Echa un ojito a nuestros pantalones, sudaderas y complementos y podrás combinarla como más te guste! \n\nComposición y cuidados:\n\nCamiseta: 95% algodón, 5% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Camiseta básica de algodón, manga larga y cuello redondo. Cierre con botón en la espalda. Disponible en color azul marino, rosa palo y blanco. Una prenda básica perfecta para combinar con prendas estampadas o coloridas o incluso útil como prenda interior. Echa un ojito a nuestros pantalones, sudaderas y complementos y podrás combinarla como más te guste! </p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 95% algodón, 5% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 4.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:37",
+  "sourceUpdatedAt": "2026-10-27 11:10:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67445",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2008015",
+      "productSku": "2008015",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:20.358Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8422-6739.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6739-large_default/camiseta-basica-larga-bebe-nina-rosa.jpg",
+      "alt": "Camiseta básica larga bebé niña Rosa",
+      "sourceId": "6739",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/8422-11176.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11176-large_default/camiseta-basica-larga-bebe-nina-rosa.jpg",
+      "alt": "Camiseta básica larga bebé niña Rosa",
+      "sourceId": "11176",
+      "variantIds": [],
+      "sha256": "a2c440d1e354671c3b2679b02859234df797562f230b3fcfe0fafa864b896458"
+    },
+    {
+      "path": "assets/8422-6738.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6738-large_default/camiseta-basica-larga-bebe-nina-rosa.jpg",
+      "alt": "Camiseta básica larga bebé niña Rosa",
+      "sourceId": "6738",
+      "variantIds": [],
+      "sha256": "5d741fabccb9b5c495f060d4be9ca68c1201856ebb0382f457f8711390619b9e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:20.519Z",
+  "issues": []
+}

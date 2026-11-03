@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "18107",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/18107-conjunto-peto-hello-world-mostaza.html",
+  "name": "Conjunto peto hello world Mostaza",
+  "brand": "Babybol",
+  "sku": "2402094",
+  "description": "¡Sorprende al mundo con el Conjunto Peto Hello World Mostaza! Este magnífico atuendo de ropa para bebé y niño, marca una declaración de estilo audaz y alegre. Fabricado con amor y la más alta calidad, garantiza la comodidad y duración. Perfecto para aventuras diarias, brinda a tu pequeño un look deportivo y adorable. ¡Haz que tu hijo brille con estilo y personalidad con el Conjunto Peto Hello World Mostaza, y deja que su pequeña luz ilumine el mundo!",
+  "details": "Adorable y Moda en Cada Punto\n\nCon este dulce y moderno Conjunto Peto Hello World Mostaza, cada pequeño se destacará en la multitud. Perfecto para paseos en el parque, fiestas familiares o simplemente para jugar en la casa, este peto añade un toque de alegría a cualquier ocasión. La tela de alta calidad garantiza una comodidad óptima durante todo el día, mientras que el diseño exclusivo hace que cada niño luzca especialmente adorable.\n\n\nComodidad y Calidad Excepcional\n\nHecho con materiales de la más alta calidad, este Conjunto Peto Hello World Mostaza ofrece comodidad a la vez que mantiene su forma y color. La tela suave es perfecta para la delicada piel de los niños, y el diseño fácil de poner garantiza que el vestir sea un juego de niños. Además, las robustas costuras asumen el desgaste del juego diario, asegurando que este conjunto de peto perdure al paso del tiempo.\n\n\nAtrévete a Brillar – Hello World Mostaza\n\nEste Conjunto Peto Hello World Mostaza no solo destaca por su comodidad y calidad, sino también por su singularidad. El toque de color mostaza le da un giro moderno al tradicional peto, asegurando que cada niño que lo lleve sea el centro de atención. La simplicidad de su diseño, adornado con un sutil estampado “Hello World”, agrega un toque encantador que a todos les encantará.\n\n\nEs hora de subir el nivel de la moda de sus pequeños y hacer de cada día una ocasión especial con este Conjunto Peto Hello World Mostaza. ¡Aproveche hoy y haga brillar a sus pequeños con este adorado diseño!",
+  "sourceDescriptionHtml": "<h2>Adorable y Moda en Cada Punto</h2>\n<p>Con este dulce y moderno Conjunto Peto Hello World Mostaza, cada pequeño se destacará en la multitud. Perfecto para paseos en el parque, fiestas familiares o simplemente para jugar en la casa, este peto añade un toque de alegría a cualquier ocasión. La tela de alta calidad garantiza una comodidad óptima durante todo el día, mientras que el diseño exclusivo hace que cada niño luzca especialmente adorable.</p>\n\n<h3>Comodidad y Calidad Excepcional</h3>\n<p>Hecho con materiales de la más alta calidad, este Conjunto Peto Hello World Mostaza ofrece comodidad a la vez que mantiene su forma y color. La tela suave es perfecta para la delicada piel de los niños, y el diseño fácil de poner garantiza que el vestir sea un juego de niños. Además, las robustas costuras asumen el desgaste del juego diario, asegurando que este conjunto de peto perdure al paso del tiempo.</p>\n\n<h4>Atrévete a Brillar – Hello World Mostaza</h4>\n<p>Este Conjunto Peto Hello World Mostaza no solo destaca por su comodidad y calidad, sino también por su singularidad. El toque de color mostaza le da un giro moderno al tradicional peto, asegurando que cada niño que lo lleve sea el centro de atención. La simplicidad de su diseño, adornado con un sutil estampado “Hello World”, agrega un toque encantador que a todos les encantará.</p>\n\n<p>Es hora de subir el nivel de la moda de sus pequeños y hacer de cada día una ocasión especial con este Conjunto Peto Hello World Mostaza. ¡Aproveche hoy y haga brillar a sus pequeños con este adorado diseño!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mostaza",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-01 15:54:10",
+  "sourceUpdatedAt": "2026-10-27 11:13:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "86212",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2402094",
+      "productSku": "2402094",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:17.821Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18107-16575.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16575-large_default/conjunto-peto-hello-world-mostaza.jpg",
+      "alt": "Conjunto peto hello world Mostaza",
+      "sourceId": "16575",
+      "variantIds": [],
+      "sha256": "ef7a15d2e022106d76d0fc8bfafbe3b2e164a19e0b85f16baedce18319b3ceea"
+    },
+    {
+      "path": "assets/18107-16576.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16576-large_default/conjunto-peto-hello-world-mostaza.jpg",
+      "alt": "conjunto peto algodon bebe niño",
+      "sourceId": "16576",
+      "variantIds": [],
+      "sha256": "9c96ce727f6912ae8a83a0956e222ffa95af1e73d29f42ab2a53711c60df657c"
+    },
+    {
+      "path": "assets/18107-16577.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16577-large_default/conjunto-peto-hello-world-mostaza.jpg",
+      "alt": "Conjunto peto hello world Mostaza",
+      "sourceId": "16577",
+      "variantIds": [],
+      "sha256": "710684baeaa194bd8cc9e07dd92b4c67d87a60f1d811bc944be96ca8acb4dade"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:17.965Z",
+  "issues": []
+}

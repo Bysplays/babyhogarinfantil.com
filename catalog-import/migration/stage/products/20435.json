@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "20435",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/20435-jesusito-bebe-zonda-manga-larga-mint.html",
+  "name": "Jesusito bebé zonda manga larga Mint",
+  "brand": "Calamaro",
+  "sku": "2502019",
+  "description": "Jesusito con ranita. Con felpa interior para que sea cálido en el invierno. Se abre en la espalda con corchetes. Disponible vestido a juego en tallas grandes.\n\nBusca aquí los leotardos que mejor te combinen Leotardos Invierno\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nVestido: 96% algodón, 4% elastano.\n\nRanita: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Vestido: 96% algodón, 4% elastano.</p>\n<p>Ranita: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mint",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 34.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94642",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502019",
+      "productSku": "2502019",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:16.040Z"
+    },
+    {
+      "id": "94643",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502019",
+      "productSku": "2502019",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:17.979Z"
+    },
+    {
+      "id": "94644",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502019",
+      "productSku": "2502019",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:19.618Z"
+    },
+    {
+      "id": "94647",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2502019",
+      "productSku": "2502019",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:21.188Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20435-19657.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19657-large_default/jesusito-bebe-zonda-manga-larga-mint.jpg",
+      "alt": "Jesusito bebé zonda manga larga Mint",
+      "sourceId": "19657",
+      "variantIds": [],
+      "sha256": "e09bf00d63c7cc99a6c88b0e9c089c6bd0a6d5d7433b5ece5acf2a35e762f3c1"
+    },
+    {
+      "path": "assets/20435-19658.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19658-large_default/jesusito-bebe-zonda-manga-larga-mint.jpg",
+      "alt": "Jesusito bebé zonda manga larga Mint",
+      "sourceId": "19658",
+      "variantIds": [],
+      "sha256": "1d54f1c9d01ccc979dfd2a4398f85e7bf96a047186ab12eb47a96f77ee36f0f1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:21.302Z",
+  "issues": []
+}

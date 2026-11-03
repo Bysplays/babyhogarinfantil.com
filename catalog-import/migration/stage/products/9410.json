@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "9410",
+  "sourceUrl": "https://babyhogarinfantil.com/peleles-bebe-nino/9410-pelele-corto-verano-bebe-nino-ositos-rojo.html",
+  "name": "Pelele corto verano bebe niño ositos Rojo",
+  "brand": "Mayoral",
+  "sku": "2202047",
+  "description": "Pelele corto 100% ALGODÓN, con cierre de corchetes delantero y en la entrepierna. Color crudo estampado con ositos, acabados y bolsillo en color teja.",
+  "details": "Pelele corto de MAYORAL, una de nuestras firmas preferidas! 100% ALGODÓN, con cierre delantero y en la entrepierna con corchetes, para facilitar la puesta. En color crudo estampado con ositos, detalles y bolsillo en el pecho en color teja. Una prenda fresquita y cómoda, perfecta para los más peques en los días de calor! Echa un ojito a nuestras viseras y gorritos para el sol, calcetines de perlé y calzado y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nPelele: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pelele corto de <strong>MAYORAL</strong>, una de nuestras firmas preferidas!<strong> 100% ALGODÓN</strong>, con cierre delantero y en la entrepierna con corchetes, para facilitar la puesta. En color crudo estampado con ositos, detalles y bolsillo en el pecho en <strong>color teja</strong>. Una prenda fresquita y cómoda, perfecta para los más peques en los días de calor! Echa un ojito a nuestras <strong>viseras y gorritos para el sol, calcetines de perlé y calzado</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Pelele: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "756"
+  ],
+  "sourceDefaultCategoryId": "756",
+  "sourceCategoryName": "Peleles Bebé Niño",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:49",
+  "sourceUpdatedAt": "2026-10-27 11:11:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "73069",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2202047",
+      "productSku": "2202047",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:42.808Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9410-12300.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12300-large_default/pelele-corto-verano-bebe-nino-ositos-rojo.jpg",
+      "alt": "Pelele corto verano bebe niño ositos Rojo",
+      "sourceId": "12300",
+      "variantIds": [],
+      "sha256": "6c2347a5def3fa46e4ebb04239c179cf51bbc92f99017d718682946630c93b9c"
+    },
+    {
+      "path": "assets/9410-12301.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12301-large_default/pelele-corto-verano-bebe-nino-ositos-rojo.jpg",
+      "alt": "Pelele corto verano bebe niño ositos Rojo",
+      "sourceId": "12301",
+      "variantIds": [],
+      "sha256": "1fed41ae3e7957e84f2ff1da849456df277059ff137c7fc1d49be1e5d5e24ec6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:42.901Z",
+  "issues": []
+}

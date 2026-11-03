@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "12828",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/12828-camiseta-manga-corta-nino-listas-naranja.html",
+  "name": "Camiseta manga corta niño listas Naranja",
+  "brand": "Talaman",
+  "sku": "2301341",
+  "description": "Camiseta de algodón de manga corta estampada con listas en naranja",
+  "details": "Composición y cuidados:\n\nCamiseta: 100% algodón.\n\nLavar a máquina max. 30º\n\nNo usar lejias que la lias.\n\nNo usar secadora.\n\nPlanchar a baja temperatura.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<div>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón.</p>\n<p>Lavar a máquina max. 30º</p>\n<p>No usar lejias que la lias.</p>\n<p>No usar secadora.</p>\n<p>Planchar a baja temperatura.</p>\n<p>HECHO EN CHINA</p>\n</div>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Naranja",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-29 16:18:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72377",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2301341",
+      "productSku": "2301341",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:32.055Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12828-13752.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13752-large_default/camiseta-manga-corta-nino-listas-naranja.jpg",
+      "alt": "Camiseta manga corta niño listas Naranja",
+      "sourceId": "13752",
+      "variantIds": [],
+      "sha256": "bf0685f747e88f187747a5f29453d3f582fd650e58e2d268d2fdd8afb417c107"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:32.099Z",
+  "issues": []
+}

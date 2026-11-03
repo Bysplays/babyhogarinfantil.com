@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 1,
+  "id": "6323",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/6323-zapato-colegial-reforzado-24-34-marino.html",
+  "name": "Zapato colegial reforzado 24-34 Marino",
+  "brand": "Caminito",
+  "sku": "1163",
+  "description": "Zapato colegial azul marino fabricado en piel, con puntera reforzada en piel a tono. Cierre con velcro. Suela de goma.\n\nHECHO EN ESPAÑA",
+  "details": "Zapato colegial de CAMINITO, una de nuestras firmas preferidas! En color azul marino, elaborado en piel, con puntera reforzada en piel a tono. Cierre con velcro y suela de goma. Fabricado con hormas estudiadas para un máximo confort del pie en el día a día, para un uso continuado, con plantillas anatómicas y transpirables. Un calzado perfecto para el cole, resistente y cómodo! Echa un ojito a nuestros pantalones y faldas escolares, jerséis y chaquetas y podrás encontrar todo lo que necesites!",
+  "sourceDescriptionHtml": "<p><span style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">Zapato colegial de </span><strong style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">CAMINITO</strong><span style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">, una de nuestras firmas preferidas! En color azul marino, elaborado en </span><strong style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">piel</strong><span style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">, con </span><strong style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">puntera reforzada</strong><span style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\"> en piel a tono. Cierre con velcro y suela de goma. Fabricado con hormas estudiadas para un máximo confort del pie en el día a día, para un uso continuado, con plantillas anatómicas y transpirables. Un calzado</span><strong style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\"> perfecto para el cole</strong><span style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">, resistente y cómodo! Echa un ojito a nuestros </span><strong style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\">pantalones y faldas escolares, jerséis y chaquetas</strong><span style=\"color:#333333;font-family:Constantia, serif;font-size:15.3333px;\"> y podrás encontrar todo lo que necesites! </span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "783",
+    "684"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 21,
+  "oldPrice": 42,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 24,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "279",
+          "label": "25"
+        },
+        {
+          "id": "252",
+          "label": "26"
+        },
+        {
+          "id": "280",
+          "label": "27"
+        },
+        {
+          "id": "281",
+          "label": "28"
+        },
+        {
+          "id": "282",
+          "label": "29"
+        },
+        {
+          "id": "283",
+          "label": "30"
+        },
+        {
+          "id": "284",
+          "label": "31"
+        },
+        {
+          "id": "285",
+          "label": "32"
+        },
+        {
+          "id": "286",
+          "label": "33"
+        },
+        {
+          "id": "287",
+          "label": "34"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63317",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "1056XC1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 21,
+      "oldPrice": 42,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:04.134Z"
+    },
+    {
+      "id": "144647",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "1056XA1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 21,
+      "oldPrice": 41.9991,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:06.551Z"
+    },
+    {
+      "id": "144648",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "279",
+          "group": "Tamaño",
+          "value": "25"
+        }
+      ],
+      "sku": "1056XB1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 21,
+      "oldPrice": 41.9991,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:09.014Z"
+    },
+    {
+      "id": "63318",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "280",
+          "group": "Tamaño",
+          "value": "27"
+        }
+      ],
+      "sku": "1056XD1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 21,
+      "oldPrice": 42,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:10.842Z"
+    },
+    {
+      "id": "63319",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "281",
+          "group": "Tamaño",
+          "value": "28"
+        }
+      ],
+      "sku": "1056XE1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 21,
+      "oldPrice": 42,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:12.923Z"
+    },
+    {
+      "id": "63320",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "282",
+          "group": "Tamaño",
+          "value": "29"
+        }
+      ],
+      "sku": "1056XF1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 21,
+      "oldPrice": 42,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:14.752Z"
+    },
+    {
+      "id": "63321",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "283",
+          "group": "Tamaño",
+          "value": "30"
+        }
+      ],
+      "sku": "1056XG1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 21,
+      "oldPrice": 42,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:16.652Z"
+    },
+    {
+      "id": "63322",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "284",
+          "group": "Tamaño",
+          "value": "31"
+        }
+      ],
+      "sku": "1056XH1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 22,
+      "oldPrice": 44,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:18.674Z"
+    },
+    {
+      "id": "144649",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "285",
+          "group": "Tamaño",
+          "value": "32"
+        }
+      ],
+      "sku": "1056XI1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 21,
+      "oldPrice": 41.9991,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:21.093Z"
+    },
+    {
+      "id": "144650",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "286",
+          "group": "Tamaño",
+          "value": "33"
+        }
+      ],
+      "sku": "1056XJ1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 21,
+      "oldPrice": 41.9991,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:22.681Z"
+    },
+    {
+      "id": "144651",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "287",
+          "group": "Tamaño",
+          "value": "34"
+        }
+      ],
+      "sku": "1056XK1894",
+      "productSku": "1163",
+      "taxRate": 21,
+      "price": 21,
+      "oldPrice": 41.9991,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:24.720Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6323-13699.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13699-large_default/zapato-colegial-reforzado-24-34-marino.jpg",
+      "alt": "Zapato colegial reforzado 24-34 Marino",
+      "sourceId": "13699",
+      "variantIds": [],
+      "sha256": "c4131312779c94ddfabba33cf421c44e662326984a404b6416f42b7b446d95d3"
+    },
+    {
+      "path": "assets/6323-13700.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13700-large_default/zapato-colegial-reforzado-24-34-marino.jpg",
+      "alt": "Zapato colegial reforzado 24-34 Marino",
+      "sourceId": "13700",
+      "variantIds": [],
+      "sha256": "a1c4ff54899779b7cdba92148554e05c181ee2cf7ec785cb4cf6b10a59e7ea53"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:24.858Z",
+  "issues": []
+}

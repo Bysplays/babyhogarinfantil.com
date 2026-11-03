@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "19392",
+  "sourceUrl": "https://babyhogarinfantil.com/mantas-bebe/19392-mantitas-topos-gamberritos-80x110-verde.html",
+  "name": "Mantitas topos gamberritos 80x110 Verde",
+  "brand": "Gamberritos",
+  "sku": "2111115",
+  "description": "Manta topitos de la firma Gamberritos.\n\nPersonalízala con el nombre bordado.\n\nMedidas manta: 80x110 cm",
+  "details": "Composición: 100% piliéster.",
+  "sourceDescriptionHtml": "<p>Composición: 100% piliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "765",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "765",
+  "sourceCategoryName": "Mantas Bebé",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-01-27 15:53:05",
+  "sourceUpdatedAt": "2026-10-27 11:11:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147427",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9834XA19073",
+      "productSku": "2111115",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:03.543Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19392-19043.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19043-large_default/mantitas-topos-gamberritos-80x110-verde.jpg",
+      "alt": "Mantitas topos gamberritos 80x110 Verde",
+      "sourceId": "19043",
+      "variantIds": [],
+      "sha256": "30665eee3cc00a3939dcb99c985498b0246e6f27a1c16a9b5f038f5ee456798d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:03.587Z",
+  "issues": []
+}

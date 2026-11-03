@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "6927",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/6927-camiseta-bebe-manga-larga-estampada-gris.html",
+  "name": "Camiseta bebé manga larga estampada Gris",
+  "brand": "Chicco",
+  "sku": "1708013",
+  "description": "¡Envuelve a tu pequeña en comodidad sin comprometer el estilo con la \"Camiseta bebé manga larga estampada Gris\"! Este tesoro de ropa infantil, maravillosamente confeccionado, celebra la inocencia y la aventura de la infancia. Con su suave paleta de colores gris, es ideal para cualquier temporada, adaptándose sin esfuerzo al guardarropa de tu pequeña. Su fabricación de alta calidad garantiza durabilidad, mientras que el delicado estampado promete poner un toque de alegría en cada día. Ya sea para un regalo de cumpleaños o simplemente para mimar a tu pequeño, esta camiseta es esencial para cualquier bebé amante de la moda. ¡Imagina las sonrisas y la alegría que aportará esta adorable prenda!",
+  "details": "Comodidad sin límites\n\nEste innovador diseño de \"Camiseta bebé manga larga estampada Gris\" trae una comodidad inigualable para el pequeño de la casa. Hecha con la mejor calidad de algodón, permite que la piel del bebé respire y a la vez la protege delicadamente. Ideal para los tiernos y sensibles cuerpos de nuestros pequeños.\n\nAnunciando un Diseño Excepcional\n\nLa camiseta estampada es más que una prenda común, es una declaración de estilo incluso para los más pequeños. Su diseño único en un atractivo gris, se ajusta perfectamente a cualquier outfit, haciendo que tu pequeño destaque en todo momento. El conjunto perfecto de funcionalidad y estilo en una sola prenda de vestir.\n\nLa calidad que perdura\n\nAl comprar la \"Camiseta bebé manga larga estampada Gris\", no solo estás obteniendo una prenda de vestir, estás invirtiendo en calidad y durabilidad. Esta camiseta no solo resistirá innumerables lavados, sino que también mantendrá su forma y color, garantizando así que siempre luzca como nueva.\n\nComposición y cuidados:\n\nCamiseta: 95% algodón, 5% elastano.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nHaz clic aquí para brindarle a tu pequeño la máxima comodidad y estilo, ¡Compra ahora!",
+  "sourceDescriptionHtml": "<div>\n<h2>Comodidad sin límites</h2>\n<p>Este innovador diseño de \"Camiseta bebé manga larga estampada Gris\" trae una comodidad inigualable para el pequeño de la casa. Hecha con la mejor calidad de algodón, permite que la piel del bebé respire y a la vez la protege delicadamente. Ideal para los tiernos y sensibles cuerpos de nuestros pequeños.</p>\n<h2>Anunciando un Diseño Excepcional</h2>\n<p>La camiseta estampada es más que una prenda común, es una declaración de estilo incluso para los más pequeños. Su diseño único en un atractivo gris, se ajusta perfectamente a cualquier outfit, haciendo que tu pequeño destaque en todo momento. El conjunto perfecto de funcionalidad y estilo en una sola prenda de vestir.</p>\n<h2>La calidad que perdura</h2>\n<p>Al comprar la \"Camiseta bebé manga larga estampada Gris\", no solo estás obteniendo una prenda de vestir, estás invirtiendo en calidad y durabilidad. Esta camiseta no solo resistirá innumerables lavados, sino que también mantendrá su forma y color, garantizando así que siempre luzca como nueva.</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 95% algodón, 5% elastano.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<a href=\"buy_now_link_here\" class=\"buyButton\">Haz clic aquí para brindarle a tu pequeño la máxima comodidad y estilo, ¡Compra ahora!</a></div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64711",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1708013",
+      "productSku": "1708013",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:30.402Z"
+    },
+    {
+      "id": "64712",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1708013",
+      "productSku": "1708013",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:32.991Z"
+    },
+    {
+      "id": "64713",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1708013",
+      "productSku": "1708013",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:35.009Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6927-4846.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4846-large_default/camiseta-bebe-manga-larga-estampada-gris.jpg",
+      "alt": "Camiseta bebé manga larga estampada Gris",
+      "sourceId": "4846",
+      "variantIds": [],
+      "sha256": "a19a67020dd277270aac4381e61f001c3278f24f8a3964fc7e1c76c11ee29b48"
+    },
+    {
+      "path": "assets/6927-4847.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4847-large_default/camiseta-bebe-manga-larga-estampada-gris.jpg",
+      "alt": "Camiseta bebé manga larga estampada Gris",
+      "sourceId": "4847",
+      "variantIds": [],
+      "sha256": "14070ec65bef055d5e4c47a858a680dc293151ec15f5cc89aea13160cb126404"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:35.191Z",
+  "issues": []
+}

@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "20486",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals-nino/20486-chandal-skate-nino-azul-marino.html",
+  "name": "Chandal skate niño Azul Marino",
+  "brand": "Mayoral",
+  "sku": "2502056",
+  "description": "Conjunto chándal de dos piezas para niño con sudadera y pantalón largo.\n\nSudadera serigrafiada de manga larga para niño. Cuello redondo. \n\nPantalón para niño. Cinturia elástica con ajuste de cordón y bolsillos en los laterales.",
+  "details": "COMPOSICIÓN\n\nSudadera:\n\n60% Algodón\n\n39% Poliéster\n\n1% Elastano\n\nPantalón largo:\n\n60% Algodón\n\n39% Poliéster\n\n1% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Sudadera:</strong></p>\n<p>60% Algodón</p>\n<p>39% Poliéster</p>\n<p>1% Elastano</p>\n<p><strong>Pantalón largo:</strong></p>\n<p>60% Algodón</p>\n<p>39% Poliéster</p>\n<p>1% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "798"
+  ],
+  "sourceDefaultCategoryId": "798",
+  "sourceCategoryName": "Chandals niño",
+  "price": 35.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94912",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502056",
+      "productSku": "2502056",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:17.474Z"
+    },
+    {
+      "id": "94913",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502056",
+      "productSku": "2502056",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:18.976Z"
+    },
+    {
+      "id": "94914",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502056",
+      "productSku": "2502056",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:20.418Z"
+    },
+    {
+      "id": "94915",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502056",
+      "productSku": "2502056",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:21.697Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20486-19852.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19852-large_default/chandal-skate-nino-azul-marino.jpg",
+      "alt": "Chandal skate niño Azul Marino",
+      "sourceId": "19852",
+      "variantIds": [],
+      "sha256": "81a9f6be8ee7092da99bdcf32cb569f0126044bf4aea19f9b9d3505499b6135b"
+    },
+    {
+      "path": "assets/20486-19853.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19853-large_default/chandal-skate-nino-azul-marino.jpg",
+      "alt": "Chandal skate niño Azul Marino",
+      "sourceId": "19853",
+      "variantIds": [],
+      "sha256": "a9ee08dac2f0b81730257ec788cc9034160ccce12f1eca48a030284e33067b70"
+    },
+    {
+      "path": "assets/20486-19854.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19854-large_default/chandal-skate-nino-azul-marino.jpg",
+      "alt": "Chandal skate niño Azul Marino",
+      "sourceId": "19854",
+      "variantIds": [],
+      "sha256": "ffece5f2a1f2c0d5e5580edb234ce9ee98f6dbea8c0eff3d905605adead07363"
+    },
+    {
+      "path": "assets/20486-19855.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19855-large_default/chandal-skate-nino-azul-marino.jpg",
+      "alt": "Chandal skate niño Azul Marino",
+      "sourceId": "19855",
+      "variantIds": [],
+      "sha256": "64d9834b374934f2ef3b5a65f98153dbf2ca7d47728b326718871073134cc1a7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:21.899Z",
+  "issues": []
+}

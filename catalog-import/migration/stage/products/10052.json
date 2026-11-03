@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10052",
+  "sourceUrl": "https://babyhogarinfantil.com/patucos/10052-patuco-pompom-pelo-azul.html",
+  "name": "Patuco pompom pelo Azul",
+  "brand": "Mac Ilusión",
+  "sku": "2208170",
+  "description": "Patucos invierno 100% acrílico Bayer antialérgico.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "779"
+  ],
+  "sourceDefaultCategoryId": "779",
+  "sourceCategoryName": "Patucos",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70769",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10656XA16547",
+      "productSku": "2208170",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:23.070Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10052-8107.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8107-large_default/patuco-pompom-pelo-azul.jpg",
+      "alt": "Patuco pompom pelo Azul",
+      "sourceId": "8107",
+      "variantIds": [],
+      "sha256": "9eb4831dde468c9ee1d15ca39ee8d692ef842213b17c80d195e78f6493ca0297"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:23.111Z",
+  "issues": []
+}

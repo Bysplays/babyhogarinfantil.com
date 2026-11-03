@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "6158",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/6158-calcetin-corto-algodon-puno-labrado-rosa.html",
+  "name": "Calcetín corto algodón puño labrado Rosa",
+  "brand": "Condor",
+  "sku": "687",
+  "description": "Calcetines cortos ROSAS con el puño labrado de primavera para bebé y niñ@s hasta talla 6. Ver guía de tallas en las imágenes. HECHO EN ESPAÑA",
+  "details": "Composición:\n\n70% ALGODON, 30% POLIAMIDA.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>70% ALGODON, 30% POLIAMIDA.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "846",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 4.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62681",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:21.384Z"
+    },
+    {
+      "id": "62683",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:24.316Z"
+    },
+    {
+      "id": "62684",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:28.635Z"
+    },
+    {
+      "id": "62685",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:31.329Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6158-4061.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4061-large_default/calcetin-corto-algodon-puno-labrado-rosa.jpg",
+      "alt": "Calcetín corto algodón puño labrado Rosa",
+      "sourceId": "4061",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6158-4060.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4060-large_default/calcetin-corto-algodon-puno-labrado-rosa.jpg",
+      "alt": "Calcetín corto algodón puño labrado Rosa",
+      "sourceId": "4060",
+      "variantIds": [],
+      "sha256": "d6223edfb419dfdd9939a06788df07b094c758a1067ed8770965ae7f8ba5565d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:31.505Z",
+  "issues": []
+}

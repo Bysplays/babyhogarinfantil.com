@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "7730",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/7730-pijama-tundosado-nino-azul-marino.html",
+  "name": "Pijama tundosado niño Azul marino",
+  "brand": "Zippy",
+  "sku": "1904083",
+  "description": "Pijama tundosado para invierno. Con coderas de cuadros a juego con el pantalón.",
+  "details": "Pijamita de ZIPPY, una de nuestras marcas más chulas. Con cuello redondo y cierre con botones en el pecho. De tejido polar en color azul marino, tiene coderas de tela con estampado de cuadritos. Como adorno, un bolsillo en el pecho. El pantalón es de algodón, con el mismo estampado de las coderas y con goma ajustable en la cintura. Un pijama muy cómodo y calentito, perfecto para las noches de frío y para estar muy a gusto en casa. \n\nComposición y cuidados:\n\nCamiseta: 75% algodón, 25% poliéster\n\nPantalón: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO SECAR EN SECADORA\n\nNO LAVAR EN SECO\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pijamita de <strong>ZIPPY</strong>, una de nuestras marcas más chulas. Con cuello redondo y cierre con botones en el pecho. De tejido polar en color azul marino, tiene coderas de tela con estampado de cuadritos. Como adorno, un bolsillo en el pecho. El pantalón es de algodón, con el mismo estampado de las coderas y con goma ajustable en la cintura. Un pijama muy cómodo y calentito, perfecto para las noches de frío y para estar muy a gusto en casa. </p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 75% algodón, 25% poliéster</p>\n<p>Pantalón: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO SECAR EN SECADORA</p>\n<p>NO LAVAR EN SECO</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66235",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1904083",
+      "productSku": "1904083",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:09.442Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7730-10516.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10516-large_default/pijama-tundosado-nino-azul-marino.jpg",
+      "alt": "Pijama tundosado niño Azul marino",
+      "sourceId": "10516",
+      "variantIds": [],
+      "sha256": "71b44a7ba9299eb0686faac4edacbf20cf425e3c1a09d129a7b39208325f891a"
+    },
+    {
+      "path": "assets/7730-10517.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10517-large_default/pijama-tundosado-nino-azul-marino.jpg",
+      "alt": "Pijama tundosado niño Azul marino",
+      "sourceId": "10517",
+      "variantIds": [],
+      "sha256": "d91fd1c4535c5a4677d9022a7f3f78ffb8d5a5d3617f97e61057bf8378e25241"
+    },
+    {
+      "path": "assets/7730-5775.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5775-large_default/pijama-tundosado-nino-azul-marino.jpg",
+      "alt": "Pijama tundosado niño Azul marino",
+      "sourceId": "5775",
+      "variantIds": [],
+      "sha256": "ab023487e3a6e328454f37766f2a55080a2e40ad297518ff6ea4ff779c7b82a0"
+    },
+    {
+      "path": "assets/7730-5772.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5772-large_default/pijama-tundosado-nino-azul-marino.jpg",
+      "alt": "Pijama tundosado niño Azul marino",
+      "sourceId": "5772",
+      "variantIds": [],
+      "sha256": "78485ae7716d53d32707415cb7cdc2eb5a217f51cac766f8aae67b36cd50d428"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:09.662Z",
+  "issues": []
+}

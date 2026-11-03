@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "8112",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/8112-calcetin-corto-perle-calado-ondas-azul-marino.html",
+  "name": "Calcetín corto perlé calado ONDAS Azul Marino",
+  "brand": "Condor",
+  "sku": "2002120",
+  "description": "Calcetín corto calado 100% ALGODÓN perlé con tobillo elástico.",
+  "details": "Calcetín corto de CONDOR, una de nuestras firmas estrella! 100% algodón, con pequeños calados y tobillo elástico. Una prenda perfecta para completar cualquier conjunto o vestido, tejido fresco, ligero y transpirable. Echa un ojito a nuestro calzado, leotardos o medias por la rodilla y podrás escoger la opción que mejor se adapte a lo que necesitas!\n\nComposición y cuidados:\n\nCalcetines: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Calcetín corto de <strong>CONDOR</strong>, una de nuestras firmas estrella! <strong>100% algodón</strong>, con pequeños calados y tobillo elástico. Una prenda perfecta para completar cualquier conjunto o vestido, tejido fresco, ligero y transpirable. Echa un ojito a nuestro <strong>calzado, leotardos o medias por la rodilla</strong> y podrás escoger la opción que mejor se adapte a lo que necesitas!</p>\n<p>Composición y cuidados:</p>\n<p>Calcetines: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "846",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 4.4,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:33",
+  "sourceUpdatedAt": "2026-10-27 11:10:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 10,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66981",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "2002120",
+      "productSku": "2002120",
+      "taxRate": 21,
+      "price": 4.4,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:21.218Z"
+    },
+    {
+      "id": "66982",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "2002120",
+      "productSku": "2002120",
+      "taxRate": 21,
+      "price": 4.4,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:24.158Z"
+    },
+    {
+      "id": "66983",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2002120",
+      "productSku": "2002120",
+      "taxRate": 21,
+      "price": 4.4,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:26.790Z"
+    },
+    {
+      "id": "66984",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2002120",
+      "productSku": "2002120",
+      "taxRate": 21,
+      "price": 4.4,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:30.039Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8112-8226.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8226-large_default/calcetin-corto-perle-calado-ondas-azul-marino.jpg",
+      "alt": "Calcetín corto perlé calado ONDAS Azul Marino",
+      "sourceId": "8226",
+      "variantIds": [],
+      "sha256": "5fd0e79e0e6c2a833fd2a222e954d904ff863a4aa875a27341e6f30d9882558a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:30:30.108Z",
+  "issues": []
+}

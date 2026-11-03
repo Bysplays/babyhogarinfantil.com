@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "id": "6280",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6280-leotardo-punto-liso-terracota.html",
+  "name": "Leotardo punto liso Terracota",
+  "brand": "Condor",
+  "sku": "1017",
+  "description": "Leotardos color TERRACOTA de algodón lisos en muchos colores. Disponibles en tallas de 0-3 meses a 16 años.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los primeros meses de tu bebé, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que el bebé se mueva con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. HECHO EN ESPAÑA\n\nComposición y cuidados:\n\n\nLeotardos: 75% algodón, 22% poliamida, 3% elastano.\n\nNO USAR LEJIAS.\n\nNO USAR SECADORA.\n\nNO PLANCHAR.\n\nNO LAVAR EN SECO.",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de <strong>CONDOR</strong> son sin duda una de las prendas más funcionales para los primeros meses de tu bebé, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que el bebé se mueva con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. <strong><span style=\"text-decoration:underline;\">HECHO EN ESPAÑA</span></strong></p>\n<p>Composición y cuidados:<strong><span style=\"text-decoration:underline;\"><br /></span></strong></p>\n<p>Leotardos: 75% algodón, 22% poliamida, 3% elastano.</p>\n<p>NO USAR LEJIAS.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO PLANCHAR.</p>\n<p>NO LAVAR EN SECO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Terracota",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14.21,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63172",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "909XA11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:26.398Z"
+    },
+    {
+      "id": "144516",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "909XB11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:29.475Z"
+    },
+    {
+      "id": "63173",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "909XC11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:32.231Z"
+    },
+    {
+      "id": "144517",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "909XD11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:35.017Z"
+    },
+    {
+      "id": "98527",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "909XE11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:38.943Z"
+    },
+    {
+      "id": "144518",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "909XF11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:42.502Z"
+    },
+    {
+      "id": "98528",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "909XG11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:47.151Z"
+    },
+    {
+      "id": "144519",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "909XH11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:54.248Z"
+    },
+    {
+      "id": "144520",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "909XI11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:00.157Z"
+    },
+    {
+      "id": "144521",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "909XJ11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:04.198Z"
+    },
+    {
+      "id": "144522",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "909XK11946",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:07.583Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6280-4251.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4251-large_default/leotardo-punto-liso-terracota.jpg",
+      "alt": "Leotardo punto liso Terracota",
+      "sourceId": "4251",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6280-9498.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9498-large_default/leotardo-punto-liso-terracota.jpg",
+      "alt": "Leotardo punto liso Terracota",
+      "sourceId": "9498",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6280-4250.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4250-large_default/leotardo-punto-liso-terracota.jpg",
+      "alt": "Leotardo punto liso Terracota",
+      "sourceId": "4250",
+      "variantIds": [],
+      "sha256": "fe452f9000daf82f32e53a96a12439b28e056172c33ba53a3fbbf3dd48c3896f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:29:08.964Z",
+  "issues": []
+}

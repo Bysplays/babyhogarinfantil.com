@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "6126",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-verano/6126-leotardo-perle-calado-nata.html",
+  "name": "Leotardo perlé calado Nata",
+  "brand": "Condor",
+  "sku": "683",
+  "description": "Leotardo de perlé calado, con detalles de espigas en los laterales, ideal para primavera y verano.",
+  "details": "Leotardos de CÓNDOR, una de nuestras firmas favoritas! Un modelo cómodo y versátil en más de 20 colores. Confeccionados en hilo de perlé calado, ideales para primavera y verano, pues su tejido es fresco, ligero y transpirable! Detalles de espiga en los laterales y puntitos en la parte delantera y trasera. Echa un ojito a nuestro calzado, calcetines y medias de perlé y podrás escoger la opción que mejor se adapte a lo que necesitas! \n\nComposición y cuidados:\n\nLeotardos: 80% Algodón 20% Poliamida.\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR\n\nLAVAR A 30º RECOMENDADO\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;border:0px;line-height:inherit;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;vertical-align:baseline;color:#777777;\"><span style=\"margin:0px;padding:0px;border:0px;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;font-family:inherit;vertical-align:baseline;\">Leotardos de<strong> CÓNDOR</strong>, una de nuestras firmas favoritas! Un modelo cómodo y versátil en más de 20 colores. Confeccionados en <strong>hilo de perlé calado</strong>, ideales para primavera y verano, pues su tejido es fresco, ligero y transpirable! Detalles de espiga en los laterales y puntitos en la parte delantera y trasera. Echa un ojito a nuestro <strong>calzado, calcetines y medias de perlé</strong> y podrás escoger la opción que mejor se adapte a lo que necesitas! </span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">Composición y cuidados:</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">Leotardos: 80% Algodón 20% Poliamida.</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">NO USAR LEJÍAS</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">NO USAR SECADORA</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">NO PLANCHAR</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">LAVAR A 30º RECOMENDADO</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\"> </span></p>\n<p><strong><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">FABRICADO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nata",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "676",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "676",
+  "sourceCategoryName": "Leotardos Verano",
+  "price": 13.61,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:18",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62505",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:00.816Z"
+    },
+    {
+      "id": "62504",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:03.774Z"
+    },
+    {
+      "id": "76998",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:06.189Z"
+    },
+    {
+      "id": "91805",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:08.643Z"
+    },
+    {
+      "id": "62508",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:11.522Z"
+    },
+    {
+      "id": "77000",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 15.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:14.692Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6126-9364.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9364-large_default/leotardo-perle-calado-nata.jpg",
+      "alt": "Leotardo perlé calado Nata",
+      "sourceId": "9364",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6126-4003.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4003-large_default/leotardo-perle-calado-nata.jpg",
+      "alt": "Leotardo perlé calado Nata",
+      "sourceId": "4003",
+      "variantIds": [],
+      "sha256": "4ae1b6ce8a5764dfa42ed1c78d0cfc92cd0e4262bed43afe228a8a4694a49df0"
+    },
+    {
+      "path": "assets/6126-4002.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4002-large_default/leotardo-perle-calado-nata.jpg",
+      "alt": "Leotardo perlé calado Nata",
+      "sourceId": "4002",
+      "variantIds": [],
+      "sha256": "d3e41792b181239c7d4c99793f9d4fff73d9995ced6f20145227c66896638128"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:26:14.915Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8541",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/8541-bota-lazo-pom-pom-pelo-charol-camel.html",
+  "name": "Bota lazo pom pom pelo Charol camel",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2011019",
+  "description": "Botín de piel en color camel, acabado charol. Cierre con tira de velcro, adornada con pompón. Disponible en color rojo mate.",
+  "details": "Botín de piel en color camel, acabado charol. Cierre con tira de velcro, adornada con un pompón muy suave, fácilmente ajustable al pie. Forrado en su interior. Un calzado cómodo y muy ligero, perfecto para los peques que empiezan a usar zapatos. Al ser botín, es ligeramente más alto y sujeta mejor el pie, evitando que se escape o se pierda. Disponible en color rojo mate. La talla 19 está disponible con suela blanda y con semi-suela, para aquellos bebés que comiencen a caminar. \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Botín de <strong>piel</strong> en color camel, acabado charol. Cierre con tira de velcro, adornada con un pompón muy suave, fácilmente ajustable al pie. Forrado en su interior. Un calzado cómodo y muy ligero, perfecto para los peques que empiezan a usar zapatos. Al ser botín, es ligeramente más alto y sujeta mejor el pie, evitando que se escape o se pierda. <strong>Disponible en color rojo mate. La talla 19 está disponible con suela blanda y con semi-suela, para aquellos bebés que comiencen a caminar. </strong></p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charol camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:38",
+  "sourceUpdatedAt": "2026-10-27 11:10:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "262",
+          "label": "19"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67564",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "2011019",
+      "productSku": "2011019",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:41.106Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8541-11283.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11283-large_default/bota-lazo-pom-pom-pelo-charol-camel.jpg",
+      "alt": "Bota lazo pom pom pelo Charol camel",
+      "sourceId": "11283",
+      "variantIds": [],
+      "sha256": "c23faf01e32bd87876144466250d0ce6526fdcde4372bcf7dd8912936af22bdd"
+    },
+    {
+      "path": "assets/8541-6865.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6865-large_default/bota-lazo-pom-pom-pelo-charol-camel.jpg",
+      "alt": "Bota lazo pom pom pelo Charol camel",
+      "sourceId": "6865",
+      "variantIds": [],
+      "sha256": "e69dd077ecbb4a359166a0296caa51edce935bfa98c067811a6f980f0a65e410"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:41.185Z",
+  "issues": []
+}

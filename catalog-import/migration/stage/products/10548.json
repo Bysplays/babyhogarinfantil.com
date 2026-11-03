@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10548",
+  "sourceUrl": "https://babyhogarinfantil.com/-primera-puesta-0-a-3/10548-conjunto-algodon-con-polaina-gris.html",
+  "name": "Conjunto algodon con polaina Gris",
+  "brand": "Calamaro",
+  "sku": "2301286",
+  "description": "Conjunto de primera puesta para recién nacido, en algodón",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "819",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "819",
+  "sourceCategoryName": "Primera puesta 0 a 3",
+  "price": 21.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-21 16:21:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72238",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2301286",
+      "productSku": "2301286",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:46.380Z"
+    },
+    {
+      "id": "72239",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2301286",
+      "productSku": "2301286",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:47.203Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10548-13640.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13640-large_default/conjunto-algodon-con-polaina-gris.jpg",
+      "alt": "Conjunto algodon con polaina Gris",
+      "sourceId": "13640",
+      "variantIds": [],
+      "sha256": "abd6903a89b077fa5ccd43ddaf2a2d7f3be03e2202f1a9a73ea1ad2ef6e32c0b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:51:47.278Z",
+  "issues": []
+}

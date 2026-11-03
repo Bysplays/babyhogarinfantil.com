@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6490",
+  "sourceUrl": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/6490-bolsa-merienda-con-bolsillo-rojo.html",
+  "name": "Bolsa merienda con Bolsillo Rojo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1580049",
+  "description": "Bolsa para merienda, con bolsillo serigrafiado. Combínala con el mandilón del mismo color. Puedes bordar el nombre y personalizarlo! LOS MODELOS DE DIBUJOS PUEDEN VARIAR SEGÚN DISPONBILIDAD.",
+  "details": "Bolsa de tela para la merienda, con bolsillo serigrafiado. Cierre con cordón fruncido. El bolsillo tiene velcro. En diferentes colores. Puedes combinarlo con el mandilón del mismo color y personalizar ambas cosas con el nombre de tu peque bordado para que no la pierda! Los modelos de dibujos pueden variar según disponibilidad. \n\nMedidas:\n\nAlto: 31cm.\n\nAncho: 21cm.\n\nComposición:\n\nBolsas: 67% poliéster, 33% algodón.",
+  "sourceDescriptionHtml": "<p>Bolsa de tela para la merienda, con bolsillo serigrafiado. Cierre con cordón fruncido. El bolsillo tiene velcro. En diferentes colores. Puedes combinarlo con el <strong>mandilón del mismo color y personalizar ambas cosas con el nombre de tu peque bordado</strong> para que no la pierda! <strong>Los modelos de dibujos pueden variar según disponibilidad. </strong></p>\n<p>Medidas:</p>\n<p>Alto: 31cm.</p>\n<p>Ancho: 21cm.</p>\n<p>Composición:</p>\n<p>Bolsas: 67% poliéster, 33% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "704",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "704",
+  "sourceCategoryName": "Mochilas y bolsas merienda",
+  "price": 3,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:13",
+  "sourceUpdatedAt": "2026-10-27 11:08:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63690",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "1992XA9011",
+      "productSku": "1580049",
+      "taxRate": 21,
+      "price": 3,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:43.398Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6490-4452.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4452-large_default/bolsa-merienda-con-bolsillo-rojo.jpg",
+      "alt": "Bolsa merienda con Bolsillo Rojo",
+      "sourceId": "4452",
+      "variantIds": [],
+      "sha256": "564e5a6a378f17f435620c0861a4572f080b6659a11478e993eb8d7e32c9cbb9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:43.480Z",
+  "issues": []
+}

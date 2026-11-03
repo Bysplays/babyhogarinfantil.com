@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "id": "6299",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-cortos-lisos/6299-calcetin-basico-punto-liso-granate.html",
+  "name": "Calcetín básico punto liso Granate",
+  "brand": "Condor",
+  "sku": "1032",
+  "description": "Calcetines cortos GARNATE básicos de algodón en punto liso.",
+  "details": "COMPOSICIÓN :\n\n\nCalcetín granate: 75% ALGODON 22% POLIAMIDA 3% ELASTANO\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN :</p>\n<p><br />Calcetín granate: 75% ALGODON 22% POLIAMIDA 3% ELASTANO</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Granate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "687",
+    "840",
+    "868",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "687",
+  "sourceCategoryName": "Calcetines cortos lisos",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 14,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63240",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:32.788Z"
+    },
+    {
+      "id": "63241",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:35.447Z"
+    },
+    {
+      "id": "63242",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:38.532Z"
+    },
+    {
+      "id": "63243",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:40.621Z"
+    },
+    {
+      "id": "63244",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:43.819Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6299-4285.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4285-large_default/calcetin-basico-punto-liso-granate.jpg",
+      "alt": "Calcetín básico punto liso Granate",
+      "sourceId": "4285",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6299-4284.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4284-large_default/calcetin-basico-punto-liso-granate.jpg",
+      "alt": "Calcetín básico punto liso Granate",
+      "sourceId": "4284",
+      "variantIds": [],
+      "sha256": "2ffbb6480a464cb313367edc88f668dc9e2e91fecbd47a7afa2608730599ec55"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:43.944Z",
+  "issues": []
+}

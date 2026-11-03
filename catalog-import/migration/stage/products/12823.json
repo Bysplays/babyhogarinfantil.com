@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "12823",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/12823-conjunto-nino-tropical-vibes-azul.html",
+  "name": "Conjunto niño Tropical Vibes Azul",
+  "brand": "Talaman",
+  "sku": "2301336",
+  "description": "Conjunto de dos piezas de algodón, compuesto por camiseta de manga corta en color blanco con estampado y pantalón estilo DIY\n\nComposición:\n\nCamiseta: 100% algodón.\n\nPantalón: 100% algodón.\n\nHECHO EN INDIA",
+  "details": "Descubre los Colores Tropicales\n\n\nUn conjunto lleno de alegría, brillo y colores vibrantes. Este conjunto Tropical Vibes Azul te ofrece un espectacular diseño lleno de frescura y energía. Los patrotones juguetones y vivos dan vida a cada pieza, deleitando a pequeños y grandes por igual. Perfecto para días calurosos de verano, aventuras en la playa o picnics en el parque.\n \n\nCalidad y Comodidad Incomparables\n\n\nFabricado con materiales de primera calidad, este conjunto es suave al tacto y cómodo para los pequeños aventureros. Los tejidos ligeros y transpirables aseguran que tu pequeño esté fresco y contento durante todo el día, mientras que la confección duradera garantiza que se mantenga en excelentes condiciones aun después de numerosas lavadas y uso diario.\n\n\nEstilo Divertido y Actual\n\n\nEl conjunto niño Tropical Vibes Azul no solo es súper cómodo, sino también absolutamente moderno. Los atrevidos estampados tropicales son tendencia este año, por lo que tu pequeño estará a la moda, lleno de estilo y listo para infinidad de fotos adorables. La versatilidad de este conjunto lo hace perfecto para cualquier ocasión, ya sea un paseo casual por el vecindario o una celebración especial.\n\n\nNo esperes más, lleva el conjunto niño Tropical Vibes Azul a casa y permite que tu pequeño brille y destaque en cualquier lugar y a cualquier hora. ¡Haz clic en \\'Agregar a la cesta\\' ahora mismo!",
+  "sourceDescriptionHtml": "<h2>Descubre los Colores Tropicales</h2>\n\n<p>Un conjunto lleno de alegría, brillo y colores vibrantes. Este conjunto Tropical Vibes Azul te ofrece un espectacular diseño lleno de frescura y energía. Los patrotones juguetones y vivos dan vida a cada pieza, deleitando a pequeños y grandes por igual. Perfecto para días calurosos de verano, aventuras en la playa o picnics en el parque.</p> \n\n<h2>Calidad y Comodidad Incomparables</h2>\n\n<p>Fabricado con materiales de primera calidad, este conjunto es suave al tacto y cómodo para los pequeños aventureros. Los tejidos ligeros y transpirables aseguran que tu pequeño esté fresco y contento durante todo el día, mientras que la confección duradera garantiza que se mantenga en excelentes condiciones aun después de numerosas lavadas y uso diario.</p>\n\n<h2>Estilo Divertido y Actual</h2>\n\n<p>El conjunto niño Tropical Vibes Azul no solo es súper cómodo, sino también absolutamente moderno. Los atrevidos estampados tropicales son tendencia este año, por lo que tu pequeño estará a la moda, lleno de estilo y listo para infinidad de fotos adorables. La versatilidad de este conjunto lo hace perfecto para cualquier ocasión, ya sea un paseo casual por el vecindario o una celebración especial.</p>\n\n<p>No esperes más, lleva el conjunto niño Tropical Vibes Azul a casa y permite que tu pequeño brille y destaque en cualquier lugar y a cualquier hora. ¡Haz clic en \\'Agregar a la cesta\\' ahora mismo!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-29 16:18:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72354",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2301336",
+      "productSku": "2301336",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:13.227Z"
+    },
+    {
+      "id": "72355",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2301336",
+      "productSku": "2301336",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:16.041Z"
+    },
+    {
+      "id": "72356",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2301336",
+      "productSku": "2301336",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:18.741Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12823-13757.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13757-large_default/conjunto-nino-tropical-vibes-azul.jpg",
+      "alt": "Conjunto niño Tropical Vibes Azul",
+      "sourceId": "13757",
+      "variantIds": [],
+      "sha256": "db9acda7e1ab474856c766f846be60b1e7a2cfccf2647a52083621c3596718af"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:18.816Z",
+  "issues": []
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "21262",
+  "sourceUrl": "https://babyhogarinfantil.com/baberos/21262-babero-con-mangas-minnie-fucsia.html",
+  "name": "Babero con mangas Minnie Fucsia",
+  "brand": "Interbaby",
+  "sku": "2104019",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "800",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "800",
+  "sourceCategoryName": "Baberos",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-16 23:53:18",
+  "sourceUpdatedAt": "2026-10-27 11:11:01",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147008",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8898XA14130",
+      "productSku": "2104019",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:07.837Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:07.837Z",
+  "issues": [
+    "No verified images"
+  ]
+}

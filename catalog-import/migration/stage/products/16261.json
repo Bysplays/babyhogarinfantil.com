@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "id": "16261",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/16261-calcetin-corto-perle-calado-cava.html",
+  "name": "Calcetín corto perlé calado Cava",
+  "brand": "Condor",
+  "sku": "684",
+  "description": "Calcetín de perlé con calados",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cava",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "846",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 4.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-06 00:30:22",
+  "sourceUpdatedAt": "2026-10-27 11:08:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 34,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72811",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 11,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:10.683Z"
+    },
+    {
+      "id": "83930",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:13.290Z"
+    },
+    {
+      "id": "72812",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:15.703Z"
+    },
+    {
+      "id": "72813",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:18.768Z"
+    },
+    {
+      "id": "83931",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:21.599Z"
+    },
+    {
+      "id": "72814",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 5.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:24.329Z"
+    },
+    {
+      "id": "72815",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 5.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:27.414Z"
+    },
+    {
+      "id": "72816",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 5.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:30.212Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16261-14008.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14008-large_default/calcetin-corto-perle-calado-cava.jpg",
+      "alt": "Calcetín corto perlé calado Cava",
+      "sourceId": "14008",
+      "variantIds": [],
+      "sha256": "1f8a082ad3113951c089ee2070fdafa0fe45dd46c9583c1f8775364ab4d47842"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:30:30.285Z",
+  "issues": []
+}

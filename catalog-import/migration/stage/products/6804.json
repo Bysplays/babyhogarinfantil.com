@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6804",
+  "sourceUrl": "https://babyhogarinfantil.com/velas-para-bautizo/6804-vela-para-bautizo-paloma-crudo.html",
+  "name": "Vela para bautizo PALOMA Crudo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1704018",
+  "description": "Vela para el padrino de la ceremonia, con detalle de paloma. Guárdala después para la 1ª comunión.\n\nMedias alto 30 cm Diámetro 2,5 cm.",
+  "details": "Recuerda que disponemos de todo lo necesario para el bautizo, desde el faldón o vestido y el traje hasta todos los complementos para el bautizo, como las toquillas, la vela para el padrino, y los paños bautismales que puedes personalizar con nombre y fecha. Consúltalo todo en nuestras secciones de bautizo, y no dudes en llamarnos para cualquier aclaración a nuestros teléfono 886 166 179 o por WSP 695 251 402",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\"><span style=\"font-size:10pt;line-height:107%;font-family:robotoregular;color:#777777;\">Recuerda que disponemos de todo lo necesario para el bautizo, desde el faldón o vestido y el traje hasta todos los complementos para el bautizo, como las<strong><span style=\"font-family:robotoregular;\"> toquillas</span></strong>, la<strong><span style=\"font-family:robotoregular;\"> vela para el padrino</span></strong>, y los <strong><span style=\"font-family:robotoregular;\">paños bautismales</span></strong> que puedes personalizar con nombre y fecha. Consúltalo todo en nuestras secciones de bautizo, y no dudes en llamarnos para cualquier aclaración a nuestros teléfono <strong><span style=\"font-family:robotoregular;\">886 166 179</span></strong> o por WSP <strong><span style=\"font-family:robotoregular;\">695 251 402</span></strong></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "814",
+    "731"
+  ],
+  "sourceDefaultCategoryId": "731",
+  "sourceCategoryName": "Velas para bautizo",
+  "price": 18.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:17",
+  "sourceUpdatedAt": "2026-10-27 11:09:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": -1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "145337",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "3636XA6669",
+      "productSku": "1704018",
+      "taxRate": 21,
+      "price": 18.98,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:04.601Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6804-17312.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17312-large_default/vela-para-bautizo-paloma-crudo.jpg",
+      "alt": "Vela para bautizo PALOMA Crudo",
+      "sourceId": "17312",
+      "variantIds": [],
+      "sha256": "4eca090369e4c4e0d2bb4084e019a7c4dcca2ad6601db734a13c61fe86ab7dc3"
+    },
+    {
+      "path": "assets/6804-17318.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17318-large_default/vela-para-bautizo-paloma-crudo.jpg",
+      "alt": "vela para bautizo paloma",
+      "sourceId": "17318",
+      "variantIds": [],
+      "sha256": "da6048181e61a8c144085a23d65eec1470b1ca8edb2295fe984c3807c96f224a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:04.678Z",
+  "issues": []
+}

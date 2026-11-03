@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "7502",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-antideslizantes/7502-calcetin-antideslizante-liso-azul-marino.html",
+  "name": "Calcetin antideslizante liso Azul Marino",
+  "brand": "Sterntaler",
+  "sku": "1901002",
+  "description": "Calcetín antideslizante color AZUL MARINO, Con suela de silicona.",
+  "details": "Composición:\n\nCalcetines antideslizantes: 85% algodón, 10% poliamida, 5% elastano.\n\nNO PLANCHAR\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Calcetines antideslizantes: 85% algodón, 10% poliamida, 5% elastano.</p>\n<p>NO PLANCHAR</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "752",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "752",
+  "sourceCategoryName": "Calcetines Antideslizantes",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:25",
+  "sourceUpdatedAt": "2026-10-27 11:10:07",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "287",
+          "label": "34"
+        },
+        {
+          "id": "297",
+          "label": "19/20"
+        },
+        {
+          "id": "314",
+          "label": "15/16"
+        },
+        {
+          "id": "315",
+          "label": "17/18"
+        },
+        {
+          "id": "316",
+          "label": "21/22"
+        },
+        {
+          "id": "317",
+          "label": "23/24"
+        },
+        {
+          "id": "318",
+          "label": "25/26"
+        },
+        {
+          "id": "319",
+          "label": "27/28"
+        },
+        {
+          "id": "327",
+          "label": "29/30"
+        },
+        {
+          "id": "328",
+          "label": "31/32"
+        },
+        {
+          "id": "329",
+          "label": "33/34"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "91741",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "328",
+          "group": "Tamaño",
+          "value": "31/32"
+        }
+      ],
+      "sku": "5853XI9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:20.739Z"
+    },
+    {
+      "id": "145890",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "287",
+          "group": "Tamaño",
+          "value": "34"
+        }
+      ],
+      "sku": "5853XK9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:22.446Z"
+    },
+    {
+      "id": "145886",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "297",
+          "group": "Tamaño",
+          "value": "19/20"
+        }
+      ],
+      "sku": "5853XC9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:24.358Z"
+    },
+    {
+      "id": "145884",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "314",
+          "group": "Tamaño",
+          "value": "15/16"
+        }
+      ],
+      "sku": "5853XA9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:26.312Z"
+    },
+    {
+      "id": "145885",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "315",
+          "group": "Tamaño",
+          "value": "17/18"
+        }
+      ],
+      "sku": "5853XB9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:28.036Z"
+    },
+    {
+      "id": "145887",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "316",
+          "group": "Tamaño",
+          "value": "21/22"
+        }
+      ],
+      "sku": "5853XD9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:29.768Z"
+    },
+    {
+      "id": "96540",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "317",
+          "group": "Tamaño",
+          "value": "23/24"
+        }
+      ],
+      "sku": "5853XE9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:31.760Z"
+    },
+    {
+      "id": "96541",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "318",
+          "group": "Tamaño",
+          "value": "25/26"
+        }
+      ],
+      "sku": "5853XF9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:33.837Z"
+    },
+    {
+      "id": "145888",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "319",
+          "group": "Tamaño",
+          "value": "27/28"
+        }
+      ],
+      "sku": "5853XG9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:35.765Z"
+    },
+    {
+      "id": "145889",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "327",
+          "group": "Tamaño",
+          "value": "29/30"
+        }
+      ],
+      "sku": "5853XH9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:37.458Z"
+    },
+    {
+      "id": "91742",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "329",
+          "group": "Tamaño",
+          "value": "33/34"
+        }
+      ],
+      "sku": "5853XJ9987",
+      "productSku": "1901002",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:39.236Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7502-5426.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5426-large_default/calcetin-antideslizante-liso-azul-marino.jpg",
+      "alt": "Calcetin antideslizante liso Azul Marino",
+      "sourceId": "5426",
+      "variantIds": [],
+      "sha256": "f9de6e78da7b27984c255bfee161449a0bba7038e348fffd4ef24e5359cbefdc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:10:39.316Z",
+  "issues": []
+}

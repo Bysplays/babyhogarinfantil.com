@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "7296",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/7296-abrigo-pelo-purpurin-rosa.html",
+  "name": "Abrigo pelo PURPURIN Rosa",
+  "brand": "Mac Ilusión",
+  "sku": "1807146",
+  "description": "Prepárate para esta hermosa prenda: el Abrigo de Pelo PURPURIN te cautivará a primera vista. Su tonalidad rosa con un toque de purpurina dará un brillo único a tu pequeña princesa, haciéndola resplandecer en todas las ocasiones. Además de ser irresistiblemente adorable, este producto está confeccionado con los materiales más finos, garantizando comodidad y durabilidad. Cada detalle ha sido diseñado pensando en el bienestar y la delicada piel de tu bebé. No sólo es una prenda cálida y confortable, sino que también le confiere un estilo moderno y alegre. Atrapa todas las miradas con este imprescindible abrigo PURPURIN rosa. ¡No esperes más, añádelo a tu cesta ahora!",
+  "details": "Lujo Infinito\n\nEnvuelve a tu pequeña en cálidos abrazos con el Abrigo de Pelo PURPURIN en color Rosa. Una pieza de alta calidad y exquisito diseño, perfecta para agregar un toque de lujo y encanto a su pequeño ropero.\n\nElegancia con Confort\n\nEl Abrigo de Pelo PURPURIN Rosa no es solo una prenda llamativa, también proporciona un confort excepcional. Su textura es suave al tacto y garantiza el máximo confort para esos días frescos. La perfecta combinación de estilo y funcionalidad.\n\nPuro Encanto Rosa\n\nEl rosa es un color que nunca pasa de moda, y en este abrigo de pelo, se eleva a nuevas alturas de encanto. Ideal para fiestas, reuniones o simplemente para los días regulares cuando tu pequeña quiera sentirse como una estrella.\n\n¡No esperes más! Añade este encantador abrigo de pelo PURPURIN Rosa a tu carrito y permite que tu pequeña brille con estilo propio.\n\nComposición:\n\nAbrigo: 100% poliéster.\n\nForro: 100% poliéster.\n\nNo usar secadora.\n\nNo usar lejias.",
+  "sourceDescriptionHtml": "<h2>Lujo Infinito</h2>\n<p>Envuelve a tu pequeña en cálidos abrazos con el Abrigo de Pelo PURPURIN en color Rosa. Una pieza de alta calidad y exquisito diseño, perfecta para agregar un toque de lujo y encanto a su pequeño ropero.</p>\n<h2>Elegancia con Confort</h2>\n<p>El Abrigo de Pelo PURPURIN Rosa no es solo una prenda llamativa, también proporciona un confort excepcional. Su textura es suave al tacto y garantiza el máximo confort para esos días frescos. La perfecta combinación de estilo y funcionalidad.</p>\n<h2>Puro Encanto Rosa</h2>\n<p>El rosa es un color que nunca pasa de moda, y en este abrigo de pelo, se eleva a nuevas alturas de encanto. Ideal para fiestas, reuniones o simplemente para los días regulares cuando tu pequeña quiera sentirse como una estrella.</p>\n<p>¡No esperes más! Añade este encantador abrigo de pelo PURPURIN Rosa a tu carrito y permite que tu pequeña brille con estilo propio.</p>\n<p>Composición:</p>\n<p>Abrigo: 100% poliéster.</p>\n<p>Forro: 100% poliéster.</p>\n<p>No usar secadora.</p>\n<p>No usar lejias.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 49.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:22",
+  "sourceUpdatedAt": "2026-10-27 11:09:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65514",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1807146",
+      "productSku": "1807146",
+      "taxRate": 21,
+      "price": 49.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:53.448Z"
+    },
+    {
+      "id": "65516",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "1807146",
+      "productSku": "1807146",
+      "taxRate": 21,
+      "price": 49.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:55.204Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7296-10177.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10177-large_default/abrigo-pelo-purpurin-rosa.jpg",
+      "alt": "Abrigo pelo PURPURIN Rosa",
+      "sourceId": "10177",
+      "variantIds": [],
+      "sha256": "a3015da5dc7b30be1e5b0d18948e0cd5c37f2317013dec21b8ae3875af9b50aa"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:55.247Z",
+  "issues": []
+}

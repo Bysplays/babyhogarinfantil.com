@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "id": "6362",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6362-leotardo-canale-azul-marino.html",
+  "name": "Leotardo canalé Azul Marino",
+  "brand": "Condor",
+  "sku": "1339",
+  "description": "Leotardo color AZUL MARINO algodón CANALE.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los niños y niñas, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que los niños y niñas se muevan con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. HECHO EN ESPAÑA\n\nComposición y cuidados:\n\nLeotardo: 75% algodón22% poliamida 3% elastano.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS QUE LA LIAS.\n\nNO PLANCHAR.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de <strong>CONDOR</strong> son sin duda una de las prendas más funcionales para los niños y niñas, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que los niños y niñas se muevan con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. <strong><span style=\"text-decoration:underline;\">HECHO EN ESPAÑA</span></strong></p>\n<p class=\"MsoNormal\">Composición y cuidados:</p>\n<p class=\"MsoNormal\">Leotardo: 75% algodón22% poliamida 3% elastano.</p>\n<p class=\"MsoNormal\">NO USAR SECADORA.</p>\n<p class=\"MsoNormal\">NO USAR LEJIAS QUE LA LIAS.</p>\n<p class=\"MsoNormal\">NO PLANCHAR.</p>\n<p class=\"MsoNormal\"><b>HECHO EN ESPAÑA</b></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "783",
+    "684",
+    "850",
+    "888"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14.21,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 29,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63386",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:06.601Z"
+    },
+    {
+      "id": "63387",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:08.642Z"
+    },
+    {
+      "id": "63388",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:10.706Z"
+    },
+    {
+      "id": "63389",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:13.585Z"
+    },
+    {
+      "id": "78050",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:15.736Z"
+    },
+    {
+      "id": "82136",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:17.949Z"
+    },
+    {
+      "id": "84698",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:20.007Z"
+    },
+    {
+      "id": "63392",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:22.665Z"
+    },
+    {
+      "id": "63393",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 19.81,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:25.030Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6362-4344.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4344-large_default/leotardo-canale-azul-marino.jpg",
+      "alt": "leotardo condor azul marino canale",
+      "sourceId": "4344",
+      "variantIds": [],
+      "sha256": "68a5b625e5dc96cf90ea7a8a4e29781a638688b19e5397d6ba2c983ae0768617"
+    },
+    {
+      "path": "assets/6362-20963.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20963-large_default/leotardo-canale-azul-marino.jpg",
+      "alt": "leotardo condor azul marino canale detalle tejido",
+      "sourceId": "20963",
+      "variantIds": [],
+      "sha256": "df060b71a0d6a267a5e8dd6b2f2bd6afb5182eebc5b353a705f41f1e1d8207d1"
+    },
+    {
+      "path": "assets/6362-4345.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4345-large_default/leotardo-canale-azul-marino.jpg",
+      "alt": "leotardo condor azul marino canale guia de tallas",
+      "sourceId": "4345",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:29:25.653Z",
+  "issues": []
+}

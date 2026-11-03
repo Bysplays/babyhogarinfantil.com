@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "16337",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-montesol/16337-pantalon-chandal-s-a-xl-azul-marino.html",
+  "name": "Pantalon chandal S a XL Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2304039",
+  "description": "Pantalón largo para deporte, cursos primaria y ESO uniforme colegio Montesol de Vigo.",
+  "details": "Pantalón largo del chandal del colegio MONTESOL de Vigo. Felpa perchada, con puño en tobillos.\n\nComposición:\n\nPantalón: 50% algodón, 50% poliéster.\n\nNO USAR SECADORA\n\nHECHO EN GALICIA",
+  "sourceDescriptionHtml": "<p>Pantalón largo del chandal del colegio MONTESOL de Vigo. Felpa perchada, con puño en tobillos.</p>\n<p>Composición:</p>\n<p>Pantalón: 50% algodón, 50% poliéster.</p>\n<p>NO USAR SECADORA</p>\n<p><strong>HECHO EN GALICIA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "850"
+  ],
+  "sourceDefaultCategoryId": "850",
+  "sourceCategoryName": "Colegio Montesol",
+  "price": 36,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-29 23:52:37",
+  "sourceUpdatedAt": "2026-10-27 11:12:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 16,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "274",
+          "label": "S"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        },
+        {
+          "id": "278",
+          "label": "XXL"
+        },
+        {
+          "id": "330",
+          "label": "XXXL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99579",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "274",
+          "group": "Tamaño",
+          "value": "S"
+        }
+      ],
+      "sku": "11313XA17429",
+      "productSku": "2304039",
+      "taxRate": 21,
+      "price": 36,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:34.377Z"
+    },
+    {
+      "id": "97442",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "11313XB17429",
+      "productSku": "2304039",
+      "taxRate": 21,
+      "price": 36,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:36.652Z"
+    },
+    {
+      "id": "130126",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "11313XC17429",
+      "productSku": "2304039",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:38.563Z"
+    },
+    {
+      "id": "76957",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "11313XD17429",
+      "productSku": "2304039",
+      "taxRate": 21,
+      "price": 37,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:40.448Z"
+    },
+    {
+      "id": "148667",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "278",
+          "group": "Tamaño",
+          "value": "XXL"
+        }
+      ],
+      "sku": "11313XE17429",
+      "productSku": "2304039",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:42.982Z"
+    },
+    {
+      "id": "148668",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "330",
+          "group": "Tamaño",
+          "value": "XXXL"
+        }
+      ],
+      "sku": "11313XF17429",
+      "productSku": "2304039",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:45.271Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16337-14085.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14085-large_default/pantalon-chandal-s-a-xl-azul-marino.jpg",
+      "alt": "Pantalon chandal S a XL Azul Marino",
+      "sourceId": "14085",
+      "variantIds": [],
+      "sha256": "d7ba8e0cabe33e2ca44838a41f6a3c88b31a262e54c0a3bfbe9379a865399f87"
+    },
+    {
+      "path": "assets/16337-14086.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14086-large_default/pantalon-chandal-s-a-xl-azul-marino.jpg",
+      "alt": "Pantalon chandal S a XL Azul Marino",
+      "sourceId": "14086",
+      "variantIds": [],
+      "sha256": "672cf13db1fee701d044736daf437dc5667e6e8458de157ab4db04b9c7e809d2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:33:45.409Z",
+  "issues": []
+}

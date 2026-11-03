@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "id": "21485",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/21485-pelele-pijama-entero-sin-pie-algodon-beige.html",
+  "name": "Pelele pijama entero sin pie algodón Beige",
+  "brand": "Yatsi",
+  "sku": "2502123",
+  "description": "Pijama entero de algodón. Se abre completamente por delante para facilitar la puesta. No tiene pie para una mayor comodidad del bebé.",
+  "details": "Composición:\n\nPijama: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Pijama: </strong>100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 20,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 11,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96749",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2502123",
+      "productSku": "2502123",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:37.655Z"
+    },
+    {
+      "id": "96750",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502123",
+      "productSku": "2502123",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:39.227Z"
+    },
+    {
+      "id": "96751",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502123",
+      "productSku": "2502123",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:40.828Z"
+    },
+    {
+      "id": "96752",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502123",
+      "productSku": "2502123",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:43.354Z"
+    },
+    {
+      "id": "96753",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502123",
+      "productSku": "2502123",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:45.716Z"
+    },
+    {
+      "id": "96754",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502123",
+      "productSku": "2502123",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:48.362Z"
+    },
+    {
+      "id": "96755",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502123",
+      "productSku": "2502123",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:51.362Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21485-20040.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20040-large_default/pelele-pijama-entero-sin-pie-algodon-beige.jpg",
+      "alt": "Pelele pijama entero sin pie algodón Beige",
+      "sourceId": "20040",
+      "variantIds": [],
+      "sha256": "de8b765398470854b4fbacc899ef0e102df394563b64987c8a4cb34306451aee"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:51.429Z",
+  "issues": []
+}

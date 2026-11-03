@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10224",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nina/10224-pijama-nina-tundosado-ratoncitos-gris.html",
+  "name": "Pijama niña tundosado ratoncitos Gris",
+  "brand": "Talaman",
+  "sku": "2208363",
+  "description": "Descubre la belleza y comodidad del pijama tundosado ratoncitos gris para tu pequeña princesa. Un bosquejo mágico de tranquilidad nocturna y abrazos cálidos le espera en cada mullido detalle de su tejido. Cálidos ratoncitos danzan en un telar de dulces sueños, creando una pieza de vestir que enriquece el descanso y proporciona un escudo contra el frío invernal. Ensancha la sonrisa en su rostro y la lleva a la tierra de los suaves sueños, ahogada en cascadas del amor maternal. Una compra esencial para cada cigüeña que espera abrigar su nido con el toque de cuidado profundo y amor.",
+  "details": "Confort asegurado\n\nNo hay nada como ver a tu pequeña durmiendo plácidamente. Con nuestro Pijama de niña tundosado de ratoncitos grises, confort y sueños dulces están garantizados. Fabricado con materiales de la máxima calidad para asegurar un tacto súper suave y amigable para la piel sensible de los pequeños.\n\nDiseño cautivador y alegre\n\nCada niño adora los pijamas con diseños bonitos, y esta prenda no es una excepción. Con su diseño de ratoncitos grises, sin duda capturará la imaginación de tu pequeña, convirtiendo la hora de acostarse en una aventura llena de dulces sueños.\n\nDurabilidad y facilidad de cuidado\n\nSabemos que como padres, buscas prendas que puedan resistir la actividad diaria y las múltiples lavadas. Nuestro pijama niña tundosado ratoncitos gris es resistente, fácil de lavar y mantiene su forma y suavidad lavado tras lavado.\n\nHaz que las noches de tu pequeña sean agradables y llenas de sueños mágicos. ¡No esperes más, añade el pijama de niña tundosado ratoncitos grises a tu carrito de compras ahora mismo!\n\nComposición y cuidados:\n\npijama: 100% algodón.\n\nLAVAR A MÁQUINA MÁXIMO 30 ºC recomendado\n\nNO USAR LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC",
+  "sourceDescriptionHtml": "<h2>Confort asegurado</h2>\n<p>No hay nada como ver a tu pequeña durmiendo plácidamente. Con nuestro Pijama de niña tundosado de ratoncitos grises, confort y sueños dulces están garantizados. Fabricado con materiales de la máxima calidad para asegurar un tacto súper suave y amigable para la piel sensible de los pequeños.</p>\n<h2>Diseño cautivador y alegre</h2>\n<p>Cada niño adora los pijamas con diseños bonitos, y esta prenda no es una excepción. Con su diseño de ratoncitos grises, sin duda capturará la imaginación de tu pequeña, convirtiendo la hora de acostarse en una aventura llena de dulces sueños.</p>\n<h2>Durabilidad y facilidad de cuidado</h2>\n<p>Sabemos que como padres, buscas prendas que puedan resistir la actividad diaria y las múltiples lavadas. Nuestro pijama niña tundosado ratoncitos gris es resistente, fácil de lavar y mantiene su forma y suavidad lavado tras lavado.</p>\n<p><strong>Haz que las noches de tu pequeña sean agradables y llenas de sueños mágicos. ¡No esperes más, añade el pijama de niña tundosado ratoncitos grises a tu carrito de compras ahora mismo!</strong></p>\n<p>Composición y cuidados:</p>\n<p>pijama: 100% algodón.</p>\n<p>LAVAR A MÁQUINA MÁXIMO 30 ºC recomendado</p>\n<p>NO USAR LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776"
+  ],
+  "sourceDefaultCategoryId": "776",
+  "sourceCategoryName": "Pijamas niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:59",
+  "sourceUpdatedAt": "2026-10-27 11:12:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71220",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2208363",
+      "productSku": "2208363",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:15.972Z"
+    },
+    {
+      "id": "89486",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2208363",
+      "productSku": "2208363",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:18.772Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10224-8197.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8197-large_default/pijama-nina-tundosado-ratoncitos-gris.jpg",
+      "alt": "Pijama niña tundosado ratoncitos Gris",
+      "sourceId": "8197",
+      "variantIds": [],
+      "sha256": "4e9b662f51b8ce3cf271dd322ed0b3fcace9532a7ac057f164051a966588a27f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:18.841Z",
+  "issues": []
+}

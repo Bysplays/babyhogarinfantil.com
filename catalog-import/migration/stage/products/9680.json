@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "9680",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-antideslizantes/9680-caletin-antideslizante-ratoncito-crudo.html",
+  "name": "Caletin antideslizante ratoncito Crudo",
+  "brand": "Sterntaler",
+  "sku": "2204079",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "752",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "752",
+  "sourceCategoryName": "Calcetines Antideslizantes",
+  "price": 7.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "297",
+          "label": "19/20"
+        },
+        {
+          "id": "314",
+          "label": "15/16"
+        },
+        {
+          "id": "315",
+          "label": "17/18"
+        },
+        {
+          "id": "316",
+          "label": "21/22"
+        },
+        {
+          "id": "317",
+          "label": "23/24"
+        },
+        {
+          "id": "318",
+          "label": "25/26"
+        },
+        {
+          "id": "319",
+          "label": "27/28"
+        },
+        {
+          "id": "327",
+          "label": "29/30"
+        },
+        {
+          "id": "328",
+          "label": "31/32"
+        },
+        {
+          "id": "329",
+          "label": "33/34"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69827",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "316",
+          "group": "Tamaño",
+          "value": "21/22"
+        }
+      ],
+      "sku": "10257XD15975",
+      "productSku": "2204079",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:43.833Z"
+    },
+    {
+      "id": "147605",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "297",
+          "group": "Tamaño",
+          "value": "19/20"
+        }
+      ],
+      "sku": "10257XC15975",
+      "productSku": "2204079",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:45.957Z"
+    },
+    {
+      "id": "147603",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "314",
+          "group": "Tamaño",
+          "value": "15/16"
+        }
+      ],
+      "sku": "10257XA15975",
+      "productSku": "2204079",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:48.620Z"
+    },
+    {
+      "id": "147604",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "315",
+          "group": "Tamaño",
+          "value": "17/18"
+        }
+      ],
+      "sku": "10257XB15975",
+      "productSku": "2204079",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:52.494Z"
+    },
+    {
+      "id": "147606",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "317",
+          "group": "Tamaño",
+          "value": "23/24"
+        }
+      ],
+      "sku": "10257XE15975",
+      "productSku": "2204079",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:55.992Z"
+    },
+    {
+      "id": "147607",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "318",
+          "group": "Tamaño",
+          "value": "25/26"
+        }
+      ],
+      "sku": "10257XF15975",
+      "productSku": "2204079",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:59.146Z"
+    },
+    {
+      "id": "147608",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "319",
+          "group": "Tamaño",
+          "value": "27/28"
+        }
+      ],
+      "sku": "10257XG15975",
+      "productSku": "2204079",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:01.404Z"
+    },
+    {
+      "id": "147609",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "327",
+          "group": "Tamaño",
+          "value": "29/30"
+        }
+      ],
+      "sku": "10257XH15975",
+      "productSku": "2204079",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:05.910Z"
+    },
+    {
+      "id": "147610",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "328",
+          "group": "Tamaño",
+          "value": "31/32"
+        }
+      ],
+      "sku": "10257XI15975",
+      "productSku": "2204079",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:08.905Z"
+    },
+    {
+      "id": "147611",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "329",
+          "group": "Tamaño",
+          "value": "33/34"
+        }
+      ],
+      "sku": "10257XJ15975",
+      "productSku": "2204079",
+      "taxRate": 21,
+      "price": 7.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:12.081Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9680-12595.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12595-large_default/caletin-antideslizante-ratoncito-crudo.jpg",
+      "alt": "Caletin antideslizante ratoncito Crudo",
+      "sourceId": "12595",
+      "variantIds": [],
+      "sha256": "d2086f92aa13b6f8df1824c4853da4bc4be9ad9f15d30ce7c9ce0479430b7026"
+    },
+    {
+      "path": "assets/9680-12594.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12594-large_default/caletin-antideslizante-ratoncito-crudo.jpg",
+      "alt": "Caletin antideslizante ratoncito Crudo",
+      "sourceId": "12594",
+      "variantIds": [],
+      "sha256": "08b5cbea274a0f9accbf9735b55f6a3face75a23c8b7779e3598cc093ca0da42"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:11:12.286Z",
+  "issues": []
+}

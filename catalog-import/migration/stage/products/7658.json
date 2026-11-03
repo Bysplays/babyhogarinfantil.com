@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "7658",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/7658-chaqueta-larga-ondas-rosa.html",
+  "name": "Chaqueta larga ondas Rosa",
+  "brand": "DR.Kid",
+  "sku": "1902239",
+  "description": "Chaqueta 100% ALGODÓN, en color rosa",
+  "details": "Chaqueta de DR. KID, en color rosa bebé, con manguita larga. Tiene volantes en el remate de las mangas y en la parte baja de la chaqueta. Con cuello redondo y sutiles bordados y calados alrededor. Cierre delantero con dos botones. Es ideal para combinar con conjuntos, vestidos y jesusines, pues tiene un largo muy versátil. Al ser de algodón, es muy cómoda, fresquita y suave. \n\nComposición:\n\nChaqueta 100% algodón\n\n \n\nPRECAUCIÓN: LAVAR Y PLANCHAR DEL REVÉS\n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nSE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nSECAR EN HORIZONTAL Y A LA SOMBRA\n\n \n\nHECHO EN PORTUGAL",
+  "sourceDescriptionHtml": "<p>Chaqueta de <strong>DR. KID</strong>, en color rosa bebé, con manguita larga. Tiene volantes en el remate de las mangas y en la parte baja de la chaqueta. Con cuello redondo y sutiles bordados y calados alrededor. Cierre delantero con dos botones. Es ideal para combinar con conjuntos, vestidos y jesusines, pues tiene un largo muy versátil. Al ser de algodón, es muy cómoda, fresquita y suave. </p>\n<p>Composición:</p>\n<p>Chaqueta 100% algodón</p>\n<p> </p>\n<p>PRECAUCIÓN: LAVAR Y PLANCHAR DEL REVÉS</p>\n<p>LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</p>\n<p>NO USAR LEJÍAS NI BLANQUEANTES</p>\n<p>NO SECAR EN SECADORA</p>\n<p>SE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p>SECAR EN HORIZONTAL Y A LA SOMBRA</p>\n<p> </p>\n<p><strong>HECHO EN PORTUGAL</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 11.48,
+  "oldPrice": 22.9537,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66099",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1902239",
+      "productSku": "1902239",
+      "taxRate": 21,
+      "price": 11.48,
+      "oldPrice": 22.9537,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:58.627Z"
+    },
+    {
+      "id": "66101",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1902239",
+      "productSku": "1902239",
+      "taxRate": 21,
+      "price": 11.48,
+      "oldPrice": 22.9537,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:00.192Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7658-5654.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5654-large_default/chaqueta-larga-ondas-rosa.jpg",
+      "alt": "Chaqueta larga ondas Rosa",
+      "sourceId": "5654",
+      "variantIds": [],
+      "sha256": "6bd3217deb888d497000d7371895ee5f7a76b80ba55028a54fee9f0ee36ef4e8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:00.260Z",
+  "issues": []
+}

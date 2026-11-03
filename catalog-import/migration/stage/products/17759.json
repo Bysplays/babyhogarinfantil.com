@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "17759",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/17759-conjunto-peto-turia-azul.html",
+  "name": "Conjunto peto Turia Azul",
+  "brand": "Calamaro",
+  "sku": "2402025",
+  "description": "Un mundo de ternura y moda aguarda con el elegante Conjunto Peto Turia Azul. Cada detalle, cada costura, ha sido diseñado pensando en la comodidad y estilo de su pequeño príncipe. Fabricado con tejidos de alta calidad para brindar máxima suavidad y resistencia al uso diario. Fácil de poner y quitar, ideal para eventos especiales o simplemente para el día a día. Este conjunto es una elección perfecta que añade un toque chic a la colección de ropa de cualquier niño. Su pequeño merece lucir estelar, ¡haga que cada día sea una ocasión para deslumbrar con el Conjunto Peto Turia Azul!",
+  "details": "Subtítulo: Exquisita Combinación de Comodidad y Estética\n\nSacia el gusto por estilo clásico y elegante con este Conjunto Peto Turia Azul. Conjunto excepcionalmente diseñado para realzar la belleza natural y el encanto de los pequeños. La suave y cómoda tela garantiza un ajuste perfecto y al mismo tiempo proporciona la libertad necesaria para las actividades diarias. Este conjunto es una mezcla perfecta de comodidad y estilo.\n\n\nSubtítulo: Calidad Superior y Durabilidad\n\nEste Conjunto Peto Turia Azul está confeccionado en tejido de alta calidad, lo que garantiza durabilidad y resistencia. La calidad excepcional de los materiales utilizados garantiza que el conjunto pueda sobrevivir al desgaste diario y aún así mantener su apariencia y su sensación de buen gusto.¡Una inversión en calidad y durabilidad que valdrá cada centavo!\n\n\nSubtítulo: Versatilidad todo en uno\n\nEl Conjunto Peto Turia Azul es una opción ideal para todas las ocasiones. Ya sea un día de campo, un cumpleaños o una simple salida al parque, este conjunto se asegurará de que los pequeños estén a la moda. Su diseño versátil y universal lo convierte en el favorito de todos los tiempos, y su increíble practicidad le ahorrará tiempo mientras viste a sus idols.\n\n\nNo lo pienses más. Añade este Conjunto Peto Turia Azul a tu carrito y dale a los pequeños un regalo de confort y estilo. ¡Haga clic ahora para comprar!",
+  "sourceDescriptionHtml": "<p><strong>Subtítulo: Exquisita Combinación de Comodidad y Estética</strong></p>\n<p>Sacia el gusto por estilo clásico y elegante con este Conjunto Peto Turia Azul. Conjunto excepcionalmente diseñado para realzar la belleza natural y el encanto de los pequeños. La suave y cómoda tela garantiza un ajuste perfecto y al mismo tiempo proporciona la libertad necesaria para las actividades diarias. Este conjunto es una mezcla perfecta de comodidad y estilo.</p>\n\n<p><strong>Subtítulo: Calidad Superior y Durabilidad</strong></p>\n<p>Este Conjunto Peto Turia Azul está confeccionado en tejido de alta calidad, lo que garantiza durabilidad y resistencia. La calidad excepcional de los materiales utilizados garantiza que el conjunto pueda sobrevivir al desgaste diario y aún así mantener su apariencia y su sensación de buen gusto.¡Una inversión en calidad y durabilidad que valdrá cada centavo!</p>\n\n<p><strong>Subtítulo: Versatilidad todo en uno</strong></p>\n<p>El Conjunto Peto Turia Azul es una opción ideal para todas las ocasiones. Ya sea un día de campo, un cumpleaños o una simple salida al parque, este conjunto se asegurará de que los pequeños estén a la moda. Su diseño versátil y universal lo convierte en el favorito de todos los tiempos, y su increíble practicidad le ahorrará tiempo mientras viste a sus idols.</p>\n\n<p>No lo pienses más. Añade este Conjunto Peto Turia Azul a tu carrito y dale a los pequeños un regalo de confort y estilo. ¡Haga clic ahora para comprar!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 36.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-09 15:53:55",
+  "sourceUpdatedAt": "2026-10-27 11:13:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85395",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2402025",
+      "productSku": "2402025",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:21.950Z"
+    },
+    {
+      "id": "85396",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2402025",
+      "productSku": "2402025",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:23.006Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17759-16014.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16014-large_default/conjunto-peto-turia-azul.jpg",
+      "alt": "Conjunto peto Turia Azul",
+      "sourceId": "16014",
+      "variantIds": [],
+      "sha256": "c9015798353eac68fbf75b33d0644ade701c6f54f153e1a5c9549bcee876a7af"
+    },
+    {
+      "path": "assets/17759-16015.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16015-large_default/conjunto-peto-turia-azul.jpg",
+      "alt": "conjunto peto azul invierno bebe niño",
+      "sourceId": "16015",
+      "variantIds": [],
+      "sha256": "dc1a76be8cb3cfce1ffa72081df312b2ad7f75c138a0a7f5b9ba48df9bda78c8"
+    },
+    {
+      "path": "assets/17759-16016.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16016-large_default/conjunto-peto-turia-azul.jpg",
+      "alt": "Conjunto peto Turia Azul",
+      "sourceId": "16016",
+      "variantIds": [],
+      "sha256": "1eeddbd865faaf353a52cda991095707ff26fb736f9dbb95ac66ce2207a11768"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:23.203Z",
+  "issues": []
+}

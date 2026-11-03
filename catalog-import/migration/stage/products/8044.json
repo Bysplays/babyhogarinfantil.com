@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "8044",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/8044-pantalon-algodon-lista-azul-marino.html",
+  "name": "Pantalón algodón lista Azul marino",
+  "brand": "Chicco",
+  "sku": "2001087",
+  "description": "Resplandece con elegancia con el Pantalón de algodón listado en Azul marino. Diseñado para pequeñas damas que anhelan la comodidad con estilo. Creado con algodón suave y seleccionado meticulosamente, resguarda la suave piel de los niños y garantiza un ajuste suave y acogedor. Los intensos tonos de azul marino reflejan un encanto sofisticado y versátil. Perfectos para fiestas, juego o la rutina diaria, estos pantalones son un must-have para cada guardarropa de niña. ¡Prepárense para los halagos!",
+  "details": "Confort Incomparable\n\n\nImagina a tu pequeño jugando y riendo, sin restricciones. Los Pantalones de algodón con listas en Azul marino proporcionan un confort y estilo inigualables. Su composición de algodón puro garantiza una suavidad excepcional, ofreciendo a la vez una excelente resistencia al desgaste.\n\nDurabilidad y Calidad\n\nNo cualquier pantalón sobrevive al ajetreo y bullicio de los niños. Pero estos Pantalones de algodón con listas en Azul marino han sido creados con precisión, prometiendo resistencia al desgaste, un desempeño de larga duración y mantener su rica coloración lavado tras lavado.\n\nEstilo Único\n\nLa elección de la ropa para tu pequeño no solamente es sobre comodidad, es sobre el reflejo de su personalidad emergente. Los Pantalones de algodón con listas en Azul marino, con su diseño moderno y vibrante, definitivamente, podría ser el nuevo favorito de tu pequeño.\n\nUna elección perfecta para cualquier ocasión, desde un paseo casual hasta un evento especial. ¿Por qué esperar? Añade estos Pantalones de algodón con listas en Azul marino a tu carrito de compras ahora y viste a tu hijo con el mejor estilo y confort.\n\n\n\nComposición y cuidados:\n\nPantalón: 100% algodón.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Confort Incomparable</p>\n<div>\n<p>Imagina a tu pequeño jugando y riendo, sin restricciones. Los Pantalones de algodón con listas en Azul marino proporcionan un confort y estilo inigualables. Su composición de algodón puro garantiza una suavidad excepcional, ofreciendo a la vez una excelente resistencia al desgaste.</p>\n<h2>Durabilidad y Calidad</h2>\n<p>No cualquier pantalón sobrevive al ajetreo y bullicio de los niños. Pero estos Pantalones de algodón con listas en Azul marino han sido creados con precisión, prometiendo resistencia al desgaste, un desempeño de larga duración y mantener su rica coloración lavado tras lavado.</p>\n<h2>Estilo Único</h2>\n<p>La elección de la ropa para tu pequeño no solamente es sobre comodidad, es sobre el reflejo de su personalidad emergente. Los Pantalones de algodón con listas en Azul marino, con su diseño moderno y vibrante, definitivamente, podría ser el nuevo favorito de tu pequeño.</p>\n<p>Una elección perfecta para cualquier ocasión, desde un paseo casual hasta un evento especial. ¿Por qué esperar? Añade estos Pantalones de algodón con listas en Azul marino a tu carrito de compras ahora y viste a tu hijo con el mejor estilo y confort.</p>\n</div>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 100% algodón.</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2020",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 5,
+  "oldPrice": 9.9946,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:32",
+  "sourceUpdatedAt": "2026-10-27 11:10:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66855",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2001087",
+      "productSku": "2001087",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:04.304Z"
+    },
+    {
+      "id": "66856",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2001087",
+      "productSku": "2001087",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:06.454Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8044-6228.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6228-large_default/pantalon-algodon-lista-azul-marino.jpg",
+      "alt": "Pantalón algodón lista Azul marino",
+      "sourceId": "6228",
+      "variantIds": [],
+      "sha256": "5fd142b9cf95893cae186242c1899f2f403e0fab10f30de40b0e624a991fac11"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:06.517Z",
+  "issues": []
+}

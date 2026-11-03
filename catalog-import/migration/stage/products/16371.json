@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16371",
+  "sourceUrl": "https://babyhogarinfantil.com/gorros-y-bufandas-bebe-y-nina/16371-gorro-ochos--pompom-pelo-azul-celeste.html",
+  "name": "Gorro ochos pompom pelo Azul celeste",
+  "brand": "Jose Luis Navarro",
+  "sku": "1809118",
+  "description": "Gorro de punto con ochos y bufanda incorporada, y pompón de pelo natural con corchete. HECHO EN ESPAÑA",
+  "details": "Descubre la moda y la calidez incomparables de nuestros gorros para niños con pompón de pelo natural. Nuestros gorros están diseñados para mantener a tu pequeño abrigado y a la vanguardia de las tendencias. Confeccionados con materiales de alta calidad y un pompón de pelo natural suave y esponjoso, estos gorros brindan un estilo único y una sensación de lujo. El pompón de pelo natural agrega un toque de encanto y sofisticación a cada gorro. Disponibles en una variedad de colores y estilos, nuestros gorros son perfectos para completar los conjuntos de invierno de tu niño con un toque de elegancia.\n\nComposición y cuidados:\n\nGorro: 100% acrílico \n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nNO LAVAR EL POMPÓN. SE PUEDE QUITAR, TIENE CORCHETE.",
+  "sourceDescriptionHtml": "<p>Descubre la moda y la calidez incomparables de nuestros gorros para niños con pompón de pelo natural. Nuestros gorros están diseñados para mantener a tu pequeño abrigado y a la vanguardia de las tendencias. Confeccionados con materiales de alta calidad y un pompón de pelo natural suave y esponjoso, estos gorros brindan un estilo único y una sensación de lujo. El pompón de pelo natural agrega un toque de encanto y sofisticación a cada gorro. Disponibles en una variedad de colores y estilos, nuestros gorros son perfectos para completar los conjuntos de invierno de tu niño con un toque de elegancia.</p>\n<p>Composición y cuidados:</p>\n<p>Gorro: 100% acrílico </p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p><strong>NO LAVAR EL POMPÓN. SE PUEDE QUITAR, TIENE CORCHETE. </strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "764"
+  ],
+  "sourceDefaultCategoryId": "764",
+  "sourceCategoryName": "Gorros y bufandas bebé y niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-06-24 15:52:04",
+  "sourceUpdatedAt": "2026-10-26 19:38:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "77464",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "1809118",
+      "productSku": "1809118",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:57.607Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16371-14324.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14324-large_default/gorro-ochos--pompom-pelo-azul-celeste.jpg",
+      "alt": "Gorro ochos pompom pelo Azul celeste",
+      "sourceId": "14324",
+      "variantIds": [],
+      "sha256": "38272b980ab7d08cd4787a01bf97189e5fac45e5be97c9b11d930dbf4ae9aa4f"
+    },
+    {
+      "path": "assets/16371-14325.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14325-large_default/gorro-ochos--pompom-pelo-azul-celeste.jpg",
+      "alt": "Gorro ochos pompom pelo Azul celeste",
+      "sourceId": "14325",
+      "variantIds": [],
+      "sha256": "d5e6e0b411d32bdb6ab1fb3351eb1a08c48a1191b51d6fa7a6b38cbbbce3bebc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:57.753Z",
+  "issues": []
+}

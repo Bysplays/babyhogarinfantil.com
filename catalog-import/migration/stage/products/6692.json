@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "id": "6692",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-martin-codax-vigo/6692-polo-martin-codax-bordado-azulon.html",
+  "name": "Polo Martin Codax BORDADO Azulón",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1610021",
+  "description": "Polo maga corta uniforme colegio Martín Codax.",
+  "details": "Composión:\n\nPolo: 50% Algodón 50% Poliéster.\n\nNO USAR SECADORA\n\nHECHO EN UE",
+  "sourceDescriptionHtml": "<p>Composión:</p>\n<p>Polo: 50% Algodón 50% Poliéster.</p>\n<p>NO USAR SECADORA</p>\n<p><strong>HECHO EN UE</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azulón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "707"
+  ],
+  "sourceDefaultCategoryId": "707",
+  "sourceCategoryName": "Colegio Martin Codax Vigo",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-26 19:38:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 31,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64114",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1610021",
+      "productSku": "1610021",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:52.383Z"
+    },
+    {
+      "id": "64115",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1610021",
+      "productSku": "1610021",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:55.006Z"
+    },
+    {
+      "id": "143913",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1610021",
+      "productSku": "1610021",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:57.391Z"
+    },
+    {
+      "id": "143914",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1610021",
+      "productSku": "1610021",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:59.689Z"
+    },
+    {
+      "id": "143915",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1610021",
+      "productSku": "1610021",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:02.448Z"
+    },
+    {
+      "id": "143916",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1610021",
+      "productSku": "1610021",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:05.573Z"
+    },
+    {
+      "id": "143917",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1610021",
+      "productSku": "1610021",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:08.262Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6692-4632.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4632-large_default/polo-martin-codax-bordado-azulon.jpg",
+      "alt": "Polo M.Codax BORDADO Azulón",
+      "sourceId": "4632",
+      "variantIds": [],
+      "sha256": "84cab8292ba48d2f06b8bec84f401fc3e7e11f2da6287cca46fff2b698f3870c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:08.339Z",
+  "issues": []
+}

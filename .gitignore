@@ -1,0 +1,14 @@
+.env
+backups/
+*.log
+/check-stock.html
+/*.png
+/releases/
+/catalog-import/*.jpg
+/catalog-import/*.png
+/catalog-import/*backup*
+/catalog-import/*previous-state*
+/catalog-import/migration/pages/
+/catalog-import/migration/stage/responses/
+**/assets/cache/*
+!**/assets/cache/index.php

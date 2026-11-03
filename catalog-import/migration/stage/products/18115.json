@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "18115",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/18115-pantalon-chandal-basico-plomo.html",
+  "name": "Pantalon chandal básico Plomo",
+  "brand": "Babybol",
+  "sku": "2402100",
+  "description": "Transforma el vestuario de tu pequeño con el Pantalón Chándal Básico Plomo ¡Pieza infaltable! Confort y estilo se fusionan, ideal para el dinamismo de los niños. Su tonalidad plomo aporta versatilidad. Combínalos a su gusto, adecuado para cualquier ocasión. Desde esos días de aventuras al aire libre, hasta momentos de relax en casa. Proporciona calidez, comodidad y resistencia. ¡Un regalo que todo niño adorará! Adquiere ahora este pantalón, la pieza que le da un giro trendy y cómodo a su pequeño.",
+  "details": "Perfecto para el Juego Diario \n\n Este cómodo pantalón de chándal de color plomo promete la comodidad infinita para los pequeños juegos diarios. Suave al tacto, se adapta a la piel del bebé, proporcionando suficiente aire para mantenerse frescos durante todo el día. \n\n\n Diseño Práctico \n\n Su diseño básico y práctico hace que este pantalón de chándal sea una elección inteligente para aquellos padres que buscan ropa duradera y versátil. Realizado en un versátil tono plomo, combina con cualquier camiseta o top para un estilo sin esfuerzo. \n\n\n Calidad Confiable \n\n Hecho con materiales de alta calidad, este pantalón de chándal garantiza durabilidad y resistencia al desgaste. Su resistencia a las manchas y al estiramiento prolongado garantiza que mantendrá su forma, incluso después de numerosos lavados. \n\n\n ¡No pierda la oportunidad de proporcionar a sus pequeños la comodidad y la practicidad de este Pantalon de chándal básico Plomo! ¡Adquiera el suyo hoy!",
+  "sourceDescriptionHtml": "<h2> Perfecto para el Juego Diario </h2>\n <p> Este cómodo pantalón de chándal de color plomo promete la comodidad infinita para los pequeños juegos diarios. Suave al tacto, se adapta a la piel del bebé, proporcionando suficiente aire para mantenerse frescos durante todo el día. </p>\n\n <h2> Diseño Práctico </h2>\n <p> Su diseño básico y práctico hace que este pantalón de chándal sea una elección inteligente para aquellos padres que buscan ropa duradera y versátil. Realizado en un versátil tono plomo, combina con cualquier camiseta o top para un estilo sin esfuerzo. </p>\n\n <h2> Calidad Confiable </h2>\n <p> Hecho con materiales de alta calidad, este pantalón de chándal garantiza durabilidad y resistencia al desgaste. Su resistencia a las manchas y al estiramiento prolongado garantiza que mantendrá su forma, incluso después de numerosos lavados. </p>\n\n <p><strong>¡No pierda la oportunidad de proporcionar a sus pequeños la comodidad y la practicidad de este Pantalon de chándal básico Plomo! ¡Adquiera el suyo hoy!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Plomo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-02 15:54:02",
+  "sourceUpdatedAt": "2026-10-27 11:13:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "86261",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2402100",
+      "productSku": "2402100",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:51.382Z"
+    },
+    {
+      "id": "94236",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2402100",
+      "productSku": "2402100",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:54.114Z"
+    },
+    {
+      "id": "86264",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2402100",
+      "productSku": "2402100",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:57.212Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18115-16594.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16594-large_default/pantalon-chandal-basico-plomo.jpg",
+      "alt": "Pantalon chandal básico Plomo",
+      "sourceId": "16594",
+      "variantIds": [],
+      "sha256": "4f16e8d81a7f4ce1f7ff0beaca4ac9cd87d9fb76cf5cc14cc9a7719570df77e1"
+    },
+    {
+      "path": "assets/18115-16595.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16595-large_default/pantalon-chandal-basico-plomo.jpg",
+      "alt": "Pantalon chandal básico Plomo",
+      "sourceId": "16595",
+      "variantIds": [],
+      "sha256": "65bb2d686581c1f503c09053287a23050da932b4eab4a4fe2593fbc05d3ba733"
+    },
+    {
+      "path": "assets/18115-16596.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16596-large_default/pantalon-chandal-basico-plomo.jpg",
+      "alt": "Pantalon chandal básico Plomo",
+      "sourceId": "16596",
+      "variantIds": [],
+      "sha256": "4488ea4c00b41d744b5bb219f2eefb9bc6e3c30bbe1e43fe094d26df1eaf97da"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:57.380Z",
+  "issues": []
+}

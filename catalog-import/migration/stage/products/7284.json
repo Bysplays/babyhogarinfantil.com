@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7284",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/7284-ranita-algodon-pom-pom-rosa-maquillaje.html",
+  "name": "Ranita algodón pom-pom Rosa Maquillaje",
+  "brand": "Calamaro",
+  "sku": "1807095",
+  "description": "Ranita ROSA MAQUILLAJE o braguita CUBREPAÑAL con pom pom. Con goma en cintura y piernas.",
+  "details": "Las RANITAS CUBREPA&Ntilde;AL son una prenda c&oacute;moda y pr&aacute;ctica para poner con una camisa y o jersey o chaqueta y hacer as&iacute; un conjunto ideal para tu beb&eacute;. Esta en concreto de la firma espa&ntilde;ola CALAMARO tiene unos pompones a los lados a tono con la ranita.\n\r\nComposici&oacute;n:\nRanita: 65% algod&oacute;n, 30% poliester, 5% elastano.\n\r\nNO USAR SECADORA.\nNO USAR LEJIAS.\nLAVAR A 30&ordm; RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Las <strong>RANITAS CUBREPA&Ntilde;AL</strong> son una prenda c&oacute;moda y pr&aacute;ctica para poner con una camisa y o jersey o chaqueta y hacer as&iacute; un conjunto ideal para tu beb&eacute;. Esta en concreto de la firma espa&ntilde;ola CALAMARO tiene unos pompones a los lados a tono con la ranita.</p>\r\n<p>Composici&oacute;n:<br />Ranita: 65% algod&oacute;n, 30% poliester, 5% elastano.</p>\r\n<p>NO USAR SECADORA.<br />NO USAR LEJIAS.<br />LAVAR A 30&ordm; RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa maquillaje",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 9.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:22",
+  "sourceUpdatedAt": "2026-10-27 11:09:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65491",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1807095",
+      "productSku": "1807095",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:53.010Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7284-10170.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10170-large_default/ranita-algodon-pom-pom-rosa-maquillaje.jpg",
+      "alt": "Ranita algodón pom-pom Rosa Maquillaje",
+      "sourceId": "10170",
+      "variantIds": [],
+      "sha256": "45160b8c401a3911d0684d13803ffad511fb235a5308ded8edad8420017a8ba6"
+    },
+    {
+      "path": "assets/7284-5274.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5274-large_default/ranita-algodon-pom-pom-rosa-maquillaje.jpg",
+      "alt": "Ranita algodón pom-pom Rosa Maquillaje",
+      "sourceId": "5274",
+      "variantIds": [],
+      "sha256": "ceda844bf33ffcae1ef0d99145a460fea584911f6a7fdef60738a9957cf495b1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:53.118Z",
+  "issues": []
+}

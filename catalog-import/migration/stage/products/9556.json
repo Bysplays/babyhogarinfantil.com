@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "9556",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/9556-camiseta-bebe-nino-verano-hi-azul.html",
+  "name": "Camiseta bebe niño verano HI Azul",
+  "brand": "Babybol",
+  "sku": "2203070",
+  "description": "Camiseta manga corta Viste a tu pequeño con la frescura y el estilo del verano con la Camiseta Bebé Niño Verano HI Azul. Este artículo, es imprescindible para cualquier guardarropa de bebé por su comodidad y durabilidad. Fabricado con materiales de alta calidad, proporciona al niño una sensación suave y delicada en su piel, mientras permite libertad de movimiento para sus aventuras cotidianas. Su color azul vibrante evoca la diversión y la energía del verano, a la vez que complementa cualquier conjunto. La palabra 'HI' estampada en el frente agrega un toque juguetón, haciendo que cada día sea un saludo a la diversión. 100% algodón",
+  "details": "Confort Inigualable\n\nConfeccionada en tejidos suaves y ligeros de alta calidad, la camiseta de bebé niño para verano HI Azul brinda una comodidad excepcional. El algodón puro acaricia su piel delicadamente, evitando irritaciones y permitiendo un movimiento sin restricciones. Ideal para los días más cálidos del año.\n\nEstila Fresca y Vibrante\n\nLa camiseta para bebé niño verano HI Azul captura la alegría y la energía del verano con su color vibrante. El vivo color azul resalta la inocencia y vivacidad de cada niño, mientras que el diseño moderno se asegura de que estén a la última moda. Perfectamente combinable con cualquier tipo de pantalón o short.\n\nDurabilidad y Resistencia\n\nEsta camiseta verano HI Azul no solo proporciona una excelente comodidad y estilo, sino que también garantiza una durabilidad excepcional. Creada para resistir la energía incesante de los niños, la camiseta mantendrá su forma y color incluso después de numerosos lavados. Una inversión valiosa para la dulce infancia de cada niño.\n\n¿Estás listo para agregar un toque de frescura y comodidad al armario de tu pequeño? Adquiere la camiseta de bebé niño para verano HI Azul hoy mismo.",
+  "sourceDescriptionHtml": "<div>\n<h2>Confort Inigualable</h2>\n<p>Confeccionada en tejidos suaves y ligeros de alta calidad, la camiseta de bebé niño para verano HI Azul brinda una comodidad excepcional. El algodón puro acaricia su piel delicadamente, evitando irritaciones y permitiendo un movimiento sin restricciones. Ideal para los días más cálidos del año.</p>\n<h2>Estila Fresca y Vibrante</h2>\n<p>La camiseta para bebé niño verano HI Azul captura la alegría y la energía del verano con su color vibrante. El vivo color azul resalta la inocencia y vivacidad de cada niño, mientras que el diseño moderno se asegura de que estén a la última moda. Perfectamente combinable con cualquier tipo de pantalón o short.</p>\n<h2>Durabilidad y Resistencia</h2>\n<p>Esta camiseta verano HI Azul no solo proporciona una excelente comodidad y estilo, sino que también garantiza una durabilidad excepcional. Creada para resistir la energía incesante de los niños, la camiseta mantendrá su forma y color incluso después de numerosos lavados. Una inversión valiosa para la dulce infancia de cada niño.</p>\n<p><strong>¿Estás listo para agregar un toque de frescura y comodidad al armario de tu pequeño? Adquiere la camiseta de bebé niño para verano HI Azul hoy mismo.</strong></p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 5.48,
+  "oldPrice": 10.9505,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69518",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2203070",
+      "productSku": "2203070",
+      "taxRate": 21,
+      "price": 5.48,
+      "oldPrice": 10.9505,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:54.889Z"
+    },
+    {
+      "id": "69519",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2203070",
+      "productSku": "2203070",
+      "taxRate": 21,
+      "price": 5.48,
+      "oldPrice": 10.9505,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:55.964Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9556-7778.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7778-large_default/camiseta-bebe-nino-verano-hi-azul.jpg",
+      "alt": "Camiseta bebe niño verano HI Azul",
+      "sourceId": "7778",
+      "variantIds": [],
+      "sha256": "ac4b6890e1b33b3b882ee74a9cd14740bd04ffb1ec91e64349bbe5cdffadb66c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:56.008Z",
+  "issues": []
+}

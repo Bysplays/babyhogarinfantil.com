@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "21615",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-en-pack/21615-pack-3-calcetines-fantasia-ballena.html",
+  "name": "Pack 3 calcetines fantasía Ballena",
+  "brand": "Mayoral",
+  "sku": "2502258",
+  "description": "Pack de tres calcetines niño.",
+  "details": "COMPOSICIÓN\n\n\nCalcetines:\n\n\n72% Algodón\n\n\n25% Poliamida\n\n\n3% Elastano",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\">COMPOSICIÓN</p><p></p>\n<p class=\"MsoNormal\"><b>Calcetines:</b></p><p></p>\n<p class=\"MsoNormal\">72% Algodón</p><p></p>\n<p class=\"MsoNormal\">25% Poliamida</p><p></p>\n<p class=\"MsoNormal\">3% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Ballena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "796",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "796",
+  "sourceCategoryName": "Calcetines en pack",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-12-03 15:53:36",
+  "sourceUpdatedAt": "2026-10-27 11:14:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97798",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502258",
+      "productSku": "2502258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:44.938Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21615-20211.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20211-large_default/pack-3-calcetines-fantasia-ballena.jpg",
+      "alt": "Pack 3 calcetines fantasía Ballena",
+      "sourceId": "20211",
+      "variantIds": [],
+      "sha256": "70328e3b9187f614af664afa7b0f02a2362944bacca9492df43b90e1bc0aadc8"
+    },
+    {
+      "path": "assets/21615-20212.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20212-large_default/pack-3-calcetines-fantasia-ballena.jpg",
+      "alt": "Pack 3 calcetines fantasía Ballena",
+      "sourceId": "20212",
+      "variantIds": [],
+      "sha256": "1bf19bff62ee87b1be507aa9bb0bc155d6b9dd472b640613325c618ee2942964"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:45.085Z",
+  "issues": []
+}

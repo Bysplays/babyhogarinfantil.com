@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 1,
+  "id": "19794",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/19794-capota-plumeti-lucia-blanco.html",
+  "name": "Capota plumeti Lucia Blanco",
+  "brand": "Marco Polo",
+  "sku": "2501247",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 17,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-05-02 15:54:59",
+  "sourceUpdatedAt": "2026-10-27 11:14:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92551",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "12753XC19470",
+      "productSku": "2501247",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:15.339Z"
+    },
+    {
+      "id": "150205",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12753XA19470",
+      "productSku": "2501247",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:17.083Z"
+    },
+    {
+      "id": "150206",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "12753XB19470",
+      "productSku": "2501247",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:19.077Z"
+    },
+    {
+      "id": "150207",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "12753XD19470",
+      "productSku": "2501247",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:20.978Z"
+    },
+    {
+      "id": "92553",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "12753XE19470",
+      "productSku": "2501247",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:23.095Z"
+    },
+    {
+      "id": "92554",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "12753XF19470",
+      "productSku": "2501247",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:26.158Z"
+    },
+    {
+      "id": "150208",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "12753XG19470",
+      "productSku": "2501247",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:28.429Z"
+    },
+    {
+      "id": "150209",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "12753XH19470",
+      "productSku": "2501247",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:30.411Z"
+    },
+    {
+      "id": "150210",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "12753XI19470",
+      "productSku": "2501247",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:32.981Z"
+    },
+    {
+      "id": "150211",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "12753XJ19470",
+      "productSku": "2501247",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:34.830Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:34.830Z",
+  "issues": [
+    "No verified images"
+  ]
+}

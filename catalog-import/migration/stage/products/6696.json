@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "6696",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/6696-botita-bebe-nina-velcro-con-flor-bh-charol-rojo.html",
+  "name": "Botita bebé niña velcro con Flor BH Charol rojo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1610029",
+  "description": "Botín de piel badana, acabado charol. Cierre con velcro. Sin suela. Disponibilidad de modelo con semisuela de preandante en la talla 19. Disponible en varios colores.",
+  "details": "Botín para bebé de piel badana de gran calidad, acabado charol. Cierre con velcro lateral, que aporta facilidad a la hora del calzado y gran sujeción. Sin suela. Disponibilidad del modelo con semisuela preandante en la talla 19, consúltanos! Un calzado cómodo, muy ligero y blandito! Atemporal y combinable con todo tipo de conjuntos y vestidos, unisex. Disponible en varios colores. \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><strong>Botín para bebé de piel</strong> badana de gran calidad, acabado charol. Cierre con velcro lateral, qu<strong>e aporta facilidad a la hora del calzado y gran sujeción. Sin suela. Disponibilidad del modelo con semisuela preandante en la talla 19</strong>, consúltanos! Un calzado cómodo, muy ligero y blandito! Atemporal y combinable con todo tipo de conjuntos y vestidos, unisex.<strong> Disponible en varios colores</strong>. </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charol Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-27 11:09:18",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "256",
+          "label": "15"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "259",
+          "label": "19con"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64134",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "1610029",
+      "productSku": "1610029",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:05.152Z"
+    },
+    {
+      "id": "64135",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "1610029",
+      "productSku": "1610029",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:08.919Z"
+    },
+    {
+      "id": "64136",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "1610029",
+      "productSku": "1610029",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:11.457Z"
+    },
+    {
+      "id": "64137",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "1610029",
+      "productSku": "1610029",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:14.450Z"
+    },
+    {
+      "id": "64139",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "259",
+          "group": "Tamaño",
+          "value": "19con"
+        }
+      ],
+      "sku": "1610029",
+      "productSku": "1610029",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:17.239Z"
+    },
+    {
+      "id": "64138",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "1610029",
+      "productSku": "1610029",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:20.304Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6696-4635.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4635-large_default/botita-bebe-nina-velcro-con-flor-bh-charol-rojo.jpg",
+      "alt": "Botita bebé niña velcro con Flor BH Charol rojo",
+      "sourceId": "4635",
+      "variantIds": [],
+      "sha256": "7031b6c75839b06707deb4d32faa43f6b7abe87b34a239c981adc0939f1a6beb"
+    },
+    {
+      "path": "assets/6696-9725.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9725-large_default/botita-bebe-nina-velcro-con-flor-bh-charol-rojo.jpg",
+      "alt": "Botita bebé niña velcro con Flor BH Charol rojo",
+      "sourceId": "9725",
+      "variantIds": [],
+      "sha256": "7031b6c75839b06707deb4d32faa43f6b7abe87b34a239c981adc0939f1a6beb"
+    },
+    {
+      "path": "assets/6696-4634.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4634-large_default/botita-bebe-nina-velcro-con-flor-bh-charol-rojo.jpg",
+      "alt": "Botita bebé niña velcro con Flor BH Charol rojo",
+      "sourceId": "4634",
+      "variantIds": [],
+      "sha256": "9a5c030813554a1100b4d5ad681ac5eb3ace842b08819e48f42d5615d1088ad1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:20.503Z",
+  "issues": []
+}

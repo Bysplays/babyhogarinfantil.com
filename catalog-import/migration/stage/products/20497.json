@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "20497",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/20497-conjunto-pantalon-corto-con-leotardo-porridge.html",
+  "name": "Conjunto pantalón corto con leotardo Porridge",
+  "brand": "Mayoral",
+  "sku": "2502064",
+  "description": "Conjunto de tres piezas, incluye leotardo a juego.",
+  "details": "Composición:\n\nJersey: 100% algodón.\n\nPantalón: 98% algodón, 2% elastano.\n\nLeotardo: 73% algodón, 25% poliéster, 2% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Jersey: 100% algodón.</p>\n<p>Pantalón: 98% algodón, 2% elastano.</p>\n<p>Leotardo: 73% algodón, 25% poliéster, 2% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Porridge",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "340",
+          "label": "2-4m"
+        },
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94971",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2502064",
+      "productSku": "2502064",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:08.169Z"
+    },
+    {
+      "id": "94972",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2502064",
+      "productSku": "2502064",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:09.025Z"
+    },
+    {
+      "id": "94974",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502064",
+      "productSku": "2502064",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:09.918Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20497-19157.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19157-large_default/conjunto-pantalon-corto-con-leotardo-porridge.jpg",
+      "alt": "Conjunto pantalón corto con leotardo Porridge",
+      "sourceId": "19157",
+      "variantIds": [],
+      "sha256": "2d24f1e20e5fc104521756e61b7f150decdf785f9e2b652518ce49946370060a"
+    },
+    {
+      "path": "assets/20497-19158.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19158-large_default/conjunto-pantalon-corto-con-leotardo-porridge.jpg",
+      "alt": "Conjunto pantalón corto con leotardo Porridge",
+      "sourceId": "19158",
+      "variantIds": [],
+      "sha256": "1aa4f309ed5b30b309e2237abef3468338f87d3ae406f85b9329fc241cab656a"
+    },
+    {
+      "path": "assets/20497-19159.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19159-large_default/conjunto-pantalon-corto-con-leotardo-porridge.jpg",
+      "alt": "Conjunto pantalón corto con leotardo Porridge",
+      "sourceId": "19159",
+      "variantIds": [],
+      "sha256": "653513e5e4a37b2c8b7b7722339fe77137fa8b2aab2ccb4b5ce0b37b4b5a5b71"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:10.134Z",
+  "issues": []
+}

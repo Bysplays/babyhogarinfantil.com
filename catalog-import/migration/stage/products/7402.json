@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7402",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nino/7402-jersey-bebe-buho-azul.html",
+  "name": "Jersey bebé Buho Azul",
+  "brand": "Mar&amp;Alex",
+  "sku": "1809037",
+  "description": "El \"Jersey Bebé Búho Azul\" es un maravilloso regalo de amor, suavidad y abrazos cálidos. Este intrincado diseño de búho, lleno de color y diversión, es perfecto para los más aventureros. El suave algodón protege la delicada piel del bebé, mientras que su estilo añadirá un toque tierno a su guardarropa. Experimenta la alegría de ver a tu pequeño disfrutando de la comodidad y libertad de movimiento que proporciona este jersey. ¡Cada día será una nueva aventura con el Jersey Bebé Búho Azul!",
+  "details": "Suavidad Cautivadora\n\nDeléitese con la asombrosa suavidad de nuestra \"Jersey bebé Buho Azul\". Hecho con los mejores materiales para garantizar el máximo confort para su pequeño, este jersey proveerá mucha comodidad y abrigo durante los días fríos. El algodón respirable en el que está hecho, convertirá cada sueño en una agradable experiencia.\n\n\nUn Diseño Llamativo\n\nLa belleza no tiene que sacrificarse por la comodidad. ¡Es por eso que nuestra \"Jersey bebé Buho Azul\" combina ambos! Este impresionante jersey presenta un adorable Buho estampado en un fondo azul, haciendo de cada atuendo algo especial y divertido. Es la elección perfecta para añadir un poco de color y estilo al guardarropa de su bebé.\n\n\nResistencia Sin Igual\n\n¿Quién dijo que los artículos para bebés no pueden ser duraderos? Creemos firmemente que la ropa para bebés y niños debe ser tan resistente como cómoda. Nuestra \"Jersey bebé Buho Azul\" ha sido diseñada y fabricada pensando en la durabilidad. Con los lavados, el color no se desvanece y la forma se mantiene intacta, asegurando así que su bebé pueda disfrutar de este hermoso jersey por mucho tiempo.\n\n\nNo pierda la oportunidad de darle a su bebé este abrigo cómodo, llamativo y duradero. ¡Haga clic en \"Añadir al carrito\" ahora y lleve a casa el amor y la calidad que solo puede ofrecer nuestra \"Jersey bebé Buho Azul\"!",
+  "sourceDescriptionHtml": "<div>\n<h2>Suavidad Cautivadora</h2>\n<p>Deléitese con la asombrosa suavidad de nuestra \"Jersey bebé Buho Azul\". Hecho con los mejores materiales para garantizar el máximo confort para su pequeño, este jersey proveerá mucha comodidad y abrigo durante los días fríos. El algodón respirable en el que está hecho, convertirá cada sueño en una agradable experiencia.</p>\n\n<h2>Un Diseño Llamativo</h2>\n<p>La belleza no tiene que sacrificarse por la comodidad. ¡Es por eso que nuestra \"Jersey bebé Buho Azul\" combina ambos! Este impresionante jersey presenta un adorable Buho estampado en un fondo azul, haciendo de cada atuendo algo especial y divertido. Es la elección perfecta para añadir un poco de color y estilo al guardarropa de su bebé.</p>\n\n<h2>Resistencia Sin Igual</h2>\n<p>¿Quién dijo que los artículos para bebés no pueden ser duraderos? Creemos firmemente que la ropa para bebés y niños debe ser tan resistente como cómoda. Nuestra \"Jersey bebé Buho Azul\" ha sido diseñada y fabricada pensando en la durabilidad. Con los lavados, el color no se desvanece y la forma se mantiene intacta, asegurando así que su bebé pueda disfrutar de este hermoso jersey por mucho tiempo.</p>\n\n<p>No pierda la oportunidad de darle a su bebé este abrigo cómodo, llamativo y duradero. ¡Haga clic en \"Añadir al carrito\" ahora y lleve a casa el amor y la calidad que solo puede ofrecer nuestra \"Jersey bebé Buho Azul\"!</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "741"
+  ],
+  "sourceDefaultCategoryId": "741",
+  "sourceCategoryName": "Sudaderas y jerseys bebé niño",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:24",
+  "sourceUpdatedAt": "2026-10-27 11:10:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65706",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1809037",
+      "productSku": "1809037",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:47.198Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7402-10262.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10262-large_default/jersey-bebe-buho-azul.jpg",
+      "alt": "Jersey bebé Buho Azul",
+      "sourceId": "10262",
+      "variantIds": [],
+      "sha256": "0e62bdafaf2496a62aa79c62b7a1d2b70a31738de9a27ea0b5b2c797f6603182"
+    },
+    {
+      "path": "assets/7402-10261.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10261-large_default/jersey-bebe-buho-azul.jpg",
+      "alt": "Jersey bebé Buho Azul",
+      "sourceId": "10261",
+      "variantIds": [],
+      "sha256": "2bb81134d4d4f5c4fad8db9d133f220c5f02580e3a2276fb8b84329f83f94e6a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:47.329Z",
+  "issues": []
+}

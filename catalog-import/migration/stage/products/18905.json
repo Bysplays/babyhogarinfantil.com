@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "18905",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals/18905-chandal-2-piezas-algodon-nina-fucsia.html",
+  "name": "Chandal 2 piezas algodon niña Fucsia",
+  "brand": "Babybol",
+  "sku": "2402165",
+  "description": "Chándal 95% algodón  y 5% elastano invierno, con sudadera y bolsillo canguro.",
+  "details": "Comodidad y Calidez para el Invierno\n\nEste chándal de invierno de dos piezas en color fucsia es la elección perfecta para mantener a tu niña abrigada y cómoda durante los meses fríos. Confeccionado en algodón de alta calidad, este conjunto ofrece una suavidad excepcional que cuida la piel delicada de tu pequeña. La chaqueta con capucha proporciona una capa adicional de protección contra el frío, mientras que el pantalón y la camiseta aseguran una comodidad total para el día a día.\n\nDiseño Encantador y Funcional\n\nEl diseño de este chándal no solo es práctico, sino también atractivo. La chaqueta fucsia con detalles encantadores y la camiseta a juego añaden un toque de ternura y estilo al conjunto. Los colores vibrantes y los detalles encantadores hacen que este conjunto sea ideal para cualquier ocasión, desde una salida al parque hasta una reunión familiar. Además, los cierres fáciles y la cintura elástica aseguran un ajuste perfecto y cómodo.\n\nDurabilidad y Facilidad de Mantenimiento\n\nPensado para resistir el uso diario, este chándal es extremadamente duradero y fácil de mantener. Se puede lavar a máquina sin perder su forma ni color, lo que lo convierte en una opción práctica para los padres ocupados. La calidad del material asegura que el conjunto mantenga su aspecto y suavidad lavado tras lavado, ofreciendo una excelente relación calidad-precio.\n\n¡No esperes más! Añade este encantador chándal a tu carrito y asegura la máxima comodidad y estilo para tu niña este invierno.",
+  "sourceDescriptionHtml": "<div class=\"content user-select-text\" style=\"font-size:medium;\">\n<div class=\"ac-container ac-adaptiveCard has-image\">\n<div class=\"ac-textBlock\">\n<h3>Comodidad y Calidez para el Invierno</h3>\n<p>Este chándal de invierno de dos piezas en color fucsia es la elección perfecta para mantener a tu niña abrigada y cómoda durante los meses fríos. Confeccionado en <strong>algodón de alta calidad</strong>, este conjunto ofrece una suavidad excepcional que cuida la piel delicada de tu pequeña. La chaqueta con capucha proporciona una capa adicional de protección contra el frío, mientras que el pantalón y la camiseta aseguran una comodidad total para el día a día.</p>\n<h3>Diseño Encantador y Funcional</h3>\n<p>El diseño de este chándal no solo es práctico, sino también atractivo. La chaqueta fucsia con detalles encantadores y la camiseta a juego añaden un toque de ternura y estilo al conjunto. Los colores vibrantes y los detalles encantadores hacen que este conjunto sea ideal para cualquier ocasión, desde una salida al parque hasta una reunión familiar. Además, los cierres fáciles y la cintura elástica aseguran un ajuste perfecto y cómodo.</p>\n<h3>Durabilidad y Facilidad de Mantenimiento</h3>\n<p>Pensado para resistir el uso diario, este chándal es extremadamente duradero y fácil de mantener. Se puede lavar a máquina sin perder su forma ni color, lo que lo convierte en una opción práctica para los padres ocupados. La calidad del material asegura que el conjunto mantenga su aspecto y suavidad lavado tras lavado, ofreciendo una excelente relación calidad-precio.</p>\n<p><strong>¡No esperes más! Añade este encantador chándal a tu carrito y asegura la máxima comodidad y estilo para tu niña este invierno.</strong></p>\n</div>\n</div>\n<div class=\"ad-container\"></div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "803"
+  ],
+  "sourceDefaultCategoryId": "803",
+  "sourceCategoryName": "Chandals",
+  "price": 32.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-08 15:54:13",
+  "sourceUpdatedAt": "2026-10-27 11:13:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87848",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2402165",
+      "productSku": "2402165",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:40.765Z"
+    },
+    {
+      "id": "87849",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2402165",
+      "productSku": "2402165",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:45.516Z"
+    },
+    {
+      "id": "87850",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2402165",
+      "productSku": "2402165",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:48.745Z"
+    },
+    {
+      "id": "87851",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2402165",
+      "productSku": "2402165",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:51.564Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18905-17338.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17338-large_default/chandal-2-piezas-algodon-nina-fucsia.jpg",
+      "alt": "Chandal 2 piezas algodon niña Fucsia",
+      "sourceId": "17338",
+      "variantIds": [],
+      "sha256": "e9821e89e588a0ab85b471c1f3809abf6c2ded508b06a6697ca801b9a086a410"
+    },
+    {
+      "path": "assets/18905-17339.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17339-large_default/chandal-2-piezas-algodon-nina-fucsia.jpg",
+      "alt": "Chandal 2 piezas algodon niña Fucsia",
+      "sourceId": "17339",
+      "variantIds": [],
+      "sha256": "225e227f94671de074593138d5f0060a7b5130b287ff8aca3007622a98d384cb"
+    },
+    {
+      "path": "assets/18905-17340.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17340-large_default/chandal-2-piezas-algodon-nina-fucsia.jpg",
+      "alt": "Chandal 2 piezas algodon niña Fucsia",
+      "sourceId": "17340",
+      "variantIds": [],
+      "sha256": "f69d12e5b6a261c7ca4c9c7b5ceba3623c5ed3df57eceda6237ccdf87cc69b9d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:51.739Z",
+  "issues": []
+}

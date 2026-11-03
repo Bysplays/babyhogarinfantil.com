@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "20498",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nino/20498-jersey-punto-bebe-guinda.html",
+  "name": "Jersey punto bebé Guinda",
+  "brand": "Mayoral",
+  "sku": "2502065",
+  "description": "Jersey de punto con cierre de botones en la espalda para facilitar la puesta.",
+  "details": "COMPOSICIÓN:\n\nJersey\n\n\n\n\n\n63% Algodón\n\n28% Poliamida\n\n9% Lana\n\nLAVAR A 30º Y DEL REVES, RECOMENDADO\n\nNO USAR LEJIAS",
+  "sourceDescriptionHtml": "<div class=\"header\" style=\"font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';font-weight:bold;line-height:12px;letter-spacing:1px;text-transform:uppercase;margin-top:0px;color:#101012;background-color:#ffffff;\">\n<p>COMPOSICIÓN:</p>\n<p>Jersey</p>\n</div>\n<div class=\"Com\" style=\"margin-top:8px;margin-bottom:8px;color:#101012;font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';font-size:15px;background-color:#ffffff;\">\n<div class=\"CLin\">\n<div class=\"Cuni\" style=\"line-height:22px;letter-spacing:0px;\">63% Algodón</div>\n<div class=\"Cuni\" style=\"line-height:22px;letter-spacing:0px;\">28% Poliamida</div>\n<div class=\"Cuni\" style=\"line-height:22px;letter-spacing:0px;\">9% Lana</div>\n<div class=\"Cuni\" style=\"line-height:22px;letter-spacing:0px;\">LAVAR A 30º Y DEL REVES, RECOMENDADO</div>\n<div class=\"Cuni\" style=\"line-height:22px;letter-spacing:0px;\">NO USAR LEJIAS</div>\n</div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Guinda",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "741"
+  ],
+  "sourceDefaultCategoryId": "741",
+  "sourceCategoryName": "Sudaderas y jerseys bebé niño",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "339",
+          "label": "1-2m"
+        },
+        {
+          "id": "340",
+          "label": "2-4m"
+        },
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94976",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "339",
+          "group": "Tamaño",
+          "value": "1-2m"
+        }
+      ],
+      "sku": "2502065",
+      "productSku": "2502065",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:28.417Z"
+    },
+    {
+      "id": "94977",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2502065",
+      "productSku": "2502065",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:29.816Z"
+    },
+    {
+      "id": "94978",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2502065",
+      "productSku": "2502065",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:31.323Z"
+    },
+    {
+      "id": "94979",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2502065",
+      "productSku": "2502065",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:32.946Z"
+    },
+    {
+      "id": "94980",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502065",
+      "productSku": "2502065",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:34.740Z"
+    },
+    {
+      "id": "94981",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502065",
+      "productSku": "2502065",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:36.145Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20498-19160.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19160-large_default/jersey-punto-bebe-guinda.jpg",
+      "alt": "Jersey punto bebé Guinda",
+      "sourceId": "19160",
+      "variantIds": [],
+      "sha256": "137ee68dfb75efb96fe61ec04ee1081228dfd9438fa1ff6666c2c8a09695933d"
+    },
+    {
+      "path": "assets/20498-19161.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19161-large_default/jersey-punto-bebe-guinda.jpg",
+      "alt": "Jersey punto bebé Guinda",
+      "sourceId": "19161",
+      "variantIds": [],
+      "sha256": "31f357ceafaf120dc449744fdace71e6fa845048a4deced094713db253c43319"
+    },
+    {
+      "path": "assets/20498-19162.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19162-large_default/jersey-punto-bebe-guinda.jpg",
+      "alt": "Jersey punto bebé Guinda",
+      "sourceId": "19162",
+      "variantIds": [],
+      "sha256": "8e4065b2de44614f13918aacda5dc78e6abde0995795e13c95c63524b5a1f826"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:36.378Z",
+  "issues": []
+}

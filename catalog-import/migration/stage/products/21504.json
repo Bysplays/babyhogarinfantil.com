@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "21504",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys/21504-sudadera-felpa-con-capucha-verde-agua.html",
+  "name": "Sudadera felpa con capucha Verde Agua",
+  "brand": "Babybol",
+  "sku": "2502142",
+  "description": "Sudadera para invierno con capucha y felta interior. Letras estampadas en pecho. Puños y cintura con elásticos y bolsillo kanguro.",
+  "details": "Composición:\n\nSudadera: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Sudadera: </strong>100% algodón. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde Agua",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "772",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "772",
+  "sourceCategoryName": "Sudaderas y jerseys",
+  "price": 24,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96833",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502142",
+      "productSku": "2502142",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:54.687Z"
+    },
+    {
+      "id": "96834",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502142",
+      "productSku": "2502142",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:56.806Z"
+    },
+    {
+      "id": "96835",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502142",
+      "productSku": "2502142",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:58.890Z"
+    },
+    {
+      "id": "96837",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502142",
+      "productSku": "2502142",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:01.145Z"
+    },
+    {
+      "id": "96839",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502142",
+      "productSku": "2502142",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:02.997Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21504-20094.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20094-large_default/sudadera-felpa-con-capucha-verde-agua.jpg",
+      "alt": "Sudadera felpa con capucha Verde Agua",
+      "sourceId": "20094",
+      "variantIds": [],
+      "sha256": "a20b7b31c27c99a70df4da0b28b1f56cdb4bad4433348d274ccdcb2518c26c5e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:03.065Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "7758",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nina/7758-pijama-corto-lol-rock-rosa.html",
+  "name": "Pijama corto LOL ROCK Rosa",
+  "brand": "Cerdá",
+  "sku": "1904278",
+  "description": "Pijama colección LOL con pantalón largo.",
+  "details": "Pijama molón de las LOL Surprise! Están arrasando y no es para menos. Camiseta de manga corta y cuello redondo en color blanco y rosa degradado, con estampado de las LOL rockeras en la parte delantera. El pantalón es largo y finito, con goma en la cintura, tiene el fondo fucsia con estampado de las LOL en tonalidades más oscuras. Un pijama fresco, cómodo y estiloso, perfecto para las noches de verano y entretiempo. Echa un vistazo a nuestra colección de ropa y complemento de las LOL y hazte con toda la colección.\n\nComposición:\n\nPijama: 100% algodón\n\nLAVAR A MÁQUINA (TEMPERATURA MÁXIMA 30 ºC)\n\nNO USAR LEJÍAS\n\nNO SECAR EN SECADORA\n\nNO LAVAR EN SECO\n\nPLANCHAR A TEMPERATURA BAJA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Pijama molón de las <strong style=\"margin:0px;padding:0px;\">LOL Surprise! </strong>Están arrasando y no es para menos. Camiseta de manga corta y cuello redondo en color blanco y rosa degradado, con estampado de las LOL rockeras en la parte delantera. El pantalón es largo y finito, con goma en la cintura, tiene el fondo fucsia con estampado de las LOL en tonalidades más oscuras. Un pijama fresco, cómodo y estiloso, perfecto para las noches de verano y entretiempo. Echa un vistazo a nuestra colección de ropa y complemento de las LOL y hazte con toda la colección.</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Pijama: 100% algodón</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (TEMPERATURA MÁXIMA 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO SECAR EN SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO LAVAR EN SECO</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A TEMPERATURA BAJA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776"
+  ],
+  "sourceDefaultCategoryId": "776",
+  "sourceCategoryName": "Pijamas niña",
+  "price": 9,
+  "oldPrice": 17.9927,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66319",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1904278",
+      "productSku": "1904278",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": 17.9927,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:04.141Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7758-5826.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5826-large_default/pijama-corto-lol-rock-rosa.jpg",
+      "alt": "Pijama corto LOL ROCK Rosa",
+      "sourceId": "5826",
+      "variantIds": [],
+      "sha256": "47c8c70d31f43293120f2dd09b6277a324b7907367391aacb8f29463ad06dbfd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:04.191Z",
+  "issues": []
+}

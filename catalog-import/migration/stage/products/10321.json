@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "10321",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10321-pelele-rayas-verde.html",
+  "name": "Pelele rayas Verde",
+  "brand": "Baby-Ferr",
+  "sku": "2301083",
+  "description": "Adorna a tu pequeño con el impresionante \"Pelele Rayas Verde\", perfecto para realzar la encantadora personalidad de tu hijo. Este atuendo fresco y cómodo no solo proporciona máximo confort, sino que también hará que tu bebé se destaque con su diseño de rayas modernas y su atractivo color verde. Imagina esos momentos fotográficos, tus dulces recuerdos se vuelven aún más preciosos cuando tu pequeño lleva puesto este magnífico pelele. Es ideal para cualquier ocasión, siendo una hermosa elección para regalo. No hay nada más adorable que tu pequeño ataviado en este espectacular pelele. ¡Es hora de brindarle a tu ángel la mejor moda infantil!  HECHO EN ESPAÑA",
+  "details": "Confort Inigualable\n\nDeja que tu pequeño ángel experimente la gentileza envolvente del Pelele Rayas Verde. Este delicado atuendo, elaborado con el cuidado más sutil, garantiza que la piel de tu bebé estará rodeada de una suavidad inigualable durante toda la noche. Permite que su sueño sea tan ligero como una pluma, brindándoles el descanso que necesitan para crecer y prosperar.\n\nEstilo Exquisito\n\nLos brillantes tonos del Pelele Rayas Verde llevarán el atuendo de los más pequeños al siguiente nivel. Un fashion statement que seguramente destacará en cada ocasión. Las líneas simples y relajadas del diseño, combinadas con las delicadas rayas verdes, crean una estética sofisticada que va más allá de las tendencias del momento.\n\nUna Inversión Para El Futuro\n\nEl Pelele Rayas Verde ha sido confeccionado para resistir interminables noches de sueño y mañanas animadas. La alta calidad de sus materiales garantiza una durabilidad excepcional, por lo que la prenda conservará su encanto durante un buen tiempo. Invierte en el bienestar y el estilo de tu pequeño sabiendo que este pelele durará en el tiempo.\n\nComprar Ahora y experimenta la suave emoción de ver a tu bebé vestido con este magnífico Pelele Rayas Verde, permitiendo que cada noches sea un sueño hecho realidad.",
+  "sourceDescriptionHtml": "<h2>Confort Inigualable</h2>\n<p>Deja que tu pequeño ángel experimente la gentileza envolvente del <strong>Pelele Rayas Verde</strong>. Este delicado atuendo, elaborado con el cuidado más sutil, garantiza que la piel de tu bebé estará rodeada de una suavidad inigualable durante toda la noche. Permite que su sueño sea tan ligero como una pluma, brindándoles el descanso que necesitan para crecer y prosperar.</p>\n<h2>Estilo Exquisito</h2>\n<p>Los brillantes tonos del <strong>Pelele Rayas Verde</strong> llevarán el atuendo de los más pequeños al siguiente nivel. Un fashion statement que seguramente destacará en cada ocasión. Las líneas simples y relajadas del diseño, combinadas con las delicadas rayas verdes, crean una estética sofisticada que va más allá de las tendencias del momento.</p>\n<h2>Una Inversión Para El Futuro</h2>\n<p>El <strong>Pelele Rayas Verde</strong> ha sido confeccionado para resistir interminables noches de sueño y mañanas animadas. La alta calidad de sus materiales garantiza una durabilidad excepcional, por lo que la prenda conservará su encanto durante un buen tiempo. Invierte en el bienestar y el estilo de tu pequeño sabiendo que este pelele durará en el tiempo.</p>\n<p><strong><a href=\"#\">Comprar Ahora</a></strong> y experimenta la suave emoción de ver a tu bebé vestido con este magnífico <strong>Pelele Rayas Verde</strong>, permitiendo que cada noches sea un sueño hecho realidad.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 30.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:19",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71607",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2301083",
+      "productSku": "2301083",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:49.140Z"
+    },
+    {
+      "id": "79649",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301083",
+      "productSku": "2301083",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:50.556Z"
+    },
+    {
+      "id": "71609",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301083",
+      "productSku": "2301083",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:51.856Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10321-13686.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13686-large_default/pelele-rayas-verde.jpg",
+      "alt": "Pelele rayas Verde",
+      "sourceId": "13686",
+      "variantIds": [],
+      "sha256": "a7963b0be68d9ea8a2ed6a0cce5e7a1a01a2d5362572b17977c121a28f56f3f5"
+    },
+    {
+      "path": "assets/10321-13687.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13687-large_default/pelele-rayas-verde.jpg",
+      "alt": "Pelele rayas Verde",
+      "sourceId": "13687",
+      "variantIds": [],
+      "sha256": "84f5311e1620b602ca99087c27f67038853963427cd5616607feac68f12d728e"
+    },
+    {
+      "path": "assets/10321-13688.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13688-large_default/pelele-rayas-verde.jpg",
+      "alt": "Pelele rayas Verde",
+      "sourceId": "13688",
+      "variantIds": [],
+      "sha256": "a8d1840702346b2a19c4304957d1ae3c135f592add409ca20e4cb98c6b394dc7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:52.022Z",
+  "issues": []
+}

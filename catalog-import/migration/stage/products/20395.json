@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "20395",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/20395-pantalon-algodon-perchado-mickey-gris.html",
+  "name": "Pantalón algodón perchado Mickey Gris",
+  "brand": "Zippy",
+  "sku": "2207038",
+  "description": "Descubre la suavidad y comodidad incomparables del Pantalón Algodón Perchado Mickey Gris. Este hermoso diseño, creado especialmente para los pequeños amantes de Mickey, les brindará la calidez y confort que necesitan en su día a día. Su textura de algodón perchado es delicada con la piel, ofreciendo una sensación placentera al tacto. Perfectamente apto para exploradores enérgicos, seguramente capturará la imaginación de su niño. Una pieza esencial a la hora del guardarropa, estos pantalones versátiles son ideales para cualquier actividad. No pierdas la oportunidad de aportar un toque de diversión a su vestuario con este adorable diseño Mickey.",
+  "details": "Composición y cuidados:\n\nPantalón: 95% algodón, 5% elastano.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p style=\"font-size:11px;font-weight:400;\">Composición y cuidados:</p>\n<p style=\"font-size:11px;font-weight:400;\">Pantalón: 95% algodón, 5% elastano.</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR LEJIAS.</p>\n<p style=\"font-size:11px;font-weight:400;\">LAVAR A 30º RECOMENDADO.</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 13:12:34",
+  "sourceUpdatedAt": "2026-10-27 11:11:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94493",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2207038",
+      "productSku": "2207038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:53.961Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20395-19083.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19083-large_default/pantalon-algodon-perchado-mickey-gris.jpg",
+      "alt": "Pantalón algodón perchado Mickey Gris",
+      "sourceId": "19083",
+      "variantIds": [],
+      "sha256": "85d7a541abfb4434cba9bdf9e2ebf3250085a32f59dc9d182763b7abcf964039"
+    },
+    {
+      "path": "assets/20395-19082.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19082-large_default/pantalon-algodon-perchado-mickey-gris.jpg",
+      "alt": "Pantalón algodón perchado Mickey Gris",
+      "sourceId": "19082",
+      "variantIds": [],
+      "sha256": "e5033c24ab1a2f77460795e3552106200f0acc251804fb9a017c62df48f3db53"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:54.095Z",
+  "issues": []
+}

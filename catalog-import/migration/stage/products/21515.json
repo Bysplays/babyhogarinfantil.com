@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "21515",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-de-punto-bebe-nino/21515-conjunto-tricot-bebe-piedra.html",
+  "name": "Conjunto tricot bebé Piedra",
+  "brand": "Yatsi",
+  "sku": "2502152",
+  "description": "Divertido conjunto en punto con jersey y pantaloncito. El jersey abre completamente por la espalda para facilitar la puesta. El pantalón tiene cintura de goma suave y\n\nbajos sin pie.",
+  "details": "Composición:\n\nConjunto: 50% algodón, 50% acrílico.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Conjunto:</strong> 50% algodón, 50% acrílico.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Piedra",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820",
+    "692"
+  ],
+  "sourceDefaultCategoryId": "692",
+  "sourceCategoryName": "Conjuntos de punto BEBE NIÑO",
+  "price": 28.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:09",
+  "sourceUpdatedAt": "2026-10-27 11:14:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96908",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502152",
+      "productSku": "2502152",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:59.008Z"
+    },
+    {
+      "id": "96909",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502152",
+      "productSku": "2502152",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:59.846Z"
+    },
+    {
+      "id": "96910",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502152",
+      "productSku": "2502152",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:00.674Z"
+    },
+    {
+      "id": "96911",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502152",
+      "productSku": "2502152",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:01.557Z"
+    },
+    {
+      "id": "96912",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502152",
+      "productSku": "2502152",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:02.496Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21515-20114.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20114-large_default/conjunto-tricot-bebe-piedra.jpg",
+      "alt": "Conjunto tricot bebé Piedra",
+      "sourceId": "20114",
+      "variantIds": [],
+      "sha256": "56bda03876ddfa200f36cdfef2d10e64a7fac4af65c9f5013c9b1c5d0d86861c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:02.575Z",
+  "issues": []
+}

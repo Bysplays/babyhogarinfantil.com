@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "16760",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/16760-pepito-con-velcro-azul-marino.html",
+  "name": "Pepito con velcro Azul marino",
+  "brand": "Mayoral",
+  "sku": "2301056",
+  "description": "¿Buscas el zapato perfecto para tu pequeño? Presentamos Pepito con Velcro Azul Marino. Esta joya es la combinación perfecta de comodidad y estilo, diseñada específicamente para los más pequeños. El encantador tono azul marino promete agregar un toque de sofisticación a cualquier conjunto, mientras que el fácil sistema de velcro asegura un ajuste perfecto cada vez. ¿Lo más importante? Este zapato es increíblemente cómodo, diseñado para apoyar esos pasos inestables, garantizando horas de aventura sin dolor. No busques más, Pepito con Velcro Azul Marino es sin duda la elección perfecta para tu pequeño aventurero.",
+  "details": "Confort Inigualable\n\nLos pequeños pies de tu hijo merecen la comodidad y suavidad que proporciona el Pepito con velcro Azul marino. Este calzado no sólo tiene un diseño único, sino que su interior acolchado proporciona un cómodo apoyo durante todo el día. Sus matizados tonos azul marino son el complemento perfecto para cualquier atuendo de tu pequeño.\n\nFácil de Poner, Fácil de Quitar\n\nGracias al diseño práctico de Pepito con velcro Azul marino, poner y quitar zapatos en los pequeños pies de los niños nunca ha sido tan fácil. El velcro fuerte pero suave asegura un ajuste seguro sin ser demasiado restrictivo. Así, en cuestión de segundos, tu pequeño estará listo para emprender sus pequeñas aventuras.\n\nCalidad Duradera\n\nFabricados con materiales de alta calidad, los Pepito con velcro Azul marino resisten las pruebas del juego y la exploración infantil. No permita que el constante uso diario y las manchas difíciles arruinen los zapatos de su hijo. Este par está diseñado para durar, manteniendo su estilo elegante y su comodidad superior por mucho tiempo.\n\n\n¡Da el paso y agrega el par de zapatos perfecto al guardarropa de tu pequeño! Inviste en la combinación perfecta de confort, facilidad de uso y durabilidad con el Pepito con velcro Azul marino. ¡Haz clic para comprar ahora!",
+  "sourceDescriptionHtml": "<h2>Confort Inigualable</h2>\n<p>Los pequeños pies de tu hijo merecen la comodidad y suavidad que proporciona el Pepito con velcro Azul marino. Este calzado no sólo tiene un diseño único, sino que su interior acolchado proporciona un cómodo apoyo durante todo el día. Sus matizados tonos azul marino son el complemento perfecto para cualquier atuendo de tu pequeño.</p>\n<h2 style=\"padding-top:25px;\">Fácil de Poner, Fácil de Quitar</h2>\n<p>Gracias al diseño práctico de Pepito con velcro Azul marino, poner y quitar zapatos en los pequeños pies de los niños nunca ha sido tan fácil. El velcro fuerte pero suave asegura un ajuste seguro sin ser demasiado restrictivo. Así, en cuestión de segundos, tu pequeño estará listo para emprender sus pequeñas aventuras.</p>\n<h2 style=\"padding-top:25px;\">Calidad Duradera</h2>\n<p>Fabricados con materiales de alta calidad, los Pepito con velcro Azul marino resisten las pruebas del juego y la exploración infantil. No permita que el constante uso diario y las manchas difíciles arruinen los zapatos de su hijo. Este par está diseñado para durar, manteniendo su estilo elegante y su comodidad superior por mucho tiempo.</p>\n<div style=\"padding-top:25px;\">\n<p>¡Da el paso y agrega el par de zapatos perfecto al guardarropa de tu pequeño! Inviste en la combinación perfecta de confort, facilidad de uso y durabilidad con el Pepito con velcro Azul marino. ¡Haz clic para comprar ahora!</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-08-14 15:53:17",
+  "sourceUpdatedAt": "2026-10-27 11:12:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "78665",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "2301056",
+      "productSku": "2301056",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:44.591Z"
+    },
+    {
+      "id": "78666",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "2301056",
+      "productSku": "2301056",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:46.581Z"
+    },
+    {
+      "id": "78667",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "2301056",
+      "productSku": "2301056",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:48.533Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16760-15641.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15641-large_default/pepito-con-velcro-azul-marino.jpg",
+      "alt": "Pepito con velcro Azul marino",
+      "sourceId": "15641",
+      "variantIds": [],
+      "sha256": "c4529deca92f2bbf9a9c84767426d5a4e7a60b0104e338611c2242b6120d65dc"
+    },
+    {
+      "path": "assets/16760-15642.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15642-large_default/pepito-con-velcro-azul-marino.jpg",
+      "alt": "Pepito con velcro Azul marino",
+      "sourceId": "15642",
+      "variantIds": [],
+      "sha256": "36f3a26aa3a058ff044a0e6501ccb073fa703b498199885610800dc343840d31"
+    },
+    {
+      "path": "assets/16760-15643.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15643-large_default/pepito-con-velcro-azul-marino.jpg",
+      "alt": "Pepito con velcro Azul marino",
+      "sourceId": "15643",
+      "variantIds": [],
+      "sha256": "27b9a82f1283d4bdbf15e49fdeb3694b9938cb434d41f529a5d7d6d03136f6a6"
+    },
+    {
+      "path": "assets/16760-15644.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15644-large_default/pepito-con-velcro-azul-marino.jpg",
+      "alt": "Pepito con velcro Azul marino",
+      "sourceId": "15644",
+      "variantIds": [],
+      "sha256": "ae5f7e1a76ef463dcd6ffa676989fbbf7027eb43715e4f2aa698077ab5c69b00"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:48.780Z",
+  "issues": []
+}

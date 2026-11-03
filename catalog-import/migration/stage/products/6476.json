@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "id": "6476",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/6476-pantalon-colegial-largo-gomas-de-2-a-10-azul-marino.html",
+  "name": "Pantalón colegial LARGO gomas de 2 a 10 Azul Marino",
+  "brand": "Ayapunt",
+  "sku": "1561928",
+  "description": "Sorprenda a su pequeño con los duraderos y cómodos Pantalones Colegiales Largos en Azul Marino, perfectos para colegios como Divino Salvador en Vigo. Diseñados con gomas para asegurar un ajuste perfecto de los 2 hasta los 10 años. ¡Comodidad durante todo el día! Sus materiales de resistencia permiten que sobrevivan incluso al recreo más enérgico. Muestre orgullo escolar, vistiendo a su hijo con el uniforme perfecto. Conviértase hoy en un padre orgulloso viendo a su hijo vestir con elegancia y confort. HECHO EN ESPAÑA",
+  "details": "Un Ajuste Cómodo e Ideal\n\nLos Pantalones colegiales largos con gomas son ideales para los pequeños en crecimiento. Gracias a su diseño con gomas, proporcionan un ajuste seguro pero cómodo que se adapta a medida que tu niño crece. Disponibles en un versátil color Azul Marino, estos pantalones son perfectos para cualquier actividad, ya sea en la escuela o en el parque.\n\nCalidad Premium\n\nHechos con materiales de alta calidad, estos Pantalones colegiales largos proporcionan tanto durabilidad como comodidad. Su tela resistente soportará incluso las actividades más enérgicas de tu pequeño, mientras que su interior suave garantiza comodidad durante todo el día. Una elección de calidad para el armario de tus niños.\n\nEstilo Versátil y Duradero\n\nLos Pantalones colegiales largos con gomas no son simplemente prácticos, sino también elegantes. Su diseño atemporal es apropiado para una variedad de ocasiones y conjuntos, y su color Azul Marino añade un toque de sofisticación. Iguales partes de comodidad y estilo, estos pantalones serán una adición esencial para el armario de cualquier niño.\n\n¡No esperes más! Añade los Pantalones colegiales largos con gomas a tu carrito hoy y dale a tu pequeño el confort y el estilo que se merece. ¡Haz clic en comprar ahora!",
+  "sourceDescriptionHtml": "<h2>Un Ajuste Cómodo e Ideal</h2>\n<p>Los Pantalones colegiales largos con gomas son ideales para los pequeños en crecimiento. Gracias a su diseño con gomas, proporcionan un ajuste seguro pero cómodo que se adapta a medida que tu niño crece. Disponibles en un versátil color Azul Marino, estos pantalones son perfectos para cualquier actividad, ya sea en la escuela o en el parque.</p>\n<h2>Calidad Premium</h2>\n<p>Hechos con materiales de alta calidad, estos Pantalones colegiales largos proporcionan tanto durabilidad como comodidad. Su tela resistente soportará incluso las actividades más enérgicas de tu pequeño, mientras que su interior suave garantiza comodidad durante todo el día. Una elección de calidad para el armario de tus niños.</p>\n<h2>Estilo Versátil y Duradero</h2>\n<p>Los Pantalones colegiales largos con gomas no son simplemente prácticos, sino también elegantes. Su diseño atemporal es apropiado para una variedad de ocasiones y conjuntos, y su color Azul Marino añade un toque de sofisticación. Iguales partes de comodidad y estilo, estos pantalones serán una adición esencial para el armario de cualquier niño.</p>\n<p><strong>¡No esperes más! Añade los Pantalones colegiales largos con gomas a tu carrito hoy y dale a tu pequeño el confort y el estilo que se merece. ¡Haz clic en comprar ahora!</strong></p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "783"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:13",
+  "sourceUpdatedAt": "2026-10-27 11:08:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 9,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63656",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1561928",
+      "productSku": "1561928",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:46.904Z"
+    },
+    {
+      "id": "91675",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1561928",
+      "productSku": "1561928",
+      "taxRate": 21,
+      "price": 31.51,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:49.704Z"
+    },
+    {
+      "id": "88393",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1561928",
+      "productSku": "1561928",
+      "taxRate": 21,
+      "price": 31.51,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:51.985Z"
+    },
+    {
+      "id": "98827",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1561928",
+      "productSku": "1561928",
+      "taxRate": 21,
+      "price": 31.51,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:54.040Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6476-21794.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21794-large_default/pantalon-colegial-largo-gomas-de-2-a-10-azul-marino.jpg",
+      "alt": "pantalon largo colegial azul marino sin boton",
+      "sourceId": "21794",
+      "variantIds": [],
+      "sha256": "cd368f23d74319abb29d98353e20299052d532c3558dae760bead88bc4f98949"
+    },
+    {
+      "path": "assets/6476-14058.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14058-large_default/pantalon-colegial-largo-gomas-de-2-a-10-azul-marino.jpg",
+      "alt": "Pantalón colegial LARGO gomas de 2 a 10 Azul Marino",
+      "sourceId": "14058",
+      "variantIds": [],
+      "sha256": "9636d9035216c5c70f0df4f31d2f8f550cfe6e8d8f231deb61c3472afec50020"
+    },
+    {
+      "path": "assets/6476-21795.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21795-large_default/pantalon-colegial-largo-gomas-de-2-a-10-azul-marino.jpg",
+      "alt": "pantalon largo colegial azul marino sin boton detalle bolsillo",
+      "sourceId": "21795",
+      "variantIds": [],
+      "sha256": "724cdd510c86697d491e6d871d532ba6d0525c945f6a9c3ae877c98cc5edd6ac"
+    },
+    {
+      "path": "assets/6476-21796.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21796-large_default/pantalon-colegial-largo-gomas-de-2-a-10-azul-marino.jpg",
+      "alt": "Parte trasera pantalon largo colegial azul marino sin boton",
+      "sourceId": "21796",
+      "variantIds": [],
+      "sha256": "d3da6106a3695f1129336cc1c85ec9dcc0d0ae7dc8c01c4810eb5bacdd3f57a2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:54.289Z",
+  "issues": []
+}

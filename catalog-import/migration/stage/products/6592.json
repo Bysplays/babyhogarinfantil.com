@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "6592",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/6592-salvapies-punto-liso-blanco.html",
+  "name": "Salvapies punto liso Blanco",
+  "brand": "Condor",
+  "sku": "1602102",
+  "description": "Pack de 2 pares de Salva pies de punto liso en algodón color BLANCO.",
+  "details": "Composici&oacute;n:\n\r\n65% ALGODON, 35% POLIAMIDA.",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n:</p>\r\n<p>65% ALGODON, 35% POLIAMIDA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 6.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-27 11:09:07",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 13,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63868",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1602102",
+      "productSku": "1602102",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:40.946Z"
+    },
+    {
+      "id": "63869",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1602102",
+      "productSku": "1602102",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:44.773Z"
+    },
+    {
+      "id": "63870",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1602102",
+      "productSku": "1602102",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:48.055Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6592-4545.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4545-large_default/salvapies-punto-liso-blanco.jpg",
+      "alt": "Salvapies punto liso Blanco",
+      "sourceId": "4545",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6592-9660.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9660-large_default/salvapies-punto-liso-blanco.jpg",
+      "alt": "Salvapies punto liso Blanco",
+      "sourceId": "9660",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6592-4544.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4544-large_default/salvapies-punto-liso-blanco.jpg",
+      "alt": "Salvapies punto liso Blanco",
+      "sourceId": "4544",
+      "variantIds": [],
+      "sha256": "618b6fa2bb33493e141dfcfd2fc12bb12a2a81e5d0888c1b3772d501ffba2b76"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:48.232Z",
+  "issues": []
+}

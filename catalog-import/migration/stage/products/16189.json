@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16189",
+  "sourceUrl": "https://babyhogarinfantil.com/bano-nino/16189-banador-boxer-super-zings-rojo.html",
+  "name": "Bañador boxer Super Zings Rojo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2301404",
+  "description": "Boxer baño para niños.",
+  "details": "Composición:\n\nBañador: 80% poliéster, 20% elastano.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Bañador: 80% poliéster, 20% elastano.</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "807"
+  ],
+  "sourceDefaultCategoryId": "807",
+  "sourceCategoryName": "Baño niño",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-22 00:35:11",
+  "sourceUpdatedAt": "2026-10-26 19:38:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72616",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2301404",
+      "productSku": "2301404",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:47.766Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16189-13875.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13875-large_default/banador-boxer-super-zings-rojo.jpg",
+      "alt": "Bañador boxer Super Zings Rojo",
+      "sourceId": "13875",
+      "variantIds": [],
+      "sha256": "82e28d9ab78211568fb221281b23f6f61c5fa52db0ca3ca3f17facfddc25c2a3"
+    },
+    {
+      "path": "assets/16189-13876.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13876-large_default/banador-boxer-super-zings-rojo.jpg",
+      "alt": "Bañador boxer Super Zings Rojo",
+      "sourceId": "13876",
+      "variantIds": [],
+      "sha256": "c017db43552d6bacb14b2ae52872dd016ddf37f794ba50ec91a4a7b49786669b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:47.884Z",
+  "issues": []
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "16153",
+  "sourceUrl": "https://babyhogarinfantil.com/complementos/16153-colonia-calamaro-varios.html",
+  "name": "Colonia calamaro Varios",
+  "brand": "Calamaro",
+  "sku": "2301380",
+  "description": "Descubre la esencia de la juventud con Colonia calamaro, una fragancia  encantadora para los más pequeños. Adecuado para uso diario, su fresca y alegre fragancia impregna un toque de alegría que revitaliza instantáneamente. Con su embriagador aroma, estimula los sentidos mientras nutre y cuida delicadamente la piel. Cada rociada evoca la inocencia y la felicidad invocando recuerdos especiales. Es la elección perfecta para esa ocasión casual o formal. ¡Nada expresa cuidado y amor como Colonia calamaro!",
+  "details": "Creada para situaciones cotidianas\n\nYa sea jugando en el parque o descansando en casa,  la Colonia calamaro ha sido diseñada para resistir la rutina diaria de los niños más activos.\n\nUna maravillosa opción de regalo\n\n¿Buscas el regalo perfecto para una celebración especial? La Colonia calamaro es no la opción ideal. Ya sea para cumpleaños, fiestas de baby shower o simple detalle,  es un regalo que los padres apreciarán y los niños amarán.\n\n¡No esperes más! Dale a tu pequeño la calidad y el estilo que se merece con la Colonia calamaro. Haz clic aquí para comprar ahora.",
+  "sourceDescriptionHtml": "<h2>Creada para situaciones cotidianas</h2>\n<p>Ya sea jugando en el parque o descansando en casa,  la Colonia calamaro ha sido diseñada para resistir la rutina diaria de los niños más activos.</p>\n<h2>Una maravillosa opción de regalo</h2>\n<p>¿Buscas el regalo perfecto para una celebración especial? La Colonia calamaro es no la opción ideal. Ya sea para cumpleaños, fiestas de baby shower o simple detalle,  es un regalo que los padres apreciarán y los niños amarán.</p>\n<p><strong>¡No esperes más! Dale a tu pequeño la calidad y el estilo que se merece con la Colonia calamaro. Haz clic aquí para comprar ahora.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "795",
+    "788",
+    "813",
+    "865"
+  ],
+  "sourceDefaultCategoryId": "788",
+  "sourceCategoryName": "Complementos",
+  "price": 15.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:45",
+  "sourceUpdatedAt": "2026-10-27 11:12:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92203",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11249XA17326",
+      "productSku": "2301380",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:37.327Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16153-13810.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13810-large_default/colonia-calamaro-varios.jpg",
+      "alt": "Colonia calamaro Varios",
+      "sourceId": "13810",
+      "variantIds": [],
+      "sha256": "5a35cc52d4c1ef0d5c2846caea73449f058481d3c84b6accfea17f06aafb0d6c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:37.394Z",
+  "issues": []
+}

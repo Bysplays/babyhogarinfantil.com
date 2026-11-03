@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "7982",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/7982-pantalon-algodon-estampado-blanco.html",
+  "name": "Pantalón algodón estampado Blanco",
+  "brand": "Zippy",
+  "sku": "1911104",
+  "description": "Pantalón 100% algodón CON FELPA INTERIRO, cálido para el invierno. Puño vuelto y cordón ajustable en cintura.",
+  "details": "Composición y cuidados:\n\nPantalón: 100% algodón.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pantalón: 100% algodón.</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-27 11:10:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66759",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1911104",
+      "productSku": "1911104",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:06.727Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7982-10777.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10777-large_default/pantalon-algodon-estampado-blanco.jpg",
+      "alt": "Pantalón algodón estampado Blanco",
+      "sourceId": "10777",
+      "variantIds": [],
+      "sha256": "0ccf40786b628992ad4b2325c7404657a129a0ff62d3fe7e8775d2c63f0d214e"
+    },
+    {
+      "path": "assets/7982-10778.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10778-large_default/pantalon-algodon-estampado-blanco.jpg",
+      "alt": "Pantalón algodón estampado Blanco",
+      "sourceId": "10778",
+      "variantIds": [],
+      "sha256": "54b05395b850d7fd5da4d311ad66cb011e5a729fe9ef65eb30936076dc694552"
+    },
+    {
+      "path": "assets/7982-10779.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10779-large_default/pantalon-algodon-estampado-blanco.jpg",
+      "alt": "Pantalón algodón estampado Blanco",
+      "sourceId": "10779",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/7982-6130.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6130-large_default/pantalon-algodon-estampado-blanco.jpg",
+      "alt": "Pantalón algodón estampado Blanco",
+      "sourceId": "6130",
+      "variantIds": [],
+      "sha256": "f08e4e9afb528f4a22c03e34a55d5448e4cfd18425a56309096b2d7504c48248"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:06.940Z",
+  "issues": []
+}

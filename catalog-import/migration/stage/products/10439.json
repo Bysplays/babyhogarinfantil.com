@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "10439",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10439-conjunto-bebe-nino-coches-pistacho.html",
+  "name": "Conjunto bebe niño coches Pistacho",
+  "brand": "Babybol",
+  "sku": "2301206",
+  "description": "Conjunto de dos piezas en algodón, compuesto por camiseta y pantalón corto estampado con coches",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Pistacho",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:02",
+  "sourceUpdatedAt": "2026-10-27 11:12:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72060",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301206",
+      "productSku": "2301206",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:35.781Z"
+    },
+    {
+      "id": "72061",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2301206",
+      "productSku": "2301206",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:36.885Z"
+    },
+    {
+      "id": "72062",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301206",
+      "productSku": "2301206",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:38.130Z"
+    },
+    {
+      "id": "92264",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301206",
+      "productSku": "2301206",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:39.331Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10439-13591.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13591-large_default/conjunto-bebe-nino-coches-pistacho.jpg",
+      "alt": "Conjunto bebe niño coches Pistacho",
+      "sourceId": "13591",
+      "variantIds": [],
+      "sha256": "e2b565402644d9677f840f44ec944d8efd310ef500fbc763f93191e6ac23ec60"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:39.410Z",
+  "issues": []
+}

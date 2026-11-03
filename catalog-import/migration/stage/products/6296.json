@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "6296",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-pom-pom/6296-calcetin-alto-con-borlas-antracita.html",
+  "name": "Calcetín alto con borlas Antracita",
+  "brand": "Condor",
+  "sku": "1020",
+  "description": "Calcetín alto con borlas en ALGODON CALIDO.",
+  "details": "Composici&oacute;n:\nCalcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n:<br />Calcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Antracita",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "686",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "686",
+  "sourceCategoryName": "Calcetines con pom-pom",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63222",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:26.759Z"
+    },
+    {
+      "id": "63225",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:29.666Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6296-4279.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4279-large_default/calcetin-alto-con-borlas-antracita.jpg",
+      "alt": "Calcetín alto con borlas Antracita",
+      "sourceId": "4279",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6296-9511.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9511-large_default/calcetin-alto-con-borlas-antracita.jpg",
+      "alt": "Calcetín alto con borlas Antracita",
+      "sourceId": "9511",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6296-4278.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4278-large_default/calcetin-alto-con-borlas-antracita.jpg",
+      "alt": "Calcetín alto con borlas Antracita",
+      "sourceId": "4278",
+      "variantIds": [],
+      "sha256": "aef855c075af5d0420e628accac1a5e10125624c48c29f1448665e91fd85dd99"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:29.857Z",
+  "issues": []
+}

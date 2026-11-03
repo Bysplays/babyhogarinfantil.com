@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "6618",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/6618-ranita-micropana-lisa-granate.html",
+  "name": "Ranita micropana lisa Granate",
+  "brand": "Calamaro",
+  "sku": "1606038",
+  "description": "Ranita cubre pañal en micro pana azul marino. 100% ALGODON.\n\nHECHA EN ESPAÑA.",
+  "details": "Composición y cuidados:\n\nRanita: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Ranita: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2016-17",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Granate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "892",
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-27 11:09:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63949",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1606038",
+      "productSku": "1606038",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:37.567Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6618-4571.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4571-large_default/ranita-micropana-lisa-granate.jpg",
+      "alt": "Ranita micropana lisa Granate",
+      "sourceId": "4571",
+      "variantIds": [],
+      "sha256": "c5db028da2a8a3080d7b8e5e9e399ccf954fb7ff938c69c7e1338e3916d16a58"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:37.643Z",
+  "issues": []
+}

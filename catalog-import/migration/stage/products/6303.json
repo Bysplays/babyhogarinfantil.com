@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "id": "6303",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-cortos-lisos/6303-calcetin-basico-punto-liso-azul-francia.html",
+  "name": "Calcetín básico punto liso Azul francia",
+  "brand": "Condor",
+  "sku": "1032",
+  "description": "Calcetín básico punto liso.",
+  "details": "Composición:\n\n75% algodón, 22% poliamida, 3% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>75% algodón, 22% poliamida, 3% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Francia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "687",
+    "840",
+    "878",
+    "879",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "687",
+  "sourceCategoryName": "Calcetines cortos lisos",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 29,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63262",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:42.137Z"
+    },
+    {
+      "id": "87190",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:45.533Z"
+    },
+    {
+      "id": "87191",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:48.478Z"
+    },
+    {
+      "id": "87192",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:51.704Z"
+    },
+    {
+      "id": "87193",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:55.342Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6303-4293.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4293-large_default/calcetin-basico-punto-liso-azul-francia.jpg",
+      "alt": "Calcetín básico punto liso Azul francia",
+      "sourceId": "4293",
+      "variantIds": [],
+      "sha256": "e85500614c8bf8dfc2eec5435d655f20fe54c4c57cc1a15b786109f41b4a6a64"
+    },
+    {
+      "path": "assets/6303-16654.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16654-large_default/calcetin-basico-punto-liso-azul-francia.jpg",
+      "alt": "Calcetín básico punto liso Azul francia",
+      "sourceId": "16654",
+      "variantIds": [],
+      "sha256": "62968d446836fb10b98cfe961e260650a5da447b6783926692532d02c6c1ede6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:55.506Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9627",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/9627-pack-lazo-mas-horquillas-coral.html",
+  "name": "Pack lazo mas horquillas Coral",
+  "brand": "Siena",
+  "sku": "2204004",
+  "description": "Lazo de 6 x 4 cm. aproximadamente sobre clip pico-pato de 4 cm.\n\nY dos clips rana de 5 cm. a tono.\n\nHECHO EN ESPAÑA",
+  "details": "Una Combinación de Estilo y Comodidad\n\n\nAdorna a tu pequeña con nuestro Pack lazo mas horquillas Coral, una selección perfecta para añadir un toque de encanto y dulzura a cualquier atuendo. Este conjunto, diseñado con amor y detallismo, no sólo REALZA su estilo, sino que también le proporciona una comodidad excepcional todo el día.\n\n\nCalidad Impecable para los Más pequeños\n\n\nEntendemos que los niños requieren ropa y accesorios que puedan resistir su día a día. Por eso, nuestro Pack lazo más horquillas Coral está PRODUCIDO con materiales de alta calidad que garantizan una Mayor DURABILIDAD y RESISTENCIA al desgaste. Este pack no sólo se mantendrá INTACTO, sino que seguirá luciendo electrizante a lo largo del tiempo.\n\n\nEl Details Que Hace la Diferencia\n\n\nNuestro Pack lazo mas horquillas Coral incluye un LAZO decorativo y una selección de HORQUILLAS que complementan a la perfección entre sí. Cada una de estas piezas se ha diseñado meticulosamente para añadir PROFUNDIDAD y DIMENSIÓN a su estilo, mientras que su color coral VIBRANTE es ideal para iluminar y ALEGRAR cualquier vestimenta.\n\n\n¡Anímese a añadir este set al guardarropa de su pequeña y brille con un atuendo ENCANTADOR y ALEGRE todos los días!",
+  "sourceDescriptionHtml": "<h2>Una Combinación de Estilo y Comodidad</h2>\n\n<p>Adorna a tu pequeña con nuestro Pack lazo mas horquillas Coral, una selección perfecta para añadir un toque de encanto y dulzura a cualquier atuendo. Este conjunto, diseñado con amor y detallismo, no sólo REALZA su estilo, sino que también le proporciona una comodidad excepcional todo el día.</p>\n\n<h2>Calidad Impecable para los Más pequeños</h2>\n\n<p>Entendemos que los niños requieren ropa y accesorios que puedan resistir su día a día. Por eso, nuestro Pack lazo más horquillas Coral está PRODUCIDO con materiales de alta calidad que garantizan una Mayor DURABILIDAD y RESISTENCIA al desgaste. Este pack no sólo se mantendrá INTACTO, sino que seguirá luciendo electrizante a lo largo del tiempo.</p>\n\n<h2>El Details Que Hace la Diferencia</h2>\n\n<p>Nuestro Pack lazo mas horquillas Coral incluye un LAZO decorativo y una selección de HORQUILLAS que complementan a la perfección entre sí. Cada una de estas piezas se ha diseñado meticulosamente para añadir PROFUNDIDAD y DIMENSIÓN a su estilo, mientras que su color coral VIBRANTE es ideal para iluminar y ALEGRAR cualquier vestimenta.</p>\n\n<p>¡Anímese a añadir este set al guardarropa de su pequeña y brille con un atuendo ENCANTADOR y ALEGRE todos los días!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Coral",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84961",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10182XA15885",
+      "productSku": "2204004",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:30.712Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9627-7848.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7848-large_default/pack-lazo-mas-horquillas-coral.jpg",
+      "alt": "Pack lazo mas horquillas Coral",
+      "sourceId": "7848",
+      "variantIds": [],
+      "sha256": "9dc7da3cee3112b0f83dc23499ce5ddb921bf2fd68a582981eb71f5e7ec84f93"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:30.790Z",
+  "issues": []
+}

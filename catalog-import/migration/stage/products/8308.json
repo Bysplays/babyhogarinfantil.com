@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8308",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8308-lazo-mediano-con-coletero-rosa-empolvado.html",
+  "name": "Lazo mediano con coletero Rosa empolvado",
+  "brand": "Siena",
+  "sku": "2007017",
+  "description": "Lazo grosgrain de 8 x 8 cm. aproximadamnete sobre clip pico-pato de 5,5 cm. aprox.\n\nHECHO EN ESPAÑA.\n\nHECHO A MANO.",
+  "details": "Descubre la Elegancia\n\nEntra en un mundo de elegancia y belleza con el lazo mediano con coletero Rosa empolvado. Este accesorio está hecho con materiales de alta calidad que garantizan su durabilidad a pesar del uso diario. Su encantador tono rosa empolvado es ideal para complementar cualquier atuendo para las ocasiones más especiales.\n\n\nComodidad a cada Instante\n\nEste lazo mediano con coletero es una maravilla versátil que ofrece comodidad y estilo a sus portadores. Su diseño inteligente con un coletero incorporado permite anudar fácilmente el cabello sin causar molestias. Además, proporciona sujeción firme, asegurando que los peinados permanezcan intactos durante todo el día.\n\n\nEl Toque Final Perfecto\n\nCon su textura suave y diseño delicado, este lazo mediano con coletero Rosa empolvado se convierte en el detalle final perfecto para cualquier conjunto. Sin importar si es para un evento formal o solo para añadir un toque extra de magnificencia al vestuario diario, este accesorio es la opción ideal para resaltar el encanto natural de los más pequeños.\n\n\nNo esperes más para incorporar este accesorio esencial a su colección. Haz clic en \"Añadir al carrito\" y comienza a disfrutar de los beneficios del elegante lazo mediano con coletero Rosa empolvado.",
+  "sourceDescriptionHtml": "<p><b>Descubre la Elegancia</b><br>\nEntra en un mundo de elegancia y belleza con el lazo mediano con coletero Rosa empolvado. Este accesorio está hecho con materiales de alta calidad que garantizan su durabilidad a pesar del uso diario. Su encantador tono rosa empolvado es ideal para complementar cualquier atuendo para las ocasiones más especiales.</p>\n\n<p><b>Comodidad a cada Instante</b><br>\nEste lazo mediano con coletero es una maravilla versátil que ofrece comodidad y estilo a sus portadores. Su diseño inteligente con un coletero incorporado permite anudar fácilmente el cabello sin causar molestias. Además, proporciona sujeción firme, asegurando que los peinados permanezcan intactos durante todo el día.</p>\n\n<p><b>El Toque Final Perfecto</b><br>\nCon su textura suave y diseño delicado, este lazo mediano con coletero Rosa empolvado se convierte en el detalle final perfecto para cualquier conjunto. Sin importar si es para un evento formal o solo para añadir un toque extra de magnificencia al vestuario diario, este accesorio es la opción ideal para resaltar el encanto natural de los más pequeños.</p>\n\n<p><i>No esperes más para incorporar este accesorio esencial a su colección. Haz clic en \"Añadir al carrito\" y comienza a disfrutar de los beneficios del elegante lazo mediano con coletero Rosa empolvado.</i></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa Empolvado",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146662",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8049XA15872",
+      "productSku": "2007017",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:42.859Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8308-13994.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13994-large_default/lazo-mediano-con-coletero-rosa-empolvado.jpg",
+      "alt": "Lazo mediano con coletero Rosa empolvado",
+      "sourceId": "13994",
+      "variantIds": [],
+      "sha256": "2753bf4c12a740c9ea345de4862b25dec2b2b3b6e70d61d2a6ad3f833fd58684"
+    },
+    {
+      "path": "assets/8308-13995.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13995-large_default/lazo-mediano-con-coletero-rosa-empolvado.jpg",
+      "alt": "Lazo mediano con coletero Rosa empolvado",
+      "sourceId": "13995",
+      "variantIds": [],
+      "sha256": "5715cf2c1f386b64888f4799d421b4336604a7e6fd0caef1313270612b2b936f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:42.983Z",
+  "issues": []
+}

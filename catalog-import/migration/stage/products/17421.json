@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "17421",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/17421-ranita-pololo-rodas-blanco.html",
+  "name": "Ranita pololo Rodas Blanco",
+  "brand": "Calamaro",
+  "sku": "2401050",
+  "description": "Adornada con encanto, la Ranita Pololo Rodas Blanco es una prenda imprescindible para tu pequeño tesoro. Hecha con sutileza para proporcionar comodidad a su bebé durante todo el día, garantiza un ajuste perfecto. Con su apariencia nítida y color blanco hecho para impresionar, esta Ranita cubrepañal es simplemente adorable. Perfecta para cualquier ocasión, desde pasar el día en el parque hasta eventos especiales. Echa un vistazo a Rañita Pololo Rodas - es más que una simple prenda, ¡es el regalo perfecto de amor y cuidado para tu pequeño! 100% ALGODON. HECHO EN ESPAÑA",
+  "details": "La Comodidad del Bebé\n\nLa comodidad una prioridad, y con la Ranita pololo Rodas Blanco, tu bebé disfrutará de la suavidad y flexibilidad que necesita. Diseñada para permitir un movimiento completo y sin restricciones, esta prenda es perfecta para los días de juego, las siestas y los eventos casuales.\n\nEl Tacto de la Calidad\n\nSiente la diferencia en la calidad con la Ranita pololo Rodas Blanco. Confeccionada con tejidos de primera calidad, esta prenda garantiza una durabilidad prolongada y una sensación de suavidad al tacto. Ideal para pieles sensibles y delicadas.\n\nEstilo Inigualable\n\nLa Ranita pololo Rodas Blanco ofrece un estilo clásico y versátil que nunca pasa de moda. Sus acabados cuidadosamente elaborados destacan el encanto de tu pequeño, mientras que su color blanco le permite combinar con cualquier vestuario al tiempo que aporta sutileza y distinción.\n\nNo espere, haga la mejor elección para su pequeño y añada la Ranita pololo Rodas Blanco a su canasta de compras hoy mismo. ¡La comodidad y el estilo nunca se vieron tan bien!",
+  "sourceDescriptionHtml": "<h2>La Comodidad del Bebé</h2>\n<p>La comodidad una prioridad, y con la Ranita pololo Rodas Blanco, tu bebé disfrutará de la suavidad y flexibilidad que necesita. Diseñada para permitir un movimiento completo y sin restricciones, esta prenda es perfecta para los días de juego, las siestas y los eventos casuales.</p>\n<h2>El Tacto de la Calidad</h2>\n<p>Siente la diferencia en la calidad con la Ranita pololo Rodas Blanco. Confeccionada con tejidos de primera calidad, esta prenda garantiza una durabilidad prolongada y una sensación de suavidad al tacto. Ideal para pieles sensibles y delicadas.</p>\n<h2>Estilo Inigualable</h2>\n<p>La Ranita pololo Rodas Blanco ofrece un estilo clásico y versátil que nunca pasa de moda. Sus acabados cuidadosamente elaborados destacan el encanto de tu pequeño, mientras que su color blanco le permite combinar con cualquier vestuario al tiempo que aporta sutileza y distinción.</p>\n<p>No espere, haga la mejor elección para su pequeño y añada la Ranita pololo Rodas Blanco a su canasta de compras hoy mismo. ¡La comodidad y el estilo nunca se vieron tan bien!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "892",
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-03-05 15:55:38",
+  "sourceUpdatedAt": "2026-10-27 11:13:18",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "82919",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2401050",
+      "productSku": "2401050",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:58.329Z"
+    },
+    {
+      "id": "89743",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2401050",
+      "productSku": "2401050",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:00.859Z"
+    },
+    {
+      "id": "89744",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2401050",
+      "productSku": "2401050",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:04.441Z"
+    },
+    {
+      "id": "82923",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2401050",
+      "productSku": "2401050",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:08.297Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17421-14991.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14991-large_default/ranita-pololo-rodas-blanco.jpg",
+      "alt": "Ranita pololo Rodas Blanco",
+      "sourceId": "14991",
+      "variantIds": [],
+      "sha256": "c059194ecfe1b07d183b5a35fe37358a9381b3dc9119285f8d4c4331102e6527"
+    },
+    {
+      "path": "assets/17421-14992.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14992-large_default/ranita-pololo-rodas-blanco.jpg",
+      "alt": "Ranita pololo Rodas Blanco",
+      "sourceId": "14992",
+      "variantIds": [],
+      "sha256": "f02db27df9f6e7e8124c1d779078317b9b12a52e9b89ffdf4d7a66295cb08449"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:08.500Z",
+  "issues": []
+}

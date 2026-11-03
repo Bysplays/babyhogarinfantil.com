@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9489",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nino-verano/9489-pijama-corto-batman-capa-amarillo.html",
+  "name": "Pijama corto Batman capa Amarillo",
+  "brand": "Zippy",
+  "sku": "2202130",
+  "description": "Pijama de BATMAN, compuesto por camiseta, pantalón y capa! 100% algodón. Camiseta de manga corta en amarillo con capa negra pegada con velcro, se quita para dormir. Y pantalón corto con goma en la cintura.",
+  "details": "Pijamazo de ZIPPY, firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. 100% ALGODÓN. Compuesto por camiseta de manga corta y cuello redondo, en color amarillo con el símbolo de BATMAN decorando el pecho, y pantalón corto con goma en la cintura. Incluye CAPA! Va pegada con velcro a los hombros, se puede quitar para dormir. Pijama solo apto para auténticos superhéroes! Echa un ojito a nuestra sección de ropa interior, calcetines antideslizantes y batas de casa y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nPijama: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pijamazo de<strong> ZIPPY</strong>, firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. <strong>100% ALGODÓN</strong>. Compuesto por camiseta de manga corta y cuello redondo, en color amarillo con el símbolo de <strong>BATMAN</strong> decorando el pecho, y pantalón corto con goma en la cintura. <strong>Incluye CAPA</strong>! Va pegada con velcro a los hombros, se puede quitar para dormir. Pijama solo apto para auténticos superhéroes! Echa un ojito a nuestra sección de <strong>ropa interior, calcetines antideslizantes y batas de casa</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Pijama: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "775"
+  ],
+  "sourceDefaultCategoryId": "775",
+  "sourceCategoryName": "Pijamas Niño Verano",
+  "price": 9,
+  "oldPrice": 17.9927,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69333",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2202130",
+      "productSku": "2202130",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": 17.9927,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:33.584Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9489-9053.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9053-large_default/pijama-corto-batman-capa-amarillo.jpg",
+      "alt": "Pijama corto Batman capa Amarillo",
+      "sourceId": "9053",
+      "variantIds": [],
+      "sha256": "55e19284c25d6c646a7dc4b5076d6c0837fe26c941c0594790dc14026009d260"
+    },
+    {
+      "path": "assets/9489-9054.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9054-large_default/pijama-corto-batman-capa-amarillo.jpg",
+      "alt": "Pijama corto Batman capa Amarillo",
+      "sourceId": "9054",
+      "variantIds": [],
+      "sha256": "da419c1529a5a606800d2e6ab99cedc118acbf9cf799cd3c3cbcce2bda005718"
+    },
+    {
+      "path": "assets/9489-9055.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9055-large_default/pijama-corto-batman-capa-amarillo.jpg",
+      "alt": "Pijama corto Batman capa Amarillo",
+      "sourceId": "9055",
+      "variantIds": [],
+      "sha256": "e91c8fb682a32163cf3a1c20ca33349a391f87edad8785ff044696b8c6e86e10"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:33.720Z",
+  "issues": []
+}

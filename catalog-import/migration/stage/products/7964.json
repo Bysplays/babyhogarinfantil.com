@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "7964",
+  "sourceUrl": "https://babyhogarinfantil.com/interiores-nino/7964-pack-3-slip-mickey-varios.html",
+  "name": "Pack 3 slip Mickey Varios",
+  "brand": "Zippy",
+  "sku": "1911058",
+  "description": "Pack de 3 slips 100% algodón con goma ancha.",
+  "details": "Composición:\n\nslips: 100% algodón.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>slips: 100% algodón.</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "703"
+  ],
+  "sourceDefaultCategoryId": "703",
+  "sourceCategoryName": "Interiores niño",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-27 11:10:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66729",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1911058",
+      "productSku": "1911058",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:11.956Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7964-6072.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6072-large_default/pack-3-slip-mickey-varios.jpg",
+      "alt": "Pack 3 slip Mickey Varios",
+      "sourceId": "6072",
+      "variantIds": [],
+      "sha256": "57256f2d117f0680745aa64a80dec64ef691691a00b7695f5ed2236498f43418"
+    },
+    {
+      "path": "assets/7964-10732.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10732-large_default/pack-3-slip-mickey-varios.jpg",
+      "alt": "Pack 3 slip Mickey Varios",
+      "sourceId": "10732",
+      "variantIds": [],
+      "sha256": "ad4fd360e5fc86e8785569058f2ae598afe6405248008007217b963b7b29276e"
+    },
+    {
+      "path": "assets/7964-10733.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10733-large_default/pack-3-slip-mickey-varios.jpg",
+      "alt": "Pack 3 slip Mickey Varios",
+      "sourceId": "10733",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/7964-6071.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6071-large_default/pack-3-slip-mickey-varios.jpg",
+      "alt": "Pack 3 slip Mickey Varios",
+      "sourceId": "6071",
+      "variantIds": [],
+      "sha256": "09c287d07046151a7d0dc9ab9afb80d4d5cde9b4ab1eca8444aeda62349734d6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:12.176Z",
+  "issues": []
+}

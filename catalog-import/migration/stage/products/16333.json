@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "16333",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/16333-body-cuello-plumetilla-blanco.html",
+  "name": "Body cuello plumetilla Blanco",
+  "brand": "Calamaro",
+  "sku": "2304046",
+  "description": "Body 100% ALGODÓN, con cuello plumetilla, de manga corta",
+  "details": "Composición y cuidados: \n\nBody: 100% algodón.\n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados: </p>\n<p>Body: 100% algodón.</p>\n<p><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><strong><span lang=\"es\" xml:lang=\"es\">HECHO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-27 23:52:53",
+  "sourceUpdatedAt": "2026-10-27 11:12:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "74164",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "11320XH17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:15.712Z"
+    },
+    {
+      "id": "148679",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "11320XA17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:18.927Z"
+    },
+    {
+      "id": "148680",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "11320XB17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:20.981Z"
+    },
+    {
+      "id": "92249",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "11320XC17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:23.889Z"
+    },
+    {
+      "id": "148681",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "11320XD17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:26.708Z"
+    },
+    {
+      "id": "148682",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "11320XE17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:29.684Z"
+    },
+    {
+      "id": "148683",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "11320XF17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:32.261Z"
+    },
+    {
+      "id": "148684",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "11320XG17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:34.329Z"
+    },
+    {
+      "id": "74165",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "11320XI17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:36.533Z"
+    },
+    {
+      "id": "148685",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "11320XJ17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:38.624Z"
+    },
+    {
+      "id": "148686",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "11320XK17436",
+      "productSku": "2304046",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:40.869Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16333-14096.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14096-large_default/body-cuello-plumetilla-blanco.jpg",
+      "alt": "Body cuello plumetilla Blanco",
+      "sourceId": "14096",
+      "variantIds": [],
+      "sha256": "7aaeafa3207b3f8cfa405967f7ed5059b1054de455075fda04678ae7b7aaa339"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:40.946Z",
+  "issues": []
+}

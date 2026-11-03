@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "7764",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/7764-ranita-tirantes-pana-rosa.html",
+  "name": "Ranita tirantes pana Rosa",
+  "brand": "Calamaro",
+  "sku": "1907045",
+  "description": "Embellece a tu pequeña con esta adorada Ranita de Tirantes de Pana Rosa. Fabricada con cariño para proporcionar comodidad inigualable. Su suave tela de pana, combinada con su encantador color rosa, agrega clase y estilo a cualquier evento. Perfecta para el día a día o para ocasiones especiales, su diseño permite cambiar los pañales fácilmente. Su niña lucirá elegante, sentirá comodidad y todos se enamorarán de su ternura. ¡Hazla brillar con esta preciosa ranita de tirantes de pana rosa!",
+  "details": "Disfrute Versátil y Cómodo\n\nDescubre la versatilidad y la comodidad que nuestros tirantes de pana rosa ofrecen. Con un diseño clásico combinado con un ajuste moderno, son la opción perfecta para dar unos toques de estilo a cualquier atuendo.El cierre ajustable garantiza un ajuste personalizado y perfecto en todo momento. Te encantará cómo estos tirantes combinan la funcionalidad con la moda para crear una apariencia duradera y adorable a la vez.\n\nCalidad Incomparable\n\nConfeccionados con pana de la más alta calidad, estos tirantes rosados son tan duraderos como atractivos. La pana ofrece una textura suave y cómoda que es perfecta para todo tipo de clima. La costura de alta calidad garantiza que estos tirantes resistirán el paso del tiempo y el desgaste diario, lo que los hace una inversión a largo plazo en la moda de tu pequeño.\n\nSorprendente Versatilidad de Color\n\nEl color rosa de estos tirantes de pana aporta una dulzura añadida a cualquier atuendo. Este tono vibrante es una adición encantadora a cualquier combinación de colores, y funciona perfectamente tanto para ocasiones especiales como para el uso diario. A tu pequeño le encantará la forma en que estos tirantes le dan un toque de color a su vestuario.\n\nNo esperes más, añade estos tirantes de pana rosados a tu carrito hoy mismo y lleva el estilo de tu pequeño al siguiente nivel.\n\nComposición y cuidados:\n\nRanita: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<h2><i>Disfrute Versátil y Cómodo</i></h2>\n<p>Descubre la versatilidad y la comodidad que nuestros tirantes de pana rosa ofrecen. Con un diseño clásico combinado con un ajuste moderno, son la opción perfecta para dar unos toques de estilo a cualquier atuendo.<b>El cierre ajustable garantiza un ajuste personalizado y perfecto en todo momento</b>. Te encantará cómo estos tirantes combinan la funcionalidad con la moda para crear una apariencia duradera y adorable a la vez.</p>\n<h2><i>Calidad Incomparable</i></h2>\n<p>Confeccionados con pana de la más alta calidad, estos tirantes rosados son tan duraderos como atractivos. La pana ofrece una textura suave y cómoda que es perfecta para todo tipo de clima. <b>La costura de alta calidad garantiza que estos tirantes resistirán el paso del tiempo y el desgaste diario</b>, lo que los hace una inversión a largo plazo en la moda de tu pequeño.</p>\n<h2><i>Sorprendente Versatilidad de Color</i></h2>\n<p>El color rosa de estos tirantes de pana aporta una dulzura añadida a cualquier atuendo. <b>Este tono vibrante es una adición encantadora a cualquier combinación de colores</b>, y funciona perfectamente tanto para ocasiones especiales como para el uso diario. A tu pequeño le encantará la forma en que estos tirantes le dan un toque de color a su vestuario.</p>\n<p><b>No esperes más, añade estos tirantes de pana rosados a tu carrito hoy mismo y lleva el estilo de tu pequeño al siguiente nivel</b>.</p>\n<p>Composición y cuidados:</p>\n<p>Ranita: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 10.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66344",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1907045",
+      "productSku": "1907045",
+      "taxRate": 21,
+      "price": 10.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:59.091Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7764-5833.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5833-large_default/ranita-tirantes-pana-rosa.jpg",
+      "alt": "Ranita tirantes pana Rosa",
+      "sourceId": "5833",
+      "variantIds": [],
+      "sha256": "e611f90a50c1bb9aba50e8cfe805333f87454e9d125f30d0b6406aa707c9f1ef"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:59.136Z",
+  "issues": []
+}

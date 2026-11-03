@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 1,
+  "id": "21142",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/21142-camiseta-barita-blanco.html",
+  "name": "Camiseta barita Blanco",
+  "brand": "Chicco",
+  "sku": "1802094",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2025-10-16 23:52:57",
+  "sourceUpdatedAt": "2026-10-27 11:09:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "145599",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "4750XA8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:49.879Z"
+    },
+    {
+      "id": "145600",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "4750XB8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:52.782Z"
+    },
+    {
+      "id": "145601",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "4750XC8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:54.632Z"
+    },
+    {
+      "id": "145602",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "4750XD8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:56.994Z"
+    },
+    {
+      "id": "145603",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "4750XE8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:59.220Z"
+    },
+    {
+      "id": "145604",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "4750XF8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:02.116Z"
+    },
+    {
+      "id": "145605",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "4750XG8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:04.641Z"
+    },
+    {
+      "id": "145606",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "4750XH8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:06.746Z"
+    },
+    {
+      "id": "145607",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "4750XI8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:08.182Z"
+    },
+    {
+      "id": "145608",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "4750XJ8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:10.196Z"
+    },
+    {
+      "id": "145609",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "4750XK8312",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:11.770Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:11.770Z",
+  "issues": [
+    "No verified images"
+  ]
+}

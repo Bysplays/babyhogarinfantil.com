@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "id": "16318",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-martin-codax-vigo/16318-pantalon-martin-codax-bordado-azul-marino.html",
+  "name": "Pantalón Martin Codax BORDADO Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1570053",
+  "description": "Pantalón largo infantil colegio Martín Codax.",
+  "details": "Pantalón bordado para el chandal de infantíl del colegio MARTIN CODAX. En felpa perchada.\n\nComposición:\n\nPantalón: 50% algodón, 50% poliéster.\n\nNO USAR SECADORA.\n\nHECHO EN UE",
+  "sourceDescriptionHtml": "<p>Pantalón bordado para el chandal de infantíl del colegio MARTIN CODAX. En felpa perchada.</p>\n<p>Composición:</p>\n<p>Pantalón: 50% algodón, 50% poliéster.</p>\n<p>NO USAR SECADORA.</p>\n<p><strong>HECHO EN UE</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "707"
+  ],
+  "sourceDefaultCategoryId": "707",
+  "sourceCategoryName": "Colegio Martin Codax Vigo",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-23 00:30:30",
+  "sourceUpdatedAt": "2026-10-27 11:08:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 55,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "73110",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1570053",
+      "productSku": "1570053",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:48.789Z"
+    },
+    {
+      "id": "73111",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1570053",
+      "productSku": "1570053",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 11,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:51.453Z"
+    },
+    {
+      "id": "97811",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1570053",
+      "productSku": "1570053",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 16,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:53.754Z"
+    },
+    {
+      "id": "143909",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1570053",
+      "productSku": "1570053",
+      "taxRate": 21,
+      "price": 18.98,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:57.005Z"
+    },
+    {
+      "id": "143910",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1570053",
+      "productSku": "1570053",
+      "taxRate": 21,
+      "price": 18.98,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:59.352Z"
+    },
+    {
+      "id": "143911",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1570053",
+      "productSku": "1570053",
+      "taxRate": 21,
+      "price": 18.98,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:01.479Z"
+    },
+    {
+      "id": "143912",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1570053",
+      "productSku": "1570053",
+      "taxRate": 21,
+      "price": 18.98,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:04.213Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16318-14106.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14106-large_default/pantalon-martin-codax-bordado-azul-marino.jpg",
+      "alt": "Pantalón Martin Codax BORDADO Azul Marino",
+      "sourceId": "14106",
+      "variantIds": [],
+      "sha256": "048d58203c1b1dad842005d58f03469718c149cbcbcbeb74972863e233730476"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:04.285Z",
+  "issues": []
+}

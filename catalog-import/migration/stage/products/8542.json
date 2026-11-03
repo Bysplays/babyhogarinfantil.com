@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "8542",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/8542-bota-lazo-pom-pom-pelo-rojo.html",
+  "name": "Bota lazo pom pom pelo Rojo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2011019",
+  "description": "Botín de piel en color rojo, acabado mate. Cierre con tira de velcro. Disponible en color camel charol.",
+  "details": "Botín de piel en color rojo, acabado mate. Cierre con tira de velcro, adornado con pompón muy suave, fácilmente ajustable al pie. Forrado en su interior. Un calzado cómodo y muy ligero, perfecto para los peques que empiezan a usar zapatos. Al ser botín, es ligeramente más alto y sujeta mejor el pie, evitando que se escape o se pierda. Disponible en color camel charol. La talla 19 está disponible con suela blanda y con semi-suela, para aquellos bebés que comiencen a caminar. \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Botín de <strong>piel</strong> en color rojo, acabado mate. Cierre con tira de velcro, adornado con pompón muy suave, fácilmente ajustable al pie. Forrado en su interior. Un calzado cómodo y muy ligero, perfecto para los peques que empiezan a usar zapatos. Al ser botín, es ligeramente más alto y sujeta mejor el pie, evitando que se escape o se pierda. <strong>Disponible en color camel charol. La talla 19 está disponible con suela blanda y con semi-suela, para aquellos bebés que comiencen a caminar. </strong></p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:38",
+  "sourceUpdatedAt": "2026-10-27 11:10:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "259",
+          "label": "19con"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67565",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "2011019",
+      "productSku": "2011019",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:25.066Z"
+    },
+    {
+      "id": "67566",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "2011019",
+      "productSku": "2011019",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:27.830Z"
+    },
+    {
+      "id": "67568",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "259",
+          "group": "Tamaño",
+          "value": "19con"
+        }
+      ],
+      "sku": "2011019",
+      "productSku": "2011019",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:30.996Z"
+    },
+    {
+      "id": "67567",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "2011019",
+      "productSku": "2011019",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:33.337Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8542-11284.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11284-large_default/bota-lazo-pom-pom-pelo-rojo.jpg",
+      "alt": "Bota lazo pom pom pelo Rojo",
+      "sourceId": "11284",
+      "variantIds": [],
+      "sha256": "782243aad342ff003794643816519bae7b700efc16b0b1a4adb4ef352589acc4"
+    },
+    {
+      "path": "assets/8542-6866.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6866-large_default/bota-lazo-pom-pom-pelo-rojo.jpg",
+      "alt": "Bota lazo pom pom pelo Rojo",
+      "sourceId": "6866",
+      "variantIds": [],
+      "sha256": "e2fe97dd046809a344c891aad80762a43f7fe7ae881398e028ce65e40c585b4e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:33.496Z",
+  "issues": []
+}

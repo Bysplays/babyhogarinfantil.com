@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16489",
+  "sourceUrl": "https://babyhogarinfantil.com/interiores-nino/16489-pack-3-slips-vengadores-varios.html",
+  "name": "Pack 3 slips VENGADORES Varios",
+  "brand": "Sun City",
+  "sku": "2304071",
+  "description": "Pack 3 slips algodón.",
+  "details": "Composición:\n\nslips: 100% algodón.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>slips: 100% algodón.</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "703"
+  ],
+  "sourceDefaultCategoryId": "703",
+  "sourceCategoryName": "Interiores niño",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-07-18 15:53:02",
+  "sourceUpdatedAt": "2026-10-27 11:12:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "347",
+          "label": "4-5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "82802",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "347",
+          "group": "Tamaño",
+          "value": "4-5"
+        }
+      ],
+      "sku": "2304071",
+      "productSku": "2304071",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:42.953Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16489-14305.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14305-large_default/pack-3-slips-vengadores-varios.jpg",
+      "alt": "Pack 3 slips VENGADORES Varios",
+      "sourceId": "14305",
+      "variantIds": [],
+      "sha256": "56e46e9307327c499e45fd3c9f64cc8f5938190d3286540dff6a32092d4c108e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:43.007Z",
+  "issues": []
+}

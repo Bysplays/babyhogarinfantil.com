@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10429",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/10429-conjunto-nino-desierto-blanco.html",
+  "name": "Conjunto niño desierto Blanco",
+  "brand": "Babybol",
+  "sku": "2301196",
+  "description": "Conjunto niño desierto Blanco - El estilo hecho realidad Imagina a tu pequeño explorador luciendo el Conjunto niño Desierto Blanco. Con este conjunto deportivo de dos piezas, encarna a la perfección la sofisticación informal. La camiseta blanca radiante se combina a la perfección con los pantalones de corte regular, creando una impresión deslumbrante en cualquier entorno. Fabricado con materiales de alta calidad, garantiza un confort supremo a lo largo de todo el día. Ya sea para un día activo en el parque o para un evento de fin de semana, este conjunto es todo lo que tu pequeño necesita para brillar. La belleza está en los detalles, y con el Conjunto niño Desierto Blanco, cada detalle cuenta. Convierte a tu pequeño en la estrella del show con este ensemble imprescindible.",
+  "details": "Composición:\n\nCamiseta: 100% algodón.\n\nPantalón: 100% algodón.\n\nHECHO EN INDIA",
+  "sourceDescriptionHtml": "<p style=\"font-size:11px;font-weight:400;\">Composición:</p>\n<p style=\"font-size:11px;font-weight:400;\">Camiseta: 100% algodón.</p>\n<p style=\"font-size:11px;font-weight:400;\">Pantalón: 100% algodón.</p>\n<p style=\"font-size:11px;font-weight:400;\">HECHO EN INDIA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 21.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:02",
+  "sourceUpdatedAt": "2026-10-27 11:12:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72022",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2301196",
+      "productSku": "2301196",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:16.509Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10429-13600.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13600-large_default/conjunto-nino-desierto-blanco.jpg",
+      "alt": "Conjunto niño desierto Blanco",
+      "sourceId": "13600",
+      "variantIds": [],
+      "sha256": "01bb3026341d7473dc7b36467719b5f71287b38378cbdbb7ae8f666955fb06e4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:16.558Z",
+  "issues": []
+}

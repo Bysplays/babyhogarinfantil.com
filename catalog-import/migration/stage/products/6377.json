@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "6377",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6377-leotardo-canale-azul-claro.html",
+  "name": "Leotardo canalé Azul claro",
+  "brand": "Condor",
+  "sku": "1339",
+  "description": "Leotardos color AZUL CLARO algodón CANALE.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los niños y niñas, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que los niños y niñas se muevan con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. HECHO EN ESPAÑA\n\n75% ALGODON 22% POLIAMIDA 3% ELASTANO\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nNO PLANCHAR.",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de <strong>CONDOR</strong> son sin duda una de las prendas más funcionales para los niños y niñas, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que los niños y niñas se muevan con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. <strong><span style=\"text-decoration:underline;\">HECHO EN ESPAÑA</span></strong></p>\n<p>75% ALGODON 22% POLIAMIDA 3% ELASTANO</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>NO PLANCHAR.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul claro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14.21,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63458",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:22.335Z"
+    },
+    {
+      "id": "63459",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:24.821Z"
+    },
+    {
+      "id": "63460",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:27.482Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6377-4375.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4375-large_default/leotardo-canale-azul-claro.jpg",
+      "alt": "Leotardo canalé Azul claro",
+      "sourceId": "4375",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6377-4374.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4374-large_default/leotardo-canale-azul-claro.jpg",
+      "alt": "Leotardo canalé Azul claro",
+      "sourceId": "4374",
+      "variantIds": [],
+      "sha256": "902a0b1e5289b6d558f99064d6cd22c7baa3a4feb4e3bd0c0825a1bcbf65ddd0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:29:27.983Z",
+  "issues": []
+}

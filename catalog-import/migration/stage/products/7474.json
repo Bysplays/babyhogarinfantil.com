@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 1,
+  "id": "7474",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/7474-deportivo-piel-del-29-al-39-blanco.html",
+  "name": "Deportivo piel del 29 al 39 Blanco",
+  "brand": "Gorila",
+  "sku": "1810036",
+  "description": "Transforma los pasos de tus pequeños en un camino de elegancia y confort con \\'Deportivo piel del 29 al 39 Blancos.\\' Este calzado es la combinación perfecta de estilo y comodidad, diseñado para resistir las actividades diarias. ¿Escuela o parque? ¡No importa! Este par está hecho para la diversión en movimiento. Creado con un material de piel suave, proporciona una firmeza adecuada para esos primeros pasitos importantes. ¡Bríndales calidad y estilo a sus pies!",
+  "details": "Comodidad incomparable\n\nDescubra los zapatos deportivos de piel, disponibles en tallas 29 al 39. Destinados a brindarle al pequeño de la casa confort increíble con cada paso. La alta calidad de estos zapatos garantiza una experiencia de uso incomparable, sin prescindir del estilo.\n\n\nDiseño contemporáneo en blanco\n\nEstos zapatos deportivos de piel destacan por su color blanco prístino que no solo refleja la inocencia de la niñez, sino que también los hace versátiles para combinar con cualquier outfit. Son la elección perfecta para aquellos que buscan brindar a sus niños un toque de elegancia y modernidad.\n\n\nInvirtiendo en la durabilidad\n\nLos zapatos deportivos de piel no sólo ofrecen una comodidad sin igual y un estilo moderno, también son una inversión para los padres, garantizando una durabilidad prolongada. Estos zapatos durarán más allá del crecimiento de los pies de su hijo, proporcionando un uso prolongado que le ahorrará en costos a largo plazo.\n\n\nNo espere más, haz que tu pequeño se sienta especial y cómodo con los zapatos deportivos de piel en color blanco. ¡Compra ahora y transforma la forma en que tu hijo camina todos los días!",
+  "sourceDescriptionHtml": "<h2>Comodidad incomparable</h2>\n<p>Descubra los zapatos deportivos de piel, disponibles en tallas 29 al 39. Destinados a brindarle al pequeño de la casa confort increíble con cada paso. La alta calidad de estos zapatos garantiza una experiencia de uso incomparable, sin prescindir del estilo.</p>\n\n<h2>Diseño contemporáneo en blanco</h2>\n<p>Estos zapatos deportivos de piel destacan por su color blanco prístino que no solo refleja la inocencia de la niñez, sino que también los hace versátiles para combinar con cualquier outfit. Son la elección perfecta para aquellos que buscan brindar a sus niños un toque de elegancia y modernidad.</p>\n\n<h2>Invirtiendo en la durabilidad</h2>\n<p>Los zapatos deportivos de piel no sólo ofrecen una comodidad sin igual y un estilo moderno, también son una inversión para los padres, garantizando una durabilidad prolongada. Estos zapatos durarán más allá del crecimiento de los pies de su hijo, proporcionando un uso prolongado que le ahorrará en costos a largo plazo.</p>\n\n<p><strong>No espere más</strong>, haz que tu pequeño se sienta especial y cómodo con los zapatos deportivos de piel en color blanco. ¡Compra ahora y transforma la forma en que tu hijo camina todos los días!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "871",
+    "893",
+    "894"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 49.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:25",
+  "sourceUpdatedAt": "2026-10-27 11:10:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "282",
+          "label": "29"
+        },
+        {
+          "id": "283",
+          "label": "30"
+        },
+        {
+          "id": "284",
+          "label": "31"
+        },
+        {
+          "id": "285",
+          "label": "32"
+        },
+        {
+          "id": "286",
+          "label": "33"
+        },
+        {
+          "id": "287",
+          "label": "34"
+        },
+        {
+          "id": "288",
+          "label": "35"
+        },
+        {
+          "id": "289",
+          "label": "36"
+        },
+        {
+          "id": "290",
+          "label": "37"
+        },
+        {
+          "id": "291",
+          "label": "38"
+        },
+        {
+          "id": "292",
+          "label": "39"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95844",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "282",
+          "group": "Tamaño",
+          "value": "29"
+        }
+      ],
+      "sku": "5763XA9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:33.529Z"
+    },
+    {
+      "id": "94102",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "283",
+          "group": "Tamaño",
+          "value": "30"
+        }
+      ],
+      "sku": "5763XB9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:36.763Z"
+    },
+    {
+      "id": "94103",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "284",
+          "group": "Tamaño",
+          "value": "31"
+        }
+      ],
+      "sku": "5763XC9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:38.751Z"
+    },
+    {
+      "id": "136713",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "285",
+          "group": "Tamaño",
+          "value": "32"
+        }
+      ],
+      "sku": "5763XD9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:40.754Z"
+    },
+    {
+      "id": "99496",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "286",
+          "group": "Tamaño",
+          "value": "33"
+        }
+      ],
+      "sku": "5763XE9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:42.419Z"
+    },
+    {
+      "id": "94106",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "287",
+          "group": "Tamaño",
+          "value": "34"
+        }
+      ],
+      "sku": "5763XF9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:45.051Z"
+    },
+    {
+      "id": "94107",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "288",
+          "group": "Tamaño",
+          "value": "35"
+        }
+      ],
+      "sku": "5763XG9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:47.474Z"
+    },
+    {
+      "id": "94108",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "289",
+          "group": "Tamaño",
+          "value": "36"
+        }
+      ],
+      "sku": "5763XH9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:49.321Z"
+    },
+    {
+      "id": "95660",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "290",
+          "group": "Tamaño",
+          "value": "37"
+        }
+      ],
+      "sku": "5763XI9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:50.940Z"
+    },
+    {
+      "id": "95436",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "291",
+          "group": "Tamaño",
+          "value": "38"
+        }
+      ],
+      "sku": "5763XJ9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:52.592Z"
+    },
+    {
+      "id": "90288",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "292",
+          "group": "Tamaño",
+          "value": "39"
+        }
+      ],
+      "sku": "5763XK9838",
+      "productSku": "1810036",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:54.056Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7474-5388.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5388-large_default/deportivo-piel-del-29-al-39-blanco.jpg",
+      "alt": "Deportivo piel del 29 al 39 Blanco",
+      "sourceId": "5388",
+      "variantIds": [],
+      "sha256": "6fca84d7c791897df4b6f06a0154860a9a95ffcf29689f2e163fe17f667cb1e7"
+    },
+    {
+      "path": "assets/7474-5389.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5389-large_default/deportivo-piel-del-29-al-39-blanco.jpg",
+      "alt": "Deportivo piel del 29 al 39 Blanco",
+      "sourceId": "5389",
+      "variantIds": [],
+      "sha256": "c86343177066c10f765feb7b91b2e1d4caf3f03163f721e20743a91b3a098dc0"
+    },
+    {
+      "path": "assets/7474-10306.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10306-large_default/deportivo-piel-del-29-al-39-blanco.jpg",
+      "alt": "Deportivo piel del 29 al 39 Blanco",
+      "sourceId": "10306",
+      "variantIds": [],
+      "sha256": "fa45c84a298aef5f2750a1e8bd06f39eb84b6f20cf1ecafab3419ac70911acee"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:54.201Z",
+  "issues": []
+}

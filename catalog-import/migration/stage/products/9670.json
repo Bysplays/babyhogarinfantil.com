@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "9670",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/9670-vestido-bebe-nina-verano-floreado-varios.html",
+  "name": "Vestido bebe niña verano floreado Varios",
+  "brand": "Calamaro",
+  "sku": "2204056",
+  "description": "Vestido de tela 100% algodón, estampado floral y volante en el cuello en color melocotón, con dos lacitos verdes a contraste en el pecho. Cierre trasero con botones en toda la espalda. DISPONIBLE VESTIDO EN TALLAS DE INFANTIL.",
+  "details": "Vestido de tela de CALAMARO, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. 100% ALGODÓN, con corte debajo del pecho, estampado con flores en color melocotón y verde. Volante en el escote y lacitos a los lados del pecho como adorno. Cierre trasero con botones en toda la espalda. Un vestido coqueto y desenfadado, fresquito y ligero, ideal para los días de verano! Echa un ojito a nuestros gorritos para el sol, ranitas de perlé y calzado y podrás completarlo como más te guste! DISPONIBLE VESTIDO EN TALLAS DE INFANTIL. \n\nComposición y cuidados:\n\nVestido: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Vestido de tela de <strong>CALAMARO</strong>, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. <strong>100% ALGODÓN</strong>, con corte debajo del pecho,<strong> estampado con flores</strong> en color melocotón y verde.<strong> Volante en el escote</strong> y lacitos a los lados del pecho como adorno. Cierre trasero con botones en toda la espalda. Un vestido coqueto y desenfadado, fresquito y ligero, ideal para los días de verano! Echa un ojito a nuestros <strong>gorritos para el sol, ranitas de perlé y calzado</strong> y podrás completarlo como más te guste! <strong>DISPONIBLE VESTIDO EN TALLAS DE INFANTIL. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Vestido: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 12.5,
+  "oldPrice": 24.990001,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69794",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2204056",
+      "productSku": "2204056",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": 24.990001,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:47.696Z"
+    },
+    {
+      "id": "69795",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2204056",
+      "productSku": "2204056",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": 24.990001,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:49.824Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9670-7878.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7878-large_default/vestido-bebe-nina-verano-floreado-varios.jpg",
+      "alt": "Vestido bebe niña verano floreado Varios",
+      "sourceId": "7878",
+      "variantIds": [],
+      "sha256": "49f84aa92080cd45a19fcfab15272a1898d344582f5f3b53cbe323ac1447ec51"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:49.928Z",
+  "issues": []
+}

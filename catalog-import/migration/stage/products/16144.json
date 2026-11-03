@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16144",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16144-clip-velcro-lacito-fruncido-rosa-empolvado.html",
+  "name": "Clip velcro lacito fruncido Rosa empolvado",
+  "brand": "Siena",
+  "sku": "2104154",
+  "description": "Clip velcro lacito fruncido mini. Para el fino pele de la peque.\n\nLazo de 3 x 1.8 cm aproximadamente.\n\nHECHO EN ESPAÑA",
+  "details": "Encanto Sin Igual\n\nDeslumbra desde el primer vistazo. Este Clip Velcro con Lacito Fruncido en el tono rosa empolvado, se convierte en el toque final ideal para cualquier atuendo de niños. Éstos delicadamente diseñados, se adhieren fácilmente al cabello gracias a su cierre de velcro de alta calidad, otorgándole al peinado un realce instantáneo.\n\n\nLacito Fruncido, un Detalle Irresistible\n\nEl lacito fruncido es un detalle encantador que añade textura y capta la luz, haciendo que este accesorio destaque aún más. El color rosa empolvado evoca ternura y suavidad, características apreciadas en prendas para bebés y niños. Este accesorio es un verdadero reflejo de dulzura.\n\n\nPerfecto para Cada Ocasión\n\nYa sea para una ocasión especial, para un día común en el parque, o simplemente para añadir un detalle extra al look diario, este Clip Velcro con Lacito Fruncido se adapta a todas las circunstancias. Hace que cualquier atuendo se vea delicado y sofisticado, ideal para crear recuerdos memorables.\n\n\nNo pierdas la oportunidad de agregar un protagonista a tu colección de accesorios. Claro, elegante y exclusivo, este Clip Velcro con Lacito Fruncido Rosa Empolvado está esperando para hermosear tus días. ¡Adquiérelo ahora!",
+  "sourceDescriptionHtml": "<h2>Encanto Sin Igual</h2>\n<p>Deslumbra desde el primer vistazo. Este Clip Velcro con Lacito Fruncido en el tono rosa empolvado, se convierte en el toque final ideal para cualquier atuendo de niños. Éstos delicadamente diseñados, se adhieren fácilmente al cabello gracias a su cierre de velcro de alta calidad, otorgándole al peinado un realce instantáneo.</p>\n\n<h2>Lacito Fruncido, un Detalle Irresistible</h2>\n<p>El lacito fruncido es un detalle encantador que añade textura y capta la luz, haciendo que este accesorio destaque aún más. El color rosa empolvado evoca ternura y suavidad, características apreciadas en prendas para bebés y niños. Este accesorio es un verdadero reflejo de dulzura.</p>\n\n<h2>Perfecto para Cada Ocasión</h2>\n<p>Ya sea para una ocasión especial, para un día común en el parque, o simplemente para añadir un detalle extra al look diario, este Clip Velcro con Lacito Fruncido se adapta a todas las circunstancias. Hace que cualquier atuendo se vea delicado y sofisticado, ideal para crear recuerdos memorables.</p>\n\n<p>No pierdas la oportunidad de agregar un protagonista a tu colección de accesorios. Claro, elegante y exclusivo, este Clip Velcro con Lacito Fruncido Rosa Empolvado está esperando para hermosear tus días. <strong>¡Adquiérelo ahora!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa Empolvado",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 1.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:21",
+  "sourceUpdatedAt": "2026-10-27 11:11:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147068",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9033XA14295",
+      "productSku": "2104154",
+      "taxRate": 21,
+      "price": 1.98,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:15.344Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16144-15719.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15719-large_default/clip-velcro-lacito-fruncido-rosa-empolvado.jpg",
+      "alt": "Clip velcro lacito fruncido Rosa empolvado",
+      "sourceId": "15719",
+      "variantIds": [],
+      "sha256": "bb407a6a9eb5eec67c9d12633162e09cf1669bcc4d1ebc867ace8408a864ddff"
+    },
+    {
+      "path": "assets/16144-15720.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15720-large_default/clip-velcro-lacito-fruncido-rosa-empolvado.jpg",
+      "alt": "Clip velcro lacito fruncido Rosa empolvado",
+      "sourceId": "15720",
+      "variantIds": [],
+      "sha256": "092aa96c4dfa32e243b50b2d3135cfbca974d1bb13869279f3077b62c65d3470"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:15.467Z",
+  "issues": []
+}

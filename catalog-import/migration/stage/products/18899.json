@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "18899",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/18899-conjunto-3-piezas-bebe-nina-mostaza.html",
+  "name": "Conjunto 3 piezas bebe niña Mostaza",
+  "brand": "Baby Happy",
+  "sku": "2402159",
+  "description": "Viste a tu pequeño con estilo y comodidad con este encantador conjunto de ropa infantil de tres piezas. Este set incluye una chaqueta con capucha en color mostaza, una camiseta gris con un sutil estampado, y unos pantalones a juego en mostaza. Perfecto para el uso diario, este conjunto combina moda y funcionalidad.",
+  "details": "Características:\n\nMaterial: Algodón suave y transpirable\n\nColor: Mostaza y gris\n\nDiseño: Chaqueta con capucha, camiseta estampada y pantalones cómodos\n\nComodidad: Cintura elástica y puños acanalados para un ajuste perfecto\n\nBeneficios:\n\nEstilo y Diversión: Diseño atractivo que encantará a los más pequeños\n\nComodidad Todo el Día: Material suave que cuida la piel del niño\n\nFácil de Combinar: Colores neutros que se adaptan a cualquier ocasión\n\nVersatilidad: Ideal para actividades diarias y ocasiones especiales\n\n¡Haz que cada día sea especial con este conjunto de ropa infantil de tres piezas! Perfecto para cualquier aventura diaria, este conjunto asegura que tu pequeño esté siempre cómodo y a la moda.",
+  "sourceDescriptionHtml": "<p><strong>Características:</strong></p>\n<p>Material: Algodón suave y transpirable</p>\n<p>Color: Mostaza y gris</p>\n<p>Diseño: Chaqueta con capucha, camiseta estampada y pantalones cómodos</p>\n<p>Comodidad: Cintura elástica y puños acanalados para un ajuste perfecto</p>\n<p><strong>Beneficios:</strong></p>\n<p>Estilo y Diversión: Diseño atractivo que encantará a los más pequeños</p>\n<p>Comodidad Todo el Día: Material suave que cuida la piel del niño</p>\n<p>Fácil de Combinar: Colores neutros que se adaptan a cualquier ocasión</p>\n<p>Versatilidad: Ideal para actividades diarias y ocasiones especiales</p>\n<p>¡Haz que cada día sea especial con este <strong>conjunto de ropa infantil de tres piezas!</strong> Perfecto para cualquier aventura diaria, este conjunto asegura que tu pequeño esté siempre cómodo y a la moda.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mostaza",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 38.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-08 15:54:13",
+  "sourceUpdatedAt": "2026-10-27 11:13:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87825",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2402159",
+      "productSku": "2402159",
+      "taxRate": 21,
+      "price": 38.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:00.725Z"
+    },
+    {
+      "id": "91555",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2402159",
+      "productSku": "2402159",
+      "taxRate": 21,
+      "price": 38.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:03.256Z"
+    },
+    {
+      "id": "87826",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2402159",
+      "productSku": "2402159",
+      "taxRate": 21,
+      "price": 38.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:06.161Z"
+    },
+    {
+      "id": "87828",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2402159",
+      "productSku": "2402159",
+      "taxRate": 21,
+      "price": 38.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:08.584Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18899-17279.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17279-large_default/conjunto-3-piezas-bebe-nina-mostaza.jpg",
+      "alt": "Conjunto 3 piezas bebe niña Mostaza",
+      "sourceId": "17279",
+      "variantIds": [],
+      "sha256": "1a92581adc332475bb92b882d5887c873e161e6e54e0b4a0845de0a78b6a498e"
+    },
+    {
+      "path": "assets/18899-17278.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17278-large_default/conjunto-3-piezas-bebe-nina-mostaza.jpg",
+      "alt": "Conjunto 3 piezas bebe niña Mostaza",
+      "sourceId": "17278",
+      "variantIds": [],
+      "sha256": "b08ed026834ce8e301332c424a01aa3c1a148525b0d6a9369288022bf6830827"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:08.733Z",
+  "issues": []
+}

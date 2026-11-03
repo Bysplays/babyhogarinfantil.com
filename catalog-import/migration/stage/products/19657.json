@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "19657",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/19657-pantalon-chino-basico-nino-hueso.html",
+  "name": "Pantalón chino básico niño Hueso",
+  "brand": "Mayoral",
+  "sku": "2501101",
+  "description": "Experimente la sofisticación y comodidad suprema con el pantalón chino básico Hueso para niño! Los cuidadosos detalles y la perfecta mezcla de estilo casual y elegancia lo convierten en una elección excelencia. Diseño cómodo para el movimiento diario con una estética atemporal que encantará a su pequeño aventurero. Cada ocasión se transforma en una oportunidad para presumir de buen gusto con este pantalón chino. ¡Compre hoy para despertar la confianza y el estilo en su pequeño!",
+  "details": "Comodidad y Estilo Diario \n\n Con el Pantalón chino básico niño Hueso, la comodidad y el estilo se fusionan a la perfección para el vestuario diario. Estos cómodos pantalones no solo son suaves y transpirables para la piel sensible del niño, sino que la tonalidad hueso aporta un toque chic y elegante para cualquier ocasión. \n\n\n Calidad y Durabilidad Incomparables \n\n Hechos con materiales de la más alta calidad, el Pantalón chino básico niño Hueso ofrecen durabilidad para resistir el juego áspero de los infantes. Las costuras reforzadas y la calidad del tejido garantizan que podrá resistir incluso las más rigurosas de las actividades manteniendo su forma y color. \n\n\n Versatilidad para Cualquier Evento \n\n Ya sea para un día normal de escuela o un evento especial, el Pantalón chino básico niño Hueso es la elección perfecta. Fáciles de vestir hacia arriba o hacia abajo, pueden combinarse con una camisa de vestir para una apariencia más formal, o con una camiseta para una apariencia más casual. \n\n\n Haz que tu niño se sienta confortable y luce inigualable, adquiere ya el Pantalón chino básico niño Hueso. No pierdas esta oportunidad para agregar una pieza versátil y de alta calidad a su guardarropa.",
+  "sourceDescriptionHtml": "<h2> Comodidad y Estilo Diario </h2>\n<p> Con el Pantalón chino básico niño Hueso, la comodidad y el estilo se fusionan a la perfección para el vestuario diario. Estos cómodos pantalones no solo son suaves y transpirables para la piel sensible del niño, sino que la tonalidad hueso aporta un toque chic y elegante para cualquier ocasión. </p>\n\n<h2> Calidad y Durabilidad Incomparables </h2>\n<p> Hechos con materiales de la más alta calidad, el Pantalón chino básico niño Hueso ofrecen durabilidad para resistir el juego áspero de los infantes. Las costuras reforzadas y la calidad del tejido garantizan que podrá resistir incluso las más rigurosas de las actividades manteniendo su forma y color. </p>\n\n<h2> Versatilidad para Cualquier Evento </h2>\n<p> Ya sea para un día normal de escuela o un evento especial, el Pantalón chino básico niño Hueso es la elección perfecta. Fáciles de vestir hacia arriba o hacia abajo, pueden combinarse con una camisa de vestir para una apariencia más formal, o con una camiseta para una apariencia más casual. </p>\n\n<p> Haz que tu niño se sienta confortable y luce inigualable, adquiere ya el Pantalón chino básico niño Hueso. No pierdas esta oportunidad para agregar una pieza versátil y de alta calidad a su guardarropa. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2025",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Hueso",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-03-17 23:54:06",
+  "sourceUpdatedAt": "2026-10-27 11:14:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "91336",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2501101",
+      "productSku": "2501101",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:50.389Z"
+    },
+    {
+      "id": "91338",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2501101",
+      "productSku": "2501101",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:53.418Z"
+    },
+    {
+      "id": "91339",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2501101",
+      "productSku": "2501101",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:56.373Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19657-18181.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18181-large_default/pantalon-chino-basico-nino-hueso.jpg",
+      "alt": "Pantalón chino básico niño Hueso",
+      "sourceId": "18181",
+      "variantIds": [],
+      "sha256": "a1d39f81983e02f65125bf10e64027ef408db4be4c53cf897b85fa654f85b63a"
+    },
+    {
+      "path": "assets/19657-18182.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18182-large_default/pantalon-chino-basico-nino-hueso.jpg",
+      "alt": "Pantalón chino básico niño Hueso",
+      "sourceId": "18182",
+      "variantIds": [],
+      "sha256": "fc1642a86d36eac08f9a1e1e4cb94866729661d67c9ebc80987e401dac35160f"
+    },
+    {
+      "path": "assets/19657-18183.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18183-large_default/pantalon-chino-basico-nino-hueso.jpg",
+      "alt": "Pantalón chino básico niño Hueso",
+      "sourceId": "18183",
+      "variantIds": [],
+      "sha256": "143ab923cc8de4ea4afdaa1914613b9c68589f024ad76a6b9e9c08aa65d8d196"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:56.504Z",
+  "issues": []
+}

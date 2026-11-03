@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "7923",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/7923-camiseta-manga-larga-colores-rojo.html",
+  "name": "Camiseta manga Larga colores Rojo",
+  "brand": "Zippy",
+  "sku": "1910004",
+  "description": "Abriga a tu pequeño con la Camiseta Manga Larga Rojo. Se mezcla el confort con un estilo elegante y vibrante. Esta prenda es imprescindible en el armario de cualquier niño por su versatilidad y diseñada para resistir el juego activo. La comodidad nunca ha sido tan vibrante.",
+  "details": "Una explosión de color y comodidad\n\nExperimenta una explosión de color y estilo con la Camiseta de manga larga color rojo. Esta magnífica prenda, elaborada con materiales de alta calidad, no solo brinda confort inigualable, sino que también añade un vibrante toque de color a cualquier atuendo. El rojo intenso resalta una personalidad audaz y enérgica, perfecto para pequeños exploradores llenos de vida.\n \n\nEstilo versátil para cada ocasión\n\nDesde un día en el parque hasta una ocasión especial, la Camiseta de manga larga color rojo es una opción versátil. Su diseño sencillo y elegante hace que la prenda sea fácil de combinar con cualquier tipo de ropa, brindando posibilidades infinitas para crear atuendos únicos y atractivos. Sin duda, es la elección perfecta para que tus pequeños luzcan distinguidos y a la moda en todo momento.\n\n\nCalidad que garantiza durabilidad\n\nConfeccionada con tejidos de óptima calidad, la Camiseta de manga larga color rojo ofrece una durabilidad excepcional. Resistente a lavados frecuentes y al desgaste diario, esta camiseta promete mantener su color vibrante y su forma por mucho tiempo. No más preocupaciones por decoloración o deformaciones; solo ropa cómoda, duradera y con estilo para tus seres queridos.\n\n\n¡No esperes más! Añade la Camiseta de manga larga color rojo a tu carrito de compras hoy y deja que tus pequeños irradien estilo con cada uso!",
+  "sourceDescriptionHtml": "<h2>Una explosión de color y comodidad</h2>\n<p>Experimenta una explosión de color y estilo con la Camiseta de manga larga color rojo. Esta magnífica prenda, elaborada con materiales de alta calidad, no solo brinda confort inigualable, sino que también añade un vibrante toque de color a cualquier atuendo. El rojo intenso resalta una personalidad audaz y enérgica, perfecto para pequeños exploradores llenos de vida.</p> \n\n<h2>Estilo versátil para cada ocasión</h2>\n<p>Desde un día en el parque hasta una ocasión especial, la Camiseta de manga larga color rojo es una opción versátil. Su diseño sencillo y elegante hace que la prenda sea fácil de combinar con cualquier tipo de ropa, brindando posibilidades infinitas para crear atuendos únicos y atractivos. Sin duda, es la elección perfecta para que tus pequeños luzcan distinguidos y a la moda en todo momento.</p>\n\n<h2>Calidad que garantiza durabilidad</h2>\n<p>Confeccionada con tejidos de óptima calidad, la Camiseta de manga larga color rojo ofrece una durabilidad excepcional. Resistente a lavados frecuentes y al desgaste diario, esta camiseta promete mantener su color vibrante y su forma por mucho tiempo. No más preocupaciones por decoloración o deformaciones; solo ropa cómoda, duradera y con estilo para tus seres queridos.</p>\n\n<p><strong>¡No esperes más! Añade la Camiseta de manga larga color rojo a tu carrito de compras hoy y deja que tus pequeños irradien estilo con cada uso!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:30",
+  "sourceUpdatedAt": "2026-10-27 11:10:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66688",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1910004",
+      "productSku": "1910004",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:05.060Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7923-6025.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6025-large_default/camiseta-manga-larga-colores-rojo.jpg",
+      "alt": "Camiseta manga Larga colores Rojo",
+      "sourceId": "6025",
+      "variantIds": [],
+      "sha256": "51df19615c171f0252613d7e3973e65eaf6af8674ef98f60ff55e3eeeaecacea"
+    },
+    {
+      "path": "assets/7923-10701.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10701-large_default/camiseta-manga-larga-colores-rojo.jpg",
+      "alt": "Camiseta manga Larga colores Rojo",
+      "sourceId": "10701",
+      "variantIds": [],
+      "sha256": "75910070f53f95d240ac989bac456b22984e4665c097bc28303dd05b6bc9127e"
+    },
+    {
+      "path": "assets/7923-6024.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6024-large_default/camiseta-manga-larga-colores-rojo.jpg",
+      "alt": "Camiseta manga Larga colores Rojo",
+      "sourceId": "6024",
+      "variantIds": [],
+      "sha256": "e121e8e2c4666f968c7cdbf6a9aa0f8a786e6b37bf6f57a5e1a3cad01846d8f8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:05.228Z",
+  "issues": []
+}

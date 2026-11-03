@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "6912",
+  "sourceUrl": "https://babyhogarinfantil.com/camisas-bebe-nino/6912-camisa-bebe-yuca-azul.html",
+  "name": "Camisa bebé Yuca Azul",
+  "brand": "Mac Ilusión",
+  "sku": "1707072",
+  "description": "Descubre la encantadora Camisa Bebé Yuca Azul, una elección perfecta para los más pequeños de casa. Esta pieza, diseñada con la mayor delicadeza y mimo, proporciona confort y suavidad para la delicada piel de tu bebé. Con su tono azul y corte perfecto, promete llenar de estilo cualquier atuendo, haciendo resaltar a tu pequeño en cualquier ocasión. Perfecta tanto para su primer paseo como para sus sesiones fotográficas especiales. ¡Sin duda, la Camisa Bebé Yuca Azul es la esencia de la ternura!",
+  "details": "Moda y Confort Unificados\n\nEnvuelve a tu pequeño en estilo y comodidad con la Camisa bebé Yuca Azul. Esta prenda elegante y versátil es perfecta para cualquier ocasión, ya sea un paseo casual por el parque o un evento especial. El sensacional tono azul y la fabricación suprema hacen que esta camisa sea una elección sobresaliente para el guardarropa de cada niño.\n\n\nDiseño Exclusivo para los Más Pequeños\n\nLa exclusiva Camisa bebé Yuca Azul combina practicidad y moda. Con un diseño gracioso y un ajuste perfecto para los pequeños, esta prenda es una elección fascinante. Sus delicados botones facilitan la puesta y la eliminación, haciendo que el cambio de atuendos sea más sencillo y menos estresante para ti y tu pequeño.\n\n\nCalidad Suprema para Pieles Sensibles\n\nImpresionantemente suave al tacto, la Camisa bebé Yuca Azul ha sido diseñada pensando en la delicada piel de tu bebé. Utilizando tejidos de alta calidad, esta prenda se asegura de proporcionar una experiencia superior y cómoda para tu niño, evitando irritaciones y rozaduras mientras mantiene a tu pequeño a gusto y con estilo.\n\n\nAgrega la Camisa bebé Yuca Azul al carrito ahora y haz que tu pequeño se destaque con estilo y comodidad. ¡Aprovecha ahora!",
+  "sourceDescriptionHtml": "<h2>Moda y Confort Unificados</h2>\n<p>Envuelve a tu pequeño en estilo y comodidad con la Camisa bebé Yuca Azul. Esta prenda elegante y versátil es perfecta para cualquier ocasión, ya sea un paseo casual por el parque o un evento especial. El sensacional tono azul y la fabricación suprema hacen que esta camisa sea una elección sobresaliente para el guardarropa de cada niño.</p>\n\n<h2>Diseño Exclusivo para los Más Pequeños</h2>\n<p>La exclusiva Camisa bebé Yuca Azul combina practicidad y moda. Con un diseño gracioso y un ajuste perfecto para los pequeños, esta prenda es una elección fascinante. Sus delicados botones facilitan la puesta y la eliminación, haciendo que el cambio de atuendos sea más sencillo y menos estresante para ti y tu pequeño.</p>\n\n<h2>Calidad Suprema para Pieles Sensibles</h2>\n<p>Impresionantemente suave al tacto, la Camisa bebé Yuca Azul ha sido diseñada pensando en la delicada piel de tu bebé. Utilizando tejidos de alta calidad, esta prenda se asegura de proporcionar una experiencia superior y cómoda para tu niño, evitando irritaciones y rozaduras mientras mantiene a tu pequeño a gusto y con estilo.</p>\n\n<p>Agrega la Camisa bebé Yuca Azul al carrito ahora y haz que tu pequeño se destaque con estilo y comodidad. ¡Aprovecha ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "677",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "677",
+  "sourceCategoryName": "Camisas Bebé niño",
+  "price": 18.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64696",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1707072",
+      "productSku": "1707072",
+      "taxRate": 21,
+      "price": 18.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:25.445Z"
+    },
+    {
+      "id": "64697",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1707072",
+      "productSku": "1707072",
+      "taxRate": 21,
+      "price": 18.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:26.389Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6912-4834.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4834-large_default/camisa-bebe-yuca-azul.jpg",
+      "alt": "Camisa bebé Yuca Azul",
+      "sourceId": "4834",
+      "variantIds": [],
+      "sha256": "9ce31834ead48f3c0d0d3c6b06ebf2dc9a900eb10ca19372fd947133afab80e0"
+    },
+    {
+      "path": "assets/6912-4833.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4833-large_default/camisa-bebe-yuca-azul.jpg",
+      "alt": "Camisa bebé \"Yuca\" Azul",
+      "sourceId": "4833",
+      "variantIds": [],
+      "sha256": "dd38ba5128e751af3a6dae452616de0f5ce98453f6f1049e79d40b961e834eb0"
+    },
+    {
+      "path": "assets/6912-15010.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15010-large_default/camisa-bebe-yuca-azul.jpg",
+      "alt": "Camisa bebé Yuca Azul",
+      "sourceId": "15010",
+      "variantIds": [],
+      "sha256": "5a0668f940b663e7207f5a1ec329adc73c9459f1cef6653d3b4f09b491a1f5fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:26.554Z",
+  "issues": []
+}

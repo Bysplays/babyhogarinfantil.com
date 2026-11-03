@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "id": "9904",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-antideslizantes/9904-calcetines-con-suela-rizo-rosa.html",
+  "name": "Calcetines con suela rizo Rosa",
+  "brand": "Mayoral",
+  "sku": "2208019",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "752",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "752",
+  "sourceCategoryName": "Calcetines Antideslizantes",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70353",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "10505XI16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:49.251Z"
+    },
+    {
+      "id": "147926",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "10505XA16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:52.339Z"
+    },
+    {
+      "id": "147927",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "10505XB16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:55.106Z"
+    },
+    {
+      "id": "147928",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "10505XC16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:59.151Z"
+    },
+    {
+      "id": "147929",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "10505XD16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:01.569Z"
+    },
+    {
+      "id": "147930",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "10505XE16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:05.979Z"
+    },
+    {
+      "id": "147931",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "10505XF16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:09.178Z"
+    },
+    {
+      "id": "147932",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "10505XG16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:12.698Z"
+    },
+    {
+      "id": "147933",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "10505XH16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:15.328Z"
+    },
+    {
+      "id": "147934",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "10505XJ16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:17.359Z"
+    },
+    {
+      "id": "147935",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "10505XK16347",
+      "productSku": "2208019",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:20.189Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9904-12922.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12922-large_default/calcetines-con-suela-rizo-rosa.jpg",
+      "alt": "Calcetines con suela rizo Rosa",
+      "sourceId": "12922",
+      "variantIds": [],
+      "sha256": "1ad430a87466f73ce67393a5878af6292ad3cb1f3de13eebf2876b2c84ed8e1f"
+    },
+    {
+      "path": "assets/9904-12921.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12921-large_default/calcetines-con-suela-rizo-rosa.jpg",
+      "alt": "Calcetines con suela rizo Rosa",
+      "sourceId": "12921",
+      "variantIds": [],
+      "sha256": "894171f4d6facf2f03d1208524994ed74c8351c336e67744659c31a7cd275cca"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:11:20.349Z",
+  "issues": []
+}

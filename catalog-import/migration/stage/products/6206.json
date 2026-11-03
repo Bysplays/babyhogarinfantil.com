@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6206",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/6206-chaqueta-bebe-azul-marino.html",
+  "name": "Chaqueta bebé Azul Marino",
+  "brand": "Pecesa",
+  "sku": "993",
+  "description": "Ninguna guardería estará completa sin la Chaqueta Bebé Azul Marino. Diseñada para los días más fríos de invierno, esta comodidad suprema que encanta a los más pequeños. Cálida pero ligera, está hecha para moverse libremente y explorar. Delicadamente hilada y con un magnífico azul que contrasta con la blancura de la nieve, será la pieza clave de su armario. ¡Haz que se destaque en el parque mientras se mantiene abrigado! Una inversión en calor elegante para aquellos queridos momentos inolvidables.",
+  "details": "Cálido y cómodo\n\nEnvuelve a tu pequeño en el abrazo cálido y acogedor de la Chaqueta bebé Azul marino. Fabricada con materiales de alta calidad, esta chaqueta promete mantener a tu pequeño protegido del frío sin sacrificar su comodidad. Fácil de poner y quitar, es la elección perfecta para las mañanas frías y las tardes ventosas.\n\n\nChic y versátil\n\nClásica, elegante y versátil, nuestra Chaqueta bebé Azul marino es una prenda imprescindible para el armario de tu pequeño. Combina la chaqueta azul marino con cualquier otra prenda, ya sea un conjunto formal o ropa casual. Su color intenso y su diseño atemporal lo convierten en una elección elegante para diversas ocasiones.\n\n\nDuradero y fácil de cuidar\n\nFabricada para resistir las avideces de los bebés, la Chaqueta bebé Azul marino es tan duradera como adorable. Esta chaqueta es fácil de lavar y mantener, lo que la hace perfecta para el uso diario. Prepárate para coger la chaqueta una y otra vez mientras tu pequeño disfruta de su comodidad y calidez.\n\n\nNo dudes más, añade esta excelente Chaqueta bebé Azul marino al armario de tu pequeño hoy mismo. Te encantará la hermosa sonrisa de tu bebé al disfrutar de la comodidad y calidez de esta chaqueta, y te encantará lo fácil que es de cuidar.",
+  "sourceDescriptionHtml": "<h2>Cálido y cómodo</h2>\n<p>Envuelve a tu pequeño en el abrazo cálido y acogedor de la Chaqueta bebé Azul marino. Fabricada con materiales de alta calidad, esta chaqueta promete mantener a tu pequeño protegido del frío sin sacrificar su comodidad. Fácil de poner y quitar, es la elección perfecta para las mañanas frías y las tardes ventosas.</p>\n\n<h2>Chic y versátil</h2>\n<p>Clásica, elegante y versátil, nuestra Chaqueta bebé Azul marino es una prenda imprescindible para el armario de tu pequeño. Combina la chaqueta azul marino con cualquier otra prenda, ya sea un conjunto formal o ropa casual. Su color intenso y su diseño atemporal lo convierten en una elección elegante para diversas ocasiones.</p>\n\n<h2>Duradero y fácil de cuidar</h2>\n<p>Fabricada para resistir las avideces de los bebés, la Chaqueta bebé Azul marino es tan duradera como adorable. Esta chaqueta es fácil de lavar y mantener, lo que la hace perfecta para el uso diario. Prepárate para coger la chaqueta una y otra vez mientras tu pequeño disfruta de su comodidad y calidez.</p>\n\n<p>No dudes más, añade esta excelente Chaqueta bebé Azul marino al armario de tu pequeño hoy mismo. Te encantará la hermosa sonrisa de tu bebé al disfrutar de la comodidad y calidez de esta chaqueta, y te encantará lo fácil que es de cuidar.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 22.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62887",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "993",
+      "productSku": "993",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:20.146Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6206-4118.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4118-large_default/chaqueta-bebe-azul-marino.jpg",
+      "alt": "Chaqueta bebé Azul marino",
+      "sourceId": "4118",
+      "variantIds": [],
+      "sha256": "bb099a500444511e862fd34b4e93e78ab4938af008681624f11cc9371077ffc7"
+    },
+    {
+      "path": "assets/6206-4117.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4117-large_default/chaqueta-bebe-azul-marino.jpg",
+      "alt": "Chaqueta bebé Azul marino",
+      "sourceId": "4117",
+      "variantIds": [],
+      "sha256": "c341d4f511897bfe435531d26b1343d37bf5b65a0c5175ca0910b4dc665b7baf"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:20.271Z",
+  "issues": []
+}

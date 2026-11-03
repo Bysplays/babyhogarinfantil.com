@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "id": "19069",
+  "sourceUrl": "https://babyhogarinfantil.com/manoplas-y-guantes/19069-guante-tricot-con-lazo-azul-marino.html",
+  "name": "Guante tricot con lazo Azul Marino",
+  "brand": "Mayoral",
+  "sku": "2402276",
+  "description": "Guantes con lazo para niña. Protege las manos del frío.",
+  "details": "COMPOSICIÓN\n\nGuantes:\n\n50% Viscosa\n\n30% Poliéster\n\n20% Poliamida",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Guantes:</strong></p>\n<p>50% Viscosa</p>\n<p>30% Poliéster</p>\n<p>20% Poliamida</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "709"
+  ],
+  "sourceDefaultCategoryId": "709",
+  "sourceCategoryName": "Manoplas y guantes",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-11-14 08:34:12",
+  "sourceUpdatedAt": "2026-10-27 11:13:56",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88653",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "12406XC18986",
+      "productSku": "2402276",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:46.061Z"
+    },
+    {
+      "id": "149289",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "12406XA18986",
+      "productSku": "2402276",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:48.266Z"
+    },
+    {
+      "id": "149290",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "12406XB18986",
+      "productSku": "2402276",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:50.480Z"
+    },
+    {
+      "id": "149291",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "12406XD18986",
+      "productSku": "2402276",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:52.613Z"
+    },
+    {
+      "id": "149292",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "12406XE18986",
+      "productSku": "2402276",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:55.197Z"
+    },
+    {
+      "id": "149293",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "12406XF18986",
+      "productSku": "2402276",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:58.383Z"
+    },
+    {
+      "id": "149294",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "12406XG18986",
+      "productSku": "2402276",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:01.460Z"
+    },
+    {
+      "id": "149295",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "12406XH18986",
+      "productSku": "2402276",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:03.977Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19069-20252.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20252-large_default/guante-tricot-con-lazo-azul-marino.jpg",
+      "alt": "Guante tricot con lazo Azul Marino",
+      "sourceId": "20252",
+      "variantIds": [],
+      "sha256": "965dcdc6cb7575cf17377c037aa86a09723478aaa798c2f816071b5999821a65"
+    },
+    {
+      "path": "assets/19069-20253.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20253-large_default/guante-tricot-con-lazo-azul-marino.jpg",
+      "alt": "Guante tricot con lazo Azul Marino",
+      "sourceId": "20253",
+      "variantIds": [],
+      "sha256": "e26c375ea21b80b827e4ccbfba652c5fa4021b1268c5f5b4544f5f99b00fb25a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:04.110Z",
+  "issues": []
+}

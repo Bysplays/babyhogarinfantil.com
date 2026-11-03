@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10589",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/10589-conjunto-nino-pantalon-rayas-verde.html",
+  "name": "Conjunto niño pantalon rayas Verde",
+  "brand": "Baby-Ferr",
+  "sku": "2301305",
+  "description": "Conjunto de dos piezas de vestir para niño, compuesto por camisa de manga larga con trabilla para llevar remangada y pantalón corto en color verde empolvado estampado con listas, incluye cinturón.",
+  "details": "Fashion y Comodidad\n\nDescubre la perfecta combinación de moda y comodidad con nuestro conjunto de pantalón rayas en color verde. Diseñado específicamente pensando en los más pequeños, este conjunto destaca por su atrevido diseño de rayas y su suave y cómodo material. Un must-have en el armario de todo niño que quiera estar a la última, pero sin renunciar a la comodidad durante todo el día.\n\n\n\nEstilo Versátil para Cada Ocasión\n\nNuestro conjunto de niño con pantalón de rayas verde es versátil y adecuado para cualquier ocasión. Ya sea una tarde de juegos en el parque, día de colegio o una función especial, tu pequeño lucirá elegante y estilizado. Con este conjunto, la diversión y el estilo van siempre de la mano.\n\n\n\nCalidad Incomparable\n\nAl ser una tienda de ropa de bebé y niños, entendemos que la calidad es clave cuando se trata de ropa para los más pequeños. Por eso, nuestro conjunto de pantalón de rayas verde está fabricado con tejidos de la más alta calidad que son suaves para la piel de los niños y resisten el desgaste diario. Esto garantiza que el conjunto sea tan duradero como bello.\n\n\n\n¡No Esperes Más!\n\n¡Añade un toque de estilo y confort al guardarropa de tu pequeño hoy mismo! No esperes más y compra nuestro conjunto de niño con pantalón de rayas verde ahora. Recuerda, buen estilo empieza desde joven. ¡Haz que tu pequeño brille con nuestro conjunto hoy!",
+  "sourceDescriptionHtml": "<h2>Fashion y Comodidad</h2>\n<p>Descubre la perfecta combinación de moda y comodidad con nuestro conjunto de pantalón rayas en color verde. Diseñado específicamente pensando en los más pequeños, este conjunto destaca por su atrevido diseño de rayas y su suave y cómodo material. Un must-have en el armario de todo niño que quiera estar a la última, pero sin renunciar a la comodidad durante todo el día.</p>\n\n<!-- Párrafo de Descripción 2 -->\n<h2>Estilo Versátil para Cada Ocasión</h2>\n<p>Nuestro conjunto de niño con pantalón de rayas verde es versátil y adecuado para cualquier ocasión. Ya sea una tarde de juegos en el parque, día de colegio o una función especial, tu pequeño lucirá elegante y estilizado. Con este conjunto, la diversión y el estilo van siempre de la mano.</p>\n\n<!-- Párrafo de Descripción 3 -->\n<h2>Calidad Incomparable</h2>\n<p>Al ser una tienda de ropa de bebé y niños, entendemos que la calidad es clave cuando se trata de ropa para los más pequeños. Por eso, nuestro conjunto de pantalón de rayas verde está fabricado con tejidos de la más alta calidad que son suaves para la piel de los niños y resisten el desgaste diario. Esto garantiza que el conjunto sea tan duradero como bello.</p>\n\n<!--Llamada a la Acción-->\n<h2>¡No Esperes Más!</h2>\n<p>¡Añade un toque de estilo y confort al guardarropa de tu pequeño hoy mismo! No esperes más y compra nuestro conjunto de niño con pantalón de rayas verde ahora. Recuerda, buen estilo empieza desde joven. ¡Haz que tu pequeño brille con nuestro conjunto hoy!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 36.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-22 16:19:32",
+  "sourceUpdatedAt": "2026-10-27 11:12:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72311",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2301305",
+      "productSku": "2301305",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:15.818Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10589-13773.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13773-large_default/conjunto-nino-pantalon-rayas-verde.jpg",
+      "alt": "Conjunto niño pantalon rayas Verde",
+      "sourceId": "13773",
+      "variantIds": [],
+      "sha256": "c9b0c8761cf7c5e12312ef64d33ac000454edff02c74ec51e658eb7d6569df0e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:15.885Z",
+  "issues": []
+}

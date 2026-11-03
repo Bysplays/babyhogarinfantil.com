@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "6749",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/6749-pantalon-bebe-largo-algodon-rosa.html",
+  "name": "Pantalón bebé largo algodón Rosa",
+  "brand": "Chicco",
+  "sku": "1702117",
+  "description": "Pantalón con cintura todo goma .100% algodón sin perchar. Para el buen tiempo.",
+  "details": "Composición y cuidados:\n\nPantalón: 100% algodón.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pantalón: 100% algodón.</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 9.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-27 11:09:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64264",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1702117",
+      "productSku": "1702117",
+      "taxRate": 21,
+      "price": 9.9,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:14.978Z"
+    },
+    {
+      "id": "64265",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1702117",
+      "productSku": "1702117",
+      "taxRate": 21,
+      "price": 9.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:17.547Z"
+    },
+    {
+      "id": "64266",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1702117",
+      "productSku": "1702117",
+      "taxRate": 21,
+      "price": 9.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:20.190Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6749-8390.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8390-large_default/pantalon-bebe-largo-algodon-rosa.jpg",
+      "alt": "Pantalón bebé largo algodón Rosa",
+      "sourceId": "8390",
+      "variantIds": [],
+      "sha256": "47c6434058b97dca2325d5df1f4ae252528ea45e3b1db40f9d668d0feced6e3b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:20.466Z",
+  "issues": []
+}

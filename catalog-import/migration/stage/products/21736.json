@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "21736",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/21736-bodie-manga-corta-mayoral-algodon-menta.html",
+  "name": "Bodie manga corta Mayoral algodón Menta",
+  "brand": "Mayoral",
+  "sku": "2601036",
+  "description": "Body de manga corta para bebé verde menta confeccionado en 100% algodón. Suave, cómodo y perfecto para el uso diario desde los primeros meses.",
+  "details": "El body de bebé Mayoral verde menta de manga corta es una prenda básica e imprescindible para el día a día.\n\nEstá confeccionado en 100% algodón, un tejido suave, transpirable y agradable al contacto con la piel del bebé. Su diseño liso en color crudo incorpora un discreto motivo decorativo en la parte delantera, aportando un toque original sin perder la sencillez.\n\nCuenta con cierre de corchetes en la entrepierna, facilitando el cambio de pañal y proporcionando un ajuste cómodo durante todo el día.\n\n\nBody de manga corta para bebé\n\nColor verde menta\n\nTejido 100% algodón\n\nCierre con corchetes en la entrepierna\n\nSuave, transpirable y cómodo\n\n\nIdeal para combinar con cualquier conjunto y utilizar tanto en verano como durante todo el año.",
+  "sourceDescriptionHtml": "<p>El <strong>body de bebé Mayoral</strong> verde menta de manga corta es una prenda básica e imprescindible para el día a día.</p>\n<p>Está confeccionado en <strong>100% algodón</strong>, un tejido suave, transpirable y agradable al contacto con la piel del bebé. Su diseño liso en color crudo incorpora un discreto motivo decorativo en la parte delantera, aportando un toque original sin perder la sencillez.</p>\n<p>Cuenta con <strong>cierre de corchetes en la entrepierna</strong>, facilitando el cambio de pañal y proporcionando un ajuste cómodo durante todo el día.</p>\n<ul>\n<li>Body de manga corta para bebé</li>\n<li>Color verde menta</li>\n<li>Tejido 100% algodón</li>\n<li>Cierre con corchetes en la entrepierna</li>\n<li>Suave, transpirable y cómodo</li>\n</ul>\n<p>Ideal para combinar con cualquier conjunto y utilizar tanto en verano como durante todo el año.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Menta",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "896",
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-12 08:34:13",
+  "sourceUpdatedAt": "2026-10-27 11:14:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99685",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2601036",
+      "productSku": "2601036",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:16.654Z"
+    },
+    {
+      "id": "99686",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2601036",
+      "productSku": "2601036",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:19.091Z"
+    },
+    {
+      "id": "99687",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2601036",
+      "productSku": "2601036",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:21.503Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21736-21296.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21296-large_default/bodie-manga-corta-mayoral-algodon-menta.jpg",
+      "alt": "Detalle body bebé 100% algodón Mayoral verde menta",
+      "sourceId": "21296",
+      "variantIds": [],
+      "sha256": "1f592c8c538393ba823ebdd9da6d4061c03b393b84c4bcd34978f0f34ef6ce56"
+    },
+    {
+      "path": "assets/21736-21297.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21297-large_default/bodie-manga-corta-mayoral-algodon-menta.jpg",
+      "alt": "Body bebé color verde menta de manga corta",
+      "sourceId": "21297",
+      "variantIds": [],
+      "sha256": "70c868f19955b43ebc7a908aaf5a91563301aaf3e85de5a6a56b01ed42d8ca28"
+    },
+    {
+      "path": "assets/21736-21298.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21298-large_default/bodie-manga-corta-mayoral-algodon-menta.jpg",
+      "alt": "Parte trasera body bebé Mayoral verde menta",
+      "sourceId": "21298",
+      "variantIds": [],
+      "sha256": "4fa54d129df2667662617e87b51b5be010f457c96740238ed7577a02654b64ee"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:21.699Z",
+  "issues": []
+}

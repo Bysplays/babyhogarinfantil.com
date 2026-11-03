@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "id": "7751",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/7751-gorro-lazo-rosa.html",
+  "name": "Gorro lazo Rosa",
+  "brand": "Zippy",
+  "sku": "1904258",
+  "description": "Gorrito ROSA para niña, forrado y con detalle de lazo. El lazo puedes ponerlo para delante o para atrás, como mas te guste. Las tallas son el diámetro de la cabeza en cm.",
+  "details": "Composición:\n\nGorro ROSA:\n\nExterior: 100% algodón.\n\nInterior: 90% algodón 10% polyester.\n\nNO USAR SECADORA\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Gorro ROSA:</p>\n<p>Exterior: 100% algodón.</p>\n<p>Interior: 90% algodón 10% polyester.</p>\n<p>NO USAR SECADORA</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66284",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "6604XF11009",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:59.000Z"
+    },
+    {
+      "id": "146244",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "6604XA11009",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:00.691Z"
+    },
+    {
+      "id": "146245",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "6604XB11009",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:02.273Z"
+    },
+    {
+      "id": "146246",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "6604XC11009",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:03.935Z"
+    },
+    {
+      "id": "146247",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "6604XD11009",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:05.728Z"
+    },
+    {
+      "id": "146248",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "6604XE11009",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:07.569Z"
+    },
+    {
+      "id": "66285",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "6604XG11009",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:09.144Z"
+    },
+    {
+      "id": "146249",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "6604XH11009",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:11.784Z"
+    },
+    {
+      "id": "146250",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "6604XI11009",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:14.756Z"
+    },
+    {
+      "id": "66287",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "6604XJ11009",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:17.756Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7751-5820.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5820-large_default/gorro-lazo-rosa.jpg",
+      "alt": "Gorro lazo Rosa",
+      "sourceId": "5820",
+      "variantIds": [],
+      "sha256": "0444337640d834619e73fbca800cda0a1d55f7a8eeb684bf836ca30e1322ec58"
+    },
+    {
+      "path": "assets/7751-10545.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10545-large_default/gorro-lazo-rosa.jpg",
+      "alt": "Gorro lazo Rosa",
+      "sourceId": "10545",
+      "variantIds": [],
+      "sha256": "0444337640d834619e73fbca800cda0a1d55f7a8eeb684bf836ca30e1322ec58"
+    },
+    {
+      "path": "assets/7751-5819.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5819-large_default/gorro-lazo-rosa.jpg",
+      "alt": "Gorro lazo Rosa",
+      "sourceId": "5819",
+      "variantIds": [],
+      "sha256": "c2716f4a9a58d6d1d9e41662b9e8acb32f57b7c041bc39585214c3d02e0af238"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:17.879Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16174",
+  "sourceUrl": "https://babyhogarinfantil.com/bano-nino/16174-banador-boxer-patrulla-canina-amarillo.html",
+  "name": "Bañador boxer Patrulla canina Amarillo",
+  "brand": "Sun City",
+  "sku": "2301390",
+  "description": "Bañador boxer de la Patrulla canina en color amarillo",
+  "details": "Composición:\n\nBañador: 80% poliéster, 20% elastano.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Bañador: 80% poliéster, 20% elastano.</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "807"
+  ],
+  "sourceDefaultCategoryId": "807",
+  "sourceCategoryName": "Baño niño",
+  "price": 11.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-21 16:14:55",
+  "sourceUpdatedAt": "2026-10-27 11:12:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72572",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2301390",
+      "productSku": "2301390",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:44.885Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16174-13917.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13917-large_default/banador-boxer-patrulla-canina-amarillo.jpg",
+      "alt": "Bañador boxer Patrulla canina Amarillo",
+      "sourceId": "13917",
+      "variantIds": [],
+      "sha256": "c4f283af041bd7ca6f7d44b6e0cd072f61c86b0ef7899a0df58df2ebd68fa5c5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:44.936Z",
+  "issues": []
+}

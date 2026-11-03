@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "6151",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/6151-calcetin-corto-algodon-puno-labrado-blanco.html",
+  "name": "Calcetín corto algodón puño labrado Blanco",
+  "brand": "Condor",
+  "sku": "687",
+  "description": "Calcetines cortos BALNCOS con el puño labrado de primavera para bebé y niñ@s hasta talla 6. Ver guía de tallas en las imágenes. HECHO EN ESPAÑA",
+  "details": "Composición:\n\n70% ALGODON, 30% POLIAMIDA.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>70% ALGODON, 30% POLIAMIDA.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "846",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 4.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 14,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62650",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:14.374Z"
+    },
+    {
+      "id": "77001",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:14.375Z"
+    },
+    {
+      "id": "83310",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:17.718Z"
+    },
+    {
+      "id": "62654",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:21.356Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6151-4051.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4051-large_default/calcetin-corto-algodon-puno-labrado-blanco.jpg",
+      "alt": "Calcetín corto algodón puño labrado Blanco",
+      "sourceId": "4051",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6151-4050.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4050-large_default/calcetin-corto-algodon-puno-labrado-blanco.jpg",
+      "alt": "Calcetín corto algodón puño labrado Blanco",
+      "sourceId": "4050",
+      "variantIds": [],
+      "sha256": "0a97039344a6d37b272a5ec7fd53c9c71b113b32306698c477629cc2bb2ccb2f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:21.448Z",
+  "issues": []
+}

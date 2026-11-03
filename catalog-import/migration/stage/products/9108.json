@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "9108",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/9108-vestido-cuadros-atenas-rojo.html",
+  "name": "Vestido cuadros Atenas Rojo",
+  "brand": "Yoedu",
+  "sku": "2109000",
+  "description": "Descubre la elegancia con el \"Vestido cuadros Atenas Rojo\" para niñas. Diseñado con un delicado patrón de cuadros rojos que despertará adoración al instante. Perfecto para celebraciones o simplemente para ese día especial, este vestido ofrece comodidad y estilo. La belleza reside en los detalles y aquí no faltan. Basta con un vistazo para enamorarse de este encantador vestido para niñas. ¡Haz su día inolvidable con su nuevo vestido favorito, un toque chic y atemporal!",
+  "details": "El Encanto del Estilo Clásico\n\nCon su diseño de cuadros rojos, nuestro Vestido Atenas Rojo evoca un aire de sofisticación atemporal. El estilo clásico se encuentra con una moderna actualización en un patrón versátil de cuadros que seguro deleitará a la más elegante pequeña fashionista. Este imprescindible armario te hará sonreír al ver a tus pequeños revolotear en el más chic de los diseños.\n\nVestir con Comodidad y Calidad\n\nEl Vestido Atenas Rojo no sólo es un espectáculo para la vista, sino que también está fabricado con una mezcla de telas de alta calidad, asegurando comodidad con cada uso. El tacto suave y acogedor de esta prenda se combina con su durabilidad para proporcionar un vestido que resistirá las actividades más enérgicas de juego sin perder su encanto estético.\n\n44% Poliéster, 38% Algodón, 18% Viscosa\n\nForro: 65% Poliéster, 35% Algodón \n\nUna Adición Versátil para Cada Evento\n\n¿Buscando la pieza de ropa perfecta para un día especial o una simple tarde de juego? El Vestido Atenas Rojo es el vestido para todas las ocasiones. Con su diseño de cuadros atemporales y su cómodo ajuste, este vestido añade un toque de elegancia a cualquier evento, ya sea para una reunión familiar, una salida al parque o un día normal en casa.\n\nAñade el Vestido Atenas Rojo a tu carrito de compras hoy y deja que tus niños brillen con la elegancia clásica y la comodidad todo el día.",
+  "sourceDescriptionHtml": "<div class=\"product-description\">\n<h2>El Encanto del Estilo Clásico</h2>\n<p>Con su diseño de cuadros rojos, nuestro Vestido Atenas Rojo evoca un aire de sofisticación atemporal. El estilo clásico se encuentra con una moderna actualización en un patrón versátil de cuadros que seguro deleitará a la más elegante pequeña fashionista. Este imprescindible armario te hará sonreír al ver a tus pequeños revolotear en el más chic de los diseños.</p>\n<h2>Vestir con Comodidad y Calidad</h2>\n<p>El Vestido Atenas Rojo no sólo es un espectáculo para la vista, sino que también está fabricado con una mezcla de telas de alta calidad, asegurando comodidad con cada uso. El tacto suave y acogedor de esta prenda se combina con su durabilidad para proporcionar un vestido que resistirá las actividades más enérgicas de juego sin perder su encanto estético.</p>\n<p>44% Poliéster, 38% Algodón, 18% Viscosa</p>\n<p>Forro: 65% Poliéster, 35% Algodón </p>\n<h2>Una Adición Versátil para Cada Evento</h2>\n<p>¿Buscando la pieza de ropa perfecta para un día especial o una simple tarde de juego? El Vestido Atenas Rojo es el vestido para todas las ocasiones. Con su diseño de cuadros atemporales y su cómodo ajuste, este vestido añade un toque de elegancia a cualquier evento, ya sea para una reunión familiar, una salida al parque o un día normal en casa.</p>\n<a href=\"checkout.html\" class=\"buy-now\">Añade el Vestido Atenas Rojo a tu carrito de compras hoy y deja que tus niños brillen con la elegancia clásica y la comodidad todo el día.</a></div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 57.25,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:45",
+  "sourceUpdatedAt": "2026-10-27 11:11:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68543",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2109000",
+      "productSku": "2109000",
+      "taxRate": 21,
+      "price": 57.25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:18.802Z"
+    },
+    {
+      "id": "68545",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2109000",
+      "productSku": "2109000",
+      "taxRate": 21,
+      "price": 57.25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:20.543Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9108-11913.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11913-large_default/vestido-cuadros-atenas-rojo.jpg",
+      "alt": "Vestido cuadros Atenas Rojo",
+      "sourceId": "11913",
+      "variantIds": [],
+      "sha256": "6640d38e33518c84020178c32b00d48e9529bb25782523ca6c0258f0032a0430"
+    },
+    {
+      "path": "assets/9108-11914.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11914-large_default/vestido-cuadros-atenas-rojo.jpg",
+      "alt": "Vestido cuadros Atenas Rojo",
+      "sourceId": "11914",
+      "variantIds": [],
+      "sha256": "70c660cc36074edae616ee02915dcf78431e84bf9dea739c15e03cc4a87c7106"
+    },
+    {
+      "path": "assets/9108-11915.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11915-large_default/vestido-cuadros-atenas-rojo.jpg",
+      "alt": "Vestido cuadros Atenas Rojo",
+      "sourceId": "11915",
+      "variantIds": [],
+      "sha256": "f5aada44f6e7f557ef4402dd35ddff7adc5690814164f8713ae0e2a94c4b6bbb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:20.743Z",
+  "issues": []
+}

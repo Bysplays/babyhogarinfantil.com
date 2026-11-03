@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "id": "19771",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/19771-camiseta-manga-corta-angel-de-la-guarda-blanco.html",
+  "name": "Camiseta manga corta Ángel de la guarda Blanco",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2501224",
+  "description": "Camiseta NUEVO ESCUDO 2025 para deporte. Uniforme colegio Ángel de la guarda Nigrán.",
+  "details": "Composición:\n\nCamiseta: 50% poliéster, 50% algodón.\n\nHECHO EN UE",
+  "sourceDescriptionHtml": "<p><em>Composición:</em></p>\n<p><em>Camiseta: 50% poliéster, 50% algodón.</em></p>\n<p><strong><em>HECHO EN UE</em></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "705"
+  ],
+  "sourceDefaultCategoryId": "705",
+  "sourceCategoryName": "Colegio Angel de la Guarda Nigran",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-04-10 23:54:25",
+  "sourceUpdatedAt": "2026-10-26 19:38:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 35,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "313",
+          "label": "16(S)"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92148",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:11.106Z"
+    },
+    {
+      "id": "92149",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:15.051Z"
+    },
+    {
+      "id": "92150",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:21.268Z"
+    },
+    {
+      "id": "96196",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:25.642Z"
+    },
+    {
+      "id": "92151",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 13,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:28.686Z"
+    },
+    {
+      "id": "96197",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:31.738Z"
+    },
+    {
+      "id": "136697",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:34.665Z"
+    },
+    {
+      "id": "96199",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "313",
+          "group": "Tamaño",
+          "value": "16(S)"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:37.634Z"
+    },
+    {
+      "id": "96200",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:39.777Z"
+    },
+    {
+      "id": "92155",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:43.250Z"
+    },
+    {
+      "id": "136698",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "2501224",
+      "productSku": "2501224",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:47.057Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19771-19740.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19740-large_default/camiseta-manga-corta-angel-de-la-guarda-blanco.jpg",
+      "alt": "Camiseta manga corta Ángel de la guarda Blanco",
+      "sourceId": "19740",
+      "variantIds": [],
+      "sha256": "ce8b83fda011a05b4b80dfa8083ca1182d2633214bbefadd14ce7aa488780eb6"
+    },
+    {
+      "path": "assets/19771-18504.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18504-large_default/camiseta-manga-corta-angel-de-la-guarda-blanco.jpg",
+      "alt": "Camiseta manga corta Ángel de la guarda Blanco",
+      "sourceId": "18504",
+      "variantIds": [],
+      "sha256": "6dde25ac4331f105ac59ab91a0e002f552a1451efb8770402868223d33b9b54c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:32:48.901Z",
+  "issues": []
+}

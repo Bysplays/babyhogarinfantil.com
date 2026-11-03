@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "21907",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/21907-short-vaquero-nina-denim-claro-mayoral-azul.html",
+  "name": "Short vaquero niña denim claro Mayoral Azul",
+  "brand": "Mayoral",
+  "sku": "2601211",
+  "description": "Versátil short vaquero para niña de Mayoral en denim claro. Diseño cómodo y moderno, ideal para combinar en looks casuales de primavera y verano.",
+  "details": "Este short vaquero para niña de la marca Mayoral es una prenda imprescindible para crear looks cómodos y actuales durante la temporada de primavera y verano.\n\nConfeccionado en tejido denim claro, ofrece un estilo casual muy fácil de combinar con camisetas, blusas o sudaderas.\n\nSu diseño incluye cierre frontal con botón y cremallera, además de prácticos bolsillos delanteros y traseros que aportan funcionalidad y estilo.\n\nEl acabado en lavado claro aporta un aire fresco y moderno, ideal para outfits informales y desenfadados.\n\n\nShort vaquero para niña\n\nTejido denim claro\n\nCierre con botón y cremallera\n\nBolsillos delanteros y traseros\n\nFácil de combinar\n\nIdeal para primavera y verano\n\nComposición: 100% algodón.\n\n\nPerfecto para looks casuales cómodos y con estilo.",
+  "sourceDescriptionHtml": "<p>Este <strong>short vaquero para niña</strong> de la marca <strong>Mayoral</strong> es una prenda imprescindible para crear looks cómodos y actuales durante la temporada de primavera y verano.</p>\n<p>Confeccionado en <strong>tejido denim claro</strong>, ofrece un estilo casual muy fácil de combinar con camisetas, blusas o sudaderas.</p>\n<p>Su diseño incluye <strong>cierre frontal con botón y cremallera</strong>, además de prácticos <strong>bolsillos delanteros y traseros</strong> que aportan funcionalidad y estilo.</p>\n<p>El acabado en <strong>lavado claro</strong> aporta un aire fresco y moderno, ideal para outfits informales y desenfadados.</p>\n<ul>\n<li>Short vaquero para niña</li>\n<li>Tejido denim claro</li>\n<li>Cierre con botón y cremallera</li>\n<li>Bolsillos delanteros y traseros</li>\n<li>Fácil de combinar</li>\n<li>Ideal para primavera y verano</li>\n<li>Composición: 100% algodón.</li>\n</ul>\n<p><strong>Perfecto para looks casuales cómodos y con estilo.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-19 23:53:43",
+  "sourceUpdatedAt": "2026-10-27 11:15:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100339",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2601211",
+      "productSku": "2601211",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:28.627Z"
+    },
+    {
+      "id": "100340",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2601211",
+      "productSku": "2601211",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:30.810Z"
+    },
+    {
+      "id": "100342",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601211",
+      "productSku": "2601211",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:33.363Z"
+    },
+    {
+      "id": "100343",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2601211",
+      "productSku": "2601211",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:35.229Z"
+    },
+    {
+      "id": "100344",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2601211",
+      "productSku": "2601211",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:36.902Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21907-20854.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20854-large_default/short-vaquero-nina-denim-claro-mayoral-azul.jpg",
+      "alt": "Short vaquero niña denim claro Mayoral",
+      "sourceId": "20854",
+      "variantIds": [],
+      "sha256": "76a10f3728ef3b8b81f6b86263dceb7973218fceef1a4c15c861499305925327"
+    },
+    {
+      "path": "assets/21907-20855.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20855-large_default/short-vaquero-nina-denim-claro-mayoral-azul.jpg",
+      "alt": "Short vaquero niña denim claro Mayoral modelo",
+      "sourceId": "20855",
+      "variantIds": [],
+      "sha256": "cb2d993d98480514d4dc8005ab89d9cf85b9ba1a4f65dd92d420603f7792e36f"
+    },
+    {
+      "path": "assets/21907-20856.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20856-large_default/short-vaquero-nina-denim-claro-mayoral-azul.jpg",
+      "alt": "Parte trasera short vaquero niña Mayoral",
+      "sourceId": "20856",
+      "variantIds": [],
+      "sha256": "6b400ae10f55676d270e9acb8972bdbfdfd919d511135a8b4cd86e7081ff8a1d"
+    },
+    {
+      "path": "assets/21907-20857.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20857-large_default/short-vaquero-nina-denim-claro-mayoral-azul.jpg",
+      "alt": "Detalle tejido denim short niña Mayoral",
+      "sourceId": "20857",
+      "variantIds": [],
+      "sha256": "991f25080a929a9568734ec8b06bd19b53a1c874613ff43b7aabe2c796d1842a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:37.143Z",
+  "issues": []
+}

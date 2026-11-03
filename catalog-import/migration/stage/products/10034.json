@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10034",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/10034-chaqueta-punto-volante-bebe-cascanueces-granate.html",
+  "name": "Chaqueta punto volante bebe cascanueces Granate",
+  "brand": "Mac Ilusión",
+  "sku": "2208162",
+  "description": "Abrigo el invierno con dulzura, la Chaqueta Punto Volante Bebé Cascanueces Granate lo tiene cubierto. Típico gorro adorable, puntadas intrincadas que transmiten comodidad, cálidas lentejuelas granate que desbordan elegancia. Ideal para bebés coquetas, encantará a todos en sus momentos de diversión festiva. Esta chaqueta garantiza amor por siempre en cada abrazo y cobija a tu pequeña en ternura, ¡una elección perfecta para tu princesita!",
+  "details": "Estilo y Calidez Inigualable\n\n\nLa belleza de la chaqueta de punto volante bebé cascanueces granate reside en su exclusivo diseño y versatilidad. Confeccionada con hilos de alta calidad, ofrece un tacto suave y cómodo para los más pequeños. El llamativo color granate, que evoca la nobleza y la elegancia, resalta su estilo, convirtiéndola en una opción perfecta para fiestas y reuniones familiares. \n\n\nFuncionalidad y Durabilidad\n\n\nEsta chaqueta no es solo un soplo de estilo, sino también una insignia de durabilidad. Su robusta construcción garantiza larga vida útil, asegurando que esté a la altura de las necesidades de su pequeño, incluso en los días más fríos. Además, su diseño de volantes incorpora un detalle clásico y elegante, que se combina con la durabilidad y funcionalidad para acompañar a su hijo en sus emocionantes aventuras.\n\n\nComodidad y Cuidado Instantáneos\n\n\nBrindar cuidado y comfort a los más pequeños es la máxima prioridad. Esta chaqueta de punto es agradable al tacto y mantiene a esos querubines cálidos sin sacrificar estilo. El material de alta calidad es respirable y gentil con la piel sensible de los bebés, ofreciendo un entorno de comodidad suprema con cada uso.\n\n\n¡No lo piense más! Dale a tu pequeño la comodidad y estilo que merece.",
+  "sourceDescriptionHtml": "<p><strong>Estilo y Calidez Inigualable</strong></p>\n\n<p>La belleza de la chaqueta de punto volante bebé cascanueces granate reside en su exclusivo diseño y versatilidad. Confeccionada con hilos de alta calidad, ofrece un tacto suave y cómodo para los más pequeños. El llamativo color granate, que evoca la nobleza y la elegancia, resalta su estilo, convirtiéndola en una opción perfecta para fiestas y reuniones familiares. </p>\n\n<p><strong>Funcionalidad y Durabilidad</strong></p>\n\n<p>Esta chaqueta no es solo un soplo de estilo, sino también una insignia de durabilidad. Su robusta construcción garantiza larga vida útil, asegurando que esté a la altura de las necesidades de su pequeño, incluso en los días más fríos. Además, su diseño de volantes incorpora un detalle clásico y elegante, que se combina con la durabilidad y funcionalidad para acompañar a su hijo en sus emocionantes aventuras.</p>\n\n<p><strong>Comodidad y Cuidado Instantáneos</strong></p>\n\n<p>Brindar cuidado y comfort a los más pequeños es la máxima prioridad. Esta chaqueta de punto es agradable al tacto y mantiene a esos querubines cálidos sin sacrificar estilo. El material de alta calidad es respirable y gentil con la piel sensible de los bebés, ofreciendo un entorno de comodidad suprema con cada uso.</p>\n\n<p>¡No lo piense más! Dale a tu pequeño la comodidad y estilo que merece.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Granate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70740",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2208162",
+      "productSku": "2208162",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:15.161Z"
+    },
+    {
+      "id": "70742",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2208162",
+      "productSku": "2208162",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:18.382Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10034-8091.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8091-large_default/chaqueta-punto-volante-bebe-cascanueces-granate.jpg",
+      "alt": "Chaqueta punto volante bebe cascanueces Granate",
+      "sourceId": "8091",
+      "variantIds": [],
+      "sha256": "edfb90b93cb22fd5b7ef1032b588890669e5be051301b2fb8c1efbaa9a54fcf1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:18.434Z",
+  "issues": []
+}

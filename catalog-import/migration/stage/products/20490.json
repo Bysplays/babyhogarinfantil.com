@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "20490",
+  "sourceUrl": "https://babyhogarinfantil.com/anoraks-y-chalecos/20490-chaqueton-contrastes-con-cremallera-eclipse.html",
+  "name": "Chaquetón contrastes con cremallera Eclipse",
+  "brand": "Mayoral",
+  "sku": "2502059",
+  "description": "Chaquetón impermeable con cremallara y capucha desmontable para niño.",
+  "details": "COMPOSICIÓN\n\nExterior\n\n100% Poliéster\n\nForro\n\n100% Poliéster\n\nRelleno\n\n100% Poliéster",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Exterior</strong></p>\n<p>100% Poliéster</p>\n<p><strong>Forro</strong></p>\n<p>100% Poliéster</p>\n<p><strong>Relleno</strong></p>\n<p>100% Poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Eclipse",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "749",
+  "sourceCategoryName": "Anoraks y Chalecos",
+  "price": 58,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94929",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502059",
+      "productSku": "2502059",
+      "taxRate": 21,
+      "price": 58,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:33.882Z"
+    },
+    {
+      "id": "94930",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502059",
+      "productSku": "2502059",
+      "taxRate": 21,
+      "price": 58,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:37.644Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20490-19880.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19880-large_default/chaqueton-contrastes-con-cremallera-eclipse.jpg",
+      "alt": "Chaquetón contrastes con cremallera Eclipse",
+      "sourceId": "19880",
+      "variantIds": [],
+      "sha256": "0a2089b42cba36375053af8bfed4f62607fa6fc0dca13bf4e542957c97fab0d8"
+    },
+    {
+      "path": "assets/20490-19881.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19881-large_default/chaqueton-contrastes-con-cremallera-eclipse.jpg",
+      "alt": "Chaquetón contrastes con cremallera Eclipse",
+      "sourceId": "19881",
+      "variantIds": [],
+      "sha256": "3be2e930fa592bf558068746cf324447f68a978c4f9796023f0bd7aa4200ba54"
+    },
+    {
+      "path": "assets/20490-19882.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19882-large_default/chaqueton-contrastes-con-cremallera-eclipse.jpg",
+      "alt": "Chaquetón contrastes con cremallera Eclipse",
+      "sourceId": "19882",
+      "variantIds": [],
+      "sha256": "3c46c8406c3024c357c738e2fcf968d99994653081acd852bcfea2ac15f7d9b1"
+    },
+    {
+      "path": "assets/20490-19883.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19883-large_default/chaqueton-contrastes-con-cremallera-eclipse.jpg",
+      "alt": "Chaquetón contrastes con cremallera Eclipse",
+      "sourceId": "19883",
+      "variantIds": [],
+      "sha256": "09c4dd72199c85e282a582153fa8b1298c9b3e9f43ea64eb7b818f8aee4cffef"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:37.898Z",
+  "issues": []
+}

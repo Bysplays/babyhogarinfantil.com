@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "id": "7698",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/7698-gorro-lunares-azul-marino.html",
+  "name": "Gorro lunares Azul marino",
+  "brand": "Niseret",
+  "sku": "1903058",
+  "description": "Gorro de loneta en color azul marino estampado con lunarcitos. Lacito en la parte trasera. Completamente forrado. Tiene goma para ajustar al cuello. La talla es el diámetro de la cabeza.",
+  "details": "Gorro de NISERET, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De loneta en color azul marino estampado con pequeños lunares en blanco. Lacito de la parte trasera. Completamente forrado en el interior. Tiene goma para ajustar al cuello. Un complemento perfecto para darle el toque final a los vestidos y conjuntos de tu peque, además de protegerla del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. \n\nComposición y cuidados:\n\nGorro: 55% algodón, 45% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Gorro de <strong>NISERET</strong>, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De loneta en color azul marino estampado con pequeños lunares en blanco. Lacito de la parte trasera. <strong>Completamente forrado</strong> en el interior. Tiene goma para ajustar al cuello. Un complemento perfecto para darle el toque final a los vestidos y conjuntos de tu peque, además de <strong>protegerla del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Gorro: 55% algodón, 45% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 15.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:18",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66174",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "6306XB10613",
+      "productSku": "1903058",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:58.870Z"
+    },
+    {
+      "id": "146119",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "6306XA10613",
+      "productSku": "1903058",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:00.415Z"
+    },
+    {
+      "id": "146120",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "6306XC10613",
+      "productSku": "1903058",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:02.067Z"
+    },
+    {
+      "id": "66175",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "6306XD10613",
+      "productSku": "1903058",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:03.629Z"
+    },
+    {
+      "id": "146121",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "6306XE10613",
+      "productSku": "1903058",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:05.362Z"
+    },
+    {
+      "id": "146122",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "6306XF10613",
+      "productSku": "1903058",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:07.182Z"
+    },
+    {
+      "id": "146123",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "6306XG10613",
+      "productSku": "1903058",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:08.739Z"
+    },
+    {
+      "id": "146124",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "6306XH10613",
+      "productSku": "1903058",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:10.024Z"
+    },
+    {
+      "id": "146125",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "6306XI10613",
+      "productSku": "1903058",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:12.014Z"
+    },
+    {
+      "id": "146126",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "6306XJ10613",
+      "productSku": "1903058",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:15.069Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7698-10466.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10466-large_default/gorro-lunares-azul-marino.jpg",
+      "alt": "Gorro lunares Azul marino",
+      "sourceId": "10466",
+      "variantIds": [],
+      "sha256": "a6acbedc960fea7a2dae2e5d96c06fc4b9eb077861cd98c37b51e9bdeef63419"
+    },
+    {
+      "path": "assets/7698-10467.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10467-large_default/gorro-lunares-azul-marino.jpg",
+      "alt": "Gorro lunares Azul marino",
+      "sourceId": "10467",
+      "variantIds": [],
+      "sha256": "5f765f0a347c411dd087b4a57d6f5972e343099a0d08981925b1c06ae462bdd3"
+    },
+    {
+      "path": "assets/7698-10465.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10465-large_default/gorro-lunares-azul-marino.jpg",
+      "alt": "Gorro lunares Azul marino",
+      "sourceId": "10465",
+      "variantIds": [],
+      "sha256": "1d5965966a3bde5f334b223e8c25884ae64584183b60c05fd5754bbe94747d11"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:15.269Z",
+  "issues": []
+}

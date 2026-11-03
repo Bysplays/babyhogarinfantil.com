@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "id": "6001",
+  "sourceUrl": "https://babyhogarinfantil.com/polainas-bebe-nina/6001-polaina-punto-liso-sin-costuras-azul-celeste.html",
+  "name": "Polaina punto liso sin costuras Azul Celeste",
+  "brand": "Mac Ilusión",
+  "sku": "185",
+  "description": "Polaina sin costuras 100% Acrílico DRALON BAYER ANTIALERGICO.\n\nHECHO EN ESPAÑA",
+  "details": "Confort Inigualable\n\nDescubre la suavidad y el confort excepcionales de la Polaina punto liso sin costuras en Azul Celeste. Confeccionada sin costuras, esta prenda ofrece una comodidad increíble a tu pequeño, permitiendo una total libertad de movimiento sin molestias ni irritaciones. El delicado color azul celeste transmite una sensación de calma y serenidad, a la vez que complementa a la perfección cualquier conjunto de tu bebé.\n\n\nCalidad Superior\n\nLa Polaina Punto Liso Sin Costuras en Azul Celeste no es sólo un deleite para los ojos, sino también para la piel. Confeccionada con materiales de la más alta calidad, esta prenda garantiza una durabilidad excepcional y un tacto suave para la delicada piel de tu niño. La confección sin costuras elimina cualquier roce, proporcionando un confort inigualable todo el día.\n\n\nEstilo Versátil\n\nLa versatilidad del diseño de la Polaina punto liso es indiscutible. Su color azul celeste la convierte en la elección perfecta para coordinarla con cualquier conjunto. Ya sea para un día relajado en casa o una salida al parque, la Polaina en Azul Celeste le dará a tu pequeño un look dulce y encantador. Es una prenda básica en el armario de cualquier niño debido a su versatilidad y funcionalidad.\n\n\n¡No esperes más, añade la Polaina punto liso en Azul Celeste a tu carrito ahora!",
+  "sourceDescriptionHtml": "<p><strong><u>Confort Inigualable</u></strong></p>\n<p>Descubre la suavidad y el confort excepcionales de la Polaina punto liso sin costuras en Azul Celeste. Confeccionada sin costuras, esta prenda ofrece una comodidad increíble a tu pequeño, permitiendo una total libertad de movimiento sin molestias ni irritaciones. El delicado color azul celeste transmite una sensación de calma y serenidad, a la vez que complementa a la perfección cualquier conjunto de tu bebé.</p>\n\n<p><strong><u>Calidad Superior</u></strong></p>\n<p>La Polaina Punto Liso Sin Costuras en Azul Celeste no es sólo un deleite para los ojos, sino también para la piel. Confeccionada con materiales de la más alta calidad, esta prenda garantiza una durabilidad excepcional y un tacto suave para la delicada piel de tu niño. La confección sin costuras elimina cualquier roce, proporcionando un confort inigualable todo el día.</p>\n\n<p><strong><u>Estilo Versátil</u></strong></p>\n<p>La versatilidad del diseño de la Polaina punto liso es indiscutible. Su color azul celeste la convierte en la elección perfecta para coordinarla con cualquier conjunto. Ya sea para un día relajado en casa o una salida al parque, la Polaina en Azul Celeste le dará a tu pequeño un look dulce y encantador. Es una prenda básica en el armario de cualquier niño debido a su versatilidad y funcionalidad.</p>\n\n<p><strong><font color=\"#FF0000\">¡No esperes más, añade la Polaina punto liso en Azul Celeste a tu carrito ahora!</font></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "672"
+  ],
+  "sourceDefaultCategoryId": "672",
+  "sourceCategoryName": "Polainas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:07",
+  "sourceUpdatedAt": "2026-10-27 11:08:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 20,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62166",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "90XA172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:22.504Z"
+    },
+    {
+      "id": "62167",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "90XB172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:25.919Z"
+    },
+    {
+      "id": "62168",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "90XC172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:28.638Z"
+    },
+    {
+      "id": "62169",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "90XD172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:31.907Z"
+    },
+    {
+      "id": "143996",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "90XE172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:34.137Z"
+    },
+    {
+      "id": "143997",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "90XF172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:37.095Z"
+    },
+    {
+      "id": "143998",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "90XG172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:40.006Z"
+    },
+    {
+      "id": "143999",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "90XH172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:42.817Z"
+    },
+    {
+      "id": "144000",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "90XI172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:46.240Z"
+    },
+    {
+      "id": "144001",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "90XJ172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:48.693Z"
+    },
+    {
+      "id": "144002",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "90XK172",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:51.557Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6001-3847.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3847-large_default/polaina-punto-liso-sin-costuras-azul-celeste.jpg",
+      "alt": "Polaina punto liso sin costuras Azul Celeste",
+      "sourceId": "3847",
+      "variantIds": [],
+      "sha256": "0f0f84125a7e3b344ed6d5302c303803c2f00a6af146aa0eb1352474def81d10"
+    },
+    {
+      "path": "assets/6001-3848.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3848-large_default/polaina-punto-liso-sin-costuras-azul-celeste.jpg",
+      "alt": "Polaina punto liso sin costuras Azul Celeste",
+      "sourceId": "3848",
+      "variantIds": [],
+      "sha256": "d1a135cd573accaee3cc42af396c7735341cd263f7b76266184d8b8d813c6ac4"
+    },
+    {
+      "path": "assets/6001-9276.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9276-large_default/polaina-punto-liso-sin-costuras-azul-celeste.jpg",
+      "alt": "Polaina punto liso sin costuras Azul Celeste",
+      "sourceId": "9276",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:51.748Z",
+  "issues": []
+}

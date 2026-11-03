@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "9362",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/9362-conjunto-nino-verano-japon-rojo.html",
+  "name": "Conjunto niño verano Japón Rojo",
+  "brand": "Zippy",
+  "sku": "2201055",
+  "description": "Conjunto sport de dos piezas, compuesto por camiseta de manga corta gris con estampado en el pecho y pantalón rojo corto de algodón.",
+  "details": "Conjunto de dos piezas de ZIPPY, una de nuestras firmas favoritas! Compuesto por camiseta de manga corta y cuello redondo, en color gris con estampado japonés en el pecho en rojo y marino. Como parte de abajo, pantalón corto de algodón en color rojo, con goma en la cintura y cordón ajustable. Tiene bolsillos. Un conjunto cómodo, sport y fresquito, ideal para los días de sol y para la playa! Echa un ojito a nuestra secciòn de ropa interior, calzado y viseras y podrás completarlo como más te guste! \n\nComposición y cuidados:\n\nCamiseta: 97% algodón, 3% viscosa\n\nPantalón: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas de <strong>ZIPPY</strong>, una de nuestras firmas favoritas! Compuesto por camiseta de manga corta y cuello redondo, en color gris con estampado japonés en el pecho en rojo y marino. Como parte de abajo, pantalón corto de algodón en color rojo, con <strong>goma en la cintura y cordón ajustable</strong>. Tiene bolsillos. Un conjunto cómodo, sport y fresquito, ideal para los días de sol y para la playa! Echa un ojito a nuestra secciòn de <strong>ropa interior, calzado y viseras</strong> y podrás completarlo como más te guste! </p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 97% algodón, 3% viscosa</p>\n<p>Pantalón: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 8,
+  "oldPrice": 15.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69078",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2201055",
+      "productSku": "2201055",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:21.157Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9362-7612.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7612-large_default/conjunto-nino-verano-japon-rojo.jpg",
+      "alt": "Conjunto niño verano Japón Rojo",
+      "sourceId": "7612",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9362-12234.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12234-large_default/conjunto-nino-verano-japon-rojo.jpg",
+      "alt": "Conjunto niño verano Japón Rojo",
+      "sourceId": "12234",
+      "variantIds": [],
+      "sha256": "2ace6165284317f3117bd935a9e0049f201fede3112d67015cdf6b050b0d04fb"
+    },
+    {
+      "path": "assets/9362-12235.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12235-large_default/conjunto-nino-verano-japon-rojo.jpg",
+      "alt": "Conjunto niño verano Japón Rojo",
+      "sourceId": "12235",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9362-8860.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8860-large_default/conjunto-nino-verano-japon-rojo.jpg",
+      "alt": "Conjunto niño verano Japón Rojo",
+      "sourceId": "8860",
+      "variantIds": [],
+      "sha256": "9df840e9c9d70df552032d81a4f118267e7ce3ced5c195c40cf6fcde0fa92efc"
+    },
+    {
+      "path": "assets/9362-8861.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8861-large_default/conjunto-nino-verano-japon-rojo.jpg",
+      "alt": "Conjunto niño verano Japón Rojo",
+      "sourceId": "8861",
+      "variantIds": [],
+      "sha256": "a538c0ae26a4913e45d9dbc50bb4872690fc3687057a15c2b88c957d1807f5ae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:21.526Z",
+  "issues": []
+}

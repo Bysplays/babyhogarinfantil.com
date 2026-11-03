@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "17871",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-nina/17871-camiseta-manga-larga-pretty-jade.html",
+  "name": "Camiseta manga larga pretty Jade",
+  "brand": "Mayoral",
+  "sku": "2402052",
+  "description": "Sorprende a tu pequeña con la Camiseta de manga larga Pretty Jade. Diseñada para resaltar su belleza, la delicada tonalidad de jade aporta una frescura única, perfecta para cualquier ocasión. La comodidad se une con el estilo en esta pieza única. Suave al tacto, asegura un ajuste cómodo para el juego todo el día, mientras que la manga larga de algodón transpirable proporciona calor sin limitar la movilidad. Una prenda esencial para su armario.",
+  "details": "\"Comodidad Elegante\"\n\nLa Camiseta manga larga Pretty Jade es el complemento perfecto para el guardarropa de cualquier niño. Sus suaves y resistentes materiales la hacen ideal para la piel delicada de los más pequeños. Su color Jade punzante dará un toque sofisticado a cualquier conjunto. Sin duda, es la camiseta que todo pequeño fashionista necesita tener en su colección.\n\n100% Algodón.\n\n\"Durabilidad y Estilo\"\n\nNo se tiene que sacrificar la moda por la comodidad. Esta camiseta es un testimonio de ello. Con su diseño chic, corte moderno y resistente tejido, esta Camiseta manga larga Pretty Jade resistirá el ajetreado día de cualquier niño sin perder su encanto. Es más que una simple camiseta, elige calidad y estilo en una sola prenda.\n\n\"Versatilidad sin límites\"\n\nLa Camiseta manga larga Pretty Jade puede ser mucho más que una pieza de ropa casual. Perfecta para cualquier ocasión, ya sea para un día de juego en el parque o para una ocasión especial. Esta camiseta se convertirá en la pieza de vestuario más utilizada de su hijo. Con su encantadora tonalidad Jade y su tacto suave la hace perfecta para ser vestida en cualquier temporada.\n\n¿A qué espera? Añada la Camiseta Manga Larga Pretty Jade a su carrito de compras hoy y ofrezca a su pequeño una magnífica combinación de confort y estilo.",
+  "sourceDescriptionHtml": "<h2>\"Comodidad Elegante\"</h2>\n<p>La <strong>Camiseta manga larga Pretty Jade</strong> es el complemento perfecto para el guardarropa de cualquier niño. Sus suaves y resistentes materiales la hacen ideal para la piel delicada de los más pequeños. Su color Jade punzante dará un toque sofisticado a cualquier conjunto. Sin duda, es la camiseta que todo pequeño fashionista necesita tener en su colección.</p>\n<p>100% Algodón.</p>\n<h2>\"Durabilidad y Estilo\"</h2>\n<p>No se tiene que sacrificar la moda por la comodidad. Esta camiseta es un testimonio de ello. Con su diseño chic, corte moderno y resistente tejido, esta <strong>Camiseta manga larga Pretty Jade</strong> resistirá el ajetreado día de cualquier niño sin perder su encanto. Es más que una simple camiseta, elige calidad y estilo en una sola prenda.</p>\n<h2>\"Versatilidad sin límites\"</h2>\n<p>La <strong>Camiseta manga larga Pretty Jade</strong> puede ser mucho más que una pieza de ropa casual. Perfecta para cualquier ocasión, ya sea para un día de juego en el parque o para una ocasión especial. Esta camiseta se convertirá en la pieza de vestuario más utilizada de su hijo. Con su encantadora tonalidad Jade y su tacto suave la hace perfecta para ser vestida en cualquier temporada.</p>\n<p>¿A qué espera? Añada la <strong> Camiseta Manga Larga Pretty Jade </strong> a su carrito de compras hoy y ofrezca a su pequeño una magnífica combinación de confort y estilo.</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Jade",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "736",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "736",
+  "sourceCategoryName": "Camisetas niña",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-18 15:53:59",
+  "sourceUpdatedAt": "2026-10-27 11:13:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85707",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2402052",
+      "productSku": "2402052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:44.318Z"
+    },
+    {
+      "id": "85708",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2402052",
+      "productSku": "2402052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:46.385Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17871-16305.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16305-large_default/camiseta-manga-larga-pretty-jade.jpg",
+      "alt": "Camiseta manga larga pretty Jade",
+      "sourceId": "16305",
+      "variantIds": [],
+      "sha256": "f7c8bed4dbcb28d0c7fa4185a39c1a8ff205c69b42b9b0cc6373edd8c53f5431"
+    },
+    {
+      "path": "assets/17871-16306.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16306-large_default/camiseta-manga-larga-pretty-jade.jpg",
+      "alt": "Camiseta manga larga pretty Jade",
+      "sourceId": "16306",
+      "variantIds": [],
+      "sha256": "fda232a66e8bf9b1b305c3b4ec9da2d8fc13597bbda76515efc53e5b249f0428"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:46.482Z",
+  "issues": []
+}

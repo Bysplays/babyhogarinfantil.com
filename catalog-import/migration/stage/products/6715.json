@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "6715",
+  "sourceUrl": "https://babyhogarinfantil.com/polainas-bebe-nina/6715-polaina-punto-reves-nuez.html",
+  "name": "Polaina punto reves Nuez",
+  "brand": "Mac Ilusión",
+  "sku": "1610038",
+  "description": "Polaina básica lisa punto revés, para combinar con tus jubones.",
+  "details": "Composición y cuidados:\n\nPolaina: 100% acrílico.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR SIEMPRE DEL REVES A 40º RECOMENDADO.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Polaina: 100% acrílico.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR SIEMPRE DEL REVES A 40º RECOMENDADO.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nuez",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "672"
+  ],
+  "sourceDefaultCategoryId": "672",
+  "sourceCategoryName": "Polainas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-27 11:09:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "78756",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "3042XB16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:02.641Z"
+    },
+    {
+      "id": "145204",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "3042XA16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:05.147Z"
+    },
+    {
+      "id": "145205",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "3042XC16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:07.025Z"
+    },
+    {
+      "id": "145206",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "3042XD16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:09.701Z"
+    },
+    {
+      "id": "145207",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "3042XE16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:11.737Z"
+    },
+    {
+      "id": "145208",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "3042XF16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:14.338Z"
+    },
+    {
+      "id": "145209",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "3042XG16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:17.642Z"
+    },
+    {
+      "id": "145210",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "3042XH16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:20.906Z"
+    },
+    {
+      "id": "145211",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "3042XI16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:23.475Z"
+    },
+    {
+      "id": "145212",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "3042XJ16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:26.325Z"
+    },
+    {
+      "id": "145213",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "3042XK16511",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:29.277Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6715-20072.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20072-large_default/polaina-punto-reves-nuez.jpg",
+      "alt": "Polaina punto reves Nuez",
+      "sourceId": "20072",
+      "variantIds": [],
+      "sha256": "9824602827c668f142f49bee1991b8dbcbe02e5281db4e9e320ec6422c21f584"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:29.352Z",
+  "issues": []
+}

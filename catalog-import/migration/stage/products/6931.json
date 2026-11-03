@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6931",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nina/6931-sudadera-bebe-nina-animalito-en-bolsillo-azul-marino.html",
+  "name": "Sudadera bebé niña animalito en bolsillo Azul marino",
+  "brand": "Chicco",
+  "sku": "1708016",
+  "description": "Sudadera para bebé niña. En color azul marino. Cuello redondo con tres corchetes para facilitar la puesta. Tiene bolsillo central del que sale un simpático estampado de animalitos. Es larga para poner también con leggings.",
+  "details": "Composición:\n\n100% Algodón.\n\nNO USAR SECADORA. \n\nNO USAR LEJIAS.\n\nNO LAVAR EN SECO.",
+  "sourceDescriptionHtml": "<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">Composición:</span></p>\n<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">100% Algodón.</span></p>\n<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">NO USAR SECADORA. </span></p>\n<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">NO USAR LEJIAS.</span></p>\n<p><span style=\"line-height:107%;font-family:Verdana, sans-serif;font-size:7.5pt;\">NO LAVAR EN SECO.</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "727",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "727",
+  "sourceCategoryName": "Sudaderas y jerseys Bebé niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64719",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1708016",
+      "productSku": "1708016",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:35.182Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6931-4851.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4851-large_default/sudadera-bebe-nina-animalito-en-bolsillo-azul-marino.jpg",
+      "alt": "Sudadera bebé niña animalito en bolsillo Azul marino",
+      "sourceId": "4851",
+      "variantIds": [],
+      "sha256": "63182cc9a9e32d6c87cd6dc44e35788ea2ee82612a98e410b7492b19db7a7b6f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:35.229Z",
+  "issues": []
+}

@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "id": "21846",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/21846-sudadera-infantil-san-miguel-azul.html",
+  "name": "Sudadera infantil San Miguel Azul",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2601145",
+  "description": "Sudadera para el uniforme de  infantil del colegio San Miguel de Vigo. Comprando el chándal completo sudadera+pantalón largo disfruta de un descuento especial. Puedes elegir tallas diferentes de cada prenda.",
+  "details": "Composición sudadera infantil San Miguel:\n\n50% algodón, 50% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición sudadera infantil San Miguel:</p>\n<p>50% algodón, 50% poliéster.</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "894"
+  ],
+  "sourceDefaultCategoryId": "894",
+  "sourceCategoryName": "Colegio San Miguel Vigo",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-05 23:54:20",
+  "sourceUpdatedAt": "2026-10-26 19:38:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 20,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "129316",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2601145",
+      "productSku": "2601145",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:40.992Z"
+    },
+    {
+      "id": "129315",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2601145",
+      "productSku": "2601145",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:43.250Z"
+    },
+    {
+      "id": "129317",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2601145",
+      "productSku": "2601145",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:46.348Z"
+    },
+    {
+      "id": "129318",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2601145",
+      "productSku": "2601145",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:48.831Z"
+    },
+    {
+      "id": "129319",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601145",
+      "productSku": "2601145",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:51.308Z"
+    },
+    {
+      "id": "129320",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601145",
+      "productSku": "2601145",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:55.440Z"
+    },
+    {
+      "id": "129321",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2601145",
+      "productSku": "2601145",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:58.036Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21846-21229.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21229-large_default/sudadera-infantil-san-miguel-azul.jpg",
+      "alt": "Sudadera azul de colegio parte delantera",
+      "sourceId": "21229",
+      "variantIds": [],
+      "sha256": "9f86fbe05e895bb6226bf02696fad41ad100a345db602c896638423807d34129"
+    },
+    {
+      "path": "assets/21846-21419.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21419-large_default/sudadera-infantil-san-miguel-azul.jpg",
+      "alt": "Sudadera azul de colegio parte trasera",
+      "sourceId": "21419",
+      "variantIds": [],
+      "sha256": "8d11f9fe5dba189975489fa3dae8d1124a06f9aafd9400faff0c9c15465e5a34"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:31:59.482Z",
+  "issues": []
+}

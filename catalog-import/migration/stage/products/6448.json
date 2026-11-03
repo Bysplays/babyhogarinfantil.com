@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6448",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nino/6448-nautico-piel-cordones--31-al-42-azul-marino.html",
+  "name": "Nautico piel cordones 31 al 42 Azul Marino",
+  "brand": "Gorila",
+  "sku": "1531812",
+  "description": "Nautico azul marino piel con velcro.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "701"
+  ],
+  "sourceDefaultCategoryId": "701",
+  "sourceCategoryName": "Calzado Niño",
+  "price": 26,
+  "oldPrice": 52.0058,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:56",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "265",
+          "label": "40"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63588",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "1531812",
+      "productSku": "1531812",
+      "taxRate": 21,
+      "price": 26,
+      "oldPrice": 52.0058,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:56.363Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6448-4422.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4422-large_default/nautico-piel-cordones--31-al-42-azul-marino.jpg",
+      "alt": "Nautico piel cordones 31 al 42 Azul Marino",
+      "sourceId": "4422",
+      "variantIds": [],
+      "sha256": "d6cf0e9aaceb2040cf4b3141fe0fec57194691c14572847c54f8bba6bf145fea"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:56.403Z",
+  "issues": []
+}

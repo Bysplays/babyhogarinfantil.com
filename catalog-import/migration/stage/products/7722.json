@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "7722",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/7722-zapato-con-hebilla-blanco-blanco.html",
+  "name": "Zapato con hebilla blanco Blanco",
+  "brand": "Caminito",
+  "sku": "1904067",
+  "description": "Zapato PEPITO en piel con cierre de hebilla.",
+  "details": "Garantizamos que para la fabricación de estos zapatos se han empleado materiales de primera calidad en todos sus componentes.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><span style=\"color:#777777;line-height:107%;font-family:robotoregular;font-size:10pt;\">Garantizamos que para la fabricación de estos zapatos se han empleado materiales de primera calidad en todos sus componentes.</span></p>\n<p><strong><span style=\"color:#777777;line-height:107%;font-family:robotoregular;font-size:10pt;\">HECHO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 25.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "257",
+          "label": "17"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66223",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "1904067",
+      "productSku": "1904067",
+      "taxRate": 21,
+      "price": 25.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:18.600Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7722-10502.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10502-large_default/zapato-con-hebilla-blanco-blanco.jpg",
+      "alt": "Zapato con hebilla blanco Blanco",
+      "sourceId": "10502",
+      "variantIds": [],
+      "sha256": "4593c903eb636be150f8dc74c8774e9126b353d7d727af5945c4c3249d40fe45"
+    },
+    {
+      "path": "assets/7722-5752.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5752-large_default/zapato-con-hebilla-blanco-blanco.jpg",
+      "alt": "Zapato con hebilla blanco Blanco",
+      "sourceId": "5752",
+      "variantIds": [],
+      "sha256": "4593c903eb636be150f8dc74c8774e9126b353d7d727af5945c4c3249d40fe45"
+    },
+    {
+      "path": "assets/7722-5753.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5753-large_default/zapato-con-hebilla-blanco-blanco.jpg",
+      "alt": "Zapato con hebilla blanco Blanco",
+      "sourceId": "5753",
+      "variantIds": [],
+      "sha256": "4f3cb194b47ecb6376be0c66098b8a1392a59d2b7be7bbe620c3b7f8af29ccac"
+    },
+    {
+      "path": "assets/7722-5751.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5751-large_default/zapato-con-hebilla-blanco-blanco.jpg",
+      "alt": "Zapato con hebilla blanco Blanco",
+      "sourceId": "5751",
+      "variantIds": [],
+      "sha256": "f12ff0f497f1d66155b0b804763ea2aff18d50aebd5907e06de0efbd298291f0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:18.812Z",
+  "issues": []
+}

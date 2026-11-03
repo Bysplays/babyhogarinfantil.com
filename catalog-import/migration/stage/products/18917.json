@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "18917",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/18917-leggin-punto-elastan-basico-guinda.html",
+  "name": "Leggin punto elastan basico Guinda",
+  "brand": "Mayoral",
+  "sku": "2402183",
+  "description": "Estos leggings de punto elástico en color guinda ofrecen comodidad, estilo y durabilidad. Perfectos para el día a día de los niños, combinan flexibilidad y facilidad de cuidado. ¡Compra ahora y asegura la mejor prenda para tus pequeños!",
+  "details": "Comodidad y Flexibilidad para el Día a Día\n\nEstos leggings de punto elástico en color guinda están diseñados para ofrecer comodidad y flexibilidad a los más pequeños. Confeccionados con una mezcla de algodón y elastano, proporcionan una sensación suave y agradable al contacto con la piel, permitiendo que los niños se muevan libremente durante todo el día. Ideales para actividades diarias, estos leggings aseguran que tu hijo esté cómodo y feliz en cualquier situación.\n\nEstilo y Versatilidad en el Vestuario Infantil\n\nEl diseño básico y el color guinda de estos leggings los convierten en una prenda versátil que puede combinarse fácilmente con cualquier atuendo. Perfectos para cualquier ocasión, desde un día en el parque hasta una reunión familiar, estos leggings añaden un toque de estilo sin sacrificar la comodidad. Además, su diseño unisex los hace adecuados tanto para niñas como para niños, ampliando las opciones de vestuario.\n\nDurabilidad y Facilidad de Cuidado\n\nEstos leggings no solo son cómodos y estilosos, sino también duraderos y fáciles de cuidar. La alta calidad de los materiales asegura que resistan múltiples lavados sin perder su forma ni su color. Además, son fáciles de lavar y secar, lo que facilita el mantenimiento diario de la ropa de tus hijos. Con estos leggings, puedes estar seguro de que estás invirtiendo en una prenda que durará.\n\n\n\n\n\n\nComposición:\n\n95% Algodón\n\n5% Elastano.",
+  "sourceDescriptionHtml": "<div class=\"content user-select-text\" style=\"font-size:medium;\">\n<div class=\"ac-container ac-adaptiveCard has-image\">\n<div class=\"ac-textBlock\">\n<h3>Comodidad y Flexibilidad para el Día a Día</h3>\n<p>Estos leggings de punto elástico en color guinda están diseñados para ofrecer <strong>comodidad</strong> y <strong>flexibilidad</strong> a los más pequeños. Confeccionados con una mezcla de <strong>algodón y elastano</strong>, proporcionan una sensación suave y agradable al contacto con la piel, permitiendo que los niños se muevan libremente durante todo el día. Ideales para actividades diarias, estos leggings aseguran que tu hijo esté cómodo y feliz en cualquier situación.</p>\n<h3>Estilo y Versatilidad en el Vestuario Infantil</h3>\n<p>El <strong>diseño básico</strong> y el color guinda de estos leggings los convierten en una prenda versátil que puede combinarse fácilmente con cualquier atuendo. Perfectos para cualquier ocasión, desde un día en el parque hasta una reunión familiar, estos leggings añaden un toque de estilo sin sacrificar la comodidad. Además, su diseño unisex los hace adecuados tanto para niñas como para niños, ampliando las opciones de vestuario.</p>\n<h3>Durabilidad y Facilidad de Cuidado</h3>\n<p>Estos leggings no solo son cómodos y estilosos, sino también <strong>duraderos</strong> y fáciles de cuidar. La alta calidad de los materiales asegura que resistan múltiples lavados sin perder su forma ni su color. Además, son <strong>fáciles de lavar</strong> y secar, lo que facilita el mantenimiento diario de la ropa de tus hijos. Con estos leggings, puedes estar seguro de que estás invirtiendo en una prenda que durará.</p>\n</div>\n</div>\n<div class=\"ad-container\">\n<p style=\"font-size:11px;\">Composición:</p>\n<p style=\"font-size:11px;\">95% Algodón</p>\n<p style=\"font-size:11px;\">5% Elastano.</p>\n</div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Guinda",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-08 15:54:13",
+  "sourceUpdatedAt": "2026-10-27 11:13:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87889",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2402183",
+      "productSku": "2402183",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:45.482Z"
+    },
+    {
+      "id": "88637",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2402183",
+      "productSku": "2402183",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:47.338Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18917-17465.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17465-large_default/leggin-punto-elastan-basico-guinda.jpg",
+      "alt": "Leggin punto elastan basico Guinda",
+      "sourceId": "17465",
+      "variantIds": [],
+      "sha256": "861d34bad9f3811101a8b35de4e5dec9166f4a9607e506ec50314fe332c18f7f"
+    },
+    {
+      "path": "assets/18917-17466.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17466-large_default/leggin-punto-elastan-basico-guinda.jpg",
+      "alt": "Leggin punto elastan basico Guinda",
+      "sourceId": "17466",
+      "variantIds": [],
+      "sha256": "7f7c9665080eecd8fd9366a98f8e2a38609072db895a808ec197c0a364e1e001"
+    },
+    {
+      "path": "assets/18917-17467.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17467-large_default/leggin-punto-elastan-basico-guinda.jpg",
+      "alt": "Leggin punto elastan basico Guinda",
+      "sourceId": "17467",
+      "variantIds": [],
+      "sha256": "11677318f5fec3fd32507db81c18c6467f193db780f45866875f0ef85b906b3c"
+    },
+    {
+      "path": "assets/18917-17468.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17468-large_default/leggin-punto-elastan-basico-guinda.jpg",
+      "alt": "Leggin punto elastan basico Guinda",
+      "sourceId": "17468",
+      "variantIds": [],
+      "sha256": "0e7611bb587393e947286c74fec39037f20db87a6dfbe13b5940ca6a70aee688"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:47.572Z",
+  "issues": []
+}

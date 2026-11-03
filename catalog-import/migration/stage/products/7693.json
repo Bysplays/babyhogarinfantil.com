@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "7693",
+  "sourceUrl": "https://babyhogarinfantil.com/interiores-nino/7693-conjunto-comunion-slip-nino-blanco.html",
+  "name": "Conjunto comunión Slip niño Blanco",
+  "brand": "Calamaro",
+  "sku": "1903048",
+  "description": "Conjunto de camiseta y slip 100% algodón. Tiene unas sutiles rayas que no se aprecian bien en la imagen, pero no es liso. HECHO EN ESPAÑA.",
+  "details": "Composición:\n\nSlips: 100% algodón.\n\nCamiseta: 100% algodón.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Slips: 100% algodón.</p>\n<p>Camiseta: 100% algodón.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "703"
+  ],
+  "sourceDefaultCategoryId": "703",
+  "sourceCategoryName": "Interiores niño",
+  "price": 15.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:18",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66158",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1903048",
+      "productSku": "1903048",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:08.936Z"
+    },
+    {
+      "id": "66160",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1903048",
+      "productSku": "1903048",
+      "taxRate": 21,
+      "price": 15.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:10.364Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7693-5707.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5707-large_default/conjunto-comunion-slip-nino-blanco.jpg",
+      "alt": "Conjunto comunión Slip niño Blanco",
+      "sourceId": "5707",
+      "variantIds": [],
+      "sha256": "7c7825625a18a1d162daa92113659c26e32c6eac1943bef2c63e64bbaf298489"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:10.430Z",
+  "issues": []
+}

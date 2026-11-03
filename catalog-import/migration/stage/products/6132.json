@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "6132",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-verano/6132-leotardo-perle-calado-petalo.html",
+  "name": "Leotardo perlé calado Pétalo",
+  "brand": "Condor",
+  "sku": "683",
+  "description": "Leotardo de perlé calado, con detalles de espigas en los laterales, ideal para primavera y verano.",
+  "details": "Leotardos de C&Oacute;NDOR, una de nuestras firmas favoritas! Un modelo c&oacute;modo y vers&aacute;til en m&aacute;s de 20 colores. Confeccionados en hilo de perl&eacute; calado, ideales para primavera y verano, pues su tejido es fresco, ligero y transpirable! Detalles de espiga en los laterales y puntitos en la parte delantera y trasera. Echa un ojito a nuestro calzado, calcetines y medias de perl&eacute; y podr&aacute;s escoger la opci&oacute;n que mejor se adapte a lo que necesitas! \n\r\nComposici&oacute;n y cuidados:\n\r\nLeotardos: 80% Algod&oacute;n 20% Poliamida.\n\r\nNO USAR LEJ&Iacute;AS\n\r\nNO USAR SECADORA\n\r\nNO PLANCHAR\n\r\nLAVAR A 30&ordm; RECOMENDADO\n\r\n \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 14px; vertical-align: baseline; color: #777777;\"><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;\">Leotardos de<strong>&nbsp;C&Oacute;NDOR</strong>, una de nuestras firmas favoritas! Un modelo c&oacute;modo y vers&aacute;til en m&aacute;s de 20 colores. Confeccionados en&nbsp;<strong>hilo de perl&eacute; calado</strong>, ideales para primavera y verano, pues su tejido es fresco, ligero y transpirable! Detalles de espiga en los laterales y puntitos en la parte delantera y trasera. Echa un ojito a nuestro&nbsp;<strong>calzado, calcetines y medias de perl&eacute;</strong>&nbsp;y podr&aacute;s escoger la opci&oacute;n que mejor se adapte a lo que necesitas!&nbsp;</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">Composici&oacute;n y cuidados:</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">Leotardos: 80% Algod&oacute;n 20% Poliamida.</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">NO USAR LEJ&Iacute;AS</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">NO USAR SECADORA</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">NO PLANCHAR</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">LAVAR A 30&ordm; RECOMENDADO</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">&nbsp;</span></p>\r\n<p><strong><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">FABRICADO EN ESPA&Ntilde;A</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Pétalo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "676",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "676",
+  "sourceCategoryName": "Leotardos Verano",
+  "price": 15.61,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:19",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62543",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 15.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:06.475Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6132-4015.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4015-large_default/leotardo-perle-calado-petalo.jpg",
+      "alt": "Leotardo perlé calado Pétalo",
+      "sourceId": "4015",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6132-9371.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9371-large_default/leotardo-perle-calado-petalo.jpg",
+      "alt": "Leotardo perlé calado Pétalo",
+      "sourceId": "9371",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6132-4014.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4014-large_default/leotardo-perle-calado-petalo.jpg",
+      "alt": "Leotardo perlé calado Pétalo",
+      "sourceId": "4014",
+      "variantIds": [],
+      "sha256": "1560bee43dbe340d6cf4a3475cc05b05ba2a766718cd468da33f6d4a93d4741d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:26:06.649Z",
+  "issues": []
+}

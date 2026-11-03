@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "18811",
+  "sourceUrl": "https://babyhogarinfantil.com/blusas-nina/18811-blusa-nina-manga-larga-volante-verde.html",
+  "name": "Blusa niña manga larga volante Verde",
+  "brand": "Calamaro",
+  "sku": "2402152",
+  "description": "Blusita para niña, manga larga en algodón. FABRICADA EN ESPAÑA",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "771"
+  ],
+  "sourceDefaultCategoryId": "771",
+  "sourceCategoryName": "Blusas Niña",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-09-25 23:54:24",
+  "sourceUpdatedAt": "2026-10-27 11:13:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87638",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2402152",
+      "productSku": "2402152",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:36.267Z"
+    },
+    {
+      "id": "87639",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2402152",
+      "productSku": "2402152",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:39.424Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18811-17234.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17234-large_default/blusa-nina-manga-larga-volante-verde.jpg",
+      "alt": "Blusa niña manga larga volante Verde",
+      "sourceId": "17234",
+      "variantIds": [],
+      "sha256": "45d747348e1328bbb7e325900329502ac723579ed6e80bf227f1b4548415dd04"
+    },
+    {
+      "path": "assets/18811-17235.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17235-large_default/blusa-nina-manga-larga-volante-verde.jpg",
+      "alt": "Blusa niña manga larga volante Verde",
+      "sourceId": "17235",
+      "variantIds": [],
+      "sha256": "bd22241c0853f6847e309d0d4bac4fe7efa36d9347c64d41b714d6d74004602c"
+    },
+    {
+      "path": "assets/18811-17236.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17236-large_default/blusa-nina-manga-larga-volante-verde.jpg",
+      "alt": "Blusa niña manga larga volante Verde",
+      "sourceId": "17236",
+      "variantIds": [],
+      "sha256": "4575247a74d5c5210b286b798aa788403d6cc33fd9e6fc3a96094e2237b426e2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:39.679Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "19394",
+  "sourceUrl": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/19394-juego-sabanas-coralina-cuna-rosa.html",
+  "name": "Juego sábanas Coralina cuna Rosa",
+  "brand": "Gamberritos",
+  "sku": "2402325",
+  "description": "Tamaño Cuna 3 piezas:\n\nBajera: 60x120 cm.\n\nEncimera: 100x150 cm.\n\nAlmohada: 30x50 cm.",
+  "details": "Composición:\n\n3 piezas: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>3 piezas: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "770"
+  ],
+  "sourceDefaultCategoryId": "770",
+  "sourceCategoryName": "Sabanas cuna minicuna y maxicuna",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-01-27 15:53:52",
+  "sourceUpdatedAt": "2026-10-26 19:38:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "89660",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2402325",
+      "productSku": "2402325",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:23.657Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19394-19023.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19023-large_default/juego-sabanas-coralina-cuna-rosa.jpg",
+      "alt": "Juego sábanas Coralina cuna Rosa",
+      "sourceId": "19023",
+      "variantIds": [],
+      "sha256": "54fa829b4cdb8d0af5caec435c46427898d219dce83c63784222037856c6e6bc"
+    },
+    {
+      "path": "assets/19394-19024.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19024-large_default/juego-sabanas-coralina-cuna-rosa.jpg",
+      "alt": "Juego sábanas Coralina cuna Rosa",
+      "sourceId": "19024",
+      "variantIds": [],
+      "sha256": "73d91dc5273f0c7a77286d99c5a164242ced171c8af4b06fcf38b6a58ee1118b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:23.774Z",
+  "issues": []
+}

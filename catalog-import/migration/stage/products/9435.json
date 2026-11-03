@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "9435",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/9435-camiseta-bebe-nina-verano-little-tiger-rosa.html",
+  "name": "Camiseta bebe niña verano Little tiger Rosa",
+  "brand": "Chicco",
+  "sku": "2202087",
+  "description": "Camiseta de manga corta y cuello redondo, con corchetes hasta media espalda para facilitar la puesta.",
+  "details": "Camiseta de CHICCO, firma italiana con más de 60 años de experiencia y puntos de venta en todo el mundo. De manga corta y cuello redondo con corchetes traseros hasta media espalda, para facilitar la puesta. Color fucsia, estampado con serigrafía y pequeño tigre en el pecho, a contraste. Una prenda casual y combinable, cómoda, fresquita y de un color intenso y favorecedor! Echa un ojito a nuestros pantalones, bodies interiores y calzado y podrás completarla como más te guste!\n\nComposición y cuidados:\n\nCamiseta: 95% algodón, 5% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Camiseta de <strong>CHICCO</strong>, firma italiana con más de 60 años de experiencia y puntos de venta en todo el mundo. De manga corta y cuello redondo con corchetes traseros hasta media espalda, para facilitar la puesta. Color fucsia, estampado con serigrafía y pequeño tigre en el pecho, a contraste. Una prenda casual y combinable, cómoda, fresquita y de un color intenso y favorecedor! Echa un ojito a nuestros <strong>pantalones, bodies interiores y calzado</strong> y podrás completarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 95% algodón, 5% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 5,
+  "oldPrice": 9.9946,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:49",
+  "sourceUpdatedAt": "2026-10-27 11:11:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69222",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2202087",
+      "productSku": "2202087",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:03.571Z"
+    },
+    {
+      "id": "69223",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2202087",
+      "productSku": "2202087",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:05.208Z"
+    },
+    {
+      "id": "69224",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2202087",
+      "productSku": "2202087",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:07.564Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9435-7668.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7668-large_default/camiseta-bebe-nina-verano-little-tiger-rosa.jpg",
+      "alt": "Camiseta bebe niña verano Little tiger Rosa",
+      "sourceId": "7668",
+      "variantIds": [],
+      "sha256": "2a49cd47fdd56e9af691e6e4792934b05edb1638a7b524437effdcf7438d9313"
+    },
+    {
+      "path": "assets/9435-8276.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8276-large_default/camiseta-bebe-nina-verano-little-tiger-rosa.jpg",
+      "alt": "Camiseta bebe niña verano Little tiger Rosa",
+      "sourceId": "8276",
+      "variantIds": [],
+      "sha256": "2fe711e4cee84a79f50fb9cc2f148a5286cb1dc662ea517f7d34927bcdce3f4f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:07.696Z",
+  "issues": []
+}

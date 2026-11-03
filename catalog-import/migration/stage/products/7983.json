@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "id": "7983",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/7983-leggin-looney-tunes-gris.html",
+  "name": "Leggin Looney Tunes Gris",
+  "brand": "Zippy",
+  "sku": "1911109",
+  "description": "Leggin Looney Tunes, LICIENCIA OFICIAL, algodón para todo tiempo.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66760",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "7301XF12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:05.692Z"
+    },
+    {
+      "id": "146447",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "7301XA12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:07.585Z"
+    },
+    {
+      "id": "146448",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "7301XB12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:09.230Z"
+    },
+    {
+      "id": "146449",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "7301XC12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:11.688Z"
+    },
+    {
+      "id": "146450",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "7301XD12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:13.561Z"
+    },
+    {
+      "id": "146451",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "7301XE12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:17.095Z"
+    },
+    {
+      "id": "146452",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "7301XG12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:19.236Z"
+    },
+    {
+      "id": "66761",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "7301XH12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:22.363Z"
+    },
+    {
+      "id": "146453",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "7301XI12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:26.363Z"
+    },
+    {
+      "id": "146454",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "7301XJ12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:29.065Z"
+    },
+    {
+      "id": "146455",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "7301XK12015",
+      "productSku": "1911109",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:31.584Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7983-6135.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6135-large_default/leggin-looney-tunes-gris.jpg",
+      "alt": "Leggin Looney Tunes Gris",
+      "sourceId": "6135",
+      "variantIds": [],
+      "sha256": "79d4b95c151d084d538071a438dd26ece649b7b77ca545aa3507b0500a2aa98f"
+    },
+    {
+      "path": "assets/7983-6136.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6136-large_default/leggin-looney-tunes-gris.jpg",
+      "alt": "Leggin Looney Tunes Gris",
+      "sourceId": "6136",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/7983-10780.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10780-large_default/leggin-looney-tunes-gris.jpg",
+      "alt": "Leggin Looney Tunes Gris",
+      "sourceId": "10780",
+      "variantIds": [],
+      "sha256": "79d4b95c151d084d538071a438dd26ece649b7b77ca545aa3507b0500a2aa98f"
+    },
+    {
+      "path": "assets/7983-10781.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10781-large_default/leggin-looney-tunes-gris.jpg",
+      "alt": "Leggin Looney Tunes Gris",
+      "sourceId": "10781",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/7983-6134.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6134-large_default/leggin-looney-tunes-gris.jpg",
+      "alt": "Leggin Looney Tunes Gris",
+      "sourceId": "6134",
+      "variantIds": [],
+      "sha256": "071e4b1a967ff114d033f000a68b17ba01308b653e8ba673dd210f3a7980b3bf"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:31.922Z",
+  "issues": []
+}

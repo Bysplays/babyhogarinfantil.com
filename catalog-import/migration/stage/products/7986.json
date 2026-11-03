@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "7986",
+  "sourceUrl": "https://babyhogarinfantil.com/interiores-nina/7986-camiseta-lisa-interior-tirantes-nina-blanco.html",
+  "name": "Camiseta lisa interior tirantes niña Blanco",
+  "brand": "Calamaro",
+  "sku": "1911119",
+  "description": "Camiseta de tirantes 100% Algodón.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "713"
+  ],
+  "sourceDefaultCategoryId": "713",
+  "sourceCategoryName": "Interiores niña",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-27 11:10:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 15,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66766",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1911119",
+      "productSku": "1911119",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:07.424Z"
+    },
+    {
+      "id": "83947",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1911119",
+      "productSku": "1911119",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:09.365Z"
+    },
+    {
+      "id": "66768",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1911119",
+      "productSku": "1911119",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:12.072Z"
+    },
+    {
+      "id": "66770",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1911119",
+      "productSku": "1911119",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:14.892Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7986-6145.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6145-large_default/camiseta-lisa-interior-tirantes-nina-blanco.jpg",
+      "alt": "Camiseta lisa interior tirantes niña Blanco",
+      "sourceId": "6145",
+      "variantIds": [],
+      "sha256": "40750012f7f404e70135e51deeb87210a73b1cc58434461dbbca7aef8e2b8924"
+    },
+    {
+      "path": "assets/7986-10789.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10789-large_default/camiseta-lisa-interior-tirantes-nina-blanco.jpg",
+      "alt": "Camiseta lisa interior tirantes niña Blanco",
+      "sourceId": "10789",
+      "variantIds": [],
+      "sha256": "40750012f7f404e70135e51deeb87210a73b1cc58434461dbbca7aef8e2b8924"
+    },
+    {
+      "path": "assets/7986-10788.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10788-large_default/camiseta-lisa-interior-tirantes-nina-blanco.jpg",
+      "alt": "Camiseta lisa interior tirantes niña Blanco",
+      "sourceId": "10788",
+      "variantIds": [],
+      "sha256": "7de45b1f5ea736a87976f3a3dc8a583003656c36c99a781fcd51578b08f19379"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:15.026Z",
+  "issues": []
+}

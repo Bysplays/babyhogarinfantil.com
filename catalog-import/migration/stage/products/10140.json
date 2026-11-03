@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10140",
+  "sourceUrl": "https://babyhogarinfantil.com/batas-bebe-nina/10140-bata-bebe-nina-unicornio-rosa.html",
+  "name": "Bata bebe niña unicornio Rosa",
+  "brand": "Talaman",
+  "sku": "2208259",
+  "description": "Bata invierno para bebé, en color rosa estampado con unicornio, con cierre de botones",
+  "details": "Composición y cuidados:\n\nBata: 100% poliéster.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Bata: 100% poliéster.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "753"
+  ],
+  "sourceDefaultCategoryId": "753",
+  "sourceCategoryName": "Batas bebe niña",
+  "price": 21.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:58",
+  "sourceUpdatedAt": "2026-10-27 11:12:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71003",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2208259",
+      "productSku": "2208259",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:29.324Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10140-8150.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8150-large_default/bata-bebe-nina-unicornio-rosa.jpg",
+      "alt": "Bata bebe niña unicornio Rosa",
+      "sourceId": "8150",
+      "variantIds": [],
+      "sha256": "fa6d733e4179b206b5ee887ed372bdc565aadb67c192b3d77e77ae66bbac7147"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:29.380Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6792",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/6792-polo-nino-976-athl-original-azul.html",
+  "name": "Polo niño 976 Athl Original Azul",
+  "brand": "IDO",
+  "sku": "1703230",
+  "description": "Polo manga larga color AZUL para todo tiempo. 100% Algodón sin perchar, por lo que pueden usarlo tanto en Primavera como en Verano.",
+  "details": "De la firma Italiana IDO os presentamos un polo todo tiempo para combinar con cualquier pantalón para ir a la última.\n\nComposición:\n\n100% algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS QUE LA LIAS.",
+  "sourceDescriptionHtml": "<p>De la firma Italiana IDO os presentamos un polo todo tiempo para combinar con cualquier pantalón para ir a la última.</p>\n<p>Composición:</p>\n<p>100% algodón.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS QUE LA LIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2017",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 9,
+  "oldPrice": 18.0048,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64352",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1703230",
+      "productSku": "1703230",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": 18.0048,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:44.292Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6792-9784.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9784-large_default/polo-nino-976-athl-original-azul.jpg",
+      "alt": "Polo niño 976 Athl Original Azul",
+      "sourceId": "9784",
+      "variantIds": [],
+      "sha256": "70987c671743a3fe167dc2d7ad0a6f3cdc8599a910be9174184ae9e53c200f38"
+    },
+    {
+      "path": "assets/6792-4715.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4715-large_default/polo-nino-976-athl-original-azul.jpg",
+      "alt": "Polo niño 976 Athl Original Azul",
+      "sourceId": "4715",
+      "variantIds": [],
+      "sha256": "7669ba5dff1fc46fb99cf452fa48f4e9d32e4a96b6c24cef3df5d15d9c893251"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:44.388Z",
+  "issues": []
+}

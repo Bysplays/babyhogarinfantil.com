@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "17910",
+  "sourceUrl": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/17910-mochila-guarderia-aqua.html",
+  "name": "Mochila guarderia Aqua",
+  "brand": "Mayoral",
+  "sku": "2402071",
+  "description": "La Mochila Guardería Aqua cambiará la forma en que los más pequeños llevan sus pertenencias diarias. Su diseño vibrante y amigable para niños no solo es atractivo para la vista, sino que su estructura resistente garantiza una durabilidad sin igual. La mochila es lo suficientemente espaciosa para todos sus libros y juguetes, además de tener compartimentos extra para bocadillos y bebidas. Dé un regalo memorable y útil, y elija la Mochila Guardería Aqua: la elección perfecta para un día en la guardería, un paseo por el parque o un viaje familiar. Dimensiones de 20,5 Largo x 26,5 Alto x 9 Ancho(Profundidad) cm.",
+  "details": "Características Insuperables\n\nSu pequeño estará listo para la escuela con la Mochila Guardería Aqua. Hecha con materiales de alta calidad, ofreciendo un diseño atractivo, y una durabilidad incomparable. Perfecta para llevar todo lo que necesitan los más pequeños de la casa para un emocionante día de aprendizaje y juego.\n\nRendimiento Excepcional, Estilo Único\n\nCada Mochila Guardería Aqua viene cargada de versatilidad y funcionalidad, desde múltiples bolsillos de almacenamiento hasta tiras ajustables para un ajuste cómodo. Además, su diseño de agua azul y vibrante evoca imágenes de aventuras submarinas emocionantes, seguro de encantar a cualquier niño amante del agua.\n\nProtección y Comodidad Unificadas\n\nFormada con el equilibrio perfecto entre peso y resistencia, la Mochila Guardería Aqua, está diseñada para proteger los preciados objetos de sus hijos. Las correas ajustables permiten adaptarla al cuerpo de cada niño para garantizar la máxima comodidad en cada viaje a la escuela.\n\nNada mejor para su hijo que tener lo necesario para un día exitoso de aprendizaje y crecimiento personal. Así que, ¿por qué perder más tiempo? Aprovecha hoy la oportunidad y compra la Mochila Guardería Aqua. ¡Prepara a tus pequeños para la aventura, estilo y comodidad inigualables!\n\nComposición:\n\nMochila: 100% poliéster.",
+  "sourceDescriptionHtml": "<h2>Características Insuperables</h2>\n<p>Su pequeño estará listo para la escuela con la Mochila Guardería Aqua. Hecha con materiales de alta calidad, ofreciendo un diseño atractivo, y una durabilidad incomparable. Perfecta para llevar todo lo que necesitan los más pequeños de la casa para un emocionante día de aprendizaje y juego.</p>\n<h2>Rendimiento Excepcional, Estilo Único</h2>\n<p>Cada Mochila Guardería Aqua viene cargada de versatilidad y funcionalidad, desde múltiples bolsillos de almacenamiento hasta tiras ajustables para un ajuste cómodo. Además, su diseño de agua azul y vibrante evoca imágenes de aventuras submarinas emocionantes, seguro de encantar a cualquier niño amante del agua.</p>\n<h2>Protección y Comodidad Unificadas</h2>\n<p>Formada con el equilibrio perfecto entre peso y resistencia, la Mochila Guardería Aqua, está diseñada para proteger los preciados objetos de sus hijos. Las correas ajustables permiten adaptarla al cuerpo de cada niño para garantizar la máxima comodidad en cada viaje a la escuela.</p>\n<p>Nada mejor para su hijo que tener lo necesario para un día exitoso de aprendizaje y crecimiento personal. Así que, ¿por qué perder más tiempo? <strong>Aprovecha hoy la oportunidad y compra la Mochila Guardería Aqua. ¡Prepara a tus pequeños para la aventura, estilo y comodidad inigualables!</strong></p>\n<p>Composición:</p>\n<p>Mochila: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Aqua",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "704",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "704",
+  "sourceCategoryName": "Mochilas y bolsas merienda",
+  "price": 27.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-20 08:34:33",
+  "sourceUpdatedAt": "2026-10-27 11:13:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94035",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12201XA18697",
+      "productSku": "2402071",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:06.669Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17910-16180.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16180-large_default/mochila-guarderia-aqua.jpg",
+      "alt": "Mochila guarderia Aqua",
+      "sourceId": "16180",
+      "variantIds": [],
+      "sha256": "acda67654c2aced656198e48da2e932aef66273b1597f6896f4b0a8bb4881fd5"
+    },
+    {
+      "path": "assets/17910-16181.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16181-large_default/mochila-guarderia-aqua.jpg",
+      "alt": "Mochila guarderia mayoral",
+      "sourceId": "16181",
+      "variantIds": [],
+      "sha256": "8fe709a13dd047917d905ee8a273d2f832c6ab70198a9a62218f82789b54dfaa"
+    },
+    {
+      "path": "assets/17910-16182.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16182-large_default/mochila-guarderia-aqua.jpg",
+      "alt": "Mochila guarderia Aqua",
+      "sourceId": "16182",
+      "variantIds": [],
+      "sha256": "5c6f5ca87c6b03489caf1c3dcd2050605836b4e304d2c48dc850cb42d499dd1b"
+    },
+    {
+      "path": "assets/17910-16183.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16183-large_default/mochila-guarderia-aqua.jpg",
+      "alt": "Mochila guarderia Aqua",
+      "sourceId": "16183",
+      "variantIds": [],
+      "sha256": "2db7201b969899fa83d933e62a9e36e03ee8e1787aa691dbf302090f5a9b91d8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:06.920Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16158",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16158-lazo-mediano-nudo-con-coletero-blanco.html",
+  "name": "Lazo mediano nudo con coletero Blanco",
+  "brand": "Siena",
+  "sku": "2301385",
+  "description": "Lazo mediano de nudo con coletero Blanco - Brillar como una estrella ¡Ideales para darle ese toque final de belleza a cualquier atuendo! Los Lazos ofrecen un diseño clásico y elegante que combina perfectamente con cualquier ropa. Exudando sofisticación y encanto, sin duda elevarán el estilo de su pequeña. Son prácticos y fáciles de usar, su coletero garantiza un ajuste perfecto y duradero. Fabricado con materiales de alta calidad, este lazo blanco es suave y seguro para el uso diario. ¡Despierte la princesa que lleva dentro con este hermoso accesorio!\n\nLazo mediano de 7 x 5 cm. aprox. con nudo grosgrain.\n\nHECHO A MANO.\n\n\n\nHECHO EN ESPAÑA.",
+  "details": "Lazo Blanco Elegancia\n\nAsegurar belleza y elegancia en cada atuendo se vuelve simple con nuestro Lazo mediano nudo con coletero Blanco. Aporta un estilo sofisticado y a la vez divertido, gracias a su diseño clásico pero moderno. Cada pequeño detalle hace que este accesorio sea indispensable para cualquier prenda. Perfecto para ocasiones especiales, fotografías o para simplemente destacar en el día a día.\n\nCalidad Insuperable\n\nHecho con material de alta calidad, el Lazo mediano nudo con coletero Blanco está diseñado para durar. Cada fibra está finamente hilada para asegurar una textura suave y sedosa, perfecta para la delicada piel de los más pequeños. Más que un accesorio, se convierte en un objeto de valor, resistente al desgaste, garantizando su uso prolongado.\n\nComodidad y Facilidad de Uso\n\n¿Quién dijo que la moda y la comodidad no pueden ir de la mano? El Lazo mediano nudo con coletero Blanco incorpora un diseño fácil de usar, mientras mantiene la comodidad. Su coletero elástico se ajusta perfectamente, asegurando que el lazo se mantenga en su lugar durante todo el día, sin causar ningún tipo de molestia.\n\n¡No esperes más! Adorna a tus pequeños con este encantador Lazo mediano nudo con coletero Blanco, y deja que tres palabras los definan: Elegantes. Confortables. Hermosos.",
+  "sourceDescriptionHtml": "<p><b>Lazo Blanco Elegancia</b></p>\n<p>Asegurar belleza y elegancia en cada atuendo se vuelve simple con nuestro Lazo mediano nudo con coletero Blanco. Aporta un estilo sofisticado y a la vez divertido, gracias a su diseño clásico pero moderno. Cada pequeño detalle hace que este accesorio sea indispensable para cualquier prenda. Perfecto para ocasiones especiales, fotografías o para simplemente destacar en el día a día.</p>\n<p><b>Calidad Insuperable</b></p>\n<p>Hecho con material de alta calidad, el Lazo mediano nudo con coletero Blanco está diseñado para durar. Cada fibra está finamente hilada para asegurar una textura suave y sedosa, perfecta para la delicada piel de los más pequeños. Más que un accesorio, se convierte en un objeto de valor, resistente al desgaste, garantizando su uso prolongado.</p>\n<p><b>Comodidad y Facilidad de Uso</b></p>\n<p>¿Quién dijo que la moda y la comodidad no pueden ir de la mano? El Lazo mediano nudo con coletero Blanco incorpora un diseño fácil de usar, mientras mantiene la comodidad. Su coletero elástico se ajusta perfectamente, asegurando que el lazo se mantenga en su lugar durante todo el día, sin causar ningún tipo de molestia.</p>\n<p>¡No esperes más! Adorna a tus pequeños con este encantador Lazo mediano nudo con coletero Blanco, y deja que tres palabras los definan: Elegantes. Confortables. Hermosos.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:46",
+  "sourceUpdatedAt": "2026-10-27 11:12:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72538",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11254XA17333",
+      "productSku": "2301385",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:02.428Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16158-13859.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13859-large_default/lazo-mediano-nudo-con-coletero-blanco.jpg",
+      "alt": "Lazo mediano nudo con coletero Blanco",
+      "sourceId": "13859",
+      "variantIds": [],
+      "sha256": "13572182bc0848274fdcf7dd87b90a68e6bdebddeacb22b093e468a1ebc06ca5"
+    },
+    {
+      "path": "assets/16158-13867.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13867-large_default/lazo-mediano-nudo-con-coletero-blanco.jpg",
+      "alt": "Lazo mediano nudo con coletero Blanco",
+      "sourceId": "13867",
+      "variantIds": [],
+      "sha256": "b3df9e384d6768b52685139cf5e71caf0e0551865bf96f71737ef477b325ba3e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:02.515Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "12831",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/12831-conjunto-peto-aviones-azul.html",
+  "name": "Conjunto peto aviones Azul",
+  "brand": "Talaman",
+  "sku": "2301344",
+  "description": "Conjunto de dos piezas, compuesto por camiseta de manga corta estampada y peto tejano de tejido suave y elástico con aviones bordados",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-30 00:36:56",
+  "sourceUpdatedAt": "2026-10-27 11:12:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72389",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301344",
+      "productSku": "2301344",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:29.564Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12831-13763.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13763-large_default/conjunto-peto-aviones-azul.jpg",
+      "alt": "Conjunto peto aviones Azul",
+      "sourceId": "13763",
+      "variantIds": [],
+      "sha256": "b9f427b86b9bdb5264ff558cf88e6aa51231eeadf1afcafd06c5b7bf6557b62a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:29.602Z",
+  "issues": []
+}

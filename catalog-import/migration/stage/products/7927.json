@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "id": "7927",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/7927-camiseta-deporte-mc-adguarda-xxl-xxx-blanco.html",
+  "name": "Camiseta deporte M/C A.D.Guarda XXL-XXX Blanco",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1910021",
+  "description": "Tallas grandes. OFERTA CON EL ESCUDO ANTERIOR",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "705",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "705",
+  "sourceCategoryName": "Colegio Angel de la Guarda Nigran",
+  "price": 8.5,
+  "oldPrice": 16.991899,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:30",
+  "sourceUpdatedAt": "2026-10-27 11:10:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "274",
+          "label": "S"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        },
+        {
+          "id": "278",
+          "label": "XXL"
+        },
+        {
+          "id": "330",
+          "label": "XXXL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "83874",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "278",
+          "group": "Tamaño",
+          "value": "XXL"
+        }
+      ],
+      "sku": "7140XE11752",
+      "productSku": "1910021",
+      "taxRate": 21,
+      "price": 8.5,
+      "oldPrice": 16.991899,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:30.562Z"
+    },
+    {
+      "id": "146365",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "274",
+          "group": "Tamaño",
+          "value": "S"
+        }
+      ],
+      "sku": "7140XA11752",
+      "productSku": "1910021",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:32.260Z"
+    },
+    {
+      "id": "146366",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "7140XB11752",
+      "productSku": "1910021",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:33.651Z"
+    },
+    {
+      "id": "146367",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "7140XC11752",
+      "productSku": "1910021",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:35.263Z"
+    },
+    {
+      "id": "146368",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "7140XD11752",
+      "productSku": "1910021",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:36.776Z"
+    },
+    {
+      "id": "87532",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "330",
+          "group": "Tamaño",
+          "value": "XXXL"
+        }
+      ],
+      "sku": "7140XF11752",
+      "productSku": "1910021",
+      "taxRate": 21,
+      "price": 8.5,
+      "oldPrice": 16.991899,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:38.122Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7927-13844.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13844-large_default/camiseta-deporte-mc-adguarda-xxl-xxx-blanco.jpg",
+      "alt": "Camiseta deporte M/C A.D.Guarda XXL-XXX Blanco",
+      "sourceId": "13844",
+      "variantIds": [],
+      "sha256": "d40aade633ae3850578c02d8e8409eb17e9a266cd52d33d2f139f04616e8398a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:38.194Z",
+  "issues": []
+}

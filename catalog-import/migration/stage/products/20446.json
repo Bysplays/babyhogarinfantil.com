@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "20446",
+  "sourceUrl": "https://babyhogarinfantil.com/primera-puesta-bebe/20446-conjunto-polaina-punto-bebe-nina-cereal.html",
+  "name": "Conjunto polaina punto bebe niña cereal",
+  "brand": "Mayoral",
+  "sku": "2502026",
+  "description": "Conjunto de dos piezas para bebé niña, con camiseta de manga larga y polaina a juego.\n\nLa camiseta tiene cuello redondo y botones en los dos hombros para facilitar la puesta de la prenda.\n\nPantalón con pies tipo polaina. Cinturilla elástica. \n\nLas tallas mayores (de 6-9 a 18 meses) no llevan pies, para facilitar una mejor movilidad del bebé y mayor confort.",
+  "details": "Composición:\n\nCAMISETA: \n\n54% Algodón\n\n40% Poliéster\n\n2% Elastano\n\n2% Viscosa\n\n1% Lana\n\n1% Acrílico\n\nPOLAINA:\n\n58% Algodón\n\n39% Poliéster\n\n3% Elastano",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>CAMISETA: </strong></p>\n<p>54% Algodón</p>\n<p>40% Poliéster</p>\n<p>2% Elastano</p>\n<p>2% Viscosa</p>\n<p>1% Lana</p>\n<p>1% Acrílico</p>\n<p><strong>POLAINA:</strong></p>\n<p>58% Algodón</p>\n<p>39% Poliéster</p>\n<p>3% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cereal",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "792",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "792",
+  "sourceCategoryName": "Primera puesta 0 a 3 meses",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "340",
+          "label": "2-4m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94682",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2502026",
+      "productSku": "2502026",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:41.778Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20446-19702.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19702-large_default/conjunto-polaina-punto-bebe-nina-cereal.jpg",
+      "alt": "Conjunto polaina punto bebe niña cereal",
+      "sourceId": "19702",
+      "variantIds": [],
+      "sha256": "541a373ad74de4c50cb48f16bfd0121d7dccfcd5d8ef4394206062421847251f"
+    },
+    {
+      "path": "assets/20446-19703.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19703-large_default/conjunto-polaina-punto-bebe-nina-cereal.jpg",
+      "alt": "Conjunto polaina punto bebe niña cereal",
+      "sourceId": "19703",
+      "variantIds": [],
+      "sha256": "f0d10f43d8beb06783acacf539b368e7a30329efca8e2383300493df63edf693"
+    },
+    {
+      "path": "assets/20446-19704.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19704-large_default/conjunto-polaina-punto-bebe-nina-cereal.jpg",
+      "alt": "Conjunto polaina punto bebe niña cereal",
+      "sourceId": "19704",
+      "variantIds": [],
+      "sha256": "fb37b1afa101623f1594879feac977bbc8daab36b2092ec30f7c1563043b7cc3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:41.953Z",
+  "issues": []
+}

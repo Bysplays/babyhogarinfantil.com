@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "id": "9264",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/9264-chaqueta-bebe-nina-larga-algodon-verano-rojo.html",
+  "name": "Chaqueta bebe niña larga algodon verano Rojo",
+  "brand": "Zippy",
+  "sku": "2111062",
+  "description": "Chaqueta de punto de algodón corte largo, en color rojo, con cierre de botones delantero y onditas en cuello, mangas y bajos.",
+  "details": "Chaqueta de punto de ZIPPY, una de nuestras firmas favoritas! 100% ALGODÓN, en color rojo. Cierre con botones delanteros. El cuello, puños y bajos están rematados con onditas. Una prenda básica y atemporal, un fondo de armario, ligera y cómoda. Echa un ojito a nuestros conjuntos, calcetines y medias y podrás combinarla con todo lo que necesites!\n\nComposición y cuidados:\n\nChaqueta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Chaqueta de punto de <strong>ZIPPY</strong>, una de nuestras firmas favoritas! <strong>100% ALGODÓN</strong>, en color rojo. Cierre con botones delanteros. El cuello, puños y bajos están rematados con onditas. Una prenda básica y <strong>atemporal</strong>, un fondo de armario, ligera y cómoda. Echa un ojito a nuestros <strong>conjuntos, calcetines y medias</strong> y podrás combinarla con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 8,
+  "oldPrice": 15.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68807",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2111062",
+      "productSku": "2111062",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:36.158Z"
+    },
+    {
+      "id": "68808",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2111062",
+      "productSku": "2111062",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:38.239Z"
+    },
+    {
+      "id": "68809",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2111062",
+      "productSku": "2111062",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:40.742Z"
+    },
+    {
+      "id": "68810",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2111062",
+      "productSku": "2111062",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:43.088Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9264-7509.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7509-large_default/chaqueta-bebe-nina-larga-algodon-verano-rojo.jpg",
+      "alt": "Chaqueta bebe niña larga algodon verano Rojo",
+      "sourceId": "7509",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9264-12117.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12117-large_default/chaqueta-bebe-nina-larga-algodon-verano-rojo.jpg",
+      "alt": "Chaqueta bebe niña larga algodon verano Rojo",
+      "sourceId": "12117",
+      "variantIds": [],
+      "sha256": "58a20e28d5216569fb746444148a0b1d8d1431015d94aa157e15b7381c623792"
+    },
+    {
+      "path": "assets/9264-12118.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12118-large_default/chaqueta-bebe-nina-larga-algodon-verano-rojo.jpg",
+      "alt": "Chaqueta bebe niña larga algodon verano Rojo",
+      "sourceId": "12118",
+      "variantIds": [],
+      "sha256": "b2fe724664e3389086f358c520e9ed0cfcb4903932d70e3bf7768e3b32c47f78"
+    },
+    {
+      "path": "assets/9264-12116.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12116-large_default/chaqueta-bebe-nina-larga-algodon-verano-rojo.jpg",
+      "alt": "Chaqueta bebe niña larga algodon verano Rojo",
+      "sourceId": "12116",
+      "variantIds": [],
+      "sha256": "6785a690b34f45e577df97c499c62a356bc81f2f76c91bb35d59dddadf147275"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:43.346Z",
+  "issues": []
+}

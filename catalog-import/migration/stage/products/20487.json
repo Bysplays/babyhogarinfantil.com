@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "20487",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals/20487-chandal-estampado-salvia.html",
+  "name": "Chandal estampado Salvia",
+  "brand": "Mayoral",
+  "sku": "2502057",
+  "description": "Conjunto chándal de dos piezas para niña con sudadera y pantalón largo.\n\nLa sudadera estampada con líneas suaves para niña y con el cuello redondo. \n\nPantalón liso largo deportivo para niña de gran confort con la cintura elástica y el bajo elástico para un mejor ajuste. Los bolsillos son funcionales y están en la parte\n\ndelantera.",
+  "details": "COMPOSICIÓN\n\nSudadera:\n\n58% Algodón\n\n38% Poliéster\n\n4% Elastano\n\nPantalón largo:\n\n58% Algodón\n\n38% Poliéster\n\n4% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Sudadera:</strong></p>\n<p>58% Algodón</p>\n<p>38% Poliéster</p>\n<p>4% Elastano</p>\n<p><strong>Pantalón largo:</strong></p>\n<p>58% Algodón</p>\n<p>38% Poliéster</p>\n<p>4% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Salvia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "803"
+  ],
+  "sourceDefaultCategoryId": "803",
+  "sourceCategoryName": "Chandals",
+  "price": 35.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94917",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502057",
+      "productSku": "2502057",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:17.366Z"
+    },
+    {
+      "id": "94921",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502057",
+      "productSku": "2502057",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:19.472Z"
+    },
+    {
+      "id": "94922",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502057",
+      "productSku": "2502057",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:21.563Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20487-19856.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19856-large_default/chandal-estampado-salvia.jpg",
+      "alt": "Chandal estampado Salvia",
+      "sourceId": "19856",
+      "variantIds": [],
+      "sha256": "d7f30e5dad48dbb462d01fd9bcfeb4a014adf9f995a18f7c90982d62eedc0618"
+    },
+    {
+      "path": "assets/20487-19857.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19857-large_default/chandal-estampado-salvia.jpg",
+      "alt": "Chandal estampado Salvia",
+      "sourceId": "19857",
+      "variantIds": [],
+      "sha256": "7ee8026163bc3969fdf4fc21abec02c9afb73b8d42a8dce328dc6dc6a4968d36"
+    },
+    {
+      "path": "assets/20487-19858.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19858-large_default/chandal-estampado-salvia.jpg",
+      "alt": "Chandal estampado Salvia",
+      "sourceId": "19858",
+      "variantIds": [],
+      "sha256": "f857d8edc09db8b2123dbf09886a900bd78596ddab7904201d6d0b388e781069"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:21.758Z",
+  "issues": []
+}

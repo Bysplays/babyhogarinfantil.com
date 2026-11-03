@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9571",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9571-conjunto-bebe-nino-verano-3-piezas-peces-azul.html",
+  "name": "Conjunto bebe niño verano 3 piezas PECES Azul",
+  "brand": "Babybol",
+  "sku": "2203083",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 12.5,
+  "oldPrice": 24.990001,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95566",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2203083",
+      "productSku": "2203083",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": 24.990001,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:19.559Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9571-7792.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7792-large_default/conjunto-bebe-nino-verano-3-piezas-peces-azul.jpg",
+      "alt": "Conjunto bebe niño verano 3 piezas PECES Azul",
+      "sourceId": "7792",
+      "variantIds": [],
+      "sha256": "83cbefe3db32bf1fa49f2305608207e0c77b3ccd2a860022d8deb5a05222fb4c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:19.632Z",
+  "issues": []
+}

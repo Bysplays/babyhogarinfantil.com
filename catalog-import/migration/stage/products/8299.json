@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8299",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8299-lazo-mediano-con-coletero-blanco.html",
+  "name": "Lazo mediano con coletero Blanco",
+  "brand": "Siena",
+  "sku": "2007017",
+  "description": "Lazo grosgrain de 8 x 8 cm. aproximadamnete sobre clip pico-pato de 5,5 cm. aprox.\n\nHECHO EN ESPAÑA.\n\nHECHO A MANO.",
+  "details": "Estilo y Sofisticación\n\nEl Lazo mediano con coletero Blanco es más que un simple accesorio. Es una declaración de estilo, un toque de sofisticación. Con este elegante lazo podrás transformar cualquier atuendo de tu pequeño en una obra de arte. ¡Deja que su personalidad brille con este hermoso accesorio!\n\n\nSuavidad y Comfort\n\nEste lazo no solo destaca por su belleza, también promete suavidad y comodidad. Elaborado con materiales de la más alta calidad, este lazo es suave con la delicada piel del bebé y asegura que siempre esté cómodo al usarlo. ¡Máximo confort para tu pequeño con el Lazo mediano con coletero Blanco!\n\n\nDurabilidad y Calidad\n\nNingún detalle ha sido dejado al azar. Este lazo ha sido confeccionado expertamente para garantizar su durabilidad. Su calidad excepcional significa que seguirá luciendo fabuloso, incluso después de numerosos usos y lavados. ¡Invierte en calidad y durabilidad con el Lazo mediano con coletero Blanco!\n\n\n¡No esperes más! Da el primer paso para llevar el estilo de tu pequeño al siguiente nivel. Añade el Lazo mediano con coletero Blanco a tu carrito de compras ahora!",
+  "sourceDescriptionHtml": "<h2>Estilo y Sofisticación</h2>\n<p>El <b>Lazo mediano con coletero Blanco</b> es más que un simple accesorio. Es una declaración de estilo, un toque de sofisticación. Con este elegante lazo podrás transformar cualquier atuendo de tu pequeño en una obra de arte. ¡Deja que su personalidad brille con este hermoso accesorio!</p>\n\n<h2>Suavidad y Comfort</h2>\n<p>Este lazo no solo destaca por su belleza, también promete suavidad y comodidad. Elaborado con materiales de la más alta calidad, este lazo es suave con la delicada piel del bebé y asegura que siempre esté cómodo al usarlo. ¡Máximo confort para tu pequeño con el Lazo mediano con coletero Blanco!</p>\n\n<h2>Durabilidad y Calidad</h2>\n<p>Ningún detalle ha sido dejado al azar. Este lazo ha sido confeccionado expertamente para garantizar su durabilidad. Su calidad excepcional significa que seguirá luciendo fabuloso, incluso después de numerosos usos y lavados. ¡Invierte en calidad y durabilidad con el Lazo mediano con coletero Blanco!</p>\n\n<p style=\"text-align: center;\"><b>¡No esperes más! Da el primer paso para llevar el estilo de tu pequeño al siguiente nivel. Añade el Lazo mediano con coletero Blanco a tu carrito de compras ahora!</b></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84951",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8049XA12969",
+      "productSku": "2007017",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:33.525Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8299-11059.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11059-large_default/lazo-mediano-con-coletero-blanco.jpg",
+      "alt": "Lazo mediano con coletero Blanco",
+      "sourceId": "11059",
+      "variantIds": [],
+      "sha256": "f5804d7a71de9d21679e55edb505aaf6c380a5cac15feda68e11a9358423b0ac"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:33.581Z",
+  "issues": []
+}

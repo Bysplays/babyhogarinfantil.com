@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "7064",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/7064-abrigo-pano-verde-botella.html",
+  "name": "Abrigo paño Verde Botella",
+  "brand": "Taracido",
+  "sku": "1712036PRT",
+  "description": "Abrigo de paño con bolsillos. Corte evase.",
+  "details": "Composición y cuidados:\n\nAbrigo: 83% poliéster, 18% CV, 1% EA\n\nForro: 100% poliéster.\n\nLavar a 30º recomendado\n\nPlanchar a baja temperatura.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Abrigo: 83% poliéster, 18% CV, 1% EA</p>\n<p>Forro: 100% poliéster.</p>\n<p>Lavar a 30º recomendado</p>\n<p>Planchar a baja temperatura.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde botella",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 58.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64946",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1712036PRT",
+      "productSku": "1712036PRT",
+      "taxRate": 21,
+      "price": 58.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:39.277Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7064-4958.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4958-large_default/abrigo-pano-verde-botella.jpg",
+      "alt": "Abrigo paño Verde Botella",
+      "sourceId": "4958",
+      "variantIds": [],
+      "sha256": "2c8df502a458b9a46c08fb4cf7ea1bdc7237534e731335ae2f68e71b52bdf5f4"
+    },
+    {
+      "path": "assets/7064-9925.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9925-large_default/abrigo-pano-verde-botella.jpg",
+      "alt": "Abrigo paño Verde Botella",
+      "sourceId": "9925",
+      "variantIds": [],
+      "sha256": "fdf33f42c5b5e4bc5b9cac9b093150e0cabb32b7af632fd54903692c293ef492"
+    },
+    {
+      "path": "assets/7064-4957.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4957-large_default/abrigo-pano-verde-botella.jpg",
+      "alt": "Abrigo paño Verde Botella",
+      "sourceId": "4957",
+      "variantIds": [],
+      "sha256": "e0dceb3039393f1988472790890f5e5e98a55b244ad0757f3d56a272fba76f25"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:39.461Z",
+  "issues": []
+}

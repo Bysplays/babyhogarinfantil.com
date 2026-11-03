@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9884",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9884-sudadera-verde-botella-felpa-verde-botella.html",
+  "name": "Sudadera verde botella felpa Verde Botella",
+  "brand": "Zippy",
+  "sku": "2207103",
+  "description": "Descubre la \\'Sudadera Verde Botella - Felpa Verde Botella\\', una maravillosa elección para realzar el vestuario de tu pequeño. Confeccionada en felpa ultra suave, promete calidez y confort duradero en días fríos. Su color verde botella agrega un toque vibrante y juguetón a cualquier atuendo. Ideal para mantener el estilo mientras juegan y exploran. No es solo una prenda de vestir, es una muestra de personalidad, una declaración de estilo. Por su versatilidad y comodidad, ¡es una compra imprescindible para cada armario infantil!",
+  "details": "Diseño Atractivo y Cómodo\n\nLa Sudadera Verde Botella Felpa Verde Botella ofrece un diseño elegante y moderno. Su color intenso y atractivo la distingue y aporta un toque de estilo a cualquier atuendo. Hecha con felpa de alta calidad, garantiza una suavidad inigualable y un confort excepcional para los pequeños en movimiento.\n\nCalidad Superior Que Resiste al Uso Diario\n\nEsta sudadera es una prueba de la calidad y durabilidad que debe tener la ropa infantil. Fabricada con un enfoque en la resistencia, puede soportar las actividades cotidianas de los niños. Las costuras reforzadas aseguran que la sudadera pueda soportar sin problema el uso regular, proporcionando un excelente retorno de inversión.\n\nPerfecta para Cualquier Temporada\n\nLa Sudadera Verde Botella Felpa Verde Botella es perfecta para todas las estaciones. Su tejido suave y transpirable la hace perfecta para los días más cálidos mientras que su diseño de manga larga la hace genial para los meses más fríos. Una prenda verdaderamente versátil para que sus niños luzcan muy bien todo el año.\n\n¿Quieres que tu hijo luzca elegante y a su vez se sienta cómodo? Añade ahora mismo al carrito la Sudadera Verde Botella Felpa Verde Botella, la elección perfecta para los padres modernos y conscientes de la moda.\n\nComposición:\n\nSudadera: 80% algodón, 20% poliéster.",
+  "sourceDescriptionHtml": "<h2>Diseño Atractivo y Cómodo</h2>\n<p>La Sudadera Verde Botella Felpa Verde Botella ofrece un diseño elegante y moderno. Su color intenso y atractivo la distingue y aporta un toque de estilo a cualquier atuendo. Hecha con felpa de alta calidad, garantiza una suavidad inigualable y un confort excepcional para los pequeños en movimiento.</p>\n<h2>Calidad Superior Que Resiste al Uso Diario</h2>\n<p>Esta sudadera es una prueba de la calidad y durabilidad que debe tener la ropa infantil. Fabricada con un enfoque en la resistencia, puede soportar las actividades cotidianas de los niños. Las costuras reforzadas aseguran que la sudadera pueda soportar sin problema el uso regular, proporcionando un excelente retorno de inversión.</p>\n<h2>Perfecta para Cualquier Temporada</h2>\n<p>La Sudadera Verde Botella Felpa Verde Botella es perfecta para todas las estaciones. Su tejido suave y transpirable la hace perfecta para los días más cálidos mientras que su diseño de manga larga la hace genial para los meses más fríos. Una prenda verdaderamente versátil para que sus niños luzcan muy bien todo el año.</p>\n<p><em>¿Quieres que tu hijo luzca elegante y a su vez se sienta cómodo? Añade ahora mismo al carrito la Sudadera Verde Botella Felpa Verde Botella, la elección perfecta para los padres modernos y conscientes de la moda.</em></p>\n<p>Composición:</p>\n<p>Sudadera: 80% algodón, 20% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde botella",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70280",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2207103",
+      "productSku": "2207103",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:47.857Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9884-12860.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12860-large_default/sudadera-verde-botella-felpa-verde-botella.jpg",
+      "alt": "Sudadera verde botella felpa Verde Botella",
+      "sourceId": "12860",
+      "variantIds": [],
+      "sha256": "5ecd5197a3a73c8ec2a95f19750dfd68be071850c4214ca7bae4b65d922b2d5f"
+    },
+    {
+      "path": "assets/9884-8012.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8012-large_default/sudadera-verde-botella-felpa-verde-botella.jpg",
+      "alt": "Sudadera verde botella felpa Verde Botella",
+      "sourceId": "8012",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9884-9136.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9136-large_default/sudadera-verde-botella-felpa-verde-botella.jpg",
+      "alt": "Sudadera verde botella felpa Verde Botella",
+      "sourceId": "9136",
+      "variantIds": [],
+      "sha256": "ed3da5044bf8e873f9461a1e4866227608a835aeb7edbcdebf3ab72db4ae3f14"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:48.026Z",
+  "issues": []
+}

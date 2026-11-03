@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "id": "7704",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/7704-body-camisa-cuello-plumeti-crudo.html",
+  "name": "Body camisa cuello plumeti Crudo",
+  "brand": "Calamaro",
+  "sku": "1903065",
+  "description": "Body y camisita en una sola pieza, con cuello volante en plumeti. Muy practico y cómodo. Todo en 100% algodón. HECHO EN ESPAÑA",
+  "details": "Composición y cuidados: \n\nBody: 100% algodón.\n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados: </p>\n<p>Body: 100% algodón.</p>\n<p><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><strong><span lang=\"es\" xml:lang=\"es\">HECHO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 17.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:19",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66185",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "6313XE10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:29.708Z"
+    },
+    {
+      "id": "146155",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "6313XA10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:32.359Z"
+    },
+    {
+      "id": "146156",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "6313XB10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:34.416Z"
+    },
+    {
+      "id": "146157",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "6313XC10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:36.556Z"
+    },
+    {
+      "id": "146158",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "6313XD10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:38.824Z"
+    },
+    {
+      "id": "146159",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "6313XF10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:41.322Z"
+    },
+    {
+      "id": "146160",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "6313XG10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:43.678Z"
+    },
+    {
+      "id": "66186",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "6313XH10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:45.375Z"
+    },
+    {
+      "id": "66187",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "6313XI10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:48.002Z"
+    },
+    {
+      "id": "146161",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "6313XJ10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:50.717Z"
+    },
+    {
+      "id": "146162",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "6313XK10622",
+      "productSku": "1903065",
+      "taxRate": 21,
+      "price": 17.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:53.668Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7704-10471.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10471-large_default/body-camisa-cuello-plumeti-crudo.jpg",
+      "alt": "Body camisa cuello plumeti Crudo",
+      "sourceId": "10471",
+      "variantIds": [],
+      "sha256": "a82440a70f81b3d56e3face0176065f78025cae8d10494a8166595ef706544a6"
+    },
+    {
+      "path": "assets/7704-8680.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8680-large_default/body-camisa-cuello-plumeti-crudo.jpg",
+      "alt": "body camisa cuello volante",
+      "sourceId": "8680",
+      "variantIds": [],
+      "sha256": "641aa24493b99843d4ab526a9516e618ead7f4595923b74fbce035fca01062ce"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:53.792Z",
+  "issues": []
+}

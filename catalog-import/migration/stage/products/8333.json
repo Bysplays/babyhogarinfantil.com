@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8333",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8333-lazo-mediano-con-pinza-rosa-empolvado.html",
+  "name": "Lazo mediano con pinza Rosa empolvado",
+  "brand": "Siena",
+  "sku": "2007019",
+  "description": "Lazo de 8 x 5,5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox. HECHO EN ESPAÑA.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa Empolvado",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146676",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8051XA12992",
+      "productSku": "2007019",
+      "taxRate": 21,
+      "price": 2.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:38.084Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8333-6634.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6634-large_default/lazo-mediano-con-pinza-rosa-empolvado.jpg",
+      "alt": "Lazo mediano con pinza Rosa empolvado",
+      "sourceId": "6634",
+      "variantIds": [],
+      "sha256": "dd0b85d20966964385271d3a0ca6dddfdaa7d1c8f7c8497b295960110bac5e1b"
+    },
+    {
+      "path": "assets/8333-6633.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6633-large_default/lazo-mediano-con-pinza-rosa-empolvado.jpg",
+      "alt": "Lazo mediano con pinza Rosa empolvado",
+      "sourceId": "6633",
+      "variantIds": [],
+      "sha256": "cda170e842f79f14e786f546d2c02abccb44bebb95ed601d0031ef0448deb8b6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:38.172Z",
+  "issues": []
+}

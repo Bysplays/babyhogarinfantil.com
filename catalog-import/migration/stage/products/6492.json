@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6492",
+  "sourceUrl": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/6492-bolsa-merienda-con-bolsillo-naranja.html",
+  "name": "Bolsa merienda con Bolsillo Naranja",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1580049",
+  "description": "Bolsa para merienda, con bolsillo serigrafiado. Combínala con el mandilón del mismo color. Puedes bordar el nombre y personalizarlo! LOS MODELOS DE DIBUJOS PUEDEN VARIAR SEGÚN DISPONBILIDAD.",
+  "details": "Bolsa de tela para la merienda, con bolsillo serigrafiado. Cierre con cordón fruncido. El bolsillo tiene velcro. En diferentes colores. Puedes combinarlo con el mandilón del mismo color y personalizar ambas cosas con el nombre de tu peque bordado para que no la pierda! Los modelos de dibujos pueden variar según disponibilidad. \n\nMedidas:\n\nAlto: 31cm.\n\nAncho: 21cm.\n\nComposición:\n\nBolsas: 67% poliéster, 33% algodón.",
+  "sourceDescriptionHtml": "<p>Bolsa de tela para la merienda, con bolsillo serigrafiado. Cierre con cordón fruncido. El bolsillo tiene velcro. En diferentes colores. Puedes combinarlo con el <strong>mandilón del mismo color y personalizar ambas cosas con el nombre de tu peque bordado</strong> para que no la pierda! <strong>Los modelos de dibujos pueden variar según disponibilidad. </strong></p>\n<p>Medidas:</p>\n<p>Alto: 31cm.</p>\n<p>Ancho: 21cm.</p>\n<p>Composición:</p>\n<p>Bolsas: 67% poliéster, 33% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Naranja",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "704",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "704",
+  "sourceCategoryName": "Mochilas y bolsas merienda",
+  "price": 3,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:13",
+  "sourceUpdatedAt": "2026-10-27 11:09:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63692",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "1992XA9013",
+      "productSku": "1580049",
+      "taxRate": 21,
+      "price": 3,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:46.888Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6492-4454.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4454-large_default/bolsa-merienda-con-bolsillo-naranja.jpg",
+      "alt": "Bolsa merienda con Bolsillo Naranja",
+      "sourceId": "4454",
+      "variantIds": [],
+      "sha256": "97b13f6fd3d8344af22ddafe95f5d9328a8467e2ad8dea3efaa1ccce870280d3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:46.961Z",
+  "issues": []
+}

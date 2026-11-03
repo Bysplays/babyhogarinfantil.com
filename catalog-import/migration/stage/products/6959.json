@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6959",
+  "sourceUrl": "https://babyhogarinfantil.com/buzos-bebe-nino/6959-buzo-bebe-nino-ositos-azul-celeste.html",
+  "name": "Buzo bebé niño ositos Azul celeste",
+  "brand": "Birba",
+  "sku": "1708042",
+  "description": "Buzo AZUL CELESTE con manoplas.",
+  "details": "El saco buzo es idela para el frio invierno. Puedes meter a tu bebé directamente de la cuna al saco con el pijama puesto para que no se enfría, o también con su ropita. Tiene aislante térmico y forro polat en el interior.\n\nComposición:\n\nBuzo azul celeste: 100% poliester.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>El saco buzo es idela para el frio invierno. Puedes meter a tu bebé directamente de la cuna al saco con el pijama puesto para que no se enfría, o también con su ropita. Tiene aislante térmico y forro polat en el interior.</p>\n<p>Composición:</p>\n<p>Buzo azul celeste: 100% poliester.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "745"
+  ],
+  "sourceDefaultCategoryId": "745",
+  "sourceCategoryName": "Buzos Bebé niño",
+  "price": 38.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64752",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1708042",
+      "productSku": "1708042",
+      "taxRate": 21,
+      "price": 38.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:35.491Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6959-9843.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9843-large_default/buzo-bebe-nino-ositos-azul-celeste.jpg",
+      "alt": "Buzo bebé niño ositos Azul celeste",
+      "sourceId": "9843",
+      "variantIds": [],
+      "sha256": "a7a0fb4d9909d9cdc3e9b002285482bf936a2adc4c18af9d7da2e0afbc4d78b7"
+    },
+    {
+      "path": "assets/6959-4879.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4879-large_default/buzo-bebe-nino-ositos-azul-celeste.jpg",
+      "alt": "Buzo bebé niño ositos Azul celeste",
+      "sourceId": "4879",
+      "variantIds": [],
+      "sha256": "3805c5356a7781d54b5ffa330a70585bf3ac6e35824046f981ba86269f805a1e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:35.616Z",
+  "issues": []
+}

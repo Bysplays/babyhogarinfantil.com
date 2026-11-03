@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "22021",
+  "sourceUrl": "https://babyhogarinfantil.com/cambiadores-cojines-lactancia/22021-cambiador-polipiel-rosa.html",
+  "name": "Cambiador polipiel Rosa",
+  "brand": "Mayoral",
+  "sku": "2501260",
+  "description": "Práctico y elegante cambiador portátil para bebé de Mayoral en color rosa. Perfecto para llevar en el bolso de paseo y cambiar al bebé cómodamente en cualquier lugar. Su diseño plegable y acolchado ofrece confort, higiene y funcionalidad para el día a día.\n\n\nCambiador portátil para bebé\n\nDiseño plegable y compacto\n\nColor rosa elegante y delicado\n\nInterior acolchado para mayor comodidad\n\nIdeal para paseo, viaje y uso diario",
+  "details": "Cambiador portátil para bebé Mayoral color rosa\n\nEl cambiador portátil de Mayoral es un accesorio imprescindible para las salidas con tu bebé. Su diseño elegante en color rosa combina funcionalidad y estilo, ofreciendo una superficie cómoda, práctica e higiénica para cambiar al pequeño en cualquier momento.\n\nGracias a su formato plegable y ligero, resulta muy fácil de transportar y guardar en el bolso maternal o en la cesta del carrito. El interior acolchado proporciona mayor confort al bebé durante el cambio, mientras que sus materiales resistentes facilitan la limpieza y el mantenimiento diario.\n\nComodidad y practicidad para el día a día\n\nEste cambiador infantil ha sido diseñado para ofrecer máxima comodidad tanto en casa como fuera de ella. Su acabado elegante y minimalista lo convierte en el complemento perfecto para cualquier bolso de maternidad.\n\n\nMarca: Mayoral\n\nReferencia: 2501260\n\nColor: rosa\n\nExterior: 100% poliuretano\n\nForro: 100% policloruro de vinilo\n\nRelleno: 100% poliéster\n\nFormato: plegable y portátil\n\nIdeal para: paseo, viaje y uso diario\n\n\nUn accesorio práctico y elegante para mantener la comodidad y la higiene del bebé en cualquier lugar.",
+  "sourceDescriptionHtml": "<h2>Cambiador portátil para bebé Mayoral color rosa</h2>\n<p>El cambiador portátil de <strong>Mayoral</strong> es un accesorio imprescindible para las salidas con tu bebé. Su diseño elegante en color rosa combina funcionalidad y estilo, ofreciendo una superficie cómoda, práctica e higiénica para cambiar al pequeño en cualquier momento.</p>\n<p>Gracias a su formato plegable y ligero, resulta muy fácil de transportar y guardar en el bolso maternal o en la cesta del carrito. El interior acolchado proporciona mayor confort al bebé durante el cambio, mientras que sus materiales resistentes facilitan la limpieza y el mantenimiento diario.</p>\n<h3>Comodidad y practicidad para el día a día</h3>\n<p>Este cambiador infantil ha sido diseñado para ofrecer máxima comodidad tanto en casa como fuera de ella. Su acabado elegante y minimalista lo convierte en el complemento perfecto para cualquier bolso de maternidad.</p>\n<ul>\n<li><strong>Marca:</strong> Mayoral</li>\n<li><strong>Referencia:</strong> 2501260</li>\n<li><strong>Color:</strong> rosa</li>\n<li><strong>Exterior:</strong> 100% poliuretano</li>\n<li><strong>Forro:</strong> 100% policloruro de vinilo</li>\n<li><strong>Relleno:</strong> 100% poliéster</li>\n<li><strong>Formato:</strong> plegable y portátil</li>\n<li><strong>Ideal para:</strong> paseo, viaje y uso diario</li>\n</ul>\n<p>Un accesorio práctico y elegante para mantener la comodidad y la higiene del bebé en cualquier lugar.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "805",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "805",
+  "sourceCategoryName": "Cambiadores, cojines lactancia",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-04-28 15:53:59",
+  "sourceUpdatedAt": "2026-10-27 11:14:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "101412",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2501260",
+      "productSku": "2501260",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:12.576Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/22021-21174.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21174-large_default/cambiador-polipiel-rosa.jpg",
+      "alt": "Cambiador portátil para bebé Mayoral color rosa",
+      "sourceId": "21174",
+      "variantIds": [],
+      "sha256": "ad3335c208471789a26d221f9514080809647b1bba4dadf8829b000d06014198"
+    },
+    {
+      "path": "assets/22021-21175.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21175-large_default/cambiador-polipiel-rosa.jpg",
+      "alt": "Cambiador plegable rosa para bebé Mayoral",
+      "sourceId": "21175",
+      "variantIds": [],
+      "sha256": "92cde718848bb514de6ef31a984611cffb2d894403594c24ff76c1f8a5b5a996"
+    },
+    {
+      "path": "assets/22021-21176.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21176-large_default/cambiador-polipiel-rosa.jpg",
+      "alt": "Detalle de cambiador portátil Mayoral en color rosa",
+      "sourceId": "21176",
+      "variantIds": [],
+      "sha256": "1282d4290421b8c5387cacb006a4275c0fc38e8e2a9549d3db7056cb97e10cbf"
+    },
+    {
+      "path": "assets/22021-21177.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21177-large_default/cambiador-polipiel-rosa.jpg",
+      "alt": "Parte trasera del cambiador portátil para bebé Mayoral rosa",
+      "sourceId": "21177",
+      "variantIds": [],
+      "sha256": "3ee9d07eaca018eb2aaf136c1b2f2a567bec31ba803bbb7477088a04f44cae8b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:12.765Z",
+  "issues": []
+}

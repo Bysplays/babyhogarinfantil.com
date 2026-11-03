@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10242",
+  "sourceUrl": "https://babyhogarinfantil.com/cambiadores-cojines-lactancia/10242-cojin-de-lactancia-rosa.html",
+  "name": "Cojin de lactancia Rosa",
+  "brand": "Gamberritos",
+  "sku": "2301009",
+  "description": "Cojín de lactancia con topitos, para facilitar la toma del pecho de tu bebé.\n\nEs un soporte ideal para ayudar a mantener una postura cómoda y confortable tanto a la mamá como al bebé, gracias a su forma ergonómica ya su cómodo relleno.",
+  "details": "Composición:\n\nExterior: 100% poliéster.\n\nRelleno: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Exterior: 100% poliéster.</p>\n<p>Relleno: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "805",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "805",
+  "sourceCategoryName": "Cambiadores, cojines lactancia",
+  "price": 22,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:59",
+  "sourceUpdatedAt": "2026-10-27 11:12:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "82765",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10877XA16876",
+      "productSku": "2301009",
+      "taxRate": 21,
+      "price": 22,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:13.365Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10242-13550.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13550-large_default/cojin-de-lactancia-rosa.jpg",
+      "alt": "Cojin de lactancia Rosa",
+      "sourceId": "13550",
+      "variantIds": [],
+      "sha256": "539f7b083e38adb1ccacfea06e2adb75d239d33a0748d1a546a4c79d3e5d3850"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:13.419Z",
+  "issues": []
+}

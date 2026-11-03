@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "20919",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-montesol/20919-pantalon-largo-tallas-grandes-montesol-azul-marino.html",
+  "name": "Pantalón largo tallas grandes Montesol Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2501164",
+  "description": "Pantalón en tallas grandes para el uniforme del colegio MONTESOL de vigo.",
+  "details": "Composición: 65% poliester, 35% algodón.",
+  "sourceDescriptionHtml": "<p>Composición: 65% poliester, 35% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "850"
+  ],
+  "sourceDefaultCategoryId": "850",
+  "sourceCategoryName": "Colegio Montesol",
+  "price": 38.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-09-17 23:53:46",
+  "sourceUpdatedAt": "2026-10-26 19:38:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "252",
+          "label": "26"
+        },
+        {
+          "id": "281",
+          "label": "28"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95890",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "2501164",
+      "productSku": "2501164",
+      "taxRate": 21,
+      "price": 38.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:53.920Z"
+    },
+    {
+      "id": "95891",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "281",
+          "group": "Tamaño",
+          "value": "28"
+        }
+      ],
+      "sku": "2501164",
+      "productSku": "2501164",
+      "taxRate": 21,
+      "price": 40.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:57.375Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20919-21909.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21909-large_default/pantalon-largo-tallas-grandes-montesol-azul-marino.jpg",
+      "alt": "Pantalón largo tallas grandes Montesol Azul Marino",
+      "sourceId": "21909",
+      "variantIds": [],
+      "sha256": "7241dd4b8859c8379bea2bbff87c1e38d80aa6a229e147fa3a99f67eaa4cd521"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:31:58.141Z",
+  "issues": []
+}

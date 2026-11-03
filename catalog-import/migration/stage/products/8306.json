@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8306",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8306-lazo-mediano-con-coletero-gris-oscuro.html",
+  "name": "Lazo mediano con coletero GRis oscuro",
+  "brand": "Siena",
+  "sku": "2007017",
+  "description": "Lazo grosgrain de 8 x 8 cm. aproximadamnete sobre clip pico-pato de 5,5 cm. aprox.\n\nHECHO EN ESPAÑA.\n\nHECHO A MANO.",
+  "details": "Realza tu Belleza Natural\n\n\nEste fabuloso Lazo Mediano con Coletero Gris Oscuro no es solo un accesorio, es la distinción que realzará la belleza natural de niñas y mujeres con estilo, dándoles un toque de elegancia y sofisticación únicas. Coordinado con la ropa de cualquier color, este lazo oscuro añadirá un acento atractivo a cualquier conjunto. \n\n\n\nCalidad Incomparable\n\n\nImportante señalar la durabilidad y resistencia que brinda este Lazo Mediano con Coletero Gris Oscuro. Hecho de material de alta calidad, resistirá incluso los juegos más agitados, a la vez que proporcionará máximo confort. Sin duda alguna, es la solución perfecta para mantener el pelo ordenado y en su lugar.\n\n\n\nPara Cualquier Ocasión\n\n\nYa sea un día casual en la escuela, una reunión familiar o incluso una celebración especial, este Lazo Mediano con Coletero Gris Oscuro es perfecto para cualquier ocasión. Le dará a tu pequeña ese toque chic y encantador que sin lugar a dudas captará la atención y arrancará sonrisas.\n\n\n\n\nNo esperes más, añade este fabuloso Lazo Mediano con Coletero Gris Oscuro a tu carrito de compras y empieza a destacar con elegancia y estilo. ¡No te arrepentirás!",
+  "sourceDescriptionHtml": "<h2>Realza tu Belleza Natural</h2>\n<p>\nEste fabuloso Lazo Mediano con Coletero Gris Oscuro no es solo un accesorio, es la distinción que realzará la belleza natural de niñas y mujeres con estilo, dándoles un toque de elegancia y sofisticación únicas. Coordinado con la ropa de cualquier color, este lazo oscuro añadirá un acento atractivo a cualquier conjunto. \n</p>\n\n<h2>Calidad Incomparable</h2>\n<p>\nImportante señalar la durabilidad y resistencia que brinda este Lazo Mediano con Coletero Gris Oscuro. Hecho de material de alta calidad, resistirá incluso los juegos más agitados, a la vez que proporcionará máximo confort. Sin duda alguna, es la solución perfecta para mantener el pelo ordenado y en su lugar.\n</p>\n\n<h2>Para Cualquier Ocasión</h2>\n<p>\nYa sea un día casual en la escuela, una reunión familiar o incluso una celebración especial, este Lazo Mediano con Coletero Gris Oscuro es perfecto para cualquier ocasión. Le dará a tu pequeña ese toque chic y encantador que sin lugar a dudas captará la atención y arrancará sonrisas.\n</p>\n\n<p>\nNo esperes más, añade este fabuloso Lazo Mediano con Coletero Gris Oscuro a tu carrito de compras y empieza a destacar con elegancia y estilo. ¡No te arrepentirás!\n</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Oscuro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67321",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8049XA14308",
+      "productSku": "2007017",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:38.292Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8306-8233.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8233-large_default/lazo-mediano-con-coletero-gris-oscuro.jpg",
+      "alt": "Lazo mediano con coletero GRis oscuro",
+      "sourceId": "8233",
+      "variantIds": [],
+      "sha256": "fad7e116935b85579e1a45452a31640aea3a9a37942489ee60148f47ccc36267"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:38.363Z",
+  "issues": []
+}

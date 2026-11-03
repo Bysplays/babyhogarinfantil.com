@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "10143",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/10143-bata-nino-t-rex-verde.html",
+  "name": "Bata niño T-rex Verde",
+  "brand": "Tobogan",
+  "sku": "2208261",
+  "description": "Bata de invierno con cremallera, en color verde con estampado de dinosaurio",
+  "details": "Composición:\n\nBata: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Bata: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 0,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:58",
+  "sourceUpdatedAt": "2026-10-27 11:12:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [],
+  "variants": [
+    {
+      "id": "71015",
+      "attributes": [],
+      "sku": "2208261",
+      "productSku": "2208261",
+      "taxRate": 21,
+      "price": 0,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:08.337Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10143-8153.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8153-large_default/bata-nino-t-rex-verde.jpg",
+      "alt": "Bata niño T-rex Verde",
+      "sourceId": "8153",
+      "variantIds": [],
+      "sha256": "1a64ea2a3c6b5db98f042e9561dc3b2f0f2b447b00b1d74e4d7f2ac24659d105"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:08.380Z",
+  "issues": []
+}

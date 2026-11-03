@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9554",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9554-sudadera-nino-verano-algodon-cool-camp-amarillo.html",
+  "name": "Sudadera niño verano algodón COOL CAMP Amarillo",
+  "brand": "Babybol",
+  "sku": "2203068",
+  "description": "Sudadera niño.",
+  "details": "Composición:\n\nSudadera: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Sudadera: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 6.98,
+  "oldPrice": 13.9513,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69511",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2203068",
+      "productSku": "2203068",
+      "taxRate": 21,
+      "price": 6.98,
+      "oldPrice": 13.9513,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:33.552Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9554-7776.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7776-large_default/sudadera-nino-verano-algodon-cool-camp-amarillo.jpg",
+      "alt": "Sudadera niño verano algodón COOL CAMP Amarillo",
+      "sourceId": "7776",
+      "variantIds": [],
+      "sha256": "2a8bf6ceb4a18e0b182d7445acb4b1fac1f0540ce1941f3c5d82b7e9a3fc9a0b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:33.593Z",
+  "issues": []
+}

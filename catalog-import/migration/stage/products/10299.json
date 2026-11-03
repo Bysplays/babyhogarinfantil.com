@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10299",
+  "sourceUrl": "https://babyhogarinfantil.com/peleles-bebe-nina/10299-pelele-ositos-melocoton.html",
+  "name": "Pelele ositos Melocoton",
+  "brand": "Mayoral",
+  "sku": "2301061",
+  "description": "Pelele verano bebé niña.",
+  "details": "Composición:\n\nPelele 100% algodón sostenible.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pelele 100% algodón sostenible.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Melocoton",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "773"
+  ],
+  "sourceDefaultCategoryId": "773",
+  "sourceCategoryName": "Peleles Bebé Niña",
+  "price": 13.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:18",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71502",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2301061",
+      "productSku": "2301061",
+      "taxRate": 21,
+      "price": 13.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:26.019Z"
+    },
+    {
+      "id": "71505",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301061",
+      "productSku": "2301061",
+      "taxRate": 21,
+      "price": 13.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:29.294Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10299-8468.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8468-large_default/pelele-ositos-melocoton.jpg",
+      "alt": "Pelele ositos Melocoton",
+      "sourceId": "8468",
+      "variantIds": [],
+      "sha256": "601ab59717159ee481152f418d21201d0beaf5f6caeb0eeb49c8568e317d20f8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:29.343Z",
+  "issues": []
+}

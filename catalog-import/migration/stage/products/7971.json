@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "7971",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nina/7971-sudadera-bebe-con-capucha-rainbow-blanco.html",
+  "name": "Sudadera bebé con capucha Rainbow Blanco",
+  "brand": "Zippy",
+  "sku": "1911082",
+  "description": "Sudadera con caucha y felpa interior. Cálida para el frío.",
+  "details": "Composición y cuidados:\n\nSudadera: 95% algodón, 5% elastano.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Sudadera: 95% algodón, 5% elastano.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "727",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "727",
+  "sourceCategoryName": "Sudaderas y jerseys Bebé niña",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-27 11:10:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66738",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1911082",
+      "productSku": "1911082",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:32.009Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7971-6094.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6094-large_default/sudadera-bebe-con-capucha-rainbow-blanco.jpg",
+      "alt": "Sudadera bebé con capucha Rainbow Blanco",
+      "sourceId": "6094",
+      "variantIds": [],
+      "sha256": "072d7c7b92cbe2eb8d9a5f18e15d4b94b6f95c3c4ed259408ee390a886a9acb2"
+    },
+    {
+      "path": "assets/7971-6095.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6095-large_default/sudadera-bebe-con-capucha-rainbow-blanco.jpg",
+      "alt": "Sudadera bebé con capucha Rainbow Blanco",
+      "sourceId": "6095",
+      "variantIds": [],
+      "sha256": "7e56e776c4c8f378bcb91a69fa88b59dcb4801dd360aa4cf51d3c79bf29cbd53"
+    },
+    {
+      "path": "assets/7971-6096.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6096-large_default/sudadera-bebe-con-capucha-rainbow-blanco.jpg",
+      "alt": "Sudadera bebé con capucha Rainbow Blanco",
+      "sourceId": "6096",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/7971-6093.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6093-large_default/sudadera-bebe-con-capucha-rainbow-blanco.jpg",
+      "alt": "Sudadera bebé con capucha Rainbow Blanco",
+      "sourceId": "6093",
+      "variantIds": [],
+      "sha256": "8e00a991bb4281ac425a0916b161d8c3685707a4fbd2798eaa1153b178489194"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:32.202Z",
+  "issues": []
+}

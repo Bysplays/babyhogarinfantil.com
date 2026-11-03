@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "18116",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/18116-pantalon-chandal-basico-gris.html",
+  "name": "Pantalon chandal básico Gris",
+  "brand": "Babybol",
+  "sku": "2402100",
+  "description": "Eleva el estilo del pequeño príncipe con el Pantalón de chándal básico gris. Este cómodo y elegante pantalón promete calidez y durabilidad, haciéndolo perfecto para su animada rutina de juegos o para un paseo casual. Con su atemporal color gris, se puede combinar con cualquier prenda. La elegancia nunca debe comprometer la comodidad y este pantalón es testimonio de eso. Un regalo precioso para cualquier jovencito coqueto en tu vida. Descubre el equilibrio perfecto entre funcionalidad y estilo. ¡Compra hoy mismo!",
+  "details": "Confort Único y Estilo Elegante\n\n\nLos Pantalones Chándal Básicos Grises se destacan gracias a su combinación perfecta de confort y estilo. Hechos con telas suaves y elásticas, estos pantalones son ideales para las actividades diarias de los pequeños. El color gris básico se combina con cualquier prenda, asegurando que tu niño se vea siempre elegante.\n\n\n\nCalidad Premium en Cada Costura\n\n\nLos Pantalones Chándal Básicos Grises no solo se ven bien, también están hechos para durar. Cada costura ha sido meticulosamente trabajada, garantizando una resistencia excepcional al desgarro y al desgaste. Estos pantalones se mantendrán como nuevos incluso después de muchas lavadas.\n\n\n\nAdecuado para Todas las Temporadas\n\n\nYa sea para jugar en el parque en primavera, o para estar acogedores en casa durante el invierno, los Pantalones Chándal Básicos Grises son siempre la opción perfecta. La tela transpirable mantiene a tu pequeño fresco en los días cálidos, y el corte ajustado ofrece un extra de calor en los días fríos.\n\n\n\n\nNo esperes más. Dale a tu pequeño la comodidad y el estilo que merece. ¡Añade estos Pantalones Chándal Básicos Grises a tu carrito de compras ahora!",
+  "sourceDescriptionHtml": "<h2>Confort Único y Estilo Elegante</h2>\n<p>\nLos Pantalones Chándal Básicos Grises se destacan gracias a su combinación perfecta de confort y estilo. Hechos con telas suaves y elásticas, estos pantalones son ideales para las actividades diarias de los pequeños. El color gris básico se combina con cualquier prenda, asegurando que tu niño se vea siempre elegante.\n</p>\n\n<h2>Calidad Premium en Cada Costura</h2>\n<p>\nLos Pantalones Chándal Básicos Grises no solo se ven bien, también están hechos para durar. Cada costura ha sido meticulosamente trabajada, garantizando una resistencia excepcional al desgarro y al desgaste. Estos pantalones se mantendrán como nuevos incluso después de muchas lavadas.\n</p>\n\n<h2>Adecuado para Todas las Temporadas</h2>\n<p>\nYa sea para jugar en el parque en primavera, o para estar acogedores en casa durante el invierno, los Pantalones Chándal Básicos Grises son siempre la opción perfecta. La tela transpirable mantiene a tu pequeño fresco en los días cálidos, y el corte ajustado ofrece un extra de calor en los días fríos.\n</p>\n\n<p>\nNo esperes más. Dale a tu pequeño la comodidad y el estilo que merece. ¡Añade estos Pantalones Chándal Básicos Grises a tu carrito de compras ahora!\n</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-02 15:54:02",
+  "sourceUpdatedAt": "2026-10-27 11:13:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "86267",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2402100",
+      "productSku": "2402100",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:52.833Z"
+    },
+    {
+      "id": "86268",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2402100",
+      "productSku": "2402100",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:56.135Z"
+    },
+    {
+      "id": "94237",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2402100",
+      "productSku": "2402100",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:58.827Z"
+    },
+    {
+      "id": "86271",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2402100",
+      "productSku": "2402100",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:01.987Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18116-16597.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16597-large_default/pantalon-chandal-basico-gris.jpg",
+      "alt": "Pantalon chandal básico Gris",
+      "sourceId": "16597",
+      "variantIds": [],
+      "sha256": "23b7d6636498eb5869c18c1937d3d09d851a7d6f83fc46cff1ffc80815a4f12b"
+    },
+    {
+      "path": "assets/18116-16598.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16598-large_default/pantalon-chandal-basico-gris.jpg",
+      "alt": "Pantalon chandal básico Gris",
+      "sourceId": "16598",
+      "variantIds": [],
+      "sha256": "e7449c9f60d9f8219e52bf6c7cf1125a466b51981ec4fd6428fcba06453b8bff"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:02.079Z",
+  "issues": []
+}

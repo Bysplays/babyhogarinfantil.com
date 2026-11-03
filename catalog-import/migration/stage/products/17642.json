@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "17642",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/17642-merceditas-nina-piel-velcro-40-al-42-azul-marino.html",
+  "name": "Merceditas niña piel velcro 40 al 42 Azul Marino",
+  "brand": "Gorila",
+  "sku": "1807051",
+  "description": "Experimente la combinación perfecta de estilo y comodidad con las 'Merceditas niña piel velcro 40 al 42 Azul Marino'. Fabricadas en piel de alta calidad, estas zapatillas han sido diseñadas pensando en la comodidad de sus pequeños pies. El elegante azul marino eleva el atractivo de moda, mientras que la práctica función de velcro garantiza un ajuste seguro y cómodo. Perfectas tanto para actividades escolares como para salidas ocasionales, estas zapatillas son un complemento esencial en el guardarropa de su hijo. Permita que su hijo camine con confianza y estilo con este par de zapatillas de primera calidad que encarna la facilidad y la elegancia.",
+  "details": "Comodidad Premium Para Sus Pies\n\nLas merceditas para niñas en piel y velcro valores el confort por encima de todo. Hechas en tallas del 40 al 42 en un elegante azul marino, estas zapatillas priorizan la salud de los pies de su pequeña sin sacrificar el estilo. El suave material de piel aporta un tacto placentero, mientras que el seguro cierre de velcro asegura un ajuste a medida sin molestias.\n\nEstilo Versátil Para Cada Día\n\nAdemás de funcionales, estas merceditas de piel presentan un diseño que combina con cualquier vestuario. Su color azul marino aporta un toque de sofisticación sin perder la esencia juguetona propia de la infancia. Son ideales tanto para ocasiones especiales como para el día a día, convirtiéndose en un accesorio imprescindible en el guardarropa de cualquier niña.\n\nFabricadas Para Durar\n\nEntendiendo el ajetreo y la energía propios de los niños, estas merceditas aseguran durabilidad. Diseñadas con materiales resistentes, estas zapatillas soportarán las maratonas de juegos de su pequeña y seguirán pareciendo nuevas. El piel y el velcro son materiales de alta calidad que garantizan un desgaste mínimo y máxima resistencia.\n\n\n\nNo deje pasar la oportunidad de proporcionar a su pequeña el confort, estilo y durabilidad que proporcionan las merceditas para niña piel velcro en tallas del 40 al 42. ¡Adquiéralas hoy stesso!",
+  "sourceDescriptionHtml": "\n<h2>Comodidad Premium Para Sus Pies</h2>\n<p>Las merceditas para niñas en piel y velcro valores el confort por encima de todo. Hechas en tallas del 40 al 42 en un elegante azul marino, estas zapatillas priorizan la salud de los pies de su pequeña sin sacrificar el estilo. El suave material de piel aporta un tacto placentero, mientras que el seguro cierre de velcro asegura un ajuste a medida sin molestias.</p>\n<h2>Estilo Versátil Para Cada Día</h2>\n<p>Además de funcionales, estas merceditas de piel presentan un diseño que combina con cualquier vestuario. Su color azul marino aporta un toque de sofisticación sin perder la esencia juguetona propia de la infancia. Son ideales tanto para ocasiones especiales como para el día a día, convirtiéndose en un accesorio imprescindible en el guardarropa de cualquier niña.</p>\n<h2>Fabricadas Para Durar</h2>\n<p>Entendiendo el ajetreo y la energía propios de los niños, estas merceditas aseguran durabilidad. Diseñadas con materiales resistentes, estas zapatillas soportarán las maratonas de juegos de su pequeña y seguirán pareciendo nuevas. El piel y el velcro son materiales de alta calidad que garantizan un desgaste mínimo y máxima resistencia.</p>\n\n\n<p>No deje pasar la oportunidad de proporcionar a su pequeña el confort, estilo y durabilidad que proporcionan las merceditas para niña piel velcro en tallas del 40 al 42. ¡Adquiéralas hoy stesso!</p>\n",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "705",
+    "783",
+    "684",
+    "850",
+    "879"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 62.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-06-13 15:56:13",
+  "sourceUpdatedAt": "2026-10-27 11:09:57",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85175",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "1807051",
+      "productSku": "1807051",
+      "taxRate": 21,
+      "price": 62.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:24.078Z"
+    },
+    {
+      "id": "95829",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "1807051",
+      "productSku": "1807051",
+      "taxRate": 21,
+      "price": 62.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:27.254Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17642-15654.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15654-large_default/merceditas-nina-piel-velcro-40-al-42-azul-marino.jpg",
+      "alt": "Merceditas niña piel velcro 40 al 42 Azul Marino",
+      "sourceId": "15654",
+      "variantIds": [],
+      "sha256": "88c6afccd87aae5761fb3b6eceb2cdf729980314d121d21a8c5fb5779b24cdd0"
+    },
+    {
+      "path": "assets/17642-15655.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15655-large_default/merceditas-nina-piel-velcro-40-al-42-azul-marino.jpg",
+      "alt": "Merceditas niña piel velcro 40 al 42 Azul Marino",
+      "sourceId": "15655",
+      "variantIds": [],
+      "sha256": "d6e107595ed4223d5119730340e71265eac8804314d8dbfe8d539d35cdfc7ca3"
+    },
+    {
+      "path": "assets/17642-15656.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15656-large_default/merceditas-nina-piel-velcro-40-al-42-azul-marino.jpg",
+      "alt": "Merceditas niña piel velcro 40 al 42 Azul Marino",
+      "sourceId": "15656",
+      "variantIds": [],
+      "sha256": "0408d208feea59d2639a5449769647998bc67b30709745e6d987f1654a3d82ff"
+    },
+    {
+      "path": "assets/17642-15657.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15657-large_default/merceditas-nina-piel-velcro-40-al-42-azul-marino.jpg",
+      "alt": "Merceditas niña piel velcro 40 al 42 Azul Marino",
+      "sourceId": "15657",
+      "variantIds": [],
+      "sha256": "9171ab58f45c925c1f1459212d4dec91639e57ba71bff5ba6602ec12ebe46e6d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:27.497Z",
+  "issues": []
+}

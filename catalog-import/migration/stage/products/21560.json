@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "21560",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21560-conjunto-pelele-luna-verde.html",
+  "name": "Conjunto pelele luna Verde",
+  "brand": "Baby-Ferr",
+  "sku": "2502180",
+  "description": "Conjunto de ranita tirantes con camisa. La camisa es con cuello bebé, y se abre completamente por la espalda con botones para facilitar la puesta. La ranita vien forrada, y tiene botones en la entrepierna para facilitar también el cambio de pañal. Es un conjunto ideal para toda esta temporada. El modelo en tallas mas grandes es pantaloncito con tirantes. Dos opciones a elegir. Se venden por separado. Busca aquí los leotardo que mejor te combinen Leotardos Invierno\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nRanita:  55% poliéster, 30% viscosa, 12% nylon, 3% elastano.\n\nForro: 67% poliéster, 33% algodón.\n\nCamisa: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Ranita</strong>:  55% poliéster, 30% viscosa, 12% nylon, 3% elastano.</p>\n<p>Forro: 67% poliéster, 33% algodón.</p>\n<p><strong>Camisa</strong>: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 35.01,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-05 15:53:13",
+  "sourceUpdatedAt": "2026-10-27 11:14:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97215",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502180",
+      "productSku": "2502180",
+      "taxRate": 21,
+      "price": 35.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:59.082Z"
+    },
+    {
+      "id": "97216",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502180",
+      "productSku": "2502180",
+      "taxRate": 21,
+      "price": 35.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:59.827Z"
+    },
+    {
+      "id": "97217",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502180",
+      "productSku": "2502180",
+      "taxRate": 21,
+      "price": 35.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:00.715Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21560-20144.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20144-large_default/conjunto-pelele-luna-verde.jpg",
+      "alt": "Conjunto pelele luna Verde",
+      "sourceId": "20144",
+      "variantIds": [],
+      "sha256": "b9137c956622caab3a24169e13edfedc71efc571cc1229e42a3e371937283647"
+    },
+    {
+      "path": "assets/21560-20146.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20146-large_default/conjunto-pelele-luna-verde.jpg",
+      "alt": "Conjunto pelele luna Verde",
+      "sourceId": "20146",
+      "variantIds": [],
+      "sha256": "c0e751965accef5c55727310d6b8d561aa9f2e2cb556c60212883c860983a98b"
+    },
+    {
+      "path": "assets/21560-20150.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20150-large_default/conjunto-pelele-luna-verde.jpg",
+      "alt": "Conjunto pelele luna Verde",
+      "sourceId": "20150",
+      "variantIds": [],
+      "sha256": "fb7170d784180b6186d636d0d11b94dd6264ac9fdc9a0593d210cf5c1f29b640"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:00.907Z",
+  "issues": []
+}

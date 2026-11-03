@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "18815",
+  "sourceUrl": "https://babyhogarinfantil.com/gorros-y-bufandas-bebe-y-nina/18815-cuello-ter-granate.html",
+  "name": "Cuello Ter Granate",
+  "brand": "Calamaro",
+  "sku": "2402153",
+  "description": "Cuello braga con borreguito. Talla única.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nCuello: 86% poliéster, 10% viscosa, 4% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Cuello: 86% poliéster, 10% viscosa, 4% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Granate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "764"
+  ],
+  "sourceDefaultCategoryId": "764",
+  "sourceCategoryName": "Gorros y bufandas bebé y niña",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-09-25 23:54:24",
+  "sourceUpdatedAt": "2026-10-27 11:13:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87645",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12283XA18813",
+      "productSku": "2402153",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:47.449Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18815-17521.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17521-large_default/cuello-ter-granate.jpg",
+      "alt": "Cuello Ter Granate",
+      "sourceId": "17521",
+      "variantIds": [],
+      "sha256": "6d055d81038943f1bcf2f79ce22ea412ff8e89b9f59b94940f21db2cfadd4aa2"
+    },
+    {
+      "path": "assets/18815-17522.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17522-large_default/cuello-ter-granate.jpg",
+      "alt": "Cuello Ter Granate",
+      "sourceId": "17522",
+      "variantIds": [],
+      "sha256": "c1d609a185e6c0f9f199bb87d7d85a96d2a9b8ad66426540b61851b853ce0755"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:47.563Z",
+  "issues": []
+}

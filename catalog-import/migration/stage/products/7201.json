@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "7201",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/7201-gorro-pique-lazo-trasero-blanco.html",
+  "name": "Gorro piqué lazo trasero Blanco",
+  "brand": "Niseret",
+  "sku": "1803167",
+  "description": "Gorro de piqué con lazo de adorno en la parte trasera. Algunas tallas pueden incluir cordón. La talla es el diámetro de la cabeza.",
+  "details": "Gorro de NISERET, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De piqué con lazo en la parte trasera. Completamente forrado en el interior. Un complemento perfecto para darle el toque final a los vestidos y conjuntos de tu peque, además de protegerla del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. \n\nComposición y cuidados:\n\nGorro: 55% algodón, 45% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro de <strong style=\"margin:0px;padding:0px;\">NISERET</strong>, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De piqué con lazo en la parte trasera. <strong style=\"margin:0px;padding:0px;\">Completamente forrado</strong> en el interior. Un complemento perfecto para darle el toque final a los vestidos y conjuntos de tu peque, además de <strong style=\"margin:0px;padding:0px;\">protegerla del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. </strong></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición y cuidados:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro: 55% algodón, 45% poliéster</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><strong style=\"margin:0px;padding:0px;\">FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 15,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65244",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "1803167",
+      "productSku": "1803167",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:48.868Z"
+    },
+    {
+      "id": "65245",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "1803167",
+      "productSku": "1803167",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:51.458Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7201-10079.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10079-large_default/gorro-pique-lazo-trasero-blanco.jpg",
+      "alt": "Gorro piqué lazo trasero Blanco",
+      "sourceId": "10079",
+      "variantIds": [],
+      "sha256": "1023b8d1c5861b99fb2eef867bde17927a636874157dab91cf7d3af6ecf052d6"
+    },
+    {
+      "path": "assets/7201-10080.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10080-large_default/gorro-pique-lazo-trasero-blanco.jpg",
+      "alt": "Gorro piqué lazo trasero Blanco",
+      "sourceId": "10080",
+      "variantIds": [],
+      "sha256": "9991a6426cc5757963337e8b2e07ece56e8940874394e34d3195dbd29fd42500"
+    },
+    {
+      "path": "assets/7201-10078.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10078-large_default/gorro-pique-lazo-trasero-blanco.jpg",
+      "alt": "Gorro piqué lazo trasero Blanco",
+      "sourceId": "10078",
+      "variantIds": [],
+      "sha256": "90ecd3054894136f0e83b1481b2059c921871021153a39fc6bfff5e4c1815312"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:51.666Z",
+  "issues": []
+}

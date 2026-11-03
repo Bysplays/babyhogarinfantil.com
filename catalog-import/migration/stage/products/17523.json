@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "17523",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/17523-jegging-liso-amarillo.html",
+  "name": "Jegging liso Amarillo",
+  "brand": "Newness",
+  "sku": "2401268",
+  "description": "Añade un toque de luminosidad y alegría al guardarropa de tu pequeña con los Jegging Lisos Amarillo. Creados para brindar comodidad con estilo, se destacan por su vibrante tono amarillo que combina a la perfección con cualquier prenda. Ideal para jugar, aprender o incluso para eventos casuales, estos jegging ofrecen un estiramiento flexible para garantizar que tus pequeños estén libres para moverse sin restricciones. De la escuela al parque, asegúrate de que tu niña siga luciendo adorable y vibrante con los Jegging Lisos Amarillo. Increíblemente versátiles y siempre a la moda, ¡serán la nueva prenda favorita en su guardarropa!",
+  "details": "Fascinante Moda Amarilla\n\nDestaca entre la multitud con estos Leggins lisos amarillos. Su diseño innovador y su vibrante tonalidad amarilla los hacen ideales para crear un look moderno y audaz. Los pequeños se sentirán cómodos y a la moda al mismo tiempo, un verdadero triunfo para los padres modernos. ¡La diversión y el estilo nunca se vieron tan bien!\n\nComodidad que se Siente y se Ve\n\nEstos jeggings amarillos no solo ofrecen estilo, sino también una comodidad inigualable. Su tejido suave y elástico garantiza la libertad de movimiento, algo esencial para los pequeños aventureros. La comodidad y la apariencia nunca se apreciaron tan bien en una prenda. Es más que ropa, es una segunda piel.\n\nCalidad y Durabilidad\n\nLos padres valoran la resistencia y durabilidad en la ropa de sus niños, y estos jeggings amarillos son la elección perfecta. Fabricados con materiales de alta calidad, estos jeggings resistirán el uso diario y repetidos lavados sin perder su vibrante color amarillo. Para aquellos que valoran la calidad, este es su producto ideal.\n\n¡No esperes más! Añade estos leggins liso Amarillo a tu cesta de la compra y prepárate para ver a los pequeños deslumbrar con su vibrante estilo. ¡Haz clic aquí y no pierdas esta maravillosa oportunidad!\n\nComposición:\n\n95% Algodón\n\n5% Elastano.",
+  "sourceDescriptionHtml": "<h2>Fascinante Moda Amarilla</h2>\n<p>Destaca entre la multitud con estos Leggins lisos amarillos. Su diseño innovador y su vibrante tonalidad amarilla los hacen ideales para crear un look moderno y audaz. Los pequeños se sentirán cómodos y a la moda al mismo tiempo, un verdadero triunfo para los padres modernos. ¡La diversión y el estilo nunca se vieron tan bien!</p>\n<h2>Comodidad que se Siente y se Ve</h2>\n<p>Estos jeggings amarillos no solo ofrecen estilo, sino también una comodidad inigualable. Su tejido suave y elástico garantiza la libertad de movimiento, algo esencial para los pequeños aventureros. La comodidad y la apariencia nunca se apreciaron tan bien en una prenda. Es más que ropa, es una segunda piel.</p>\n<h2>Calidad y Durabilidad</h2>\n<p>Los padres valoran la resistencia y durabilidad en la ropa de sus niños, y estos jeggings amarillos son la elección perfecta. Fabricados con materiales de alta calidad, estos jeggings resistirán el uso diario y repetidos lavados sin perder su vibrante color amarillo. Para aquellos que valoran la calidad, este es su producto ideal.</p>\n<p>¡No esperes más! Añade estos leggins liso Amarillo a tu cesta de la compra y prepárate para ver a los pequeños deslumbrar con su vibrante estilo. ¡Haz clic aquí y no pierdas esta maravillosa oportunidad!</p>\n<p>Composición:</p>\n<p>95% Algodón</p>\n<p>5% Elastano.</p>\n<p></p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2024",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 13.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-04-20 15:54:25",
+  "sourceUpdatedAt": "2026-10-27 11:13:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84028",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2401268",
+      "productSku": "2401268",
+      "taxRate": 21,
+      "price": 13.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:46.042Z"
+    },
+    {
+      "id": "84030",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2401268",
+      "productSku": "2401268",
+      "taxRate": 21,
+      "price": 13.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:47.560Z"
+    },
+    {
+      "id": "84031",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2401268",
+      "productSku": "2401268",
+      "taxRate": 21,
+      "price": 13.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:49.014Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17523-15249.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15249-large_default/jegging-liso-amarillo.jpg",
+      "alt": "Jegging liso Amarillo",
+      "sourceId": "15249",
+      "variantIds": [],
+      "sha256": "800367994605dc095666b0005ad1814220008b95b640176612f3075af3c6a162"
+    },
+    {
+      "path": "assets/17523-15250.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15250-large_default/jegging-liso-amarillo.jpg",
+      "alt": "Jegging liso Amarillo",
+      "sourceId": "15250",
+      "variantIds": [],
+      "sha256": "3b0f41e993ebfb456072827ea543658e093894b18d6679a8939c5f6804c59027"
+    },
+    {
+      "path": "assets/17523-15251.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15251-large_default/jegging-liso-amarillo.jpg",
+      "alt": "Jegging liso Amarillo",
+      "sourceId": "15251",
+      "variantIds": [],
+      "sha256": "22cdaf13385a48c6bf4acc88e71cb64be95e12b28c19ea7c19f0aa7d36cf0f06"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:49.157Z",
+  "issues": []
+}

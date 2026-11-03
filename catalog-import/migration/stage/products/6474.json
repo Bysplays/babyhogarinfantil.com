@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "6474",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/6474-mandilon-comedor-angel-de-la-guarda-verde.html",
+  "name": "Mandilón Comedor Angel de la Guarda Verde",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1561919",
+  "description": "Mandilón para COMEDOR Ángel de la Guarda, obligatorio 3, 4 y 5 años que usen este servicio.\n\nPersonalízalo con el nombre bordado.\n\nComposición:\n\nMandilón: 65% poliéster, 35% algodón.\n\nHECHO EN GALICIA",
+  "details": "Composición:\n\nMandilón: 65% poliéster, 35% algodón.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Mandilón: 65% poliéster, 35% algodón.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "705"
+  ],
+  "sourceDefaultCategoryId": "705",
+  "sourceCategoryName": "Colegio Angel de la Guarda Nigran",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:13",
+  "sourceUpdatedAt": "2026-10-27 11:08:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 38,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63647",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "1561919",
+      "productSku": "1561919",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:43.292Z"
+    },
+    {
+      "id": "63648",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1561919",
+      "productSku": "1561919",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:45.987Z"
+    },
+    {
+      "id": "63649",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1561919",
+      "productSku": "1561919",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:48.447Z"
+    },
+    {
+      "id": "63650",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1561919",
+      "productSku": "1561919",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:50.635Z"
+    },
+    {
+      "id": "63651",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1561919",
+      "productSku": "1561919",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:53.681Z"
+    },
+    {
+      "id": "63652",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1561919",
+      "productSku": "1561919",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:56.596Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6474-4437.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4437-large_default/mandilon-comedor-angel-de-la-guarda-verde.jpg",
+      "alt": "Mandilón Comedor Angel de la Guarda Verde",
+      "sourceId": "4437",
+      "variantIds": [],
+      "sha256": "0b1c923bccc1e172bdec575648ffca6a0b50a5803ec5732c22433c48612f9a1e"
+    },
+    {
+      "path": "assets/6474-4436.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4436-large_default/mandilon-comedor-angel-de-la-guarda-verde.jpg",
+      "alt": "Mandilón Comedor Angel de la Guarda Verde",
+      "sourceId": "4436",
+      "variantIds": [],
+      "sha256": "3fb8f15724bcfeae8ecce02c1795298438500619e39301a1fe356d0c44910a32"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:56.748Z",
+  "issues": []
+}

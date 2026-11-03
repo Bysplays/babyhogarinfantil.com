@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "id": "7212",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-jesuitinas/7212-falda-escolar-cuadro-verde-trc-verde.html",
+  "name": "Falda escolar cuadro verde TRC Verde",
+  "brand": "Taracido",
+  "sku": "1805039",
+  "description": "Falda escolar cuadro verde botella. No plisada. Con tirantes hasta la talla 8. Cintura ajustable.",
+  "details": "Composición y cuidados:\n\n45% Lana\n\n55% Poliester.\n\nNO USAR SECADORA.\n\nHECHO EN UE",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>45% Lana</p>\n<p>55% Poliester.</p>\n<p>NO USAR SECADORA.</p>\n<p><strong>HECHO EN UE</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "809",
+    "759"
+  ],
+  "sourceDefaultCategoryId": "759",
+  "sourceCategoryName": "Colegio Jesuitinas",
+  "price": 49.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 24,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "313",
+          "label": "16(S)"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65299",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "5115XC8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:08.345Z"
+    },
+    {
+      "id": "145699",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "5115XA8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:11.143Z"
+    },
+    {
+      "id": "85840",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "5115XB8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:13.978Z"
+    },
+    {
+      "id": "79192",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "5115XD8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:16.396Z"
+    },
+    {
+      "id": "84172",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "5115XE8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:19.021Z"
+    },
+    {
+      "id": "145700",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "5115XF8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:21.418Z"
+    },
+    {
+      "id": "84743",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "5115XG8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:22.785Z"
+    },
+    {
+      "id": "65304",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "313",
+          "group": "Tamaño",
+          "value": "16(S)"
+        }
+      ],
+      "sku": "5115XH8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:24.358Z"
+    },
+    {
+      "id": "145701",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "5115XI8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:25.628Z"
+    },
+    {
+      "id": "65306",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "5115XJ8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 51.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:27.121Z"
+    },
+    {
+      "id": "65307",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "5115XK8861",
+      "productSku": "1805039",
+      "taxRate": 21,
+      "price": 51.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:28.613Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7212-10099.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10099-large_default/falda-escolar-cuadro-verde-trc-verde.jpg",
+      "alt": "Falda escolar cuadro verde TRC Verde",
+      "sourceId": "10099",
+      "variantIds": [],
+      "sha256": "409fa81ba859ac98a5476373a1944f5b029d70c9e5e48fb7f4dc2468de12da86"
+    },
+    {
+      "path": "assets/7212-10098.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10098-large_default/falda-escolar-cuadro-verde-trc-verde.jpg",
+      "alt": "Falda escolar cuadro verde TRC Verde",
+      "sourceId": "10098",
+      "variantIds": [],
+      "sha256": "c7d2eb4021e4cf8ab9ec146afa8832396315de712d37bd3b9112198aeb45b133"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:28.778Z",
+  "issues": []
+}

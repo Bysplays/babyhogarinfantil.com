@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16951",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/16951-sudadera-verde-con-felpa-nino-verde.html",
+  "name": "Sudadera verde con felpa niño Verde",
+  "brand": "Ellepi",
+  "sku": "2208305",
+  "description": "Descubre la sudadera verde con felpa para niño. Un básico indispensable para los pequeños aventureros. Ofrece calidez y comodidad incomparables mientras juegan, exploran y crecen. El verde vibrante da vida a su armario, refleja energía y crea memorias plenas de diversión. Perfecta para cualquier estación, une estilo y practicidad en una prenda irresistible. Diseñada para durar, es la elección perfecta para padres que buscan calidad y estilo. Acompaña sus pequeñas grandes aventuras con el mejor estilo.",
+  "details": "Viste a tu peque con estilo\n\nDescubre una prenda única que nunca deja de llamar la atención: la \"Sudadera verde con felpa para niños\". Una maravilla de algodón cálido y suave, perfecta para los días fríos. Su llamativo tono verde refleja el espíritu inquieto y alegre de los más pequeños. Una excelente opción para quienes buscan comodidad sin renunciar al estilo.\n\nComodidad y practicidad en una sola pieza\n\nEsta sudadera de algodón lleva incorporada una capa de felpa en su interior, lo que proporciona una protección extra contra el frío. La suave textura de la felpa es amable con la piel delicada de los pequeños, previniendo posibles irritaciones. El diseño de la sudadera incluye un cierre frontal completo, lo que facilita su uso y garantiza que puedan moverse con total libertad.\n\nUna inversión que vale la pena\n\nAl adquirir la \"Sudadera verde con felpa para niños\", se invierte en una prenda de alta calidad, resistente y duradera. La sudadera conserva su forma incluso después de múltiples lavados, así que está destinada a convertirse en un artículo esencial en el guardarropa de cualquier pequeño aventurero.\n\n Haz click en \"Añadir al carrito\" ahora y viste a tu pequeño con lo mejor.\n\nComposición:\n\nSudadera: 80% algodón, 20% poliéster.",
+  "sourceDescriptionHtml": "<div>\n<h2>Viste a tu peque con estilo</h2>\n<p>Descubre una prenda única que nunca deja de llamar la atención: la \"Sudadera verde con felpa para niños\". Una maravilla de algodón cálido y suave, perfecta para los días fríos. Su llamativo tono verde refleja el espíritu inquieto y alegre de los más pequeños. Una excelente opción para quienes buscan comodidad sin renunciar al estilo.</p>\n<h2>Comodidad y practicidad en una sola pieza</h2>\n<p>Esta sudadera de algodón lleva incorporada una capa de felpa en su interior, lo que proporciona una protección extra contra el frío. La suave textura de la felpa es amable con la piel delicada de los pequeños, previniendo posibles irritaciones. El diseño de la sudadera incluye un cierre frontal completo, lo que facilita su uso y garantiza que puedan moverse con total libertad.</p>\n<h2>Una inversión que vale la pena</h2>\n<p>Al adquirir la \"Sudadera verde con felpa para niños\", se invierte en una prenda de alta calidad, resistente y duradera. La sudadera conserva su forma incluso después de múltiples lavados, así que está destinada a convertirse en un artículo esencial en el guardarropa de cualquier pequeño aventurero.</p>\n<p><strong> Haz click en \"Añadir al carrito\" ahora y viste a tu pequeño con lo mejor.</strong></p>\n<p>Composición:</p>\n<p>Sudadera: 80% algodón, 20% poliéster.</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-10-23 23:52:26",
+  "sourceUpdatedAt": "2026-10-27 11:12:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "80522",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2208305",
+      "productSku": "2208305",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:39.950Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16951-14529.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14529-large_default/sudadera-verde-con-felpa-nino-verde.jpg",
+      "alt": "Sudadera verde con felpa niño Verde",
+      "sourceId": "14529",
+      "variantIds": [],
+      "sha256": "136b56a5ac25ad90e0aad45ccb7e62b0bf4d363c8764616a9cadbcdd05eb05f9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:40.000Z",
+  "issues": []
+}

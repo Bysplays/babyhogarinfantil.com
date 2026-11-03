@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "9351",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/9351-pantalon-corto-verano-nina-corazones-amarillo.html",
+  "name": "Pantalon corto verano niña corazones Amarillo",
+  "brand": "Chicco",
+  "sku": "2201042",
+  "description": "Envuelve a tu princesa con la vibrante energía del verano vistiendo estos Pantalones Cortos de Verano para Niña en Amarillo Corazones. Los elegantes corazones añaden un toque juguetón mientras el vibrante amarillo irradia alegría y optimismo. Hechos de un material suave y liviano, estos leggings shorts maximizarán su comodidad mientras juega, se relaja o explora. Su diseño versátil la hará sentir a la moda en cualquier lugar sin renunciar a su libertad de movimiento. ¡Sorprendentemente duradero y fácil de lavar, estos pantalones cortos serán la elección perfecta para mantener a tu pequeña fresca y fabulosa durante todo el verano!",
+  "details": "Frescura Veraniega\n\nEl Pantalón corto de verano para niña con corazones amarillos es un imprescindible para los días calurosos. Su tejido ligero y transpirable ofrece la máxima comodidad para que las más pequeñas disfruten del verano. Su color amarillo añade un toque de frescura y jovialidad al conjunto.\n\nModa Infantil con Encanto\n\nEste pantalón corto para niña de verano no es solo funcional, también es increíblemente estiloso. Sus pequeños corazones y vivos colores hacen que sea un favorito entre las niñas. Póntelo con una camiseta y sandalias para lograr un look de verano perfecto para todas las ocasiones.\n\nCalidad Insuperable\n\nEn nuestra tienda de ropa para bebés y niños, nos aseguramos de que cada pieza sea de la mejor calidad para que puedas comprar con confianza. Este pantalón corto para niñas es duradero y está hecho para resistir todas las aventuras del verano, garantizando que se mantenga en buenas condiciones sin importar cuántas veces se use.\n\nComposición:\n\n95% Algodón\n\n5% Elastano.\n\nAñadir a la cesta ahora y permitir que tu pequeña disfrute del verano con total confort y estilo.",
+  "sourceDescriptionHtml": "<div>\n<h2>Frescura Veraniega</h2>\n<p>El <strong>Pantalón corto de verano para niña con corazones amarillos</strong> es un imprescindible para los días calurosos. Su tejido ligero y transpirable ofrece la máxima comodidad para que las más pequeñas disfruten del verano. Su color amarillo añade un toque de frescura y jovialidad al conjunto.</p>\n<h2>Moda Infantil con Encanto</h2>\n<p>Este pantalón corto para niña de verano no es solo funcional, también es increíblemente estiloso. Sus pequeños corazones y vivos colores hacen que sea un favorito entre las niñas. Póntelo con una camiseta y sandalias para lograr un look de verano perfecto para todas las ocasiones.</p>\n<h2>Calidad Insuperable</h2>\n<p>En nuestra tienda de ropa para bebés y niños, nos aseguramos de que cada pieza sea de la mejor calidad para que puedas comprar con confianza. Este pantalón corto para niñas es duradero y está hecho para resistir todas las aventuras del verano, garantizando que se mantenga en buenas condiciones sin importar cuántas veces se use.</p>\n<p>Composición:</p>\n<p>95% Algodón</p>\n<p>5% Elastano.</p>\n<button type=\"button\">Añadir a la cesta ahora y permitir que tu pequeña disfrute del verano con total confort y estilo.</button></div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 4.5,
+  "oldPrice": 8.9903,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69045",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2201042",
+      "productSku": "2201042",
+      "taxRate": 21,
+      "price": 4.5,
+      "oldPrice": 8.9903,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:56.317Z"
+    },
+    {
+      "id": "69046",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2201042",
+      "productSku": "2201042",
+      "taxRate": 21,
+      "price": 4.5,
+      "oldPrice": 8.9903,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:58.694Z"
+    },
+    {
+      "id": "69047",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2201042",
+      "productSku": "2201042",
+      "taxRate": 21,
+      "price": 4.5,
+      "oldPrice": 8.9903,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:00.168Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9351-7595.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7595-large_default/pantalon-corto-verano-nina-corazones-amarillo.jpg",
+      "alt": "Pantalon corto verano niña corazones Amarillo",
+      "sourceId": "7595",
+      "variantIds": [],
+      "sha256": "2a49cd47fdd56e9af691e6e4792934b05edb1638a7b524437effdcf7438d9313"
+    },
+    {
+      "path": "assets/9351-12208.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12208-large_default/pantalon-corto-verano-nina-corazones-amarillo.jpg",
+      "alt": "Pantalon corto verano niña corazones Amarillo",
+      "sourceId": "12208",
+      "variantIds": [],
+      "sha256": "09085a38fd2c11fc21b5b17c43e1b67faa07bf1e6e297b804f1e90784cf0064f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:00.287Z",
+  "issues": []
+}

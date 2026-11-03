@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "17400",
+  "sourceUrl": "https://babyhogarinfantil.com/cambiadores-cojines-lactancia/17400-cojin-de-lactancia-verde.html",
+  "name": "Cojin de lactancia Verde",
+  "brand": "Gamberritos",
+  "sku": "2301009",
+  "description": "Haz que la lactancia sea una experiencia cómoda y placentera para ti y tu bebé. ¡Añade este cojín de lactancia materna verde con topitos a tu carrito ahora y disfruta de la comodidad y el estilo que ofrece!",
+  "details": "Comodidad y Apoyo para Mamá y Bebé\n\nEl cojín de lactancia materna verde con topitos está diseñado para ofrecer el máximo confort y apoyo tanto para la madre como para el bebé. Su forma ergonómica asegura una postura correcta durante la lactancia, aliviando la tensión en la espalda y los hombros. Ideal para largas sesiones de alimentación, este cojín garantiza que ambos se sientan cómodos y relajados.\n\nMateriales de Alta Calidad y Seguridad\n\nFabricado con materiales de alta calidad, este cojín de lactancia es duradero y suave al tacto. La funda de algodón 100% hipoalergénico es segura para la piel sensible del bebé, mientras que el relleno de fibra de poliéster proporciona el equilibrio perfecto entre firmeza y suavidad. Además, la funda es extraíble y lavable a máquina, facilitando su limpieza y mantenimiento.\n\nDiseño Elegante y Funcional\n\nCon un diseño elegante y funcional, este cojín de lactancia no solo es práctico, sino también estéticamente agradable. El color verde con topitos añade un toque de estilo a cualquier habitación. Este cojín es el complemento perfecto para cualquier hogar, combinando funcionalidad y diseño en un solo producto.\n\nComposición:\n\nExterior: 100% poliéster.\n\nRelleno: 100% poliéster.",
+  "sourceDescriptionHtml": "<div class=\"content user-select-text\" style=\"font-size:medium;\">\n<div class=\"ac-container ac-adaptiveCard has-image\">\n<div class=\"ac-textBlock\">\n<h3>Comodidad y Apoyo para Mamá y Bebé</h3>\n<p>El cojín de lactancia materna verde con topitos está diseñado para ofrecer el máximo confort y apoyo tanto para la madre como para el bebé. Su forma ergonómica asegura una postura correcta durante la lactancia, aliviando la tensión en la espalda y los hombros. Ideal para largas sesiones de alimentación, este cojín garantiza que ambos se sientan cómodos y relajados.</p>\n<h3>Materiales de Alta Calidad y Seguridad</h3>\n<p>Fabricado con materiales de alta calidad, este cojín de lactancia es duradero y suave al tacto. La funda de algodón 100% hipoalergénico es segura para la piel sensible del bebé, mientras que el relleno de fibra de poliéster proporciona el equilibrio perfecto entre firmeza y suavidad. Además, la funda es extraíble y lavable a máquina, facilitando su limpieza y mantenimiento.</p>\n<h3>Diseño Elegante y Funcional</h3>\n<p>Con un diseño elegante y funcional, este cojín de lactancia no solo es práctico, sino también estéticamente agradable. El color verde con topitos añade un toque de estilo a cualquier habitación. Este cojín es el complemento perfecto para cualquier hogar, combinando funcionalidad y diseño en un solo producto.</p>\n<p style=\"font-size:11px;\">Composición:</p>\n<p style=\"font-size:11px;\">Exterior: 100% poliéster.</p>\n<p style=\"font-size:11px;\">Relleno: 100% poliéster.</p>\n</div>\n</div>\n<div class=\"ad-container\"></div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "805",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "805",
+  "sourceCategoryName": "Cambiadores, cojines lactancia",
+  "price": 22,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-02-27 15:55:20",
+  "sourceUpdatedAt": "2026-10-27 11:12:14",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "148209",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10877XA18305",
+      "productSku": "2301009",
+      "taxRate": 21,
+      "price": 22,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:14.143Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17400-17311.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17311-large_default/cojin-de-lactancia-verde.jpg",
+      "alt": "Cojin de lactancia Verde",
+      "sourceId": "17311",
+      "variantIds": [],
+      "sha256": "e3a6b69a3930501804e91d4970a5f2b795879a241a62c8798b47669bfa9333c1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:14.190Z",
+  "issues": []
+}

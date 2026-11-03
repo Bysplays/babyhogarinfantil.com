@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "21500",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21500-conjunto-3-piezas-algodon-bebe-nino-azul.html",
+  "name": "Conjunto 3 piezas algodón bebe niño Azul",
+  "brand": "Babybol",
+  "sku": "2502138",
+  "description": "Conjunto de 3 piezas para bebé. Con chaqueta con cremmallera y capucha con forro estampado de perritos. Camiseta con botones automáticos en el cuello para facilitar la\n\npuesta, y pantalón con cintura de goma ajustable y bajos con elástico.",
+  "details": "Composición:\n\nChaqueta:\n\ninterior: 100% algodón.\n\nexterior: 95% algodón, 5% elastano.\n\nPantalón:  95% algodón, 5% elastano.\n\nCamiseta:  95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Chaqueta</strong>:</p>\n<p>interior: 100% algodón.</p>\n<p>exterior: 95% algodón, 5% elastano.</p>\n<p><strong>Pantalón: </strong> 95% algodón, 5% elastano.</p>\n<p><strong>Camiseta: </strong> 95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 39,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96819",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502138",
+      "productSku": "2502138",
+      "taxRate": 21,
+      "price": 39,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:01.930Z"
+    },
+    {
+      "id": "96820",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502138",
+      "productSku": "2502138",
+      "taxRate": 21,
+      "price": 39,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:02.881Z"
+    },
+    {
+      "id": "96821",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502138",
+      "productSku": "2502138",
+      "taxRate": 21,
+      "price": 39,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:04.080Z"
+    },
+    {
+      "id": "96822",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502138",
+      "productSku": "2502138",
+      "taxRate": 21,
+      "price": 39,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:05.280Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21500-20091.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20091-large_default/conjunto-3-piezas-algodon-bebe-nino-azul.jpg",
+      "alt": "Conjunto 3 piezas algodón bebe niño Azul",
+      "sourceId": "20091",
+      "variantIds": [],
+      "sha256": "2d7e4687873d3eaccc2583648946145a73e968783f34e64b621310ada96101b1"
+    },
+    {
+      "path": "assets/21500-20092.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20092-large_default/conjunto-3-piezas-algodon-bebe-nino-azul.jpg",
+      "alt": "Conjunto 3 piezas algodón bebe niño Azul",
+      "sourceId": "20092",
+      "variantIds": [],
+      "sha256": "ed2de0f5147ddd9c671125bcb316e306f7b8e06ba444cce1988746a04c122ec9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:05.432Z",
+  "issues": []
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "9760",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/9760-peto-largo-algodon-bebe-verde.html",
+  "name": "Peto largo algodón bebe Verde",
+  "brand": "Calamaro",
+  "sku": "2207004",
+  "description": "Peto largo algodón bebé Verde, el aliado perfecto en tendencia sostenible para el pequeño príncipe de la casa. Hecho de algodón suave, permite que su bebé respire y se mueva libremente. ¡El verde brillante seguramente llamará la atención! Es ideal para cualquier ocasion. Cómodo pero elegante, ¡su bebé será el centro de todas las miradas!\n\nHECHO EN ESPAÑA",
+  "details": "Confort Incomparable\nAsegura el mayor bienestar de tu pequeño con nuestro Peto Largo de Algodón para Bebé en la tonalidad más hermosa de verde. Este peto, fabricado con algodón de alta calidad, proporciona la comodidad que los más pequeños necesitan durante su crecimiento. Cada pieza se siente increíblemente suave al tacto y es perfecta para pieles sensibles.\n\nEstilo Vibrante para el Día a Día\nDeja que tu pequeño destaque con nuestra vibrante selección de Petos Largos de Algodón para Bebé. Nuestro tono de verde es perfecto para cualquier época del año, añadiendo un toque de alegría y energía a cualquier outfit. Su diseño versátil lo hace ideal tanto para ocasiones especiales como para el día a día.\n\nCuidado Fácil para Mamás Ocupadas\nSabemos que las mamás siempre están en movimiento. Por eso, nuestro Peto Largo de Algodón para Bebé está diseñado pensando en la practicidad. Es fácil de limpiar y mantener, resistente al desgaste diario y con un material que mantiene su suavidad y color intactos lavado tras lavado.\n\n¿A qué esperas? Añade ahora a tu carrito nuestro Peto Largo de Algodón para Bebé en Verde. Asegura que tu pequeño esté siempre cómodo y a la moda con el mejor de los estilos.\n\nComposición y cuidados:\n\nPantalón: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p><b>Confort Incomparable</b><br />Asegura el mayor bienestar de tu pequeño con nuestro Peto Largo de Algodón para Bebé en la tonalidad más hermosa de verde. Este peto, fabricado con algodón de alta calidad, proporciona la comodidad que los más pequeños necesitan durante su crecimiento. Cada pieza se siente increíblemente suave al tacto y es perfecta para pieles sensibles.</p>\n<p><b>Estilo Vibrante para el Día a Día</b><br />Deja que tu pequeño destaque con nuestra vibrante selección de Petos Largos de Algodón para Bebé. Nuestro tono de verde es perfecto para cualquier época del año, añadiendo un toque de alegría y energía a cualquier outfit. Su diseño versátil lo hace ideal tanto para ocasiones especiales como para el día a día.</p>\n<p><b>Cuidado Fácil para Mamás Ocupadas</b><br />Sabemos que las mamás siempre están en movimiento. Por eso, nuestro Peto Largo de Algodón para Bebé está diseñado pensando en la practicidad. Es fácil de limpiar y mantener, resistente al desgaste diario y con un material que mantiene su suavidad y color intactos lavado tras lavado.</p>\n<p>¿A qué esperas? Añade ahora a tu carrito nuestro Peto Largo de Algodón para Bebé en Verde. Asegura que tu pequeño esté siempre cómodo y a la moda con el mejor de los estilos.</p>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69928",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2207004",
+      "productSku": "2207004",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:58.660Z"
+    },
+    {
+      "id": "89484",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2207004",
+      "productSku": "2207004",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:00.046Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9760-7937.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7937-large_default/peto-largo-algodon-bebe-verde.jpg",
+      "alt": "Peto largo algodón bebe Verde",
+      "sourceId": "7937",
+      "variantIds": [],
+      "sha256": "d690f2be276ace36572a2954edd9e22822f00aafed5f9ab1efd1cda4d4f1d54c"
+    },
+    {
+      "path": "assets/9760-12690.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12690-large_default/peto-largo-algodon-bebe-verde.jpg",
+      "alt": "Peto largo algodón bebe Verde",
+      "sourceId": "12690",
+      "variantIds": [],
+      "sha256": "72385ecc35b619e663452dc43cf7a0379e65aa5640303664876e697b47c3dacb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:00.188Z",
+  "issues": []
+}

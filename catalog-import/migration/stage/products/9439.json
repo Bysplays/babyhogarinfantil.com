@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "9439",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/9439-chaqueta-punto-corta-bebe-nina-perle-azul-marino.html",
+  "name": "Chaqueta punto corta bebe niña perlé Azul Marino",
+  "brand": "Mac Ilusión",
+  "sku": "2202091",
+  "description": "Chaqueta en perlé para combinar con los vestidos. 100% Dralón Bayer antialérgico.",
+  "details": "Composición y cuidados:\n\nChaqueta: 100% acrílico Dralon Bayer.\n\nLAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO\n\nNO USAR SECADORA\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% acrílico Dralon Bayer.</p>\n<p>LAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO</p>\n<p>NO USAR SECADORA</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 9.48,
+  "oldPrice": 18.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:49",
+  "sourceUpdatedAt": "2026-10-27 11:11:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69229",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2202091",
+      "productSku": "2202091",
+      "taxRate": 21,
+      "price": 9.48,
+      "oldPrice": 18.95,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:45.549Z"
+    },
+    {
+      "id": "69230",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2202091",
+      "productSku": "2202091",
+      "taxRate": 21,
+      "price": 9.48,
+      "oldPrice": 18.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:49.239Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9439-12335.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12335-large_default/chaqueta-punto-corta-bebe-nina-perle-azul-marino.jpg",
+      "alt": "Chaqueta punto corta bebe niña perlé Azul Marino",
+      "sourceId": "12335",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    },
+    {
+      "path": "assets/9439-7674.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7674-large_default/chaqueta-punto-corta-bebe-nina-perle-azul-marino.jpg",
+      "alt": "Chaqueta punto corta bebe niña perlé Azul Marino",
+      "sourceId": "7674",
+      "variantIds": [],
+      "sha256": "72f9e4a00a3b8116555ec86e45c691da5c2f02fab38424067d31609a799b9268"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:49.383Z",
+  "issues": []
+}

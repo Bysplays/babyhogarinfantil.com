@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "id": "7600",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-verano/7600-leotardo-perle-calado-azul-marino.html",
+  "name": "Leotardo perlé calado Azul Marino",
+  "brand": "Condor",
+  "sku": "1902145",
+  "description": "Leotardo color AZUL MARINO, de perlé totalmente calado con calado de espiga. Especial para entretiempo.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los niños y niñas, para que descubra todo el mundo que le rodea. Estos totalmanete calados, en concreto, son ideales para todo tiempo, dando un toque de elegancia a tus modelitos. HECHOS EN ESPAÑA\n\n75% ALGODON 25% POLIAMIDA.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nNO PLANCHAR.",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de <strong>CONDOR</strong> son sin duda una de las prendas más funcionales para los niños y niñas, para que descubra todo el mundo que le rodea. Estos totalmanete calados, en concreto, son ideales para todo tiempo, dando un toque de elegancia a tus modelitos. <strong><span style=\"text-decoration:underline;\">HECHOS EN ESPAÑA</span></strong></p>\n<p>75% ALGODON 25% POLIAMIDA.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>NO PLANCHAR.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "676",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "676",
+  "sourceCategoryName": "Leotardos Verano",
+  "price": 12.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 12,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66010",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 12.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:31.430Z"
+    },
+    {
+      "id": "66011",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 12.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:33.527Z"
+    },
+    {
+      "id": "66012",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 12.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:35.483Z"
+    },
+    {
+      "id": "66013",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 12.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:37.375Z"
+    },
+    {
+      "id": "66014",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 12.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:39.779Z"
+    },
+    {
+      "id": "66015",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 14.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:42.052Z"
+    },
+    {
+      "id": "66016",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 14.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:44.719Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7600-5580.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5580-large_default/leotardo-perle-calado-azul-marino.jpg",
+      "alt": "Leotardo perlé calado Azul Marino",
+      "sourceId": "5580",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/7600-5579.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5579-large_default/leotardo-perle-calado-azul-marino.jpg",
+      "alt": "Leotardo perlé calado Azul Marino",
+      "sourceId": "5579",
+      "variantIds": [],
+      "sha256": "7a41228d6ec4075a59ae36026a1970126f0d21246261794661a4b33a48b01a7a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:29:48.107Z",
+  "issues": []
+}

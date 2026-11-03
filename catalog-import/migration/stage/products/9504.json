@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9504",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/9504-pantalon-corto-basico-bebe-nino-rojo.html",
+  "name": "Pantalón corto básico bebe niño Rojo",
+  "brand": "Mayoral",
+  "sku": "2202146",
+  "description": "Pantalón corto en color rojo, con cierre de botón y cintura con goma interior ajustable. Tiene trabillas para usar cinturón y bolsillos. DISPONIBLE CAMISA A JUEGO PARA COMBINAR.",
+  "details": "Pantalón corto de MAYORAL, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. En color rojo, con cierre de botón. Goma en la cintura y goma ajustable interior. Tiene trabillas para poder usar cinturón y bolsillos traseros. Una prenda cómoda, ligera, un fondo de armario atemporal para combinar con todas tus camisas y camisetas! Echa un ojito a nuestros calcetines, bodies interiores y calzado y podrás completarlo como más te guste! DISPONIBLE CAMISA A JUEGO PARA COMBINAR.\n\nComposición y cuidados:\n\nPantalón: 98% algodón, 2% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pantalón corto de <strong>MAYORAL</strong>, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. En color rojo, con cierre de botón. Goma en la cintura y<strong> goma ajustable interior</strong>. Tiene trabillas para poder usar cinturón y bolsillos traseros. Una prenda cómoda, ligera, un fondo de armario <strong>atemporal</strong> para combinar con todas tus camisas y camisetas! Echa un ojito a nuestros<strong> calcetines, bodies interiores y calzado</strong> y podrás completarlo como más te guste!<strong> DISPONIBLE CAMISA A JUEGO PARA COMBINAR.</strong></p>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 98% algodón, 2% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 6.48,
+  "oldPrice": 12.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "342",
+          "label": "6-9m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69383",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2202146",
+      "productSku": "2202146",
+      "taxRate": 21,
+      "price": 6.48,
+      "oldPrice": 12.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:46.618Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9504-12440.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12440-large_default/pantalon-corto-basico-bebe-nino-rojo.jpg",
+      "alt": "Pantalón corto básico bebe niño Rojo",
+      "sourceId": "12440",
+      "variantIds": [],
+      "sha256": "c6b4a0f5d71bd658c3d9fb1d66b6185a384d7e5fd0176b3786cae7fdfde9d722"
+    },
+    {
+      "path": "assets/9504-12441.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12441-large_default/pantalon-corto-basico-bebe-nino-rojo.jpg",
+      "alt": "Pantalón corto básico bebe niño Rojo",
+      "sourceId": "12441",
+      "variantIds": [],
+      "sha256": "189c74df50f3b9b76b45e79e8fb6d27a779523177ca9760287eb1634007c475b"
+    },
+    {
+      "path": "assets/9504-12439.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12439-large_default/pantalon-corto-basico-bebe-nino-rojo.jpg",
+      "alt": "Pantalón corto básico bebe niño Rojo",
+      "sourceId": "12439",
+      "variantIds": [],
+      "sha256": "80734686943235a92bf3f972daab4a5e2d0ebf88b0cc75339f4085bb1857dd00"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:46.770Z",
+  "issues": []
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "6029",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6029-leotardo-invierno-calado-lateral-borgona.html",
+  "name": "Leotardo INVIERNO calado lateral Borgoña",
+  "brand": "Condor",
+  "sku": "387",
+  "description": "Leotardo BORGOÑA de algodón cálido con calado en el lateral. Tallas para bebé hasta 6 años. Disponible en varios colores.",
+  "details": "Calidez y Confort Únicos\n\nEnvuelve a tus pequeños en la suave emoción de este Leotardo INVIERNO calado lateral Borgoña. Confeccionado con materiales de primera calidad, este elegante leotardo ofrece la calidez y el confort inigualable que tus niños necesitan en los fríos días de invierno. Este producto es la incorporación perfecta a su armario invernal, aportándoles elegancia y protección en una sola pieza.\n\n\nDetalle Impresionante\n\nEl calado lateral le da a este Leotardo Invierno Borgoña una distinción única. Este detalle delicado añade un toque de sofisticación y un estilo atractivo que seguramente llamará la atención de todos. Más que una prenda de vestir, es una obra de arte que transmite elegancia y estilo en cada hebra.\n\n\nColor Borgoña: Encanto Envolvente\n\nEl color Borgoña de este leotardo es absolutamente cautivador. Este tono profundo y rico agrega a la vestimenta un toque de misterio y un carácter fuerte que seguramente enamorará a todas las miradas. Su tono oscuro se contrasta maravillosamente con los colores del invierno, creando una estampa inolvidable siempre.\n\n\nEs hora de dar a tus pequeños un regalo que merecen. Adquiere el Leotardo INVIERNO calado lateral Borgoña hoy y dale a sus días de invierno la elegancia y el calor que necesitan. ¡Haz clic en el botón \\'comprar ahora\\' y embellece su invierno con este leotardo increíblemente cautivador!",
+  "sourceDescriptionHtml": "<h2>Calidez y Confort Únicos</h2>\n<p>Envuelve a tus pequeños en la suave emoción de este Leotardo INVIERNO calado lateral Borgoña. Confeccionado con materiales de primera calidad, este elegante leotardo ofrece la calidez y el confort inigualable que tus niños necesitan en los fríos días de invierno. Este producto es la incorporación perfecta a su armario invernal, aportándoles elegancia y protección en una sola pieza.</p>\n\n<h2>Detalle Impresionante</h2>\n<p>El calado lateral le da a este Leotardo Invierno Borgoña una distinción única. Este detalle delicado añade un toque de sofisticación y un estilo atractivo que seguramente llamará la atención de todos. Más que una prenda de vestir, es una obra de arte que transmite elegancia y estilo en cada hebra.</p>\n\n<h2>Color Borgoña: Encanto Envolvente</h2>\n<p>El color Borgoña de este leotardo es absolutamente cautivador. Este tono profundo y rico agrega a la vestimenta un toque de misterio y un carácter fuerte que seguramente enamorará a todas las miradas. Su tono oscuro se contrasta maravillosamente con los colores del invierno, creando una estampa inolvidable siempre.</p>\n\n<p><b>Es hora de dar a tus pequeños un regalo que merecen. Adquiere el Leotardo INVIERNO calado lateral Borgoña hoy y dale a sus días de invierno la elegancia y el calor que necesitan. ¡Haz clic en el botón \\'comprar ahora\\' y embellece su invierno con este leotardo increíblemente cautivador!</b></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Borgoña",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:07",
+  "sourceUpdatedAt": "2026-10-27 11:08:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62260",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "387",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:58.042Z"
+    },
+    {
+      "id": "62261",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "387",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:02.041Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6029-3886.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3886-large_default/leotardo-invierno-calado-lateral-borgona.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Borgoña",
+      "sourceId": "3886",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6029-9295.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9295-large_default/leotardo-invierno-calado-lateral-borgona.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Borgoña",
+      "sourceId": "9295",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6029-3885.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3885-large_default/leotardo-invierno-calado-lateral-borgona.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Borgoña",
+      "sourceId": "3885",
+      "variantIds": [],
+      "sha256": "6c96da602ef906d7bba537c3d814107f64d3a7dda6b9b120734cbcfe17553960"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:25:02.292Z",
+  "issues": []
+}

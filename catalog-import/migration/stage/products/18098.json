@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "18098",
+  "sourceUrl": "https://babyhogarinfantil.com/chandal-bebe-nina/18098-chandal-3-piezas-bebe-love-fucsia.html",
+  "name": "Chandal 3 piezas bebé Love Fucsia",
+  "brand": "Babybol",
+  "sku": "2402085",
+  "description": "Chandal 3 piezas con camiseta manga larga.",
+  "details": "Composición y cuidados:\n\nChandal: 95% algodón, 5% elastano.\n\nCamiseta: 95% algodón, 5% elastano.\n\nLAVAR A MÁQUINA (TEMPERATURA MÁXIMA 30 ºC)\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nSE PUEDE LIMPIAR EN SECO",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chandal: 95% algodón, 5% elastano.</p>\n<p>Camiseta: 95% algodón, 5% elastano.</p>\n<p>LAVAR A MÁQUINA (TEMPERATURA MÁXIMA 30 ºC)</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p>SE PUEDE LIMPIAR EN SECO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "786",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "786",
+  "sourceCategoryName": "Chandal Bebé niña",
+  "price": 35.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-01 15:54:10",
+  "sourceUpdatedAt": "2026-10-27 11:13:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "86166",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2402085",
+      "productSku": "2402085",
+      "taxRate": 21,
+      "price": 35.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:52.873Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18098-16543.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16543-large_default/chandal-3-piezas-bebe-love-fucsia.jpg",
+      "alt": "Chandal 3 piezas bebé Love Fucsia",
+      "sourceId": "16543",
+      "variantIds": [],
+      "sha256": "9529fcc25a41e331abbce6aac0360fbed2d9d8e49fe8b234202a0ce6a5091fb1"
+    },
+    {
+      "path": "assets/18098-16544.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16544-large_default/chandal-3-piezas-bebe-love-fucsia.jpg",
+      "alt": "Chandal 3 piezas bebé Love Fucsia",
+      "sourceId": "16544",
+      "variantIds": [],
+      "sha256": "56cb0cd990b9161c714297add6df9c6fbec0702860b5be58994e0e80283cd057"
+    },
+    {
+      "path": "assets/18098-16545.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16545-large_default/chandal-3-piezas-bebe-love-fucsia.jpg",
+      "alt": "Chandal 3 piezas bebé Love Fucsia",
+      "sourceId": "16545",
+      "variantIds": [],
+      "sha256": "56229fb5dd97946c95494e8efcb02104c3932e64cf95f6d94e55c6ab55946b1f"
+    },
+    {
+      "path": "assets/18098-16546.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16546-large_default/chandal-3-piezas-bebe-love-fucsia.jpg",
+      "alt": "Chandal 3 piezas bebé Love Fucsia",
+      "sourceId": "16546",
+      "variantIds": [],
+      "sha256": "3fa0ad27b9fe1047988974a4b8d6b4c615916ab70de1cd6c49e78a04450a8842"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:53.069Z",
+  "issues": []
+}

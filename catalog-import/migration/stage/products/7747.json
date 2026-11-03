@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "7747",
+  "sourceUrl": "https://babyhogarinfantil.com/interiores-nina/7747-pack-5-braguitas-zippy-varios.html",
+  "name": "Pack 5 braguitas Zippy Varios",
+  "brand": "Zippy",
+  "sku": "1904245",
+  "description": "5 Bragas surtidas de algodón.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "713"
+  ],
+  "sourceDefaultCategoryId": "713",
+  "sourceCategoryName": "Interiores niña",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66281",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "1904245",
+      "productSku": "1904245",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:03.949Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7747-5811.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5811-large_default/pack-5-braguitas-zippy-varios.jpg",
+      "alt": "Pack 5 braguitas Zippy Varios",
+      "sourceId": "5811",
+      "variantIds": [],
+      "sha256": "5caed7dd5b097fde3dd868fa4cd48c947f9290cd938b66de66a9e06e6ced18e2"
+    },
+    {
+      "path": "assets/7747-5812.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5812-large_default/pack-5-braguitas-zippy-varios.jpg",
+      "alt": "Pack 5 braguitas Zippy Varios",
+      "sourceId": "5812",
+      "variantIds": [],
+      "sha256": "14a9b666ccb2d7b42702ad4944507099cbdc22570533fd2d2d8b96a7e1d9e624"
+    },
+    {
+      "path": "assets/7747-10539.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10539-large_default/pack-5-braguitas-zippy-varios.jpg",
+      "alt": "Pack 5 braguitas Zippy Varios",
+      "sourceId": "10539",
+      "variantIds": [],
+      "sha256": "5caed7dd5b097fde3dd868fa4cd48c947f9290cd938b66de66a9e06e6ced18e2"
+    },
+    {
+      "path": "assets/7747-10540.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10540-large_default/pack-5-braguitas-zippy-varios.jpg",
+      "alt": "Pack 5 braguitas Zippy Varios",
+      "sourceId": "10540",
+      "variantIds": [],
+      "sha256": "14a9b666ccb2d7b42702ad4944507099cbdc22570533fd2d2d8b96a7e1d9e624"
+    },
+    {
+      "path": "assets/7747-5810.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5810-large_default/pack-5-braguitas-zippy-varios.jpg",
+      "alt": "Pack 5 braguitas Zippy Varios",
+      "sourceId": "5810",
+      "variantIds": [],
+      "sha256": "0ec4973994d6bb81b662206572f343f1a87cc9801923186735f254306a0f2fa5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:04.176Z",
+  "issues": []
+}

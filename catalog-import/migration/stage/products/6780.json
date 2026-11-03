@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "6780",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/6780-gorro-pique-con-ala-azul-marino.html",
+  "name": "Gorro piqué con ala Azul Marino",
+  "brand": "Niseret",
+  "sku": "1703149",
+  "description": "Gorro en piqué con forro interior. Las tallas son el diámetro de la cabeza del bebé. HECHO EN ESPAÑA",
+  "details": "Gorro de NISERET, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De piqué, completamente forrado en el interior. Un complemento perfecto para darle el toque final a los conjuntos de tu peque, además de protegerlo del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. \n\nComposición y cuidados:\n\nGorro: 55% algodón, 45% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro de <strong style=\"margin:0px;padding:0px;\">NISERET</strong>, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De piqué, <strong>c</strong><strong style=\"margin:0px;padding:0px;\">ompletamente forrado</strong> en el interior. Un complemento perfecto para darle el toque final a los conjuntos de tu peque, además de <strong style=\"margin:0px;padding:0px;\">protegerlo del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. </strong></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición y cuidados:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro: 55% algodón, 45% poliéster</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><strong style=\"margin:0px;padding:0px;\">FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 15,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "272",
+          "label": "54"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64328",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "1703149",
+      "productSku": "1703149",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:32.987Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6780-4706.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4706-large_default/gorro-pique-con-ala-azul-marino.jpg",
+      "alt": "Gorro piqué con ala Azul Marino",
+      "sourceId": "4706",
+      "variantIds": [],
+      "sha256": "72021e3f5a0588f8904d3ab71cfed6c61d597857bcf24d20427865c77ac0ea1d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:33.059Z",
+  "issues": []
+}

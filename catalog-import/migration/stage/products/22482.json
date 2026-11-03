@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "22482",
+  "sourceUrl": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/22482-bolsa-merienda-cuadros-mariquitilla-azul-celeste.html",
+  "name": "Bolsa merienda cuadros Mariquitilla Azul celeste",
+  "brand": "Santa Ana Mayor",
+  "sku": "2105038",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "704",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "704",
+  "sourceCategoryName": "Mochilas y bolsas merienda",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-09-04 15:52:40",
+  "sourceUpdatedAt": "2026-10-27 11:11:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147106",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9092XA14405",
+      "productSku": "2105038",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:26.501Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:26.501Z",
+  "issues": [
+    "No verified images"
+  ]
+}

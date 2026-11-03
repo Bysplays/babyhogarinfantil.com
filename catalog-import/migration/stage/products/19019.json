@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "19019",
+  "sourceUrl": "https://babyhogarinfantil.com/baberos/19019-pack-2-baberos-para-bordar-rosa.html",
+  "name": "Pack 2 baberos para bordar Rosa",
+  "brand": "Interbaby",
+  "sku": "2402254",
+  "description": "Pack de dos babaros de atar en algodón, con espacio para bordar en punto de cruz.\n\nUn babero con los rivetes en rosa y otro con los rivetes en gris.\n\nMedidas: 20x19 cm.",
+  "details": "Composición:\n\nBabero: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Babero: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "800",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "800",
+  "sourceCategoryName": "Baberos",
+  "price": 6.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-29 08:34:28",
+  "sourceUpdatedAt": "2026-10-27 11:13:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149258",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12384XA18939",
+      "productSku": "2402254",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:05.167Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19019-17442.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17442-large_default/pack-2-baberos-para-bordar-rosa.jpg",
+      "alt": "Pack 2 baberos para bordar Rosa",
+      "sourceId": "17442",
+      "variantIds": [],
+      "sha256": "ebf77537d2644d5a8eb91ae39657dda852ca7869e4406c3046c2d7469a9f577a"
+    },
+    {
+      "path": "assets/19019-17443.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17443-large_default/pack-2-baberos-para-bordar-rosa.jpg",
+      "alt": "Pack 2 baberos para bordar Rosa",
+      "sourceId": "17443",
+      "variantIds": [],
+      "sha256": "b2cbc052a436dd9ce7b70e808ddb8b67477ea8e3fc274652a9f8db8f53d5914a"
+    },
+    {
+      "path": "assets/19019-17444.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17444-large_default/pack-2-baberos-para-bordar-rosa.jpg",
+      "alt": "Pack 2 baberos para bordar Rosa",
+      "sourceId": "17444",
+      "variantIds": [],
+      "sha256": "1af895fd66e2d9c1db9a7093245b60e554afadf7af7bcbda6de83a49a0668f30"
+    },
+    {
+      "path": "assets/19019-17445.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17445-large_default/pack-2-baberos-para-bordar-rosa.jpg",
+      "alt": "Pack 2 baberos para bordar Rosa",
+      "sourceId": "17445",
+      "variantIds": [],
+      "sha256": "de68209bb66a4f70d0c8d4e22f11afcc40b71f17621b94ed3b612bb9e96068a6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:05.362Z",
+  "issues": []
+}

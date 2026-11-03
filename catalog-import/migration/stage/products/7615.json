@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "7615",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/7615-body-lazo-perle-blanco.html",
+  "name": "Body lazo perlé Blanco",
+  "brand": "Mac Ilusión",
+  "sku": "1902163",
+  "description": "Deja que tu pequeña se luzca con el encantador Body Lazo Perlé Blanco. Este adorable body de manga corta es un deleite para todas las princesitas modernas. ¡Hecho con amor, este diseño aporta frescura mientras le permite moverse sin restricciones! Sus perlas perlé están meticulosamente incrustadas para un brillo sutil y clásicamente elegante. Un verdadero imprescindible para una diversión elegante. ¡Perfecto para un evento especial o incluso para un adorno casual! Deleita a tu pequeña hoy.",
+  "details": "El Encanto del Color Prístino\n\nEl Body Lazo Perlé Blanco es el epítome de la pureza y la delicadeza. Su color blanco inmaculado, es simbólico de la inocencia infantil y la suavidad. Este body es perfecto para cualquier ocasión especial, además de proporcionar un comfort fresco y agradable para el día a día.\n\n\nDetalles Perlé Únicos\n\nEl delicado trabajo perlé en el lazo añade un detalle único y sofisticado al conjunto. El diseño del lazo perlé hace que el body sea una elección idónea para ocasiones especiales, trascendiendo en el aspecto sencillo de un body común. Cada puntada, cada perla, está colocada con precisión para crear una pieza de vestimenta que añade un toque de distinción al outfit de su pequeño.\n\n\nComodidad y Calidad Premium\n\nA pesar de su aspecto delicado y elegante, este Body Lazo Perlé Blanco es sinónimo de comodidad y durabilidad. La calidad superior de los materiales empleados, aseguran un ajuste y suavidad sin igual, garantizando la comodidad y el bienestar del niño a lo largo de su uso. El body es fácil de lavar y mantiene su suavidad y delicadeza, incluso después de numerosos lavados.\n\n\nEn resumen, este Body Lazo Perlé Blanco es una elección versátil, perfecta para todas las ocasiones, que aporta un toque de elegancia y sofisticación a cualquier conjunto. ¡Asegure la comodidad y el estilo de su pequeño hoy mismo!",
+  "sourceDescriptionHtml": "<h2>El Encanto del Color Prístino</h2>\n<p>El Body Lazo Perlé Blanco es el epítome de la pureza y la delicadeza. Su color blanco inmaculado, es simbólico de la inocencia infantil y la suavidad. Este body es perfecto para cualquier ocasión especial, además de proporcionar un comfort fresco y agradable para el día a día.</p>\n\n<h2>Detalles Perlé Únicos</h2>\n<p>El delicado trabajo perlé en el lazo añade un detalle único y sofisticado al conjunto. El diseño del lazo perlé hace que el body sea una elección idónea para ocasiones especiales, trascendiendo en el aspecto sencillo de un body común. Cada puntada, cada perla, está colocada con precisión para crear una pieza de vestimenta que añade un toque de distinción al outfit de su pequeño.</p>\n\n<h2>Comodidad y Calidad Premium</h2>\n<p>A pesar de su aspecto delicado y elegante, este Body Lazo Perlé Blanco es sinónimo de comodidad y durabilidad. La calidad superior de los materiales empleados, aseguran un ajuste y suavidad sin igual, garantizando la comodidad y el bienestar del niño a lo largo de su uso. El body es fácil de lavar y mantiene su suavidad y delicadeza, incluso después de numerosos lavados.</p>\n\n<p>En resumen, este Body Lazo Perlé Blanco es una elección versátil, perfecta para todas las ocasiones, que aporta un toque de elegancia y sofisticación a cualquier conjunto. ¡Asegure la comodidad y el estilo de su pequeño hoy mismo!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 17.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:14",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66051",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1902163",
+      "productSku": "1902163",
+      "taxRate": 21,
+      "price": 17.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:36.564Z"
+    },
+    {
+      "id": "66052",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1902163",
+      "productSku": "1902163",
+      "taxRate": 21,
+      "price": 17.95,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:39.201Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7615-5595.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5595-large_default/body-lazo-perle-blanco.jpg",
+      "alt": "Body lazo perlé Blanco",
+      "sourceId": "5595",
+      "variantIds": [],
+      "sha256": "6186d0bb803631b0e397c17cf345ffdd5241e7a7e9862c5862fb34373dda5720"
+    },
+    {
+      "path": "assets/7615-5596.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5596-large_default/body-lazo-perle-blanco.jpg",
+      "alt": "Body lazo perlé Blanco",
+      "sourceId": "5596",
+      "variantIds": [],
+      "sha256": "f573e003f128e22be90ab77a0f49ae2b69133fc43b9bdf6378fe01a34b1c4760"
+    },
+    {
+      "path": "assets/7615-5594.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5594-large_default/body-lazo-perle-blanco.jpg",
+      "alt": "Body lazo perlé Blanco",
+      "sourceId": "5594",
+      "variantIds": [],
+      "sha256": "4ef9b90ff32d527b53f7efd2cb283457624ed10213026895f91fd24c9a27287b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:39.440Z",
+  "issues": []
+}

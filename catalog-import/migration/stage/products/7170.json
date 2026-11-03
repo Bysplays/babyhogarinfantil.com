@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "7170",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-pom-pom/7170-calcetin-alto-perle-con-borlas-azul-marino.html",
+  "name": "Calcetín alto perlé con borlas Azul marino",
+  "brand": "Condor",
+  "sku": "1803052",
+  "description": "Calcetines altos en AZUL MARINO para bebé fabricados en 100% algodón perlé, con pom-pom a tono.",
+  "details": "Composici&oacute;n:\n\r\n100% ALGODON",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n:</p>\r\n<p>100% ALGODON</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "686",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "686",
+  "sourceCategoryName": "Calcetines con pom-pom",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 26,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65172",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:27.101Z"
+    },
+    {
+      "id": "65173",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:29.854Z"
+    },
+    {
+      "id": "65174",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:32.775Z"
+    },
+    {
+      "id": "65175",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:35.196Z"
+    },
+    {
+      "id": "65176",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:38.380Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7170-5138.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5138-large_default/calcetin-alto-perle-con-borlas-azul-marino.jpg",
+      "alt": "Calcetín alto perlé con borlas Azul marino",
+      "sourceId": "5138",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/7170-10061.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10061-large_default/calcetin-alto-perle-con-borlas-azul-marino.jpg",
+      "alt": "Calcetín alto perlé con borlas Azul marino",
+      "sourceId": "10061",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/7170-5139.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5139-large_default/calcetin-alto-perle-con-borlas-azul-marino.jpg",
+      "alt": "Calcetín alto perlé con borlas Azul marino",
+      "sourceId": "5139",
+      "variantIds": [],
+      "sha256": "eb14780f385d00e0d4ebb9a634792e217f2f697cd3d89c6ae350fc5515ff307f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:38.666Z",
+  "issues": []
+}

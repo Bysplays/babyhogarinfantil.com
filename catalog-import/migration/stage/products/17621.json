@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "17621",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/17621-lazo-mediano-nudo-con-coletero-negro.html",
+  "name": "Lazo mediano nudo con coletero Negro",
+  "brand": "Siena",
+  "sku": "2301385",
+  "description": "Lazo mediano de 7 x 5 cm. aprox. con nudo grosgrain sobre goma coletero a tono.\n\nHECHO A MANO.\n\n\n\nHECHO EN ESPAÑA.",
+  "details": "Elegancia intemporal\n\nEl Lazo mediano nudo con coletero Negro es el accesorio perfecto para cualquier colección de ropa para niñas. Su diseño clásico y elegante jamás pasa de moda, y su color negro aporta un toque sofisticado a cualquier atuendo de tu pequeña. Ideal para añadir un detalle final a un peinado para una ocasión especial o para su día a día.\n\nComodidad Segura\n\nHecho con materiales de alta calidad, este lazo es duradero y resistente. Su coletero garantiza un ajuste seguro, para que incluso durante las jornadas de juego más intensas, el pelo de tu pequeña se mantenga elegante. El diseño de nudo fuerte y suave evita que se desarme, asegurando que tu niña se sienta confortable en todo momento.\n\nPerfecto Para Cualquier Ocasión\n\nDa igual si se trata de un día escolar, una fiesta de cumpleaños o un evento especial, el lazo mediano con coletero ofrece una versatilidad estilística sin igual. Combinado con su vestido favorito o su conjunto casual de jeans y camiseta, este accesorio es la elección perfecta para cualquier ocasión.\n\nAdquiere el Lazo mediano nudo con coletero Negro, y agrega un toque de elegancia intemporal al armario de tu pequeña. Convierte cada día en una ocasión especial con este accesorio esencial. ¡No esperes más, haz clic para comprar ahora!",
+  "sourceDescriptionHtml": "<h2>Elegancia intemporal</h2>\n<p>El Lazo mediano nudo con coletero Negro es el accesorio perfecto para cualquier colección de ropa para niñas. Su diseño clásico y elegante jamás pasa de moda, y su color negro aporta un toque sofisticado a cualquier atuendo de tu pequeña. Ideal para añadir un detalle final a un peinado para una ocasión especial o para su día a día.</p>\n<h2>Comodidad Segura</h2>\n<p>Hecho con materiales de alta calidad, este lazo es duradero y resistente. Su coletero garantiza un ajuste seguro, para que incluso durante las jornadas de juego más intensas, el pelo de tu pequeña se mantenga elegante. El diseño de nudo fuerte y suave evita que se desarme, asegurando que tu niña se sienta confortable en todo momento.</p>\n<h2>Perfecto Para Cualquier Ocasión</h2>\n<p>Da igual si se trata de un día escolar, una fiesta de cumpleaños o un evento especial, el lazo mediano con coletero ofrece una versatilidad estilística sin igual. Combinado con su vestido favorito o su conjunto casual de jeans y camiseta, este accesorio es la elección perfecta para cualquier ocasión.</p>\n<p>Adquiere el Lazo mediano nudo con coletero Negro, y agrega un toque de elegancia intemporal al armario de tu pequeña. Convierte cada día en una ocasión especial con este accesorio esencial. ¡No esperes más, haz clic para comprar ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-06-07 23:56:49",
+  "sourceUpdatedAt": "2026-10-27 11:12:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84939",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11254XA18583",
+      "productSku": "2301385",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:06.164Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17621-15693.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15693-large_default/lazo-mediano-nudo-con-coletero-negro.jpg",
+      "alt": "Lazo mediano nudo con coletero Negro",
+      "sourceId": "15693",
+      "variantIds": [],
+      "sha256": "d4bfa157d8495d78f387d12258784ab83d839d40c39cdf41d6178e04484a9b1c"
+    },
+    {
+      "path": "assets/17621-15694.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15694-large_default/lazo-mediano-nudo-con-coletero-negro.jpg",
+      "alt": "Lazo mediano nudo con coletero Negro",
+      "sourceId": "15694",
+      "variantIds": [],
+      "sha256": "7c1a05378b378f54977ed2cc8a1a4b8277d276fdb7aa660168f040e5821a6b3c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:06.300Z",
+  "issues": []
+}

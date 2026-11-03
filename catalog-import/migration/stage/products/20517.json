@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "20517",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/20517-conjunto-peto-algodon-con-camiseta-vison.html",
+  "name": "Conjunto peto algodón con camiseta Visón",
+  "brand": "Babybol",
+  "sku": "2502086",
+  "description": "",
+  "details": "Composición: \n\n Camiseta 95% algodón, 5% elastano.\n\nPeto 100% Algodón\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p> Camiseta 95% algodón, 5% elastano.</p>\n<p>Peto 100% Algodón</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Vison",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 25,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95086",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502086",
+      "productSku": "2502086",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:08.163Z"
+    },
+    {
+      "id": "95088",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502086",
+      "productSku": "2502086",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:09.294Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20517-19303.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19303-large_default/conjunto-peto-algodon-con-camiseta-vison.jpg",
+      "alt": "Conjunto peto algodón con camiseta Visón",
+      "sourceId": "19303",
+      "variantIds": [],
+      "sha256": "41d82348368430eace98b566ad29487cf1b3d7cd1fedc8160595ad60aac0752e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:09.361Z",
+  "issues": []
+}

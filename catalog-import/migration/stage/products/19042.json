@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "19042",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/19042-diadema-lazo-grosgrain-rosa.html",
+  "name": "Diadema lazo grosgrain Rosa",
+  "brand": "Siena",
+  "sku": "2402266",
+  "description": "Diadema con lazo grande rosa.\n\nEl lazo mide 8,5 x 8,5 cm. aproximadamente. Sobre una diadema de 1 cm. de ancho aprimadamente.\n\nLa diedema está forrada a tono con el lazo.\n\nHECHO EN ESPAÑA",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-29 08:34:28",
+  "sourceUpdatedAt": "2026-10-27 11:13:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88383",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12396XA18962",
+      "productSku": "2402266",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:09.308Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19042-17647.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17647-large_default/diadema-lazo-grosgrain-rosa.jpg",
+      "alt": "Diadema lazo grosgrain Rosa",
+      "sourceId": "17647",
+      "variantIds": [],
+      "sha256": "ff54f2dcfacca5bd02b3e6d5013da3c6a1b8bf630d848bd1486a8b2511a95f26"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:09.382Z",
+  "issues": []
+}

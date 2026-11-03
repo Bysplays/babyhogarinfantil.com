@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "20481",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/20481-leggin-felpa-nina-camel.html",
+  "name": "Leggin felpa niña Camel",
+  "brand": "Mayoral",
+  "sku": "2502052",
+  "description": "Leggin para niña, con cintura elástica.",
+  "details": "Composición:\n\n92% Algodón\n\n8% Elastano",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>92% Algodón</p>\n<p>8% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94874",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502052",
+      "productSku": "2502052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:37.137Z"
+    },
+    {
+      "id": "94875",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502052",
+      "productSku": "2502052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:38.454Z"
+    },
+    {
+      "id": "94878",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502052",
+      "productSku": "2502052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:40.647Z"
+    },
+    {
+      "id": "94879",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502052",
+      "productSku": "2502052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:42.647Z"
+    },
+    {
+      "id": "94880",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502052",
+      "productSku": "2502052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:44.106Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20481-19835.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19835-large_default/leggin-felpa-nina-camel.jpg",
+      "alt": "Leggin felpa niña Camel",
+      "sourceId": "19835",
+      "variantIds": [],
+      "sha256": "c3da6be09993a6fe0f16b55c8d761c21dea95f64127d3ffafcaee3aea7266b5e"
+    },
+    {
+      "path": "assets/20481-19836.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19836-large_default/leggin-felpa-nina-camel.jpg",
+      "alt": "Leggin felpa niña Camel",
+      "sourceId": "19836",
+      "variantIds": [],
+      "sha256": "a443ee3d3cbaf7c926b9edf775c13ee93b0c12f613591985bbde76252fa88822"
+    },
+    {
+      "path": "assets/20481-19837.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19837-large_default/leggin-felpa-nina-camel.jpg",
+      "alt": "Leggin felpa niña Camel",
+      "sourceId": "19837",
+      "variantIds": [],
+      "sha256": "5c5790c9181335030e355926cc55533566b19fd91e9d4678bd69c11e2c18eba9"
+    },
+    {
+      "path": "assets/20481-19838.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19838-large_default/leggin-felpa-nina-camel.jpg",
+      "alt": "Leggin felpa niña Camel",
+      "sourceId": "19838",
+      "variantIds": [],
+      "sha256": "3e66fee23b6338126b22ae19b4ad1da7ff0c66cf761edfe3fcfcdfd1cb591dd2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:44.343Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16149",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16149-clip-velcro-lacito-fruncido-blanco.html",
+  "name": "Clip velcro lacito fruncido Blanco",
+  "brand": "Siena",
+  "sku": "2104154",
+  "description": "Clip velcro lacito fruncido mini. Para el fino pele de la peque.\n\nLazo de 3 x 1.8 cm aproximadamente.\n\nHECHO EN ESPAÑA",
+  "details": "```html\n\n\n Destaca su Inocencia y Belleza\n\n La sofisticada simplicidad del Clip Velcro Lacito Fruncido Blanco hará que tu pequeña luzca encantadora e inocente. Hecho con telas de alta calidad, es delicado al tacto, agradable a la vista y duradero para resistir el ajetreo diario de los niños.\n\n\n Perfecto para Cada Ocasión\n\n Ya sea una fiesta de cumpleaños, una reunión familiar, o simplemente un día de paseo, el Clip Velcro Lacito Fruncido Blanco es un accesorio polivalente. Aportará un toque sofisticado y tierno a cualquier conjunto, transformando a tu pequeña en la reina del evento.\n\n\n Diseño Ergonómico y Fácil de Usar\n\n Con su diseño de velcro, el Clip Velcro Lacito Fruncido Blanco es fácil de colocar y quitar. No importa si tu niña tiene el pelo rizado, liso, largo o corto, este clip se mantendrá firme sin causar incomodidad ni enredos.\n\n\n Compra Ahora!\n\n ¡No esperes más y haz brillar a tu niña! Añade el Clip Velcro Lacito Fruncido Blanco a tu carrito de compras para brindarle a tu pequeña un accesorio imprescindible en su colección. Haz clic en el botón de compra ahora!\n\n\n\n```",
+  "sourceDescriptionHtml": "<p>```html\n</p><div class=\"product-description\">\n <h2>Destaca su Inocencia y Belleza</h2>\n <p>La sofisticada simplicidad del <strong>Clip Velcro Lacito Fruncido Blanco</strong> hará que tu pequeña luzca encantadora e inocente. Hecho con telas de alta calidad, es delicado al tacto, agradable a la vista y duradero para resistir el ajetreo diario de los niños.</p>\n\n <h2>Perfecto para Cada Ocasión</h2>\n <p>Ya sea una fiesta de cumpleaños, una reunión familiar, o simplemente un día de paseo, el <em>Clip Velcro Lacito Fruncido Blanco</em> es un accesorio polivalente. Aportará un toque sofisticado y tierno a cualquier conjunto, transformando a tu pequeña en la reina del evento.</p>\n\n <h2>Diseño Ergonómico y Fácil de Usar</h2>\n <p>Con su diseño de velcro, el Clip Velcro Lacito Fruncido Blanco es fácil de colocar y quitar. No importa si tu niña tiene el pelo rizado, liso, largo o corto, este clip se mantendrá firme sin causar incomodidad ni enredos.</p>\n\n <h4>Compra Ahora!</h4>\n <p><strong>¡No esperes más y haz brillar a tu niña!</strong> Añade el Clip Velcro Lacito Fruncido Blanco a tu carrito de compras para brindarle a tu pequeña un accesorio imprescindible en su colección. Haz clic en el botón de compra ahora!</p>\n</div>\n```",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 1.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:21",
+  "sourceUpdatedAt": "2026-10-27 11:11:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147073",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9033XA14300",
+      "productSku": "2104154",
+      "taxRate": 21,
+      "price": 1.98,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:10.785Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16149-15729.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15729-large_default/clip-velcro-lacito-fruncido-blanco.jpg",
+      "alt": "Clip velcro lacito fruncido Blanco",
+      "sourceId": "15729",
+      "variantIds": [],
+      "sha256": "b51b7c073dc2ea266af790603fe43434698606ef51ef5e46a9d2dc950142ae4a"
+    },
+    {
+      "path": "assets/16149-15730.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15730-large_default/clip-velcro-lacito-fruncido-blanco.jpg",
+      "alt": "Clip velcro lacito fruncido Blanco",
+      "sourceId": "15730",
+      "variantIds": [],
+      "sha256": "092aa96c4dfa32e243b50b2d3135cfbca974d1bb13869279f3077b62c65d3470"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:10.945Z",
+  "issues": []
+}

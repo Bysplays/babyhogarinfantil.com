@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7857",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/7857-chaqueta-alamar-arena.html",
+  "name": "Chaqueta Alamar Arena",
+  "brand": "Pecesa",
+  "sku": "1907170",
+  "description": "La Chaqueta Alamar Arena es esencial para el guardarropa del pequeño explorador en su vida. Suave como la brisa marina y abrigadora como el sol, es perfecta para los paseos otonales y las excursiones primaverales. Cada detalle está pensado en sus pequeñas aventuras, con puños elásticos y un cierre fácil para sus manitas. Hecha para crecer con ellos, combina con todas sus prendas, asegurando un estilo impecable. Es más que una chaqueta, es la promesa de memorias inolvidables y risas que llenarán sus días. Podrán explorar el mundo sabiendo que están cubiertos con amor y cuidado. ¡La Chaqueta Alamar Arena nunca puede faltar en su armario!",
+  "details": "Encanto Estacional Único \n\n Sumérgete en la comodidad refinada y sofisticada con la Chaqueta Alamar Arena. Esta prenda lujosa agrega un toque de elegancia a cualquier armario de niño, haciéndola una necesidad para los meses más fríos. Con su suave textura y tonos tierra cálidos, su pequeño estará envuelto en un manto de comodidad y estilo. \n\n\n Diseño Confortable y Elegante \n\n Con su diseño contemporáneo y suaves materiales, la Chaqueta Alamar Arena da un nuevo significado al confort y elegancia en ropa de niños. Su corte favorecedor, acabados de alta calidad y atención al detalle prometen elevar cada atuendo. La elección perfecta para los días más fríos, protege mientras añade un toque de sofisticación a su estilo. \n\n\n Versátil y a la Moda \n\n La Chaqueta Alamar Arena se puede combinar sin problemas con el guardarropa existente de su hijo, brindándole la flexibilidad de mezclar y combinar con facilidad. Esta prenda versátil es igual de cómoda para una excursión al aire libre en un día fresco como para un evento especial. Un toque de lujo y un estilo práctico hacen de este artículo una adición valiosa a cualquier guardarropa de niños. \n\n\n ¡No esperes más! Haz que tu pequeño destaque en la multitud y se enfrente a la temporada con confianza y estilo. Adquiere hoy mismo la Chaqueta Alamar Arena y da un paso adelante en la moda de niños.",
+  "sourceDescriptionHtml": "<h2> Encanto Estacional Único </h2>\n<p> Sumérgete en la comodidad refinada y sofisticada con la Chaqueta Alamar Arena. Esta prenda lujosa agrega un toque de elegancia a cualquier armario de niño, haciéndola una necesidad para los meses más fríos. Con su suave textura y tonos tierra cálidos, su pequeño estará envuelto en un manto de comodidad y estilo. </p>\n\n<h2> Diseño Confortable y Elegante </h2>\n<p> Con su diseño contemporáneo y suaves materiales, la Chaqueta Alamar Arena da un nuevo significado al confort y elegancia en ropa de niños. Su corte favorecedor, acabados de alta calidad y atención al detalle prometen elevar cada atuendo. La elección perfecta para los días más fríos, protege mientras añade un toque de sofisticación a su estilo. </p>\n\n<h2> Versátil y a la Moda </h2>\n<p> La Chaqueta Alamar Arena se puede combinar sin problemas con el guardarropa existente de su hijo, brindándole la flexibilidad de mezclar y combinar con facilidad. Esta prenda versátil es igual de cómoda para una excursión al aire libre en un día fresco como para un evento especial. Un toque de lujo y un estilo práctico hacen de este artículo una adición valiosa a cualquier guardarropa de niños. </p>\n\n<p> ¡No esperes más! Haz que tu pequeño destaque en la multitud y se enfrente a la temporada con confianza y estilo. Adquiere hoy mismo la Chaqueta Alamar Arena y da un paso adelante en la moda de niños. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Arena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 22.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:29",
+  "sourceUpdatedAt": "2026-10-27 11:10:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66532",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1907170",
+      "productSku": "1907170",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:04.784Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7857-5958.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5958-large_default/chaqueta-alamar-arena.jpg",
+      "alt": "Chaqueta Alamar Arena",
+      "sourceId": "5958",
+      "variantIds": [],
+      "sha256": "a3dd702114989beb7b8a0bca407832bd0a302ea0548115d56117750b1711868f"
+    },
+    {
+      "path": "assets/7857-5957.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5957-large_default/chaqueta-alamar-arena.jpg",
+      "alt": "Chaqueta Alamar Arena",
+      "sourceId": "5957",
+      "variantIds": [],
+      "sha256": "aef05a2800ebabc2438ebe2abecbe08cc2939c48e777b18626c5e4f50a17d6e2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:04.945Z",
+  "issues": []
+}

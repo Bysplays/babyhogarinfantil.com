@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "21491",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nina/21491-conjunto-algodon-con-felpa-gris.html",
+  "name": "Conjunto algodón con felpa Gris",
+  "brand": "Yatsi",
+  "sku": "2502129",
+  "description": "Conjunto de jersey con cuello redondo y felpa interior para que se cálido, estampado de manzanas.  Leggin elástico de canutillo verde.",
+  "details": "Composición: \n\nJersey: 70% algodón, 20% poliéster, 5% viscosa, 5% elastano.\n\nLeggin: 95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p>Jersey: 70% algodón, 20% poliéster, 5% viscosa, 5% elastano.</p>\n<p>Leggin: 95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "755",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "755",
+  "sourceCategoryName": "Conjuntos Niña",
+  "price": 32,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96781",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502129",
+      "productSku": "2502129",
+      "taxRate": 21,
+      "price": 32,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:23.041Z"
+    },
+    {
+      "id": "96782",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502129",
+      "productSku": "2502129",
+      "taxRate": 21,
+      "price": 32,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:25.293Z"
+    },
+    {
+      "id": "96783",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502129",
+      "productSku": "2502129",
+      "taxRate": 21,
+      "price": 32,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:27.338Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21491-20053.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20053-large_default/conjunto-algodon-con-felpa-gris.jpg",
+      "alt": "Conjunto algodón con felpa Gris",
+      "sourceId": "20053",
+      "variantIds": [],
+      "sha256": "55e58d7d6cc5fd592fbedd22c81cf26359ab156ee69737c4bb66aaa4be20e984"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:27.384Z",
+  "issues": []
+}

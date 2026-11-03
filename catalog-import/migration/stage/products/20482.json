@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "20482",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/20482-leggin-felpa-nina-petroleo.html",
+  "name": "Leggin felpa niña Petroleo",
+  "brand": "Mayoral",
+  "sku": "2502052",
+  "description": "Leggin para niña, con cintura elástica.",
+  "details": "Composición:\n\n92% Algodón\n\n8% Elastano",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>92% Algodón</p>\n<p>8% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Petroleo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94881",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502052",
+      "productSku": "2502052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:38.858Z"
+    },
+    {
+      "id": "94885",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502052",
+      "productSku": "2502052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:41.065Z"
+    },
+    {
+      "id": "94886",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502052",
+      "productSku": "2502052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:42.846Z"
+    },
+    {
+      "id": "94887",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502052",
+      "productSku": "2502052",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:44.437Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20482-19839.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19839-large_default/leggin-felpa-nina-petroleo.jpg",
+      "alt": "Leggin felpa niña Petroleo",
+      "sourceId": "19839",
+      "variantIds": [],
+      "sha256": "0927af91947d395839761feac9b38d8bae8bd31cc2c9c38447ffe7491010b932"
+    },
+    {
+      "path": "assets/20482-19840.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19840-large_default/leggin-felpa-nina-petroleo.jpg",
+      "alt": "Leggin felpa niña Petroleo",
+      "sourceId": "19840",
+      "variantIds": [],
+      "sha256": "e9b94ad5f8bf796f74eb124aef9cfe2adbf1100cd4838ee6eba37de2d6fc7930"
+    },
+    {
+      "path": "assets/20482-19841.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19841-large_default/leggin-felpa-nina-petroleo.jpg",
+      "alt": "Leggin felpa niña Petroleo",
+      "sourceId": "19841",
+      "variantIds": [],
+      "sha256": "854677c8269d5906e8ec5299202e589bb0d8f4d84f41a91ccdb7eb0f37ee4770"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:44.636Z",
+  "issues": []
+}

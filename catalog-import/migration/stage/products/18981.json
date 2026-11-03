@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "18981",
+  "sourceUrl": "https://babyhogarinfantil.com/primera-puesta-bebe/18981-gorrito-algodon-primera-puesta-blanco.html",
+  "name": "Gorrito algodón primera puesta Blanco",
+  "brand": "Calamaro",
+  "sku": "2402224",
+  "description": "¡Experimenta la alegría pura del primer atuendo de tu pequeño con el Gorrito de algodón primera puesta en elegante blanco! Diseñado para proporcionar comodidad y suavidad sin igual, se convierte en la elección perfecta para la delicada piel de tu bebé. Este gorrito, creado para los primeros días preciosos de tamaño 0 a 3, representa un abrazo tierno y cálido para los primeros días de tu bebé. Úsalo para añadir un toque de ternura a cada momento y hacer que cada instantánea sea inolvidable. ¡Un regalo amado que se celebrará siempre!",
+  "details": "Calidad Incomparable\n\nEncuentra la suavidad que el bebé necesita al nacer, con el Gorrito algodón primera puesta Blanco. Hecho con fibras de algodón 100% natural, este gorro brinda una protección segura y delicada para la sensible piel del recién nacido. Perfecto para el clima frío o para mantener a tu pequeño acogedor mientras duermen.\n\nPerfecto para los Primeros Días\n\nLos primeros días de un recién nacido son fundamentales, y nada mejor que protegerlos con el Gorrito algodón primera puesta Blanco. Con un ajuste totalmente cómodo y seguro, este gorro mantendrá a tu bebé caliente y a gusto, sin causar molestias ni interrupciones a sus dulces sueños.\n\nEstilo y Confort para tu Pequeño\n\nEl Gorrito algodón primera puesta Blanco no solo mantiene a tu bebé cómodo y cálido, sino que también añade un toque de estilo. Con su diseño sencillo y color versátil, este gorrito será el complemento perfecto para cualquier conjunto de ropa de tu bebé.\n\nDescubre hoy la diferencia de la comodidad y versatilidad que ofrece el Gorrito algodón primera puesta Blanco. No esperes más, tu pequeño se merece lo mejor. ¡Añádelo a tu carrito de compras ahora!",
+  "sourceDescriptionHtml": "<h2>Calidad Incomparable</h2>\n<p>Encuentra la suavidad que el bebé necesita al nacer, con el Gorrito algodón primera puesta Blanco. Hecho con fibras de algodón 100% natural, este gorro brinda una protección segura y delicada para la sensible piel del recién nacido. Perfecto para el clima frío o para mantener a tu pequeño acogedor mientras duermen.</p>\n<h2>Perfecto para los Primeros Días</h2>\n<p>Los primeros días de un recién nacido son fundamentales, y nada mejor que protegerlos con el Gorrito algodón primera puesta Blanco. Con un ajuste totalmente cómodo y seguro, este gorro mantendrá a tu bebé caliente y a gusto, sin causar molestias ni interrupciones a sus dulces sueños.</p>\n<h2>Estilo y Confort para tu Pequeño</h2>\n<p>El Gorrito algodón primera puesta Blanco no solo mantiene a tu bebé cómodo y cálido, sino que también añade un toque de estilo. Con su diseño sencillo y color versátil, este gorrito será el complemento perfecto para cualquier conjunto de ropa de tu bebé.</p>\n<p>Descubre hoy la diferencia de la comodidad y versatilidad que ofrece el Gorrito algodón primera puesta Blanco. No esperes más, tu pequeño se merece lo mejor. ¡Añádelo a tu carrito de compras ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "792",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "792",
+  "sourceCategoryName": "Primera puesta 0 a 3 meses",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-22 15:54:34",
+  "sourceUpdatedAt": "2026-10-27 11:13:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92211",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2402224",
+      "productSku": "2402224",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:50.798Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18981-18255.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18255-large_default/gorrito-algodon-primera-puesta-blanco.jpg",
+      "alt": "Gorrito algodón primera puesta Blanco",
+      "sourceId": "18255",
+      "variantIds": [],
+      "sha256": "d3890ded09230277f2cabd4639a1d47f86e9174a3911f2e27e9db2c592131942"
+    },
+    {
+      "path": "assets/18981-18256.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18256-large_default/gorrito-algodon-primera-puesta-blanco.jpg",
+      "alt": "Gorrito algodón primera puesta Blanco",
+      "sourceId": "18256",
+      "variantIds": [],
+      "sha256": "e5da9b0c80ecccc240eddc06cf0a2e4cd2fee459b9600d2e6cf95a302212914e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:50.951Z",
+  "issues": []
+}

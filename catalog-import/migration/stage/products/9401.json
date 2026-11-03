@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9401",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/9401-pepeitos-bebe-nino-tostado.html",
+  "name": "Pepeitos bebe niño Tostado",
+  "brand": "Mayoral",
+  "sku": "2202037",
+  "description": "Pepito para bebé, en color tostado con detalles perforados. Cierre con velcro ajustable. Con suela blanda. Forro 100% ALGODÓN.",
+  "details": "Pepito para bebé de MAYORAL, una de nuestras firmas preferidas! En color tostado con detalles perforados. Cierre con velcro ajustable. Con suela blanda. Completamente forrado 100% ALGODÓN. Un complemento cómodo, de gran ligereza y confort. El detalle perfecto para ultimar todos tus conjuntos!\n\nComposición y cuidados:\n\nCorte y empeine: 100% poliuretano\n\nForro y plantilla: 100% algodón\n\nSuela: 100% poliuretano\n\nNO LAVAR \n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Pepito para bebé de <strong style=\"margin:0px;padding:0px;\">MAYORAL</strong>, una de nuestras firmas preferidas! En color tostado con detalles perforados. Cierre con velcro ajustable. Con suela blanda. <strong style=\"margin:0px;padding:0px;\">Completamente forrado 100% ALGODÓN</strong>. Un complemento cómodo, de gran ligereza y confort. El detalle perfecto para ultimar todos tus conjuntos!</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición y cuidados:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Corte y empeine: 100% poliuretano</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Forro y plantilla: 100% algodón</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Suela: 100% poliuretano</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO LAVAR </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO PLANCHAR</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Tostado",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 13.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:49",
+  "sourceUpdatedAt": "2026-10-27 11:11:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "256",
+          "label": "15"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69162",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "2202037",
+      "productSku": "2202037",
+      "taxRate": 21,
+      "price": 13.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:08.912Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9401-12278.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12278-large_default/pepeitos-bebe-nino-tostado.jpg",
+      "alt": "Pepeitos bebe niño Tostado",
+      "sourceId": "12278",
+      "variantIds": [],
+      "sha256": "4e680d5efd250d44da5b66ff061e4cdd78dcc2fb999410c13efecd371f205352"
+    },
+    {
+      "path": "assets/9401-12279.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12279-large_default/pepeitos-bebe-nino-tostado.jpg",
+      "alt": "Pepeitos bebe niño Tostado",
+      "sourceId": "12279",
+      "variantIds": [],
+      "sha256": "6bb8eeaf10fe2dba0d03900c9e2957590cb458c453f1d9fed0de412e1b52b78a"
+    },
+    {
+      "path": "assets/9401-12277.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12277-large_default/pepeitos-bebe-nino-tostado.jpg",
+      "alt": "Pepeitos bebe niño Tostado",
+      "sourceId": "12277",
+      "variantIds": [],
+      "sha256": "215192b398ed1d7ef782cbac72f04bfb3f53d647e828a8a99a429f5dd4694970"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:09.091Z",
+  "issues": []
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "16838",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/16838-pantalon-punto-berlin-gris.html",
+  "name": "Pantalón punto BERLIN Gris",
+  "brand": "Calamaro",
+  "sku": "2307051",
+  "description": "Pantalón de punto para combinar. Dispones de sudadera a juego.\n\nHECHO EN ESPAÑA",
+  "details": "Composición y cuidados:\n\nShort: 100% algodón.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Short: 100% algodón.</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-09-21 15:53:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "79550",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2307051",
+      "productSku": "2307051",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:55.626Z"
+    },
+    {
+      "id": "79552",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2307051",
+      "productSku": "2307051",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:58.066Z"
+    },
+    {
+      "id": "79554",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2307051",
+      "productSku": "2307051",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:00.142Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16838-14428.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14428-large_default/pantalon-punto-berlin-gris.jpg",
+      "alt": "Pantalón punto BERLIN Gris",
+      "sourceId": "14428",
+      "variantIds": [],
+      "sha256": "b043e8e9c9f5c66846d976479c220f27caa1d4da8d008aeac30ebb34908b6869"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:00.232Z",
+  "issues": []
+}

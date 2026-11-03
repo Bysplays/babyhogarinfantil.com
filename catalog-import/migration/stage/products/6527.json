@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "id": "6527",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/6527-body-cuello-diente-rata-manga-larga-blanco.html",
+  "name": "Body cuello diente Rata Manga Larga Blanco",
+  "brand": "Calamaro",
+  "sku": "1510031",
+  "description": "Body con cuello, en la foto parece que el remante es gris pero es totalmente blanco. 100% ALGODON.",
+  "details": "Composición y cuidados: \n\nBody: 100% algodón.\n\nLAVAR A MÁQUINA MÁXIMO A 30 ºC RECOMENDADO\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados: </p>\n<p>Body: 100% algodón.</p>\n<p><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA MÁXIMO A 30 ºC RECOMENDADO</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><strong><span lang=\"es\" xml:lang=\"es\">HECHO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "896",
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:13",
+  "sourceUpdatedAt": "2026-10-27 11:09:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63753",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2235XC4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:35.122Z"
+    },
+    {
+      "id": "144864",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "2235XA4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:37.818Z"
+    },
+    {
+      "id": "144865",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2235XB4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:40.259Z"
+    },
+    {
+      "id": "144866",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2235XD4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:42.815Z"
+    },
+    {
+      "id": "144867",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2235XE4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:45.857Z"
+    },
+    {
+      "id": "144868",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2235XF4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:47.956Z"
+    },
+    {
+      "id": "144869",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2235XG4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:50.332Z"
+    },
+    {
+      "id": "144870",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2235XH4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:52.784Z"
+    },
+    {
+      "id": "144871",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2235XI4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:56.039Z"
+    },
+    {
+      "id": "144872",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2235XJ4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:00.257Z"
+    },
+    {
+      "id": "144873",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "2235XK4004",
+      "productSku": "1510031",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:03.115Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6527-4497.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4497-large_default/body-cuello-diente-rata-manga-larga-blanco.jpg",
+      "alt": "Body cuello diente Rata Manga Larga Blanco",
+      "sourceId": "4497",
+      "variantIds": [],
+      "sha256": "1f516014d4d8dbd81a0729b522777ef824bcfca30a3be32596d8b2225e3a7657"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:03.186Z",
+  "issues": []
+}

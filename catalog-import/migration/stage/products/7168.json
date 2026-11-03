@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "7168",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/7168-conjunto-ceremonia-nino-beige.html",
+  "name": "Conjunto ceremonia niño Beige",
+  "brand": "Anavig",
+  "sku": "1803050",
+  "description": "Conjunto de ceremonia compuesto por camisa de manga corta y cuello mao en blanco roto, pantalón corto camel con brillo y fajín.",
+  "details": "Conjunto de ceremonia compuesto por camisa, pantalón y fajín. La camisa es de manga corta y con cuello mao, en color blanco roto. Cierre delantero con botones en tono tostado. Como detalle, sutiles tablillas en el pecho. Tiene botones en los bajos para poder abrocharse al pantalón y que no se salga. Como parte de abajo, elegante pantalón en color camel con ligero brillo, completamente forrado. Cierre con botones en los laterales de la cintura y ojales en la cinturilla para abrochar la camisa. La parte trasera de la cintura tiene goma para mayor comodidad. Incluye fajín a juego. Un conjunto elegante y delicado, en tonos suaves y tejido fresco y ligero, ideal para eventos y ceremonias! Echa un ojito a nuestro calzado, chaquetas y calcetines y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nCamisa: 80% poliéster, 20% algodón\n\nPantalón: 65% poliéster, 35% nylon\n\nNO LAVAR A MANO\n\nNO DEJAR EN REMOJO\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Conjunto de <strong>ceremonia</strong> compuesto por camisa, pantalón y fajín. La camisa es de manga corta y con <strong>cuello mao</strong>, en color blanco roto. Cierre delantero con botones en tono tostado. Como detalle, sutiles tablillas en el pecho. Tiene botones en los bajos para poder abrocharse al pantalón y que no se salga. Como parte de abajo, elegante pantalón en color camel con ligero brillo, completamente forrado. Cierre con botones en los laterales de la cintura y ojales en la cinturilla para abrochar la camisa. La parte trasera de la cintura tiene goma para mayor comodidad. Incluye <strong>fajín a juego</strong>. Un conjunto elegante y delicado, en tonos suaves y tejido fresco y ligero, ideal para eventos y ceremonias! Echa un ojito a nuestro <strong>calzado, chaquetas y calcetines</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Camisa: 80% poliéster, 20% algodón</p>\n<p>Pantalón: 65% poliéster, 35% nylon</p>\n<p>NO LAVAR A MANO</p>\n<p>NO DEJAR EN REMOJO</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824",
+    "825",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 24.98,
+  "oldPrice": 49.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65168",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1803050",
+      "productSku": "1803050",
+      "taxRate": 21,
+      "price": 24.98,
+      "oldPrice": 49.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:21.758Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7168-5137.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5137-large_default/conjunto-ceremonia-nino-beige.jpg",
+      "alt": "Conjunto ceremonia niño Beige",
+      "sourceId": "5137",
+      "variantIds": [],
+      "sha256": "7b1df6da5740103e262f65f4f9936d18ffd975f71b33cbda0d4630c24bc72885"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:21.800Z",
+  "issues": []
+}

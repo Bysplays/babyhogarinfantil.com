@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8372",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/8372-chaqueta-corta-nina-rojo.html",
+  "name": "Chaqueta corta niña Rojo",
+  "brand": "Mac Ilusión",
+  "sku": "2007037",
+  "description": "Descubre la encantadora Chaqueta Corta Niña en Rojo, diseñada para enmarcar el espíritu jovial y lleno de energía de tu niña. Confeccionada con materiales de alta calidad que garantizan comodidad y duración. Su hermosa tonalidad roja aumentará el cautivador carisma de tu princesa, convirtiéndola en el centro de atención donde quiera que vaya. Un tributo a la dulzura y la diversión, esta chaqueta invita a la aventura, a la exploración y al juego. ¡Es la elección perfecta para esas salidas al parque o una tarde de juegos!",
+  "details": "Cómoda y Elegante\n\nEnvuelve a tu pequeña en estilo con nuestra Chaqueta corta niña Rojo. Hecha con materiales de alta calidad, esta elegante chaqueta no solo será un placer para los ojos, sino también cómoda para la piel sensible de tu niña.\n\nPerfecta para Todas las Estaciones y Ocasiones\n\nNuestra Chaqueta corta niña Rojo es el complemento perfecto para cualquier conjunto. Sueña con la sonrisa de tu niña al llevarla en un fresco día de otoño o una noche serena de primavera. Ya sea para una salida al parque o una ocasión especial, esta chaqueta asegura que tu niña se destaque.\n\nDetalle de una Auténtica Moda Infantil\n\n¿Quieres que tu niña se sienta única y especial? Entonces nuestra Chaqueta corta niña Rojo es la elección perfecta. El diseño moderno y los detalles bien pensados destacan la autenticidad y la dedicación a la moda infantil de alta calidad.\n\n100% Acrílico\n\nAprovecha la oportunidad para que tu niña luzca elegante y se sienta cómoda con nuestra Chaqueta corta niña Rojo. ¡Añádela al carrito ahora y haz que cada momento sea memorable!",
+  "sourceDescriptionHtml": "<div>\n<h2>Cómoda y Elegante</h2>\n<p>Envuelve a tu pequeña en estilo con nuestra <strong>Chaqueta corta niña Rojo</strong>. Hecha con materiales de alta calidad, esta elegante chaqueta no solo será un placer para los ojos, sino también cómoda para la piel sensible de tu niña.</p>\n<h2>Perfecta para Todas las Estaciones y Ocasiones</h2>\n<p>Nuestra <strong>Chaqueta corta niña Rojo</strong> es el complemento perfecto para cualquier conjunto. Sueña con la sonrisa de tu niña al llevarla en un fresco día de otoño o una noche serena de primavera. Ya sea para una salida al parque o una ocasión especial, esta chaqueta asegura que tu niña se destaque.</p>\n<h2>Detalle de una Auténtica Moda Infantil</h2>\n<p>¿Quieres que tu niña se sienta única y especial? Entonces nuestra <strong>Chaqueta corta niña Rojo</strong> es la elección perfecta. El diseño moderno y los detalles bien pensados destacan la autenticidad y la dedicación a la moda infantil de alta calidad.</p>\n<p>100% Acrílico</p>\n<p><em>Aprovecha la oportunidad para que tu niña luzca elegante y se sienta cómoda con nuestra Chaqueta corta niña Rojo. ¡Añádela al carrito ahora y haz que cada momento sea memorable!</em></p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 21.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67377",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2007037",
+      "productSku": "2007037",
+      "taxRate": 21,
+      "price": 21.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:11.665Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8372-11116.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11116-large_default/chaqueta-corta-nina-rojo.jpg",
+      "alt": "Chaqueta corta niña Rojo",
+      "sourceId": "11116",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    },
+    {
+      "path": "assets/8372-6690.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6690-large_default/chaqueta-corta-nina-rojo.jpg",
+      "alt": "Chaqueta corta niña Rojo",
+      "sourceId": "6690",
+      "variantIds": [],
+      "sha256": "0d0c20c18f9deafd2c791e14c2cd8f1109d9b25ee6b45f3eed33b71a992fdc60"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:11.783Z",
+  "issues": []
+}

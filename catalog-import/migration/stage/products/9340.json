@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9340",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9340-sudadera-verano-nino-capitan-verde.html",
+  "name": "Sudadera verano niño capitan Verde",
+  "brand": "Chicco",
+  "sku": "2201029",
+  "description": "Sudadera de entretiempo con cremallera, en color verde con detalles en negro, blanco y rojo. Tiene bolsillos y acabado de canalé elástico en cuello, puños y cinturilla. 100% ALGODÓN.",
+  "details": "Sudadera de entretiempo de CHICCO, una de nuestras firmas preferidas! 100% ALGODÓN, con cierre de cremallera. En color verde con detalles serigrafiados en negro, blanco y rojo. Acabados de canalé elástico en cuello, puños y cinturilla. Una prenda cómoda, ligera y de algodón, ideal para entretiempo y verano! Echa un ojito a nuestros pantalones vaqueros y de algodón, camisetas y calzado y podrás completarla como más te guste!\n\nComposición y cuidados:\n\nSudadera: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Sudadera de entretiempo de <strong>CHICCO</strong>, una de nuestras firmas preferidas! <strong>100% ALGODÓN</strong>, con cierre de cremallera. En color verde con detalles serigrafiados en negro, blanco y rojo. <strong>Acabados de canalé elástico</strong> en cuello, puños y cinturilla. Una prenda cómoda, ligera y de algodón, ideal para entretiempo y verano! Echa un ojito a nuestros <strong>pantalones vaqueros y de algodón, camisetas y calzado</strong> y podrás completarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Sudadera: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69017",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2201029",
+      "productSku": "2201029",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:30.447Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9340-7582.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7582-large_default/sudadera-verano-nino-capitan-verde.jpg",
+      "alt": "Sudadera verano niño capitan Verde",
+      "sourceId": "7582",
+      "variantIds": [],
+      "sha256": "9da69481c50d5d87cc0f43cd4517a980176d8546e79405ffb420926083745a86"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:30.500Z",
+  "issues": []
+}

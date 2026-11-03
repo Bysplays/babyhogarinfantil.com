@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "17748",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/17748-conjunto-sport-segre-bebe-nino-mint.html",
+  "name": "Conjunto sport Segre bebe niño Mint",
+  "brand": "Calamaro",
+  "sku": "2402016",
+  "description": "Descubre el Conjunto Sport Segre Bebé Niño Mint, la esencia de la cómodidad y el estilo. Confeccionado en materiales suaves y transpirables, este conjunto de deporte es perfecto para que tu pequeño se mueva libremente en cualquier estación. El tono pastel de menta aporta un toque de frescura al tiempo que subraya la inocencia y la alegría de los primeros años de vida. ¡Las posibilidades de combinación son infinitas! Perfecto para juegos al aire libre, paseos en el parque o incluso para una siesta confortable. Es el regalo ideal para cualquier joven explorador lleno de energía.",
+  "details": "Comodidad y estilo para los más pequeños\n\nEl Conjunto sport Segre para bebé niño de color Mint es la combinación ideal de confort y elegancia, especialmente diseñada para los más pequeños de la casa. El set incluye un suave y agradable jersey, junto con unos pantalones a juego. Ambas piezas han sido confeccionadas con materiales de alta calidad que aseguran su durabilidad y resistencia, sin dejar de lado la delicadeza y cuidado que la piel de tu pequeño merece.\n\n\n\nDiseño fresco y contemporáneo\n\nCon un diseño moderno y atractivo, el Conjunto sport Segre en tono Mint aporta un toque de frescura y originalidad a cualquier guardarropa infantil. Sus líneas sencillas y funcionales, combinadas con detalles de estilo deportivo, garantizan un aspecto actual sin renunciar a la dulzura y ternura propias de la ropa para bebé. Una elección perfecta para manos exigentes que buscan lo mejor para su pequeño.\n\n\n\nUn regalo perfecto para cualquier ocasión\n\nPor su versatilidad y encanto, el Conjunto sport Segre para bebé niño de tono Mint se convierte en un regalo ideal para un cumpleaños, un bautizo o simplemente como una bonita sorpresa para los pequeños. Un detalle que tanto los pequeños como sus padres apreciarán por su calidad, comodidad y estilo inigualables.\n\n\n\nHaz clic en \"Añadir al Carrito\" ahora y viste a tu pequeño con la elegancia y confort del Conjunto sport Segre para bebé niño Mint.",
+  "sourceDescriptionHtml": "\n<h2>Comodidad y estilo para los más pequeños</h2>\n<p>El <strong>Conjunto sport Segre para bebé niño de color Mint </strong>es la combinación ideal de confort y elegancia, especialmente diseñada para los más pequeños de la casa. El set incluye un suave y agradable jersey, junto con unos pantalones a juego. Ambas piezas han sido confeccionadas con materiales de alta calidad que aseguran su durabilidad y resistencia, sin dejar de lado la delicadeza y cuidado que la piel de tu pequeño merece.</p>\n\n\n<h2>Diseño fresco y contemporáneo</h2>\n<p>Con un diseño moderno y atractivo, el Conjunto sport Segre en tono Mint aporta un toque de frescura y originalidad a cualquier guardarropa infantil. Sus líneas sencillas y funcionales, combinadas con detalles de estilo deportivo, garantizan un aspecto actual sin renunciar a la dulzura y ternura propias de la ropa para bebé. Una elección perfecta para manos exigentes que buscan lo mejor para su pequeño.</p>\n\n\n<h2>Un regalo perfecto para cualquier ocasión</h2>\n<p>Por su versatilidad y encanto, el Conjunto sport Segre para bebé niño de tono Mint se convierte en un regalo ideal para un cumpleaños, un bautizo o simplemente como una bonita sorpresa para los pequeños. Un detalle que tanto los pequeños como sus padres apreciarán por su calidad, comodidad y estilo inigualables.</p>\n\n\n<p><strong>Haz clic en \"Añadir al Carrito\" ahora y viste a tu pequeño con la elegancia y confort del Conjunto sport Segre para bebé niño Mint.</strong></p>\n",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mint",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 31.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-08 23:53:16",
+  "sourceUpdatedAt": "2026-10-27 11:13:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85339",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2402016",
+      "productSku": "2402016",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:23.900Z"
+    },
+    {
+      "id": "85340",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2402016",
+      "productSku": "2402016",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:24.917Z"
+    },
+    {
+      "id": "85341",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2402016",
+      "productSku": "2402016",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:25.853Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17748-15938.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15938-large_default/conjunto-sport-segre-bebe-nino-mint.jpg",
+      "alt": "Conjunto sport Segre bebe niño Mint",
+      "sourceId": "15938",
+      "variantIds": [],
+      "sha256": "7d6427572695a6c6e07923d5b65627152e78964b706fd8a6464d53ac6831dacf"
+    },
+    {
+      "path": "assets/17748-15939.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15939-large_default/conjunto-sport-segre-bebe-nino-mint.jpg",
+      "alt": "Conjunto sport Segre bebe niño Mint",
+      "sourceId": "15939",
+      "variantIds": [],
+      "sha256": "2c34a67f9d798ed23480c3a5977b052f7c9da4806c5a4ae7775daa06cdbc6920"
+    },
+    {
+      "path": "assets/17748-15940.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15940-large_default/conjunto-sport-segre-bebe-nino-mint.jpg",
+      "alt": "Conjunto sport Segre bebe niño Mint",
+      "sourceId": "15940",
+      "variantIds": [],
+      "sha256": "935cac289e6f3c25a79907327ae67e33321a91db50fcc1abea221b70758e5d0f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:26.041Z",
+  "issues": []
+}

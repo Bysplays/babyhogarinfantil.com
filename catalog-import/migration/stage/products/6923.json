@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "6923",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/6923-pantalon-vaquero--bebe-elastico-con-goma-azul.html",
+  "name": "Pantalón vaquero bebé elástico con goma Azul",
+  "brand": "Chicco",
+  "sku": "1708007",
+  "description": "Pantalón vaquero en color azul oscuro. Es elástico lo que resulta muy cómodo para los peques. Tiene la cintura ajustable. Abrocha con corchete, no con botón. Está forrado en el interior. Mira mas abajo para combinarlo.",
+  "details": "Composición:\n\nPantalón: 75% Algodón, 23% poliéster, 2 % elastano.\n\nForro: 100% Algodón.\n\nNo usar lejias.\n\nNo usar secadora.\n\nLavar a 30º.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pantalón: 75% Algodón, 23% poliéster, 2 % elastano.</p>\n<p>Forro: 100% Algodón.</p>\n<p>No usar lejias.</p>\n<p>No usar secadora.</p>\n<p>Lavar a 30º.</p>\n<p> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 46.3,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64704",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1708007",
+      "productSku": "1708007",
+      "taxRate": 21,
+      "price": 46.3,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:30.044Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6923-4838.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4838-large_default/pantalon-vaquero--bebe-elastico-con-goma-azul.jpg",
+      "alt": "Pantalón vaquero bebé elástico con goma Azul",
+      "sourceId": "4838",
+      "variantIds": [],
+      "sha256": "19afde0a3e3ce1d17909bced4356dea00e42698820c46b5ba5a4ff62d381770b"
+    },
+    {
+      "path": "assets/6923-9829.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9829-large_default/pantalon-vaquero--bebe-elastico-con-goma-azul.jpg",
+      "alt": "Pantalón vaquero bebé elástico con goma Azul",
+      "sourceId": "9829",
+      "variantIds": [],
+      "sha256": "19afde0a3e3ce1d17909bced4356dea00e42698820c46b5ba5a4ff62d381770b"
+    },
+    {
+      "path": "assets/6923-4837.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4837-large_default/pantalon-vaquero--bebe-elastico-con-goma-azul.jpg",
+      "alt": "Pantalón vaquero bebé elástico con goma Azul",
+      "sourceId": "4837",
+      "variantIds": [],
+      "sha256": "d862d0782fadeaa4a4a2ae10448c05b86272366eb36e4be40bfd01210e78f80b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:30.230Z",
+  "issues": []
+}

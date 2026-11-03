@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "17765",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/17765-conjunto-pololo-jarama-verde.html",
+  "name": "Conjunto pololo Jarama Verde",
+  "brand": "Calamaro",
+  "sku": "2402031",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 34.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-09 15:53:55",
+  "sourceUpdatedAt": "2026-10-27 11:13:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85420",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2402031",
+      "productSku": "2402031",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:19.275Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17765-16238.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16238-large_default/conjunto-pololo-jarama-verde.jpg",
+      "alt": "Conjunto pololo Jarama Verde",
+      "sourceId": "16238",
+      "variantIds": [],
+      "sha256": "b4612f3024482b3691ef1dace1ef18bb8be6bcab3875e3b44b1502677533d062"
+    },
+    {
+      "path": "assets/17765-16239.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16239-large_default/conjunto-pololo-jarama-verde.jpg",
+      "alt": "Conjunto pololo Jarama Verde",
+      "sourceId": "16239",
+      "variantIds": [],
+      "sha256": "1f61d1afa15abcfc1982de72249a4fa8d513fc64152f9cf61c7eb20a4242deae"
+    },
+    {
+      "path": "assets/17765-16240.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16240-large_default/conjunto-pololo-jarama-verde.jpg",
+      "alt": "Conjunto pololo Jarama Verde",
+      "sourceId": "16240",
+      "variantIds": [],
+      "sha256": "b9853243372c78d6d3f26cc9d52af1093805d419d5c5c0bc8ab8ea3ab484998d"
+    },
+    {
+      "path": "assets/17765-16241.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16241-large_default/conjunto-pololo-jarama-verde.jpg",
+      "alt": "Conjunto pololo Jarama Verde",
+      "sourceId": "16241",
+      "variantIds": [],
+      "sha256": "7ec8da5923c391dea609f331f6c73428ac0d03cb76ad438ce4882eaa9e9eddf8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:19.513Z",
+  "issues": []
+}

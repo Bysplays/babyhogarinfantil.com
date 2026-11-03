@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "17555",
+  "sourceUrl": "https://babyhogarinfantil.com/cositas-monas/17555-carrusel-musical-giratorio-cuna-gris.html",
+  "name": "Carrusel musical giratorio cuna Gris",
+  "brand": "Interbaby",
+  "sku": "2401306",
+  "description": "Adéntrate en un sueño lleno de melodías con el Carrusel Musical Giratorio Cuna Gris. ¡Una combinación perfecta de encanto y función! Las dulces melodías acompañarán los dulces sueños de tu bebé, mientras que los encantadores animalitos giratorios promoverán su desarrollo sensorial. Su lindo diseño agrega un toque moderno y elegante al hogar. Un regalo perfecto para los pequeños príncipes y princesas; el accesorio imprescindible para cualquier cuna. ¡En Cositas Monas, creemos que cada sueño de bebé debería ser mágico! PRECIO UNITARIO",
+  "details": "Sueños Musicales con Elegancia\n\nDeleita a los más pequeños con el Carrusel Musical Giratorio Cuna Gris. Con su diseño elegante y tonos grises sutiles, este carrusel musical giratorio es una adición hermosa y funcional a cualquier cuna. Su tonalidad neutra y estilo sofisticado agregará un toque de clase a cualquier habitación de bebé o niño.\n\nEstimulación Sensorial y Confort\n\nEste carrusel musical no solo es hermoso, sino que también contribuye a estimular los sentidos del bebé. Los suaves y dulces sonidos de la melodía cancion ayudan a calmar y relajar a su pequeño para dormir, al mismo tiempo que el movimiento giratorio cautiva su atención, fomentando el seguimiento visual y estimulando el desarrollo cognitivo.\n\nCalidad y Seguridad\n\nEl carrusel musical giratorio cuna Gris ha sido cuidadosamente diseñado pensando en la seguridad de su bebé. Los materiales de alta calidad y las terminaciones suaves aseguran que el producto no solo sea duradero, sino también seguro para el contacto con la delicada piel del bebé. Es un regalo ideal para cualquier nueva mamá o papá que busque lo mejor para su bebé.\n\n¡No esperes más! Asegura los sueños dulces y seguros de tu pequeño obteniendo el Carrusel Musical Giratorio Cuna Gris hoy mismo. ¡Es el complemento perfecto para cualquier habitación de bebé!",
+  "sourceDescriptionHtml": "<h2>Sueños Musicales con Elegancia</h2>\n<p>Deleita a los más pequeños con el Carrusel Musical Giratorio Cuna Gris. Con su diseño elegante y tonos grises sutiles, este carrusel musical giratorio es una adición hermosa y funcional a cualquier cuna. Su tonalidad neutra y estilo sofisticado agregará un toque de clase a cualquier habitación de bebé o niño.</p>\n<h2>Estimulación Sensorial y Confort</h2>\n<p>Este carrusel musical no solo es hermoso, sino que también contribuye a estimular los sentidos del bebé. Los suaves y dulces sonidos de la melodía cancion ayudan a calmar y relajar a su pequeño para dormir, al mismo tiempo que el movimiento giratorio cautiva su atención, fomentando el seguimiento visual y estimulando el desarrollo cognitivo.</p>\n<h2>Calidad y Seguridad</h2>\n<p>El carrusel musical giratorio cuna Gris ha sido cuidadosamente diseñado pensando en la seguridad de su bebé. Los materiales de alta calidad y las terminaciones suaves aseguran que el producto no solo sea duradero, sino también seguro para el contacto con la delicada piel del bebé. Es un regalo ideal para cualquier nueva mamá o papá que busque lo mejor para su bebé.</p>\n<p>¡No esperes más! Asegura los sueños dulces y seguros de tu pequeño obteniendo el Carrusel Musical Giratorio Cuna Gris hoy mismo. ¡Es el complemento perfecto para cualquier habitación de bebé!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "767",
+    "788",
+    "865"
+  ],
+  "sourceDefaultCategoryId": "865",
+  "sourceCategoryName": "Cositas Monas",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-05-02 15:55:38",
+  "sourceUpdatedAt": "2026-10-27 11:13:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100001",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12106XA18564",
+      "productSku": "2401306",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:08.860Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17555-15309.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15309-large_default/carrusel-musical-giratorio-cuna-gris.jpg",
+      "alt": "Carrusel musical giratorio cuna Gris",
+      "sourceId": "15309",
+      "variantIds": [],
+      "sha256": "b380273e7ce266b6bdff7b23805ed4906183dd834c5a17fcacfd220131b8d1a2"
+    },
+    {
+      "path": "assets/17555-15310.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15310-large_default/carrusel-musical-giratorio-cuna-gris.jpg",
+      "alt": "Carrusel musical giratorio cuna Gris",
+      "sourceId": "15310",
+      "variantIds": [],
+      "sha256": "861828697ed603bd09f3f8c5e5531068d189acbd6119d865b0adf4c623b5a086"
+    },
+    {
+      "path": "assets/17555-15311.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15311-large_default/carrusel-musical-giratorio-cuna-gris.jpg",
+      "alt": "Carrusel musical giratorio cuna Gris",
+      "sourceId": "15311",
+      "variantIds": [],
+      "sha256": "523d674f0c32423c773efdacbeeae0a2636871f586b0204d8c8bae1c5495d16d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:09.058Z",
+  "issues": []
+}

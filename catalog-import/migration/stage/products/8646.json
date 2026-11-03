@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "8646",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/8646-sandalia-loneta-estrellas-rosa-rosa.html",
+  "name": "Sandalia loneta estrellas rosa Rosa",
+  "brand": "Chicco",
+  "sku": "2102042",
+  "description": "Sandalia loneta con cierre de velcro en el tobillo. En color rosa con estampado de estrellitas en blanco y detalles estilo esparto. Sin suela. Tejido de gran suavidad y plantilla acolchada.",
+  "details": "Sandalia de CHICCO, una de nuestras firmas favoritas! De loneta, en color rosa con estampado de pequeñas estrellas en color blanco, y detalles estilo esparto. Cierre con velcro en el tobillo, gran sujeción y comodidad. Sin suela. Tejido de gran suavidad y plantilla acolchada. Un calzado ligero y flexible, ideal para los bebés. \n\nComposición y cuidados:\n\nSandalia: 100% algodón",
+  "sourceDescriptionHtml": "<p>Sandalia de <strong>CHICCO</strong>, una de nuestras firmas favoritas! De loneta, en color rosa con estampado de pequeñas estrellas en color blanco, y detalles estilo esparto. Cierre con velcro en el tobillo, gran sujeción y comodidad. Sin suela. Tejido de gran suavidad y plantilla acolchada. Un calzado ligero y flexible, ideal para los bebés. </p>\n<p>Composición y cuidados:</p>\n<p>Sandalia: 100% algodón</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 16.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:39",
+  "sourceUpdatedAt": "2026-10-27 11:10:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67715",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "2102042",
+      "productSku": "2102042",
+      "taxRate": 21,
+      "price": 16.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:28.709Z"
+    },
+    {
+      "id": "67716",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "2102042",
+      "productSku": "2102042",
+      "taxRate": 21,
+      "price": 16.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:31.121Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8646-6975.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6975-large_default/sandalia-loneta-estrellas-rosa-rosa.jpg",
+      "alt": "Sandalia loneta estrellas rosa Rosa",
+      "sourceId": "6975",
+      "variantIds": [],
+      "sha256": "33a2e7eb98533925edd8bfa6d6665bccb9e393ff9d63afe92b6a468f96fe4e3e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:31.202Z",
+  "issues": []
+}

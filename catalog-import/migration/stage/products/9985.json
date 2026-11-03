@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9985",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/9985-pijama-dos-piezas-tundosado-bebe-gris.html",
+  "name": "Pijama dos piezas tundosado bebe Gris",
+  "brand": null,
+  "sku": "2208116",
+  "description": "Envuelve a tu bebé con la agradable calidez del \\'Pijama dos piezas tundosado Gris\\'. Hecho meticulosamente para ofrecer una comodidad duradera y un sueño tranquilo. Su delicado y encantador tono gris complementa la adorable inocencia de tu pequeño. ¡Imagínate a tu pequeño ángel durmiendo profundamente, resguardado por esta cálida prenda todo el invierno! Perfecto para esos fríos amaneceres y noches gélidas. Un deleite para soplar una brisa de ternura en cada cuna. Confía en la exclusividad y calidad de ropa para bebé que ofrece nuestra tienda.",
+  "details": "Comodidad Inigualable\n\n Este pijama de dos piezas tundosado para bebé en gris es el aliado perfecto para las noches frescas. Hecho con materiales suaves y de alta calidad, asegura un confort superior y un ajuste perfecto. Mantendrá a tu pequeño cálido sin restringir su movimiento, permitiéndole explorar alegremente el mundo de los sueños.\n\n\nEstilo y durabilidad\n\n Con este pijama, tu bebé no sólo dormirá de manera confortable, sino que también lucirá adorable. El diseño neutro en gris es ideal tanto para niñas como para niños. Resisten lavados frecuentes sin perder su forma o color, garantizando que tu bebé siempre tendrá un aspecto perfecto.\n\n\nDetalles pensados para los más pequeños\n\n Los pijamas están diseñados pensando en la comodidad de tu bebé. Con su fácil acceso para los cambios de pañales y su cierre suave, este pijama es tan práctico como adorable. Su textura suave asegura que la piel delicada de tu bebé estará siempre protegida.\n\n\nCómpralo ahora para las noches de confort y estilo de tu pequeño. ¡No te lo pierdas!",
+  "sourceDescriptionHtml": "<p><strong>Comodidad Inigualable</strong><br>\n Este pijama de dos piezas tundosado para bebé en gris es el aliado perfecto para las noches frescas. Hecho con materiales suaves y de alta calidad, asegura un confort superior y un ajuste perfecto. Mantendrá a tu pequeño cálido sin restringir su movimiento, permitiéndole explorar alegremente el mundo de los sueños.</p>\n\n<p><strong>Estilo y durabilidad</strong><br>\n Con este pijama, tu bebé no sólo dormirá de manera confortable, sino que también lucirá adorable. El diseño neutro en gris es ideal tanto para niñas como para niños. Resisten lavados frecuentes sin perder su forma o color, garantizando que tu bebé siempre tendrá un aspecto perfecto.</p>\n\n<p><strong>Detalles pensados para los más pequeños</strong><br>\n Los pijamas están diseñados pensando en la comodidad de tu bebé. Con su fácil acceso para los cambios de pañales y su cierre suave, este pijama es tan práctico como adorable. Su textura suave asegura que la piel delicada de tu bebé estará siempre protegida.</p>\n\n<p>Cómpralo ahora para las noches de confort y estilo de tu pequeño. ¡No te lo pierdas!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:56",
+  "sourceUpdatedAt": "2026-10-27 11:12:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70584",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2208116",
+      "productSku": "2208116",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:09.413Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9985-8060.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8060-large_default/pijama-dos-piezas-tundosado-bebe-gris.jpg",
+      "alt": "Pijama dos piezas tundosado bebe Gris",
+      "sourceId": "8060",
+      "variantIds": [],
+      "sha256": "f9e5ef9f26bdca668e0803a4107cf7e70541c8599d2f09a5bdf514ebe138958e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:09.479Z",
+  "issues": []
+}

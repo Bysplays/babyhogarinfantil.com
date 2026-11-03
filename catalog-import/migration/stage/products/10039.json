@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10039",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/10039-chaqueta-punto-cuello-volante-nina-rosa.html",
+  "name": "Chaqueta punto cuello volante niña Rosa",
+  "brand": "Mac Ilusión",
+  "sku": "2208165",
+  "description": "Descubre la dulzura en cada detalle con la Chaqueta Punto Cuello Volante Niña Rosa. Este coqueto diseño fusiona moda y funcionalidad para tu pequeña princesa. Fabricada con hilos de alta calidad, esta chaqueta ofrece calidez y confort inigualables. El delicado volante añade un toque de elegancia, convirtiéndola en una pieza imprescindible en el guardarropa de cualquier niña. El encantador tono rosa se complementa con cualquier outfit, dando un toque de alegría a los frescos días de otoño e invierno. ¡Invierte en calidad y estilo para tu niña con esta chaqueta!",
+  "details": "Un Toque de Glamour\n\nDestaca entre la multitud con la \\'Chaqueta punto cuello volante niña\\', en un cautivador Rosa. Confeccionada con tejidos de la más alta calidad, esta chaqueta no solo ofrece comodidad, sino también una apariencia refinada. Deshazte de las capas aburridas y monótonas y añade un poco de glamour a las ocasiones especiales con esta magnífica chaqueta.\n\nComodidad sin compromiso\n\nComodidad y estilo no tienen por qué estar en polos opuestos. Con la \\'Chaqueta punto cuello volante niña\\' en Rosa, ambos confluyen en una combinación perfecta. Este diseño, suave al tacto, mantiene a las pequeñas cómodas y felices, garantizando que puedan moverse libremente mientras lucen a la última moda.\n\nDurabilidad que brilla\n\nNinguna mamá quiere ropa que no aguante el ritmo de juego de las niñas curiosas y activas. Con la \\'Chaqueta punto cuello volante niña\\' en Rosa, no se renuncia a la durabilidad. Esta pieza resistirá innumerables lavados, y seguirá luciendo como nueva, manteniendo intacto su encantador tono rosa.\n\n100% Acrílico\n\nLa \\'Chaqueta punto cuello volante niña\\' en Rosa es más que una simple prenda de vestir. Es la personificación perfecta de estilo, comodidad y durabilidad. Ya sea para una fiesta de cumpleaños o para un día normal en el parque, esta chaqueta quedará perfecta. ¡Hazte con ella hoy!",
+  "sourceDescriptionHtml": "<div class=\"product-description\">\n<h2>Un Toque de Glamour</h2>\n<p>Destaca entre la multitud con la \\'Chaqueta punto cuello volante niña\\', en un cautivador Rosa. Confeccionada con tejidos de la más alta calidad, esta chaqueta no solo ofrece comodidad, sino también una apariencia refinada. Deshazte de las capas aburridas y monótonas y añade un poco de glamour a las ocasiones especiales con esta magnífica chaqueta.</p>\n<h2>Comodidad sin compromiso</h2>\n<p>Comodidad y estilo no tienen por qué estar en polos opuestos. Con la \\'Chaqueta punto cuello volante niña\\' en Rosa, ambos confluyen en una combinación perfecta. Este diseño, suave al tacto, mantiene a las pequeñas cómodas y felices, garantizando que puedan moverse libremente mientras lucen a la última moda.</p>\n<h2>Durabilidad que brilla</h2>\n<p>Ninguna mamá quiere ropa que no aguante el ritmo de juego de las niñas curiosas y activas. Con la \\'Chaqueta punto cuello volante niña\\' en Rosa, no se renuncia a la durabilidad. Esta pieza resistirá innumerables lavados, y seguirá luciendo como nueva, manteniendo intacto su encantador tono rosa.</p>\n<p>100% Acrílico</p>\n<p>La \\'Chaqueta punto cuello volante niña\\' en Rosa es más que una simple prenda de vestir. Es la personificación perfecta de estilo, comodidad y durabilidad. Ya sea para una fiesta de cumpleaños o para un día normal en el parque, esta chaqueta quedará perfecta. ¡Hazte con ella hoy!</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70755",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2208165",
+      "productSku": "2208165",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:59.190Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10039-8096.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8096-large_default/chaqueta-punto-cuello-volante-nina-rosa.jpg",
+      "alt": "Chaqueta punto cuello volante niña Rosa",
+      "sourceId": "8096",
+      "variantIds": [],
+      "sha256": "5cd69444471a04f6681d3c77edf1531f47b6b90f708f65700586481029f9df1e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:59.244Z",
+  "issues": []
+}

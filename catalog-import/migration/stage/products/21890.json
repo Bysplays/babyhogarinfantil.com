@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "21890",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21890-conjunto-bebe-nino-verano-algodon-barcos-arena.html",
+  "name": "Conjunto bebé niño verano algodón barcos Arena",
+  "brand": "Calamaro",
+  "sku": "2601087",
+  "description": "Conjunto de bebé niño Calamaro confeccionado en 100% algodón. Incluye camiseta blanca con detalles en contraste y cubrepañal con estampado de barcos. Ideal para un look fresco y veraniego.",
+  "details": "Este conjunto de bebé niño de verano de la marca Calamaro destaca por su diseño fresco, cómodo y con un encantador estilo marinero. Está confeccionado en 100% algodón, garantizando suavidad y transpirabilidad para la piel del bebé.\n\nLa camiseta en color blanco presenta detalles en tono arena en mangas y tapeta frontal con botones, aportando un acabado elegante y cuidado. Además, cuenta con apertura trasera completa con corchetes, facilitando el cambio de ropa.\n\nSe combina con un cubrepañal estampado con pequeños barcos en tonos suaves, con cintura elástica que asegura un ajuste cómodo sin apretar.\n\nUn conjunto ideal para los días de verano, perfecto tanto para el día a día como para ocasiones especiales.\n\nCaracterísticas:\n\n\nMarca: Calamaro\n\nConfección: 100% algodón\n\nCamiseta blanca con detalles en contraste\n\nApertura trasera con corchetes\n\nCubrepañal con estampado de barcos\n\nCintura elástica para mayor comodidad\n\nTejido ligero, suave y transpirable\n\n\nUna prenda imprescindible para quienes buscan ropa de bebé cómoda, fresca y con estilo en verano.",
+  "sourceDescriptionHtml": "<p>Este <strong>conjunto de bebé niño de verano</strong> de la marca <strong>Calamaro</strong> destaca por su diseño fresco, cómodo y con un encantador estilo marinero. Está confeccionado en <strong>100% algodón</strong>, garantizando suavidad y transpirabilidad para la piel del bebé.</p>\n<p>La camiseta en color blanco presenta detalles en tono arena en mangas y tapeta frontal con botones, aportando un acabado elegante y cuidado. Además, cuenta con apertura trasera completa con corchetes, facilitando el cambio de ropa.</p>\n<p>Se combina con un <strong>cubrepañal estampado</strong> con pequeños barcos en tonos suaves, con cintura elástica que asegura un ajuste cómodo sin apretar.</p>\n<p>Un conjunto ideal para los días de verano, perfecto tanto para el día a día como para ocasiones especiales.</p>\n<p><strong>Características:</strong></p>\n<ul>\n<li>Marca: Calamaro</li>\n<li>Confección: 100% algodón</li>\n<li>Camiseta blanca con detalles en contraste</li>\n<li>Apertura trasera con corchetes</li>\n<li>Cubrepañal con estampado de barcos</li>\n<li>Cintura elástica para mayor comodidad</li>\n<li>Tejido ligero, suave y transpirable</li>\n</ul>\n<p>Una prenda imprescindible para quienes buscan <strong>ropa de bebé cómoda, fresca y con estilo</strong> en verano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Arena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 28,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-17 15:56:59",
+  "sourceUpdatedAt": "2026-10-27 11:15:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100239",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2601087",
+      "productSku": "2601087",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:47.987Z"
+    },
+    {
+      "id": "100240",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2601087",
+      "productSku": "2601087",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:48.842Z"
+    },
+    {
+      "id": "100241",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2601087",
+      "productSku": "2601087",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:49.668Z"
+    },
+    {
+      "id": "100242",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2601087",
+      "productSku": "2601087",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:50.505Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21890-20807.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20807-large_default/conjunto-bebe-nino-verano-algodon-barcos-arena.jpg",
+      "alt": "Cubrepañal bebé con estampado de barcos en tonos suaves, espalda",
+      "sourceId": "20807",
+      "variantIds": [],
+      "sha256": "9ab3019011cc847dde6e35c18feb3aa049373b9b15b8c1e06d693e6940432e8b"
+    },
+    {
+      "path": "assets/21890-20808.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20808-large_default/conjunto-bebe-nino-verano-algodon-barcos-arena.jpg",
+      "alt": "Detalle conjunto bebé Calamaro camiseta blanca y cubrepañal",
+      "sourceId": "20808",
+      "variantIds": [],
+      "sha256": "b4fe630baf32f4ef90a471df6afb199f72d4cf66b1d34d58977111475a0c3e2d"
+    },
+    {
+      "path": "assets/21890-20809.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20809-large_default/conjunto-bebe-nino-verano-algodon-barcos-arena.jpg",
+      "alt": "Conjunto bebé niño verano algodón Calamaro con cubrepañal estampado de barcos",
+      "sourceId": "20809",
+      "variantIds": [],
+      "sha256": "b8b14b86d1884cbdcbaf6de0b84820ea0e3662f8490a12be2768f50f6da0dea5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:51:50.710Z",
+  "issues": []
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7638",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/7638-pantalon-algodon-estampado-azul-marino.html",
+  "name": "Pantalón algodón estampado Azul marino",
+  "brand": "Chicco",
+  "sku": "1902194",
+  "description": "Pantalón color AZUL MARINO de ALGODON, tipo chandal. Con estampados variados. Cintura de goma, y goma en el tobillo. Hasta talla 4 años.",
+  "details": "De una de nuestras marcas favoritas, CHICCO, pantalón de algodón en color azul marino con el estampado variado en tonos azules y blancos. Con gomita tanto en la cintura como en los tobillos, para mejor ajuste al cuerpo y mayor comodidad. Cordón en la cintura de adorno. Un pantalón tipo chandal ideal para combinar con camisetas básicas de todos los colores, cómodo, suave y ligero para los más peques.\n\nComposición y cuidados: \n\nPantalón: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nNO LAVAR EN SECO\n\nPLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)\n\nRECOMENDABLE SECAR EN VERTICAL",
+  "sourceDescriptionHtml": "<p>De una de nuestras marcas favoritas, <strong>CHICCO</strong>, pantalón de algodón en color azul marino con el estampado variado en tonos azules y blancos. Con gomita tanto en la cintura como en los tobillos, para mejor ajuste al cuerpo y mayor comodidad. Cordón en la cintura de adorno. Un pantalón tipo chandal ideal para combinar con camisetas básicas de todos los colores, cómodo, suave y ligero para los más peques.</p>\n<p>Composición y cuidados: </p>\n<p>Pantalón: 100% algodón</p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">NO LAVAR EN SECO</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\"><span style=\"margin:0px;padding:0px;\" lang=\"es\" xml:lang=\"es\">PLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin:15px 0px 10pt;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;line-height:16.1px;\">RECOMENDABLE SECAR EN VERTICAL</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 5,
+  "oldPrice": 9.9946,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66072",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1902194",
+      "productSku": "1902194",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:55.578Z"
+    },
+    {
+      "id": "78430",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1902194",
+      "productSku": "1902194",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:57.169Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7638-5621.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5621-large_default/pantalon-algodon-estampado-azul-marino.jpg",
+      "alt": "Pantalón algodón estampado Azul marino",
+      "sourceId": "5621",
+      "variantIds": [],
+      "sha256": "c324a03bf241fd3da43bd9007a1f353629e03c05971fb63ffca044815288cf4a"
+    },
+    {
+      "path": "assets/7638-5620.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5620-large_default/pantalon-algodon-estampado-azul-marino.jpg",
+      "alt": "Pantalón algodón estampado Azul marino",
+      "sourceId": "5620",
+      "variantIds": [],
+      "sha256": "e393aa545d7f972cd2af5154f1c70fdb751d281a61c0a17f99e8df2f5b7325ac"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:57.353Z",
+  "issues": []
+}

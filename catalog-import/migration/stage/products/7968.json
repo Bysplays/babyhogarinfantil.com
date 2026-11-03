@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "7968",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/7968-pantalon-largo-chandal-xxl-xxxl-azul-marino.html",
+  "name": "Pantalón largo chandal XXL-XXXL Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1911078",
+  "description": "Pantalón chándal ANGEL DE LA GUARDA, tallas muy grandes.\n\ncomposición:\n\nPantalón: 100% poliéster.",
+  "details": "composición:\n\nPantalón: 100% poliéster.\n\nHECHO EN UE",
+  "sourceDescriptionHtml": "<p>composición:</p>\n<p>Pantalón: 100% poliéster.</p>\n<p><strong>HECHO EN UE</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "705"
+  ],
+  "sourceDefaultCategoryId": "705",
+  "sourceCategoryName": "Colegio Angel de la Guarda Nigran",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-27 11:10:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "278",
+          "label": "XXL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66733",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "278",
+          "group": "Tamaño",
+          "value": "XXL"
+        }
+      ],
+      "sku": "1911078",
+      "productSku": "1911078",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:33.847Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7968-6084.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6084-large_default/pantalon-largo-chandal-xxl-xxxl-azul-marino.jpg",
+      "alt": "Pantalón largo chandal XXL-XXXL Azul marino",
+      "sourceId": "6084",
+      "variantIds": [],
+      "sha256": "1f34366e000ea4b611a03edd3b0c9d647eebe3671c733636e0d846b2e416e38b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:33.922Z",
+  "issues": []
+}

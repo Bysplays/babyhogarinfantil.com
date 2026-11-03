@@ -1,0 +1,2493 @@
+{
+  "at": "2026-10-27T20:37:24.109Z",
+  "source": "https://babyhogarinfantil.com",
+  "publicListings": 143,
+  "expected": 2702,
+  "downloaded": 2702,
+  "images": 5705,
+  "variants": 10124,
+  "brands": [
+    "Zippy",
+    "Mayoral",
+    "Mac Ilusión",
+    "Baby Hogar Infantil",
+    "Alber",
+    "Chicco",
+    "Calamaro",
+    "Ellepi",
+    "Talaman",
+    "Babybol",
+    "Tobogan",
+    "Ysabel Mora",
+    "Gorila",
+    "Gamberritos",
+    "Yoedu",
+    "Baby-Ferr",
+    "Anavig",
+    "Condor",
+    "Interbaby",
+    "Paduana kids",
+    "Taracido",
+    "Siena",
+    "Sun City",
+    "Disney",
+    "Waterlemon",
+    "Katuco",
+    "Mayal",
+    "Zorba",
+    "Marco Polo",
+    "Jose Luis Navarro",
+    "Yatsi",
+    "Peanuts",
+    "Newness",
+    "Atmosphera",
+    "Rizo Basic",
+    "Sterntaler",
+    "Segurlain",
+    "Pecesa",
+    "Baby Happy",
+    "Mar Revert",
+    "Cerdá",
+    "Sergito",
+    "Don Algodón",
+    "Ayapunt",
+    "A&amp;J",
+    "Santa Ana Mayor",
+    "Mami me mima",
+    "Trus",
+    "Gorfactory",
+    "Caminito",
+    "Amaka Artesanía",
+    "Niseret",
+    "Enca",
+    "Kiriki",
+    "Aranda",
+    "IDO",
+    "Birba",
+    "DR.Kid",
+    "Sardon",
+    "Mar&amp;Alex",
+    "Bimbalina",
+    "Martín Aranda",
+    "Dolce Petit",
+    "Charo",
+    "MC Yadra",
+    "Teresa Rodríguez",
+    "FS Baby",
+    "Tresfan Textil"
+  ],
+  "missing": [],
+  "withoutImages": [
+    {
+      "id": "10055",
+      "name": "Patuco punto invierno Azul Marino",
+      "url": "https://babyhogarinfantil.com/patucos/10055-patuco-punto-invierno-azul-marino.html"
+    },
+    {
+      "id": "10059",
+      "name": "Patuco punto invierno Rojo",
+      "url": "https://babyhogarinfantil.com/patucos/10059-patuco-punto-invierno-rojo.html"
+    },
+    {
+      "id": "10121",
+      "name": "Chaqueta larga pompones Azul Marino",
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nino/10121-chaqueta-larga-pompones-azul-marino.html"
+    },
+    {
+      "id": "16899",
+      "name": "Body cuello puntilla Manga Larga Gris",
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/16899-body-cuello-puntilla-manga-larga-gris.html"
+    },
+    {
+      "id": "17459",
+      "name": "Albornoz bicolor pirata Gris",
+      "url": "https://babyhogarinfantil.com/batas-nina/17459-albornoz-bicolor-pirata-gris.html"
+    },
+    {
+      "id": "19297",
+      "name": "Jersey escolar 100% ACRILICO XXL-XXXL Verde botella",
+      "url": "https://babyhogarinfantil.com/jerseys-y-chaquetas-escolares/19297-jersey-escolar-100-acrilico-xxl-xxxl-verde-botella.html"
+    },
+    {
+      "id": "19298",
+      "name": "Jersey escolar 100% ACRILICO XXL-XXXL Azul marino",
+      "url": "https://babyhogarinfantil.com/jerseys-y-chaquetas-escolares/19298-jersey-escolar-100-acrilico-xxl-xxxl-azul-marino.html"
+    },
+    {
+      "id": "19794",
+      "name": "Capota plumeti Lucia Blanco",
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/19794-capota-plumeti-lucia-blanco.html"
+    },
+    {
+      "id": "19795",
+      "name": "Capota plumeti Lucia Rosa",
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/19795-capota-plumeti-lucia-rosa.html"
+    },
+    {
+      "id": "19798",
+      "name": "Gorrito pique Lola Blanco",
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/19798-gorrito-pique-lola-blanco.html"
+    },
+    {
+      "id": "19799",
+      "name": "Gorrito pique Lola Rosa",
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/19799-gorrito-pique-lola-rosa.html"
+    },
+    {
+      "id": "19812",
+      "name": "Chaqueta chandal Cluny Azul Marino",
+      "url": "https://babyhogarinfantil.com/colegio-san-jose-de-cluny-vigo/19812-chaqueta-chandal-cluny-azul-marino.html"
+    },
+    {
+      "id": "20267",
+      "name": "Toquilla toca DULZURA Rosa",
+      "url": "https://babyhogarinfantil.com/toquillas-tocas-arrullos/20267-toquilla-toca-dulzura-rosa.html"
+    },
+    {
+      "id": "21030",
+      "name": "Leotardo INVIERNO calado lateral Cardenal",
+      "url": "https://babyhogarinfantil.com/leotardos-invierno/21030-leotardo-invierno-calado-lateral-cardenal.html"
+    },
+    {
+      "id": "21064",
+      "name": "Bolsa merienda con Bolsillo Azul",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/21064-bolsa-merienda-con-bolsillo-azul.html"
+    },
+    {
+      "id": "21065",
+      "name": "Bolsa merienda con Bolsillo Amarillo",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/21065-bolsa-merienda-con-bolsillo-amarillo.html"
+    },
+    {
+      "id": "21066",
+      "name": "Bolsa merienda con Bolsillo Pistacho",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/21066-bolsa-merienda-con-bolsillo-pistacho.html"
+    },
+    {
+      "id": "21116",
+      "name": "Panty microfibra 40 DEN Azul Marino",
+      "url": "https://babyhogarinfantil.com/leotardos-invierno/21116-panty-microfibra-40-den-azul-marino.html"
+    },
+    {
+      "id": "21142",
+      "name": "Camiseta barita Blanco",
+      "url": "https://babyhogarinfantil.com/camisetas-bebe-nina/21142-camiseta-barita-blanco.html"
+    },
+    {
+      "id": "21177",
+      "name": "Gorro pom pom + cuello Azul Marino",
+      "url": "https://babyhogarinfantil.com/gorros-y-bufandas-bebe-y-nina/21177-gorro-pom-pom--cuello-azul-marino.html"
+    },
+    {
+      "id": "21185",
+      "name": "Body camisa NERVURES Blanco",
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/21185-body-camisa-nervures-blanco.html"
+    },
+    {
+      "id": "21186",
+      "name": "Deportivo piel del 29 al 39 Azul Marino",
+      "url": "https://babyhogarinfantil.com/calzado-escolar/21186-deportivo-piel-del-29-al-39-azul-marino.html"
+    },
+    {
+      "id": "21187",
+      "name": "Dou Dou Topitos Varios",
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/21187-dou-dou-topitos-varios.html"
+    },
+    {
+      "id": "21206",
+      "name": "Body camisa botones Crudo",
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/21206-body-camisa-botones-crudo.html"
+    },
+    {
+      "id": "21207",
+      "name": "Body camisa cuello plumeti Blanco",
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/21207-body-camisa-cuello-plumeti-blanco.html"
+    },
+    {
+      "id": "21209",
+      "name": "Gorro lazo Blanco",
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/21209-gorro-lazo-blanco.html"
+    },
+    {
+      "id": "21216",
+      "name": "Manoplas con dedo Gris aluminio",
+      "url": "https://babyhogarinfantil.com/manoplas-y-guantes/21216-manoplas-con-dedo-gris-aluminio.html"
+    },
+    {
+      "id": "21217",
+      "name": "Manoplas con dedo Camel",
+      "url": "https://babyhogarinfantil.com/manoplas-y-guantes/21217-manoplas-con-dedo-camel.html"
+    },
+    {
+      "id": "21218",
+      "name": "Manoplas con dedo Azul marino",
+      "url": "https://babyhogarinfantil.com/manoplas-y-guantes/21218-manoplas-con-dedo-azul-marino.html"
+    },
+    {
+      "id": "21219",
+      "name": "Manoplas con dedo Rojo",
+      "url": "https://babyhogarinfantil.com/manoplas-y-guantes/21219-manoplas-con-dedo-rojo.html"
+    },
+    {
+      "id": "21220",
+      "name": "Manoplas con dedo Cava",
+      "url": "https://babyhogarinfantil.com/manoplas-y-guantes/21220-manoplas-con-dedo-cava.html"
+    },
+    {
+      "id": "21236",
+      "name": "Lazo grande con pinza Curry",
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/21236-lazo-grande-con-pinza-curry.html"
+    },
+    {
+      "id": "21262",
+      "name": "Babero con mangas Minnie Fucsia",
+      "url": "https://babyhogarinfantil.com/baberos/21262-babero-con-mangas-minnie-fucsia.html"
+    },
+    {
+      "id": "21265",
+      "name": "Clip velcro lacito fruncido Camel",
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/21265-clip-velcro-lacito-fruncido-camel.html"
+    },
+    {
+      "id": "21266",
+      "name": "Bolsa merienda cuadros Bambi Rosa",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/21266-bolsa-merienda-cuadros-bambi-rosa.html"
+    },
+    {
+      "id": "21267",
+      "name": "Bolsa merienda cuadros Bambi Azul celeste",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/21267-bolsa-merienda-cuadros-bambi-azul-celeste.html"
+    },
+    {
+      "id": "21270",
+      "name": "Bolsa merienda cuadros Arbol animales Rojo",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/21270-bolsa-merienda-cuadros-arbol-animales-rojo.html"
+    },
+    {
+      "id": "21271",
+      "name": "Bolsa merienda Vaquita Verde",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/21271-bolsa-merienda-vaquita-verde.html"
+    },
+    {
+      "id": "21272",
+      "name": "Bolsa merienda Vaquita Rosa",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/21272-bolsa-merienda-vaquita-rosa.html"
+    },
+    {
+      "id": "21276",
+      "name": "Gorra ZY Authentic Azul tejano",
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nino/21276-gorra-zy-authentic-azul-tejano.html"
+    },
+    {
+      "id": "21279",
+      "name": "Pack 3 calcetines lisos de 0 a 4 meses Blanco",
+      "url": "https://babyhogarinfantil.com/calcetines-en-pack/21279-pack-3-calcetines-lisos-de-0-a-4-meses-blanco.html"
+    },
+    {
+      "id": "21280",
+      "name": "Pack 3 calcetines lisos de 0 a 4 meses Gris",
+      "url": "https://babyhogarinfantil.com/calcetines-en-pack/21280-pack-3-calcetines-lisos-de-0-a-4-meses-gris.html"
+    },
+    {
+      "id": "21290",
+      "name": "Mantitas topos gamberritos 80x110 Camel",
+      "url": "https://babyhogarinfantil.com/mantas-bebe/21290-mantitas-topos-gamberritos-80x110-camel.html"
+    },
+    {
+      "id": "21301",
+      "name": "Saco capazo universal mayoral Rosa",
+      "url": "https://babyhogarinfantil.com/sacos-silla-capazo-y-grupo-0/21301-saco-capazo-universal-mayoral-rosa.html"
+    },
+    {
+      "id": "21304",
+      "name": "Saco capazo universal mayoral Marron",
+      "url": "https://babyhogarinfantil.com/sacos-silla-capazo-y-grupo-0/21304-saco-capazo-universal-mayoral-marron.html"
+    },
+    {
+      "id": "21306",
+      "name": "Calcetin con suela Gris",
+      "url": "https://babyhogarinfantil.com/calcetines-antideslizantes/21306-calcetin-con-suela-gris.html"
+    },
+    {
+      "id": "21315",
+      "name": "Toquilla punto bebe Rosa",
+      "url": "https://babyhogarinfantil.com/toquillas-tocas-arrullos/21315-toquilla-punto-bebe-rosa.html"
+    },
+    {
+      "id": "21326",
+      "name": "Sonajero mordedor antibacterio Rosa",
+      "url": "https://babyhogarinfantil.com/complementos/21326-sonajero-mordedor-antibacterio-rosa.html"
+    },
+    {
+      "id": "21327",
+      "name": "Sonajero mordedor antibacterio Verde",
+      "url": "https://babyhogarinfantil.com/complementos/21327-sonajero-mordedor-antibacterio-verde.html"
+    },
+    {
+      "id": "21341",
+      "name": "Patuco pompom pelo Nuez",
+      "url": "https://babyhogarinfantil.com/patucos/21341-patuco-pompom-pelo-nuez.html"
+    },
+    {
+      "id": "21342",
+      "name": "Patuco pompom pelo Gris",
+      "url": "https://babyhogarinfantil.com/patucos/21342-patuco-pompom-pelo-gris.html"
+    },
+    {
+      "id": "21343",
+      "name": "Patuco pompom pelo Rojo",
+      "url": "https://babyhogarinfantil.com/patucos/21343-patuco-pompom-pelo-rojo.html"
+    },
+    {
+      "id": "21344",
+      "name": "Patuco pompom pelo Azul Celeste",
+      "url": "https://babyhogarinfantil.com/patucos/21344-patuco-pompom-pelo-azul-celeste.html"
+    },
+    {
+      "id": "21345",
+      "name": "Patuco pompom pelo Blanco",
+      "url": "https://babyhogarinfantil.com/patucos/21345-patuco-pompom-pelo-blanco.html"
+    },
+    {
+      "id": "21346",
+      "name": "Patuco pompom pelo Crudo",
+      "url": "https://babyhogarinfantil.com/patucos/21346-patuco-pompom-pelo-crudo.html"
+    },
+    {
+      "id": "21347",
+      "name": "Patuco pompom pelo Rosa",
+      "url": "https://babyhogarinfantil.com/patucos/21347-patuco-pompom-pelo-rosa.html"
+    },
+    {
+      "id": "21348",
+      "name": "Patuco punto invierno Rosa",
+      "url": "https://babyhogarinfantil.com/patucos/21348-patuco-punto-invierno-rosa.html"
+    },
+    {
+      "id": "21349",
+      "name": "Patuco punto invierno Gris",
+      "url": "https://babyhogarinfantil.com/patucos/21349-patuco-punto-invierno-gris.html"
+    },
+    {
+      "id": "21350",
+      "name": "Patuco punto invierno Crudo",
+      "url": "https://babyhogarinfantil.com/patucos/21350-patuco-punto-invierno-crudo.html"
+    },
+    {
+      "id": "21351",
+      "name": "Patuco punto invierno Nuez",
+      "url": "https://babyhogarinfantil.com/patucos/21351-patuco-punto-invierno-nuez.html"
+    },
+    {
+      "id": "21352",
+      "name": "Patuco punto invierno Azul",
+      "url": "https://babyhogarinfantil.com/patucos/21352-patuco-punto-invierno-azul.html"
+    },
+    {
+      "id": "21381",
+      "name": "Patucos pompom Blanco",
+      "url": "https://babyhogarinfantil.com/patucos/21381-patucos-pompom-blanco.html"
+    },
+    {
+      "id": "21382",
+      "name": "Patucos pompom Brezo",
+      "url": "https://babyhogarinfantil.com/patucos/21382-patucos-pompom-brezo.html"
+    },
+    {
+      "id": "21383",
+      "name": "Patucos pompom Amarillo",
+      "url": "https://babyhogarinfantil.com/patucos/21383-patucos-pompom-amarillo.html"
+    },
+    {
+      "id": "21384",
+      "name": "Patucos pompom Natural",
+      "url": "https://babyhogarinfantil.com/patucos/21384-patucos-pompom-natural.html"
+    },
+    {
+      "id": "21385",
+      "name": "Patucos pompom Moka",
+      "url": "https://babyhogarinfantil.com/patucos/21385-patucos-pompom-moka.html"
+    },
+    {
+      "id": "21386",
+      "name": "Patucos pompom Nuez",
+      "url": "https://babyhogarinfantil.com/patucos/21386-patucos-pompom-nuez.html"
+    },
+    {
+      "id": "21389",
+      "name": "Toquilla toca DULZURA Azul Celeste",
+      "url": "https://babyhogarinfantil.com/toquillas-tocas-arrullos/21389-toquilla-toca-dulzura-azul-celeste.html"
+    },
+    {
+      "id": "21390",
+      "name": "Toquilla toca DULZURA Blanco",
+      "url": "https://babyhogarinfantil.com/toquillas-tocas-arrullos/21390-toquilla-toca-dulzura-blanco.html"
+    },
+    {
+      "id": "21391",
+      "name": "Toquilla toca DULZURA Crudo",
+      "url": "https://babyhogarinfantil.com/toquillas-tocas-arrullos/21391-toquilla-toca-dulzura-crudo.html"
+    },
+    {
+      "id": "21392",
+      "name": "Toquilla toca DULZURA Natural",
+      "url": "https://babyhogarinfantil.com/toquillas-tocas-arrullos/21392-toquilla-toca-dulzura-natural.html"
+    },
+    {
+      "id": "21397",
+      "name": "Turbante bebe OSLO Nude",
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/21397-turbante-bebe-oslo-nude.html"
+    },
+    {
+      "id": "21398",
+      "name": "Turbante bebe TERRA Nude",
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/21398-turbante-bebe-terra-nude.html"
+    },
+    {
+      "id": "21399",
+      "name": "Turbante bebe TERRA Crudo",
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/21399-turbante-bebe-terra-crudo.html"
+    },
+    {
+      "id": "21413",
+      "name": "Poncho playa Azul",
+      "url": "https://babyhogarinfantil.com/toallas-y-capas/21413-poncho-playa-azul.html"
+    },
+    {
+      "id": "21422",
+      "name": "Cuello Ter Arena",
+      "url": "https://babyhogarinfantil.com/gorros-y-bufandas-bebe-y-nina/21422-cuello-ter-arena.html"
+    },
+    {
+      "id": "21423",
+      "name": "Cuello Ter Verde",
+      "url": "https://babyhogarinfantil.com/gorros-y-bufandas-bebe-y-nina/21423-cuello-ter-verde.html"
+    },
+    {
+      "id": "21802",
+      "name": "Body Piconela Manga Larga granate",
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/21802-body-piconela-manga-larga-granate.html"
+    },
+    {
+      "id": "21813",
+      "name": "Juego sabanas maxicuna estrellas Beige",
+      "url": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/21813-juego-sabanas-maxicuna-estrellas-beige.html"
+    },
+    {
+      "id": "21814",
+      "name": "Juego sabanas maxicuna estrellas Gris",
+      "url": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/21814-juego-sabanas-maxicuna-estrellas-gris.html"
+    },
+    {
+      "id": "21815",
+      "name": "Juego sabanas maxicuna estrellas Azul",
+      "url": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/21815-juego-sabanas-maxicuna-estrellas-azul.html"
+    },
+    {
+      "id": "21817",
+      "name": "Mochila guarderia Crudo",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/21817-mochila-guarderia-crudo.html"
+    },
+    {
+      "id": "22058",
+      "name": "Manta nubes y lunas Rosa",
+      "url": "https://babyhogarinfantil.com/mantas-bebe/22058-manta-nubes-y-lunas-rosa.html"
+    },
+    {
+      "id": "22059",
+      "name": "Manta nubes y lunas Celeste",
+      "url": "https://babyhogarinfantil.com/mantas-bebe/22059-manta-nubes-y-lunas-celeste.html"
+    },
+    {
+      "id": "22358",
+      "name": "Patuco con cordon Blanco",
+      "url": "https://babyhogarinfantil.com/patucos/22358-patuco-con-cordon-blanco.html"
+    },
+    {
+      "id": "22359",
+      "name": "Patuco con cordon Crudo",
+      "url": "https://babyhogarinfantil.com/patucos/22359-patuco-con-cordon-crudo.html"
+    },
+    {
+      "id": "22360",
+      "name": "Patuco con cordon Azul celeste",
+      "url": "https://babyhogarinfantil.com/patucos/22360-patuco-con-cordon-azul-celeste.html"
+    },
+    {
+      "id": "22361",
+      "name": "Patuco con cordon Rosa",
+      "url": "https://babyhogarinfantil.com/patucos/22361-patuco-con-cordon-rosa.html"
+    },
+    {
+      "id": "22362",
+      "name": "Patuco con cordon Gris",
+      "url": "https://babyhogarinfantil.com/patucos/22362-patuco-con-cordon-gris.html"
+    },
+    {
+      "id": "22363",
+      "name": "Patuco con cordon Rojo",
+      "url": "https://babyhogarinfantil.com/patucos/22363-patuco-con-cordon-rojo.html"
+    },
+    {
+      "id": "22370",
+      "name": "Albornoz liso Verde",
+      "url": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/22370-albornoz-liso-verde.html"
+    },
+    {
+      "id": "22418",
+      "name": "Camiseta deporte manga corta A.D.Guarda Blanco",
+      "url": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/22418-camiseta-deporte-manga-corta-adguarda-blanco.html"
+    },
+    {
+      "id": "22481",
+      "name": "Bolsa merienda cuadros Mariquitilla Rosa",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/22481-bolsa-merienda-cuadros-mariquitilla-rosa.html"
+    },
+    {
+      "id": "22482",
+      "name": "Bolsa merienda cuadros Mariquitilla Azul celeste",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/22482-bolsa-merienda-cuadros-mariquitilla-azul-celeste.html"
+    },
+    {
+      "id": "22483",
+      "name": "Bolsa merienda cuadros Vaca corazones Amarillo",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/22483-bolsa-merienda-cuadros-vaca-corazones-amarillo.html"
+    },
+    {
+      "id": "22484",
+      "name": "Bolsa merienda cuadros Arbol animales Verde",
+      "url": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/22484-bolsa-merienda-cuadros-arbol-animales-verde.html"
+    },
+    {
+      "id": "22540",
+      "name": "Dou dou Osito Gris",
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/22540-dou-dou-osito-gris.html"
+    },
+    {
+      "id": "22541",
+      "name": "Dou dou Osito Beige",
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/22541-dou-dou-osito-beige.html"
+    },
+    {
+      "id": "22542",
+      "name": "Dou dou Osito Azul celeste",
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/22542-dou-dou-osito-azul-celeste.html"
+    },
+    {
+      "id": "22543",
+      "name": "Dou dou Osito Rosa",
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/22543-dou-dou-osito-rosa.html"
+    },
+    {
+      "id": "6041",
+      "name": "Leotardo INVIERNO calado lateral Zafiro",
+      "url": "https://babyhogarinfantil.com/leotardos-invierno/6041-leotardo-invierno-calado-lateral-zafiro.html"
+    },
+    {
+      "id": "6199",
+      "name": "Zapato velcro Sin puntera 25 al 28 Negro",
+      "url": "https://babyhogarinfantil.com/calzado-escolar/6199-zapato-velcro-sin-puntera-25-al-28-negro.html"
+    },
+    {
+      "id": "6344",
+      "name": "Gorro ochos Rojo",
+      "url": "https://babyhogarinfantil.com/gorros-bufandas-bebe-y-ni/6344-gorro-ochos-rojo.html"
+    },
+    {
+      "id": "6350",
+      "name": "Gorro ochos Rosa",
+      "url": "https://babyhogarinfantil.com/gorros-bufandas-bebe-y-ni/6350-gorro-ochos-rosa.html"
+    }
+  ],
+  "stockTotalDiscrepancies": [
+    {
+      "id": "10000",
+      "name": "Jersey punto estrellas Gris",
+      "sourceTotal": 8,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/sudaderas-y-jerseys/10000-jersey-punto-estrellas-gris.html"
+    },
+    {
+      "id": "10036",
+      "name": "Chaqueta punto volante niña cascanueces Granate",
+      "sourceTotal": 8,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/10036-chaqueta-punto-volante-nina-cascanueces-granate.html"
+    },
+    {
+      "id": "10075",
+      "name": "pack 2 pijamas y babaero Varios",
+      "sourceTotal": 10,
+      "sumVisibleVariants": 5,
+      "url": "https://babyhogarinfantil.com/pijamas-bebe-nina/10075-pack-2-pijamas-y-babaero-varios.html"
+    },
+    {
+      "id": "10100",
+      "name": "Pijama algodón tundosado Blanco",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/pijamas-bebe-nina/10100-pijama-algodon-tundosado-blanco.html"
+    },
+    {
+      "id": "10170",
+      "name": "Pijama algodon cremallera y felpa gatos Rosa",
+      "sourceTotal": 22,
+      "sumVisibleVariants": 6,
+      "url": "https://babyhogarinfantil.com/pijamas-bebe-nina/10170-pijama-algodon-cremallera-y-felpa-gatos-rosa.html"
+    },
+    {
+      "id": "10175",
+      "name": "Pantalon verde algodon felpa Verde",
+      "sourceTotal": 18,
+      "sumVisibleVariants": 6,
+      "url": "https://babyhogarinfantil.com/pantalones-nino/10175-pantalon-verde-algodon-felpa-verde.html"
+    },
+    {
+      "id": "10176",
+      "name": "Chandal amarillo con felpa niño Amarillo",
+      "sourceTotal": 15,
+      "sumVisibleVariants": 5,
+      "url": "https://babyhogarinfantil.com/chandal-bebe-nino/10176-chandal-amarillo-con-felpa-nino-amarillo.html"
+    },
+    {
+      "id": "10177",
+      "name": "Chandal azul con felpa niño Azul",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chandal-bebe-nino/10177-chandal-azul-con-felpa-nino-azul.html"
+    },
+    {
+      "id": "10273",
+      "name": "Vestidos bebé bordados Blanco",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/10273-vestidos-bebe-bordados-blanco.html"
+    },
+    {
+      "id": "10294",
+      "name": "Pepito con velcro Crudo",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/calzado-bebe-nino/10294-pepito-con-velcro-crudo.html"
+    },
+    {
+      "id": "10541",
+      "name": "Conjunto ceremonia bebe con pajarita Lino",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 5,
+      "url": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10541-conjunto-ceremonia-bebe-con-pajarita-lino.html"
+    },
+    {
+      "id": "12808",
+      "name": "Colchoneta silla patito Azul",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/sacos-silla-capazo-y-grupo-0/12808-colchoneta-silla-patito-azul.html"
+    },
+    {
+      "id": "12843",
+      "name": "Sudadera Martin Codax 50 aniversario Gris",
+      "sourceTotal": -1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/colegio-martin-codax-vigo/12843-sudadera-martin-codax-50-aniversario-gris.html"
+    },
+    {
+      "id": "12851",
+      "name": "Conjunto corazones con leggin pirata Rojo",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/conjuntos-nina/12851-conjunto-corazones-con-leggin-pirata-rojo.html"
+    },
+    {
+      "id": "16122",
+      "name": "Pantalón colegial CORTO todo goma 2 a 12 Gris Oscuro",
+      "sourceTotal": 9,
+      "sumVisibleVariants": 8,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/16122-pantalon-colegial-corto-todo-goma-2-a-12-gris-oscuro.html"
+    },
+    {
+      "id": "16130",
+      "name": "Lazo pequeño Crudo",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16130-lazo-pequeno-crudo.html"
+    },
+    {
+      "id": "16133",
+      "name": "Lazo pequeño Burdeos",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16133-lazo-pequeno-burdeos.html"
+    },
+    {
+      "id": "16136",
+      "name": "Lazo pequeño Blanco",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16136-lazo-pequeno-blanco.html"
+    },
+    {
+      "id": "16140",
+      "name": "Lazo pequeño Fucsia claro",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16140-lazo-pequeno-fucsia-claro.html"
+    },
+    {
+      "id": "16197",
+      "name": "Pantalón largo infantil San Fernando Azul Marino",
+      "sourceTotal": 54,
+      "sumVisibleVariants": 53,
+      "url": "https://babyhogarinfantil.com/colegio-san-fernando/16197-pantalon-largo-infantil-san-fernando-azul-marino.html"
+    },
+    {
+      "id": "16206",
+      "name": "Chaqueta chandal Divino Salvador Azul Marino",
+      "sourceTotal": 109,
+      "sumVisibleVariants": 49,
+      "url": "https://babyhogarinfantil.com/colegio-divino-salvador-vigo/16206-chaqueta-chandal-divino-salvador-azul-marino.html"
+    },
+    {
+      "id": "16210",
+      "name": "Polo bordado manga larga Divino Salvador Blanco",
+      "sourceTotal": 58,
+      "sumVisibleVariants": 56,
+      "url": "https://babyhogarinfantil.com/colegio-divino-salvador-vigo/16210-polo-bordado-manga-larga-divino-salvador-blanco.html"
+    },
+    {
+      "id": "16213",
+      "name": "Camiseta manga larga Divino Salvador Blanco",
+      "sourceTotal": 48,
+      "sumVisibleVariants": 46,
+      "url": "https://babyhogarinfantil.com/colegio-divino-salvador-vigo/16213-camiseta-manga-larga-divino-salvador-blanco.html"
+    },
+    {
+      "id": "16325",
+      "name": "Pantalón largo chandal San Fernando Azul Marino",
+      "sourceTotal": 50,
+      "sumVisibleVariants": 30,
+      "url": "https://babyhogarinfantil.com/colegio-san-fernando/16325-pantalon-largo-chandal-san-fernando-azul-marino.html"
+    },
+    {
+      "id": "16326",
+      "name": "Pantalón corto San Fernando Azul Marino",
+      "sourceTotal": 74,
+      "sumVisibleVariants": 70,
+      "url": "https://babyhogarinfantil.com/colegio-san-fernando/16326-pantalon-corto-san-fernando-azul-marino.html"
+    },
+    {
+      "id": "16334",
+      "name": "Sudadera 6 a 18 Azul Marino",
+      "sourceTotal": 56,
+      "sumVisibleVariants": 55,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/16334-sudadera-6-a-18-azul-marino.html"
+    },
+    {
+      "id": "16336",
+      "name": "Pantalon chandal 6 a 18 Azul Marino",
+      "sourceTotal": 88,
+      "sumVisibleVariants": 50,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/16336-pantalon-chandal-6-a-18-azul-marino.html"
+    },
+    {
+      "id": "16337",
+      "name": "Pantalon chandal S a XL Azul Marino",
+      "sourceTotal": 16,
+      "sumVisibleVariants": 9,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/16337-pantalon-chandal-s-a-xl-azul-marino.html"
+    },
+    {
+      "id": "16338",
+      "name": "Camiseta deporte 6 a 16 Blanco",
+      "sourceTotal": 16,
+      "sumVisibleVariants": 62,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/16338-camiseta-deporte-6-a-16-blanco.html"
+    },
+    {
+      "id": "16339",
+      "name": "Camiseta deporte S a XL Blanco",
+      "sourceTotal": 26,
+      "sumVisibleVariants": 9,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/16339-camiseta-deporte-s-a-xl-blanco.html"
+    },
+    {
+      "id": "16340",
+      "name": "Bermuda deporte 6 a 18 Azul Marino",
+      "sourceTotal": 66,
+      "sumVisibleVariants": 7,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/16340-bermuda-deporte-6-a-18-azul-marino.html"
+    },
+    {
+      "id": "16346",
+      "name": "Sudadera infantil Verde",
+      "sourceTotal": 56,
+      "sumVisibleVariants": 55,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/16346-sudadera-infantil-verde.html"
+    },
+    {
+      "id": "16347",
+      "name": "Pantalón chandal infantil Azul Marino",
+      "sourceTotal": 27,
+      "sumVisibleVariants": 24,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/16347-pantalon-chandal-infantil-azul-marino.html"
+    },
+    {
+      "id": "16759",
+      "name": "Pepito con velcro Azul celeste",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/calzado-bebe-nino/16759-pepito-con-velcro-azul-celeste.html"
+    },
+    {
+      "id": "16902",
+      "name": "Pololo botones Azul",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/16902-pololo-botones-azul.html"
+    },
+    {
+      "id": "16944",
+      "name": "Bata bebe niño GO Azul",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/batas-bebe-nino/16944-bata-bebe-nino-go-azul.html"
+    },
+    {
+      "id": "17267",
+      "name": "Camiseta primaria manga larga montesol Blanco",
+      "sourceTotal": 19,
+      "sumVisibleVariants": 20,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/17267-camiseta-primaria-manga-larga-montesol-blanco.html"
+    },
+    {
+      "id": "17420",
+      "name": "Ranita pololo Rodas Mint",
+      "sourceTotal": 10,
+      "sumVisibleVariants": 8,
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/17420-ranita-pololo-rodas-mint.html"
+    },
+    {
+      "id": "17424",
+      "name": "Ranita pololo Rodas con lazo Mint",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/17424-ranita-pololo-rodas-con-lazo-mint.html"
+    },
+    {
+      "id": "17535",
+      "name": "Dou Dou Topitos Verde",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/17535-dou-dou-topitos-verde.html"
+    },
+    {
+      "id": "17591",
+      "name": "Pantalón chandal liso con goma Azul Marino",
+      "sourceTotal": 64,
+      "sumVisibleVariants": 119,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/17591-pantalon-chandal-liso-con-goma-azul-marino.html"
+    },
+    {
+      "id": "17592",
+      "name": "Pantalón colegial LARGO pinza 12 a 26 Azul Marino",
+      "sourceTotal": 14,
+      "sumVisibleVariants": 13,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/17592-pantalon-colegial-largo-pinza-12-a-26-azul-marino.html"
+    },
+    {
+      "id": "17593",
+      "name": "Pantalón colegial CORTO todo goma 2 a 12 Azul Marino",
+      "sourceTotal": 13,
+      "sumVisibleVariants": 12,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/17593-pantalon-colegial-corto-todo-goma-2-a-12-azul-marino.html"
+    },
+    {
+      "id": "17595",
+      "name": "Pantalón corto colegial MAYORAL 8 a 14 Azul marino",
+      "sourceTotal": 9,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/17595-pantalon-corto-colegial-mayoral-8-a-14-azul-marino.html"
+    },
+    {
+      "id": "17597",
+      "name": "Pantalon largo colegial goma MAYORAL Azul Marino",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 5,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/17597-pantalon-largo-colegial-goma-mayoral-azul-marino.html"
+    },
+    {
+      "id": "17598",
+      "name": "Forro polar Ángel de la Guarda Azul Marino",
+      "sourceTotal": 32,
+      "sumVisibleVariants": 31,
+      "url": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/17598-forro-polar-angel-de-la-guarda-azul-marino.html"
+    },
+    {
+      "id": "17609",
+      "name": "Calcetín alto perlé calado con lazo Mantequilla",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/calcetines-con-lazo/17609-calcetin-alto-perle-calado-con-lazo-mantequilla.html"
+    },
+    {
+      "id": "17758",
+      "name": "Vestido Tietar Azul",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/vestidos-nina/17758-vestido-tietar-azul.html"
+    },
+    {
+      "id": "18607",
+      "name": "Calcetin alto canalé Rojo",
+      "sourceTotal": 18,
+      "sumVisibleVariants": 20,
+      "url": "https://babyhogarinfantil.com/calcetines-altos/18607-calcetin-alto-canale-rojo.html"
+    },
+    {
+      "id": "18963",
+      "name": "Bajera ajustable cuna Blanco",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 6,
+      "url": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/18963-bajera-ajustable-cuna-blanco.html"
+    },
+    {
+      "id": "18981",
+      "name": "Gorrito algodón primera puesta Blanco",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/primera-puesta-bebe/18981-gorrito-algodon-primera-puesta-blanco.html"
+    },
+    {
+      "id": "18985",
+      "name": "Polaina algodón lisa Blanco",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 15,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/18985-polaina-algodon-lisa-blanco.html"
+    },
+    {
+      "id": "18986",
+      "name": "Polaina algodón lisa Crudo",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 12,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/18986-polaina-algodon-lisa-crudo.html"
+    },
+    {
+      "id": "19530",
+      "name": "Ranita básica piqué Blanco",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 28,
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/19530-ranita-basica-pique-blanco.html"
+    },
+    {
+      "id": "19531",
+      "name": "Ranita básica piqué Beige",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 14,
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/19531-ranita-basica-pique-beige.html"
+    },
+    {
+      "id": "19532",
+      "name": "Ranita básica piqué Rosa",
+      "sourceTotal": 26,
+      "sumVisibleVariants": 21,
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/19532-ranita-basica-pique-rosa.html"
+    },
+    {
+      "id": "19630",
+      "name": "Polo manga corta Montesol Blanco",
+      "sourceTotal": 76,
+      "sumVisibleVariants": 73,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/19630-polo-manga-corta-montesol-blanco.html"
+    },
+    {
+      "id": "19632",
+      "name": "Pantalón corto uniforme Montesol Azul Marino",
+      "sourceTotal": 53,
+      "sumVisibleVariants": 51,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/19632-pantalon-corto-uniforme-montesol-azul-marino.html"
+    },
+    {
+      "id": "19633",
+      "name": "Falda uniforme Montesol Varios",
+      "sourceTotal": -11,
+      "sumVisibleVariants": 21,
+      "url": "https://babyhogarinfantil.com/colegio-montesol/19633-falda-uniforme-montesol-varios.html"
+    },
+    {
+      "id": "19685",
+      "name": "Calcetín invisible sport Blanco",
+      "sourceTotal": 24,
+      "sumVisibleVariants": 19,
+      "url": "https://babyhogarinfantil.com/calcetines-cortos-lisos/19685-calcetin-invisible-sport-blanco.html"
+    },
+    {
+      "id": "19763",
+      "name": "Rebeca tricot cuello redondo Azul Marino",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/19763-rebeca-tricot-cuello-redondo-azul-marino.html"
+    },
+    {
+      "id": "19773",
+      "name": "Pantalón corto deport Ángel de la guarda Azul Marino",
+      "sourceTotal": 9,
+      "sumVisibleVariants": 8,
+      "url": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/19773-pantalon-corto-deport-angel-de-la-guarda-azul-marino.html"
+    },
+    {
+      "id": "19775",
+      "name": "Chaqueta Chandal Ángel de la guarda Azul Marino",
+      "sourceTotal": 37,
+      "sumVisibleVariants": 36,
+      "url": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/19775-chaqueta-chandal-angel-de-la-guarda-azul-marino.html"
+    },
+    {
+      "id": "19808",
+      "name": "Polo manga corta Ángel de la guarda Blanco",
+      "sourceTotal": 45,
+      "sumVisibleVariants": 43,
+      "url": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/19808-polo-manga-corta-angel-de-la-guarda-blanco.html"
+    },
+    {
+      "id": "20149",
+      "name": "Pantalón colegial CORTO boton de 10 a 22 Azul marino",
+      "sourceTotal": 13,
+      "sumVisibleVariants": 8,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/20149-pantalon-colegial-corto-boton-de-10-a-22-azul-marino.html"
+    },
+    {
+      "id": "20150",
+      "name": "Pantalón colegial CORTO boton de 10 a 22 Gris oscuro",
+      "sourceTotal": 14,
+      "sumVisibleVariants": 6,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/20150-pantalon-colegial-corto-boton-de-10-a-22-gris-oscuro.html"
+    },
+    {
+      "id": "20431",
+      "name": "Pololo pana con lazo Verde",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/20431-pololo-pana-con-lazo-verde.html"
+    },
+    {
+      "id": "20504",
+      "name": "Pijama pelele interlock Azul",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/pijamas-bebe-nino/20504-pijama-pelele-interlock-azul.html"
+    },
+    {
+      "id": "20507",
+      "name": "Pelele pijama entero Beige",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 5,
+      "url": "https://babyhogarinfantil.com/pijamas-bebe-nino/20507-pelele-pijama-entero-beige.html"
+    },
+    {
+      "id": "20516",
+      "name": "Conjunto peto algodón con camiseta Caqui",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/conjuntos-bebe-nino/20516-conjunto-peto-algodon-con-camiseta-caqui.html"
+    },
+    {
+      "id": "20961",
+      "name": "Chubasquero bebé niña Azul Marino",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/20961-chubasquero-bebe-nina-azul-marino.html"
+    },
+    {
+      "id": "21436",
+      "name": "Set manta y Dou Dou Crudo",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/mantas-bebe/21436-set-manta-y-dou-dou-crudo.html"
+    },
+    {
+      "id": "21484",
+      "name": "Pelele pijama entero algodón interlock Azul",
+      "sourceTotal": 10,
+      "sumVisibleVariants": 7,
+      "url": "https://babyhogarinfantil.com/pijamas-bebe-nino/21484-pelele-pijama-entero-algodon-interlock-azul.html"
+    },
+    {
+      "id": "21499",
+      "name": "Peto algodón con camiseta bebe niño Nube",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21499-peto-algodon-con-camiseta-bebe-nino-nube.html"
+    },
+    {
+      "id": "21512",
+      "name": "Pijama pelele algodón bebé niño Beige",
+      "sourceTotal": 11,
+      "sumVisibleVariants": 9,
+      "url": "https://babyhogarinfantil.com/pijamas-bebe-nino/21512-pijama-pelele-algodon-bebe-nino-beige.html"
+    },
+    {
+      "id": "21623",
+      "name": "Pantalón felpa básico puños Niebla",
+      "sourceTotal": 14,
+      "sumVisibleVariants": 13,
+      "url": "https://babyhogarinfantil.com/pantalones-nino/21623-pantalon-felpa-basico-punos-niebla.html"
+    },
+    {
+      "id": "21761",
+      "name": "Camiseta manga corta 2 piezas crochet Garbanzo",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 5,
+      "url": "https://babyhogarinfantil.com/camisetas-nina/21761-camiseta-manga-corta-2-piezas-crochet-garbanzo.html"
+    },
+    {
+      "id": "21775",
+      "name": "Conjunto leggings estampado niña Lago",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/conjuntos-nina/21775-conjunto-leggings-estampado-nina-lago.html"
+    },
+    {
+      "id": "21777",
+      "name": "Chandal pullover niño Peach",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/chandals-nino/21777-chandal-pullover-nino-peach.html"
+    },
+    {
+      "id": "21778",
+      "name": "Chandal 3 piezas con camiseta niño Tomate",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/chandals-nino/21778-chandal-3-piezas-con-camiseta-nino-tomate.html"
+    },
+    {
+      "id": "21792",
+      "name": "Bodie manga corta Mayoral algodón Crudo",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/21792-bodie-manga-corta-mayoral-algodon-crudo.html"
+    },
+    {
+      "id": "21793",
+      "name": "Bodie manga corta Mayoral algodón Arena",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/21793-bodie-manga-corta-mayoral-algodon-arena.html"
+    },
+    {
+      "id": "21845",
+      "name": "Baby infantil El Castro-San Miguel Azul",
+      "sourceTotal": 102,
+      "sumVisibleVariants": 85,
+      "url": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/21845-baby-infantil-el-castro-san-miguel-azul.html"
+    },
+    {
+      "id": "21848",
+      "name": "Bermuda infantíl El Castro-San Miguel Azul",
+      "sourceTotal": 50,
+      "sumVisibleVariants": 47,
+      "url": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/21848-bermuda-infantil-el-castro-san-miguel-azul.html"
+    },
+    {
+      "id": "21850",
+      "name": "Sudadera primaria y ESO San Miguel Azul",
+      "sourceTotal": 80,
+      "sumVisibleVariants": 53,
+      "url": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/21850-sudadera-primaria-y-eso-san-miguel-azul.html"
+    },
+    {
+      "id": "21855",
+      "name": "Camiseta infantíl El Castro-San Miguel Blanco",
+      "sourceTotal": 72,
+      "sumVisibleVariants": 84,
+      "url": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/21855-camiseta-infantil-el-castro-san-miguel-blanco.html"
+    },
+    {
+      "id": "21860",
+      "name": "Polo liso algodon manga corta 18 a 22 Blanco",
+      "sourceTotal": 15,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/polos-escolares/21860-polo-liso-algodon-manga-corta-18-a-22-blanco.html"
+    },
+    {
+      "id": "21907",
+      "name": "Short vaquero niña denim claro Mayoral Azul",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/pantalones-leggins-shorts/21907-short-vaquero-nina-denim-claro-mayoral-azul.html"
+    },
+    {
+      "id": "21930",
+      "name": "Chaqueta vaquera niña Mayoral algodon Verde",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/cazadoras-y-parkas/21930-chaqueta-vaquera-nina-mayoral-algodon-verde.html"
+    },
+    {
+      "id": "21939",
+      "name": "Conjunto bebe niño 3 piezas verano Yema",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21939-conjunto-bebe-nino-3-piezas-verano-yema.html"
+    },
+    {
+      "id": "21948",
+      "name": "Conjunto bebé niña verano polaina Crudo",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/conjuntos-punto-bebe-nina/21948-conjunto-bebe-nina-verano-polaina-crudo.html"
+    },
+    {
+      "id": "21952",
+      "name": "Conjunto bebé niña verano polaina Rosa",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/conjuntos-punto-bebe-nina/21952-conjunto-bebe-nina-verano-polaina-rosa.html"
+    },
+    {
+      "id": "21953",
+      "name": "Conjunto bebé niño verano polaina Azul Celeste",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/conjuntos-de-punto-bebe-nino/21953-conjunto-bebe-nino-verano-polaina-azul-celeste.html"
+    },
+    {
+      "id": "21984",
+      "name": "Conjunto chandal bebé niño 3 piezas Azul",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21984-conjunto-chandal-bebe-nino-3-piezas-azul.html"
+    },
+    {
+      "id": "22020",
+      "name": "Poncho playa infantil lilo &stich Rosa",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/toallas-y-capas/22020-poncho-playa-infantil-lilo-stich-rosa.html"
+    },
+    {
+      "id": "22073",
+      "name": "Pantalón largo El Castro-San Miguel Azul",
+      "sourceTotal": 80,
+      "sumVisibleVariants": 79,
+      "url": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/22073-pantalon-largo-el-castro-san-miguel-azul.html"
+    },
+    {
+      "id": "22075",
+      "name": "Camiseta El Castro-San Miguel Blanco",
+      "sourceTotal": 74,
+      "sumVisibleVariants": 57,
+      "url": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/22075-camiseta-el-castro-san-miguel-blanco.html"
+    },
+    {
+      "id": "5996",
+      "name": "Polo liso manga larga Blanco",
+      "sourceTotal": 50,
+      "sumVisibleVariants": 23,
+      "url": "https://babyhogarinfantil.com/polos-escolares/5996-polo-liso-manga-larga-blanco.html"
+    },
+    {
+      "id": "5997",
+      "name": "Polaina punto liso sin costuras Angora",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/5997-polaina-punto-liso-sin-costuras-angora.html"
+    },
+    {
+      "id": "5998",
+      "name": "Polaina punto liso sin costuras Blanco",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 11,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/5998-polaina-punto-liso-sin-costuras-blanco.html"
+    },
+    {
+      "id": "5999",
+      "name": "Polaina punto liso sin costuras Camel",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/5999-polaina-punto-liso-sin-costuras-camel.html"
+    },
+    {
+      "id": "6000",
+      "name": "Polaina punto liso sin costuras Crudo",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 6,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6000-polaina-punto-liso-sin-costuras-crudo.html"
+    },
+    {
+      "id": "6001",
+      "name": "Polaina punto liso sin costuras Azul Celeste",
+      "sourceTotal": 20,
+      "sumVisibleVariants": 16,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6001-polaina-punto-liso-sin-costuras-azul-celeste.html"
+    },
+    {
+      "id": "6002",
+      "name": "Polaina punto liso sin costuras Rosa",
+      "sourceTotal": 18,
+      "sumVisibleVariants": 17,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6002-polaina-punto-liso-sin-costuras-rosa.html"
+    },
+    {
+      "id": "6003",
+      "name": "Polaina punto liso sin costuras Gris Claro",
+      "sourceTotal": 18,
+      "sumVisibleVariants": 16,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6003-polaina-punto-liso-sin-costuras-gris-claro.html"
+    },
+    {
+      "id": "6004",
+      "name": "Polaina punto liso sin costuras Rojo",
+      "sourceTotal": 8,
+      "sumVisibleVariants": 6,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6004-polaina-punto-liso-sin-costuras-rojo.html"
+    },
+    {
+      "id": "6007",
+      "name": "Pantalón colegial LARGO pinza 12 a 26 Gris Oscuro",
+      "sourceTotal": 8,
+      "sumVisibleVariants": 6,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/6007-pantalon-colegial-largo-pinza-12-a-26-gris-oscuro.html"
+    },
+    {
+      "id": "6090",
+      "name": "Polaina lisa perlé AZUL Celeste",
+      "sourceTotal": 21,
+      "sumVisibleVariants": 19,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6090-polaina-lisa-perle-azul-celeste.html"
+    },
+    {
+      "id": "6096",
+      "name": "Polaina lisa perlé Crudo",
+      "sourceTotal": 56,
+      "sumVisibleVariants": 14,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6096-polaina-lisa-perle-crudo.html"
+    },
+    {
+      "id": "6134",
+      "name": "Leotardo perlé calado Rosa Empolvado",
+      "sourceTotal": 15,
+      "sumVisibleVariants": 14,
+      "url": "https://babyhogarinfantil.com/leotardos-verano/6134-leotardo-perle-calado-rosa-empolvado.html"
+    },
+    {
+      "id": "6151",
+      "name": "Calcetín corto algodón puño labrado Blanco",
+      "sourceTotal": 14,
+      "sumVisibleVariants": 12,
+      "url": "https://babyhogarinfantil.com/calcetines-primavera/6151-calcetin-corto-algodon-puno-labrado-blanco.html"
+    },
+    {
+      "id": "6152",
+      "name": "Calcetín corto algodón puño labrado Azul Marino",
+      "sourceTotal": 22,
+      "sumVisibleVariants": 20,
+      "url": "https://babyhogarinfantil.com/calcetines-primavera/6152-calcetin-corto-algodon-puno-labrado-azul-marino.html"
+    },
+    {
+      "id": "6153",
+      "name": "Calcetín corto algodón puño labrado Rojo",
+      "sourceTotal": 18,
+      "sumVisibleVariants": 16,
+      "url": "https://babyhogarinfantil.com/calcetines-primavera/6153-calcetin-corto-algodon-puno-labrado-rojo.html"
+    },
+    {
+      "id": "6163",
+      "name": "Calcetín corto algodón puño labrado Nata",
+      "sourceTotal": 24,
+      "sumVisibleVariants": 20,
+      "url": "https://babyhogarinfantil.com/calcetines-primavera/6163-calcetin-corto-algodon-puno-labrado-nata.html"
+    },
+    {
+      "id": "6167",
+      "name": "Camisa bebé manga corta con lorzas Crudo",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/camisas-bebe-nino/6167-camisa-bebe-manga-corta-con-lorzas-crudo.html"
+    },
+    {
+      "id": "6172",
+      "name": "Visera Bebé niño Blanco",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nino/6172-visera-bebe-nino-blanco.html"
+    },
+    {
+      "id": "6174",
+      "name": "Visera Bebé niño Rojo",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 5,
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nino/6174-visera-bebe-nino-rojo.html"
+    },
+    {
+      "id": "6178",
+      "name": "Visera Bebé niño Naranja",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nino/6178-visera-bebe-nino-naranja.html"
+    },
+    {
+      "id": "6202",
+      "name": "Mochila infantil Labor ",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/colegio-labor-vigo/6202-mochila-infantil-labor-.html"
+    },
+    {
+      "id": "6238",
+      "name": "Leotardo punto liso Rojo",
+      "sourceTotal": 15,
+      "sumVisibleVariants": 19,
+      "url": "https://babyhogarinfantil.com/leotardos-invierno/6238-leotardo-punto-liso-rojo.html"
+    },
+    {
+      "id": "6241",
+      "name": "Leotardo punto liso Verde botella",
+      "sourceTotal": 58,
+      "sumVisibleVariants": 45,
+      "url": "https://babyhogarinfantil.com/leotardos-invierno/6241-leotardo-punto-liso-verde-botella.html"
+    },
+    {
+      "id": "6242",
+      "name": "Leotardo punto liso Azul Marino",
+      "sourceTotal": 73,
+      "sumVisibleVariants": 58,
+      "url": "https://babyhogarinfantil.com/leotardos-invierno/6242-leotardo-punto-liso-azul-marino.html"
+    },
+    {
+      "id": "6259",
+      "name": "Leotardo punto liso Tabaco",
+      "sourceTotal": 8,
+      "sumVisibleVariants": 7,
+      "url": "https://babyhogarinfantil.com/leotardos-invierno/6259-leotardo-punto-liso-tabaco.html"
+    },
+    {
+      "id": "6284",
+      "name": "Leotardo punto liso Marsala",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/leotardos-invierno/6284-leotardo-punto-liso-marsala.html"
+    },
+    {
+      "id": "6285",
+      "name": "Calcetín alto con borlas Camel",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 9,
+      "url": "https://babyhogarinfantil.com/calcetines-con-pom-pom/6285-calcetin-alto-con-borlas-camel.html"
+    },
+    {
+      "id": "6286",
+      "name": "Calcetín alto con borlas Marrón",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/calcetines-con-pom-pom/6286-calcetin-alto-con-borlas-marron.html"
+    },
+    {
+      "id": "6297",
+      "name": "Calcetín básico punto liso Azul Marino",
+      "sourceTotal": 79,
+      "sumVisibleVariants": 99,
+      "url": "https://babyhogarinfantil.com/calcetines-cortos-lisos/6297-calcetin-basico-punto-liso-azul-marino.html"
+    },
+    {
+      "id": "6298",
+      "name": "Calcetín básico punto liso Blanco",
+      "sourceTotal": 58,
+      "sumVisibleVariants": 53,
+      "url": "https://babyhogarinfantil.com/calcetines-cortos-lisos/6298-calcetin-basico-punto-liso-blanco.html"
+    },
+    {
+      "id": "6300",
+      "name": "Calcetín básico punto liso Verde Botella",
+      "sourceTotal": 53,
+      "sumVisibleVariants": 116,
+      "url": "https://babyhogarinfantil.com/calcetines-cortos-lisos/6300-calcetin-basico-punto-liso-verde-botella.html"
+    },
+    {
+      "id": "6301",
+      "name": "Calcetín básico punto liso Antracita",
+      "sourceTotal": 46,
+      "sumVisibleVariants": 43,
+      "url": "https://babyhogarinfantil.com/calcetines-cortos-lisos/6301-calcetin-basico-punto-liso-antracita.html"
+    },
+    {
+      "id": "6305",
+      "name": "Calcetin alto básica punto liso Azul Marino",
+      "sourceTotal": 91,
+      "sumVisibleVariants": 89,
+      "url": "https://babyhogarinfantil.com/calcetines-altos/6305-calcetin-alto-basica-punto-liso-azul-marino.html"
+    },
+    {
+      "id": "6393",
+      "name": "Panera bolsillo plastic personalizable Azul Celeste",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/bolsas-bebe/6393-panera-bolsillo-plastic-personalizable-azul-celeste.html"
+    },
+    {
+      "id": "6399",
+      "name": "Panera bolsillo plastic personalizable Rojo",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/bolsas-bebe/6399-panera-bolsillo-plastic-personalizable-rojo.html"
+    },
+    {
+      "id": "6408",
+      "name": "Calcetín deportivo rizo Blanco",
+      "sourceTotal": 96,
+      "sumVisibleVariants": 108,
+      "url": "https://babyhogarinfantil.com/calcetines-deportivos/6408-calcetin-deportivo-rizo-blanco.html"
+    },
+    {
+      "id": "6419",
+      "name": "Body cuello puntilla Manga Corta Blanco",
+      "sourceTotal": 14,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/6419-body-cuello-puntilla-manga-corta-blanco.html"
+    },
+    {
+      "id": "6420",
+      "name": "Body cuello puntilla Manga Corta Azul celeste",
+      "sourceTotal": 11,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/6420-body-cuello-puntilla-manga-corta-azul-celeste.html"
+    },
+    {
+      "id": "6421",
+      "name": "Body cuello puntilla Manga Corta Rosa",
+      "sourceTotal": 13,
+      "sumVisibleVariants": 12,
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/6421-body-cuello-puntilla-manga-corta-rosa.html"
+    },
+    {
+      "id": "6449",
+      "name": "Gorro loneta con ala Blanco",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/6449-gorro-loneta-con-ala-blanco.html"
+    },
+    {
+      "id": "6474",
+      "name": "Mandilón Comedor Angel de la Guarda Verde",
+      "sourceTotal": 38,
+      "sumVisibleVariants": 37,
+      "url": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/6474-mandilon-comedor-angel-de-la-guarda-verde.html"
+    },
+    {
+      "id": "6477",
+      "name": "Pantalón colegial LARGO gomas de 2 a 10 Gris Oscuro",
+      "sourceTotal": 8,
+      "sumVisibleVariants": 7,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/6477-pantalon-colegial-largo-gomas-de-2-a-10-gris-oscuro.html"
+    },
+    {
+      "id": "6479",
+      "name": "Pantalón colegial CORTO gomas de 4 a 10 Gris Oscuro",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/6479-pantalon-colegial-corto-gomas-de-4-a-10-gris-oscuro.html"
+    },
+    {
+      "id": "6537",
+      "name": "Pack 2 braguitas altas lisas niña Blanco",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 12,
+      "url": "https://babyhogarinfantil.com/interiores-nina/6537-pack-2-braguitas-altas-lisas-nina-blanco.html"
+    },
+    {
+      "id": "6538",
+      "name": "Bolsa grande Piramide personalizable Gris Claro",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/bolsas-bebe/6538-bolsa-grande-piramide-personalizable-gris-claro.html"
+    },
+    {
+      "id": "6539",
+      "name": "Bolsa grande Piramide personalizable Camel",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/bolsas-bebe/6539-bolsa-grande-piramide-personalizable-camel.html"
+    },
+    {
+      "id": "6561",
+      "name": "Braguita calada dralon Azul Marino",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/bragas-bebe-nina/6561-braguita-calada-dralon-azul-marino.html"
+    },
+    {
+      "id": "6600",
+      "name": "Camisa bebé plumeti cuello volante Azul Celeste",
+      "sourceTotal": 9,
+      "sumVisibleVariants": 8,
+      "url": "https://babyhogarinfantil.com/camisetas-bebe-nina/6600-camisa-bebe-plumeti-cuello-volante-azul-celeste.html"
+    },
+    {
+      "id": "6611",
+      "name": "Bolso tapeta plastic Personalizable Camel",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/bolsas-bebe/6611-bolso-tapeta-plastic-personalizable-camel.html"
+    },
+    {
+      "id": "6614",
+      "name": "Ranita micropana lisa Azul Celeste",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/6614-ranita-micropana-lisa-azul-celeste.html"
+    },
+    {
+      "id": "6618",
+      "name": "Ranita micropana lisa Granate",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/6618-ranita-micropana-lisa-granate.html"
+    },
+    {
+      "id": "6678",
+      "name": "Merceditas con hebilla BH Rosa",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/calzado-bebe-nina/6678-merceditas-con-hebilla-bh-rosa.html"
+    },
+    {
+      "id": "6686",
+      "name": "Body Piconela M/Larga Blanco",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nino/6686-body-piconela-mlarga-blanco.html"
+    },
+    {
+      "id": "6688",
+      "name": "Body Piconela M/Larga Rosa",
+      "sourceTotal": 13,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/6688-body-piconela-mlarga-rosa.html"
+    },
+    {
+      "id": "6692",
+      "name": "Polo Martin Codax BORDADO Azulón",
+      "sourceTotal": 31,
+      "sumVisibleVariants": 23,
+      "url": "https://babyhogarinfantil.com/colegio-martin-codax-vigo/6692-polo-martin-codax-bordado-azulon.html"
+    },
+    {
+      "id": "6706",
+      "name": "Polaina punto reves Blanco",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6706-polaina-punto-reves-blanco.html"
+    },
+    {
+      "id": "6707",
+      "name": "Polaina punto reves Angora",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6707-polaina-punto-reves-angora.html"
+    },
+    {
+      "id": "6709",
+      "name": "Polaina punto reves Crudo",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 7,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6709-polaina-punto-reves-crudo.html"
+    },
+    {
+      "id": "6710",
+      "name": "Polaina punto reves Azul Celeste",
+      "sourceTotal": 11,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6710-polaina-punto-reves-azul-celeste.html"
+    },
+    {
+      "id": "6711",
+      "name": "Polaina punto reves Rosa",
+      "sourceTotal": 14,
+      "sumVisibleVariants": 11,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6711-polaina-punto-reves-rosa.html"
+    },
+    {
+      "id": "6713",
+      "name": "Polaina punto reves Orquidea",
+      "sourceTotal": 10,
+      "sumVisibleVariants": 7,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6713-polaina-punto-reves-orquidea.html"
+    },
+    {
+      "id": "6714",
+      "name": "Polaina punto reves Gris oscuro",
+      "sourceTotal": 9,
+      "sumVisibleVariants": 5,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6714-polaina-punto-reves-gris-oscuro.html"
+    },
+    {
+      "id": "6715",
+      "name": "Polaina punto reves Nuez",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6715-polaina-punto-reves-nuez.html"
+    },
+    {
+      "id": "6716",
+      "name": "Polaina punto reves Amarillo",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6716-polaina-punto-reves-amarillo.html"
+    },
+    {
+      "id": "6717",
+      "name": "Polaina punto reves Rojo",
+      "sourceTotal": 7,
+      "sumVisibleVariants": 6,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6717-polaina-punto-reves-rojo.html"
+    },
+    {
+      "id": "6718",
+      "name": "Polaina punto reves Nube",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 6,
+      "url": "https://babyhogarinfantil.com/polainas-bebe-nina/6718-polaina-punto-reves-nube.html"
+    },
+    {
+      "id": "6735",
+      "name": "Chaqueta niña larga sin costiras link Camel",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/6735-chaqueta-nina-larga-sin-costiras-link-camel.html"
+    },
+    {
+      "id": "6766",
+      "name": "Calcetín alto perlé calado con lazo Azul marino",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/calcetines-con-lazo/6766-calcetin-alto-perle-calado-con-lazo-azul-marino.html"
+    },
+    {
+      "id": "6776",
+      "name": "Gorro piqué lazo Arena",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/6776-gorro-pique-lazo-arena.html"
+    },
+    {
+      "id": "6804",
+      "name": "Vela para bautizo PALOMA Crudo",
+      "sourceTotal": -1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/velas-para-bautizo/6804-vela-para-bautizo-paloma-crudo.html"
+    },
+    {
+      "id": "6805",
+      "name": "Vela para bautizo CONCHA Crudo",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/velas-para-bautizo/6805-vela-para-bautizo-concha-crudo.html"
+    },
+    {
+      "id": "6883",
+      "name": "Mandilón sin botones Azul",
+      "sourceTotal": 31,
+      "sumVisibleVariants": 26,
+      "url": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/6883-mandilon-sin-botones-azul.html"
+    },
+    {
+      "id": "6891",
+      "name": "Babi Mandilón bata Payaso Rosa",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 9,
+      "url": "https://babyhogarinfantil.com/babis-escolares/6891-babi-mandilon-bata-payaso-rosa.html"
+    },
+    {
+      "id": "6893",
+      "name": "Babi Mandilón bata Payaso Pistacho",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 12,
+      "url": "https://babyhogarinfantil.com/babis-escolares/6893-babi-mandilon-bata-payaso-pistacho.html"
+    },
+    {
+      "id": "6894",
+      "name": "Babi Mandilón bata Payaso Naranja",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 22,
+      "url": "https://babyhogarinfantil.com/babis-escolares/6894-babi-mandilon-bata-payaso-naranja.html"
+    },
+    {
+      "id": "6895",
+      "name": "Babi Mandilón bata Payaso Lila",
+      "sourceTotal": 18,
+      "sumVisibleVariants": 17,
+      "url": "https://babyhogarinfantil.com/babis-escolares/6895-babi-mandilon-bata-payaso-lila.html"
+    },
+    {
+      "id": "6897",
+      "name": "Babi Mandilón bata Payaso Rojo",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 14,
+      "url": "https://babyhogarinfantil.com/babis-escolares/6897-babi-mandilon-bata-payaso-rojo.html"
+    },
+    {
+      "id": "6902",
+      "name": "Babi Mandilón bata Payaso Azul marino",
+      "sourceTotal": 11,
+      "sumVisibleVariants": 10,
+      "url": "https://babyhogarinfantil.com/babis-escolares/6902-babi-mandilon-bata-payaso-azul-marino.html"
+    },
+    {
+      "id": "6905",
+      "name": "Pantalón corto deporte algodón 2 a 14 Azul Marino",
+      "sourceTotal": 104,
+      "sumVisibleVariants": 109,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/6905-pantalon-corto-deporte-algodon-2-a-14-azul-marino.html"
+    },
+    {
+      "id": "6928",
+      "name": "Pantalón bebé niña algodón todo goma Rosa",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/pantalones-bebe-nina/6928-pantalon-bebe-nina-algodon-todo-goma-rosa.html"
+    },
+    {
+      "id": "6934",
+      "name": "Sudadera bebé niña con cremallera sweety Rosa",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nina/6934-sudadera-bebe-nina-con-cremallera-sweety-rosa.html"
+    },
+    {
+      "id": "7035",
+      "name": "Camiseta interior niña termica MCorta Blanco",
+      "sourceTotal": 53,
+      "sumVisibleVariants": 49,
+      "url": "https://babyhogarinfantil.com/interiores-nina/7035-camiseta-interior-nina-termica-mcorta-blanco.html"
+    },
+    {
+      "id": "7040",
+      "name": "Camiseta interior niña termica MLarga Blanco",
+      "sourceTotal": 48,
+      "sumVisibleVariants": 47,
+      "url": "https://babyhogarinfantil.com/interiores-nina/7040-camiseta-interior-nina-termica-mlarga-blanco.html"
+    },
+    {
+      "id": "7110",
+      "name": "Chaqueta bebé punto fino larga Azul",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nina/7110-chaqueta-bebe-punto-fino-larga-azul.html"
+    },
+    {
+      "id": "7174",
+      "name": "Calcetín alto perlé con borlas Nata",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/calcetines-con-pom-pom/7174-calcetin-alto-perle-con-borlas-nata.html"
+    },
+    {
+      "id": "7177",
+      "name": "Calcetín alto perlé con borlas Lino",
+      "sourceTotal": 17,
+      "sumVisibleVariants": 16,
+      "url": "https://babyhogarinfantil.com/calcetines-con-pom-pom/7177-calcetin-alto-perle-con-borlas-lino.html"
+    },
+    {
+      "id": "7181",
+      "name": "Chaqueta ceremonia bebé Camel",
+      "sourceTotal": 10,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nina/7181-chaqueta-ceremonia-bebe-camel.html"
+    },
+    {
+      "id": "7213",
+      "name": "Vela para bautizo ANGELITO Crudo",
+      "sourceTotal": -1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/velas-para-bautizo/7213-vela-para-bautizo-angelito-crudo.html"
+    },
+    {
+      "id": "7215",
+      "name": "Jersey escolar 100% algodón Verde Botella",
+      "sourceTotal": 20,
+      "sumVisibleVariants": 19,
+      "url": "https://babyhogarinfantil.com/jerseys-y-chaquetas-escolares/7215-jersey-escolar-100-algodon-verde-botella.html"
+    },
+    {
+      "id": "7301",
+      "name": "Chaqueta niña Eternal Soft Blanco",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/7301-chaqueta-nina-eternal-soft-blanco.html"
+    },
+    {
+      "id": "7302",
+      "name": "Chaqueta niña Eternal Soft Crudo",
+      "sourceTotal": 7,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/7302-chaqueta-nina-eternal-soft-crudo.html"
+    },
+    {
+      "id": "7305",
+      "name": "Chaqueta bebé corta Rosa palo",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nina/7305-chaqueta-bebe-corta-rosa-palo.html"
+    },
+    {
+      "id": "7315",
+      "name": "Chaqueta niño trenzas Azul",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nino/7315-chaqueta-nino-trenzas-azul.html"
+    },
+    {
+      "id": "7318",
+      "name": "Mandilón rayas con botones Azul",
+      "sourceTotal": 62,
+      "sumVisibleVariants": 47,
+      "url": "https://babyhogarinfantil.com/babis-escolares/7318-mandilon-rayas-con-botones-azul.html"
+    },
+    {
+      "id": "7461",
+      "name": "Gorro pom pom + cuello Rosa Maquillaje",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/gorros-y-bufandas-bebe-y-nina/7461-gorro-pom-pom--cuello-rosa-maquillaje.html"
+    },
+    {
+      "id": "7485",
+      "name": "Dou Dou Topitos Blanco",
+      "sourceTotal": -2,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/7485-dou-dou-topitos-blanco.html"
+    },
+    {
+      "id": "7486",
+      "name": "Dou Dou Topitos Azul celeste",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/7486-dou-dou-topitos-azul-celeste.html"
+    },
+    {
+      "id": "7487",
+      "name": "Dou Dou Topitos Beige",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/7487-dou-dou-topitos-beige.html"
+    },
+    {
+      "id": "7488",
+      "name": "Dou Dou Topitos Rosa",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/7488-dou-dou-topitos-rosa.html"
+    },
+    {
+      "id": "7489",
+      "name": "Dou Dou Topitos Gris",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/7489-dou-dou-topitos-gris.html"
+    },
+    {
+      "id": "7490",
+      "name": "Dou Dou Topitos Rosa Maquillaje",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/dou-dou-y-peluches/7490-dou-dou-topitos-rosa-maquillaje.html"
+    },
+    {
+      "id": "7524",
+      "name": "Camisa manga larga cuadros Crudo",
+      "sourceTotal": 9,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/camisas/7524-camisa-manga-larga-cuadros-crudo.html"
+    },
+    {
+      "id": "7566",
+      "name": "Pelele rosa algodón corto corazones Rosa",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/peleles-bebe-nina/7566-pelele-rosa-algodon-corto-corazones-rosa.html"
+    },
+    {
+      "id": "7615",
+      "name": "Body lazo perlé Blanco",
+      "sourceTotal": 7,
+      "sumVisibleVariants": 5,
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/7615-body-lazo-perle-blanco.html"
+    },
+    {
+      "id": "7722",
+      "name": "Zapato con hebilla blanco Blanco",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/calzado-bebe-nina/7722-zapato-con-hebilla-blanco-blanco.html"
+    },
+    {
+      "id": "7740",
+      "name": "Pantalón corto infantil bordado Azul Marino",
+      "sourceTotal": 0,
+      "sumVisibleVariants": 37,
+      "url": "https://babyhogarinfantil.com/colegio-divino-salvador-vigo/7740-pantalon-corto-infantil-bordado-azul-marino.html"
+    },
+    {
+      "id": "7741",
+      "name": "Pantalón chandal micropana Azul Marino",
+      "sourceTotal": 19,
+      "sumVisibleVariants": 18,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/7741-pantalon-chandal-micropana-azul-marino.html"
+    },
+    {
+      "id": "7754",
+      "name": "Pantalón largo DPRT con goma Azul Marino",
+      "sourceTotal": 102,
+      "sumVisibleVariants": 91,
+      "url": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/7754-pantalon-largo-dprt-con-goma-azul-marino.html"
+    },
+    {
+      "id": "7761",
+      "name": "Pantalón largo infantil bordado Azul Marino",
+      "sourceTotal": 76,
+      "sumVisibleVariants": 74,
+      "url": "https://babyhogarinfantil.com/colegio-divino-salvador-vigo/7761-pantalon-largo-infantil-bordado-azul-marino.html"
+    },
+    {
+      "id": "7809",
+      "name": "Chaqueta corta con pasacintas Rojo Rioja",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nina/7809-chaqueta-corta-con-pasacintas-rojo-rioja.html"
+    },
+    {
+      "id": "7813",
+      "name": "Chaqueta corta pasacintas niña Blanco",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/7813-chaqueta-corta-pasacintas-nina-blanco.html"
+    },
+    {
+      "id": "7815",
+      "name": "Chaqueta corta pasacintas niña Gris",
+      "sourceTotal": 6,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/7815-chaqueta-corta-pasacintas-nina-gris.html"
+    },
+    {
+      "id": "7817",
+      "name": "Chaqueta corta pasacintas niña Rojo",
+      "sourceTotal": 7,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/7817-chaqueta-corta-pasacintas-nina-rojo.html"
+    },
+    {
+      "id": "7983",
+      "name": "Leggin Looney Tunes Gris",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/pantalones-bebe-nina/7983-leggin-looney-tunes-gris.html"
+    },
+    {
+      "id": "7988",
+      "name": "Calcetín rizo con lanita Cava",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 7,
+      "url": "https://babyhogarinfantil.com/calcetines/7988-calcetin-rizo-con-lanita-cava.html"
+    },
+    {
+      "id": "7989",
+      "name": "Calcetín rizo con lanita Rosa",
+      "sourceTotal": 24,
+      "sumVisibleVariants": 13,
+      "url": "https://babyhogarinfantil.com/calcetines/7989-calcetin-rizo-con-lanita-rosa.html"
+    },
+    {
+      "id": "7990",
+      "name": "Calcetín rizo con lanita Rosa Palo",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 7,
+      "url": "https://babyhogarinfantil.com/calcetines/7990-calcetin-rizo-con-lanita-rosa-palo.html"
+    },
+    {
+      "id": "7991",
+      "name": "Calcetín rizo con lanita Azul Marino",
+      "sourceTotal": 32,
+      "sumVisibleVariants": 16,
+      "url": "https://babyhogarinfantil.com/calcetines/7991-calcetin-rizo-con-lanita-azul-marino.html"
+    },
+    {
+      "id": "7992",
+      "name": "Calcetín rizo con lanita Aluminio",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 7,
+      "url": "https://babyhogarinfantil.com/calcetines/7992-calcetin-rizo-con-lanita-aluminio.html"
+    },
+    {
+      "id": "7996",
+      "name": "Jersey estrella Mostaza",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/sudaderas-y-jerseys/7996-jersey-estrella-mostaza.html"
+    },
+    {
+      "id": "8009",
+      "name": "Saco dormir acolchado Estrellas Rosa",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/sacos-dormir/8009-saco-dormir-acolchado-estrellas-rosa.html"
+    },
+    {
+      "id": "8028",
+      "name": "Chaqueta niña volante Natural",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/8028-chaqueta-nina-volante-natural.html"
+    },
+    {
+      "id": "8029",
+      "name": "Chaqueta niña volante Azul marino",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/8029-chaqueta-nina-volante-azul-marino.html"
+    },
+    {
+      "id": "8190",
+      "name": "Chaqueta cremallera sport bebé Azul",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nino/8190-chaqueta-cremallera-sport-bebe-azul.html"
+    },
+    {
+      "id": "8235",
+      "name": "Pijama Dogs Azul",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/pijamas-bebe-nina/8235-pijama-dogs-azul.html"
+    },
+    {
+      "id": "8257",
+      "name": "Calcetin alto canalé Verde botella",
+      "sourceTotal": 34,
+      "sumVisibleVariants": 23,
+      "url": "https://babyhogarinfantil.com/calcetines-altos/8257-calcetin-alto-canale-verde-botella.html"
+    },
+    {
+      "id": "8258",
+      "name": "Calcetin alto canalé Azul marino",
+      "sourceTotal": 44,
+      "sumVisibleVariants": 14,
+      "url": "https://babyhogarinfantil.com/calcetines-altos/8258-calcetin-alto-canale-azul-marino.html"
+    },
+    {
+      "id": "8368",
+      "name": "Chaqueta corta niña Rosa",
+      "sourceTotal": 12,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/8368-chaqueta-corta-nina-rosa.html"
+    },
+    {
+      "id": "8369",
+      "name": "Chaqueta corta niña Crudo",
+      "sourceTotal": 9,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/8369-chaqueta-corta-nina-crudo.html"
+    },
+    {
+      "id": "8372",
+      "name": "Chaqueta corta niña Rojo",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/8372-chaqueta-corta-nina-rojo.html"
+    },
+    {
+      "id": "8391",
+      "name": "Albornoz Caperucita Rosa",
+      "sourceTotal": 11,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/pijamas-y-batas-nina-invierno/8391-albornoz-caperucita-rosa.html"
+    },
+    {
+      "id": "8401",
+      "name": "Mocasín del 40 al 44 Azul Marino",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/calzado-escolar/8401-mocasin-del-40-al-44-azul-marino.html"
+    },
+    {
+      "id": "8402",
+      "name": "Mocasín del 40 al 44 Negro",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/calzado-escolar/8402-mocasin-del-40-al-44-negro.html"
+    },
+    {
+      "id": "8541",
+      "name": "Bota lazo pom pom pelo Charol camel",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/calzado-bebe-nina/8541-bota-lazo-pom-pom-pelo-charol-camel.html"
+    },
+    {
+      "id": "8860",
+      "name": "Pantalón largo colegial MAYORAL 8 a 18 Gris oscuro",
+      "sourceTotal": 11,
+      "sumVisibleVariants": 13,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/8860-pantalon-largo-colegial-mayoral-8-a-18-gris-oscuro.html"
+    },
+    {
+      "id": "8862",
+      "name": "Pantalón corto colegial MAYORAL 8 a 14 Gris oscuro",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 7,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/8862-pantalon-corto-colegial-mayoral-8-a-14-gris-oscuro.html"
+    },
+    {
+      "id": "9004",
+      "name": "Chaqueta larga con volante niña Avellana",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-nina/9004-chaqueta-larga-con-volante-nina-avellana.html"
+    },
+    {
+      "id": "9024",
+      "name": "Anorak acolchado azul marino Azul marino",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/anoraks-y-chalecos/9024-anorak-acolchado-azul-marino-azul-marino.html"
+    },
+    {
+      "id": "9086",
+      "name": "Ranita cuadros Gris",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/9086-ranita-cuadros-gris.html"
+    },
+    {
+      "id": "9108",
+      "name": "Vestido cuadros Atenas Rojo",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/vestidos-nina/9108-vestido-cuadros-atenas-rojo.html"
+    },
+    {
+      "id": "9158",
+      "name": "Jersey bebe punto relieve granate Granate",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nino/9158-jersey-bebe-punto-relieve-granate-granate.html"
+    },
+    {
+      "id": "9226",
+      "name": "Camiseta algodon CAPITAN AMERICA Azul Marino",
+      "sourceTotal": 7,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/camisetas-y-polos-nino/9226-camiseta-algodon-capitan-america-azul-marino.html"
+    },
+    {
+      "id": "9240",
+      "name": "Pack 7 calcetines estrellas 0 a 3 meses Varios",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/calcetines-en-pack/9240-pack-7-calcetines-estrellas-0-a-3-meses-varios.html"
+    },
+    {
+      "id": "9439",
+      "name": "Chaqueta punto corta bebe niña perlé Azul Marino",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nina/9439-chaqueta-punto-corta-bebe-nina-perle-azul-marino.html"
+    },
+    {
+      "id": "9510",
+      "name": "Conjunto bebe niño algodón verano Lino",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9510-conjunto-bebe-nino-algodon-verano-lino.html"
+    },
+    {
+      "id": "9533",
+      "name": "Body bebe corto algodón verano lazos Crudo",
+      "sourceTotal": 10,
+      "sumVisibleVariants": 9,
+      "url": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/9533-body-bebe-corto-algodon-verano-lazos-crudo.html"
+    },
+    {
+      "id": "9586",
+      "name": "Pantalon largo colegial goma MAYORAL Gris Oscuro",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 6,
+      "url": "https://babyhogarinfantil.com/pantalones-escolares/9586-pantalon-largo-colegial-goma-mayoral-gris-oscuro.html"
+    },
+    {
+      "id": "9607",
+      "name": "Chaqueta bebe niña sin costuras verano Rosa",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nina/9607-chaqueta-bebe-nina-sin-costuras-verano-rosa.html"
+    },
+    {
+      "id": "9619",
+      "name": "Pelele punto bebe niño verano Gris",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/peleles-bebe-nino/9619-pelele-punto-bebe-nino-verano-gris.html"
+    },
+    {
+      "id": "9647",
+      "name": "Conjunto baño niño ESTRELLA DE MAR Blanco",
+      "sourceTotal": 3,
+      "sumVisibleVariants": 2,
+      "url": "https://babyhogarinfantil.com/banadores-bebe-nino/9647-conjunto-bano-nino-estrella-de-mar-blanco.html"
+    },
+    {
+      "id": "9767",
+      "name": "Jesusito gena Granate",
+      "sourceTotal": 11,
+      "sumVisibleVariants": 3,
+      "url": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/9767-jesusito-gena-granate.html"
+    },
+    {
+      "id": "9782",
+      "name": "Camisa cuello volante Blanco",
+      "sourceTotal": 2,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/camisetas-bebe-nina/9782-camisa-cuello-volante-blanco.html"
+    },
+    {
+      "id": "9786",
+      "name": "Camisa cuello bebe Crudo",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 4,
+      "url": "https://babyhogarinfantil.com/camisas-bebe-nino/9786-camisa-cuello-bebe-crudo.html"
+    },
+    {
+      "id": "9865",
+      "name": "Chaqueta bebe reverdible ositos Azul",
+      "sourceTotal": 4,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nina/9865-chaqueta-bebe-reverdible-ositos-azul.html"
+    },
+    {
+      "id": "9896",
+      "name": "Rebeca corta Champagne",
+      "sourceTotal": 1,
+      "sumVisibleVariants": 0,
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nina/9896-rebeca-corta-champagne.html"
+    },
+    {
+      "id": "9958",
+      "name": "Sudadera bordada interlock Granate",
+      "sourceTotal": 5,
+      "sumVisibleVariants": 1,
+      "url": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9958-sudadera-bordada-interlock-granate.html"
+    }
+  ],
+  "unknownStock": [],
+  "unidentifiedDefaultCategory": [
+    {
+      "id": "6688",
+      "name": "Body Piconela M/Larga Rosa",
+      "categoryId": "895"
+    }
+  ],
+  "issues": [],
+  "zeroPrices": [
+    {
+      "id": "10143",
+      "name": "Bata niño T-rex Verde",
+      "url": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/10143-bata-nino-t-rex-verde.html"
+    },
+    {
+      "id": "10323",
+      "name": "Merceditas pompon Blanco",
+      "url": "https://babyhogarinfantil.com/calzado-bebe-nina/10323-merceditas-pompon-blanco.html"
+    },
+    {
+      "id": "12843",
+      "name": "Sudadera Martin Codax 50 aniversario Gris",
+      "url": "https://babyhogarinfantil.com/colegio-martin-codax-vigo/12843-sudadera-martin-codax-50-aniversario-gris.html"
+    },
+    {
+      "id": "16128",
+      "name": "Lazo pequeño Azul marino",
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16128-lazo-pequeno-azul-marino.html"
+    },
+    {
+      "id": "16131",
+      "name": "Lazo pequeño Rojo",
+      "url": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16131-lazo-pequeno-rojo.html"
+    },
+    {
+      "id": "16233",
+      "name": "Culetin baño niña Verde",
+      "url": "https://babyhogarinfantil.com/bano-nina/16233-culetin-bano-nina-verde.html"
+    },
+    {
+      "id": "19727",
+      "name": "Juego sabánas coche estrellas bordadas Beige",
+      "url": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/19727-juego-sabanas-coche-estrellas-bordadas-beige.html"
+    },
+    {
+      "id": "19729",
+      "name": "Juego sábanas minicuna Elefante Azul Celeste",
+      "url": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/19729-juego-sabanas-minicuna-elefante-azul-celeste.html"
+    },
+    {
+      "id": "21588",
+      "name": "Pantalón felpa basico Salvia",
+      "url": "https://babyhogarinfantil.com/pantalones-leggins-shorts/21588-pantalon-felpa-basico-salvia.html"
+    },
+    {
+      "id": "21930",
+      "name": "Chaqueta vaquera niña Mayoral algodon Verde",
+      "url": "https://babyhogarinfantil.com/cazadoras-y-parkas/21930-chaqueta-vaquera-nina-mayoral-algodon-verde.html"
+    },
+    {
+      "id": "22013",
+      "name": "Babero silicona liso Rosa",
+      "url": "https://babyhogarinfantil.com/baberos/22013-babero-silicona-liso-rosa.html"
+    },
+    {
+      "id": "6688",
+      "name": "Body Piconela M/Larga Rosa",
+      "url": "https://babyhogarinfantil.com/6688-body-piconela-mlarga-rosa.html"
+    },
+    {
+      "id": "7315",
+      "name": "Chaqueta niño trenzas Azul",
+      "url": "https://babyhogarinfantil.com/chaquetas-nino/7315-chaqueta-nino-trenzas-azul.html"
+    },
+    {
+      "id": "7607",
+      "name": "Ranita ochos algodón Arena",
+      "url": "https://babyhogarinfantil.com/ranitas-bebe-nina/7607-ranita-ochos-algodon-arena.html"
+    },
+    {
+      "id": "7690",
+      "name": "Deportiva bebé Ovik Blanco",
+      "url": "https://babyhogarinfantil.com/calzado-bebe-nina/7690-deportiva-bebe-ovik-blanco.html"
+    },
+    {
+      "id": "8009",
+      "name": "Saco dormir acolchado Estrellas Rosa",
+      "url": "https://babyhogarinfantil.com/sacos-dormir/8009-saco-dormir-acolchado-estrellas-rosa.html"
+    },
+    {
+      "id": "8235",
+      "name": "Pijama Dogs Azul",
+      "url": "https://babyhogarinfantil.com/pijamas-bebe-nina/8235-pijama-dogs-azul.html"
+    },
+    {
+      "id": "9775",
+      "name": "Conjunto algodon primera puesta Rosa",
+      "url": "https://babyhogarinfantil.com/primera-puesta-bebe/9775-conjunto-algodon-primera-puesta-rosa.html"
+    },
+    {
+      "id": "9896",
+      "name": "Rebeca corta Champagne",
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nina/9896-rebeca-corta-champagne.html"
+    },
+    {
+      "id": "9944",
+      "name": "Chaqueta basica punto Rojo",
+      "url": "https://babyhogarinfantil.com/chaquetas-bebe-nina/9944-chaqueta-basica-punto-rojo.html"
+    }
+  ]
+}

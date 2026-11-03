@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "21750",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21750-bermuda-algodon-basica-tomate.html",
+  "name": "Bermuda algodón básica Tomate",
+  "brand": "Mayoral",
+  "sku": "2601046",
+  "description": "Bermuda de niño color tomate en tejido suave y cómodo, con cintura elástica y cordón regulable. Ideal para looks frescos, deportivos y casuales.",
+  "details": "Esta bermuda de niño en color tomate destaca por su diseño cómodo, moderno y funcional, perfecta para el uso diario durante la temporada de primavera y verano. Está confeccionada en un tejido suave con mezcla de algodón que proporciona transpirabilidad, confort y libertad de movimiento en todo momento.\nSu cintura elástica con cordón ajustable garantiza un ajuste práctico y seguro, adaptándose fácilmente al cuerpo del niño. Incluye bolsillos laterales funcionales y un bolsillo trasero que añade un toque práctico y estiloso al diseño.\nGracias a su color vibrante, es una prenda versátil que se puede combinar fácilmente con camisetas, polos o sudaderas para crear outfits casuales, deportivos y cómodos. Ideal para actividades al aire libre, juegos y uso diario, ofreciendo estilo y comodidad en una sola prenda.\n\nComposición:\n\n\n\n\n\n\n\n\n58% Algodón, 38% Poliéster, 4% Elastano.",
+  "sourceDescriptionHtml": "<p>Esta bermuda de niño en color tomate destaca por su diseño cómodo, moderno y funcional, perfecta para el uso diario durante la temporada de primavera y verano. Está confeccionada en un tejido suave con mezcla de algodón que proporciona transpirabilidad, confort y libertad de movimiento en todo momento.<br />Su cintura elástica con cordón ajustable garantiza un ajuste práctico y seguro, adaptándose fácilmente al cuerpo del niño. Incluye bolsillos laterales funcionales y un bolsillo trasero que añade un toque práctico y estiloso al diseño.<br />Gracias a su color vibrante, es una prenda versátil que se puede combinar fácilmente con camisetas, polos o sudaderas para crear outfits casuales, deportivos y cómodos. Ideal para actividades al aire libre, juegos y uso diario, ofreciendo estilo y comodidad en una sola prenda.</p>\n<div class=\"pointer-events-none h-px w-px absolute bottom-0\"><strong>Composición:</strong></div>\n<div class=\"flex flex-col text-sm pb-25\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\">\n<div class=\"flex max-w-full flex-col grow\">\n<div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[1px]\">\n<div class=\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\">\n<p>58% Algodón, 38% Poliéster, 4% Elastano.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"z-0 flex min-h-[46px] justify-start\"></div>\n<div class=\"mt-3 w-full empty:hidden\">\n<div class=\"text-center\"></div>\n</div>\n</div>\n</div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Tomate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-12 08:34:14",
+  "sourceUpdatedAt": "2026-10-27 11:15:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99721",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601046",
+      "productSku": "2601046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:46.756Z"
+    },
+    {
+      "id": "99722",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2601046",
+      "productSku": "2601046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:48.350Z"
+    },
+    {
+      "id": "99723",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601046",
+      "productSku": "2601046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:50.087Z"
+    },
+    {
+      "id": "99724",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2601046",
+      "productSku": "2601046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:52.378Z"
+    },
+    {
+      "id": "99725",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2601046",
+      "productSku": "2601046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:55.687Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21750-20512.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20512-large_default/bermuda-algodon-basica-tomate.jpg",
+      "alt": "Bermuda de niño color tomate en tejido suave y cómodo, con cintura elástica",
+      "sourceId": "20512",
+      "variantIds": [],
+      "sha256": "d1b639af68605b9c47a9fad6e95658bbc4655841220d5fa42c38cbf3ae112aff"
+    },
+    {
+      "path": "assets/21750-20513.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20513-large_default/bermuda-algodon-basica-tomate.jpg",
+      "alt": "Bermuda de niño color tomate en tejido suave y cómodo, con cintura elástica, detalle del bolsillo",
+      "sourceId": "20513",
+      "variantIds": [],
+      "sha256": "a321f14eef2157d75bb05c67fdf094ec2087dcd48282da61a7287c4bf9727658"
+    },
+    {
+      "path": "assets/21750-20514.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20514-large_default/bermuda-algodon-basica-tomate.jpg",
+      "alt": "Bermuda de niño color tomate en tejido suave y cómodo, con cintura elástica, trasera.",
+      "sourceId": "20514",
+      "variantIds": [],
+      "sha256": "b47f33a9e48839e04ce05ff50848d0bccf4a35187bbaf674f6e44f933c3435a6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:55.851Z",
+  "issues": []
+}

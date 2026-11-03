@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "21509",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/21509-pijama-pelele-tundosado-bebe-nino-gris.html",
+  "name": "Pijama pelele tundosado bebé niño Gris",
+  "brand": "Yatsi",
+  "sku": "2502146",
+  "description": "Pijama pelele entero para invierno. Se abre completamente por delante para facilitar la puesta. Tacto suave.",
+  "details": "Composición:\n\nPijama:  76% algodón, 24% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Pijama: </strong> 76% algodón, 24% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 18.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96872",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2502146",
+      "productSku": "2502146",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:55.101Z"
+    },
+    {
+      "id": "96873",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502146",
+      "productSku": "2502146",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:56.240Z"
+    },
+    {
+      "id": "96874",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502146",
+      "productSku": "2502146",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:57.089Z"
+    },
+    {
+      "id": "96876",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502146",
+      "productSku": "2502146",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:58.262Z"
+    },
+    {
+      "id": "96877",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502146",
+      "productSku": "2502146",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:59.481Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21509-20105.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20105-large_default/pijama-pelele-tundosado-bebe-nino-gris.jpg",
+      "alt": "Pijama pelele tundosado bebé niño Gris",
+      "sourceId": "20105",
+      "variantIds": [],
+      "sha256": "108f3436a84784929c92fc1451f022f84ad91451a1d0a30c778f6cfddb52f73d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:59.555Z",
+  "issues": []
+}

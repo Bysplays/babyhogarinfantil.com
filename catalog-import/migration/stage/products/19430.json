@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "id": "19430",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/19430-vestido-bordado-tul-arena.html",
+  "name": "Vestido bordado tul Arena",
+  "brand": "Calamaro",
+  "sku": "2501016",
+  "description": "¡El exquisito Vestido Bordado Tul Arena convertirá a tu pequeña en la princesa del día! Destacando por sus sutiles tonos arena y su delicado bordado, este vestido ofrece la mezcla perfecta entre la elegancia y el confort. Deja que su piel respire gracias al suave tul, mientras atrapa miradas con la belleza única del bordado. ¡Ideal para que tu niña luzca radiante en cualquier ocasión!",
+  "details": "Destacados Detalles Bordados\n\nDescubra el encanto y la sofisticación del Vestido Bordado Tul Arena, una pieza única que promete transformar el guardarropas de su pequeña. Cada detalle de este vestido ha sido cuidadosamente elaborado con acentos bordados, destacando su carácter exclusivo y artesanal.\n\nElegancia Infantil en Tul\n\nEl Vestido Bordado Tul Arena ofrece un toque de elegancia perfecto para cualquier ocasión. Este hermoso vestido confeccionado en tul de alta calidad proporciona un nivel de confort sin igual, permitiendo a su hija moverse libremente y con confianza. Ideal para eventos formales o casuales, este vestido será sin duda un complemento digno en su guardarropas.\n\nColor Arena, Amor a Primera Vista\n\nEl color arena del Vestido Bordado Tul Arena evoca la sutil belleza de la naturaleza y ofrece una alternativa chic a los colores tradicionales de la moda infantil. Este vestido con su tono sofisticado y delicado a la vez, realza el brillo único de su pequeña, mientras la mantiene cómoda y con estilo.\n\nYa sea para un cumpleaños, una fiesta familiar o solo para el placer de llevar un vestido elegante, el Vestido Bordado Tul Arena es una elección maravillosa. Descubra la alegría de ver a su niña luciéndolo. ¡Ajádale al carrito ahora!\n\nComposición:\n\nVestido: 52% lino, 48% algodón.\n\nForro: 65% poliester, 35% algodón.",
+  "sourceDescriptionHtml": "<h2>Destacados Detalles Bordados</h2>\n<p>Descubra el encanto y la sofisticación del Vestido Bordado Tul Arena, una pieza única que promete transformar el guardarropas de su pequeña. Cada detalle de este vestido ha sido cuidadosamente elaborado con acentos bordados, destacando su carácter exclusivo y artesanal.</p>\n<h2>Elegancia Infantil en Tul</h2>\n<p>El Vestido Bordado Tul Arena ofrece un toque de elegancia perfecto para cualquier ocasión. Este hermoso vestido confeccionado en tul de alta calidad proporciona un nivel de confort sin igual, permitiendo a su hija moverse libremente y con confianza. Ideal para eventos formales o casuales, este vestido será sin duda un complemento digno en su guardarropas.</p>\n<h2>Color Arena, Amor a Primera Vista</h2>\n<p>El color arena del Vestido Bordado Tul Arena evoca la sutil belleza de la naturaleza y ofrece una alternativa chic a los colores tradicionales de la moda infantil. Este vestido con su tono sofisticado y delicado a la vez, realza el brillo único de su pequeña, mientras la mantiene cómoda y con estilo.</p>\n<p>Ya sea para un cumpleaños, una fiesta familiar o solo para el placer de llevar un vestido elegante, el Vestido Bordado Tul Arena es una elección maravillosa. Descubra la alegría de ver a su niña luciéndolo. ¡Ajádale al carrito ahora!</p>\n<p>Composición:</p>\n<p>Vestido: 52% lino, 48% algodón.</p>\n<p>Forro: 65% poliester, 35% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2025",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Arena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 42.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-01-31 23:54:17",
+  "sourceUpdatedAt": "2026-10-27 11:14:01",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "89838",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "12484XE19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:35.598Z"
+    },
+    {
+      "id": "149342",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "12484XA19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:38.048Z"
+    },
+    {
+      "id": "149343",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "12484XB19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:40.660Z"
+    },
+    {
+      "id": "149344",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "12484XC19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:43.460Z"
+    },
+    {
+      "id": "149345",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "12484XD19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:46.628Z"
+    },
+    {
+      "id": "149346",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "12484XF19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:49.740Z"
+    },
+    {
+      "id": "89839",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "12484XG19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:52.914Z"
+    },
+    {
+      "id": "89840",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "12484XH19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:56.407Z"
+    },
+    {
+      "id": "89841",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "12484XI19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:59.796Z"
+    },
+    {
+      "id": "149347",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "12484XJ19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:02.604Z"
+    },
+    {
+      "id": "149348",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "12484XK19108",
+      "productSku": "2501016",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:04.819Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19430-17858.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17858-large_default/vestido-bordado-tul-arena.jpg",
+      "alt": "Vestido bordado tul Arena",
+      "sourceId": "17858",
+      "variantIds": [],
+      "sha256": "21e80f410e8cffbad85d5b7d76a383da1071db31343e95f7e2efc355cac282a7"
+    },
+    {
+      "path": "assets/19430-17859.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17859-large_default/vestido-bordado-tul-arena.jpg",
+      "alt": "Vestido bordado tul Arena",
+      "sourceId": "17859",
+      "variantIds": [],
+      "sha256": "7668cd7b300f154074f2483f1ff18768e1a762320389537d4c4b341a5ca0b5e8"
+    },
+    {
+      "path": "assets/19430-17860.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17860-large_default/vestido-bordado-tul-arena.jpg",
+      "alt": "Vestido bordado tul Arena",
+      "sourceId": "17860",
+      "variantIds": [],
+      "sha256": "7c69354047fa07101b3fa1566d0584b49e5fdadd5a69f446bc340df27c6062e8"
+    },
+    {
+      "path": "assets/19430-17861.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17861-large_default/vestido-bordado-tul-arena.jpg",
+      "alt": "Vestido bordado tul Arena",
+      "sourceId": "17861",
+      "variantIds": [],
+      "sha256": "822772df8b2f8e9e4b189b17c46e1ac94d1f6159ffc762726f1e22940d366b7d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:05.159Z",
+  "issues": []
+}

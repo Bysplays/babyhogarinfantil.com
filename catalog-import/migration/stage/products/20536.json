@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "20536",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys/20536-jersey-punto-nina-verde-invierno-verde.html",
+  "name": "Jersey punto niña verde invierno Verde",
+  "brand": "A&amp;J",
+  "sku": "2109190",
+  "description": "Jersey punto invierno.",
+  "details": "Descubre la Calidez de Invierno\n\nExperimenta el abrazo confortante del frío invierno con el Jersey Punto Niña Verde. Este suéter lujosamente suave proporciona un calor acogedor y confort en los días más fríos con su tela de alta calidad. Es la opción perfecta para mantener a tus pequeñas bien abrigadas y elegantes al mismo tiempo. Un elemento esencial en su armario de invierno.\n\n\n\nEstilo Sofisticado y Versátil\n\nEste Jersey Punto Niña Verde es la personificación de la elegancia juvenil y el estilo moderno. Su color verde profundo y vibrante añade un toque de encanto y distinción. Combinado con jeans, leggins o incluso una adorable falda, será el atuendo perfecto para cualquier ocasión este invierno.\n\nAlta Calidad Asegurada\n\nGarantizado para durar toda la temporada y más allá, este Jersey Punto Niña Verde ha sido tejido con fibras de alta calidad y un exigente control de calidad, dando como resultado un producto robusto y duradero. No solo mantendrá a las pequeñas calientes en invierno, sino que seguirá haciéndolo año tras año. Una auténtica inversión en su comodidad y estilo.\n\n¡No esperes más! Adquiere hoy este imprescindible Jersey Punto Niña Verde y da un paso adelante en confort y estilo este invierno.\n\nComposición:\n\n 20% Poliamida\n\n30% Poliéster\n\n50% Viscosa .",
+  "sourceDescriptionHtml": "<div>\n<h2>Descubre la Calidez de Invierno</h2>\n<p>Experimenta el abrazo confortante del frío invierno con el Jersey Punto Niña Verde. Este suéter lujosamente suave proporciona un calor acogedor y confort en los días más fríos con su tela de alta calidad. Es la opción perfecta para mantener a tus pequeñas bien abrigadas y elegantes al mismo tiempo. Un elemento esencial en su armario de invierno.</p>\n<p></p>\n<h2>Estilo Sofisticado y Versátil</h2>\n<p>Este Jersey Punto Niña Verde es la personificación de la elegancia juvenil y el estilo moderno. Su color verde profundo y vibrante añade un toque de encanto y distinción. Combinado con jeans, leggins o incluso una adorable falda, será el atuendo perfecto para cualquier ocasión este invierno.</p>\n<h2>Alta Calidad Asegurada</h2>\n<p>Garantizado para durar toda la temporada y más allá, este Jersey Punto Niña Verde ha sido tejido con fibras de alta calidad y un exigente control de calidad, dando como resultado un producto robusto y duradero. No solo mantendrá a las pequeñas calientes en invierno, sino que seguirá haciéndolo año tras año. Una auténtica inversión en su comodidad y estilo.</p>\n<p><strong>¡No esperes más! Adquiere hoy este imprescindible Jersey Punto Niña Verde y da un paso adelante en confort y estilo este invierno.</strong></p>\n<p>Composición:</p>\n<p> 20% Poliamida</p>\n<p>30% Poliéster</p>\n<p>50% Viscosa .</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "772",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "772",
+  "sourceCategoryName": "Sudaderas y jerseys",
+  "price": 22.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-11 10:26:12",
+  "sourceUpdatedAt": "2026-10-27 11:11:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95149",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2109190",
+      "productSku": "2109190",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:00.799Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20536-19125.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19125-large_default/jersey-punto-nina-verde-invierno-verde.jpg",
+      "alt": "Jersey punto niña verde invierno Verde",
+      "sourceId": "19125",
+      "variantIds": [],
+      "sha256": "4e71854ce58715701a9bd01ce1d547c8c1ac8f4e861f25afc0e22791a611b546"
+    },
+    {
+      "path": "assets/20536-19126.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19126-large_default/jersey-punto-nina-verde-invierno-verde.jpg",
+      "alt": "Jersey punto niña verde invierno Verde",
+      "sourceId": "19126",
+      "variantIds": [],
+      "sha256": "b427eb976333ccf56af1c610d1d081024daf03a44d16a05bae2663ddd8bde856"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:00.917Z",
+  "issues": []
+}

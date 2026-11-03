@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "id": "7104",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/7104-camiseta-barita-rosa.html",
+  "name": "Camiseta barita Rosa",
+  "brand": "Chicco",
+  "sku": "1802094",
+  "description": "Camiseta rosa para bebé. Tiene corchetes en la espalda para facilitar la puesta. En la foto no se aprecia pero las estrellas son de brillantina.",
+  "details": "Composición y cuidados:\n\nCamiseta: 95% algodón, 5% elastano.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Camiseta: 95% algodón, 5% elastano.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65024",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "4750XC8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:08.308Z"
+    },
+    {
+      "id": "145610",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "4750XA8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:10.750Z"
+    },
+    {
+      "id": "145611",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "4750XB8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:12.560Z"
+    },
+    {
+      "id": "65025",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "4750XD8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:14.156Z"
+    },
+    {
+      "id": "65026",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "4750XE8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:15.714Z"
+    },
+    {
+      "id": "145612",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "4750XF8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:17.256Z"
+    },
+    {
+      "id": "145613",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "4750XG8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:18.841Z"
+    },
+    {
+      "id": "145614",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "4750XH8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:21.196Z"
+    },
+    {
+      "id": "145615",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "4750XI8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:22.839Z"
+    },
+    {
+      "id": "145616",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "4750XJ8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:24.894Z"
+    },
+    {
+      "id": "145617",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "4750XK8313",
+      "productSku": "1802094",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:27.495Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7104-5022.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5022-large_default/camiseta-barita-rosa.jpg",
+      "alt": "Camiseta barita Rosa",
+      "sourceId": "5022",
+      "variantIds": [],
+      "sha256": "9c0601c7fdc5371417e691c15e01cbcac7caa16ef184cf1d3961e5844c061773"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:27.572Z",
+  "issues": []
+}

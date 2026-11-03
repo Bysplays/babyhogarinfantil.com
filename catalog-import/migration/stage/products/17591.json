@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "id": "17591",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/17591-pantalon-chandal-liso-con-goma-azul-marino.html",
+  "name": "Pantalón chandal liso con goma Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2309174",
+  "description": "Pantalón de chandal en felpa azul marino con cintura de goma y gomas en bajos. Con felpa interior.\n\nComposición:\n\nPantalón: 50% algodón, 50% poliéster\n\nHECHO EN UE.",
+  "details": "Composición:\n\nPantalón: 50% algodón, 50% poliéster\n\nHECHO EN UE.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pantalón: 50% algodón, 50% poliéster</p>\n<p><strong>HECHO EN UE.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "684"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-05-21 15:55:23",
+  "sourceUpdatedAt": "2026-10-27 11:13:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 64,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "313",
+          "label": "16(S)"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87806",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:49.863Z"
+    },
+    {
+      "id": "98231",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 18,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:52.196Z"
+    },
+    {
+      "id": "98232",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 14,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:55.282Z"
+    },
+    {
+      "id": "95879",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 17,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:57.978Z"
+    },
+    {
+      "id": "84599",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 12,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:00.769Z"
+    },
+    {
+      "id": "86760",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 16,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:03.375Z"
+    },
+    {
+      "id": "84600",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:06.544Z"
+    },
+    {
+      "id": "84601",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "313",
+          "group": "Tamaño",
+          "value": "16(S)"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:10.248Z"
+    },
+    {
+      "id": "84602",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 9,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:15.212Z"
+    },
+    {
+      "id": "84603",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:20.231Z"
+    },
+    {
+      "id": "84604",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "2309174",
+      "productSku": "2309174",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:23.673Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17591-15572.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15572-large_default/pantalon-chandal-liso-con-goma-azul-marino.jpg",
+      "alt": "Pantalón chandal liso con goma Azul Marino",
+      "sourceId": "15572",
+      "variantIds": [],
+      "sha256": "dce71f021646ac35fc18a73facf4e6249a87a46fadcea40d612549cd94704292"
+    },
+    {
+      "path": "assets/17591-15573.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15573-large_default/pantalon-chandal-liso-con-goma-azul-marino.jpg",
+      "alt": "Pantalón chandal liso con goma Azul Marino",
+      "sourceId": "15573",
+      "variantIds": [],
+      "sha256": "bbe79cb15fb29a39ebc7559c4782302ac705ee4028bb063db6da530382156951"
+    },
+    {
+      "path": "assets/17591-15574.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15574-large_default/pantalon-chandal-liso-con-goma-azul-marino.jpg",
+      "alt": "Pantalón chandal liso con goma Azul Marino",
+      "sourceId": "15574",
+      "variantIds": [],
+      "sha256": "64aecbe2fd5cb34b4945d501838882f98193faa6864519f51d858a6f359baf73"
+    },
+    {
+      "path": "assets/17591-15575.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15575-large_default/pantalon-chandal-liso-con-goma-azul-marino.jpg",
+      "alt": "Pantalón chandal liso con goma Azul Marino",
+      "sourceId": "15575",
+      "variantIds": [],
+      "sha256": "e5e6962f1b8c1549b344851450e32d5def30b16c3b0c27a5d257ae7212d7b4bd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:33:26.768Z",
+  "issues": []
+}

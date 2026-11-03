@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "id": "8117",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-lazo/8117-calcetin-alto-perle-calado-lazo-azul-marino.html",
+  "name": "Calcetín alto perlé calado lazo Azul marino",
+  "brand": "Condor",
+  "sku": "2002121",
+  "description": "Calcetines altos AZUL MARINO de algodón perlé calado con aplicación de lazo de raso a tono.",
+  "details": "Composición:\n\n80% ALGODON 20% POLIAMIDA\n\nNO USAR SECADORA.\n\nNO PLANCHAR.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><span style=\"text-align:left;color:#777777;text-transform:none;line-height:inherit;text-indent:0px;letter-spacing:normal;font-family:inherit;font-size:100%;font-style:inherit;font-variant:inherit;font-weight:inherit;text-decoration:none;word-spacing:0px;float:none;white-space:normal;background-color:#ffffff;\">80% ALGODON 20% POLIAMIDA</span></p>\n<p><span style=\"text-align:left;color:#777777;text-transform:none;line-height:inherit;text-indent:0px;letter-spacing:normal;font-family:inherit;font-size:100%;font-style:inherit;font-variant:inherit;font-weight:inherit;text-decoration:none;word-spacing:0px;float:none;white-space:normal;background-color:#ffffff;\">NO USAR SECADORA.</span></p>\n<p><span style=\"text-align:left;color:#777777;text-transform:none;line-height:inherit;text-indent:0px;letter-spacing:normal;font-family:inherit;font-size:100%;font-style:inherit;font-variant:inherit;font-weight:inherit;text-decoration:none;word-spacing:0px;float:none;white-space:normal;background-color:#ffffff;\">NO PLANCHAR.</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "710",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "710",
+  "sourceCategoryName": "Calcetines con lazo",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:33",
+  "sourceUpdatedAt": "2026-10-27 11:10:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 25,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67011",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "2002121",
+      "productSku": "2002121",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:34.840Z"
+    },
+    {
+      "id": "67012",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "2002121",
+      "productSku": "2002121",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:38.892Z"
+    },
+    {
+      "id": "67013",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2002121",
+      "productSku": "2002121",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:41.707Z"
+    },
+    {
+      "id": "67014",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2002121",
+      "productSku": "2002121",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:44.387Z"
+    },
+    {
+      "id": "67015",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2002121",
+      "productSku": "2002121",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:48.332Z"
+    },
+    {
+      "id": "67016",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2002121",
+      "productSku": "2002121",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:51.137Z"
+    },
+    {
+      "id": "91508",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2002121",
+      "productSku": "2002121",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:55.020Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8117-6350.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6350-large_default/calcetin-alto-perle-calado-lazo-azul-marino.jpg",
+      "alt": "Calcetín alto perlé calado lazo Azul marino",
+      "sourceId": "6350",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/8117-6349.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6349-large_default/calcetin-alto-perle-calado-lazo-azul-marino.jpg",
+      "alt": "Calcetín alto perlé calado lazo Azul marino",
+      "sourceId": "6349",
+      "variantIds": [],
+      "sha256": "89ed027c51d5dfc4e0ec43a2fe1ae55aee268ff5d7df2d33ba3d2f28f7306e5e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:23:55.227Z",
+  "issues": []
+}

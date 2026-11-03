@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "7810",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/7810-chaqueta-corta-con-pasacintas-orquidea.html",
+  "name": "Chaqueta corta con pasacintas Orquidea",
+  "brand": "Mac Ilusión",
+  "sku": "1907104",
+  "description": "Confiere encanto instantáneo a tu pequeña con la Chaqueta corta con pasacintas Orquidea. Anima los días de invierno con esta prenda de indiscutible ternura. Los peques estarán cómodos y abrigados, irradiando una sofisticación infantil sin igual, elevada por los coquetos detalles de pasacintas. Esta chaqueta es la elección perfecta para momentos entrañables, dibujando sonrisas en rostros radiantes e inocentes. El vestir a tu pequeña princesa se vuelve una experiencia mágica con esta chaqueta, al tiempo que realza ese espíritu jovial y alegre que todos amamos.",
+  "details": "Elegancia y Comodidad en Miniatura\n\nCual bebé no deslumbraría en la chaqueta corta con pasacintas Orquídea. Esta pieza excepcional combina la elegancia y la comodidad para tu preciado pequeño. Fabulosamente diseñada con detalles de pasacintas que traen un aire chic a la clásica chaqueta de bebé.\n\n\nCalidad y Durabilidad para tus Pequeños\n\nConfeccionada con la excelencia y la durabilidad en mente, esta chaqueta corta con pasacintas Orquídea está hecha para durar. Usando solo los mejores tejidos, esta prenda resistirá todos los entusiasmados juegos de tus niños, garantizando siempre un aspecto impecable.\n\n\nUn Toque de Encanto en Cada Detalle\n\nCada característica de esta chaqueta corta con pasacintas Orquídea ha sido cuidadosamente diseñada para garantizar que tu bebé se sienta tan hermoso como se verá. Cuenta con delicados detalles de pasacintas, dando a cada chaqueta un toque de encanto único.\n\n\nCompra ahora con la mayor confianza\n\nGarantiza que tu pequeño siempre esté vestido de la manera más elegante posible. Compra la chaqueta corta con pasacintas Orquídea hoy y deja que tu niño luzca un estilo maravilloso en cualquier ocasión. Te prometemos que no te arrepentirás.",
+  "sourceDescriptionHtml": "<h2>Elegancia y Comodidad en Miniatura</h2>\n<p>Cual bebé no deslumbraría en la chaqueta corta con pasacintas Orquídea. Esta pieza excepcional combina la elegancia y la comodidad para tu preciado pequeño. Fabulosamente diseñada con detalles de pasacintas que traen un aire chic a la clásica chaqueta de bebé.</p>\n\n<h2>Calidad y Durabilidad para tus Pequeños</h2>\n<p>Confeccionada con la excelencia y la durabilidad en mente, esta chaqueta corta con pasacintas Orquídea está hecha para durar. Usando solo los mejores tejidos, esta prenda resistirá todos los entusiasmados juegos de tus niños, garantizando siempre un aspecto impecable.</p>\n\n<h2>Un Toque de Encanto en Cada Detalle</h2>\n<p>Cada característica de esta chaqueta corta con pasacintas Orquídea ha sido cuidadosamente diseñada para garantizar que tu bebé se sienta tan hermoso como se verá. Cuenta con delicados detalles de pasacintas, dando a cada chaqueta un toque de encanto único.</p>\n\n<h2>Compra ahora con la mayor confianza</h2>\n<p>Garantiza que tu pequeño siempre esté vestido de la manera más elegante posible. Compra la chaqueta corta con pasacintas Orquídea hoy y deja que tu niño luzca un estilo maravilloso en cualquier ocasión. Te prometemos que no te arrepentirás.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Orquidea",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 19.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:29",
+  "sourceUpdatedAt": "2026-10-27 11:10:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66445",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1907104",
+      "productSku": "1907104",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:02.125Z"
+    },
+    {
+      "id": "66447",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1907104",
+      "productSku": "1907104",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:03.538Z"
+    },
+    {
+      "id": "66448",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1907104",
+      "productSku": "1907104",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:05.166Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7810-5891.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5891-large_default/chaqueta-corta-con-pasacintas-orquidea.jpg",
+      "alt": "Chaqueta corta con pasacintas Orquidea",
+      "sourceId": "5891",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    },
+    {
+      "path": "assets/7810-5890.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5890-large_default/chaqueta-corta-con-pasacintas-orquidea.jpg",
+      "alt": "Chaqueta corta con pasacintas Orquidea",
+      "sourceId": "5890",
+      "variantIds": [],
+      "sha256": "af155ed7e327bf912c7db7137518ca158325905a224decacec00cd284b76d0b2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:05.287Z",
+  "issues": []
+}

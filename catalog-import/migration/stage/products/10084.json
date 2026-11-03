@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "10084",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/10084-cardigan-pelo-con-capucha-infantil-arena.html",
+  "name": "Cardigan pelo con capucha infantil Arena",
+  "brand": "Chicco",
+  "sku": "2208197",
+  "description": "Haz que tu pequeño tesoro irrumpa con estilo incluso en los días más fríos gracias al cardigan pelo con capucha infantil Arena. Este precioso cardigan no solo hace una declaración de moda, sino que garantiza el calor y la comodidad. Presenta un suave interior de piel sintética que promete mantener a tu pequeño protegido de los escalofríos. La capucha añade una capa extra de calidez y ofrece una llamativa mezcla de estilo y practicidad. Perfecto para todos los eventos al aire libre o para acurrucarse en casa. Enamórate de su diseño rico y texturizado. Un verdadero regalo de amor y cuidado.",
+  "details": "Comodidad y Calidez sin Igual\n\nImagina a tu pequeño envuelto en la acogedora calidez de nuestro Cardigan de pelo con capucha. Diseñado con un enfoque máximo en la comodidad, esta prenda es la elección perfecta para mantener a tu pequeño caliente y feliz durante todo el día. El tacto suave del tejido tipo pelo proporciona un abrazo tierno y mantiene alejado el frío.\n\nDiseño Chic con Toque Juvial\n\nEl Cardigan de pelo con capucha no solo protege contra el frío, sino que también irradia estilo y elegancia con un toque fresco y juvenil. La capucha añade una dimensión adicional al diseño, contribuyendo a su estética chic y juguetona. La elección de colores disponibles asegura que la chaqueta sea fácilmente combinable con el resto de la ropa infantil.\n\nCalidad Duradera\n\nConscientes de que la ropa de los niños debe resistir la prueba del tiempo y la energía infantil, este Cardigan se confecciona con materiales de alta calidad. Su resistencia y durabilidad garantizan que este abrigo se mantenga hermoso y funcional lavado tras lavado, proporcionando confort y calidez durante toda la temporada.\n\n¿Preparados para mantener a tus pequeños calentitos, cómodos y con estilo durante todo el invierno? Hazte ya con nuestro Cardigan de pelo con capucha. ¡No esperes más!\n\nComposición:\n\nExterior: 100% poliéster.\n\nForro: 100% algodón.",
+  "sourceDescriptionHtml": "<p></p>\n<h2>Comodidad y Calidez sin Igual</h2>\n<p>Imagina a tu pequeño envuelto en la acogedora calidez de nuestro Cardigan de pelo con capucha. Diseñado con un enfoque máximo en la comodidad, esta prenda es la elección perfecta para mantener a tu pequeño caliente y feliz durante todo el día. El tacto suave del tejido tipo pelo proporciona un abrazo tierno y mantiene alejado el frío.</p>\n<h2>Diseño Chic con Toque Juvial</h2>\n<p>El Cardigan de pelo con capucha no solo protege contra el frío, sino que también irradia estilo y elegancia con un toque fresco y juvenil. La capucha añade una dimensión adicional al diseño, contribuyendo a su estética chic y juguetona. La elección de colores disponibles asegura que la chaqueta sea fácilmente combinable con el resto de la ropa infantil.</p>\n<h2>Calidad Duradera</h2>\n<p>Conscientes de que la ropa de los niños debe resistir la prueba del tiempo y la energía infantil, este Cardigan se confecciona con materiales de alta calidad. Su resistencia y durabilidad garantizan que este abrigo se mantenga hermoso y funcional lavado tras lavado, proporcionando confort y calidez durante toda la temporada.</p>\n<p>¿Preparados para mantener a tus pequeños calentitos, cómodos y con estilo durante todo el invierno? Hazte ya con nuestro Cardigan de pelo con capucha. ¡No esperes más!</p>\n<p>Composición:</p>\n<p>Exterior: 100% poliéster.</p>\n<p>Forro: 100% algodón.</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Arena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 32.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70843",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2208197",
+      "productSku": "2208197",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:02.149Z"
+    },
+    {
+      "id": "70846",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2208197",
+      "productSku": "2208197",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:05.757Z"
+    },
+    {
+      "id": "70847",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2208197",
+      "productSku": "2208197",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:09.861Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10084-13230.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13230-large_default/cardigan-pelo-con-capucha-infantil-arena.jpg",
+      "alt": "Cardigan pelo con capucha infantil Arena",
+      "sourceId": "13230",
+      "variantIds": [],
+      "sha256": "bf796b8942cac356fb9f6bcf29c21ce10a8d51e183f5fa62b8f33a98d5cada23"
+    },
+    {
+      "path": "assets/10084-13229.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13229-large_default/cardigan-pelo-con-capucha-infantil-arena.jpg",
+      "alt": "Cardigan pelo con capucha infantil Arena",
+      "sourceId": "13229",
+      "variantIds": [],
+      "sha256": "3622e23468a7c8c2f253e8b313f0801fbfb6c323ca27cbc61f4fbcbdce956c4c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:10.044Z",
+  "issues": []
+}

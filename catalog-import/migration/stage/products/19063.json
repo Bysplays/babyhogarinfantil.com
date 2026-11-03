@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "19063",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/19063-calcetin-corto-mezcla-lana-nina-gris-medio.html",
+  "name": "Calcetín corto mezcla lana niña Gris Medio",
+  "brand": "Condor",
+  "sku": "2402274",
+  "description": "Calcetín fantasia para niña, con lana cálida para el invierno.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\n45% Lana.\n\n45% Acrílico.\n\n9% Poliamida.\n\n1% Elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>45% Lana.</p>\n<p>45% Acrílico.</p>\n<p>9% Poliamida.</p>\n<p>1% Elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris medio",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-11-14 08:34:12",
+  "sourceUpdatedAt": "2026-10-27 11:13:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88643",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "2402274",
+      "productSku": "2402274",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:11.158Z"
+    },
+    {
+      "id": "91144",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "2402274",
+      "productSku": "2402274",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:13.397Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19063-17594.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17594-large_default/calcetin-corto-mezcla-lana-nina-gris-medio.jpg",
+      "alt": "Calcetín corto mezcla lana niña Gris Medio",
+      "sourceId": "17594",
+      "variantIds": [],
+      "sha256": "f24f62443ded793d84faa133f7e86e19a349afa90e8973ee5ac5c743b010e936"
+    },
+    {
+      "path": "assets/19063-17595.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17595-large_default/calcetin-corto-mezcla-lana-nina-gris-medio.jpg",
+      "alt": "Calcetín corto mezcla lana niña Gris Medio",
+      "sourceId": "17595",
+      "variantIds": [],
+      "sha256": "0979f503c73c2f5c5ac28838ac54152a16243fbe40c06d90a1c8b0d7b993eec0"
+    },
+    {
+      "path": "assets/19063-17596.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17596-large_default/calcetin-corto-mezcla-lana-nina-gris-medio.jpg",
+      "alt": "Calcetín corto mezcla lana niña Gris Medio",
+      "sourceId": "17596",
+      "variantIds": [],
+      "sha256": "62968d446836fb10b98cfe961e260650a5da447b6783926692532d02c6c1ede6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:13.623Z",
+  "issues": []
+}

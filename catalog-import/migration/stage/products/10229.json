@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "10229",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10229-conjunto-bebe-nino-conejitos-varios.html",
+  "name": "Conjunto bebe niño conejitos Varios",
+  "brand": "Alber",
+  "sku": "2301002",
+  "description": "Conjunto de dos piezas, compuesto por Camisa de manga corta y cuello redondo, en color blanco roto estampado con conejitos y cierre trasero con botones en toda la espalda, y ranita en color tostado.  HECHO EN ESPAÑA",
+  "details": "Conjunto de dos piezas de ALBER, firma familiar, fabricantes y proveedores de ropa infantil con más de 60 años de experiencia, con fabricación española, de Albatera (Alicante) para el mundo. Compuesto por camisa de manga corta y cuello redondo, en color blanco roto estampado con conejitos en tono pastel y cierre trasero con botones en toda la espalda. Como parte de abajo, ranita con textura en color camel. Un conjunto dulce, cómodo y fresquito, perfecto para los días de sol! Echa un ojito a nuestros calcetines con pompón, chaquetas de perlé y calzado y podrás completarlo como más te guste! Disponible vestido para bebe niña a juego. \n\nComposición y cuidados:\n\nCamisa: 100% algodón\n\nRanita: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas de<strong> ALBER</strong>, firma familiar, fabricantes y proveedores de ropa infantil con más de 60 años de experiencia, con fabricación española, de Albatera (Alicante) para el mundo. Compuesto por camisa de manga corta y cuello redondo, en color blanco roto <strong>estampado con conejitos</strong> en tono pastel y cierre trasero con botones en toda la espalda. Como parte de abajo, ranita con textura en color camel. Un conjunto dulce, cómodo y fresquito, perfecto para los días de sol! Echa un ojito a nuestros <strong>calcetines con pompón, chaquetas de perlé y calzado</strong> y podrás completarlo como más te guste! <strong>Disponible vestido para bebe niña a juego. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Camisa: 100% algodón</p>\n<p>Ranita: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 32.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:59",
+  "sourceUpdatedAt": "2026-10-27 11:12:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71235",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2301002",
+      "productSku": "2301002",
+      "taxRate": 21,
+      "price": 32.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:56.165Z"
+    },
+    {
+      "id": "71236",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301002",
+      "productSku": "2301002",
+      "taxRate": 21,
+      "price": 32.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:57.620Z"
+    },
+    {
+      "id": "71237",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2301002",
+      "productSku": "2301002",
+      "taxRate": 21,
+      "price": 32.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:58.794Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10229-8201.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8201-large_default/conjunto-bebe-nino-conejitos-varios.jpg",
+      "alt": "Conjunto bebe niño conejitos Varios",
+      "sourceId": "8201",
+      "variantIds": [],
+      "sha256": "bd82de2981a8b94cbbb5b854ed5abd9b200171c92cf16c5603916e0acdbc908b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:58.876Z",
+  "issues": []
+}

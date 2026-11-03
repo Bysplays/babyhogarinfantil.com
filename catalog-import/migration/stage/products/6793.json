@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6793",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/6793-polo-nino-976-athl-original-azul-marino.html",
+  "name": "Polo niño 976 Athl Original Azul Marino",
+  "brand": "IDO",
+  "sku": "1703230",
+  "description": "Polo manga larga color AZUL MARINO. 100% Algodón sin perchar por lo que pueden usarlo tanto en Primavera como en Verano.",
+  "details": "De la firma Italiana IDO os presentamos un polo todo tiempo para combinar con cualquier pantalón para ir a la última.\n\nComposición:\n\n100% algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS QUE LA LIAS.",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">De la firma Italiana IDO os presentamos un polo todo tiempo para combinar con cualquier pantalón para ir a la última.</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">100% algodón.</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR SECADORA.</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJIAS QUE LA LIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2017",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 9,
+  "oldPrice": 18.0048,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64353",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1703230",
+      "productSku": "1703230",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": 18.0048,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:44.484Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6793-4718.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4718-large_default/polo-nino-976-athl-original-azul-marino.jpg",
+      "alt": "Polo niño 976 Athl Original Azul Marino",
+      "sourceId": "4718",
+      "variantIds": [],
+      "sha256": "11fc005ece7bb771c69e31bb544d80b2e6ace0d8cbe828a8c5794abf8f72e69a"
+    },
+    {
+      "path": "assets/6793-4717.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4717-large_default/polo-nino-976-athl-original-azul-marino.jpg",
+      "alt": "Polo niño 976 Athl Original Azul Marino",
+      "sourceId": "4717",
+      "variantIds": [],
+      "sha256": "b44159a064694d3b9065d40f17b8325af7a5909e333dad5a1d55e2324da2603f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:44.578Z",
+  "issues": []
+}

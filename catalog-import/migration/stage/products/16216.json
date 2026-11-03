@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16216",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/16216-camiseta-manga-myrl-verde.html",
+  "name": "Camiseta manga MYRL Verde",
+  "brand": "Mayoral",
+  "sku": "2304000",
+  "description": "Camiseta de manga corta, 100% algodón, en color verde",
+  "details": "Camiseta de manga corta 100% algodón sostenible. Diseño estampado con el logotipo de Mayoral.\n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nHECHO EN BANGLADESH",
+  "sourceDescriptionHtml": "<p class=\"contenido\" style=\"margin:0px 0px 12.5px;color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:#ffffff;line-height:21px;\">Camiseta de manga corta 100% algodón sostenible. Diseño estampado con el logotipo de Mayoral.</p>\n<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:#ffffff;\">Composición y cuidados:</span></p>\n<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:#ffffff;\">Camiseta: 100% algodón</span></p>\n<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:#ffffff;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</span></p>\n<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:#ffffff;\">NO USAR LEJÍAS</span></p>\n<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:#ffffff;\">NO USAR SECADORA</span></p>\n<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:#ffffff;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>\n<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:#ffffff;\">HECHO EN BANGLADESH</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-26 16:02:49",
+  "sourceUpdatedAt": "2026-10-27 11:12:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72654",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2304000",
+      "productSku": "2304000",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:30.022Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16216-13932.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13932-large_default/camiseta-manga-myrl-verde.jpg",
+      "alt": "Camiseta manga MYRL Verde",
+      "sourceId": "13932",
+      "variantIds": [],
+      "sha256": "f7b49b198acbf5d36b5dcd099fb4947165f3b40e11f03139b459729ab43fdf75"
+    },
+    {
+      "path": "assets/16216-13933.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13933-large_default/camiseta-manga-myrl-verde.jpg",
+      "alt": "Camiseta manga MYRL Verde",
+      "sourceId": "13933",
+      "variantIds": [],
+      "sha256": "71e2c0ca7bbaae461f388cac196b220f30d3f9da3e042a4e6848aaf05f300473"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:30.151Z",
+  "issues": []
+}

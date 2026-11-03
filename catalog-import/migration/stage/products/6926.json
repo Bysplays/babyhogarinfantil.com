@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "6926",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/6926-camiseta-bebe-manga-larga-estampada-blanco.html",
+  "name": "Camiseta bebé manga larga estampada Blanco",
+  "brand": "Chicco",
+  "sku": "1708013",
+  "description": "Convierte a tu pequeña en el centro de todas las miradas con la Camiseta bebé manga larga estampada en Blanco. Hecha para abrazar su delicada piel, este artículo eleva la comodidad y la moda al siguiente nivel. La tela suave al tacto asegura la máxima comodidad durante todo el día, mientras que el brillante estampado aporta un toque chic a cualquier atuendo. ¡No pierdas la oportunidad de hacer a tu niña la más estilizada en el parque! Añade esta pieza esencial a tu carrito ahora.",
+  "details": "Encanto Sin Igual\n\nOpta por la elegancia y la comodidad inigualables con la Camiseta bebé de manga larga estampada en blanco. Este pequeño atuendo está diseñado impecablemente para ofrecer el máximo confort a los pequeños, sin comprometer su estilo adorable. Esta prenda transmite dulzura y amor, lo que resulta esencial para la delicada piel del bebé.\n\n\nDiseño y Confort Superior\n\nEl diseño de la camiseta presenta un estampado alegre en una paleta neutra de blanco que complementa la ternura de los bebés. Hecho de un material suave y transpirable, este atuendo asegura una comodidad óptima durante todo el día. Además, las mangas largas hacen que sea una opción perfecta para todas las estaciones, proporcionando calor adicional en los días fríos y protegiendo del sol en épocas calurosas.\n\n\nPerfecta para Ocasiones Especiales y Uso Diario\n\nYa sea para una sesión de fotos del bebé o para el uso diario, esta camiseta es la elección perfecta. La comodidad se combina con la sofisticación para que el bebé se vea siempre a la moda mientras experimenta la suavidad extrema de esta prenda. El fácil cuidado y durabilidad del material garantizan que este encanto perdure en el tiempo.\n\n\nHaz clic aquí para agregar este encanto a tu carrito de compras y dale a tu bebé la combinación perfecta de estilo y comodidad. No hay nada mejor que ver a tu pequeño vestido en pureza y amor.",
+  "sourceDescriptionHtml": "<h2>Encanto Sin Igual</h2>\n<p>Opta por la elegancia y la comodidad inigualables con la Camiseta bebé de manga larga estampada en blanco. Este pequeño atuendo está diseñado impecablemente para ofrecer el máximo confort a los pequeños, sin comprometer su estilo adorable. Esta prenda transmite dulzura y amor, lo que resulta esencial para la delicada piel del bebé.</p>\n\n<h2>Diseño y Confort Superior</h2>\n<p>El diseño de la camiseta presenta un estampado alegre en una paleta neutra de blanco que complementa la ternura de los bebés. Hecho de un material suave y transpirable, este atuendo asegura una comodidad óptima durante todo el día. Además, las mangas largas hacen que sea una opción perfecta para todas las estaciones, proporcionando calor adicional en los días fríos y protegiendo del sol en épocas calurosas.</p>\n\n<h2>Perfecta para Ocasiones Especiales y Uso Diario</h2>\n<p>Ya sea para una sesión de fotos del bebé o para el uso diario, esta camiseta es la elección perfecta. La comodidad se combina con la sofisticación para que el bebé se vea siempre a la moda mientras experimenta la suavidad extrema de esta prenda. El fácil cuidado y durabilidad del material garantizan que este encanto perdure en el tiempo.</p>\n\n<h3>Haz clic<a href=\"add_to_cart\"> aquí</a> para agregar este encanto a tu carrito de compras y dale a tu bebé la combinación perfecta de estilo y comodidad. No hay nada mejor que ver a tu pequeño vestido en pureza y amor.</h3>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64709",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1708013",
+      "productSku": "1708013",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:29.757Z"
+    },
+    {
+      "id": "64710",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1708013",
+      "productSku": "1708013",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:32.840Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6926-4844.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4844-large_default/camiseta-bebe-manga-larga-estampada-blanco.jpg",
+      "alt": "Camiseta bebé manga larga estampada Blanco",
+      "sourceId": "4844",
+      "variantIds": [],
+      "sha256": "1f247b0e3c30d1b6a14102d349aaccb7b080882b831166e87cc742cb3eda6a16"
+    },
+    {
+      "path": "assets/6926-4845.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4845-large_default/camiseta-bebe-manga-larga-estampada-blanco.jpg",
+      "alt": "Camiseta bebé manga larga estampada Blanco",
+      "sourceId": "4845",
+      "variantIds": [],
+      "sha256": "303aae008d9f45e4945c0c2b1ad6c5fe8958d56d5e8a666f8f340a92d7ac88c3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:33.006Z",
+  "issues": []
+}

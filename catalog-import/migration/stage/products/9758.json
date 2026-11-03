@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9758",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9758-conjunto-pantalon-sinus-azul.html",
+  "name": "Conjunto pantalón Sinus Azul",
+  "brand": "Calamaro",
+  "sku": "2207002",
+  "description": "Descubre el Conjunto pantalón Sinus Azul, la elección perfecta para el niño moderno y elegante. Fabricado con materiales suaves, este conjunto garantiza confort sin comprometer estilo. Los colores vibrantes atraen la atención, asegurando que tu pequeño se destaque en cada ocasión. Ideal para uso diario, reuniones familiares o sesiones de fotos, es una adquisición que dejará huella en el guardarropa de tu hijo. Haz una inversión en su comodidad y estilo - ¡elige Conjunto pantalón Sinus Azul ahora!",
+  "details": "Comodidad incomparable\n\nEl Conjunto pantalón Sinus Azul va más allá del algodón común para proporcionar una comodidad imbatible. La suavidad de nuestro producto garantiza una comodidad excepcional para los más pequeños, a la vez que evita cualquier tipo de irritación en la piel. El tejido de nuestra prenda es especialmente transpirable y ligero para facilitar los movimientos.\n\n\n\nAtractivo y Elegante\n\nEste pantalón no es solo comodidad, también incorpora un diseño elegante que destaca. El Conjunto pantalón Sinus Azul cuenta con un diseño contemporáneo que combina con cualquier prenda, ideal para todas las ocasiones. La combinación del color azul intenso con un diseño de estilo moderno se adapta a cualquier estética y aporta un fascinante toque de elegancia.\n\n\n\nAlta calidad y durabilidad\n\nEl Conjunto pantalón Sinus Azul es la elección perfecta para aquellos que buscan ropa de alta calidad y que resista todo tipo de juegos y lavados. Confeccionados con materiales altamente duraderos y resistentes, estos pantalones están diseñados para durar mucho tiempo sin perder su forma y hermosa apariencia a pesar de su uso intensivo.\n\n\n¡Compre ahora el Conjunto pantalón Sinus Azul para disfrutar de una comodidad inigualable, un diseño atractivo y una calidad excepcional!",
+  "sourceDescriptionHtml": "<!-- Comodidad incomparable -->\n<h2>Comodidad incomparable</h2>\n<p>El <strong>Conjunto pantalón Sinus Azul</strong> va más allá del algodón común para proporcionar una comodidad imbatible. La suavidad de nuestro producto garantiza una comodidad excepcional para los más pequeños, a la vez que evita cualquier tipo de irritación en la piel. El tejido de nuestra prenda es especialmente transpirable y ligero para facilitar los movimientos.</p>\n\n<!-- Atractivo y elegante -->\n<h2>Atractivo y Elegante</h2>\n<p>Este pantalón no es solo comodidad, también incorpora un diseño elegante que destaca. El <strong>Conjunto pantalón Sinus Azul</strong> cuenta con un diseño contemporáneo que combina con cualquier prenda, ideal para todas las ocasiones. La combinación del color azul intenso con un diseño de estilo moderno se adapta a cualquier estética y aporta un fascinante toque de elegancia.</p>\n\n<!-- Alta calidad y durabilidad -->\n<h2>Alta calidad y durabilidad</h2>\n<p>El <strong>Conjunto pantalón Sinus Azul</strong> es la elección perfecta para aquellos que buscan ropa de alta calidad y que resista todo tipo de juegos y lavados. Confeccionados con materiales altamente duraderos y resistentes, estos pantalones están diseñados para durar mucho tiempo sin perder su forma y hermosa apariencia a pesar de su uso intensivo.</p>\n\n<p>¡Compre ahora el Conjunto pantalón Sinus Azul para disfrutar de una comodidad inigualable, un diseño atractivo y una calidad excepcional!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "79362",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2207002",
+      "productSku": "2207002",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:08.013Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9758-7936.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7936-large_default/conjunto-pantalon-sinus-azul.jpg",
+      "alt": "Conjunto pantalón Sinus Azul",
+      "sourceId": "7936",
+      "variantIds": [],
+      "sha256": "392bbe1c5571b6a0e4f46139ef2da7ca393c8f4a4a8ba7b7ccba5d48d61a53c1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:08.055Z",
+  "issues": []
+}

@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "6094",
+  "sourceUrl": "https://babyhogarinfantil.com/polainas-bebe-nina/6094-polaina-lisa-perle-gris.html",
+  "name": "Polaina lisa perlé Gris",
+  "brand": "Mac Ilusión",
+  "sku": "621",
+  "description": "Polaina lisa SIN COSTURAS. En punto, perlé. Para combinar con jubones y camisitas.",
+  "details": "Composición y cuidados:\n\nPolaina: 50% algodón, 50% Acrílico Dralon.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS QUE LA LIAS.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Polaina: 50% algodón, 50% Acrílico Dralon.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS QUE LA LIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "672"
+  ],
+  "sourceDefaultCategoryId": "672",
+  "sourceCategoryName": "Polainas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 9,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62401",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:26.916Z"
+    },
+    {
+      "id": "62402",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:29.790Z"
+    },
+    {
+      "id": "62403",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:33.081Z"
+    },
+    {
+      "id": "62404",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:35.423Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6094-3950.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3950-large_default/polaina-lisa-perle-gris.jpg",
+      "alt": "Polaina lisa perlé Gris",
+      "sourceId": "3950",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    },
+    {
+      "path": "assets/6094-3949.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3949-large_default/polaina-lisa-perle-gris.jpg",
+      "alt": "Polaina lisa perlé Gris",
+      "sourceId": "3949",
+      "variantIds": [],
+      "sha256": "c031d2f3edd0d56f284c680783535c53f45d18d9c40c3cbb5d66cf74a1645c43"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:35.597Z",
+  "issues": []
+}

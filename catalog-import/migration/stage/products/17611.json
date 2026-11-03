@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "17611",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/17611-calcetin-barefoot-smile-bruma.html",
+  "name": "Calcetín barefoot Smile Bruma",
+  "brand": "Condor",
+  "sku": "2401314",
+  "description": "Descubre la alegría de los pies descalzos con los Calcetines Barefoot Smile Bruma. Fabricados con cariño y pensados para los pies más pequeños, estos calcetines permiten la libertad de movimiento, a la vez que protegen de la fricción y el frío. Los pequeños disfrutarán del confort de su suave tejido y la gracia de su diseño con estampado de nubes. Ideales para exploradores incansables, son perfectos para jugar, correr y saltar. Aportan un toque de ternura a cualquier conjunto, convirtiéndose en el complemento imprescindible. Descubre el dulce secreto de la comodidad con los Calcetines Barefoot Smile Bruma.\n\nComposición: 83% ALGODON,15% POLIAMIDA,2% ELASTANO (LYCRA®)",
+  "details": "Comodidad para los más pequeños\n\nDelicados y suaves, los Calcetines barefoot Smile Bruma envuelven los pies de los más pequeños en una delicada caricia. Confeccionados con los mejores materiales, estos calcetines brindan una comodidad inigualable, protección y suavidad durante todo el día. ¿La mejor parte? Ayudan a mantener esos pies pequeños calientes y protegidos en todas las estaciones.\n\nTu conexión con la naturaleza\n\nEl diseño de los Calcetines barefoot Smile Bruma se inspira en la naturaleza. Con un bellísimo estampado de nubes, cada par es una hermosa alusión a los días de cielo despejado y a esos momentos en los que los niños pueden correr libres bajo el cielo infinito. ¡Un toque de cielo en cada paso!\n\nUna opción sostenible\n\nAl elegir los Calcetines barefoot Smile Bruma, eliges también un mundo mejor para los pequeños. Construídos con amor y responsabilidad, estos calcetines son un testamento a nuestras prácticas sostenibles. Hechos a mano, demuestran que la moda infantil y la sostenibilidad pueden ir de la mano y la calidad no tiene que estar en desacuerdo con el cuidado del medio ambiente.\n\nLos Calcetines barefoot Smile Bruma pueden marcar un gran paso en la vida de tu hijo, no solo proporcionando comodidad a sus pequeños pies, sino también fomentando su amor por la naturaleza y realizando una opción sostenible. ¡No esperes más! Hazte con un par hoy y deja que tus niños disfruten de la calidad y el cuidado que solo estos calcetines pueden ofrecer.",
+  "sourceDescriptionHtml": "<h2>Comodidad para los más pequeños</h2>\n<p>Delicados y suaves, los Calcetines barefoot Smile Bruma envuelven los pies de los más pequeños en una delicada caricia. Confeccionados con los mejores materiales, estos calcetines brindan una comodidad inigualable, protección y suavidad durante todo el día. ¿La mejor parte? Ayudan a mantener esos pies pequeños calientes y protegidos en todas las estaciones.</p>\n<h2>Tu conexión con la naturaleza</h2>\n<p>El diseño de los Calcetines barefoot Smile Bruma se inspira en la naturaleza. Con un bellísimo estampado de nubes, cada par es una hermosa alusión a los días de cielo despejado y a esos momentos en los que los niños pueden correr libres bajo el cielo infinito. ¡Un toque de cielo en cada paso!</p>\n<h2>Una opción sostenible</h2>\n<p>Al elegir los Calcetines barefoot Smile Bruma, eliges también un mundo mejor para los pequeños. Construídos con amor y responsabilidad, estos calcetines son un testamento a nuestras prácticas sostenibles. Hechos a mano, demuestran que la moda infantil y la sostenibilidad pueden ir de la mano y la calidad no tiene que estar en desacuerdo con el cuidado del medio ambiente.</p>\n<p>Los Calcetines barefoot Smile Bruma pueden marcar un gran paso en la vida de tu hijo, no solo proporcionando comodidad a sus pequeños pies, sino también fomentando su amor por la naturaleza y realizando una opción sostenible. ¡No esperes más! Hazte con un par hoy y deja que tus niños disfruten de la calidad y el cuidado que solo estos calcetines pueden ofrecer.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Bruma",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "867"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-06-03 15:58:14",
+  "sourceUpdatedAt": "2026-10-27 11:13:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84721",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2401314",
+      "productSku": "2401314",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:07.061Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17611-15473.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15473-large_default/calcetin-barefoot-smile-bruma.jpg",
+      "alt": "Calcetín barefoot Smile Bruma",
+      "sourceId": "15473",
+      "variantIds": [],
+      "sha256": "e996c0d7d60396aa09a5398c44dd293757a2ce50153638ee9cf4d27defb41569"
+    },
+    {
+      "path": "assets/17611-15474.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15474-large_default/calcetin-barefoot-smile-bruma.jpg",
+      "alt": "Calcetín barefoot Smile Bruma",
+      "sourceId": "15474",
+      "variantIds": [],
+      "sha256": "4eb1db8ac82eea5f7cf196f78dd5f08317816e81c5600134b101fcff3d7c624c"
+    },
+    {
+      "path": "assets/17611-15475.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15475-large_default/calcetin-barefoot-smile-bruma.jpg",
+      "alt": "Calcetín barefoot Smile Bruma",
+      "sourceId": "15475",
+      "variantIds": [],
+      "sha256": "77f185f03d4d2fe7f8499f2d567059b3440b4e829cb43c683a41bc724eeb2246"
+    },
+    {
+      "path": "assets/17611-18454.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18454-large_default/calcetin-barefoot-smile-bruma.jpg",
+      "alt": "Calcetín barefoot Smile Bruma",
+      "sourceId": "18454",
+      "variantIds": [],
+      "sha256": "62968d446836fb10b98cfe961e260650a5da447b6783926692532d02c6c1ede6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:07.297Z",
+  "issues": []
+}

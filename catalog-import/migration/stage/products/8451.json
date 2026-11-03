@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "8451",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/8451-pantalon-corto-deporte-algodon-s-xl-azul-marino.html",
+  "name": "Pantalón corto deporte algodón S-XL Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2008051",
+  "description": "Pantalón corto deporte azul marino, básico liso con bolsillos.\n\nComposición:\n\nPantalón: 50% poliéster 50% algodón.\n\nHECHO EN UE",
+  "details": "Composición:\n\nPantalón: 50% poliéster 50% algodón.\n\nHECHO EN UE",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pantalón: 50% poliéster 50% algodón.</p>\n<p><strong>HECHO EN UE</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "684",
+    "888"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:37",
+  "sourceUpdatedAt": "2026-10-27 11:10:49",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 11,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92956",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "2008051",
+      "productSku": "2008051",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:35.875Z"
+    },
+    {
+      "id": "92957",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "2008051",
+      "productSku": "2008051",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:37.293Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8451-6770.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6770-large_default/pantalon-corto-deporte-algodon-s-xl-azul-marino.jpg",
+      "alt": "Pantalón corto deporte algodón S-XL Azul Marino",
+      "sourceId": "6770",
+      "variantIds": [],
+      "sha256": "f49271acedf60927659487755c352d021590a10be8ce3c1d8a2c4d3ff7564c13"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:37.364Z",
+  "issues": []
+}

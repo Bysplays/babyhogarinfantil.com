@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "7599",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-verano/7599-leotardo-perle-calado-cava.html",
+  "name": "Leotardo perlé calado Cava",
+  "brand": "Condor",
+  "sku": "1902145",
+  "description": "Leotardo color CAVA, de perlé totalmente calado con calado de espiga. Especial para entretiempo.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas m&aacute;s funcionales para los ni&ntilde;os y ni&ntilde;as, para que descubra todo el mundo que le rodea. Estos totalmanete calados, en concreto, son ideales para todo tiempo, dando un toque de elegancia a tus modelitos. HECHOS EN ESPA&Ntilde;A\n\r\n75% ALGODON 25% POLIAMIDA.\n\r\nNO USAR SECADORA.\n\r\nNO USAR LEJIAS.\n\r\nNO PLANCHAR.",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de <strong>CONDOR</strong> son sin duda una de las prendas m&aacute;s funcionales para los&nbsp;ni&ntilde;os y ni&ntilde;as, para que descubra todo el mundo que le rodea. Estos totalmanete calados, en concreto, son ideales para todo tiempo, dando un toque de elegancia a tus modelitos. <strong><span style=\"text-decoration: underline;\">HECHOS EN ESPA&Ntilde;A</span></strong></p>\r\n<p>75% ALGODON 25% POLIAMIDA.</p>\r\n<p>NO USAR SECADORA.</p>\r\n<p>NO USAR LEJIAS.</p>\r\n<p>NO PLANCHAR.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cava",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "676",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "676",
+  "sourceCategoryName": "Leotardos Verano",
+  "price": 12.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66006",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 12.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:31.479Z"
+    },
+    {
+      "id": "66007",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 12.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:34.153Z"
+    },
+    {
+      "id": "66008",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 14.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:36.456Z"
+    },
+    {
+      "id": "66009",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1902145",
+      "productSku": "1902145",
+      "taxRate": 21,
+      "price": 14.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:39.117Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7599-5578.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5578-large_default/leotardo-perle-calado-cava.jpg",
+      "alt": "Leotardo perlé calado Cava",
+      "sourceId": "5578",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/7599-10396.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10396-large_default/leotardo-perle-calado-cava.jpg",
+      "alt": "Leotardo perlé calado Cava",
+      "sourceId": "10396",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/7599-5577.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5577-large_default/leotardo-perle-calado-cava.jpg",
+      "alt": "Leotardo perlé calado Cava",
+      "sourceId": "5577",
+      "variantIds": [],
+      "sha256": "f23143510a277755cb385e477b5368fffc98aa987bf135e661e2d21003c611c2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:29:41.176Z",
+  "issues": []
+}

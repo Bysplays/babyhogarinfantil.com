@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "21596",
+  "sourceUrl": "https://babyhogarinfantil.com/anoraks-y-chalecos/21596-anorak-nino-azul-marino.html",
+  "name": "Anorak niño Azul Marino",
+  "brand": "Babybol",
+  "sku": "2502206",
+  "description": "Anorak azul marino para niño, la capucha es desmontable, se sujeta con botones automáticos. Tiene dos bolsillos funcionales. Está forrada en tejido polar en el interior.",
+  "details": "Composición:\n\nExterior: 100% poléster\n\nInterior: 100% poléster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Exterior: 100% poléster</p>\n<p>Interior: 100% poléster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "749",
+  "sourceCategoryName": "Anoraks y Chalecos",
+  "price": 39,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-20 15:54:15",
+  "sourceUpdatedAt": "2026-10-27 11:14:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97596",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502206",
+      "productSku": "2502206",
+      "taxRate": 21,
+      "price": 39,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:36.384Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21596-20160.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20160-large_default/anorak-nino-azul-marino.jpg",
+      "alt": "Anorak niño Azul Marino",
+      "sourceId": "20160",
+      "variantIds": [],
+      "sha256": "763fd9da1942256eb3be8baef7e947fc2e03a6e67ac651d7a0f79b4b26731c07"
+    },
+    {
+      "path": "assets/21596-20161.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20161-large_default/anorak-nino-azul-marino.jpg",
+      "alt": "Anorak niño Azul Marino",
+      "sourceId": "20161",
+      "variantIds": [],
+      "sha256": "f589487514fef63c80c3b533f3984493ec50d40766bc58e7c9cb27da4114f295"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:36.482Z",
+  "issues": []
+}

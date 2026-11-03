@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "6316",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/6316-botita-piel-charol-con-cordon-charol-gris.html",
+  "name": "Botita piel charol con cordón Charol Gris",
+  "brand": "Caminito",
+  "sku": "1095",
+  "description": "Botita de piel con acabado charol en color gris oscuro, cierre con cordones",
+  "details": "Botita de piel de la firma CAMINITO, especialistas en calzado. Con acabado de charol y cierre de cordones",
+  "sourceDescriptionHtml": "<p>Botita de piel de la firma CAMINITO, especialistas en calzado. Con acabado de charol y cierre de cordones</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charol Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 29,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "236",
+          "label": "16"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63302",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "1095",
+      "productSku": "1095",
+      "taxRate": 21,
+      "price": 29,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:52.940Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6316-14152.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14152-large_default/botita-piel-charol-con-cordon-charol-gris.jpg",
+      "alt": "Botita piel charol con cordón Charol Gris",
+      "sourceId": "14152",
+      "variantIds": [],
+      "sha256": "c086770da84db919d6169ec2380a4a122a0c5217f5f769bb805652dd90a42c3c"
+    },
+    {
+      "path": "assets/6316-14153.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14153-large_default/botita-piel-charol-con-cordon-charol-gris.jpg",
+      "alt": "Botita piel charol con cordón Charol Gris",
+      "sourceId": "14153",
+      "variantIds": [],
+      "sha256": "3d0ea139dca342b1e8d14e415e108b1cce345b3f6083e6260c8fd18e67cb4376"
+    },
+    {
+      "path": "assets/6316-14154.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14154-large_default/botita-piel-charol-con-cordon-charol-gris.jpg",
+      "alt": "Botita piel charol con cordón Charol Gris",
+      "sourceId": "14154",
+      "variantIds": [],
+      "sha256": "3facec5441d1af5f247103f9720d7589afc8fa9934c85e83189c9f0b07a520b9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:53.113Z",
+  "issues": []
+}

@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "id": "21478",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/21478-sudadera-algodon-nino-azul-marino.html",
+  "name": "Sudadera algodón niño Azul Marino",
+  "brand": "Chicco",
+  "sku": "2502112",
+  "description": "Sudadera con capucha para niño. Tiene felpa interior, lo que hace que sea cálida para el invierno. Con cremallera en el cuello para facilitar la puesta.",
+  "details": "Composición:\n\nSudadera: 95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Sudadera:</strong> 95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96706",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:08.399Z"
+    },
+    {
+      "id": "96707",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:09.738Z"
+    },
+    {
+      "id": "96708",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:11.164Z"
+    },
+    {
+      "id": "96709",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:12.588Z"
+    },
+    {
+      "id": "96711",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:14.108Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21478-20023.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20023-large_default/sudadera-algodon-nino-azul-marino.jpg",
+      "alt": "Sudadera algodón niño Azul Marino",
+      "sourceId": "20023",
+      "variantIds": [],
+      "sha256": "782a9dd2145e893f700fddeed3613f87a8bf7b45e3eb24fb3b79d6ac8c04c70a"
+    },
+    {
+      "path": "assets/21478-20024.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20024-large_default/sudadera-algodon-nino-azul-marino.jpg",
+      "alt": "Sudadera algodón niño Azul Marino",
+      "sourceId": "20024",
+      "variantIds": [],
+      "sha256": "4ba7e728a9a8f366971f6306b21f9e7905c57d607e80e331e5ae0a5d64962fb0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:14.251Z",
+  "issues": []
+}

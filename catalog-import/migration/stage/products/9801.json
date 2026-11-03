@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "9801",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/9801-pack-2-pijjamas-algodon-rosa.html",
+  "name": "Pack 2 pijjamas algodón Rosa",
+  "brand": "Zippy",
+  "sku": "2207042",
+  "description": "Disfrute del confort y la suavidad de los Paquetes de 2 Pijamas de Algodón Rosa para sus pequeños. Hechos de algodón puro para el máximo confort, perfectos para las noches frías de invierno. Estos maravillosos pijamas proporcionarán a sus hijos una calidez relajante, haciéndolos sentir amados y cuidados. El diseño rosa agrega un toque de dulzura extra. ¡Desde las noches acogedoras hasta los días perezosos, estos pijamas serán su mejor opción! ¡Que tus pequeños duerman con estilo, comodidad y amor!",
+  "details": "Comodidad Confortable\n\nLas pijamas de algodón rosa prometen un confort incomparable. Hechas de algodón puro de primera calidad, el tacto suave y agradable en la piel asegura sueños dulces y noches de descanso tranquilas. Suave, transpirable y antialérgico, un auténtico deleite para los pequeños mientras duermen.\n\nEstilo Chic y Alegre\n\nInyecte una dosis de alegría en la rutina de pijamas de los niños con nuestro paquete de 2 pijamas de algodón rosa. Con un tono rosado brillante y una textura suave, estas pijamas son la mezcla perfecta de diversión y funcionalidad. Transforma la hora de dormir en un desfile de estilo con estas encantadoras pijamas.\n\nValor Insuperable\n\nUn buen descanso nocturno tiene un valor inestimable, y con nuestro paquete de 2 pijamas de algodón rosa, se obteniene una gran relación calidad-precio. Proporciona noches de sueño cómodo y días de felicidad, frontando una sonrisa en los rostros de los niños. ¡Aproveche esta oferta y haga que sus pequeños se sientan especiales!\n\n¡No espere más, agregue este paquete de 2 pijamas de algodón rosa a su carrito ahora para alegría y comodidad sin igual!\n\nComposición y cuidados:\n\nPijama: 100% algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<h2>Comodidad Confortable</h2>\n<p>Las pijamas de algodón rosa prometen un confort incomparable. Hechas de algodón puro de primera calidad, el tacto suave y agradable en la piel asegura sueños dulces y noches de descanso tranquilas. Suave, transpirable y antialérgico, un auténtico deleite para los pequeños mientras duermen.</p>\n<h2>Estilo Chic y Alegre</h2>\n<p>Inyecte una dosis de alegría en la rutina de pijamas de los niños con nuestro paquete de 2 pijamas de algodón rosa. Con un tono rosado brillante y una textura suave, estas pijamas son la mezcla perfecta de diversión y funcionalidad. Transforma la hora de dormir en un desfile de estilo con estas encantadoras pijamas.</p>\n<h2>Valor Insuperable</h2>\n<p>Un buen descanso nocturno tiene un valor inestimable, y con nuestro paquete de 2 pijamas de algodón rosa, se obteniene una gran relación calidad-precio. Proporciona noches de sueño cómodo y días de felicidad, frontando una sonrisa en los rostros de los niños. ¡Aproveche esta oferta y haga que sus pequeños se sientan especiales!</p>\n<p><strong>¡No espere más, agregue este paquete de 2 pijamas de algodón rosa a su carrito ahora para alegría y comodidad sin igual!</strong></p>\n<p>Composición y cuidados:</p>\n<p>Pijama: 100% algodón.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70051",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2207042",
+      "productSku": "2207042",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:01.227Z"
+    },
+    {
+      "id": "70052",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2207042",
+      "productSku": "2207042",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:05.033Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9801-12760.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12760-large_default/pack-2-pijjamas-algodon-rosa.jpg",
+      "alt": "Pack 2 pijjamas algodón Rosa",
+      "sourceId": "12760",
+      "variantIds": [],
+      "sha256": "399cc5c449026ab30e47008903b195e31e01964d57597acadfbe404c0bee380e"
+    },
+    {
+      "path": "assets/9801-12762.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12762-large_default/pack-2-pijjamas-algodon-rosa.jpg",
+      "alt": "Pack 2 pijjamas algodón Rosa",
+      "sourceId": "12762",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9801-8489.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8489-large_default/pack-2-pijjamas-algodon-rosa.jpg",
+      "alt": "Pack 2 pijjamas algodón Rosa",
+      "sourceId": "8489",
+      "variantIds": [],
+      "sha256": "467db298bbb78a292c0a660d298b7318d99944bd8dd897d3c7a65c3b5c111779"
+    },
+    {
+      "path": "assets/9801-8490.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8490-large_default/pack-2-pijjamas-algodon-rosa.jpg",
+      "alt": "Pack 2 pijjamas algodón Rosa",
+      "sourceId": "8490",
+      "variantIds": [],
+      "sha256": "6c33b65626d19db90b79f42b1ea8d8f0e6e434be9e87cc10e41d3d2d46107f52"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:05.253Z",
+  "issues": []
+}

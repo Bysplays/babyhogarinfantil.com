@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "16214",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-divino-salvador-vigo/16214-camiseta-manga-larga-divino-s-xl-blanco.html",
+  "name": "Camiseta manga larga Divino S-XL Blanco",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2301332",
+  "description": "Camiseta manga larga deporte colegio DIVINO SALVADOR de Vigo. Tallas grandes.",
+  "details": "Camiseta de manga larga para el uniforme deportivo del Divino Salvador de Vigo, para completar con el chandal.\n\nComposición:\n\nCamiseta: 50% Algodón, 50% poliéster.\n\nLavar siempre del revés.\n\nNO USAR SECADORA\n\nHECHA EN GALICIA",
+  "sourceDescriptionHtml": "<p>Camiseta de manga larga para el uniforme deportivo del Divino Salvador de Vigo, para completar con el chandal.</p>\n<p>Composición:</p>\n<p>Camiseta: 50% Algodón, 50% poliéster.</p>\n<p>Lavar siempre del revés.</p>\n<p>NO USAR SECADORA</p>\n<p><strong>HECHA EN GALICIA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "783"
+  ],
+  "sourceDefaultCategoryId": "783",
+  "sourceCategoryName": "Colegio Divino Salvador Vigo",
+  "price": 18.76,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-26 16:02:47",
+  "sourceUpdatedAt": "2026-10-27 11:12:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "274",
+          "label": "S"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        },
+        {
+          "id": "278",
+          "label": "XXL"
+        },
+        {
+          "id": "330",
+          "label": "XXXL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "93917",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "274",
+          "group": "Tamaño",
+          "value": "S"
+        }
+      ],
+      "sku": "11200XA17275",
+      "productSku": "2301332",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:24.056Z"
+    },
+    {
+      "id": "143880",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "11200XB17275",
+      "productSku": "2301332",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:26.415Z"
+    },
+    {
+      "id": "148523",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "11200XC17275",
+      "productSku": "2301332",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:30.431Z"
+    },
+    {
+      "id": "148524",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "11200XD17275",
+      "productSku": "2301332",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:33.043Z"
+    },
+    {
+      "id": "148525",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "278",
+          "group": "Tamaño",
+          "value": "XXL"
+        }
+      ],
+      "sku": "11200XE17275",
+      "productSku": "2301332",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:36.641Z"
+    },
+    {
+      "id": "148526",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "330",
+          "group": "Tamaño",
+          "value": "XXXL"
+        }
+      ],
+      "sku": "11200XF17275",
+      "productSku": "2301332",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:39.335Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16214-18847.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18847-large_default/camiseta-manga-larga-divino-s-xl-blanco.jpg",
+      "alt": "Camiseta manga larga Divino S-XL Blanco",
+      "sourceId": "18847",
+      "variantIds": [],
+      "sha256": "82f62ef42a2f6b0e3204fad425c1c98021400dc9660b213c9dcc5b08d5bdc4bf"
+    },
+    {
+      "path": "assets/16214-18848.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18848-large_default/camiseta-manga-larga-divino-s-xl-blanco.jpg",
+      "alt": "Camiseta manga larga Divino S-XL Blanco",
+      "sourceId": "18848",
+      "variantIds": [],
+      "sha256": "0b8d5c28d18b2d9f17bfde553ebfa261e395c5345a26e248c61645a77e7fd3b4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:39.495Z",
+  "issues": []
+}

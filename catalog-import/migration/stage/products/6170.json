@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "6170",
+  "sourceUrl": "https://babyhogarinfantil.com/babis-escolares/6170-mandilon-cuadros-azul-marino.html",
+  "name": "Mandilón cuadros Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "810",
+  "description": "Mandilón cuadros Azul Marino: Adornan a tu pequeño con estilo y comodidad con este Mandilón cuadros Azul Marino. Perfecto para el día escolar, este mandilón fusiona estilo tradicional con un toque moderno. Hecho con tejidos de alta calidad, proporciona durabilidad para un uso prolongado y resistente. Es fácil de lavar y mantener, y su color no se desvanece con facilidad. Su cómodo ajuste no restringe el movimiento, permitiendo a los niños disfrutar y aprender libremente. ¡Invierte en calidad y estilo para tu pequeño hoy!",
+  "details": "Estilo y comodidad en cada cuadro\n\nEnvuelve a tus pequeños con el confort y el estilo del Mandilón de cuadros Azul Marino. Fabricado con tejidos de alta calidad y un diseño a cuadros que nunca pasa de moda, seguramente será un favorito en el guardarropa de tus hijos.\n\nRinde tributo a la elegancia atemporal\n\nEl color azul marino en combinación con el diseño a cuadros convierte a este Mandilón en un clásico atemporal. Destaca tus atuendos de día y de noche, convirtiendo a tus pequeños en el centro de atención en cada reunión.\n\nCalidez para todo el día\n\nEl Mandilón cuadros Azul Marino es la opción perfecta para mantener a tus pequeños abrigados en los días de frío. Su suave textura asegura comodidad durante todo el día, mientras que su versatilidad permite combinarlo con cualquier prenda.\n\nUn momento, este Mandilón puede ser el complemento perfecto para el armario de tus hijos. ¡Haz click en \"Añadir al carrito\" y da un paso hacia la elegancia y la comodidad!",
+  "sourceDescriptionHtml": "<h2>Estilo y comodidad en cada cuadro</h2>\n<p>Envuelve a tus pequeños con el confort y el estilo del Mandilón de cuadros Azul Marino. Fabricado con tejidos de alta calidad y un diseño a cuadros que nunca pasa de moda, seguramente será un favorito en el guardarropa de tus hijos.</p>\n<h2>Rinde tributo a la elegancia atemporal</h2>\n<p>El color azul marino en combinación con el diseño a cuadros convierte a este Mandilón en un clásico atemporal. Destaca tus atuendos de día y de noche, convirtiendo a tus pequeños en el centro de atención en cada reunión.</p>\n<h2>Calidez para todo el día</h2>\n<p>El Mandilón cuadros Azul Marino es la opción perfecta para mantener a tus pequeños abrigados en los días de frío. Su suave textura asegura comodidad durante todo el día, mientras que su versatilidad permite combinarlo con cualquier prenda.</p>\n<p><b>Un momento, este Mandilón puede ser el complemento perfecto para el armario de tus hijos. ¡Haz click en \"Añadir al carrito\" y da un paso hacia la elegancia y la comodidad!</b></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "679",
+    "812"
+  ],
+  "sourceDefaultCategoryId": "679",
+  "sourceCategoryName": "Babis escolares",
+  "price": 15.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 12,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62721",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "810",
+      "productSku": "810",
+      "taxRate": 21,
+      "price": 15.5,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:33.916Z"
+    },
+    {
+      "id": "87963",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "810",
+      "productSku": "810",
+      "taxRate": 21,
+      "price": 15.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:36.539Z"
+    },
+    {
+      "id": "62723",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "810",
+      "productSku": "810",
+      "taxRate": 21,
+      "price": 15.5,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:38.880Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6170-9401.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9401-large_default/mandilon-cuadros-azul-marino.jpg",
+      "alt": "Mandilón cuadros Azul Marino",
+      "sourceId": "9401",
+      "variantIds": [],
+      "sha256": "67ff5450907e17d2c0dd101ae2a475a5ee01c402cdf04bd56d00ac3d723b334c"
+    },
+    {
+      "path": "assets/6170-15789.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15789-large_default/mandilon-cuadros-azul-marino.jpg",
+      "alt": "Mandilón cuadros Azul Marino",
+      "sourceId": "15789",
+      "variantIds": [],
+      "sha256": "c7cdb003ebedc36fd8aac2f7fa4b016925c9bf0ac89d52703ebfd989d3e49864"
+    },
+    {
+      "path": "assets/6170-15790.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15790-large_default/mandilon-cuadros-azul-marino.jpg",
+      "alt": "Mandilón cuadros Azul Marino",
+      "sourceId": "15790",
+      "variantIds": [],
+      "sha256": "134dfb82a580259f768ab508800feba7c494b25c20fbb4318b131c9d707408b4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:30:39.219Z",
+  "issues": []
+}

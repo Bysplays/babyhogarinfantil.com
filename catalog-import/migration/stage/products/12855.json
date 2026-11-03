@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "12855",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-nina/12855-camiseta-nina-manga-corta-palabras-blanco.html",
+  "name": "Camiseta niña manga corta palabras Blanco",
+  "brand": "Talaman",
+  "sku": "2301372",
+  "description": "Camiseta de manga corta en color blanco con estampado de palabras\n\nComposición:\n\n95% Algodón\n\n5% Elastano",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "736",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "736",
+  "sourceCategoryName": "Camisetas niña",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-05 16:32:04",
+  "sourceUpdatedAt": "2026-10-27 11:12:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72492",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2301372",
+      "productSku": "2301372",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:44.940Z"
+    },
+    {
+      "id": "72493",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2301372",
+      "productSku": "2301372",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:47.162Z"
+    },
+    {
+      "id": "101815",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2301372",
+      "productSku": "2301372",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:49.371Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12855-13793.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13793-large_default/camiseta-nina-manga-corta-palabras-blanco.jpg",
+      "alt": "Camiseta niña manga corta palabras Blanco",
+      "sourceId": "13793",
+      "variantIds": [],
+      "sha256": "b06a5e6430dae734842599646f737937824c66266e1e235d6f1569d945bee88f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:49.449Z",
+  "issues": []
+}

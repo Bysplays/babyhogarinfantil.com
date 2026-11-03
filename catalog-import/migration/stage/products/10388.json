@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "10388",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/10388-pijama-abierto-delante-ositos-celeste.html",
+  "name": "Pijama abierto delante ositos Celeste",
+  "brand": "Chicco",
+  "sku": "2301137",
+  "description": "Adornada con un encantador estampado de ositos, la 'Pijama Abierta Delante Ositos Celeste' es la elección perfecta para acurrucar a tu pequeño ángel en un sueño dulce. Este pijama de verano, hecho de suave algodón, garantiza la comodidad nocturna, mientras que su diseño frontal abierto facilita los cambios de pañales nocturnos. Ofreciendo la ternura y la suavidad que tu niño merece, esta prenda se convertirá en un tesoro querido en su guardarropa. 100% ALGODON",
+  "details": "Comodidad Sin Esfuerzo\n\n\nLos Pijamas abiertos delante ositos Celeste proporcionan una comodidad inigualable para los más pequeños. Diseñados con un suave algodón, los lleva suavemente al reino de los sueños en poco tiempo. Ideal para un sueño tranquilo y relajado.\n\nDiseño Atractivo y Funcional\n\nEste pijama abierto presenta un diseño lúdico con adorables ositos que atraerá a cualquier niño. La característica principal de este pijama es su apertura en el frente, que facilita la tarea de cambiar pañales durante la noche. Sin duda, una ventaja para todos los padres que buscan simplicidad sin comprometer el estilo.\n\nPerfecto para Todas las Estaciones\n\nGracias a su tela de algodón transpirable, los pijamas abiertos delante ositos Celeste son adecuados para todas las estaciones. Mantiene a tus pequeños calentitos durante las frías noches de invierno y frescos durante las cálidas noches de verano. Un producto imprescindible para el armario de cada niño.\n\nQuerrás tener un pijama abierto delante ositos Celeste para cada noche. Haz clic en 'Agregar al carrito' y garantiza noches de sueño cómodas y llenas de estilo para tu pequeño.",
+  "sourceDescriptionHtml": "<p>Comodidad Sin Esfuerzo</p>\n<div>\n<p>Los Pijamas abiertos delante ositos Celeste proporcionan una comodidad inigualable para los más pequeños. Diseñados con un suave algodón, los lleva suavemente al reino de los sueños en poco tiempo. Ideal para un sueño tranquilo y relajado.</p>\n<h2>Diseño Atractivo y Funcional</h2>\n<p>Este pijama abierto presenta un diseño lúdico con adorables ositos que atraerá a cualquier niño. La característica principal de este pijama es su apertura en el frente, que facilita la tarea de cambiar pañales durante la noche. Sin duda, una ventaja para todos los padres que buscan simplicidad sin comprometer el estilo.</p>\n<h2>Perfecto para Todas las Estaciones</h2>\n<p>Gracias a su tela de algodón transpirable, los pijamas abiertos delante ositos Celeste son adecuados para todas las estaciones. Mantiene a tus pequeños calentitos durante las frías noches de invierno y frescos durante las cálidas noches de verano. Un producto imprescindible para el armario de cada niño.</p>\n<p>Querrás tener un pijama abierto delante ositos Celeste para cada noche. Haz clic en 'Agregar al carrito' y garantiza noches de sueño cómodas y llenas de estilo para tu pequeño.</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 15.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71828",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301137",
+      "productSku": "2301137",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:46.898Z"
+    },
+    {
+      "id": "71830",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301137",
+      "productSku": "2301137",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:48.353Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10388-13556.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13556-large_default/pijama-abierto-delante-ositos-celeste.jpg",
+      "alt": "Pijama abierto delante ositos Celeste",
+      "sourceId": "13556",
+      "variantIds": [],
+      "sha256": "d55821c4aacbd843274dc86ea5aafa957a856a36f37de2bdd94dacd5edc4b26a"
+    },
+    {
+      "path": "assets/10388-13557.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13557-large_default/pijama-abierto-delante-ositos-celeste.jpg",
+      "alt": "Pijama abierto delante ositos Celeste",
+      "sourceId": "13557",
+      "variantIds": [],
+      "sha256": "2c0f011b5f8a7aa696fbcec4f7b832e4d237df0e70dfdfc66da7d92868044821"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:48.503Z",
+  "issues": []
+}

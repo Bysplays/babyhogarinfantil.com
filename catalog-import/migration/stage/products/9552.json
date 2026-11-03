@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "9552",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9552-conjunto-jubon-polaina-aviones-gris.html",
+  "name": "Conjunto jubon polaina Aviones Gris",
+  "brand": "Talaman",
+  "sku": "2203066",
+  "description": "Descubre el encanto irrefutable del Conjunto jubon polaina Aviones Gris. Imagina a tu pequeño aventurero surcando los cielos con su imaginación, envuelto en la suavidad y comodidad de nuestros conjuntos de vestir para bebés. Cada pieza refleja la felicidad y la inocencia de la niñez, instando a tu pequeño a aventurarse en sus sueños. Tocarlo es amarlo, por su calidad inigualable y su sabor infantil. Te prometemos sonrisas, comodidad y estilo con cada uso. Deja a tu niño explorar, jugar, soñar y volar con el Conjunto jubon polaina Aviones Gris. Porque tu niño lo merece, porque él es la alegría de tu casa. Perlé verano.",
+  "details": "Ropa Cómoda Para Bebés\n\nLos primeros años de vida de un bebé son fundamentales para su crecimiento. Por eso, es importante poder brindarles la comodidad y protección que necesitan para desarrollarse. El Conjunto Jubon Polaina Aviones Gris esta elaborado con tejidos suaves y duraderos que brindan el máximo confort para su bebé durante todo el día. Sus delicadas costuras y los materiales utilizados garantizan que su bebé no experimentará ninguna irritación.\n\nAdorable Diseño de Aviones\n\nAdemás de la comodidad superior, este conjunto para bebés ofrece un diseño adorable de aviones en tono gris, perfecto para añadir un toque de estilo a la ropa de su pequeño. Esta es una excelente adición al armario de cualquier bebé, añade un toque de diversión en cada detalle y muestra la personalidad juguetona de su pequeño.\n\nFácil Cuidado de La Ropa\n\nComprender los retos de la crianza, se ha tenido en cuenta la necesidad de un fácil mantenimiento. El Conjunto Jubon Polaina Aviones Gris se puede lavar a máquina y se mantiene suave y colorido lavado tras lavado. Así, el tiempo que ahorrará en cuidado de la ropa lo puede disfrutar con su bebé.\n\nNo esperes más! Haz feliz a tu bebé con el Conjunto Jubon Polaina Aviones Gris. Agrega este adorable conjunto a tu carrito de compras de inmediato.",
+  "sourceDescriptionHtml": "<div>\n<h2>Ropa Cómoda Para Bebés</h2>\n<p>Los primeros años de vida de un bebé son fundamentales para su crecimiento. Por eso, es importante poder brindarles la comodidad y protección que necesitan para desarrollarse. El Conjunto Jubon Polaina Aviones Gris esta elaborado con tejidos suaves y duraderos que brindan el máximo confort para su bebé durante todo el día. Sus delicadas costuras y los materiales utilizados garantizan que su bebé no experimentará ninguna irritación.</p>\n<h2>Adorable Diseño de Aviones</h2>\n<p>Además de la comodidad superior, este conjunto para bebés ofrece un diseño adorable de aviones en tono gris, perfecto para añadir un toque de estilo a la ropa de su pequeño. Esta es una excelente adición al armario de cualquier bebé, añade un toque de diversión en cada detalle y muestra la personalidad juguetona de su pequeño.</p>\n<h2>Fácil Cuidado de La Ropa</h2>\n<p>Comprender los retos de la crianza, se ha tenido en cuenta la necesidad de un fácil mantenimiento. El Conjunto Jubon Polaina Aviones Gris se puede lavar a máquina y se mantiene suave y colorido lavado tras lavado. Así, el tiempo que ahorrará en cuidado de la ropa lo puede disfrutar con su bebé.</p>\n<p><strong>No esperes más! Haz feliz a tu bebé con el Conjunto Jubon Polaina Aviones Gris. Agrega este adorable conjunto a tu carrito de compras de inmediato.</strong></p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 12.48,
+  "oldPrice": 24.9502,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69508",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2203066",
+      "productSku": "2203066",
+      "taxRate": 21,
+      "price": 12.48,
+      "oldPrice": 24.9502,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:20.405Z"
+    },
+    {
+      "id": "80687",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2203066",
+      "productSku": "2203066",
+      "taxRate": 21,
+      "price": 12.48,
+      "oldPrice": 24.9502,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:21.947Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9552-15631.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15631-large_default/conjunto-jubon-polaina-aviones-gris.jpg",
+      "alt": "Conjunto jubon polaina Aviones Gris",
+      "sourceId": "15631",
+      "variantIds": [],
+      "sha256": "f6051e70032434d32064aa9e027dd908e44432d2f3fb42309b35720b95831e19"
+    },
+    {
+      "path": "assets/9552-15632.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15632-large_default/conjunto-jubon-polaina-aviones-gris.jpg",
+      "alt": "Conjunto jubon polaina Aviones Gris",
+      "sourceId": "15632",
+      "variantIds": [],
+      "sha256": "cf6bdf0e205b59739d19dd1c28e13c1fc0404864425716c99ea76f4a11883dda"
+    },
+    {
+      "path": "assets/9552-15633.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15633-large_default/conjunto-jubon-polaina-aviones-gris.jpg",
+      "alt": "Conjunto jubon polaina Aviones Gris",
+      "sourceId": "15633",
+      "variantIds": [],
+      "sha256": "f2666140fb30644a60e081311a2b3fdc49aa82548945077b672875524fdd76d9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:22.127Z",
+  "issues": []
+}

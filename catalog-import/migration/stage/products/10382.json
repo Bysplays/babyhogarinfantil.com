@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "10382",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-bautizo/10382-vestido-combinado-lino-y-tul-crudo.html",
+  "name": "Vestido combinado lino y tul Crudo",
+  "brand": "Mac Ilusión",
+  "sku": "2301131",
+  "description": "HECHO EN ESPAÑA\n\n49% Algodón\n\n51% Lino",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "814",
+    "720"
+  ],
+  "sourceDefaultCategoryId": "720",
+  "sourceCategoryName": "Vestidos Bautizo",
+  "price": 54.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71798",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "10999XD17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:45.027Z"
+    },
+    {
+      "id": "148362",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "10999XA17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:46.241Z"
+    },
+    {
+      "id": "148363",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "10999XB17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:47.981Z"
+    },
+    {
+      "id": "148364",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "10999XC17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:49.081Z"
+    },
+    {
+      "id": "148365",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "10999XE17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:50.251Z"
+    },
+    {
+      "id": "148366",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "10999XF17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:51.487Z"
+    },
+    {
+      "id": "71800",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "10999XG17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:52.680Z"
+    },
+    {
+      "id": "71801",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "10999XH17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:54.417Z"
+    },
+    {
+      "id": "148367",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "10999XI17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:55.714Z"
+    },
+    {
+      "id": "148368",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "10999XJ17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:57.204Z"
+    },
+    {
+      "id": "148369",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "10999XK17025",
+      "productSku": "2301131",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:58.714Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10382-8655.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8655-large_default/vestido-combinado-lino-y-tul-crudo.jpg",
+      "alt": "Vestido combinado lino y tul Crudo",
+      "sourceId": "8655",
+      "variantIds": [],
+      "sha256": "2d53896950d34d6b7fcb61b026b44d4842b99774c91068ff7f4f09503b12a703"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:58.805Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "12821",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/12821-conjunto-nino-gamer-gris.html",
+  "name": "Conjunto niño GAMER Gris",
+  "brand": "Talaman",
+  "sku": "2301334",
+  "description": "Conjunto de dos piezas en algodón, compuesto por camiseta estampado y pantalón verde\n\nComposición:\n\nCamiseta: 100% algodón.\n\nPantalón: 100% algodón.\n\nHECHO EN INDIA",
+  "details": "Atrapando Atenciones\n\nCon el Conjunto niño GAMER Gris, viste a tu pequeño con estilo y comodidad garantizada. Este conjunto de dos piezas, que cuenta con un diseño de temática gamer, se convertirá en la elección favorita de su pequeño ávido jugador. El gris oscuro indica un aura de misterio y aventura, que captura la esencia de los videojuegos.\n\n\nEstilo y Comodidad en un Solo Paquete\n\nEl Conjunto niño GAMER Gris es más que sólo una declaración de moda. Está confeccionado con tejido de alta calidad que garantiza la durabilidad y resistencia al desgaste. Los suaves tejidos protegen la piel sensible de los niños y aseguran su comodidad durante todo el día, ya estén jugando o durmiendo.\n\n\nFacilitando el Movimiento\n\nLa flexibilidad es fundamental en las prendas de vestir infantiles. El Conjunto niño GAMER Gris ofrece un ajuste relajado para permitir el movimiento sin restricciones. Este conjunto cuenta con una banda elástica en la cintura del pantalón para facilitar el cambio de ropa de los más pequeños. Además, las prendas son fáciles de limpiar y mantener, haciendo la vida más sencilla para los padres.\n\n\n¿Preparado para añadir este impresionante conjunto a la colección de ropa de tu hijo? Haz clic en \\'añadir al carrito\\' y siente la emoción de llevar la moda gamer al armario de tu pequeño aventurero.",
+  "sourceDescriptionHtml": "<p><b>Atrapando Atenciones</b></p>\n<p>Con el Conjunto niño GAMER Gris, viste a tu pequeño con estilo y comodidad garantizada. Este conjunto de dos piezas, que cuenta con un diseño de temática gamer, se convertirá en la elección favorita de su pequeño ávido jugador. El gris oscuro indica un aura de misterio y aventura, que captura la esencia de los videojuegos.</p>\n\n<p><b>Estilo y Comodidad en un Solo Paquete</b></p>\n<p>El Conjunto niño GAMER Gris es más que sólo una declaración de moda. Está confeccionado con tejido de alta calidad que garantiza la durabilidad y resistencia al desgaste. Los suaves tejidos protegen la piel sensible de los niños y aseguran su comodidad durante todo el día, ya estén jugando o durmiendo.</p>\n\n<p><b>Facilitando el Movimiento</b></p>\n<p>La flexibilidad es fundamental en las prendas de vestir infantiles. El Conjunto niño GAMER Gris ofrece un ajuste relajado para permitir el movimiento sin restricciones. Este conjunto cuenta con una banda elástica en la cintura del pantalón para facilitar el cambio de ropa de los más pequeños. Además, las prendas son fáciles de limpiar y mantener, haciendo la vida más sencilla para los padres.</p>\n\n<p>¿Preparado para añadir este impresionante conjunto a la colección de ropa de tu hijo? Haz clic en \\'añadir al carrito\\' y siente la emoción de llevar la moda gamer al armario de tu pequeño aventurero.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-29 16:18:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72345",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2301334",
+      "productSku": "2301334",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:15.072Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12821-13759.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13759-large_default/conjunto-nino-gamer-gris.jpg",
+      "alt": "Conjunto niño GAMER Gris",
+      "sourceId": "13759",
+      "variantIds": [],
+      "sha256": "9f533ce067b5253bc9eb89b372010465fe569fd1599be2edb81f32912727557f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:15.133Z",
+  "issues": []
+}

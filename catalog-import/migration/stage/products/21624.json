@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "id": "21624",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21624-pantalon-felpa-basico-punos-rojo.html",
+  "name": "Pantalón felpa básico puños Rojo",
+  "brand": "Mayoral",
+  "sku": "2502040",
+  "description": "Pantalón largo básico rojo deportivo para niño, con felpa interior.  Tiene la cinturilla elástica con cordón ajustable. En las piernas rodilleras reforzadas en el interior para evitar el desgaste y ofrecer mayor resistencia. El bajo con elástico para un mejor ajuste. Bolsillos funcionales en los laterales. Una prenda esencial en su armario para completar cualquier look.",
+  "details": "COMPOSICIÓN\n\nPantalón:\n\n58% Algodón\n\n38% Poliéster\n\n4% Elastano",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\">COMPOSICIÓN</p>\n<p class=\"MsoNormal\"><b>Pantalón:</b></p>\n<p class=\"MsoNormal\">58% Algodón</p>\n<p class=\"MsoNormal\">38% Poliéster</p>\n<p class=\"MsoNormal\">4% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-12-04 23:54:28",
+  "sourceUpdatedAt": "2026-10-27 11:14:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 14,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97881",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:40.220Z"
+    },
+    {
+      "id": "97882",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:42.421Z"
+    },
+    {
+      "id": "97883",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:45.443Z"
+    },
+    {
+      "id": "97884",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:47.044Z"
+    },
+    {
+      "id": "97885",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:48.972Z"
+    },
+    {
+      "id": "97886",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:51.715Z"
+    },
+    {
+      "id": "97887",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:54.457Z"
+    },
+    {
+      "id": "97888",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:57.342Z"
+    },
+    {
+      "id": "97889",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:00.626Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21624-20274.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20274-large_default/pantalon-felpa-basico-punos-rojo.jpg",
+      "alt": "Pantalón felpa básico puños Rojo",
+      "sourceId": "20274",
+      "variantIds": [],
+      "sha256": "f2ef3bb7f4d20a58ac03bfe06669322a25923243287810b7c1da0bee6b59e4e9"
+    },
+    {
+      "path": "assets/21624-20275.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20275-large_default/pantalon-felpa-basico-punos-rojo.jpg",
+      "alt": "Pantalón felpa básico puños Rojo",
+      "sourceId": "20275",
+      "variantIds": [],
+      "sha256": "81162eeacfe89923edc5ff933440c083694f3c944bea92027914c0340cd4d427"
+    },
+    {
+      "path": "assets/21624-20276.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20276-large_default/pantalon-felpa-basico-punos-rojo.jpg",
+      "alt": "Pantalón felpa básico puños Rojo",
+      "sourceId": "20276",
+      "variantIds": [],
+      "sha256": "d235bdfe193cc246244beb5fbbfa83e85208c928ccd1b1c6b16cf9ba7dabb62c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:00.799Z",
+  "issues": []
+}

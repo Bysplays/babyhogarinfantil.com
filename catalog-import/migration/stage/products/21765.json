@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "21765",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/21765-camiseta-manga-corta-algodon-nino-azul-marino.html",
+  "name": "Camiseta manga corta algodón niño Azul Marino",
+  "brand": "Mayoral",
+  "sku": "2601061",
+  "description": "Camiseta infantil azul marino de Mayoral con estampado de nave espacial, manga corta y algodón suave, ideal para un look cómodo y divertido.LAS CAMISETAS SE VENDEN POR SEPARADO, EL PRECIO ES DE LA MARINO.",
+  "details": "Camiseta para niño de Mayoral en color azul marino con original estampado de nave espacial que aporta un estilo moderno y lúdico inspirado en el espacio y los videojuegos. Está confeccionada en tejido de algodón suave y transpirable que garantiza máxima comodidad durante todo el día. Su diseño incluye ilustración frontal con el mensaje “Deep Space Let’s Play!” y un estampado trasero circular con nave espacial y texto “Press Start Arcade Mode”, creando una prenda llamativa y diferente. Cuenta con cuello redondo, manga corta y corte cómodo que facilita el movimiento, siendo perfecta para el uso diario, el colegio o actividades de ocio. Una camiseta versátil y resistente que combina fácilmente con pantalones cortos, vaqueros o joggers para outfits casuales infantiles.\n\n\n\nComposición :\n100% algodón.",
+  "sourceDescriptionHtml": "<p>Camiseta para niño de <span class=\"hover:entity-accent entity-underline inline cursor-pointer align-baseline\">Mayoral</span> en color azul marino con original estampado de nave espacial que aporta un estilo moderno y lúdico inspirado en el espacio y los videojuegos. Está confeccionada en tejido de algodón suave y transpirable que garantiza máxima comodidad durante todo el día. Su diseño incluye ilustración frontal con el mensaje “Deep Space Let’s Play!” y un estampado trasero circular con nave espacial y texto “Press Start Arcade Mode”, creando una prenda llamativa y diferente. Cuenta con cuello redondo, manga corta y corte cómodo que facilita el movimiento, siendo perfecta para el uso diario, el colegio o actividades de ocio. Una camiseta versátil y resistente que combina fácilmente con pantalones cortos, vaqueros o joggers para outfits casuales infantiles.</p>\n<p></p>\n<p><strong>Composición :</strong><br />100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-13 15:53:33",
+  "sourceUpdatedAt": "2026-10-27 11:15:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99349",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601061",
+      "productSku": "2601061",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:14.731Z"
+    },
+    {
+      "id": "99350",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2601061",
+      "productSku": "2601061",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:15.966Z"
+    },
+    {
+      "id": "99351",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601061",
+      "productSku": "2601061",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:17.371Z"
+    },
+    {
+      "id": "99353",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2601061",
+      "productSku": "2601061",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:18.542Z"
+    },
+    {
+      "id": "99354",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2601061",
+      "productSku": "2601061",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:19.958Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21765-20557.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20557-large_default/camiseta-manga-corta-algodon-nino-azul-marino.jpg",
+      "alt": "Pack Mayoral de camisetas para niño con diseño arcade en rojo tomate y nave espacial en azul marino.",
+      "sourceId": "20557",
+      "variantIds": [],
+      "sha256": "b824403cc61076aedbeb36f4be9094e22857462ccf914f123afcde7c5e781156"
+    },
+    {
+      "path": "assets/21765-20558.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20558-large_default/camiseta-manga-corta-algodon-nino-azul-marino.jpg",
+      "alt": "Detalle de camiseta de niño Mayoral azul marino con estampado de nave espacial “Deep Space” de estilo divertido y moderno.",
+      "sourceId": "20558",
+      "variantIds": [],
+      "sha256": "6ab000dbd9e61a02c7262c13246e68e0a6b462f8b2253ca6c91a10772ba6c3f8"
+    },
+    {
+      "path": "assets/21765-20567.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20567-large_default/camiseta-manga-corta-algodon-nino-azul-marino.jpg",
+      "alt": "Parte trasera de camiseta de niño Mayoral azul marino con diseño liso y cómodo, perfecta para el uso diario.",
+      "sourceId": "20567",
+      "variantIds": [],
+      "sha256": "0ebff27e3f2d715d8c7cc2faeead02006981379116086537dd1d9f5b4f6f57b7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:20.162Z",
+  "issues": []
+}

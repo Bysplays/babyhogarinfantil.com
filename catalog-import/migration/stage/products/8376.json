@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "8376",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/8376-abrigo-punto-tr-lazo-topo-topo.html",
+  "name": "Abrigo punto TR lazo topo Topo",
+  "brand": "Teresa Rodríguez",
+  "sku": "2007060",
+  "description": "Suena el tintineo de risas infantiles, la dulzura de las caricias suaves, y las sonrisas tiernas de una madre: todo se funde en el encanto irresistible del Abrigo punto TR lazo topo Topo. Meticulosamente diseñado para niñas, este abrigo no solo brinda calidez, sino también una delicada elegancia. Es como un abrazo cálido en un día frío, un regalo ideal que hará sentir a su pequeña única y especial. ¿Por qué solo vestirla cuando puedes hacerla brillar?",
+  "details": "Calidad Inigualable\n\nEl Abrigo punto TR lazo topo es confeccionado con materiales de alta calidad, garantizando durabilidad y resistencia. Su suave textura proporciona calor y comodidad a los pequeños durante los días más frescos, mientras que su acabado en punto contribuye a un estilo casual y elegante.\n\nDetalles Encantadores\n\nEste encantador abrigo destaca por su lazo topo, un detalle adorable que aporta un toque de dulzura al atuendo de los más pequeños. El lazo topo, aparte de ser un detalle estético, es funcional ya que permite ajustar el abrigo según convenga para una mayor comodidad y calor.\n\nUna Opción Versátil\n\nEl Abrigo punto TR lazo topo es una opción versátil para vestir a los más pequeños en cualquier ocasión. Combina con cualquier estilo y se ajusta a todas las actividades del día a día, desde paseos en el parque hasta reuniones familiares.\n\n¡No esperes más! Dale a los más pequeños una opción elegante y cómoda para el frío con el Abrigo punto TR lazo topo!\n\nComposición y cuidados:\n\nAbrigo: 100% acrílico.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<div id=\"product-description\">\n<h2>Calidad Inigualable</h2>\n<p>El Abrigo punto TR lazo topo es confeccionado con materiales de alta calidad, garantizando durabilidad y resistencia. Su suave textura proporciona calor y comodidad a los pequeños durante los días más frescos, mientras que su acabado en punto contribuye a un estilo casual y elegante.</p>\n<h2>Detalles Encantadores</h2>\n<p>Este encantador abrigo destaca por su lazo topo, un detalle adorable que aporta un toque de dulzura al atuendo de los más pequeños. El lazo topo, aparte de ser un detalle estético, es funcional ya que permite ajustar el abrigo según convenga para una mayor comodidad y calor.</p>\n<h2>Una Opción Versátil</h2>\n<p>El Abrigo punto TR lazo topo es una opción versátil para vestir a los más pequeños en cualquier ocasión. Combina con cualquier estilo y se ajusta a todas las actividades del día a día, desde paseos en el parque hasta reuniones familiares.</p>\n<p><strong>¡No esperes más! Dale a los más pequeños una opción elegante y cómoda para el frío con el Abrigo punto TR lazo topo!</strong></p>\n<p style=\"font-size:11px;font-weight:400;\">Composición y cuidados:</p>\n<p style=\"font-size:11px;font-weight:400;\">Abrigo: 100% acrílico.</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR LEJIAS</p>\n<p style=\"font-size:11px;font-weight:400;\">LAVAR A 30º RECOMENDADO</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR SECADORA</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Topo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 28.96,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67383",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2007060",
+      "productSku": "2007060",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:19.717Z"
+    },
+    {
+      "id": "67384",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2007060",
+      "productSku": "2007060",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:22.149Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8376-11122.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11122-large_default/abrigo-punto-tr-lazo-topo-topo.jpg",
+      "alt": "Abrigo punto TR lazo topo Topo",
+      "sourceId": "11122",
+      "variantIds": [],
+      "sha256": "e1b05976df15e3fbdba035f2435e8daf2c201202886eabb89e5d9d297aec1768"
+    },
+    {
+      "path": "assets/8376-6695.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6695-large_default/abrigo-punto-tr-lazo-topo-topo.jpg",
+      "alt": "Abrigo punto TR lazo topo Topo",
+      "sourceId": "6695",
+      "variantIds": [],
+      "sha256": "4e44e48082bd4bd75f790f19c72ede33f37723af6cb94c8c80b130f4cab5ad54"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:22.350Z",
+  "issues": []
+}

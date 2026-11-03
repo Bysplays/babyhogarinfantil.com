@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "8862",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/8862-pantalon-corto-colegial-mayoral-8-a-14-gris-oscuro.html",
+  "name": "Pantalón corto colegial MAYORAL 8 a 14 Gris oscuro",
+  "brand": "Mayoral",
+  "sku": "2104168",
+  "description": "Pantalón corto colegial, en color gris marengo. Cintura con goma y trabillas. Tiene bolsillos.",
+  "details": "Pantalón corto colegial de MAYORAL, una de nuestras firmas preferidas! En color gris marengo, con cintura de goma para mayor confort. Tejido fresco, ligero y resistente, perfecto para el día a día. Tiene trabillas en la cintura por si se desea utilizar cinturón. Como detalle, dobladillos en los bajos. Tiene bolsillos. Una prenda cómoda diseñada para usar diariamente, resistente y cómoda. Echa un ojito a nuestros jerséis escolares, calzado y polos y podrás completarlo con todo lo que necesites para el cole! \n\nComposición y cuidados:\n\nPantalón: 100% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;\">Pantalón corto colegial de <strong>MAYORAL</strong>, una de nuestras firmas preferidas! En color gris marengo, con cintura de goma para mayor confort. Tejido fresco, ligero y resistente, perfecto para el día a día. Tiene trabillas en la cintura por si se desea utilizar cinturón. Como detalle, dobladillos en los bajos. Tiene bolsillos. Una prenda cómoda diseñada para usar diariamente, resistente y cómoda. Echa un ojito a nuestros <strong>jerséis escolares, calzado y polos</strong> y podrás completarlo con todo lo que necesites para el cole! </span></p>\n<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;\">Composición y cuidados:</span></p>\n<p><span style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;\">Pantalón: 100% poliéster</span></p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Oscuro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "705",
+    "759",
+    "684",
+    "888",
+    "868",
+    "878",
+    "871",
+    "890"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 21.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:42",
+  "sourceUpdatedAt": "2026-10-27 11:11:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "81185",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2104168",
+      "productSku": "2104168",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:38.876Z"
+    },
+    {
+      "id": "92870",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2104168",
+      "productSku": "2104168",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:40.501Z"
+    },
+    {
+      "id": "143707",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2104168",
+      "productSku": "2104168",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:42.013Z"
+    },
+    {
+      "id": "143708",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2104168",
+      "productSku": "2104168",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:43.696Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8862-7165.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7165-large_default/pantalon-corto-colegial-mayoral-8-a-14-gris-oscuro.jpg",
+      "alt": "Pantalón corto colegial MAYORAL 8 a 14 Gris oscuro",
+      "sourceId": "7165",
+      "variantIds": [],
+      "sha256": "43b80cd1cf3a398a622b02a757afc15a8f7d5a6785b5149d9f7994df71218120"
+    },
+    {
+      "path": "assets/8862-7166.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7166-large_default/pantalon-corto-colegial-mayoral-8-a-14-gris-oscuro.jpg",
+      "alt": "Pantalón corto colegial MAYORAL 8 a 14 Gris oscuro",
+      "sourceId": "7166",
+      "variantIds": [],
+      "sha256": "b6d07623c5b2686a682f1ae8f6840c6791482bddd54054b359b93be10dae723b"
+    },
+    {
+      "path": "assets/8862-7164.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7164-large_default/pantalon-corto-colegial-mayoral-8-a-14-gris-oscuro.jpg",
+      "alt": "Pantalón corto colegial MAYORAL 8 a 14 Gris oscuro",
+      "sourceId": "7164",
+      "variantIds": [],
+      "sha256": "d498babc36d52e343dbfad33a424fab6740adf40f2b353af65f17811dc93f433"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:43.953Z",
+  "issues": []
+}

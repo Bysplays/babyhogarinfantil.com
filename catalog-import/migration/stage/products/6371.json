@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "6371",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6371-leotardo-canale-rosa-empolvado.html",
+  "name": "Leotardo canalé Rosa Empolvado",
+  "brand": "Condor",
+  "sku": "1339",
+  "description": "Leotardos color ROSA EMPOLVADO algodón CANALE.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los niños y niñas, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que los niños y niñas se muevan con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. HECHO EN ESPAÑA\n\n75% ALGODON 22% POLIAMIDA 3% ELASTANO\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nNO PLANCHAR.",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de <strong>CONDOR</strong> son sin duda una de las prendas más funcionales para los niños y niñas, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que los niños y niñas se muevan con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. <strong><span style=\"text-decoration:underline;\">HECHO EN ESPAÑA</span></strong></p>\n<p>75% ALGODON 22% POLIAMIDA 3% ELASTANO</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>NO PLANCHAR.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa Empolvado",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14.21,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:49",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63431",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:17.461Z"
+    },
+    {
+      "id": "63432",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:19.688Z"
+    },
+    {
+      "id": "63433",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:21.692Z"
+    },
+    {
+      "id": "63434",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:23.811Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6371-4363.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4363-large_default/leotardo-canale-rosa-empolvado.jpg",
+      "alt": "Leotardo canalé Rosa Empolvado",
+      "sourceId": "4363",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6371-4362.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4362-large_default/leotardo-canale-rosa-empolvado.jpg",
+      "alt": "Leotardo canalé Rosa Empolvado",
+      "sourceId": "4362",
+      "variantIds": [],
+      "sha256": "4ee538e8b07b0b123743534b9656c799b977d5df518ff5db68089e3ec458b651"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:29:23.941Z",
+  "issues": []
+}

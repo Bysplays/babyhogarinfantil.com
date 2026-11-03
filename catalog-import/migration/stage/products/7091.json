@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "7091",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nino/7091-zapatilla-lona-rojo.html",
+  "name": "Zapatilla lona Rojo",
+  "brand": "Sardon",
+  "sku": "1802009",
+  "description": "Zapatilla de loneta en color rojo, cierre con hebilla lateral, suela de goma. Disponible en color blanco y azul marino.",
+  "details": "Zapatilla de SARDON, una de nuestras firmas preferidas! En color rojo, de loneta. Cierre con hebilla metálica, con tres posiciones de ajuste. Suela de goma, para evitar resbalones.  Un complemento atemporal, desenfadado, cómodo y ligero, perfecto para la época de primavera y verano! Echa un ojito a nuestros conjuntos, chaquetas de perlé y calcetines y podrás combinarlas como más te gusten! DISPONIBLE EN COLOR AZUL MARINO Y BLANCO. \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Zapatilla de <strong>SARDON</strong>, una de nuestras firmas preferidas! En color rojo, de loneta. Cierre con hebilla metálica, con tres posiciones de ajuste. Suela de goma, para evitar resbalones. <span style=\"color:#777777;font-family:robotoregular;font-size:14px;\"> Un complemento atemporal, desenfadado, cómodo y ligero, perfecto para la época de primavera y verano! Echa un ojito a nuestros<strong> conjuntos, chaquetas de perlé y calcetines</strong> y podrás combinarlas como más te gusten! </span><strong style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">DISPONIBLE EN COLOR AZUL MARINO Y BLANCO. </strong></p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "701"
+  ],
+  "sourceDefaultCategoryId": "701",
+  "sourceCategoryName": "Calzado Niño",
+  "price": 15.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "260",
+          "label": "21"
+        },
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "279",
+          "label": "25"
+        },
+        {
+          "id": "252",
+          "label": "26"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65001",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "1802009",
+      "productSku": "1802009",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:11.948Z"
+    },
+    {
+      "id": "83759",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "260",
+          "group": "Tamaño",
+          "value": "21"
+        }
+      ],
+      "sku": "1802009",
+      "productSku": "1802009",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:15.149Z"
+    },
+    {
+      "id": "65002",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "279",
+          "group": "Tamaño",
+          "value": "25"
+        }
+      ],
+      "sku": "1802009",
+      "productSku": "1802009",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:18.578Z"
+    },
+    {
+      "id": "65003",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "1802009",
+      "productSku": "1802009",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:22.300Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7091-9966.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9966-large_default/zapatilla-lona-rojo.jpg",
+      "alt": "Zapatilla lona Rojo",
+      "sourceId": "9966",
+      "variantIds": [],
+      "sha256": "49089a80117a30b1b5855582164392edecca2c3aef14ebe479517c3c65a4426d"
+    },
+    {
+      "path": "assets/7091-9965.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9965-large_default/zapatilla-lona-rojo.jpg",
+      "alt": "Zapatilla lona Rojo",
+      "sourceId": "9965",
+      "variantIds": [],
+      "sha256": "e033f128e5899e28a965c4cc80492d0272051b20213ef96151bf8eca4f631cd8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:22.444Z",
+  "issues": []
+}

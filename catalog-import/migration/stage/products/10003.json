@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "10003",
+  "sourceUrl": "https://babyhogarinfantil.com/anoraks-y-chalecos/10003-anorak-impermeable-interior-polar-azul.html",
+  "name": "Anorak impermeable interior polar Azul",
+  "brand": "Zippy",
+  "sku": "2208137",
+  "description": "Experimenta la sensación de calidez y confort que ofrece el Anorak Impermeable Interior Polar Azul. Diseñado para niños, con un vibrante tono azul para realzar su energía juvenil. Su forro polar interno promete calidez incluso en los días más fríos, mientras que el exterior impermeable mantiene secos a los pequeños exploradores durante sus aventuras al aire libre. Este anorak, práctico y versátil, es perfecto para cualquier estación. ¡Adquiérelo y garantiza el confort y estilo de tu pequeño en todo momento!",
+  "details": "Una Prenda para Cada Clima\n\nEl Anorak impermeable interior polar Azul significa estar preparado para cualquier clima. Este anorak combina una capa exterior impermeable para mantenerte seco en días lluviosos, con un interior con forro polar para proporcionarte calor extra en los días más fríos. Perfecto para juegos al aire libre o paseos bajo la lluvia, será su aliado incondicional en todas las estaciones.\n\nViste a los Pequeños con Estilo\n\nLa moda infantil nunca ha sido tan divertida y funcional. Este Anorak impermeable interior polar Azul no solo ofrece protección contra el clima, sino que también garantiza que tus pequeños se vean elegantes. Su estampado azul es alegre y jovial, ideal para mantener a los niños emocionados incluso en los días grises. El estilo se encuentra con funcionalidad en este anorak, haciendo que sea una prenda que los niños amarán y los padres aprobarán.\n\nConfort Que Se Siente\n\nMás allá de su funcionalidad y estilo, este anorak garantiza una comodidad excepcional. El suave forro polar interior proporciona una sensación de abrazo cálido, mientras que la ligereza del anorak asegura que los niños puedan moverse libremente sin sentirse pesados. Hecho pensando en la felicidad de los niños, este anorak hace que cada día de clima frío sea un poco más brillante.\n\n¡No espere a que llegue el mal tiempo! Asegura el confort y la felicidad de sus pequeños con el Anorak impermeable interior polar Azul. Hagálo parte del guardarropa de tus niños hoy.\n\nComposición:\n\nAnorak: 100% poliéster.\n\nForro: 100% poliéster.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<h2>Una Prenda para Cada Clima</h2>\n<p>El Anorak impermeable interior polar Azul significa estar preparado para cualquier clima. Este anorak combina una capa exterior impermeable para mantenerte seco en días lluviosos, con un interior con forro polar para proporcionarte calor extra en los días más fríos. Perfecto para juegos al aire libre o paseos bajo la lluvia, será su aliado incondicional en todas las estaciones.</p>\n<h2>Viste a los Pequeños con Estilo</h2>\n<p>La moda infantil nunca ha sido tan divertida y funcional. Este Anorak impermeable interior polar Azul no solo ofrece protección contra el clima, sino que también garantiza que tus pequeños se vean elegantes. Su estampado azul es alegre y jovial, ideal para mantener a los niños emocionados incluso en los días grises. El estilo se encuentra con funcionalidad en este anorak, haciendo que sea una prenda que los niños amarán y los padres aprobarán.</p>\n<h2>Confort Que Se Siente</h2>\n<p>Más allá de su funcionalidad y estilo, este anorak garantiza una comodidad excepcional. El suave forro polar interior proporciona una sensación de abrazo cálido, mientras que la ligereza del anorak asegura que los niños puedan moverse libremente sin sentirse pesados. Hecho pensando en la felicidad de los niños, este anorak hace que cada día de clima frío sea un poco más brillante.</p>\n<p>¡No espere a que llegue el mal tiempo! Asegura el confort y la felicidad de sus pequeños con el Anorak impermeable interior polar Azul. Hagálo parte del guardarropa de tus niños hoy.</p>\n<p>Composición:</p>\n<p>Anorak: 100% poliéster.</p>\n<p>Forro: 100% poliéster.</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "749",
+  "sourceCategoryName": "Anoraks y Chalecos",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:56",
+  "sourceUpdatedAt": "2026-10-27 11:12:01",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "347",
+          "label": "4-5"
+        },
+        {
+          "id": "350",
+          "label": "7-8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70649",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "347",
+          "group": "Tamaño",
+          "value": "4-5"
+        }
+      ],
+      "sku": "2208137",
+      "productSku": "2208137",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:46.592Z"
+    },
+    {
+      "id": "70651",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "350",
+          "group": "Tamaño",
+          "value": "7-8"
+        }
+      ],
+      "sku": "2208137",
+      "productSku": "2208137",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:50.588Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10003-13134.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13134-large_default/anorak-impermeable-interior-polar-azul.jpg",
+      "alt": "Anorak impermeable interior polar Azul",
+      "sourceId": "13134",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/10003-8917.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8917-large_default/anorak-impermeable-interior-polar-azul.jpg",
+      "alt": "Anorak impermeable interior polar Azul",
+      "sourceId": "8917",
+      "variantIds": [],
+      "sha256": "ad1cbb041f6a5797ca559be91075d6e9422b31b913a6d8f549a9281de0c5aafa"
+    },
+    {
+      "path": "assets/10003-8918.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8918-large_default/anorak-impermeable-interior-polar-azul.jpg",
+      "alt": "Anorak impermeable interior polar Azul",
+      "sourceId": "8918",
+      "variantIds": [],
+      "sha256": "7d177a7b7db51b3c4ccf2a8812b71f3b1fe4e7ddbcefec7dd7bd23fe187a46c9"
+    },
+    {
+      "path": "assets/10003-8919.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8919-large_default/anorak-impermeable-interior-polar-azul.jpg",
+      "alt": "Anorak impermeable interior polar Azul",
+      "sourceId": "8919",
+      "variantIds": [],
+      "sha256": "3616b49489658f3fd2713e62675f094bf25da7cccfa869b01f0ff62816ea3b27"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:50.814Z",
+  "issues": []
+}

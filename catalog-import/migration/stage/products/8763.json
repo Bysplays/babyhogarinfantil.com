@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "8763",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/8763-pijama-amarillo-gato-amarillo.html",
+  "name": "Pijama amarillo gato Amarillo",
+  "brand": "Zippy",
+  "sku": "2103154",
+  "description": "Pijama entero de algodón, en color amarillo con dibujo de gatito en el pecho. Cierre con corchetes desde el cuello hasta los pies.",
+  "details": "Pijamita entero de ZIPPY, una de nuestras firmas favoritas! De pierna y manga larga, en color amarillo, con detalle de un gatito de lunares en el pecho, en tonos oscuros. Cierre con corchetes desde el cuello hasta los pies. Una prenda cómoda, fresquita y ligera, perfecta para el verano! Echa un ojito a nuestros bodies interiores, mantas y toquillas y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nPijama: 95% algodón, 5% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pijamita entero de <strong>ZIPPY</strong>, una de nuestras firmas favoritas! De pierna y manga larga, en color amarillo, con detalle de un gatito de lunares en el pecho, en tonos oscuros. Cierre con corchetes desde el cuello hasta los pies. Una prenda cómoda, fresquita y ligera, perfecta para el verano! Echa un ojito a nuestros <strong>bodies interiores, mantas y toquillas</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Pijama: 95% algodón, 5% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 6,
+  "oldPrice": 12.0032,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:41",
+  "sourceUpdatedAt": "2026-10-27 11:10:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67953",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2103154",
+      "productSku": "2103154",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:23.962Z"
+    },
+    {
+      "id": "89640",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2103154",
+      "productSku": "2103154",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:26.159Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8763-7069.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7069-large_default/pijama-amarillo-gato-amarillo.jpg",
+      "alt": "Pijama amarillo gato Amarillo",
+      "sourceId": "7069",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/8763-7068.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7068-large_default/pijama-amarillo-gato-amarillo.jpg",
+      "alt": "Pijama amarillo gato Amarillo",
+      "sourceId": "7068",
+      "variantIds": [],
+      "sha256": "211493a6c65f541f63c08a97623d239007b9cd87fc760eaa5ba323cec97f828e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:26.282Z",
+  "issues": []
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "7095",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/7095-calcetin-tobillero-canale-puno-vuelto-cava.html",
+  "name": "Calcetín tobillero canalé puño vuelto Cava",
+  "brand": "Condor",
+  "sku": "1802082",
+  "description": "Calcetines de algodón en canalé con el puño vuelto para bebé.",
+  "details": "Composici&oacute;n:\n\r\n97% algod&oacute;n, 3% Elastano (Lycra)",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n:</p>\r\n<p>97% algod&oacute;n, 3% Elastano (Lycra)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cava",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 4.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65009",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1802082",
+      "productSku": "1802082",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:49.229Z"
+    },
+    {
+      "id": "65010",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1802082",
+      "productSku": "1802082",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:53.172Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7095-5007.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5007-large_default/calcetin-tobillero-canale-puno-vuelto-cava.jpg",
+      "alt": "Calcetín tobillero canalé puño vuelto Cava",
+      "sourceId": "5007",
+      "variantIds": [],
+      "sha256": "95001e16d457a5de119f95dbf8fdb2f4cb90696758e89f1c0a73a99b5daf4f45"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:53.250Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8650",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/8650-chaqueta-larga-con-bolsillos-grano-arroz-azul--bebe.html",
+  "name": "Chaqueta larga con bolsillos grano arroz Azul bebé",
+  "brand": "A&amp;J",
+  "sku": "2102044",
+  "description": "Chaqueta larga de perlé, punto grano de arroz, cuello redondo. Cierre con botones. Tiene bolsillos. Disponible en varios colores.",
+  "details": "Chaqueta larga de perlé, en punto de grano de arroz, en color celeste. Cuello redondo. Cierre con botones delanteros. Tiene bolsillos. Disponible en varios colores. Una prenda clásica y atemporal, un fondo de armario muy combinable y versátil. Tejido suave, fresco y ligero, perfecto para la estación de primavera y verano! Echa un ojito a nuestros calcetines y leotardos de perlé, bodies interiores y calzado y podrás completar tus conjuntos con todo lo que necesites!\n\nComposición y cuidados:\n\nChaqueta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN PORTUGAL",
+  "sourceDescriptionHtml": "<p>Chaqueta larga de perlé, en punto de grano de arroz, en color celeste. Cuello redondo. Cierre con botones delanteros. Tiene bolsillos. <strong>Disponible en varios colores</strong>. Una prenda clásica y atemporal, un fondo de armario muy combinable y versátil. Tejido suave, fresco y ligero, perfecto para la estación de primavera y verano! Echa un ojito a nuestros <strong>calcetines y leotardos de perlé, bodies interiores y calzado</strong> y podrás completar tus conjuntos con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN PORTUGAL</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul bebé",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 6.48,
+  "oldPrice": 12.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:39",
+  "sourceUpdatedAt": "2026-10-27 11:10:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67728",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2102044",
+      "productSku": "2102044",
+      "taxRate": 21,
+      "price": 6.48,
+      "oldPrice": 12.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:15.722Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8650-11408.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11408-large_default/chaqueta-larga-con-bolsillos-grano-arroz-azul--bebe.jpg",
+      "alt": "Chaqueta larga con bolsillos grano arroz Azul bebé",
+      "sourceId": "11408",
+      "variantIds": [],
+      "sha256": "ea63f55b44555a1f615d8a8104718d1bce6904cd636d6210f736d066550e51a9"
+    },
+    {
+      "path": "assets/8650-9029.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9029-large_default/chaqueta-larga-con-bolsillos-grano-arroz-azul--bebe.jpg",
+      "alt": "Chaqueta larga con bolsillos grano arroz Azul bebé",
+      "sourceId": "9029",
+      "variantIds": [],
+      "sha256": "b50ae921c7de724f209e1b9f6c44979d2ed698c31db34bcf0385d09d0c818554"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:15.804Z",
+  "issues": []
+}

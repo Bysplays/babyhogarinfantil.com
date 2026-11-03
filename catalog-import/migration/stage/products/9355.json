@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "9355",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/9355-parka-nina-verano-metalizada-lila.html",
+  "name": "Parka niña verano metalizada Lila",
+  "brand": "Chicco",
+  "sku": "2201047",
+  "description": "Parka cortavientos en color lila metalizado, con cremallera y capucha y forro mesh. Tiene bolsillos.",
+  "details": "Parka cortavientos de CHICCO, una de nuestras firmas preferidas! En color lila metalizado con cremallera delantera oculta con acabado plateado. Tiene capucha y bolsillos. Completamente forrada con mesh o tela de malla, transpirable. Una chaqueta cómoda, muy ligera y original, con un acabado holográfico que no dejará a nadie indiferente! Echa un ojito a nuestra sección de ropa interior, calzado y calcetines y podrás completarla hasta el mínimo detalle!\n\nComposición y cuidados:\n\nParka: 100% poliéster\n\nForro: 100% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR",
+  "sourceDescriptionHtml": "<p>Parka cortavientos de <strong>CHICCO</strong>, una de nuestras firmas preferidas! En color lila <strong>metalizado</strong> con cremallera delantera oculta con acabado plateado. Tiene capucha y bolsillos.<strong> Completamente forrada con mesh</strong> o tela de malla, transpirable. Una chaqueta cómoda, muy ligera y original, con un acabado holográfico que no dejará a nadie indiferente! Echa un ojito a nuestra sección de <strong>ropa interior, calzado y calcetines</strong> y podrás completarla hasta el mínimo detalle!</p>\n<p>Composición y cuidados:</p>\n<p>Parka: 100% poliéster</p>\n<p>Forro: 100% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>NO PLANCHAR</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lila",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "728"
+  ],
+  "sourceDefaultCategoryId": "728",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69052",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2201047",
+      "productSku": "2201047",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:37.643Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9355-7598.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7598-large_default/parka-nina-verano-metalizada-lila.jpg",
+      "alt": "Parka niña verano metalizada Lila",
+      "sourceId": "7598",
+      "variantIds": [],
+      "sha256": "2a49cd47fdd56e9af691e6e4792934b05edb1638a7b524437effdcf7438d9313"
+    },
+    {
+      "path": "assets/9355-9235.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9235-large_default/parka-nina-verano-metalizada-lila.jpg",
+      "alt": "Parka niña verano metalizada Lila",
+      "sourceId": "9235",
+      "variantIds": [],
+      "sha256": "7fdd5633df38d0da67c56e400ba14f666969dcea8fcf6bf675c9f711ef52128a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:37.767Z",
+  "issues": []
+}

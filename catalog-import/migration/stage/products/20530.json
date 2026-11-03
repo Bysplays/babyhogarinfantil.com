@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "20530",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys/20530-jersey-punto-intarsia-nina-frambuesa.html",
+  "name": "Jersey punto intarsia niña Frambuesa",
+  "brand": "Mayoral",
+  "sku": "2208149",
+  "description": "Descubre la suavidad y comodidad del Jersey Punto Intarsia Niña Frambuesa. Su delicado diseño tejido y su vibrante tono frambuesa despertará una sonrisa en cualquier niña. La calidad superior garantiza durabilidad, manteniendo a tu pequeña calentita y a la moda en cualquier temporada. Perfecto para salidas al parque o reuniones familiares, este jersey será la elección ideal. Haz feliz a tu niña con este elegante jersey y muestra su estilo único.",
+  "details": "Una Obra de Arte en Textiles\n\nDeja que tu pequeña brille con cada paso que da, llevando el elegante Jersey punto intarsia niña Framboesa. Este jersey de punto, absolutamente encantador y la esencia de la dulzura evoca una sensación de confort y elegancia en la moda para niños. ¡Imagina la sonrisa luminosa en su rostro cuando estrene este hermoso jersey color frambuesa!\n\nDiseño Exquisito y Materiales de Alta Calidad\n\nExhibiendo un diseño de intarsia intrincado y una lujuriosa tonalidad de frambuesa, este jersey es una pieza de vestir imprescindible para toda niña con estilo. Cada detalle ha sido cuidadosamente considerado para garantizar calidad, desde el suave tejido de punto hasta los acabados de alta calidad. Un tesoro en el guardarropa de cualquier niña.\n\nAdorabilidad y Comodidad en Un Solo Jersey\n\nFusionando moda con funcionalidad, el Jersey punto intarsia niña Framboesa no sólo es adorable sino también lo suficientemente cómodo como para usarse todos los días. Suave contra la piel y manteniendo a su niña cálida y confortable, sin sacrificar el estilo. ¡Es el regalo perfecto para hacer sentir a tu pequeña especial!\n\nAñade el Jersey punto intarsia niña Framboesa a tu carrito hoy mismo y dale a tu niña una razón más para sonreír. No esperes, ¡La oportunidad de atesorar este elegante jersey no durará para siempre!\n\nComposición:\n\n 55% Poliamida\n\n40% Acrílico\n\n5% Lana.",
+  "sourceDescriptionHtml": "<div>\n<h2>Una Obra de Arte en Textiles</h2>\n<p>Deja que tu pequeña brille con cada paso que da, llevando el elegante Jersey punto intarsia niña Framboesa. Este jersey de punto, absolutamente encantador y la esencia de la dulzura evoca una sensación de confort y elegancia en la moda para niños. ¡Imagina la sonrisa luminosa en su rostro cuando estrene este hermoso jersey color frambuesa!</p>\n<h2>Diseño Exquisito y Materiales de Alta Calidad</h2>\n<p>Exhibiendo un diseño de intarsia intrincado y una lujuriosa tonalidad de frambuesa, este jersey es una pieza de vestir imprescindible para toda niña con estilo. Cada detalle ha sido cuidadosamente considerado para garantizar calidad, desde el suave tejido de punto hasta los acabados de alta calidad. Un tesoro en el guardarropa de cualquier niña.</p>\n<h2>Adorabilidad y Comodidad en Un Solo Jersey</h2>\n<p>Fusionando moda con funcionalidad, el Jersey punto intarsia niña Framboesa no sólo es adorable sino también lo suficientemente cómodo como para usarse todos los días. Suave contra la piel y manteniendo a su niña cálida y confortable, sin sacrificar el estilo. ¡Es el regalo perfecto para hacer sentir a tu pequeña especial!</p>\n<p><em>Añade el Jersey punto intarsia niña Framboesa a tu carrito hoy mismo y dale a tu niña una razón más para sonreír. No esperes, ¡La oportunidad de atesorar este elegante jersey no durará para siempre!</em></p>\n<p>Composición:</p>\n<p> 55% Poliamida</p>\n<p>40% Acrílico</p>\n<p>5% Lana.</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Frambuesa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "772",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "772",
+  "sourceCategoryName": "Sudaderas y jerseys",
+  "price": 27.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-09 11:58:08",
+  "sourceUpdatedAt": "2026-10-27 11:12:02",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95139",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2208149",
+      "productSku": "2208149",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:02.490Z"
+    },
+    {
+      "id": "95136",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2208149",
+      "productSku": "2208149",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:04.445Z"
+    },
+    {
+      "id": "95138",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2208149",
+      "productSku": "2208149",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:06.168Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20530-19114.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19114-large_default/jersey-punto-intarsia-nina-frambuesa.jpg",
+      "alt": "Jersey punto intarsia niña Frambuesa",
+      "sourceId": "19114",
+      "variantIds": [],
+      "sha256": "7e276219027145339cb342612e1e5c1f905c4e657f520015025d25e773a4f3ca"
+    },
+    {
+      "path": "assets/20530-19115.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19115-large_default/jersey-punto-intarsia-nina-frambuesa.jpg",
+      "alt": "Jersey punto intarsia niña Frambuesa",
+      "sourceId": "19115",
+      "variantIds": [],
+      "sha256": "2882bb930820365814d5458ec53ce407fb1c741905937eb090461516f8cf701b"
+    },
+    {
+      "path": "assets/20530-19116.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19116-large_default/jersey-punto-intarsia-nina-frambuesa.jpg",
+      "alt": "Jersey punto intarsia niña Frambuesa",
+      "sourceId": "19116",
+      "variantIds": [],
+      "sha256": "e814d8de0e08531abdd39729193196a1e21227aebccaee14ac8e2c411190f37f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:06.364Z",
+  "issues": []
+}

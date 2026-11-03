@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "id": "9699",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/9699-gorra-reversible-corazones-varios.html",
+  "name": "Gorra reversible corazones Varios",
+  "brand": "Zippy",
+  "sku": "2204096",
+  "description": "Gorro reversible con cintas para atar.",
+  "details": "Gorro de ZIPPY, firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. Estilo pesquero, reversible, por un lado de color naranja con corazones, y por el otro lado, estampado multicolor con motivos del mar! Un complemento perfecto para los días de sol, protege de una forma divertida y dale un toque de color a los conjuntos de tu peque! Echa un ojito a nuestros conjuntos playeros, ropa de baño y toallas y podrás combinarlo con todo lo necesario para este verano!\n\nComposición y cuidados:\n\nGorro1: 100% algodón\n\nGorro2: 100% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro de <strong style=\"margin:0px;padding:0px;\">ZIPPY</strong>, firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. Estilo <strong style=\"margin:0px;padding:0px;\">pesquero, reversible</strong>, por un lado de color naranja con corazones, y por el otro lado, estampado multicolor con motivos del mar! Un complemento perfecto para los días de sol, <strong style=\"margin:0px;padding:0px;\">protege</strong> de una forma divertida y dale un toque de color a los conjuntos de tu peque! Echa un ojito a nuestros <strong style=\"margin:0px;padding:0px;\">conjuntos playeros, ropa de baño y toallas</strong> y podrás combinarlo con todo lo necesario para este verano!</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición y cuidados:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro1: 100% algodón</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro2: 100% poliéster</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99081",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "10274XH15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:57.785Z"
+    },
+    {
+      "id": "147643",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "10274XA15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:01.057Z"
+    },
+    {
+      "id": "147644",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "10274XB15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:03.908Z"
+    },
+    {
+      "id": "147645",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "10274XC15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:07.275Z"
+    },
+    {
+      "id": "147646",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "10274XD15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:12.522Z"
+    },
+    {
+      "id": "147647",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "10274XE15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:15.819Z"
+    },
+    {
+      "id": "147648",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "10274XF15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:18.819Z"
+    },
+    {
+      "id": "147649",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "10274XG15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:21.613Z"
+    },
+    {
+      "id": "147650",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "10274XI15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:24.636Z"
+    },
+    {
+      "id": "147651",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "10274XJ15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:29.164Z"
+    },
+    {
+      "id": "147652",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "10274XK15996",
+      "productSku": "2204096",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:32.404Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9699-12634.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12634-large_default/gorra-reversible-corazones-varios.jpg",
+      "alt": "Gorra reversible corazones Varios",
+      "sourceId": "12634",
+      "variantIds": [],
+      "sha256": "f09f77267b446b7699f363a1286ed64e941eb0d25f1a4291d062c1557499c4ed"
+    },
+    {
+      "path": "assets/9699-12635.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12635-large_default/gorra-reversible-corazones-varios.jpg",
+      "alt": "Gorra reversible corazones Varios",
+      "sourceId": "12635",
+      "variantIds": [],
+      "sha256": "044323a87fd9c117a98bd6292f1a432b9d12c3c7437fe571054cf04bc3e50f63"
+    },
+    {
+      "path": "assets/9699-12633.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12633-large_default/gorra-reversible-corazones-varios.jpg",
+      "alt": "Gorra reversible corazones Varios",
+      "sourceId": "12633",
+      "variantIds": [],
+      "sha256": "f3f03a88dadd8e3df040286f7d54fa94952ca6f0008def2186aabd07e2a68166"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:32.610Z",
+  "issues": []
+}

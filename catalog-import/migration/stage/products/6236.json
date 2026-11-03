@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "id": "6236",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6236-leotardo-punto-liso-azul-celeste.html",
+  "name": "Leotardo punto liso Azul Celeste",
+  "brand": "Condor",
+  "sku": "1017",
+  "description": "Leotardos color AZUL CELESTE de algodón lisos en muchos colores. Disponibles en tallas de 0-3 meses a 16 años.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los primeros meses de tu bebé, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que el bebé se mueva con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. HECHO EN ESPAÑA\n\n \n\n75% ALGODON 22% POLIAMIDA 3% ELASTANO",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de <strong>CONDOR</strong> son sin duda una de las prendas más funcionales para los primeros meses de tu bebé, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que el bebé se mueva con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. <strong><span style=\"text-decoration:underline;\">HECHO EN ESPAÑA</span></strong></p>\n<p> </p>\n<p>75% ALGODON 22% POLIAMIDA 3% ELASTANO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14.21,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62986",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "909XE1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:26.802Z"
+    },
+    {
+      "id": "144252",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "909XA1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:29.424Z"
+    },
+    {
+      "id": "144253",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "909XB1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:32.133Z"
+    },
+    {
+      "id": "144254",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "909XC1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:34.631Z"
+    },
+    {
+      "id": "144255",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "909XD1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:37.149Z"
+    },
+    {
+      "id": "144256",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "909XF1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:40.169Z"
+    },
+    {
+      "id": "144257",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "909XG1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:42.830Z"
+    },
+    {
+      "id": "144258",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "909XH1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:46.554Z"
+    },
+    {
+      "id": "144259",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "909XI1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:49.255Z"
+    },
+    {
+      "id": "144260",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "909XJ1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:53.061Z"
+    },
+    {
+      "id": "144261",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "909XK1653",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:57.224Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6236-4163.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4163-large_default/leotardo-punto-liso-azul-celeste.jpg",
+      "alt": "Leotardo punto liso Azul Celeste",
+      "sourceId": "4163",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6236-4162.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4162-large_default/leotardo-punto-liso-azul-celeste.jpg",
+      "alt": "Leotardo punto liso Azul Celeste",
+      "sourceId": "4162",
+      "variantIds": [],
+      "sha256": "966cffe7fe72738edc4488ed8eb5b640d517c1b4253645ac8211a3896b6b4680"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:26:57.369Z",
+  "issues": []
+}

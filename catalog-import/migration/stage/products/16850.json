@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "id": "16850",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/16850-jersey-adguarda-lana-azul.html",
+  "name": "Jersey A.D.Guarda lana Azul",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1704042",
+  "description": "Jersey NUEVO ESCUDO 2025 para uniforme de primaria del colegio Ángel de la guarda de Nigran.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nJersey: 70% Acrílico, 30% Lana.\n\nNO USAR SECADORA.\n\nLAVAR SIEMPRE DEL REVES A 30º Y PROGRAMA CORTO.\n\nNO USAR LEJIAS.\n\nNO LAVAR A MANO.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Jersey: 70% Acrílico, 30% Lana.</p>\n<p>NO USAR SECADORA.</p>\n<p>LAVAR SIEMPRE DEL REVES A 30º Y PROGRAMA CORTO.</p>\n<p>NO USAR LEJIAS.</p>\n<p>NO LAVAR A MANO.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "705"
+  ],
+  "sourceDefaultCategoryId": "705",
+  "sourceCategoryName": "Colegio Angel de la Guarda Nigran",
+  "price": 27.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-09-26 15:52:08",
+  "sourceUpdatedAt": "2026-10-26 19:38:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 30,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "252",
+          "label": "26"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "93692",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "3655XA6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:22.932Z"
+    },
+    {
+      "id": "93693",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "3655XB6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:25.379Z"
+    },
+    {
+      "id": "93694",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "3655XC6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:27.763Z"
+    },
+    {
+      "id": "93695",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "3655XD6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:30.816Z"
+    },
+    {
+      "id": "143704",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "3655XE6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:33.385Z"
+    },
+    {
+      "id": "87336",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "3655XF6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:35.819Z"
+    },
+    {
+      "id": "143705",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "3655XG6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:37.460Z"
+    },
+    {
+      "id": "79768",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "3655XH6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:39.672Z"
+    },
+    {
+      "id": "87337",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "3655XI6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:41.955Z"
+    },
+    {
+      "id": "87338",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "3655XJ6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:44.734Z"
+    },
+    {
+      "id": "87339",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "3655XK6694",
+      "productSku": "1704042",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:47.740Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16850-19743.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19743-large_default/jersey-adguarda-lana-azul.jpg",
+      "alt": "Jersey Angel de la guarda nigran",
+      "sourceId": "19743",
+      "variantIds": [],
+      "sha256": "9ec7ea2cf52aaa76533fdf4198d4def09083759ab0d9616ba7d4ac1aa943cfe2"
+    },
+    {
+      "path": "assets/16850-19744.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19744-large_default/jersey-adguarda-lana-azul.jpg",
+      "alt": "Jersey A.D.Guarda lana Azul",
+      "sourceId": "19744",
+      "variantIds": [],
+      "sha256": "09c3178cdcee28a8e64cc0c4cd480ef65b4f75c5ff715b2c11c4906b2aed5cc5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:33:47.900Z",
+  "issues": []
+}

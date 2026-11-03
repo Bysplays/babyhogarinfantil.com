@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7479",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/7479-sudadera-con-cremallera-ny-azul-marino.html",
+  "name": "Sudadera con cremallera NY Azul marino",
+  "brand": "Bimbalina",
+  "sku": "1810042",
+  "description": "Chaqueta sudadera con cremallera y capucha, con felpa interior para el invierno.",
+  "details": "Composición:\n\nSudadera: 80% algodón, 20% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Sudadera: 80% algodón, 20% poliéster.</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 24.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:25",
+  "sourceUpdatedAt": "2026-10-27 11:10:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65812",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1810042",
+      "productSku": "1810042",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:03.673Z"
+    },
+    {
+      "id": "65813",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "1810042",
+      "productSku": "1810042",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:05.615Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7479-10308.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10308-large_default/sudadera-con-cremallera-ny-azul-marino.jpg",
+      "alt": "Sudadera con cremallera NY Azul marino",
+      "sourceId": "10308",
+      "variantIds": [],
+      "sha256": "2c6ffb26b28a0b70795343b4c03cb7d21f3b53939e5a5f59691714b46b426462"
+    },
+    {
+      "path": "assets/7479-9081.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9081-large_default/sudadera-con-cremallera-ny-azul-marino.jpg",
+      "alt": "Sudadera con cremallera NY Azul marino",
+      "sourceId": "9081",
+      "variantIds": [],
+      "sha256": "1f1402da505b40fe2495023729506f69e1f9ba6dcf37afc58910757f6ff5922e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:05.765Z",
+  "issues": []
+}

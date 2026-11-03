@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8304",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8304-lazo-mediano-con-coletero-azul-francia.html",
+  "name": "Lazo mediano con coletero Azul francia",
+  "brand": "Siena",
+  "sku": "2007017",
+  "description": "Lazo grosgrain de 8 x 8 cm. aproximadamnete sobre clip pico-pato de 5,5 cm. aprox.\n\nHECHO EN ESPAÑA.\n\nHECHO A MANO.",
+  "details": "Subtile: Diseño y Comodidad en un Solo Accesorio \n\nEl Lazo mediano con coletero Azul francia es más que un simple accesorio. Este complemento de moda hace gala de un diseño exquisito pulido en un tono azul francia vibrante que se destaca y destella con elegancia. Perfectamente adaptado para las pequeñas princesas, el tamaño del lazo es mediano, lo que lo hace cómodo de llevar y no pesa en absoluto en el cabello delicado.\n\n \nSubtitle: La Esencia de la Ternura y la Moda \n\nEste lazo no solo es un accesorio adorable, sino que también es versátil y puede adaptarse fácilmente a cualquier estilo. Ya sea un cumpleaños, una fiesta o simplemente un día normal de juego, el Lazo mediano con coletero Azul francia agregaría ese toque final que hará que cada peinado luzca elegante. Una expresión definitiva de la moda y la ternura que toda madre adoraría para su pequeña.\n\n \nSubtitle: Material de alta calidad para garantizar la durabilidad \n\nEl Lazo mediano con coletero Azul francia está hecho de material de alta calidad que es suave para el cuero cabelludo de los niños y a la vez resistente para asegurar que pueda soportar incluso las actividades más rudas al mismo tiempo que mantiene su apariencia y forma. Este accesorio de cabello está diseñado para ser un compañero de confianza, siempre listo para hacer que cada momento sea memorable.\n\n \nAdorna a tu pequeña princesa con este lazo fascinante y deja que su ternura brille aún más. Lazo mediano con coletero Azul francia no es solo un accesorio, sino una promesa de confort, estilo y durabilidad. ¡Añádelo a tu carrito hoy!",
+  "sourceDescriptionHtml": "<p><strong>Subtile: Diseño y Comodidad en un Solo Accesorio</strong> <br>\nEl <em>Lazo mediano con coletero Azul francia</em> es más que un simple accesorio. Este complemento de moda hace gala de un diseño exquisito pulido en un tono azul francia vibrante que se destaca y destella con elegancia. Perfectamente adaptado para las pequeñas princesas, el tamaño del lazo es mediano, lo que lo hace cómodo de llevar y no pesa en absoluto en el cabello delicado.</p>\n \n<p><strong>Subtitle: La Esencia de la Ternura y la Moda </strong> <br>\nEste lazo no solo es un accesorio adorable, sino que también es versátil y puede adaptarse fácilmente a cualquier estilo. Ya sea un cumpleaños, una fiesta o simplemente un día normal de juego, el <em>Lazo mediano con coletero Azul francia</em> agregaría ese toque final que hará que cada peinado luzca elegante. Una expresión definitiva de la moda y la ternura que toda madre adoraría para su pequeña.</p>\n \n<p><strong>Subtitle: Material de alta calidad para garantizar la durabilidad</strong> <br>\nEl <em>Lazo mediano con coletero Azul francia</em> está hecho de material de alta calidad que es suave para el cuero cabelludo de los niños y a la vez resistente para asegurar que pueda soportar incluso las actividades más rudas al mismo tiempo que mantiene su apariencia y forma. Este accesorio de cabello está diseñado para ser un compañero de confianza, siempre listo para hacer que cada momento sea memorable.</p>\n \n<p>Adorna a tu pequeña princesa con este lazo fascinante y deja que su ternura brille aún más. <em>Lazo mediano con coletero Azul francia</em> no es solo un accesorio, sino una promesa de confort, estilo y durabilidad. ¡Añádelo a tu carrito hoy!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Francia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146661",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8049XA14306",
+      "productSku": "2007017",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:32.085Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8304-6588.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6588-large_default/lazo-mediano-con-coletero-azul-francia.jpg",
+      "alt": "Lazo mediano con coletero Azul francia",
+      "sourceId": "6588",
+      "variantIds": [],
+      "sha256": "d25f1f16a38a75eff62195cfda6b88dc36392e185cb20e1e91d455ad5cf20dd9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:32.142Z",
+  "issues": []
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "17752",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/17752-conjunto-pololo-sil-bebe-nina-rosa.html",
+  "name": "Conjunto pololo Sil bebe niña Rosa",
+  "brand": "Calamaro",
+  "sku": "2402020",
+  "description": "Abraza la ternura innata de tu bebé con el Conjunto Pololo Sil para niña en color rosa. Este elegante conjunto, creado con amor y cariño, garantiza un confort excepcional para tu pequeña todo el día. Tiene un diseño adorable que evocará sonrisas y halagos donde quiera que vaya. Ideal para momentos especiales o simplemente para el disfrute diario. Haz que tu bebé se sienta tan especial y querida como realmente es con este conjunto encantador. ¡El Conjunto Pololo Sil, la elección perfecta para cada princesita de moda!",
+  "details": "Comfort Inigualable\n\nEl Conjunto pololo Sil para bebé niña en color Rosa es una combinación perfecta de comodidad y estilo. Hecho con los más suaves y duraderos materiales, garantiza un uso prolongado y una suavidad increíble a la piel de la pequeña. Este es la elección perfecta para vestirla con una moda adorable y cómoda.\n\nEstilo Encantador\n\nEste conjunto de pololo Sil en tono rosa transforma cualquier ocasión en un evento especial. Su suave color rosa da un aspecto femenino y dulce, y su diseño único y con estilo hace que sea una elección destacada en el guardarropa de cualquier bebé niña. Perfecto para día de juego, reuniones familiares, o para una salida de compras con mamá.\n\nCalidad y Durabilidad\n\nLa alta calidad de fabricación del Conjunto pololo Sil garantiza su durabilidad. Se ha diseñado con cuidado y elaborado con telas resistentes para resistir el paso del tiempo. No importa cuán activa sea tu pequeña, este conjunto seguirá luciendo hermoso lavado tras lavado.\n\nEs hora de adquirir este adorable Conjunto pololo Sil para bebé niña en color rosa. ¡Ella lucirá elegante y estará cómoda en todo momento! Ordena ahora y maravíllate con su sonrisa cuando estrene su nuevo conjunto.\n\nComposición y cuidados:\n\nConjunto: 80% algodón, 20% poliéster.\n\nNO USAR LEJIAS\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<h2>Comfort Inigualable</h2>\n<p>El Conjunto pololo Sil para bebé niña en color Rosa es una combinación perfecta de comodidad y estilo. Hecho con los más suaves y duraderos materiales, garantiza un uso prolongado y una suavidad increíble a la piel de la pequeña. Este es la elección perfecta para vestirla con una moda adorable y cómoda.</p>\n<h2>Estilo Encantador</h2>\n<p>Este conjunto de pololo Sil en tono rosa transforma cualquier ocasión en un evento especial. Su suave color rosa da un aspecto femenino y dulce, y su diseño único y con estilo hace que sea una elección destacada en el guardarropa de cualquier bebé niña. Perfecto para día de juego, reuniones familiares, o para una salida de compras con mamá.</p>\n<h2>Calidad y Durabilidad</h2>\n<p>La alta calidad de fabricación del Conjunto pololo Sil garantiza su durabilidad. Se ha diseñado con cuidado y elaborado con telas resistentes para resistir el paso del tiempo. No importa cuán activa sea tu pequeña, este conjunto seguirá luciendo hermoso lavado tras lavado.</p>\n<p>Es hora de adquirir este adorable Conjunto pololo Sil para bebé niña en color rosa. ¡Ella lucirá elegante y estará cómoda en todo momento! <a href=\"order_now.html\">Ordena ahora</a> y maravíllate con su sonrisa cuando estrene su nuevo conjunto.</p>\n<p>Composición y cuidados:</p>\n<p>Conjunto: 80% algodón, 20% poliéster.</p>\n<p>NO USAR LEJIAS</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 27.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-08 23:53:16",
+  "sourceUpdatedAt": "2026-10-27 11:13:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85351",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2402020",
+      "productSku": "2402020",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:11.010Z"
+    },
+    {
+      "id": "85353",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2402020",
+      "productSku": "2402020",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:12.790Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17752-15950.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15950-large_default/conjunto-pololo-sil-bebe-nina-rosa.jpg",
+      "alt": "pololo t jersey rosa algodon invierno bebe niña",
+      "sourceId": "15950",
+      "variantIds": [],
+      "sha256": "44d4874a3c58a3e02c04665cb0fe19670e4205e5fa57cbc1a037eb0e2946b507"
+    },
+    {
+      "path": "assets/17752-15951.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15951-large_default/conjunto-pololo-sil-bebe-nina-rosa.jpg",
+      "alt": "Conjunto pololo Sil bebe niña Rosa",
+      "sourceId": "15951",
+      "variantIds": [],
+      "sha256": "69613740827d6b00fbfb10506dd200b7f7b85ae772820ea0ab42fcf363e000d4"
+    },
+    {
+      "path": "assets/17752-15952.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15952-large_default/conjunto-pololo-sil-bebe-nina-rosa.jpg",
+      "alt": "Conjunto pololo Sil bebe niña Rosa",
+      "sourceId": "15952",
+      "variantIds": [],
+      "sha256": "064a81a12d13120eaa0c2c5b7c116186e258869c6c7ff8f2c4e8e5a379b06e52"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:12.963Z",
+  "issues": []
+}

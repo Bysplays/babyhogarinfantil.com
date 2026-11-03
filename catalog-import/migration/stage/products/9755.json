@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "9755",
+  "sourceUrl": "https://babyhogarinfantil.com/complementos/9755-collar-mordedor-rosa.html",
+  "name": "Collar Mordedor Rosa",
+  "brand": "Mami me mima",
+  "sku": "2205085",
+  "description": "Collar de lactancia mordedor, de silicona alimentaria antibacteriana libre de BPA, ayuda a aliviar los dolores de encía del bebé en la etapa de dentición. Cumple las normas Europeas EN 71-1:2014 y EN 71-2:211 + A1:2014",
+  "details": "Collar de uso para adulto, no ponerselo al bebé.\n\nLavar con agua y jabón, apto para lavavajillas.\n\nAyuda a desarrollar la sicomotricidad final del bebé gracias a su textura y colores.",
+  "sourceDescriptionHtml": "<p>Collar de uso para adulto, no ponerselo al bebé.</p>\n<p>Lavar con agua y jabón, apto para lavavajillas.</p>\n<p>Ayuda a desarrollar la sicomotricidad final del bebé gracias a su textura y colores.</p>\n<p> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "813",
+    "865"
+  ],
+  "sourceDefaultCategoryId": "788",
+  "sourceCategoryName": "Complementos",
+  "price": 15.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69921",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10367XA16168",
+      "productSku": "2205085",
+      "taxRate": 21,
+      "price": 15.49,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:08.763Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9755-8250.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8250-large_default/collar-mordedor-rosa.jpg",
+      "alt": "Collar Mordedor Rosa",
+      "sourceId": "8250",
+      "variantIds": [],
+      "sha256": "56de12e44cc63880b48991cd6159d637c61feb9d3bdcecb023041c0a98c07fe7"
+    },
+    {
+      "path": "assets/9755-8251.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8251-large_default/collar-mordedor-rosa.jpg",
+      "alt": "Collar Mordedor Rosa",
+      "sourceId": "8251",
+      "variantIds": [],
+      "sha256": "1e74c093fdb7a6760886996ea4c5ab2fccc5aeee6d8238680533c6b9ca61ad24"
+    },
+    {
+      "path": "assets/9755-8252.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8252-large_default/collar-mordedor-rosa.jpg",
+      "alt": "Collar Mordedor Rosa",
+      "sourceId": "8252",
+      "variantIds": [],
+      "sha256": "a79ae6ec4fc44312a213f05652e641b658df457734e44c942ba3c2338c6df04c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:08.997Z",
+  "issues": []
+}

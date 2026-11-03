@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "21599",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys/21599-sudadera-algodon-con-felpa-nina-colorete.html",
+  "name": "Sudadera algodón con felpa niña Colorete",
+  "brand": "Babybol",
+  "sku": "2502209",
+  "description": "Sudadera en algodón para niña. Con felpa interior para que sea cálida. Motivos florales estampados. La talla 2 tiene automáticos en la espalda para facilitar la puesta, el resto de tallas no. Corte amplio y cómodo.",
+  "details": "Composición:\n\nSudadera: 95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Sudadera: </strong>95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Colorete",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "772",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "772",
+  "sourceCategoryName": "Sudaderas y jerseys",
+  "price": 17,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-20 15:54:16",
+  "sourceUpdatedAt": "2026-10-27 11:14:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97603",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502209",
+      "productSku": "2502209",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:53.273Z"
+    },
+    {
+      "id": "97605",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502209",
+      "productSku": "2502209",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:55.481Z"
+    },
+    {
+      "id": "97606",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502209",
+      "productSku": "2502209",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:57.581Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21599-20166.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20166-large_default/sudadera-algodon-con-felpa-nina-colorete.jpg",
+      "alt": "Sudadera algodón con felpa niña Colorete",
+      "sourceId": "20166",
+      "variantIds": [],
+      "sha256": "99aacc79ba84bb5bc8294c5b9c69c209d5d9dc8cc2204364497c558d3b143e2a"
+    },
+    {
+      "path": "assets/21599-20167.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20167-large_default/sudadera-algodon-con-felpa-nina-colorete.jpg",
+      "alt": "Sudadera algodón con felpa niña Colorete",
+      "sourceId": "20167",
+      "variantIds": [],
+      "sha256": "079b87f85b87928e7822eb95581289512816c1e7512cc3846a5b93e2105c3385"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:57.711Z",
+  "issues": []
+}

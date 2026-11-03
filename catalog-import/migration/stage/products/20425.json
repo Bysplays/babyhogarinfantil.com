@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "20425",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/20425-chaqueta-larga-bebe-nino-verde.html",
+  "name": "Chaqueta larga bebe niño Verde",
+  "brand": "Calamaro",
+  "sku": "2502013",
+  "description": "Chaqueta de punto abrocha con botones.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nChaqueta: 86 Poliéster, 10% viscosa, 4% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 86 Poliéster, 10% viscosa, 4% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 18.76,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94582",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:13.449Z"
+    },
+    {
+      "id": "94583",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:15.176Z"
+    },
+    {
+      "id": "94584",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:16.713Z"
+    },
+    {
+      "id": "94585",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:17.790Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20425-19637.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19637-large_default/chaqueta-larga-bebe-nino-verde.jpg",
+      "alt": "Chaqueta larga bebe niño Verde",
+      "sourceId": "19637",
+      "variantIds": [],
+      "sha256": "d0cd4fc015fa120abfc4d73e89869efbc7e79532e8a0226127ad935a298d7468"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:17.862Z",
+  "issues": []
+}

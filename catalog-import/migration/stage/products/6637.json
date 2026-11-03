@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "6637",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-deportivos/6637-calcetin-tobillero-deporte-plomo.html",
+  "name": "Calcetín tobillero deporte Plomo",
+  "brand": "Condor",
+  "sku": "1607181",
+  "description": "Calcetines tobilleros deportivos de algodón con puño en canalé. Rizo interior en la suela que lo hace cálido y cómodo. Para niños.",
+  "details": "Composici&oacute;n:\n\r\n80% algod&oacute;n, 18% poliamida, 2% elastano (Lycra)",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n:</p>\r\n<p>80% algod&oacute;n, 18% poliamida, 2% elastano (Lycra)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Plomo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "694",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "694",
+  "sourceCategoryName": "Calcetines deportivos",
+  "price": 5.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-27 11:09:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63993",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1607181",
+      "productSku": "1607181",
+      "taxRate": 21,
+      "price": 5.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:11.207Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6637-4587.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4587-large_default/calcetin-tobillero-deporte-plomo.jpg",
+      "alt": "Calcetín tobillero deporte Plomo",
+      "sourceId": "4587",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6637-9679.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9679-large_default/calcetin-tobillero-deporte-plomo.jpg",
+      "alt": "Calcetín tobillero deporte Plomo",
+      "sourceId": "9679",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6637-4586.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4586-large_default/calcetin-tobillero-deporte-plomo.jpg",
+      "alt": "Calcetín tobillero deporte Plomo",
+      "sourceId": "4586",
+      "variantIds": [],
+      "sha256": "b5134c4b4b20a201f29642d7e3e2dfca725314a488d6fd0f6466e36229be896b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:11.378Z",
+  "issues": []
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "8046",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/8046-sandalia-tiras-loneta-rojo.html",
+  "name": "Sandalia tiras loneta Rojo",
+  "brand": "Chicco",
+  "sku": "2001088",
+  "description": "Sandalia de bebé de loneta en color rojo. Cierre con velcro en el tobillo. Muy ligera y blandita. Disponible en color blanco y azul.",
+  "details": "Sandalia de CHICCO, una de nuestras firmas favoritas. De bebé, con suela blanda. Formato de tiras, para dejar respirar al pie al máximo posible en los días de verano. Cierre con velcro en el tobillo. Muy ligeras y blanditas. Un complemento perfecto para completar el look! Disponible en color blanco y azul. \n\nCOMPOSICIÓN Y CUIDADOS:\n\nSandalias: 100% téxtil",
+  "sourceDescriptionHtml": "<p>Sandalia de <strong>CHICCO</strong>, una de nuestras firmas favoritas. De bebé, con suela blanda. Formato de tiras, para dejar respirar al pie al máximo posible en los días de verano. Cierre con velcro en el tobillo. Muy ligeras y blanditas. Un complemento perfecto para completar el look! Disponible en color blanco y azul. </p>\n<p>COMPOSICIÓN Y CUIDADOS:</p>\n<p>Sandalias: 100% téxtil</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:32",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66859",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "2001088",
+      "productSku": "2001088",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:23.110Z"
+    },
+    {
+      "id": "66860",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "2001088",
+      "productSku": "2001088",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:25.242Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8046-6230.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6230-large_default/sandalia-tiras-loneta-rojo.jpg",
+      "alt": "Sandalia tiras loneta Rojo",
+      "sourceId": "6230",
+      "variantIds": [],
+      "sha256": "1207e5bb9d264e94c4f44c3472b39703e122e30d60f8c697a0399e7b821a95f5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:25.311Z",
+  "issues": []
+}

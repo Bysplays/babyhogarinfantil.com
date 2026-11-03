@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "20455",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/20455-conjunto-algodon-dinos-amarillo.html",
+  "name": "Conjunto algodón dinos Amarillo",
+  "brand": "Mayoral",
+  "sku": "2502033",
+  "description": "Conjunto dos piezas compuesto de :\n\nSudadera de manga larga para recién nacido con cuello redondo y cierre lateral con botones a presión. A partir de la talla 6-9, la abertura lateral se cambia por botones a\n\npresión en el hombro.\n\nPantalón largo deportivo para recién nacido con cintura elástica y bajo elástico para un mejor ajuste.\n\nSE VENDEN POR SEPARADO. EL PRECIO ES EL DE 1 SOLO CONJUNTO. AQUI COMPRAS EL AMARILLO.",
+  "details": "Composición:\n\nConjunto:\n\n95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Conjunto:</strong></p>\n<p>95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 21.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94717",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502033",
+      "productSku": "2502033",
+      "taxRate": 21,
+      "price": 21.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:11.113Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20455-19729.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19729-large_default/conjunto-algodon-dinos-amarillo.jpg",
+      "alt": "Conjunto algodón dinos Amarillo",
+      "sourceId": "19729",
+      "variantIds": [],
+      "sha256": "68440530b6d23f344a09e57fcc1589fa2a09c10ccb6d2182cfeec56da32e5bb4"
+    },
+    {
+      "path": "assets/20455-19730.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19730-large_default/conjunto-algodon-dinos-amarillo.jpg",
+      "alt": "Conjunto algodón dinos Amarillo",
+      "sourceId": "19730",
+      "variantIds": [],
+      "sha256": "95311b9857cbcdbd83fe33badfd53c5874f20ada4b1ddd14c46cd55b1ddd6a98"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:11.208Z",
+  "issues": []
+}

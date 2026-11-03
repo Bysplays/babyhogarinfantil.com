@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "id": "6030",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6030-leotardo-invierno-calado-lateral-lino.html",
+  "name": "Leotardo INVIERNO calado lateral Lino",
+  "brand": "Condor",
+  "sku": "387",
+  "description": "Leotardo LINO, de algodón cálido con calado en el lateral. Tallas para bebé hasta 6 años. Disponible en varios colores.",
+  "details": "Una Comodidad Inigualable\n\nEl Leotardo INVIERNO calado lateral Lino ofrece una comodidad inigualable. Fabricado con materiales de alta calidad, este leotardo garantiza durabilidad y resistencia al desgaste. Perfecto para los meses de invierno, proporciona la calidez que los niños necesitan mientras realizan sus actividades diarias.\n\n\nEstilo y Elegancia\n\nEste leotardo no es solo cómodo y cálido, sino también elegante y moderno. El diseño calado a los lados le da un toque de distinción único, perfecto para eventos especiales o para el día a día. El acabado de lino le aporta un aire de sofisticación. Sin duda, este leotardo resaltará el estilo de quien lo lleva.\n\n\nGran Opción Para Regalo\n\nEl Leotardo INVIERNO calado lateral Lino es una excelente opción para regalar. Ya sea para un cumpleaños, una celebración especial o simplemente para sorprender a los pequeños de la casa, este leotardo será un acierto seguro. Con su distinguido diseño y comodidad asegurada, es ideal para cualquier niño.\n\n\n¡No esperes más! Adquiere hoy el Leotardo INVIERNO calado lateral Lino y aporta estilo, confort y elegancia al guardarropa de tus niños. ¡Haz clic ahora para hacer tu pedido!",
+  "sourceDescriptionHtml": "<h2>Una Comodidad Inigualable</h2>\n<p>El Leotardo INVIERNO calado lateral Lino ofrece una comodidad inigualable. Fabricado con materiales de alta calidad, este leotardo garantiza durabilidad y resistencia al desgaste. Perfecto para los meses de invierno, proporciona la calidez que los niños necesitan mientras realizan sus actividades diarias.</p>\n\n<h2>Estilo y Elegancia</h2>\n<p>Este leotardo no es solo cómodo y cálido, sino también elegante y moderno. El diseño calado a los lados le da un toque de distinción único, perfecto para eventos especiales o para el día a día. El acabado de lino le aporta un aire de sofisticación. Sin duda, este leotardo resaltará el estilo de quien lo lleva.</p>\n\n<h2>Gran Opción Para Regalo</h2>\n<p>El Leotardo INVIERNO calado lateral Lino es una excelente opción para regalar. Ya sea para un cumpleaños, una celebración especial o simplemente para sorprender a los pequeños de la casa, este leotardo será un acierto seguro. Con su distinguido diseño y comodidad asegurada, es ideal para cualquier niño.</p>\n\n<p>¡No esperes más! Adquiere hoy el Leotardo INVIERNO calado lateral Lino y aporta estilo, confort y elegancia al guardarropa de tus niños. ¡Haz clic ahora para hacer tu pedido!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:07",
+  "sourceUpdatedAt": "2026-10-27 11:08:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "144094",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "296XA1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:25.922Z"
+    },
+    {
+      "id": "144095",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "296XB1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:28.726Z"
+    },
+    {
+      "id": "144096",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "296XC1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:31.274Z"
+    },
+    {
+      "id": "144097",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "296XD1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:34.221Z"
+    },
+    {
+      "id": "144098",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "296XE1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:36.933Z"
+    },
+    {
+      "id": "144099",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "296XF1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:39.674Z"
+    },
+    {
+      "id": "144100",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "296XG1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:42.624Z"
+    },
+    {
+      "id": "144101",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "296XH1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:46.076Z"
+    },
+    {
+      "id": "144102",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "296XI1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:49.524Z"
+    },
+    {
+      "id": "144103",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "296XJ1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:53.014Z"
+    },
+    {
+      "id": "144104",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "296XK1699",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:56.637Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6030-3888.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3888-large_default/leotardo-invierno-calado-lateral-lino.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Lino",
+      "sourceId": "3888",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6030-9296.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9296-large_default/leotardo-invierno-calado-lateral-lino.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Lino",
+      "sourceId": "9296",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6030-3887.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3887-large_default/leotardo-invierno-calado-lateral-lino.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Lino",
+      "sourceId": "3887",
+      "variantIds": [],
+      "sha256": "6d75d7137982c05a08bc3d99f984dccb5eb9df132e9dfa390f5e0aa63cb7449e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:31:02.303Z",
+  "issues": []
+}

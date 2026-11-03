@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "6416",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/6416-cacetin-alto-algodon-calado-lateral--v-camel.html",
+  "name": "Cacetín Alto algodón calado lateral V Camel",
+  "brand": "Condor",
+  "sku": "1531672",
+  "description": "Calcetín alto calado lateral. En perlé 100% algodón.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 5.51,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63512",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1531672",
+      "productSku": "1531672",
+      "taxRate": 21,
+      "price": 5.51,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:37.948Z"
+    },
+    {
+      "id": "63513",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1531672",
+      "productSku": "1531672",
+      "taxRate": 21,
+      "price": 5.51,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:41.470Z"
+    },
+    {
+      "id": "63514",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1531672",
+      "productSku": "1531672",
+      "taxRate": 21,
+      "price": 5.51,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:45.421Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6416-4403.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4403-large_default/cacetin-alto-algodon-calado-lateral--v-camel.jpg",
+      "alt": "Cacetín Alto algodón calado lateral V Camel",
+      "sourceId": "4403",
+      "variantIds": [],
+      "sha256": "3be2e4520ca475a1dcc10c6ca78159ae78aa79c010ffc2c33f11ca3cc5bf939d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:45.488Z",
+  "issues": []
+}

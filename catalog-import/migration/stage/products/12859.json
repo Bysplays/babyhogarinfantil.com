@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "12859",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-punto-bebe-nina/12859-conjunto-jubon-y-polaina-gatita-salmon.html",
+  "name": "Conjunto jubon y polaina gatita Salmon",
+  "brand": "Talaman",
+  "sku": "2301376",
+  "description": "Conjunto de punto de verano compuesto por jubón y polaina",
+  "details": "Composición y cuidados:\n\nConjunto: 100% algodón.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Conjunto: 100% algodón.</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Salmón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "737"
+  ],
+  "sourceDefaultCategoryId": "737",
+  "sourceCategoryName": "Conjuntos punto bebé niña",
+  "price": 28.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-05 16:32:05",
+  "sourceUpdatedAt": "2026-10-27 11:12:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72518",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2301376",
+      "productSku": "2301376",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:13.656Z"
+    },
+    {
+      "id": "72520",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2301376",
+      "productSku": "2301376",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:17.413Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12859-13800.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13800-large_default/conjunto-jubon-y-polaina-gatita-salmon.jpg",
+      "alt": "Conjunto jubon y polaina gatita Salmon",
+      "sourceId": "13800",
+      "variantIds": [],
+      "sha256": "d42639f0171f99ae1217343a78086129629a8f3196b176c4600cb7f2d58b8ac3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:17.466Z",
+  "issues": []
+}

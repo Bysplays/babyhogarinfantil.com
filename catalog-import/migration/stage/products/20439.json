@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "20439",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/20439-chaqueta-larga-bebe-nina-arena.html",
+  "name": "Chaqueta larga bebé niña Arena",
+  "brand": "Calamaro",
+  "sku": "2502022",
+  "description": "Chaqueta larga con volante en el bajo. Tacto muy suave.",
+  "details": "Composición:\n\nChaqueta: 86% poliéster, 10% viscosa, 4% elastano.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 86% poliéster, 10% viscosa, 4% elastano.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Arena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 19.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94662",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502022",
+      "productSku": "2502022",
+      "taxRate": 21,
+      "price": 19.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:39.493Z"
+    },
+    {
+      "id": "94663",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502022",
+      "productSku": "2502022",
+      "taxRate": 21,
+      "price": 19.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:41.393Z"
+    },
+    {
+      "id": "94664",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502022",
+      "productSku": "2502022",
+      "taxRate": 21,
+      "price": 19.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:43.794Z"
+    },
+    {
+      "id": "94665",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502022",
+      "productSku": "2502022",
+      "taxRate": 21,
+      "price": 19.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:46.259Z"
+    },
+    {
+      "id": "94666",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502022",
+      "productSku": "2502022",
+      "taxRate": 21,
+      "price": 19.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:49.111Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20439-19691.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19691-large_default/chaqueta-larga-bebe-nina-arena.jpg",
+      "alt": "Chaqueta larga bebé niña Arena",
+      "sourceId": "19691",
+      "variantIds": [],
+      "sha256": "7dcdefda439edcf763070076b9913d2ea3b1fcdecf14f723770ec37ede643292"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:49.185Z",
+  "issues": []
+}

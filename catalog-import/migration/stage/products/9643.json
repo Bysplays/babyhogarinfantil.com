@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "9643",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-nina/9643-camiseta-algodon-verano-nina-con-cuello-rosa.html",
+  "name": "Camiseta algodón verano niña con cuello Rosa",
+  "brand": "Calamaro",
+  "sku": "2204024",
+  "description": "Camiseta 100% algodón, con cuello volante y manga corta. Cierre trasero con botón formato lágrima.",
+  "details": "Camiseta de CALAMARO, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. 100% ALGODÓN, con cuello volante y manga corta. Cierre trasero con botón formato lágrima. Una prenda cómoda, de gran suavidad y tacto agradable, un básico ideal para combinar! Echa un ojito a nuestro calzado, gorros para el sol y pantalones y podrás combinarla como más te guste!\n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Camiseta de<strong> CALAMARO</strong>, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal.<strong> 100% ALGODÓN</strong>, con cuello volante y manga corta. Cierre trasero con botón formato lágrima. Una prenda cómoda, de gran suavidad y tacto agradable, un básico ideal para combinar! Echa un ojito a nuestro <strong>calzado, gorros para el sol y pantalones</strong> y podrás combinarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "736",
+    "823",
+    "771"
+  ],
+  "sourceDefaultCategoryId": "736",
+  "sourceCategoryName": "Camisetas niña",
+  "price": 7,
+  "oldPrice": 13.989999,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69729",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2204024",
+      "productSku": "2204024",
+      "taxRate": 21,
+      "price": 7,
+      "oldPrice": 13.989999,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:46.174Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9643-12572.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12572-large_default/camiseta-algodon-verano-nina-con-cuello-rosa.jpg",
+      "alt": "Camiseta algodón verano niña con cuello Rosa",
+      "sourceId": "12572",
+      "variantIds": [],
+      "sha256": "90ef7fe4a5bddb71b2663eca8571e3bf8928db903bd0635e74754c796dd6422a"
+    },
+    {
+      "path": "assets/9643-9217.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9217-large_default/camiseta-algodon-verano-nina-con-cuello-rosa.jpg",
+      "alt": "Camiseta algodón verano niña con cuello Rosa",
+      "sourceId": "9217",
+      "variantIds": [],
+      "sha256": "29bfa5811206526f64709364f458dc79f3f747bde4e6dd599d276d7159a1a15c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:46.290Z",
+  "issues": []
+}

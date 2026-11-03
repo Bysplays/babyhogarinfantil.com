@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "6777",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/6777-gorro-pique-lazo-rojo.html",
+  "name": "Gorro piqué lazo Rojo",
+  "brand": "Niseret",
+  "sku": "1703148",
+  "description": "Gorro de piqué con lazo de adorno en la parte delantera. Tiene goma en la parte trasera. Completamente forrado. La talla es el diámetro de la cabeza.",
+  "details": "Gorro de NISERET, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De piqué con lazo en la parte delantera y goma en la parte trasera, para un mejor ajuste. Completamente forrado en el interior. Un complemento perfecto para darle el toque final a los vestidos y conjuntos de tu peque, además de protegerla del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. \n\nComposición y cuidados:\n\nGorro: 55% algodón, 45% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro de <strong style=\"margin:0px;padding:0px;\">NISERET</strong>, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De piqué con lazo en la parte delantera y goma en la parte trasera, para un mejor ajuste. <strong style=\"margin:0px;padding:0px;\">Completamente forrado</strong> en el interior. Un complemento perfecto para darle el toque final a los vestidos y conjuntos de tu peque, además de <strong style=\"margin:0px;padding:0px;\">protegerla del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. </strong></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición y cuidados:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Gorro: 55% algodón, 45% poliéster</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><strong style=\"margin:0px;padding:0px;\">FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 15,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 9,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64307",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "1703148",
+      "productSku": "1703148",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:32.150Z"
+    },
+    {
+      "id": "64309",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "1703148",
+      "productSku": "1703148",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:34.620Z"
+    },
+    {
+      "id": "64310",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "1703148",
+      "productSku": "1703148",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:37.086Z"
+    },
+    {
+      "id": "64311",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "1703148",
+      "productSku": "1703148",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:38.888Z"
+    },
+    {
+      "id": "92693",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "1703148",
+      "productSku": "1703148",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:41.630Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6777-9768.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9768-large_default/gorro-pique-lazo-rojo.jpg",
+      "alt": "Gorro piqué lazo Rojo",
+      "sourceId": "9768",
+      "variantIds": [],
+      "sha256": "6772285054f043620917c7e7d9cf6d4d9206804dd1db37e59de4eb29182bc673"
+    },
+    {
+      "path": "assets/6777-9769.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9769-large_default/gorro-pique-lazo-rojo.jpg",
+      "alt": "Gorro piqué lazo Rojo",
+      "sourceId": "9769",
+      "variantIds": [],
+      "sha256": "69fd6382b19ddfcaeac8b4d65bd4aa740f05cdda5e325e18a817a451d3c069aa"
+    },
+    {
+      "path": "assets/6777-9770.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9770-large_default/gorro-pique-lazo-rojo.jpg",
+      "alt": "Gorro piqué lazo Rojo",
+      "sourceId": "9770",
+      "variantIds": [],
+      "sha256": "f4d9669b3ba2104154c8c6fd6b4f7ae1b10badb1dbfd0f5a8389651e6c5fe2f5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:41.831Z",
+  "issues": []
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "6212",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/6212-chaqueta-bebe-nino-carteras-verde.html",
+  "name": "Chaqueta Bebé niño Carteras Verde",
+  "brand": "Pecesa",
+  "sku": "995",
+  "description": "Sumérgete en la ternura con esta Chaqueta Carteras Verde para Bebé Niño. Perfecta para los días de invierno, esta prenda brinda calor y comodidad sin comprometer el estilo. Con materiales de primera calidad, garantiza durabilidad y resistencia a la vez que mantiene a tu bebé abrigado y a la moda. ¡Haz que tu pequeño destaque con un estilo sofisticado! No sólo es una chaqueta, además, es la forma de expresar amor y cuidado hacia ese ser tan especial.",
+  "details": "Delicadeza y Calidez\n\n\nExperimente la bondad táctil y delicada de la Chaqueta Bebé niño Carteras Verde a cada momento. Fabricada con materiales de primera calidad, garantiza suavidad y cuidado en la piel sensible del bebé. Las palabras no pueden capturar completamente el tacto suave y confortable de esta prenda indispensable.\n\n\n\nModerna e Ideal\n\n\nLos más pequeños merecen destacar con un estilo moderno. Nuestra Chaqueta Bebé niño Carteras Verde se caracteriza por su diseño chic y colorido, perfecto para llenar de estilo los días más fríos. Con esta prenda, cada momento se convierte en una oportunidad para lucir adorable y a la moda.\n\n\n\nDurabilidad y Confiabilidad\n\n\nNuestra Chaqueta Bebé niño Carteras Verde es sinónimo de resistencia. Confeccionada con materiales que resisten el desgaste diario y los lavados frecuentes, es una inversión inteligente para el armario del pequeño. No sólo ofrece comodidad de uso, sino que garantiza durabilidad y larga vida útil.\n\n\n\n\nNo espere más para brindarle a los pequeños lo más chic y duradero de la moda infantil. Haga clic en \"comprar ahora\" y trae calidez y estilo a casa con la Chaqueta Bebé niño Carteras Verde.",
+  "sourceDescriptionHtml": "<h2>Delicadeza y Calidez</h2>\n<p>\nExperimente la bondad táctil y delicada de la Chaqueta Bebé niño Carteras Verde a cada momento. Fabricada con materiales de primera calidad, garantiza suavidad y cuidado en la piel sensible del bebé. Las palabras no pueden capturar completamente el tacto suave y confortable de esta prenda indispensable.\n</p>\n\n<h2>Moderna e Ideal</h2>\n<p>\nLos más pequeños merecen destacar con un estilo moderno. Nuestra Chaqueta Bebé niño Carteras Verde se caracteriza por su diseño chic y colorido, perfecto para llenar de estilo los días más fríos. Con esta prenda, cada momento se convierte en una oportunidad para lucir adorable y a la moda.\n</p>\n\n<h2>Durabilidad y Confiabilidad</h2>\n<p>\nNuestra Chaqueta Bebé niño Carteras Verde es sinónimo de resistencia. Confeccionada con materiales que resisten el desgaste diario y los lavados frecuentes, es una inversión inteligente para el armario del pequeño. No sólo ofrece comodidad de uso, sino que garantiza durabilidad y larga vida útil.\n</p>\n\n<p>\n<b>No espere más para brindarle a los pequeños lo más chic y duradero de la moda infantil. Haga clic en \"comprar ahora\" y trae calidez y estilo a casa con la Chaqueta Bebé niño Carteras Verde.</b>\n</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 24.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62900",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "995",
+      "productSku": "995",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:23.591Z"
+    },
+    {
+      "id": "62901",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "995",
+      "productSku": "995",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:25.585Z"
+    },
+    {
+      "id": "62904",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "995",
+      "productSku": "995",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:27.252Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6212-4124.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4124-large_default/chaqueta-bebe-nino-carteras-verde.jpg",
+      "alt": "Chaqueta Bebé niño Carteras Verde",
+      "sourceId": "4124",
+      "variantIds": [],
+      "sha256": "58cf7092f0d6dabdff0836c6527c0b8d38e63df77f2663b9b8c97fa16da527e1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:27.342Z",
+  "issues": []
+}

@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 1,
+  "id": "21209",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/21209-gorro-lazo-blanco.html",
+  "name": "Gorro lazo Blanco",
+  "brand": "Zippy",
+  "sku": "1904258",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-16 23:53:05",
+  "sourceUpdatedAt": "2026-10-27 11:10:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146234",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "6604XA11008",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:57.327Z"
+    },
+    {
+      "id": "146235",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "6604XB11008",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:58.827Z"
+    },
+    {
+      "id": "146236",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "6604XC11008",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:00.449Z"
+    },
+    {
+      "id": "146237",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "6604XD11008",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:02.187Z"
+    },
+    {
+      "id": "146238",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "6604XE11008",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:03.830Z"
+    },
+    {
+      "id": "146239",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "6604XF11008",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:06.190Z"
+    },
+    {
+      "id": "146240",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "6604XG11008",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:08.307Z"
+    },
+    {
+      "id": "146241",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "6604XH11008",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:10.813Z"
+    },
+    {
+      "id": "146242",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "6604XI11008",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:13.000Z"
+    },
+    {
+      "id": "146243",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "6604XJ11008",
+      "productSku": "1904258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:14.558Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:14.558Z",
+  "issues": [
+    "No verified images"
+  ]
+}

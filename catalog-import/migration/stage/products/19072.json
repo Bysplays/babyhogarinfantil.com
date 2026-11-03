@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "id": "19072",
+  "sourceUrl": "https://babyhogarinfantil.com/manoplas-y-guantes/19072-guante-tricot-gris.html",
+  "name": "Guante tricot Gris",
+  "brand": "Mayoral",
+  "sku": "2402277",
+  "description": "Guantes de punto unixes.",
+  "details": "Composición:\n\nGuantes: 50% Viscosa 30% Poliéster 20% Poliamida",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Guantes: </strong>50% Viscosa 30% Poliéster 20% Poliamida</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "709"
+  ],
+  "sourceDefaultCategoryId": "709",
+  "sourceCategoryName": "Manoplas y guantes",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-11-14 08:34:12",
+  "sourceUpdatedAt": "2026-10-27 11:13:57",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149309",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "12407XA18989",
+      "productSku": "2402277",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:08.633Z"
+    },
+    {
+      "id": "149310",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "12407XB18989",
+      "productSku": "2402277",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:10.237Z"
+    },
+    {
+      "id": "149311",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "12407XC18989",
+      "productSku": "2402277",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:11.683Z"
+    },
+    {
+      "id": "149312",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "12407XD18989",
+      "productSku": "2402277",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:13.376Z"
+    },
+    {
+      "id": "149313",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "12407XE18989",
+      "productSku": "2402277",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:15.020Z"
+    },
+    {
+      "id": "149314",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "12407XF18989",
+      "productSku": "2402277",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:17.263Z"
+    },
+    {
+      "id": "149315",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "12407XG18989",
+      "productSku": "2402277",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:18.999Z"
+    },
+    {
+      "id": "149316",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "12407XH18989",
+      "productSku": "2402277",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:20.827Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19072-20245.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20245-large_default/guante-tricot-gris.jpg",
+      "alt": "Guante tricot Gris",
+      "sourceId": "20245",
+      "variantIds": [],
+      "sha256": "139971ab79cdf9ef2c9b8f67d9fe2ef2108a401fc9e5e34e0cbada58eb3b6a3e"
+    },
+    {
+      "path": "assets/19072-20246.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20246-large_default/guante-tricot-gris.jpg",
+      "alt": "Guante tricot Gris",
+      "sourceId": "20246",
+      "variantIds": [],
+      "sha256": "0b7c7d7a0b16d3dfd7d5f9f0897e5d7761b772e2b62e2a3b6f0ebe77165c290d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:20.974Z",
+  "issues": []
+}

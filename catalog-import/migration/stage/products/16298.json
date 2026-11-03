@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "16298",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nino/16298-gorra-vichy-teo-rojo.html",
+  "name": "Gorra Vichy TEO Rojo",
+  "brand": "Marco Polo",
+  "sku": "2304027",
+  "description": "Explora la sofisticación en miniatura con la Gorra Vichy TEO Rojo. Una elección audaz y atrevida para su pequeño, combina estilo clásico con una dosis refrescante de color rojo. Confeccionada en un estampado vichy juguetón, esta gorra es perfecta para días de sol y diversión al aire libre. Mantén a salvo a tu pequeño de los rayos dañinos del sol mientras le brindas una envoltura de comodidad y estilo inigualable. Agrega un toque de encanto de lujo al guardarropa de tu pequeño con esta Gorra TEO. Deja que tu pequeño robe todas las miradas. ¡Hagan sus compras ahora!",
+  "details": "Fascinación en la moda infantil\n\nCon la Gorra Vichy TEO Rojo, los más pequeños se destacarán entre la multitud con un estilo inigualable. La calidad superior se combina con la funcionalidad y el confort en este accesorio de moda, pensado para la delicada piel infantil, mientras que el diseño a cuadros rojo vichy le da un toque actual y audaz.\n\nPara todas las estaciones\n\nCreada para todas las estaciones, esta gorra garantiza una comodidad duradera y una protección eficaz contra los elementos naturales. El material transpirable mantiene a los niños frescos bajo el sol de verano, mientras que el diseño completo protege la tierna piel y cabello de los fríos vientos invernales.\n\nGarantía de durabilidad\n\nGracias a los materiales de alta calidad y a la elaborada confección, la Gorra Vichy TEO Rojo ofrece una durabilidad superior, permitiendo a los niños jugar y correr con total libertad sin tener que preocuparse por posibles desgastes. La versatilidad de este accesorio convierte cualquier atuendo en una declaración de moda.\n\n¡Ilumina el guardarropa infantil y haz sentir a los pequeños a la última moda! Elija hoy la Gorra Vichy TEO Rojo!\n\nComposición:\n\nExterior: 65% algodón, 35% poliester.\n\nForro: 100% algodón.",
+  "sourceDescriptionHtml": "<p></p>\n<h2>Fascinación en la moda infantil</h2>\n<p>Con la Gorra Vichy TEO Rojo, los más pequeños se destacarán entre la multitud con un estilo inigualable. La calidad superior se combina con la funcionalidad y el confort en este accesorio de moda, pensado para la delicada piel infantil, mientras que el diseño a cuadros rojo vichy le da un toque actual y audaz.</p>\n<h2>Para todas las estaciones</h2>\n<p>Creada para todas las estaciones, esta gorra garantiza una comodidad duradera y una protección eficaz contra los elementos naturales. El material transpirable mantiene a los niños frescos bajo el sol de verano, mientras que el diseño completo protege la tierna piel y cabello de los fríos vientos invernales.</p>\n<h2>Garantía de durabilidad</h2>\n<p>Gracias a los materiales de alta calidad y a la elaborada confección, la Gorra Vichy TEO Rojo ofrece una durabilidad superior, permitiendo a los niños jugar y correr con total libertad sin tener que preocuparse por posibles desgastes. La versatilidad de este accesorio convierte cualquier atuendo en una declaración de moda.</p>\n<p><b>¡Ilumina el guardarropa infantil y haz sentir a los pequeños a la última moda! Elija hoy la Gorra Vichy TEO Rojo!</b></p>\n<p>Composición:</p>\n<p>Exterior: 65% algodón, 35% poliester.</p>\n<p>Forro: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "680",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "680",
+  "sourceCategoryName": "Gorras y viseras bebé y niño",
+  "price": 16,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-10 16:10:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72939",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "11301XB17411",
+      "productSku": "2304027",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:23.445Z"
+    },
+    {
+      "id": "148643",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11301XA17411",
+      "productSku": "2304027",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:26.330Z"
+    },
+    {
+      "id": "72940",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "11301XC17411",
+      "productSku": "2304027",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:29.351Z"
+    },
+    {
+      "id": "72941",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "11301XD17411",
+      "productSku": "2304027",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:32.030Z"
+    },
+    {
+      "id": "72942",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "11301XE17411",
+      "productSku": "2304027",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:34.459Z"
+    },
+    {
+      "id": "72943",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "11301XF17411",
+      "productSku": "2304027",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:37.431Z"
+    },
+    {
+      "id": "148644",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "11301XG17411",
+      "productSku": "2304027",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:39.633Z"
+    },
+    {
+      "id": "72945",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "11301XH17411",
+      "productSku": "2304027",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:42.111Z"
+    },
+    {
+      "id": "72946",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "11301XI17411",
+      "productSku": "2304027",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:44.806Z"
+    },
+    {
+      "id": "148645",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "11301XJ17411",
+      "productSku": "2304027",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:47.547Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16298-14021.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14021-large_default/gorra-vichy-teo-rojo.jpg",
+      "alt": "Gorra Vichy TEO Rojo",
+      "sourceId": "14021",
+      "variantIds": [],
+      "sha256": "2d38d61ab5322d58972204efdb8a03e5ac6e7974aebc4fe8c5e33257a6db9850"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:11:47.621Z",
+  "issues": []
+}

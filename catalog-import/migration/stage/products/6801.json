@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "6801",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/6801-body-camisa-bebe-manga-corta-rosa.html",
+  "name": "Body camisa bebé manga corta Rosa",
+  "brand": "Calamaro",
+  "sku": "1703259",
+  "description": "Bodie camisa todo en una pieza. Muy cómodo y práctico.\nSe desabrocha por delante y en la entrepierna.",
+  "details": "Composición:\n\n100% Algodón.\n\nNo usar secadora.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>100% Algodón.</p>\n<p>No usar secadora.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 14.96,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-27 11:09:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64361",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1703259",
+      "productSku": "1703259",
+      "taxRate": 21,
+      "price": 14.96,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:43.126Z"
+    },
+    {
+      "id": "64362",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1703259",
+      "productSku": "1703259",
+      "taxRate": 21,
+      "price": 14.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:45.172Z"
+    },
+    {
+      "id": "64364",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "1703259",
+      "productSku": "1703259",
+      "taxRate": 21,
+      "price": 14.96,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:47.125Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6801-4722.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4722-large_default/body-camisa-bebe-manga-corta-rosa.jpg",
+      "alt": "Body camisa bebé manga corta Rosa",
+      "sourceId": "4722",
+      "variantIds": [],
+      "sha256": "61f0fe708c8acf6d3da1438bce222e945b934b2ad94dc8fb516e77d7d2330790"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:47.162Z",
+  "issues": []
+}

@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "21488",
+  "sourceUrl": "https://babyhogarinfantil.com/chandal-bebe-nina/21488-chandal-capucha-bebe-nina-beige.html",
+  "name": "Chandal capucha bebé niña Beige",
+  "brand": "Yatsi",
+  "sku": "2502126",
+  "description": "Chandal para bebé niña. Dos piezas. Chaqueta con capucha y cremallera, interior de felpa pàra que sea cálodo. Pantalón con cinturilla de gomoa y bajos con elásticos. Con bolsillo funcionales.",
+  "details": "Composición:\n\nChaqueta: 60% algodón, 40% poliéster.\n\nPantalón: 60% algodón, 40% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 60% algodón, 40% poliéster.</p>\n<p>Pantalón: 60% algodón, 40% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "786",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "786",
+  "sourceCategoryName": "Chandal Bebé niña",
+  "price": 28,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96765",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502126",
+      "productSku": "2502126",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:50.460Z"
+    },
+    {
+      "id": "96766",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502126",
+      "productSku": "2502126",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:53.249Z"
+    },
+    {
+      "id": "96767",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502126",
+      "productSku": "2502126",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:55.452Z"
+    },
+    {
+      "id": "96769",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502126",
+      "productSku": "2502126",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:57.843Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21488-20050.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20050-large_default/chandal-capucha-bebe-nina-beige.jpg",
+      "alt": "Chandal capucha bebé niña Beige",
+      "sourceId": "20050",
+      "variantIds": [],
+      "sha256": "e4c42c2304565211fdbbf30a1eec39b9c217fd17d9eeb73ea03712a33bbb5e71"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:57.920Z",
+  "issues": []
+}

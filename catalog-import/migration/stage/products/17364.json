@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "17364",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/17364-conjunto-pantalon-corto-fajin-lino.html",
+  "name": "Conjunto pantalón corto fajin Lino",
+  "brand": "Mayoral",
+  "sku": "2401084",
+  "description": "Impresione con este estiloso Conjunto Pantalón Corto Fajín Lino para ceremonia, está hecho especialmente para los peques de la casa, muestra un diseño que combina la practicidad con el estilo. Se enamorará del suave y fresco lino, perfecto para disfrutar los días de verano. Los valientes exploradores amarán el pantalón corto y la banda que trae, que les permitirá moverse con facilidad en cada aventura. Este conjunto, no solo los hará lucir adorables, sino también les brindará comodidad durante todo el día. Ideal para ocasiones especiales o para un paseo casual, este conjuntito es la elección perfecta para ese pequeño caballero en crecimiento. Trae moda, calidad y confort a su pequeño mundo!",
+  "details": "Encantadora Elegancia Infantil\n\nAdorable y chic, el Conjunto para ceremonia Pantalón Corto Fajín Lino es una combinación perfecta de comodidad y estilo para las gemas más pequeñas de la casa. Hecho con la mayor calidad de lino, asegura comodidad mientras mantiene una apariencia elegante. Ideal para ocasiones especiales o para diario con un toque de encanto.\n\nCalidad y Comodidad\n\nEste conjunto está confeccionado con un lino de alta calidad que es suave al tacto y resiste el desgate normal. El pantalón corto es fácil de poner y quitar, su cintura ajustable con fajín da la posibilidad de que se ajuste a medida que crecen. Proporcionando una comodidad incomparable para los pequeños activos y enérgicos.\n\nUna Adición Perfecta al Guardarropa\n\nEste conjunto refleja una belleza y simplicidad atemporales, lo que lo convierte en una adición esencial al guardarropa infantil. Su diseño versátil facilita la combinación con diferentes accesorios y calzado. Ya sea para un evento especial o para un día de juego elegante, este Conjunto Pantalón Corto Fajin Lino será un punto de partida ideal para cualquier look.\n\nAñade este conjunto a su guardarropa hoy mismo para proporcionarle a los más pequeños una opción de vestimenta que es tan linda como cómoda. ¡Es hora de darle a su guardarropa el toque distintivo que se merece!",
+  "sourceDescriptionHtml": "<div>\n<h2>Encantadora Elegancia Infantil</h2>\n<p>Adorable y chic, el Conjunto para ceremonia Pantalón Corto Fajín Lino es una combinación perfecta de comodidad y estilo para las gemas más pequeñas de la casa. Hecho con la mayor calidad de lino, asegura comodidad mientras mantiene una apariencia elegante. Ideal para ocasiones especiales o para diario con un toque de encanto.</p>\n<h2>Calidad y Comodidad</h2>\n<p>Este conjunto está confeccionado con un lino de alta calidad que es suave al tacto y resiste el desgate normal. El pantalón corto es fácil de poner y quitar, su cintura ajustable con fajín da la posibilidad de que se ajuste a medida que crecen. Proporcionando una comodidad incomparable para los pequeños activos y enérgicos.</p>\n<h2>Una Adición Perfecta al Guardarropa</h2>\n<p>Este conjunto refleja una belleza y simplicidad atemporales, lo que lo convierte en una adición esencial al guardarropa infantil. Su diseño versátil facilita la combinación con diferentes accesorios y calzado. Ya sea para un evento especial o para un día de juego elegante, este Conjunto Pantalón Corto Fajin Lino será un punto de partida ideal para cualquier look.</p>\n<p>Añade este conjunto a su guardarropa hoy mismo para proporcionarle a los más pequeños una opción de vestimenta que es tan linda como cómoda. ¡Es hora de darle a su guardarropa el toque distintivo que se merece!</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2024",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 41.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-02-16 15:54:34",
+  "sourceUpdatedAt": "2026-10-27 11:13:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "82504",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2401084",
+      "productSku": "2401084",
+      "taxRate": 21,
+      "price": 41.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:26.202Z"
+    },
+    {
+      "id": "82505",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2401084",
+      "productSku": "2401084",
+      "taxRate": 21,
+      "price": 41.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:27.280Z"
+    },
+    {
+      "id": "82506",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2401084",
+      "productSku": "2401084",
+      "taxRate": 21,
+      "price": 41.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:28.111Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17364-14913.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14913-large_default/conjunto-pantalon-corto-fajin-lino.jpg",
+      "alt": "Conjunto pantalón corto fajin Lino",
+      "sourceId": "14913",
+      "variantIds": [],
+      "sha256": "a87cdea3393cb4643c0112768c31d6762ce4283d64db260323a21c85feee9b26"
+    },
+    {
+      "path": "assets/17364-14914.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14914-large_default/conjunto-pantalon-corto-fajin-lino.jpg",
+      "alt": "Conjunto pantalón corto fajin Lino",
+      "sourceId": "14914",
+      "variantIds": [],
+      "sha256": "d610b0a66d9a372d64cae680519b647631b8b8a0fb7f7ce0a337dd42d10eda25"
+    },
+    {
+      "path": "assets/17364-14915.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14915-large_default/conjunto-pantalon-corto-fajin-lino.jpg",
+      "alt": "Conjunto pantalón corto fajin Lino",
+      "sourceId": "14915",
+      "variantIds": [],
+      "sha256": "2822e53290343568cc6cef60f792e172eae9c75bfb38a75a8c6e885740f40a10"
+    },
+    {
+      "path": "assets/17364-14916.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14916-large_default/conjunto-pantalon-corto-fajin-lino.jpg",
+      "alt": "Conjunto pantalón corto fajin Lino",
+      "sourceId": "14916",
+      "variantIds": [],
+      "sha256": "b5d3c0744b21cb8c0a6334866a23a410aab1bd9779d2983b2654d50de7b850de"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:28.293Z",
+  "issues": []
+}

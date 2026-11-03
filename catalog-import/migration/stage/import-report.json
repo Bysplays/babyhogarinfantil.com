@@ -1,0 +1,17 @@
+{
+  "startedAt": "2026-10-27T19:51:39.880Z",
+  "detected": 1130,
+  "sourceEnumerationComplete": false,
+  "imported": 554,
+  "errors": [],
+  "incomplete": [
+    {
+      "id": "10121",
+      "issues": [
+        "No verified images"
+      ]
+    }
+  ],
+  "images": 1159,
+  "complete": false
+}

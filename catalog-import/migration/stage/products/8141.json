@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8141",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/8141-abrigo-bebe-verdu-verde.html",
+  "name": "Abrigo bebé Verdu Verde",
+  "brand": "Teresa Rodríguez",
+  "sku": "2002225",
+  "description": "Descubre una joya de moda infantil, el Abrigo bebé Verdu Verde. Una prenda que conjuga sofisticación y comodidad, perfecta para tu pequeña. Hecho de materiales delicados al tacto, este abrigo aportará calor y comodidad en los días más frescos. Su vibrante color verde la hace destacar, agregando un toque de alegría a cada día. No hay mejor manera de mantener su elegancia infantil mientras disfruta el mundo exterior. Su suavidad y diseño elegante hacen de este abrigo una elección amada tanto por los más pequeños como por los padres. Deja que tu pequeña marque la diferencia con el Abrigo bebé Verdu Verde.",
+  "details": "Envuelva a Su Bebé en Comodidad\n\nCálido, acogedor y adorable, el Abrigo Bebé Verdú Verde es una necesidad para cualquier madre consciente de la moda que quiera mantener a su pequeño cómodo y elegante. Hecho con materiales de alta calidad que son suaves al tacto, este abrigo proporciona el calor perfecto durante los meses más fríos.\n\n\nCalidad y Durabilidad\n\nEl Abrigo Bebé Verdú Verde no solo se distingue por su atractivo estético, sino también por su resistencia y durabilidad. Su diseño superior garantiza que podrá resistir el uso diario sin perder su elegancia y encanto. Este duradero abrigo se convertirá en una prenda imprescindible en el guardarropa de su bebé.\n\n\nElegancia y Estilo Singular\n\nCon su espléndido color verde y sus detalles bien pensados, este abrigo aporta un toque de elegancia y sofisticación al conjunto de cualquier bebé. Los pequeños botones y el cuello vuelto hacen que sea una pieza verdaderamente única, perfecta para cualquier ocasión. El Abrigo Bebé Verdú Verde es una prenda que destaca por su personalidad y su estilo singular.\n\n\nDescubra la diferencia que hace el Abrigo Bebé Verdú Verde. Permítanos ayudarle a dar estilo y confort a su bebé mientras disfruta de la satisfacción que ofrece una buena compra. ¡Nuestro equipo está listo para ayudarle a hacer ese pedido ahora!",
+  "sourceDescriptionHtml": "<h2>Envuelva a Su Bebé en Comodidad</h2>\n<p>Cálido, acogedor y adorable, el Abrigo Bebé Verdú Verde es una necesidad para cualquier madre consciente de la moda que quiera mantener a su pequeño cómodo y elegante. Hecho con materiales de alta calidad que son suaves al tacto, este abrigo proporciona el calor perfecto durante los meses más fríos.</p>\n\n<h2>Calidad y Durabilidad</h2>\n<p>El Abrigo Bebé Verdú Verde no solo se distingue por su atractivo estético, sino también por su resistencia y durabilidad. Su diseño superior garantiza que podrá resistir el uso diario sin perder su elegancia y encanto. Este duradero abrigo se convertirá en una prenda imprescindible en el guardarropa de su bebé.</p>\n\n<h2>Elegancia y Estilo Singular</h2>\n<p>Con su espléndido color verde y sus detalles bien pensados, este abrigo aporta un toque de elegancia y sofisticación al conjunto de cualquier bebé. Los pequeños botones y el cuello vuelto hacen que sea una pieza verdaderamente única, perfecta para cualquier ocasión. El Abrigo Bebé Verdú Verde es una prenda que destaca por su personalidad y su estilo singular.</p>\n\n<p>Descubra la diferencia que hace el Abrigo Bebé Verdú Verde. Permítanos ayudarle a dar estilo y confort a su bebé mientras disfruta de la satisfacción que ofrece una buena compra. ¡Nuestro equipo está listo para ayudarle a hacer ese pedido ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 49.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:33",
+  "sourceUpdatedAt": "2026-10-27 11:10:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67110",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2002225",
+      "productSku": "2002225",
+      "taxRate": 21,
+      "price": 49.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:15.912Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8141-10913.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10913-large_default/abrigo-bebe-verdu-verde.jpg",
+      "alt": "Abrigo bebé Verdu Verde",
+      "sourceId": "10913",
+      "variantIds": [],
+      "sha256": "f532f3d26c62d565fd7a53880aa556e1ecd85cd769b5b2ff8ce0b7bc6a66deb7"
+    },
+    {
+      "path": "assets/8141-10912.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10912-large_default/abrigo-bebe-verdu-verde.jpg",
+      "alt": "Abrigo bebé Verdu Verde",
+      "sourceId": "10912",
+      "variantIds": [],
+      "sha256": "834d00a9aef6a2a2a9a870e133ff02261c529b9c9e4905df001019bc1237cad5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:16.073Z",
+  "issues": []
+}

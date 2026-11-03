@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10262",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/10262-conjunto-algodon-ranita-volantes-verde.html",
+  "name": "Conjunto algodon ranita volantes Verde",
+  "brand": "Alber",
+  "sku": "2301026",
+  "description": "Conjunto de dos piezas, compuesto por camiseta de manga corta con cierre trasero de botones y espalda ligeramente abierta, en color blanco con estampado y ranita verde agua estampada con volantes y goma en cintura y perneras. Disponible conjunto para bebé niño y vestido infantil a juego. NO INCLUYE DIADEMA.",
+  "details": "Conjunto de dos piezas de ALBER, firma familiar, fabricantes y proveedores de ropa infantil con más de 60 años de experiencia, con fabricación española, de Albatera (Alicante) para el mundo. Compuesto por camiseta de manga corta de volantes y cuello redondo, y cierre trasero con botones y espalda ligeramente abierta. En color blanco, con estampado de animalitos en el pecho. Como parte de abajo, ranita verde agua estampada, con volantes y goma en cintura y perneras. Un conjunto cómodo, fresquito y muy dulce, ideal para las más peques! Echa un ojito a nuestros bodies interiores, sandalias y gorritos para el sol y podrás completarlo como más te guste! Disponible conjunto para bebé niño y vestido a juego. NO INCLUYE DIADEMA. \n\nComposición y cuidados:\n\nConjunto: 90% algodón, 10% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas de <strong>ALBER</strong>, firma familiar, fabricantes y proveedores de ropa infantil con más de 60 años de experiencia, con fabricación española, de Albatera (Alicante) para el mundo. Compuesto por camiseta de manga corta de volantes y cuello redondo, y cierre trasero con botones y <strong>espalda ligeramente abierta</strong>. En color blanco, con estampado de animalitos en el pecho. Como parte de abajo, ranita verde agua estampada, <strong>con volantes</strong> y goma en cintura y perneras. Un conjunto cómodo, fresquito y muy dulce, ideal para las más peques! Echa un ojito a nuestros<strong> bodies interiores, sandalias y gorritos para el sol</strong> y podrás completarlo como más te guste! <strong>Disponible conjunto para bebé niño y vestido a juego. NO INCLUYE DIADEMA. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Conjunto: 90% algodón, 10% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71340",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301026",
+      "productSku": "2301026",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:36.719Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10262-8217.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8217-large_default/conjunto-algodon-ranita-volantes-verde.jpg",
+      "alt": "Conjunto algodon ranita volantes Verde",
+      "sourceId": "8217",
+      "variantIds": [],
+      "sha256": "bf2d09b18b71c8202f2a7deb2258be3f300f492fdac098d150c8620b81de6acc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:36.760Z",
+  "issues": []
+}

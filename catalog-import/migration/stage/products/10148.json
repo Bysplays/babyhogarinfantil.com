@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "10148",
+  "sourceUrl": "https://babyhogarinfantil.com/batas-nina/10148-bata-nina-gatito-gris.html",
+  "name": "Bata niña gatito Gris",
+  "brand": "Talaman",
+  "sku": "2208265",
+  "description": "Bata de invierno en color gris con gatito estampado, cierre de botones y cinturón",
+  "details": "Composición y cuidados:\n\nBata: 100% poliéster.\n\nLAVAR A MÁQUINA MÁXIMO 30 ºC recomendado\n\nNO USAR LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Bata: 100% poliéster.</p>\n<p>LAVAR A MÁQUINA MÁXIMO 30 ºC recomendado</p>\n<p>NO USAR LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776",
+    "897"
+  ],
+  "sourceDefaultCategoryId": "897",
+  "sourceCategoryName": "Batas niña",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:58",
+  "sourceUpdatedAt": "2026-10-27 11:12:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71034",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2208265",
+      "productSku": "2208265",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:06.733Z"
+    },
+    {
+      "id": "71036",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2208265",
+      "productSku": "2208265",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:10.469Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10148-8156.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8156-large_default/bata-nina-gatito-gris.jpg",
+      "alt": "Bata niña gatito Gris",
+      "sourceId": "8156",
+      "variantIds": [],
+      "sha256": "4e39e02049afbe2a605325b6d315b6dea16bc5e6c83ec5afc11a324713752a89"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:10.548Z",
+  "issues": []
+}

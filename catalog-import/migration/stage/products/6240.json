@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "id": "6240",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6240-leotardo-punto-liso-lino.html",
+  "name": "Leotardo punto liso Lino",
+  "brand": "Condor",
+  "sku": "1017",
+  "description": "Leotardos color LINO de algodón lisos en muchos colores. \nDisponibles en tallas de 0-3 meses a 16 años.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los primeros meses de tu bebé, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que el bebé se mueva con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. HECHO EN ESPAÑA\n\n \n\n \n\nComposición y cuidados:\n\n\nLeotardos: 75% algodón, 22% poliamida, 3% elastano.\n\nNO USAR LEJIAS.\n\nNO USAR SECADORA.\n\nNO PLANCHAR.\n\nNO LAVAR EN SECO. \n\n75% ALGODON 22% POLIAMIDA 3% ELASTANO",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los primeros meses de tu bebé, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que el bebé se mueva con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. <strong><span style=\"text-decoration:underline;\">HECHO EN ESPAÑA</span></strong></p>\n<p><strong><span style=\"text-decoration:underline;\"> </span></strong></p>\n<p> </p>\n<p>Composición y cuidados:<strong><span style=\"text-decoration:underline;\"><br /></span></strong></p>\n<p>Leotardos: 75% algodón, 22% poliamida, 3% elastano.</p>\n<p>NO USAR LEJIAS.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO PLANCHAR.</p>\n<p>NO LAVAR EN SECO. </p>\n<p>75% ALGODON 22% POLIAMIDA 3% ELASTANO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14.21,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 10,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100319",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "909XC1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:35.153Z"
+    },
+    {
+      "id": "144268",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "909XA1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:38.209Z"
+    },
+    {
+      "id": "144269",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "909XB1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:40.684Z"
+    },
+    {
+      "id": "144270",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "909XD1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:43.811Z"
+    },
+    {
+      "id": "98512",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "909XE1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:46.766Z"
+    },
+    {
+      "id": "144271",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "909XF1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:49.726Z"
+    },
+    {
+      "id": "89536",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "909XG1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:54.832Z"
+    },
+    {
+      "id": "98513",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "909XH1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:58.030Z"
+    },
+    {
+      "id": "96300",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "909XI1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:27:00.511Z"
+    },
+    {
+      "id": "144272",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "909XJ1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:27:03.208Z"
+    },
+    {
+      "id": "63010",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "909XK1657",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 19.81,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:27:06.300Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6240-4171.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4171-large_default/leotardo-punto-liso-lino.jpg",
+      "alt": "Leotardo punto liso Lino",
+      "sourceId": "4171",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6240-4170.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4170-large_default/leotardo-punto-liso-lino.jpg",
+      "alt": "Leotardo punto liso Lino",
+      "sourceId": "4170",
+      "variantIds": [],
+      "sha256": "60080b3f87efc08087bab96d075d02d9200914675563748af7584bb28b60db1d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:27:06.425Z",
+  "issues": []
+}

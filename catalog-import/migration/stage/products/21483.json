@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "21483",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals/21483-chandal-nina-con-2-pantalones-rosa-maquillaje.html",
+  "name": "Chandal niña con 2 pantalones Rosa Maquillaje",
+  "brand": "Mayoral",
+  "sku": "2502121",
+  "description": "Conjunto de chandal compuesto de una chaqueta y dos pantalones. Los pnatalones uno de pierna ancha y el otro con bajo elástico.",
+  "details": "COMPOSICIÓN\n\nChaqueta:\n\n58% Algodón\n\n38% Poliéster\n\n4% Elastano\n\nPantalones:\n\n58% Algodón\n\n38% Poliéster\n\n4% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Chaqueta:</strong></p>\n<p>58% Algodón</p>\n<p>38% Poliéster</p>\n<p>4% Elastano</p>\n<p><strong>Pantalones:</strong><span style=\"font-size:15px;color:#101012;font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';background-color:#ffffff;\"></span><span style=\"color:#101012;font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';\"><span style=\"font-size:15px;\"></span></span></p>\n<p>58% Algodón</p>\n<p>38% Poliéster</p>\n<p>4% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa maquillaje",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "803"
+  ],
+  "sourceDefaultCategoryId": "803",
+  "sourceCategoryName": "Chandals",
+  "price": 45.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96738",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502121",
+      "productSku": "2502121",
+      "taxRate": 21,
+      "price": 45.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:11.365Z"
+    },
+    {
+      "id": "96740",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502121",
+      "productSku": "2502121",
+      "taxRate": 21,
+      "price": 45.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:14.421Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21483-20035.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20035-large_default/chandal-nina-con-2-pantalones-rosa-maquillaje.jpg",
+      "alt": "Chandal niña con 2 pantalones Rosa Maquillaje",
+      "sourceId": "20035",
+      "variantIds": [],
+      "sha256": "fe32f7759adc8eff21e1363721245b716444cee89ed11b2b2586b6b8be5089f8"
+    },
+    {
+      "path": "assets/21483-20036.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20036-large_default/chandal-nina-con-2-pantalones-rosa-maquillaje.jpg",
+      "alt": "Chandal niña con 2 pantalones Rosa Maquillaje",
+      "sourceId": "20036",
+      "variantIds": [],
+      "sha256": "ea6efdd00bd1afe7ffb73bc2ebcaaaf91cecf4e53948cdc650ec668e08da40a1"
+    },
+    {
+      "path": "assets/21483-20037.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20037-large_default/chandal-nina-con-2-pantalones-rosa-maquillaje.jpg",
+      "alt": "Chandal niña con 2 pantalones Rosa Maquillaje",
+      "sourceId": "20037",
+      "variantIds": [],
+      "sha256": "313e109640d99e0de1d9172aadfb51ba12f9020f409b4abb72356ffebd371c99"
+    },
+    {
+      "path": "assets/21483-20038.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20038-large_default/chandal-nina-con-2-pantalones-rosa-maquillaje.jpg",
+      "alt": "Chandal niña con 2 pantalones Rosa Maquillaje",
+      "sourceId": "20038",
+      "variantIds": [],
+      "sha256": "2954e1329afcfea6e5270296179738ca28636bfe1a1f4dd986f7d891fe67aa7e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:14.703Z",
+  "issues": []
+}

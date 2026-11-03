@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "6083",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/6083-camisita-bebe-manga-corta-blancorosa-emp.html",
+  "name": "Camisita bebé manga corta Blanco/Rosa emp",
+  "brand": "Yoedu",
+  "sku": "558",
+  "description": "Camisa batista manga corta con cuello de piquillo en tono rosa empolvado. Se abre completamente por la espalda con botones.",
+  "details": "Composición y cuidados: \n\nCamisa: 65% poliéster, 35% algodón.\n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados: </p>\n<p>Camisa: 65% poliéster, 35% algodón.</p>\n<p><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><strong><span lang=\"es\" xml:lang=\"es\">HECHO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2016",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco/Rosa emp",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 6.73,
+  "oldPrice": 13.4552,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62365",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "558",
+      "productSku": "558",
+      "taxRate": 21,
+      "price": 6.73,
+      "oldPrice": 13.4552,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:43.305Z"
+    },
+    {
+      "id": "62366",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "558",
+      "productSku": "558",
+      "taxRate": 21,
+      "price": 6.73,
+      "oldPrice": 13.4552,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:45.662Z"
+    },
+    {
+      "id": "62367",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "558",
+      "productSku": "558",
+      "taxRate": 21,
+      "price": 6.73,
+      "oldPrice": 13.4552,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:48.338Z"
+    },
+    {
+      "id": "62368",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "558",
+      "productSku": "558",
+      "taxRate": 21,
+      "price": 6.73,
+      "oldPrice": 13.4552,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:51.473Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6083-3934.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3934-large_default/camisita-bebe-manga-corta-blancorosa-emp.jpg",
+      "alt": "Camisita bebé manga corta Blanco/Rosa emp",
+      "sourceId": "3934",
+      "variantIds": [],
+      "sha256": "8dc7dd15eb94e3a59b31a763246cef4caf0f65fe71e6909804f25be7943b89b1"
+    },
+    {
+      "path": "assets/6083-3933.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3933-large_default/camisita-bebe-manga-corta-blancorosa-emp.jpg",
+      "alt": "Camisita bebé manga corta Blanco/Rosa emp",
+      "sourceId": "3933",
+      "variantIds": [],
+      "sha256": "f58ea26eaadcf2d47efd3db5f7b1f02f494475edd5e0527fcda134b513ad47ba"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:51.596Z",
+  "issues": []
+}

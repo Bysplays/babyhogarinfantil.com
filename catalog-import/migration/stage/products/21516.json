@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "21516",
+  "sourceUrl": "https://babyhogarinfantil.com/chandal-bebe-nino/21516-chandal-con-capucha-y-cremallera-azul.html",
+  "name": "Chandal con capucha y cremallera Azul",
+  "brand": "Yatsi",
+  "sku": "2502153",
+  "description": "Chandal de invierno para bebé. Sudadera con cremallera y capucha, y pantalón con cintura de goma y cordón ajustable, con bolsillos funcionales. Tiene felpa interior para que sea cálido.\n\nLas letras NATURE son en relieve.",
+  "details": "Composición:\n\nChandal: 60% algodón, 40% poléster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Chandal</strong>: 60% algodón, 40% poléster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "787",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "787",
+  "sourceCategoryName": "Chandal bebé niño",
+  "price": 28,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:09",
+  "sourceUpdatedAt": "2026-10-27 11:14:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96913",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502153",
+      "productSku": "2502153",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:28.979Z"
+    },
+    {
+      "id": "96914",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502153",
+      "productSku": "2502153",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:29.931Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21516-20127.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20127-large_default/chandal-con-capucha-y-cremallera-azul.jpg",
+      "alt": "Chandal con capucha y cremallera Azul",
+      "sourceId": "20127",
+      "variantIds": [],
+      "sha256": "36d2ef2759b3575966fb3ed74e2ed2a885011e86c62a819bdb0dd1a88640c882"
+    },
+    {
+      "path": "assets/21516-20128.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20128-large_default/chandal-con-capucha-y-cremallera-azul.jpg",
+      "alt": "Chandal con capucha y cremallera Azul",
+      "sourceId": "20128",
+      "variantIds": [],
+      "sha256": "0cb185a1d38d993e0d2fb0538475dbb329b68138eab05ffc5fbe1f64c084d479"
+    },
+    {
+      "path": "assets/21516-20129.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20129-large_default/chandal-con-capucha-y-cremallera-azul.jpg",
+      "alt": "Chandal con capucha y cremallera Azul",
+      "sourceId": "20129",
+      "variantIds": [],
+      "sha256": "a74925742059590f9aee05481775c8ca997364f9f3e7b6d46ce0a9a4f7a78f09"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:30.138Z",
+  "issues": []
+}

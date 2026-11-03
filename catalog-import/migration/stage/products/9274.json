@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "id": "9274",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/9274-pantalon-largo-algodon-verano-varios.html",
+  "name": "Pantalon largo algodon verano Varios",
+  "brand": "Zippy",
+  "sku": "2111072",
+  "description": "Pantalón de algodón en color gris claro jaspeado estampado con animales. Canalé elástico en la cintura con cordón ajustable, y en los puños. Tiene bolsillos.",
+  "details": "Pantalón de algodón de ZIPPY, una de nuestras firmas preferidas! En color gris claro jaspeado con estampado de animales y motivos del desierto! Con canalé elástico en la cintura y cordón ajustable, y en los puños de las perneras. Tiene bolsillos. Sin felpa interior. Una prenda cómoda, de tacto suave y ligero, ideal para un look desenfadado! Echa un ojito a nuestras camisetas, sudaderas y calzado y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nPantalón: 98% algodón, 2% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pantalón de algodón de <strong>ZIPPY</strong>, una de nuestras firmas preferidas! En color gris claro jaspeado con <strong>estampado de animales</strong> y motivos del desierto! Con canalé elástico en la cintura y <strong>cordón ajustable</strong>, y en los puños de las perneras. Tiene bolsillos.<strong> Sin felpa interior</strong>. Una prenda cómoda, de tacto suave y ligero, ideal para un look desenfadado! Echa un ojito a nuestras<strong> camisetas, sudaderas y calzado</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 98% algodón, 2% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95565",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "9791XF15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:02.088Z"
+    },
+    {
+      "id": "147413",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "9791XA15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:04.287Z"
+    },
+    {
+      "id": "147414",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "9791XB15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:06.416Z"
+    },
+    {
+      "id": "147415",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "9791XC15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:07.992Z"
+    },
+    {
+      "id": "147416",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "9791XD15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:09.904Z"
+    },
+    {
+      "id": "147417",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "9791XE15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:11.727Z"
+    },
+    {
+      "id": "147418",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "9791XG15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:13.560Z"
+    },
+    {
+      "id": "147419",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "9791XH15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:16.929Z"
+    },
+    {
+      "id": "147420",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "9791XI15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:19.018Z"
+    },
+    {
+      "id": "147421",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "9791XJ15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:22.204Z"
+    },
+    {
+      "id": "147422",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "9791XK15360",
+      "productSku": "2111072",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:25.366Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9274-7518.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7518-large_default/pantalon-largo-algodon-verano-varios.jpg",
+      "alt": "Pantalon largo algodon verano Varios",
+      "sourceId": "7518",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9274-12147.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12147-large_default/pantalon-largo-algodon-verano-varios.jpg",
+      "alt": "Pantalon largo algodon verano Varios",
+      "sourceId": "12147",
+      "variantIds": [],
+      "sha256": "73ae458afe86f3ae3913ed3fe384cb8bc18957f466e775da2936ca9d1d62f119"
+    },
+    {
+      "path": "assets/9274-8436.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8436-large_default/pantalon-largo-algodon-verano-varios.jpg",
+      "alt": "Pantalon largo algodon verano Varios",
+      "sourceId": "8436",
+      "variantIds": [],
+      "sha256": "11d286124fb5a96606621244269782956bc4d2c1e9937717b4b6325ed61d8e47"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:25.629Z",
+  "issues": []
+}

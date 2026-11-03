@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "id": "7477",
+  "sourceUrl": "https://babyhogarinfantil.com/jerseys-y-chaquetas-escolares/7477-chaqueta-colegial-acrilico-azul-marino.html",
+  "name": "Chaqueta colegial acrilico Azul marino",
+  "brand": "Pecesa",
+  "sku": "1810038",
+  "description": "Chaqueta lisa azul marino para uniforme de colegio. 100% acrílico NO PICA.\n\nHECHO EN ESPAÑA.",
+  "details": "Composición:\n\nChaqueta: 100% acrílico.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 100% acrílico.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "683",
+    "888"
+  ],
+  "sourceDefaultCategoryId": "683",
+  "sourceCategoryName": "Jerseys y chaquetas escolares",
+  "price": 28.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:25",
+  "sourceUpdatedAt": "2026-10-27 11:10:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "313",
+          "label": "16(S)"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65806",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "5765XB14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:25.678Z"
+    },
+    {
+      "id": "145858",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "5765XA14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:27.240Z"
+    },
+    {
+      "id": "65807",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "5765XC14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:28.530Z"
+    },
+    {
+      "id": "96274",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "5765XD14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:29.841Z"
+    },
+    {
+      "id": "96275",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "5765XE14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:31.254Z"
+    },
+    {
+      "id": "95769",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "5765XF14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 32.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:32.666Z"
+    },
+    {
+      "id": "65810",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "5765XG14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 32.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:34.605Z"
+    },
+    {
+      "id": "96276",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "313",
+          "group": "Tamaño",
+          "value": "16(S)"
+        }
+      ],
+      "sku": "5765XH14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 32.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:36.225Z"
+    },
+    {
+      "id": "145859",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "5765XI14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:37.919Z"
+    },
+    {
+      "id": "145860",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "5765XJ14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:39.374Z"
+    },
+    {
+      "id": "145861",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "5765XK14199",
+      "productSku": "1810038",
+      "taxRate": 21,
+      "price": 28.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:40.957Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7477-5392.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5392-large_default/chaqueta-colegial-acrilico-azul-marino.jpg",
+      "alt": "Chaqueta colegial acrilico Azul marino",
+      "sourceId": "5392",
+      "variantIds": [],
+      "sha256": "b065862b52ad9e0cf672e4d1895ca7e3deec17de8c1c1a10180f7da17ae4af1d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:41.038Z",
+  "issues": []
+}

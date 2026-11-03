@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "6769",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/6769-pantalon-corto-algodon-gris.html",
+  "name": "Pantalón corto algodón Gris",
+  "brand": "Chicco",
+  "sku": "1703082",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2017",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 4.45,
+  "oldPrice": 8.9056,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-27 11:09:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64285",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "1703082",
+      "productSku": "1703082",
+      "taxRate": 21,
+      "price": 4.45,
+      "oldPrice": 8.9056,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:05.700Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6769-4701.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4701-large_default/pantalon-corto-algodon-gris.jpg",
+      "alt": "Pantalón corto algodón Gris",
+      "sourceId": "4701",
+      "variantIds": [],
+      "sha256": "0f27ec4775636f741ac06f1f341c1175af238f5e99c04ab0dbc05c7110826eb7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:05.756Z",
+  "issues": []
+}

@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "21519",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals-nino/21519-chandal-con-capucha-naranja.html",
+  "name": "Chandal con capucha Naranja",
+  "brand": "Yatsi",
+  "sku": "2502156",
+  "description": "Chandal de 2 piezas compuesto por: sudadera con capucha y bolsillo kanguro, pantalón largo con cintura de goma y cordón ajustable, bajos con elásticos. Todo el chandal tiene felpa interior para que sea cálido en el invierno.",
+  "details": "Composición:\n\nChandal: 60% algodón, 40% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Chandal:</strong> 60% algodón, 40% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Naranja",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "798"
+  ],
+  "sourceDefaultCategoryId": "798",
+  "sourceCategoryName": "Chandals niño",
+  "price": 34,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:09",
+  "sourceUpdatedAt": "2026-10-27 11:14:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96928",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502156",
+      "productSku": "2502156",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:16.560Z"
+    },
+    {
+      "id": "96929",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502156",
+      "productSku": "2502156",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:17.938Z"
+    },
+    {
+      "id": "96931",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502156",
+      "productSku": "2502156",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:19.326Z"
+    },
+    {
+      "id": "96932",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2502156",
+      "productSku": "2502156",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:20.920Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21519-20137.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20137-large_default/chandal-con-capucha-naranja.jpg",
+      "alt": "Chandal con capucha Naranja",
+      "sourceId": "20137",
+      "variantIds": [],
+      "sha256": "ccefbf7f842fc90b03ca2e75ba3193f5bd8b609300e9c9ef68d8865f0e029ea6"
+    },
+    {
+      "path": "assets/21519-20138.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20138-large_default/chandal-con-capucha-naranja.jpg",
+      "alt": "Chandal con capucha Naranja",
+      "sourceId": "20138",
+      "variantIds": [],
+      "sha256": "31550600496dbbf33714102dc1157d2808e1c4587f6be6c40c0fca9033884f95"
+    },
+    {
+      "path": "assets/21519-20139.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20139-large_default/chandal-con-capucha-naranja.jpg",
+      "alt": "Chandal con capucha Naranja",
+      "sourceId": "20139",
+      "variantIds": [],
+      "sha256": "6883a93b0f6071beeab785e0397483628d5823770a2d5eab92ddca329422b426"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:21.129Z",
+  "issues": []
+}

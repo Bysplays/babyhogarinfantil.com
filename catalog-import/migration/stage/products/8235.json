@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "8235",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/8235-pijama-dogs-azul.html",
+  "name": "Pijama Dogs Azul",
+  "brand": "Talaman",
+  "sku": "2005103",
+  "description": "Pijama entero de algodón fino. Se abre completamente por delante.",
+  "details": "Composición y cuidados:\n\nPijama: 100% algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pijama: 100% algodón.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2020",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 0,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:34",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [],
+  "variants": [
+    {
+      "id": "67257",
+      "attributes": [],
+      "sku": "2005103",
+      "productSku": "2005103",
+      "taxRate": 21,
+      "price": 0,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:21.276Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8235-6523.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6523-large_default/pijama-dogs-azul.jpg",
+      "alt": "Pijama Dogs Azul",
+      "sourceId": "6523",
+      "variantIds": [],
+      "sha256": "2ffe1880c90c70eec1c8181ae8d05e4e4f7a769134d206e81cfc7374f9fd3729"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:21.346Z",
+  "issues": []
+}

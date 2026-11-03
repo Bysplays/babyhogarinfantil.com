@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "id": "6838",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-labor-vigo/6838-falda-escolar-cuadros-con-tirantes-granate.html",
+  "name": "Falda escolar cuadros con tirantes Granate",
+  "brand": "Ayapunt",
+  "sku": "1704122",
+  "description": "Falda con trabillas. Plisada por detrás y lisa por delante. Con tirantes hasta la talla 10. Cintura ajustable. Recuerda revisar, calcetines, zapatos y tenis.",
+  "details": "Composición\n\n45% Lana\n\n55% Poliester.\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición</p>\n<p>45% Lana</p>\n<p>55% Poliester.</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Granate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "809",
+    "684"
+  ],
+  "sourceDefaultCategoryId": "684",
+  "sourceCategoryName": "Colegio Labor Vigo",
+  "price": 49.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:17",
+  "sourceUpdatedAt": "2026-10-27 11:09:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 16,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64536",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "3692XE6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:59.956Z"
+    },
+    {
+      "id": "145362",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "3692XA6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:02.521Z"
+    },
+    {
+      "id": "84974",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "3692XB6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:05.637Z"
+    },
+    {
+      "id": "96537",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "3692XC6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:08.355Z"
+    },
+    {
+      "id": "96538",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "3692XD6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:11.789Z"
+    },
+    {
+      "id": "145363",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "3692XF6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:14.649Z"
+    },
+    {
+      "id": "145364",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "3692XG6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:17.426Z"
+    },
+    {
+      "id": "145365",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "3692XH6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:19.963Z"
+    },
+    {
+      "id": "145366",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "3692XI6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:21.763Z"
+    },
+    {
+      "id": "145367",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "3692XJ6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:23.213Z"
+    },
+    {
+      "id": "145368",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "3692XK6739",
+      "productSku": "1704122",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:24.741Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6838-4759.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4759-large_default/falda-escolar-cuadros-con-tirantes-granate.jpg",
+      "alt": "Falda escolar cuadros con tirantes Granate",
+      "sourceId": "4759",
+      "variantIds": [],
+      "sha256": "c247560808eda2a05d7d277fd3c00d1192df1177b7005025885addccc6855bbf"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:24.786Z",
+  "issues": []
+}

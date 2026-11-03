@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "19823",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/19823-alpargata-cordones-bebe-taupe.html",
+  "name": "Alpargata cordones bebé Taupe",
+  "brand": "Mayoral",
+  "sku": "2501261",
+  "description": "Enamórate de nuestras Alpargatas cordones bebé Taupe. Ideal para los papás amantes de la tendencia y el estilo. Su suave textura y cordones flexibles aseguran la comodidad y seguridad que tu bebé merece. Conquista cada paso de tu pequeño con este versátil color taupe. Una elección inteligente para las ocasiones informales, son igual de chic como fáciles de llevar. Además, es una excelente opción de regalo. ¡Un toque de ternura para los pies de tu bebé que se robará todas las miradas!",
+  "details": "Calzado Cómodo y Versátil para Bebés\n\n Llegó la Alpargata cordones bebé Taupe, un calzado indispensable para el bienestar y comodidad de su pequeño. Fabricados con materiales de calidad superior, aseguran una perfecta transpirabilidad y resistencia a usos intensivos. Su versatilidad permite combinarlos con una variedad infinita de conjuntos, aportando siempre un toque chic y moderno.\n\n\n Seguridad sin Compromisos\n\n El diseño de la Alpargata cordones bebé Taupe se centra en garantizar la máxima seguridad para su bebé. Cuenta con suela antideslizante para evitar caídas, mientras que los cordones permiten ajustar la sujeción al pie del bebé a su gusto. Ya sea para dar sus primeros pasos o para jugar libremente, esta alpargata es la elección perfecta.\n\n\n Elegancia y Durabilidad\n\n Desde el color taupe elegante hasta la resistente tela de lino, cada detalle de la Alpargata cordones bebé Taupe ha sido pensado para ofrecer un calzado tan duradero como elegante. El acabado de cordones convierte a esta alpargata en un verdadero comodín de estilo que elevará cualquier conjunto de ropa de su bebé.\n\n \n \n No pierda la oportunidad de brindarle a su bebé la máxima comodidad y seguridad con un toque de estilo. ¡Adquiera la Alpargata cordones bebé Taupe hoy!",
+  "sourceDescriptionHtml": "<div>\n <h2>Calzado Cómodo y Versátil para Bebés</h2>\n <p>Llegó la Alpargata cordones bebé Taupe, un calzado indispensable para el bienestar y comodidad de su pequeño. Fabricados con materiales de calidad superior, aseguran una perfecta transpirabilidad y resistencia a usos intensivos. Su versatilidad permite combinarlos con una variedad infinita de conjuntos, aportando siempre un toque chic y moderno.</p>\n\n <h2>Seguridad sin Compromisos</h2>\n <p>El diseño de la Alpargata cordones bebé Taupe se centra en garantizar la máxima seguridad para su bebé. Cuenta con suela antideslizante para evitar caídas, mientras que los cordones permiten ajustar la sujeción al pie del bebé a su gusto. Ya sea para dar sus primeros pasos o para jugar libremente, esta alpargata es la elección perfecta.</p>\n\n <h2>Elegancia y Durabilidad</h2>\n <p>Desde el color taupe elegante hasta la resistente tela de lino, cada detalle de la Alpargata cordones bebé Taupe ha sido pensado para ofrecer un calzado tan duradero como elegante. El acabado de cordones convierte a esta alpargata en un verdadero comodín de estilo que elevará cualquier conjunto de ropa de su bebé.</p>\n \n <div class=\"call-to-action\">\n <p>No pierda la oportunidad de brindarle a su bebé la máxima comodidad y seguridad con un toque de estilo. ¡Adquiera la Alpargata cordones bebé Taupe hoy!</p>\n </div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Taupe",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-05-15 23:55:51",
+  "sourceUpdatedAt": "2026-10-27 11:14:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "262",
+          "label": "19"
+        },
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "279",
+          "label": "25"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92892",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "2501261",
+      "productSku": "2501261",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:44.183Z"
+    },
+    {
+      "id": "93478",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "2501261",
+      "productSku": "2501261",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:46.679Z"
+    },
+    {
+      "id": "92898",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "279",
+          "group": "Tamaño",
+          "value": "25"
+        }
+      ],
+      "sku": "2501261",
+      "productSku": "2501261",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:48.640Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19823-18583.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18583-large_default/alpargata-cordones-bebe-taupe.jpg",
+      "alt": "Alpargata cordones bebé Taupe",
+      "sourceId": "18583",
+      "variantIds": [],
+      "sha256": "6ad6556a753d0c2f4ca60c50f04380c37bb951e6f43177befdb5a777f605ed4c"
+    },
+    {
+      "path": "assets/19823-18584.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18584-large_default/alpargata-cordones-bebe-taupe.jpg",
+      "alt": "Alpargata cordones bebé Taupe",
+      "sourceId": "18584",
+      "variantIds": [],
+      "sha256": "df94533387fb7eec00f475b05aabfc981c16b32eba9b42f5a8139fff0cea1502"
+    },
+    {
+      "path": "assets/19823-18585.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18585-large_default/alpargata-cordones-bebe-taupe.jpg",
+      "alt": "Alpargata cordones bebé Taupe",
+      "sourceId": "18585",
+      "variantIds": [],
+      "sha256": "42c46172494d9e04ceb0a234e9ec47e8a57cce26dd7bfef037c9273d3531b693"
+    },
+    {
+      "path": "assets/19823-18586.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18586-large_default/alpargata-cordones-bebe-taupe.jpg",
+      "alt": "Alpargata cordones bebé Taupe",
+      "sourceId": "18586",
+      "variantIds": [],
+      "sha256": "eb9fdcdedbe8aac9513f95545f5efce3c279b0a3aa236e31787ed0689d2e7fc7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:48.865Z",
+  "issues": []
+}

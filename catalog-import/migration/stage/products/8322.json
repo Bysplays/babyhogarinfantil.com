@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8322",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8322-lazo-grande-con-pinza-fucsia.html",
+  "name": "Lazo grande con pinza Fucsia",
+  "brand": "Siena",
+  "sku": "2007018",
+  "description": "¡Ilumina cada momento con el Lazo Grande con Pinza Fucsia! Este accesorio maravilloso aporta un toque de color y mucha alegría a cualquier atuendo de tu pequeña. Hecho con amor y cuidado excepcional, es suave al tacto y seguro para sus delicados cabellos. Es el detalle perfecto para hacerla sentir especial en su día a día o en ocasiones especiales. Ya sea para una tarde de juegos, una fiesta o un paseo familiar, este lazo fucsia será su fiel compañero. Porque cada sonrisa, cada riza es un tesoro, haz que brille con intensidad con el Lazo Grande con Pinza Fucsia.\n\nLazo de 8x8 cm. aprox. HECHO EN ESPAÑA. HECHO A MANO.",
+  "details": "Realza la Belleza Infantil\n\nEmbellece a los más pequeños con un toque de color y elegancia gracias al Lazo grande con pinza Fucsia. Este accesorio es la elección perfecta para dar un toque distintivo y glamuroso a cualquier look infantil. La pinza sólida asegura un ajuste cómodo y seguro durante todo el día.\n\nHecho para Encantar\n\nCon su brillante color fucsia, este lazo no sólo acentúa la hermosa vestimenta de los niños sino también mejora su inocente alegría. Cada lazo está cuidadosamente diseñado para garantizar su durabilidad y para resistir el uso y desgaste diario mientras mantiene su brillo y encanto.\n\nCómodas y Elegantes\n\nEl Lazo grande con pinza Fucsia es la combinación perfecta de comodidad y estilo. Este complemento es fácil de poner y quitar gracias a su pinza incorporada, lo que lo hace práctico y funcional. Asegura un ajuste perfecto que realza el conjunto de los pequeños sin comprometer su comodidad.\n\nDa un paso hacia la moda infantil con estilo y delicadeza, elige el Lazo grande con pinza Fucsia y añade un toque de color en el armario de tus pequeños. Cada sonrisa será más brillante y cada outfit perfeccionado con un detalle de glamour. Invierte en calidad, estilo y felicidad. Haz clic para comprar ahora.",
+  "sourceDescriptionHtml": "<h2>Realza la Belleza Infantil</h2>\n<p>Embellece a los más pequeños con un toque de color y elegancia gracias al Lazo grande con pinza Fucsia. Este accesorio es la elección perfecta para dar un toque distintivo y glamuroso a cualquier look infantil. La pinza sólida asegura un ajuste cómodo y seguro durante todo el día.</p>\n<h2>Hecho para Encantar</h2>\n<p>Con su brillante color fucsia, este lazo no sólo acentúa la hermosa vestimenta de los niños sino también mejora su inocente alegría. Cada lazo está cuidadosamente diseñado para garantizar su durabilidad y para resistir el uso y desgaste diario mientras mantiene su brillo y encanto.</p>\n<h2>Cómodas y Elegantes</h2>\n<p>El Lazo grande con pinza Fucsia es la combinación perfecta de comodidad y estilo. Este complemento es fácil de poner y quitar gracias a su pinza incorporada, lo que lo hace práctico y funcional. Asegura un ajuste perfecto que realza el conjunto de los pequeños sin comprometer su comodidad.</p>\n<p>Da un paso hacia la moda infantil con estilo y delicadeza, elige el Lazo grande con pinza Fucsia y añade un toque de color en el armario de tus pequeños. Cada sonrisa será más brillante y cada outfit perfeccionado con un detalle de glamour. Invierte en calidad, estilo y felicidad. Haz clic para comprar ahora.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 3.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146669",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8050XA14322",
+      "productSku": "2007018",
+      "taxRate": 21,
+      "price": 3.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:28.623Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8322-6615.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6615-large_default/lazo-grande-con-pinza-fucsia.jpg",
+      "alt": "Lazo grande con pinza Fucsia",
+      "sourceId": "6615",
+      "variantIds": [],
+      "sha256": "4f3656eadbe329cd6056e6c680d674925f5b0b2be99872b4d2e6ddf74cf66fa6"
+    },
+    {
+      "path": "assets/8322-15559.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15559-large_default/lazo-grande-con-pinza-fucsia.jpg",
+      "alt": "Lazo grande con pinza Fucsia",
+      "sourceId": "15559",
+      "variantIds": [],
+      "sha256": "a7d3934aa3baaa5cc314d8450ab4d1ab45a1029f0a9dbfd390f1d3408d978ae0"
+    },
+    {
+      "path": "assets/8322-15560.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15560-large_default/lazo-grande-con-pinza-fucsia.jpg",
+      "alt": "Lazo grande con pinza Fucsia",
+      "sourceId": "15560",
+      "variantIds": [],
+      "sha256": "05ce228d31130e08be6ccae37ffbad58e35a0a133ff5eccf2581f4bec9e151ab"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:28.791Z",
+  "issues": []
+}

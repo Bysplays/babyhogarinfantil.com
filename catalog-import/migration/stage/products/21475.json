@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "21475",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/21475-cardigan-algodon-dinosaurio-azul-marino.html",
+  "name": "Cardigan algodón Dinosaurio Azul Marino",
+  "brand": "Chicco",
+  "sku": "2502110",
+  "description": "Cardigan, sudadera con cremallera, en aldogón, con estampado de dinosaurio. tiene felpa en el interor para que sea cálida.",
+  "details": "Composicón:\n\nSudadera:  100% algodón.",
+  "sourceDescriptionHtml": "<p>Composicón:</p>\n<p><strong>Sudadera: </strong> 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96689",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502110",
+      "productSku": "2502110",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:05.289Z"
+    },
+    {
+      "id": "96692",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502110",
+      "productSku": "2502110",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:06.837Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21475-20014.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20014-large_default/cardigan-algodon-dinosaurio-azul-marino.jpg",
+      "alt": "Cardigan algodón Dinosaurio Azul Marino",
+      "sourceId": "20014",
+      "variantIds": [],
+      "sha256": "b561197d1b39981d0207f79919392ec3a16b0248901c2fe64a9343f9caf2a599"
+    },
+    {
+      "path": "assets/21475-20015.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20015-large_default/cardigan-algodon-dinosaurio-azul-marino.jpg",
+      "alt": "Cardigan algodón Dinosaurio Azul Marino",
+      "sourceId": "20015",
+      "variantIds": [],
+      "sha256": "d555be252630ae321f15e2a2ba52e5e4a7cb380d24e431f9d04896c6bfc4ac9a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:06.989Z",
+  "issues": []
+}

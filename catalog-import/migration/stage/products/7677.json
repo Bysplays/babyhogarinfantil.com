@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7677",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/7677-chaqueta-perle-bolsillos-azul-celeste.html",
+  "name": "Chaqueta perlé bolsillos Azul celeste",
+  "brand": "A&amp;J",
+  "sku": "1903024",
+  "description": "Chaqueta larga en perle color AZUL CELESTE, con detalles decorando puños cenefa y botonera.",
+  "details": "Chaqueta larga en perlé. Con cuello redondo, bolsillos delanteros, y detalles decorando la cenefa y botonera así como el remate de las mangas y los bolsillos. Cierre delantero de botones. Disponible en rojo, azul marino, blanco y azul celeste. Una chaqueta ideal para tener de fondo de armario, combinable con conjuntos, peleles, trajecitos, y demás. Cómoda, ligera, suave, perfecta para los más peques. \n\n \n\nComposición:\n\nChaqueta: 100% acrílico perlé\n\n \n\nEL PUNTO DEBE LAVARSE Y PLANCHARSE SIEMPRE DEL REVÉS\n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nSE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nSECAR EN HORIZONTAL Y A LA SOMBRA\n\nHECHO EN PORTUGAL",
+  "sourceDescriptionHtml": "<p style=\"color:#777777;font-size:14px;margin:0px;padding:0px;\">Chaqueta larga en perlé. Con cuello redondo, bolsillos delanteros, y detalles decorando la cenefa y botonera así como el remate de las mangas y los bolsillos. Cierre delantero de botones. Disponible en rojo, azul marino, blanco y azul celeste. Una chaqueta ideal para tener de fondo de armario, combinable con conjuntos, peleles, trajecitos, y demás. Cómoda, ligera, suave, perfecta para los más peques. </p>\n<p style=\"color:#777777;font-size:14px;margin:0px;padding:0px;\"> </p>\n<p style=\"color:#777777;font-size:14px;margin:0px;padding:0px;\">Composición:</p>\n<p style=\"color:#777777;font-size:14px;margin:0px;padding:0px;\">Chaqueta: 100% acrílico perlé</p>\n<p style=\"color:#777777;font-size:14px;margin:0px;padding:0px;\"> </p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">EL PUNTO DEBE LAVARSE Y PLANCHARSE SIEMPRE DEL REVÉS</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">SE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>\n<p style=\"color:#777777;font-size:14px;margin:0px;padding:0px;\"> </p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">SECAR EN HORIZONTAL Y A LA SOMBRA</span></p>\n<p style=\"color:#777777;font-size:14px;margin:15px 0px 0px;padding:0px;\"><strong style=\"padding:0px;margin:0px;\">HECHO EN PORTUGAL</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 7.48,
+  "oldPrice": 14.9556,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66132",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1903024",
+      "productSku": "1903024",
+      "taxRate": 21,
+      "price": 7.48,
+      "oldPrice": 14.9556,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:59.271Z"
+    },
+    {
+      "id": "66134",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "1903024",
+      "productSku": "1903024",
+      "taxRate": 21,
+      "price": 7.48,
+      "oldPrice": 14.9556,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:00.656Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7677-5688.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5688-large_default/chaqueta-perle-bolsillos-azul-celeste.jpg",
+      "alt": "Chaqueta perlé bolsillos Azul celeste",
+      "sourceId": "5688",
+      "variantIds": [],
+      "sha256": "26cf600bc92875dabf2f836a8fed140c75e7d5e909b87b93001b811650ed01d7"
+    },
+    {
+      "path": "assets/7677-5687.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5687-large_default/chaqueta-perle-bolsillos-azul-celeste.jpg",
+      "alt": "Chaqueta perlé bolsillos Azul celeste",
+      "sourceId": "5687",
+      "variantIds": [],
+      "sha256": "53fda2383cb879b8b8e3c9de405294ecf0322985d3f113ce74f82d12b1f1b478"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:00.810Z",
+  "issues": []
+}

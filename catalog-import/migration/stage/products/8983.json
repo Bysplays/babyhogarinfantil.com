@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "8983",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/8983-rebeca-tricot-basica-amarillo.html",
+  "name": "Rebeca tricot básica Amarillo",
+  "brand": "Mayoral",
+  "sku": "2107048",
+  "description": "Chaqueta tricot 100% algodón orgánico.",
+  "details": "Composición y cuidados:\n\nChaqueta: 100% algodón orgánico.\n\nLAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% algodón orgánico.</p>\n<p>LAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 9.5,
+  "oldPrice": 18.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "339",
+          "label": "1-2m"
+        },
+        {
+          "id": "340",
+          "label": "2-4m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72991",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "339",
+          "group": "Tamaño",
+          "value": "1-2m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:29.129Z"
+    },
+    {
+      "id": "92352",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:31.483Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8983-11763.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11763-large_default/rebeca-tricot-basica-amarillo.jpg",
+      "alt": "Rebeca tricot básica Amarillo",
+      "sourceId": "11763",
+      "variantIds": [],
+      "sha256": "62109e50e1ab2704114ec23c71a54d0c5a0c6b1ab48c4c3ed74b966d72e25a80"
+    },
+    {
+      "path": "assets/8983-11766.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11766-large_default/rebeca-tricot-basica-amarillo.jpg",
+      "alt": "Rebeca tricot básica Amarillo",
+      "sourceId": "11766",
+      "variantIds": [],
+      "sha256": "212b571e1ffd83c4a1fb85a9fbace2095d27e22be3db36611d2cec8265bbdc66"
+    },
+    {
+      "path": "assets/8983-11764.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11764-large_default/rebeca-tricot-basica-amarillo.jpg",
+      "alt": "Rebeca tricot básica Amarillo",
+      "sourceId": "11764",
+      "variantIds": [],
+      "sha256": "43c02e0ed0ff854afed62b5c78178a7544a80344b5bf620300059a19368afb68"
+    },
+    {
+      "path": "assets/8983-11765.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11765-large_default/rebeca-tricot-basica-amarillo.jpg",
+      "alt": "Rebeca tricot básica Amarillo",
+      "sourceId": "11765",
+      "variantIds": [],
+      "sha256": "56d5d2defca180b400f47db5b6b74e7f7049f5b9db7cf9d487f6c1158dee17b3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:31.712Z",
+  "issues": []
+}

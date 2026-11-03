@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "18964",
+  "sourceUrl": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/18964-bajera-ajustable-maxi-cuna-blanco.html",
+  "name": "Bajera ajustable Maxi cuna Blanco",
+  "brand": "Mar Revert",
+  "sku": "2309236",
+  "description": "Bajera ajustablre para Maxicuna: 70x140 cm.",
+  "details": "Composición:\n\nBajera: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Bajera: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "770"
+  ],
+  "sourceDefaultCategoryId": "770",
+  "sourceCategoryName": "Sabanas cuna minicuna y maxicuna",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-20 15:53:55",
+  "sourceUpdatedAt": "2026-10-27 11:13:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "89017",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11791XA18129",
+      "productSku": "2309236",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:35.485Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18964-19027.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19027-large_default/bajera-ajustable-maxi-cuna-blanco.jpg",
+      "alt": "Bajera ajustable Maxi cuna Blanco",
+      "sourceId": "19027",
+      "variantIds": [],
+      "sha256": "156cf99114c27b7d7ef8bec314aceb672c8cfd9d7e7fc0d8cd48fac58df9a3f8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:35.543Z",
+  "issues": []
+}

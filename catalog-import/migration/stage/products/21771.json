@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "21771",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/21771-pantalon-largo-crochet-nina-musgo.html",
+  "name": "Pantalon largo crochet niña Musgo",
+  "brand": "Mayoral",
+  "sku": "2601069",
+  "description": "Pantalón largo verde Mayoral para niña en tejido crochet, cómodo y fresco para verano.",
+  "details": "Pantalón largo para niña de la marca Mayoral en color verde suave, confeccionado en delicado tejido crochet con diseño geométrico calado. Su cintura elástica con cordón ajustable y detalle de borlas aporta comodidad y un toque decorativo. Ideal para los días de verano, este pantalón combina estilo y frescura, perfecto para looks casuales, de playa o para ocasiones especiales con blusas ligeras.\n\n\nCOMPOSICIÓN\n\n\n\n\n\nExterior\n\n95% Poliéster\n\n5% Elastano\n\n\n\n\nForro\n\n100% Algodón",
+  "sourceDescriptionHtml": "<p>Pantalón largo para niña de la marca Mayoral en color verde suave, confeccionado en delicado tejido crochet con diseño geométrico calado. Su cintura elástica con cordón ajustable y detalle de borlas aporta comodidad y un toque decorativo. Ideal para los días de verano, este pantalón combina estilo y frescura, perfecto para looks casuales, de playa o para ocasiones especiales con blusas ligeras.</p>\n<div class=\"sub-header\" style=\"font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';line-height:12px;letter-spacing:1px;text-transform:uppercase;color:#101012;background-color:#ffffff;\">\n<p><strong>COMPOSICIÓN</strong></p>\n</div>\n<div class=\"Com\" style=\"margin-top:8px;margin-bottom:8px;color:#101012;font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';font-size:15px;background-color:#ffffff;\">\n<div class=\"CLin\">\n<div class=\"Cuni_t\" style=\"line-height:22px;letter-spacing:0px;\"><strong><span>Exterior</span></strong></div>\n<div class=\"Cuni\" style=\"line-height:22px;letter-spacing:0px;\">95% Poliéster</div>\n<div class=\"Cuni\" style=\"line-height:22px;letter-spacing:0px;\">5% Elastano</div>\n</div>\n<div class=\"CLin\">\n<div class=\"Cuni_t\" style=\"line-height:22px;letter-spacing:0px;\"><strong><span>Forro</span></strong></div>\n<div class=\"Cuni\" style=\"line-height:22px;letter-spacing:0px;\">100% Algodón</div>\n</div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Musgo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-13 15:53:34",
+  "sourceUpdatedAt": "2026-10-27 11:15:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99376",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601069",
+      "productSku": "2601069",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:28.639Z"
+    },
+    {
+      "id": "99377",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601069",
+      "productSku": "2601069",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:31.168Z"
+    },
+    {
+      "id": "99379",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601069",
+      "productSku": "2601069",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:33.502Z"
+    },
+    {
+      "id": "99380",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2601069",
+      "productSku": "2601069",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:35.533Z"
+    },
+    {
+      "id": "99381",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2601069",
+      "productSku": "2601069",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:36.812Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21771-20577.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20577-large_default/pantalon-largo-crochet-nina-musgo.jpg",
+      "alt": "Pantalón verde crochet Mayoral para niña",
+      "sourceId": "20577",
+      "variantIds": [],
+      "sha256": "981fdd510afb828c54113efa136d1c7f34a1067823c3fa93e0f25f0a7510292b"
+    },
+    {
+      "path": "assets/21771-20578.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20578-large_default/pantalon-largo-crochet-nina-musgo.jpg",
+      "alt": "Detalle de cintura y tejido crochet en pantalón Mayoral niña",
+      "sourceId": "20578",
+      "variantIds": [],
+      "sha256": "5c14903d3aa22260b42ae0fd6b97a17029bc33337f50e373eb9da4861eb342f7"
+    },
+    {
+      "path": "assets/21771-20579.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20579-large_default/pantalon-largo-crochet-nina-musgo.jpg",
+      "alt": "Parte trasera pantalón verde crochet Mayoral niña",
+      "sourceId": "20579",
+      "variantIds": [],
+      "sha256": "cb15a9491ee8862ebbe1d61ebc6fd541f0700a87364ef17a9c05e8c267028ebb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:37.043Z",
+  "issues": []
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "12844",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/12844-cubrepanal-rayas-marino.html",
+  "name": "Cubrepañal rayas Marino",
+  "brand": "Mac Ilusión",
+  "sku": "2301363",
+  "description": "ranita o cubrepañal de rayas.\n\nHECHO EN ESPAÑA",
+  "details": "Composición y cuidados:\n\nRanita: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Ranita: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "892",
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 13.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-05 16:32:04",
+  "sourceUpdatedAt": "2026-10-27 11:12:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72419",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2301363",
+      "productSku": "2301363",
+      "taxRate": 21,
+      "price": 13.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:19.636Z"
+    },
+    {
+      "id": "91542",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301363",
+      "productSku": "2301363",
+      "taxRate": 21,
+      "price": 13.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:24.443Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12844-14013.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14013-large_default/cubrepanal-rayas-marino.jpg",
+      "alt": "Cubrepañal rayas Marino",
+      "sourceId": "14013",
+      "variantIds": [],
+      "sha256": "7a91ce2f5b1e5f3095fd129978eca49e81ad30986186ba4b9e0e7202fd3f59ee"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:24.511Z",
+  "issues": []
+}

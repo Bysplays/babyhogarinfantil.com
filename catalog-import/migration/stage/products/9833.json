@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "9833",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/9833-pantalon-bebe-algodon-felpa-unicornios-gris.html",
+  "name": "Pantalon bebe algodon felpa unicornios Gris",
+  "brand": "Chicco",
+  "sku": "2207070",
+  "description": "Pantalón largo de chándal en color gris estampado con unicornios y arcoíris de colores, realizado en felpa elástica y cintura de goma. DISPONIBLE EN TALLA INFANTIL.",
+  "details": "Pantalón largo de chándal de CHICCO, firma italiana con más de 60 años de experiencia y puntos de venta en todo el mundo. En color gris estampado con unicornios y arcoíris de colores, elaborado en felpa elástica y con cintura de goma. Una prenda cómoda, divertida y con mucha magia! Echa un ojito a nuestras sudaderas y camisetas de unicornios y podrás combinarlo como más te guste! DISPONIBLE EN TALLA INFANTIL.\n\nComposición y cuidados:\n\nPantalón: 85% algodón, 10% viscosa, 5% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pantalón largo de chándal de <strong>CHICCO</strong>, firma italiana con más de 60 años de experiencia y puntos de venta en todo el mundo. En color gris estampado con<strong> unicornios y arcoíris</strong> de colores, elaborado en felpa elástica y con cintura de goma. Una prenda cómoda, divertida y con mucha magia! Echa un ojito a nuestras <strong>sudaderas y camisetas de unicornios</strong> y podrás combinarlo como más te guste! <strong>DISPONIBLE EN TALLA INFANTIL.</strong></p>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 85% algodón, 10% viscosa, 5% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:49",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70166",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "10439XE16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:57.093Z"
+    },
+    {
+      "id": "147764",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "10439XA16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:59.166Z"
+    },
+    {
+      "id": "147765",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "10439XB16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:01.876Z"
+    },
+    {
+      "id": "147766",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "10439XC16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:03.558Z"
+    },
+    {
+      "id": "147767",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "10439XD16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:05.722Z"
+    },
+    {
+      "id": "70167",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "10439XF16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:07.661Z"
+    },
+    {
+      "id": "147768",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "10439XG16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:09.591Z"
+    },
+    {
+      "id": "147769",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "10439XH16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:11.617Z"
+    },
+    {
+      "id": "147770",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "10439XI16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:13.277Z"
+    },
+    {
+      "id": "147771",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "10439XJ16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:15.667Z"
+    },
+    {
+      "id": "147772",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "10439XK16250",
+      "productSku": "2207070",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:18.885Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9833-7971.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7971-large_default/pantalon-bebe-algodon-felpa-unicornios-gris.jpg",
+      "alt": "Pantalon bebe algodon felpa unicornios Gris",
+      "sourceId": "7971",
+      "variantIds": [],
+      "sha256": "62a3e21611db133a7e883f3fcfad627a1bdfa342ca1209cc6a85114b9ed1cff6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:18.982Z",
+  "issues": []
+}

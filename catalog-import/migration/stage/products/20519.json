@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "20519",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/20519-conjunto-sport-3-piezas-bebe-nino-caqui.html",
+  "name": "Conjunto sport 3 piezas bebé niño Caqui",
+  "brand": "Babybol",
+  "sku": "2502088",
+  "description": "",
+  "details": "Composición: \n\n95% algodón, 5% elastano.\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p>95% algodón, 5% elastano.</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Caqui",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 39.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95099",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502088",
+      "productSku": "2502088",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:07.746Z"
+    },
+    {
+      "id": "98379",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502088",
+      "productSku": "2502088",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:08.790Z"
+    },
+    {
+      "id": "95100",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502088",
+      "productSku": "2502088",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:09.786Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20519-19306.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19306-large_default/conjunto-sport-3-piezas-bebe-nino-caqui.jpg",
+      "alt": "Conjunto sport 3 piezas bebé niño Caqui",
+      "sourceId": "19306",
+      "variantIds": [],
+      "sha256": "3ee8383bbfe55bcecab3524931f90d680301a529351e6c3cb7c107953a96640e"
+    },
+    {
+      "path": "assets/20519-19307.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19307-large_default/conjunto-sport-3-piezas-bebe-nino-caqui.jpg",
+      "alt": "Conjunto sport 3 piezas bebé niño Caqui",
+      "sourceId": "19307",
+      "variantIds": [],
+      "sha256": "a76b00afbc3234be750e28f9b4745b8fc7fa5510136ceec13a1504466511c6f9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:09.935Z",
+  "issues": []
+}

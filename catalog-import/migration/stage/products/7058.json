@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "7058",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/7058-chaqueta-botones-gris.html",
+  "name": "Chaqueta botones Gris",
+  "brand": "IDO",
+  "sku": "1712013",
+  "description": "¡Viste a tu pequeño con nuestra encantadora Chaqueta de Botones Gris! Un esencial de invierno elegante y acogedor, perfecto para mantener a tu bebé calentito y chic. Esta prenda imprescindible está hecha con materiales suaves y de alta calidad, garantizando el confort máximo para tu hijo. Su diseño versátil y clásico combina maravillosamente con cualquier conjunto, creando un look adorable. ¡No pierdas esta oportunidad de agregar este tesoro a su guardarropa! La Chaqueta de Botones Gris, un abrazo cálido en forma de ropa infantil.",
+  "details": "Encanto Urbano\n\n La Chaqueta botones Gris es justo lo que necesitas para añadir un toque de sofisticación a cualquier atuendo. Su diseño elegante resalta los gustos refinados, mientras que su ligereza asegura la máxima comodidad. Este es un imprescindible para cualquier pequeño amante de la moda.\n\n \n Confort sin Comparación\n\n La comodidad nunca se ve tan elegante como con nuestra Chaqueta botones Gris. Hecha de los mejores materiales, esta chaqueta no solo es bellamente estilizada, sino que también es extremadamente cómoda. Con su suavidad y flexibilidad, su niño se sentirá cómodo durante todo el día, sin importar la actividad.\n\n \n Máxima Durabilidad\n\n Nuestra Chaqueta botones Gris está construida para resistir el desgaste del uso diario, por lo que su peque puede lucirla una y otra vez. Los botones de alta calidad y los acabados elegantes garantizan una larga vida útil, incluso con el uso más intensivo.\n\n \n ¿Por qué esperar más? ¡Dale un giro sofisticado a la guardarropa de tu pequeño con la Chaqueta botones Gris hoy mismo!",
+  "sourceDescriptionHtml": "<div>\n <h2>Encanto Urbano</h2>\n <p>La Chaqueta botones Gris es justo lo que necesitas para añadir un toque de sofisticación a cualquier atuendo. Su diseño elegante resalta los gustos refinados, mientras que su ligereza asegura la máxima comodidad. Este es un imprescindible para cualquier pequeño amante de la moda.</p>\n \n <h2>Confort sin Comparación</h2>\n <p>La comodidad nunca se ve tan elegante como con nuestra Chaqueta botones Gris. Hecha de los mejores materiales, esta chaqueta no solo es bellamente estilizada, sino que también es extremadamente cómoda. Con su suavidad y flexibilidad, su niño se sentirá cómodo durante todo el día, sin importar la actividad.</p>\n \n <h2>Máxima Durabilidad</h2>\n <p>Nuestra Chaqueta botones Gris está construida para resistir el desgaste del uso diario, por lo que su peque puede lucirla una y otra vez. Los botones de alta calidad y los acabados elegantes garantizan una larga vida útil, incluso con el uso más intensivo.</p>\n \n <p>¿Por qué esperar más? ¡Dale un giro sofisticado a la guardarropa de tu pequeño con la Chaqueta botones Gris hoy mismo!</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 32.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64937",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1712013",
+      "productSku": "1712013",
+      "taxRate": 21,
+      "price": 32.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:35.854Z"
+    },
+    {
+      "id": "64938",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1712013",
+      "productSku": "1712013",
+      "taxRate": 21,
+      "price": 32.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:37.608Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7058-9914.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9914-large_default/chaqueta-botones-gris.jpg",
+      "alt": "Chaqueta botones Gris",
+      "sourceId": "9914",
+      "variantIds": [],
+      "sha256": "1099a7e8ebeb0d6b396b7634159c60f33acc162ae0f2b2dd7c554e7aaac11f3d"
+    },
+    {
+      "path": "assets/7058-9915.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9915-large_default/chaqueta-botones-gris.jpg",
+      "alt": "Chaqueta botones Gris",
+      "sourceId": "9915",
+      "variantIds": [],
+      "sha256": "848363462a44d99ecaba5ec3a221f45474433de24139edfac2ab05158861a45c"
+    },
+    {
+      "path": "assets/7058-4950.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4950-large_default/chaqueta-botones-gris.jpg",
+      "alt": "Chaqueta botones Gris",
+      "sourceId": "4950",
+      "variantIds": [],
+      "sha256": "e3df1443bd9410e092bc7f83890a207ea776a2422062003f09bbcf471d92080e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:37.809Z",
+  "issues": []
+}

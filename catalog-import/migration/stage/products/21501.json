@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "21501",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nina/21501-conjunto-pantalon-pana-nina-beige.html",
+  "name": "Conjunto pantalón pana niña Beige",
+  "brand": "Babybol",
+  "sku": "2502139",
+  "description": "Conjunto de dos piezas con jersey y pantalón pana elástica. El jersey tiene felpa interior para que sea cálido y detalles de flores con relieve.",
+  "details": "Composición:\n\nJersey: 60% algodón, 36% poliéster, 4% elastano.\n\nPantalón:  80% algodón, 18% poliéster, 2% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Jersey: </strong>60% algodón, 36% poliéster, 4% elastano.</p>\n<p><strong>Pantalón: </strong> 80% algodón, 18% poliéster, 2% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "755",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "755",
+  "sourceCategoryName": "Conjuntos Niña",
+  "price": 31,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96824",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502139",
+      "productSku": "2502139",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:20.029Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21501-20093.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20093-large_default/conjunto-pantalon-pana-nina-beige.jpg",
+      "alt": "Conjunto pantalón pana niña Beige",
+      "sourceId": "20093",
+      "variantIds": [],
+      "sha256": "1d57b0748636d1bc22c8a2a24c41e83ec804a812cc073f4dc06f25cff1177552"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:20.075Z",
+  "issues": []
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "9359",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/9359-pijama-entero-bebe-nino-verano-picnic-amarillo.html",
+  "name": "Pijama entero bebe niño verano Picnic Amarillo",
+  "brand": "Zippy",
+  "sku": "2201051",
+  "description": "Descubre la comodidad y el estilo con nuestro pijama entero de algodón puro. Diseñado para tu máximo confort, se abre completamente con prácticos corchetes en la parte delantera, asegurando una experiencia de vestir sin esfuerzo. ¡Ideal para esos días de relax en casa!\"",
+  "details": "Delicias de Verano\n\n\n\nEl Pijama Entero Bebe Niño Verano Picnic Amarillo es la elección perfecta para los cálidos meses de verano. Suavidad, comodidad y frescura definen este pijama que mantendrá a tu bebé fresco incluso en las noches más calurosas. Diseñado en un vibrante color amarillo, este pijama captura la alegría y energía del verano en cada detalle. \n\n \n\nAtractivo y Práctico\n\n\n\nEste pijama entero no solo proporciona confort sino que está lleno de funcionalidad. Gracias a la fácil apertura y cierre, cambiar los pañales al bebé será una tarea sencilla, sin tener que desvestirlo por completo. Además, su resistente material asegura una duración prolongada, incluso después de múltiples lavados. Ideal para las traviesas aventuras de verano de tu pequeño. \n\n\n\nConfort y Alegría en Cada Hilo\n\n\n\nEl Pijama Entero Bebé Niño Verano Picnic Amarillo ha sido cuidadosamente fabricado para asegurar la máxima comodidad de tu pequeño. Su tejido ligero y respirable le permitirá moverse libremente y dormir plácidamente todas las noches. Su diseño inspirado en el tema del picnic añade un toque divertido, garantizando que tu bebé se vea tan radiante como se sienta. ¡Dale a tu bebé la comodidad y estilo que se merece!\n\n\n\n\nNo esperes más y dale a tu pequeño lo mejor de la comodidad y del estilo este verano con el Pijama Entero Bebe Niño Verano Picnic Amarillo. ¡Haz clic en \"Añadir al carrito\" ahora mismo!",
+  "sourceDescriptionHtml": "<div>\n<h2>Delicias de Verano</h2>\n\n<p>\nEl Pijama Entero Bebe Niño Verano Picnic Amarillo es la elección perfecta para los cálidos meses de verano. Suavidad, comodidad y frescura definen este pijama que mantendrá a tu bebé fresco incluso en las noches más calurosas. Diseñado en un vibrante color amarillo, este pijama captura la alegría y energía del verano en cada detalle. \n</p> \n\n<h2>Atractivo y Práctico</h2>\n\n<p>\nEste pijama entero no solo proporciona confort sino que está lleno de funcionalidad. Gracias a la fácil apertura y cierre, cambiar los pañales al bebé será una tarea sencilla, sin tener que desvestirlo por completo. Además, su resistente material asegura una duración prolongada, incluso después de múltiples lavados. Ideal para las traviesas aventuras de verano de tu pequeño. \n</p>\n\n<h2>Confort y Alegría en Cada Hilo</h2>\n\n<p>\nEl Pijama Entero Bebé Niño Verano Picnic Amarillo ha sido cuidadosamente fabricado para asegurar la máxima comodidad de tu pequeño. Su tejido ligero y respirable le permitirá moverse libremente y dormir plácidamente todas las noches. Su diseño inspirado en el tema del picnic añade un toque divertido, garantizando que tu bebé se vea tan radiante como se sienta. ¡Dale a tu bebé la comodidad y estilo que se merece!\n</p>\n\n<p>\nNo esperes más y dale a tu pequeño lo mejor de la comodidad y del estilo este verano con el Pijama Entero Bebe Niño Verano Picnic Amarillo. ¡Haz clic en \"Añadir al carrito\" ahora mismo!\n</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 6,
+  "oldPrice": 12.0032,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69067",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2201051",
+      "productSku": "2201051",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:38.921Z"
+    },
+    {
+      "id": "69068",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2201051",
+      "productSku": "2201051",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:40.358Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9359-7609.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7609-large_default/pijama-entero-bebe-nino-verano-picnic-amarillo.jpg",
+      "alt": "Pijama entero bebe niño verano Picnic Amarillo",
+      "sourceId": "7609",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9359-12228.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12228-large_default/pijama-entero-bebe-nino-verano-picnic-amarillo.jpg",
+      "alt": "Pijama entero bebe niño verano Picnic Amarillo",
+      "sourceId": "12228",
+      "variantIds": [],
+      "sha256": "8c24d90c4651333da86775844f597c3596eb637f3cedc42f1281464b078f3851"
+    },
+    {
+      "path": "assets/9359-12227.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12227-large_default/pijama-entero-bebe-nino-verano-picnic-amarillo.jpg",
+      "alt": "Pijama entero bebe niño verano Picnic Amarillo",
+      "sourceId": "12227",
+      "variantIds": [],
+      "sha256": "8b3b69c93fff3334aa46001b959fb012b23c0512ec803c1bbff74e4b5692a483"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:40.524Z",
+  "issues": []
+}

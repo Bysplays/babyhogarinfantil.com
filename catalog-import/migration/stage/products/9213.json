@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "9213",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/9213-pantalon-spiderman-gris-felpa-gris.html",
+  "name": "Pantalon Spiderman gris felpa Gris",
+  "brand": "Zippy",
+  "sku": "2109188",
+  "description": "Pantalón de algodón de SPIDERMAN, en color gris con serigrafía en blanco y aplique arácnido en una pernera. Felpado en el interior. Goma en la cintura con cordón ajustable y puños.",
+  "details": "Pantalón de algodón de ZIPPY, una de nuestras firmas más divertidas! En color gris claro con serigrafía de SPIDER-MAN y aplique arácnido de goma en una pernera. Cintura elástica con cordón ajustable y puños en las perneras. Tiene un bolsillo trasero. Completamente felpado, cálido para el invierno. Una prenda cómoda y calentita. Echa un ojito a nuestras sudaderas, camisetas y ropa interior y podrás combinarlo como más te guste!\n\nComposición y cuidados:\n\nPantalón: 92% algodón, 8% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pantalón de algodón de <strong>ZIPPY</strong>, una de nuestras firmas más divertidas! En color gris claro con serigrafía de<strong> SPIDER-MAN</strong> y aplique arácnido de goma en una pernera. Cintura elástica<strong> con cordón ajustable</strong> y puños en las perneras. Tiene un bolsillo trasero. <strong>Completamente felpado</strong>, cálido para el invierno. Una prenda cómoda y calentita. Echa un ojito a nuestras <strong>sudaderas, camisetas y ropa interior</strong> y podrás combinarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 92% algodón, 8% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824",
+    "880"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:46",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68711",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2109188",
+      "productSku": "2109188",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:11.103Z"
+    },
+    {
+      "id": "68713",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2109188",
+      "productSku": "2109188",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:14.118Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9213-7471.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7471-large_default/pantalon-spiderman-gris-felpa-gris.jpg",
+      "alt": "Pantalon Spiderman gris felpa Gris",
+      "sourceId": "7471",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9213-12023.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12023-large_default/pantalon-spiderman-gris-felpa-gris.jpg",
+      "alt": "Pantalon Spiderman gris felpa Gris",
+      "sourceId": "12023",
+      "variantIds": [],
+      "sha256": "9061854969f00d67d51845f0f9ef388e47b9024819e07f1c38f492dd9e160aee"
+    },
+    {
+      "path": "assets/9213-12024.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12024-large_default/pantalon-spiderman-gris-felpa-gris.jpg",
+      "alt": "Pantalon Spiderman gris felpa Gris",
+      "sourceId": "12024",
+      "variantIds": [],
+      "sha256": "dfe158fe777d1b680959e5fd854861fe0b5a1d7081f16af78483a02aac8bfac5"
+    },
+    {
+      "path": "assets/9213-12025.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12025-large_default/pantalon-spiderman-gris-felpa-gris.jpg",
+      "alt": "Pantalon Spiderman gris felpa Gris",
+      "sourceId": "12025",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9213-9033.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9033-large_default/pantalon-spiderman-gris-felpa-gris.jpg",
+      "alt": "Pantalon Spiderman gris felpa Gris",
+      "sourceId": "9033",
+      "variantIds": [],
+      "sha256": "829a3bc130300298cad9ff5929b225377869bf1e3b0e0cac4115690625d65f51"
+    },
+    {
+      "path": "assets/9213-9034.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9034-large_default/pantalon-spiderman-gris-felpa-gris.jpg",
+      "alt": "Pantalon Spiderman gris felpa Gris",
+      "sourceId": "9034",
+      "variantIds": [],
+      "sha256": "dfafd92fe5c3f00eebc1409e9facd7b2768278dbc61d209a8ae8d68eee33dae5"
+    },
+    {
+      "path": "assets/9213-9035.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9035-large_default/pantalon-spiderman-gris-felpa-gris.jpg",
+      "alt": "Pantalon Spiderman gris felpa Gris",
+      "sourceId": "9035",
+      "variantIds": [],
+      "sha256": "a60d435ef09d25849ff9bddf1eb9ec50aad137946bd6bd73f2f791aef75fe17f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:14.593Z",
+  "issues": []
+}

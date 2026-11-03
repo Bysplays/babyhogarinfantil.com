@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "20510",
+  "sourceUrl": "https://babyhogarinfantil.com/chandal-bebe-nino/20510-conjunto-chandal-bebe-azul.html",
+  "name": "Conjunto chandal bebé Azul",
+  "brand": "Babybol",
+  "sku": "2502079",
+  "description": "",
+  "details": "Composición: \n\n95% algodón, 5% elastano.\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p>95% algodón, 5% elastano.</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "787",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "787",
+  "sourceCategoryName": "Chandal bebé niño",
+  "price": 22,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95041",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502079",
+      "productSku": "2502079",
+      "taxRate": 21,
+      "price": 22,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:28.046Z"
+    },
+    {
+      "id": "95042",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502079",
+      "productSku": "2502079",
+      "taxRate": 21,
+      "price": 22,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:29.118Z"
+    },
+    {
+      "id": "95043",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502079",
+      "productSku": "2502079",
+      "taxRate": 21,
+      "price": 22,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:30.056Z"
+    },
+    {
+      "id": "95044",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502079",
+      "productSku": "2502079",
+      "taxRate": 21,
+      "price": 22,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:30.918Z"
+    },
+    {
+      "id": "95045",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502079",
+      "productSku": "2502079",
+      "taxRate": 21,
+      "price": 22,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:31.709Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20510-19296.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19296-large_default/conjunto-chandal-bebe-azul.jpg",
+      "alt": "Conjunto chandal bebé Azul",
+      "sourceId": "19296",
+      "variantIds": [],
+      "sha256": "f872c395021a3a76048dba455080b42a7a28eb4de91c6715dd21e0577d6e08b9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:31.776Z",
+  "issues": []
+}

@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "6288",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-pom-pom/6288-calcetin-alto-con-borlas-verde-botella.html",
+  "name": "Calcetín alto con borlas Verde Botella",
+  "brand": "Condor",
+  "sku": "1020",
+  "description": "Calcetín alto con borlas en ALGODON CALIDO.",
+  "details": "Composici&oacute;n:\nCalcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n:<br />Calcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde botella",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "686",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "686",
+  "sourceCategoryName": "Calcetines con pom-pom",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 13,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63200",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:20.780Z"
+    },
+    {
+      "id": "88000",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:24.274Z"
+    },
+    {
+      "id": "63203",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:27.686Z"
+    },
+    {
+      "id": "63204",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:30.990Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6288-4265.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4265-large_default/calcetin-alto-con-borlas-verde-botella.jpg",
+      "alt": "Calcetín alto con borlas Verde Botella",
+      "sourceId": "4265",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6288-9505.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9505-large_default/calcetin-alto-con-borlas-verde-botella.jpg",
+      "alt": "Calcetín alto con borlas Verde Botella",
+      "sourceId": "9505",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6288-4264.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4264-large_default/calcetin-alto-con-borlas-verde-botella.jpg",
+      "alt": "Calcetín alto con borlas Verde Botella",
+      "sourceId": "4264",
+      "variantIds": [],
+      "sha256": "ca8a132fc9d086b9ed336e46fdf09035bcea94e4273133f5562d14e2dd3a0574"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:31.209Z",
+  "issues": []
+}

@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "6067",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/6067-zapato-alto-bebe-piel-con-hebilla-rojo.html",
+  "name": "Zapato alto bebé piel con hebilla Rojo",
+  "brand": "Caminito",
+  "sku": "448",
+  "description": "Zapato estilo pepito de piel, en color rojo. Cierre con hebilla metálica ajustable. Sin suela. Disponible modelo con semisuela para preandante en la talla 19.",
+  "details": "Zapato estilo pepito de CAMINITO, una de nuestras firmas preferidas! De piel, en color rojo. Cierre con hebilla met&aacute;lica ajustable. Peque&ntilde;os detalles de perforados en el empeine. Sin suela. Caminito garantiza que para la fabricaci&oacute;n de estos zapatos se han empleado materiales de primera calidad en todos sus componentes. Un calzado c&oacute;modo, ligero y blandito, ideal para los m&aacute;s peques! Disponible modelo con semisuela para preandante en la talla 19. DISPONIBLE EN M&Aacute;S COLORES. \n\r\nComposici&oacute;n y cuidados:\n\r\nEmpeine: piel\n\r\nForro y plantilla: piel\n\r\nSuela: otros materiales\n\r\n \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none; user-select: text; color: #777777; font-family: robotoregular; font-size: 14px;\">Zapato estilo pepito de&nbsp;<strong style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none;\">CAMINITO</strong>, una de nuestras firmas preferidas! De&nbsp;<strong style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none;\">piel</strong>, en color rojo. Cierre con hebilla met&aacute;lica ajustable. Peque&ntilde;os detalles de perforados en el empeine. Sin suela.&nbsp;<strong style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none;\">Caminito</strong>&nbsp;garantiza que para la fabricaci&oacute;n de estos zapatos se han empleado materiales de primera calidad en todos sus componentes. Un calzado c&oacute;modo, ligero y blandito, ideal para los m&aacute;s peques! Disponible modelo con semisuela para preandante en la talla 19.&nbsp;<strong style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none;\">DISPONIBLE EN M&Aacute;S COLORES.&nbsp;</strong></p>\r\n<p style=\"margin: 15px 0px 0px; padding: 0px; box-sizing: border-box; outline: none; user-select: text; color: #777777; font-family: robotoregular; font-size: 14px;\">Composici&oacute;n y cuidados:</p>\r\n<p style=\"margin: 15px 0px 0px; padding: 0px; box-sizing: border-box; outline: none; user-select: text; color: #777777; font-family: robotoregular; font-size: 14px;\">Empeine: piel</p>\r\n<p style=\"margin: 15px 0px 0px; padding: 0px; box-sizing: border-box; outline: none; user-select: text; color: #777777; font-family: robotoregular; font-size: 14px;\">Forro y plantilla: piel</p>\r\n<p style=\"margin: 15px 0px 0px; padding: 0px; box-sizing: border-box; outline: none; user-select: text; color: #777777; font-family: robotoregular; font-size: 14px;\">Suela: otros materiales</p>\r\n<p style=\"margin: 15px 0px 0px; padding: 0px; box-sizing: border-box; outline: none; user-select: text; color: #777777; font-family: robotoregular; font-size: 14px;\">&nbsp;</p>\r\n<p style=\"margin: 15px 0px 0px; padding: 0px; box-sizing: border-box; outline: none; user-select: text; color: #777777; font-family: robotoregular; font-size: 14px;\"><strong style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none;\">FABRICADO EN ESPA&Ntilde;A</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 25,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:14",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "256",
+          "label": "15"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "258",
+          "label": "19sin"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62335",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "448",
+      "productSku": "448",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:46.931Z"
+    },
+    {
+      "id": "62336",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "448",
+      "productSku": "448",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:49.354Z"
+    },
+    {
+      "id": "98213",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "448",
+      "productSku": "448",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:51.764Z"
+    },
+    {
+      "id": "62337",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "258",
+          "group": "Tamaño",
+          "value": "19sin"
+        }
+      ],
+      "sku": "448",
+      "productSku": "448",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:54.531Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6067-3918.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3918-large_default/zapato-alto-bebe-piel-con-hebilla-rojo.jpg",
+      "alt": "Zapato alto bebé piel con hebilla Rojo",
+      "sourceId": "3918",
+      "variantIds": [],
+      "sha256": "f1ab659977d57fda0e006d3f67d8ecf89803f3a4aec00f2ba0681d21ec4fc85a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:54.967Z",
+  "issues": []
+}

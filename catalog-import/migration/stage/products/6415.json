@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6415",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nina/6415-canvas-loneta-hebilla-beige.html",
+  "name": "Canvas loneta hebilla Beige",
+  "brand": "Gorila",
+  "sku": "1521541",
+  "description": "Loneta y velcro. Se puede lavar en lavadora.",
+  "details": "SUELA:  De caucho natural antideslizante de gran durabilidad \nPRODUCTO TEXTIL:  Elaborado con tejidos de la máxima calidad y resistencia. \nFORRO:  De material textil",
+  "sourceDescriptionHtml": "<p><span style=\"color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"font-weight:bolder;\">SUELA:  </span><span>De caucho natural antideslizante de gran durabilidad </span><br /></span><span style=\"color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"font-weight:bolder;\">PRODUCTO TEXTIL:  </span><span>Elaborado con tejidos de la máxima calidad y resistencia. </span><br /></span><span style=\"color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"font-weight:bolder;\">FORRO:  </span><span>De material textil </span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "695"
+  ],
+  "sourceDefaultCategoryId": "695",
+  "sourceCategoryName": "Calzado Niña",
+  "price": 10.5,
+  "oldPrice": 21.0056,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "282",
+          "label": "29"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63511",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "282",
+          "group": "Tamaño",
+          "value": "29"
+        }
+      ],
+      "sku": "1521541",
+      "productSku": "1521541",
+      "taxRate": 21,
+      "price": 10.5,
+      "oldPrice": 21.0056,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:54.665Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6415-4402.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4402-large_default/canvas-loneta-hebilla-beige.jpg",
+      "alt": "Canvas loneta hebilla Beige",
+      "sourceId": "4402",
+      "variantIds": [],
+      "sha256": "275527ca6167be3b77f38d9994d899c212209d00b7e4cf8f059e30e02c748fc2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:54.747Z",
+  "issues": []
+}

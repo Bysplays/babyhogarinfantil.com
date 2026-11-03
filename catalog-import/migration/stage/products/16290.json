@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "16290",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nino/16290-gorra-canutillo-teo-rojo.html",
+  "name": "Gorra canutillo TEO Rojo",
+  "brand": "Marco Polo",
+  "sku": "2304025",
+  "description": "¿Está buscando la perfección en estilo para su pequeñín? La Gorra Canutillo TEO Rojo es la elección perfecta. Una hermosa mezcla de estilo y confort, esta gorra no solo da un toque moderno y fresco, sino que también protege del sol. Su color rojo brillante atraerá todas las miradas, convirtiendo a su hijo en la estrella del parque. Confeccionada con materiales de alta calidad que garantizan durabilidad, esta gorra es el complemento perfecto a cualquier conjunto. ¡Haga brillar a su pequeño con la Gorra Canutillo TEO Rojo!",
+  "details": "¡El toque final para el outfit de tu pequeño!\n\n La \\'Gorra canutillo TEO Rojo\\' es el accesorio perfecto para un look coqueto y a la moda. Seguro, el niño que la use capturará todas las miradas por su vibrante color rojo. ¡Nadie pasará por alto su estilo único y distintivo!\n\n \n Calidad y comodidad en un solo producto\n\n Elaborada pensando en la delicada piel de los más pequeños, la \\'Gorra canutillo TEO Rojo\\' presenta un suave algodón y se ajusta cómodamente. Su diseño asegura que el niño esté protegido del sol, pero sin sentir ningún tipo de incomodidad.\n\n \n Resistente y duradera\n\n La \\'Gorra canutillo TEO Rojo\\' no solo se centra en la estética, sino también en la durabilidad. Con sutiles costuras y un material resistente, este sombrero puede soportar el estilo de vida activo de cualquier niño e incluso, sobrevivir a un ciclo de lavado en la lavadora.\n \n \n ¡No esperes más! Añade la \\'Gorra canutillo TEO Rojo\\' al carrito de compra y dale a tu hijo un look chic y deslumbrante. ¡Comprala ya!",
+  "sourceDescriptionHtml": "<div>\n <h2>¡El toque final para el outfit de tu pequeño!</h2>\n <p>La \\'Gorra canutillo TEO Rojo\\' es el accesorio perfecto para un look coqueto y a la moda. Seguro, el niño que la use capturará todas las miradas por su vibrante color rojo. ¡Nadie pasará por alto su estilo único y distintivo!</p>\n \n <h2>Calidad y comodidad en un solo producto</h2>\n <p>Elaborada pensando en la delicada piel de los más pequeños, la \\'Gorra canutillo TEO Rojo\\' presenta un suave algodón y se ajusta cómodamente. Su diseño asegura que el niño esté protegido del sol, pero sin sentir ningún tipo de incomodidad.</p>\n \n <h2>Resistente y duradera</h2>\n <p>La \\'Gorra canutillo TEO Rojo\\' no solo se centra en la estética, sino también en la durabilidad. Con sutiles costuras y un material resistente, este sombrero puede soportar el estilo de vida activo de cualquier niño e incluso, sobrevivir a un ciclo de lavado en la lavadora.</p> \n \n <p>¡No esperes más! Añade la \\'Gorra canutillo TEO Rojo\\' al carrito de compra y dale a tu hijo un look chic y deslumbrante. ¡Comprala ya!</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "680",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "680",
+  "sourceCategoryName": "Gorras y viseras bebé y niño",
+  "price": 16,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-10 16:10:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 9,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72874",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "11299XC17403",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:59.110Z"
+    },
+    {
+      "id": "148627",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11299XA17403",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:01.459Z"
+    },
+    {
+      "id": "148628",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "11299XB17403",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:03.835Z"
+    },
+    {
+      "id": "72878",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "11299XD17403",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:06.232Z"
+    },
+    {
+      "id": "72882",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "11299XE17403",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:09.553Z"
+    },
+    {
+      "id": "72886",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "11299XF17403",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:12.602Z"
+    },
+    {
+      "id": "72890",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "11299XG17403",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:15.424Z"
+    },
+    {
+      "id": "72894",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "11299XH17403",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:19.452Z"
+    },
+    {
+      "id": "148629",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "11299XI17403",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:22.972Z"
+    },
+    {
+      "id": "148630",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "11299XJ17403",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:25.747Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16290-14024.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14024-large_default/gorra-canutillo-teo-rojo.jpg",
+      "alt": "Gorra canutillo TEO Rojo",
+      "sourceId": "14024",
+      "variantIds": [],
+      "sha256": "09f76dc0723f20eae18756e7b1dac39b7048853a1ea46d2f8f6c6e5c93c27dd8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:25.824Z",
+  "issues": []
+}

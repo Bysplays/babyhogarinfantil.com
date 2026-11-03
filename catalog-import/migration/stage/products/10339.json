@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "10339",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/10339-conjunto-polaina-algodon-fresas-rosa.html",
+  "name": "Conjunto polaina algodon fresas Rosa",
+  "brand": "Talaman",
+  "sku": "2301099",
+  "description": "Pijamita con pie, en algodón, verano.",
+  "details": "Composición y cuidados:\n\nPijama dos piezas: 100% algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pijama dos piezas: 100% algodón.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71673",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2301099",
+      "productSku": "2301099",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:27.802Z"
+    },
+    {
+      "id": "71674",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2301099",
+      "productSku": "2301099",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:31.337Z"
+    },
+    {
+      "id": "86749",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301099",
+      "productSku": "2301099",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:36.295Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10339-8393.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8393-large_default/conjunto-polaina-algodon-fresas-rosa.jpg",
+      "alt": "Conjunto polaina algodon fresas Rosa",
+      "sourceId": "8393",
+      "variantIds": [],
+      "sha256": "9915724f0e9d091757b6eb68cd312b4eed3cb3987d390f5c238a9694e4d934c5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:36.367Z",
+  "issues": []
+}

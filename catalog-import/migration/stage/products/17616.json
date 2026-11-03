@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "17616",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/17616-pack-lazo-mas-horquillas-verde-botella.html",
+  "name": "Pack lazo mas horquillas Verde Botella",
+  "brand": "Siena",
+  "sku": "2204004",
+  "description": "Lazo de 6 x 4 cm. aproximadamente sobre clip pico-pato de 4 cm.\n\nY dos clips rana de 5 cm. a tono.\n\nHECHO EN ESPAÑA",
+  "details": "Estilo Vibrante y Versátil\n\n\nEnvuélvete en un mundo de estilo con el Pack lazo mas horquillas Verde Botella, un accesorio imprescindible que brindará un toque único a cualquier look. Este encantador conjunto es más que un simple accesorio, es una declaración de moda. Los ricos y vibrantes tonos de verde botella capturarán todos los ojos y añadirán un toque chic a cualquier vestuario.\n\n\n\nTendencia y Confort\n\n\nEl Pack lazo mas horquillas Verde Botella no sólo es un accesorio de tendencia, sino que al ser elaborado con materiales de alta calidad, garantiza un uso confortable durante todo el día. Luce hermosa y se siente cómoda en cualquier ocasión, ya sea un día normal de juegos o un evento especial. \n\n\n\nDurabilidad y Fácil Cuidado\n\n\nNuestro Pack lazo mas horquillas Verde Botella es tan resistente como bonito. Diseñado para soportar el desgaste diario, puedes estar seguro de que este accesorio mantendrá su belleza por mucho tiempo. Además, son fáciles de cuidar, permitiéndote mantener su encanto verde botella brillante con el mínimo esfuerzo.\n\n\n\n\nNo te quedes sin experimentar la emoción de realzar el estilo de tu pequeño de una manera única. ¡Añade hoy mismo el Pack lazo mas horquillas Verde Botella a tu carrito de compras!",
+  "sourceDescriptionHtml": "<h2>Estilo Vibrante y Versátil</h2>\n<p>\nEnvuélvete en un mundo de estilo con el Pack lazo mas horquillas Verde Botella, un accesorio imprescindible que brindará un toque único a cualquier look. Este encantador conjunto es más que un simple accesorio, es una declaración de moda. Los ricos y vibrantes tonos de verde botella capturarán todos los ojos y añadirán un toque chic a cualquier vestuario.\n</p>\n\n<h2>Tendencia y Confort</h2>\n<p>\nEl Pack lazo mas horquillas Verde Botella no sólo es un accesorio de tendencia, sino que al ser elaborado con materiales de alta calidad, garantiza un uso confortable durante todo el día. Luce hermosa y se siente cómoda en cualquier ocasión, ya sea un día normal de juegos o un evento especial. \n</p>\n\n<h2>Durabilidad y Fácil Cuidado</h2>\n<p>\nNuestro Pack lazo mas horquillas Verde Botella es tan resistente como bonito. Diseñado para soportar el desgaste diario, puedes estar seguro de que este accesorio mantendrá su belleza por mucho tiempo. Además, son fáciles de cuidar, permitiéndote mantener su encanto verde botella brillante con el mínimo esfuerzo.\n</p>\n\n<b>\nNo te quedes sin experimentar la emoción de realzar el estilo de tu pequeño de una manera única. ¡Añade hoy mismo el Pack lazo mas horquillas Verde Botella a tu carrito de compras!\n</b>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde botella",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-06-07 23:56:28",
+  "sourceUpdatedAt": "2026-10-27 11:11:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "116853",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10182XA18584",
+      "productSku": "2204004",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:38.219Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17616-15737.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15737-large_default/pack-lazo-mas-horquillas-verde-botella.jpg",
+      "alt": "Pack lazo mas horquillas Verde Botella",
+      "sourceId": "15737",
+      "variantIds": [],
+      "sha256": "964bccb6edfe947a9162de916200863b457c3dc0626a6a8b9c1c805687b51a9b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:38.286Z",
+  "issues": []
+}

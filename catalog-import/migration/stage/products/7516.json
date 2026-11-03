@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "7516",
+  "sourceUrl": "https://babyhogarinfantil.com/edredones-cuna/7516-relleno-nordico-cuna-100x120-unico.html",
+  "name": "Relleno nordico cuna 100x120 Unico",
+  "brand": "Don Algodón",
+  "sku": "1901049",
+  "description": "Relleno NORDICO para cuna estándar con colchón de 60x120cm. El relleno mide 100x120cm. Es de 300gr/m2",
+  "details": "Dispones de un surtido de fundas para el relleno.",
+  "sourceDescriptionHtml": "<p>Dispones de un surtido de fundas para el relleno.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Unico",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "664",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "664",
+  "sourceCategoryName": "Edredones Cuna",
+  "price": 18.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:25",
+  "sourceUpdatedAt": "2026-10-27 11:10:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65861",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "5900XA10083",
+      "productSku": "1901049",
+      "taxRate": 21,
+      "price": 18.95,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:40.655Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7516-5444.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5444-large_default/relleno-nordico-cuna-100x120-unico.jpg",
+      "alt": "Relleno nordico cuna 100x120 Unico",
+      "sourceId": "5444",
+      "variantIds": [],
+      "sha256": "0b20474a32fe31192bb9f177cafc0f735a761575568ce70029261e58c4420b07"
+    },
+    {
+      "path": "assets/7516-10333.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10333-large_default/relleno-nordico-cuna-100x120-unico.jpg",
+      "alt": "Relleno nordico cuna 100x120 Unico",
+      "sourceId": "10333",
+      "variantIds": [],
+      "sha256": "0b20474a32fe31192bb9f177cafc0f735a761575568ce70029261e58c4420b07"
+    },
+    {
+      "path": "assets/7516-5443.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5443-large_default/relleno-nordico-cuna-100x120-unico.jpg",
+      "alt": "Relleno nordico cuna 100x120 Unico",
+      "sourceId": "5443",
+      "variantIds": [],
+      "sha256": "9d6333ac0ebcc1ff062d6fc757e1d848bb9f9a10085fad4300719c92f006e080"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:40.848Z",
+  "issues": []
+}

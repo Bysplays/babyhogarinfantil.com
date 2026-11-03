@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "21620",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-en-pack/21620-pack-4-calcetines-azul.html",
+  "name": "Pack 4 calcetines Azul",
+  "brand": "Mayoral",
+  "sku": "2502254",
+  "description": "Pack de 4 calcetines con algodón orgánico. Para bebé.",
+  "details": "COMPOSICIÓN\n\nCalcetines:\n\n65% Algodón\n\n32% Poliamida\n\n3% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Calcetines:</strong></p>\n<p>65% Algodón</p>\n<p>32% Poliamida</p>\n<p>3% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "796",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "796",
+  "sourceCategoryName": "Calcetines en pack",
+  "price": 12.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-12-04 15:54:26",
+  "sourceUpdatedAt": "2026-10-27 11:14:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97825",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502254",
+      "productSku": "2502254",
+      "taxRate": 21,
+      "price": 12.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:48.189Z"
+    },
+    {
+      "id": "97826",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502254",
+      "productSku": "2502254",
+      "taxRate": 21,
+      "price": 12.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:51.344Z"
+    },
+    {
+      "id": "97827",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502254",
+      "productSku": "2502254",
+      "taxRate": 21,
+      "price": 12.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:53.903Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21620-20226.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20226-large_default/pack-4-calcetines-azul.jpg",
+      "alt": "Pack 4 calcetines Azul",
+      "sourceId": "20226",
+      "variantIds": [],
+      "sha256": "b98cc76ff346c0da372b229a542d8546e7539288ddeffd815d736b8116533410"
+    },
+    {
+      "path": "assets/21620-20227.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20227-large_default/pack-4-calcetines-azul.jpg",
+      "alt": "Pack 4 calcetines Azul",
+      "sourceId": "20227",
+      "variantIds": [],
+      "sha256": "7d0a1cdd70dea358140198bf9c4613f6da3e80e98aeaa3930f4a1e8e9e0b1069"
+    },
+    {
+      "path": "assets/21620-20228.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20228-large_default/pack-4-calcetines-azul.jpg",
+      "alt": "Pack 4 calcetines Azul",
+      "sourceId": "20228",
+      "variantIds": [],
+      "sha256": "cd78110a9c431508de1b9a93c66646fd91ff658a2c138124207c77d3f0bbe6ab"
+    },
+    {
+      "path": "assets/21620-20229.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20229-large_default/pack-4-calcetines-azul.jpg",
+      "alt": "Pack 4 calcetines Azul",
+      "sourceId": "20229",
+      "variantIds": [],
+      "sha256": "cd78110a9c431508de1b9a93c66646fd91ff658a2c138124207c77d3f0bbe6ab"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:54.167Z",
+  "issues": []
+}

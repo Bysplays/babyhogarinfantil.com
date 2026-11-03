@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16163",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16163-lazo-mediano-nudo-con-pinza-rosa.html",
+  "name": "Lazo mediano nudo con pinza Rosa",
+  "brand": "Siena",
+  "sku": "2301386",
+  "description": "Lazo de 7 x 5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.2,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:46",
+  "sourceUpdatedAt": "2026-10-27 11:12:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "148600",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11255XA17338",
+      "productSku": "2301386",
+      "taxRate": 21,
+      "price": 2.2,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:11.133Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16163-13864.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13864-large_default/lazo-mediano-nudo-con-pinza-rosa.jpg",
+      "alt": "Lazo mediano nudo con pinza Rosa",
+      "sourceId": "13864",
+      "variantIds": [],
+      "sha256": "b6234e3f07626cea0e0d9efb95f79296e2b49687a0d63f19fd68f69dda62307d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:11.215Z",
+  "issues": []
+}

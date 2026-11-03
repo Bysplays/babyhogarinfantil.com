@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "6686",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nino/6686-body-piconela-mlarga-blanco.html",
+  "name": "Body Piconela M/Larga Blanco",
+  "brand": "Calamaro",
+  "sku": "1610020",
+  "description": "Body 100% ALGODÓN, de manga larga y cuello bebé con piconela, en color blanco. HECHO EN ESPAÑA. Disponible con cuello en varios colores.",
+  "details": "Body de CALAMARO, una de nuestras firmas preferidas! De manga larga y con cuello bebé con piconela, en color blanco. Cierre trasero con corchetes hasta media espalda y en la entrepierna para facilitar la puesta y el cambio de pañal. Una prenda clásica y atemporal, tejido suave, cálido y agradable al tacto así como respetuoso con la piel. Echa un ojito a nuestros conjuntos de punto y ranitas o petos y podrás combinarlo como más te guste! DISPONIBLE EN COLOR CRUDO, BLANCO CON CELESTE Y BLANCO CON ROSA.\n\nComposición y cuidados:\n\nBody: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Body de <strong>CALAMARO</strong>, una de nuestras firmas preferidas! De manga larga y con cuello bebé con piconela, en color blanco. Cierre trasero con corchetes hasta media espalda y en la entrepierna para facilitar la puesta y el cambio de pañal. <span style=\"color:#777777;font-family:robotoregular;font-size:14px;\">Una prenda clásica y atemporal, tejido suave, cálido y agradable al tacto así como respetuoso con la piel. Echa un ojito a nuestros </span><strong style=\"color:#777777;font-family:robotoregular;font-size:14px;margin:0px;padding:0px;\">conjuntos de punto y ranitas o petos</strong><span style=\"color:#777777;font-family:robotoregular;font-size:14px;\"> y podrás combinarlo como más te guste! </span><strong style=\"color:#777777;font-family:robotoregular;font-size:14px;margin:0px;padding:0px;\">DISPONIBLE EN COLOR CRUDO, BLANCO CON CELESTE Y BLANCO CON ROSA.</strong></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición y cuidados:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Body: 100% algodón</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><strong style=\"margin:0px;padding:0px;\">FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "896",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "896",
+  "sourceCategoryName": "Bodies bebé niño",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "73342",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "1610020",
+      "productSku": "1610020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:42.222Z"
+    },
+    {
+      "id": "73346",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1610020",
+      "productSku": "1610020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:45.933Z"
+    },
+    {
+      "id": "73345",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1610020",
+      "productSku": "1610020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:48.890Z"
+    },
+    {
+      "id": "73344",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1610020",
+      "productSku": "1610020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:52.258Z"
+    },
+    {
+      "id": "73343",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1610020",
+      "productSku": "1610020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:55.363Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6686-4626.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4626-large_default/body-piconela-mlarga-blanco.jpg",
+      "alt": "Body Piconela M/Larga Blanco",
+      "sourceId": "4626",
+      "variantIds": [],
+      "sha256": "93c1378b042b7d467e9d9b35efd01dc10f4c31a7db53a89a4b7f7f047abfe8bd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:55.434Z",
+  "issues": []
+}

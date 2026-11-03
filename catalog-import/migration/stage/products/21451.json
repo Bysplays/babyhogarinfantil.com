@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "21451",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21451-pantalon-largo-felpa-azul-marino.html",
+  "name": "Pantalón largo felpa Azul Marino",
+  "brand": "Chicco",
+  "sku": "2502093",
+  "description": "Pantalón básico tipo chandal largo para niño, con felpa interior. Cintura de goma y cordón ajustable.",
+  "details": "Composición:\n\n100% algodón",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>100% algodón</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96564",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:25.568Z"
+    },
+    {
+      "id": "96565",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:29.799Z"
+    },
+    {
+      "id": "96566",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:33.623Z"
+    },
+    {
+      "id": "96567",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:36.820Z"
+    },
+    {
+      "id": "96568",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:40.088Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21451-19932.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19932-large_default/pantalon-largo-felpa-azul-marino.jpg",
+      "alt": "Pantalón largo felpa Azul Marino",
+      "sourceId": "19932",
+      "variantIds": [],
+      "sha256": "5f8e0906f44a2e52f102a690b4ccee2197bf1a298a10b530404d5dd202e9aff9"
+    },
+    {
+      "path": "assets/21451-19933.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19933-large_default/pantalon-largo-felpa-azul-marino.jpg",
+      "alt": "Pantalón largo felpa Azul Marino",
+      "sourceId": "19933",
+      "variantIds": [],
+      "sha256": "ab5c7eb57732419314d98a4ad15176f73fa72d8ba67d89c38f9fd20c93660fef"
+    },
+    {
+      "path": "assets/21451-19934.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19934-large_default/pantalon-largo-felpa-azul-marino.jpg",
+      "alt": "Pantalón largo felpa Azul Marino",
+      "sourceId": "19934",
+      "variantIds": [],
+      "sha256": "bd900986a834dac2932729fc924b9edc6ac3ee0d5694c1cb1c8ec535610dd472"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:40.287Z",
+  "issues": []
+}

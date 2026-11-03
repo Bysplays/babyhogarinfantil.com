@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "7146",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nino/7146-zapato-piel-con-hebilla-rojo.html",
+  "name": "Zapato piel con hebilla Rojo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1803008",
+  "description": "Zapato pepito de piel napa lisa, con suela de goma. Cierre con hebilla metálica. Disponible en varios colores. FABRICADO EN ESPAÑA.",
+  "details": "Zapato pepito de piel napa lisa de gran calidad, con suela de goma, perfecta para evitar resbalones. Cierre con hebilla met&aacute;lica para una &oacute;ptima sujeci&oacute;n y comodidad en el pie. Un calzado cl&aacute;sico y atemporal, perfecto fondo de armario, combinable con todo tipo de conjuntos. Disponible en varios colores. \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p><strong>Zapato pepito de piel</strong>&nbsp;napa lisa de gran calidad, con suela de goma, perfecta para evitar resbalones. Cierre con hebilla met&aacute;lica para una &oacute;ptima sujeci&oacute;n y comodidad en el pie. Un calzado cl&aacute;sico y atemporal, perfecto fondo de armario, combinable con todo tipo de conjuntos.&nbsp;<strong>Disponible en varios colores.&nbsp;</strong></p>\r\n<p><strong>FABRICADO EN ESPA&Ntilde;A</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "701"
+  ],
+  "sourceDefaultCategoryId": "701",
+  "sourceCategoryName": "Calzado Niño",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "252",
+          "label": "26"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65102",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "1803008",
+      "productSku": "1803008",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:17.192Z"
+    },
+    {
+      "id": "65104",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "1803008",
+      "productSku": "1803008",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:20.552Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7146-10038.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10038-large_default/zapato-piel-con-hebilla-rojo.jpg",
+      "alt": "Zapato piel con hebilla Rojo",
+      "sourceId": "10038",
+      "variantIds": [],
+      "sha256": "eca26c5f97d0d4c49cdd57b873785d3a3e5b62c8ca1f85caa5fd46d757a5b5eb"
+    },
+    {
+      "path": "assets/7146-10039.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10039-large_default/zapato-piel-con-hebilla-rojo.jpg",
+      "alt": "Zapato piel con hebilla Rojo",
+      "sourceId": "10039",
+      "variantIds": [],
+      "sha256": "afa5ff7c6238809a76dc8ce6d2031b4c9b4b85f55ed2cb73a4180af692aae3c5"
+    },
+    {
+      "path": "assets/7146-5112.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5112-large_default/zapato-piel-con-hebilla-rojo.jpg",
+      "alt": "Zapato piel con hebilla Rojo",
+      "sourceId": "5112",
+      "variantIds": [],
+      "sha256": "533cb1ce1a61788ee83c00a55a1dc4ac13bd1a4d356124215093e93ce71f70d2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:20.758Z",
+  "issues": []
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "21449",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21449-pantalon-largo-felpa-verde.html",
+  "name": "Pantalón largo felpa Verde",
+  "brand": "Chicco",
+  "sku": "2502093",
+  "description": "Pantalón básico tipo chandal largo para niño, con felpa interior. Cintura de goma y cordón ajustable.",
+  "details": "Composición: \n\n100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p>100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96551",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:24.725Z"
+    },
+    {
+      "id": "96552",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:28.823Z"
+    },
+    {
+      "id": "96553",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:32.149Z"
+    },
+    {
+      "id": "96554",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:35.591Z"
+    },
+    {
+      "id": "96556",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:38.935Z"
+    },
+    {
+      "id": "96557",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502093",
+      "productSku": "2502093",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:42.026Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21449-19926.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19926-large_default/pantalon-largo-felpa-verde.jpg",
+      "alt": "Pantalón largo felpa Verde",
+      "sourceId": "19926",
+      "variantIds": [],
+      "sha256": "47130b792918380c9088647a1e45bdf2559fdfa5f937e0e61eb6723ad2e635b5"
+    },
+    {
+      "path": "assets/21449-19927.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19927-large_default/pantalon-largo-felpa-verde.jpg",
+      "alt": "Pantalón largo felpa Verde",
+      "sourceId": "19927",
+      "variantIds": [],
+      "sha256": "735278646c7956bd7c0b1cbe51cf14cd07e29d5a46231a3d170869e87b810919"
+    },
+    {
+      "path": "assets/21449-19928.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19928-large_default/pantalon-largo-felpa-verde.jpg",
+      "alt": "Pantalón largo felpa Verde",
+      "sourceId": "19928",
+      "variantIds": [],
+      "sha256": "b34747d77c9acd240aa2bc8f06d8362179e97c136824b5b452981f145ac31385"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:42.259Z",
+  "issues": []
+}

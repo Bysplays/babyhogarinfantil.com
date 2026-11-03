@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10023",
+  "sourceUrl": "https://babyhogarinfantil.com/sacos-silla-capazo-y-grupo-0/10023-saco-arrullo-pelo-crudo.html",
+  "name": "Saco arrullo pelo Crudo",
+  "brand": "Mac Ilusión",
+  "sku": "2208155",
+  "description": "Envuelve a tu pequeño en máximo confort y dulzura con este Saco arrullo pelo crudo. Un diseño sobrio y elegante, con el toque suave y tierno ideal para la piel delicada de los bebés. El calor perfecto para mantener a tu pequeño agradablemente protegido del frío durante los paseos o en casa. Con una calidad excepcional y facilidad de uso, hará de cada momento uno especial. Porque cada bebé merece ser arropado en amor y confort, este saco arrullo es el aliado perfecto para asegurar un bienestar indiscutible a los retoños del hogar. No hay nada que pueda igualar la sensación de ver a tu bebé tranquilo y cómodo, y con este Saco arrullo pelo crudo, esa sensación es una garantía.",
+  "details": "Disfrute de la suavidad y calidez insuperable que ofrece nuestra lujoso Saco Arrullo Pelo Crudo. Diseñado para proporcionar a los bebés el máximo confort y dulces sueños, este saco de excepcional calidad se convertirá en el favorito de su pequeño enseguida.\n\nCalidad y Elegancia\n\nNuestro Saco Arrullo Pelo Crudo no sólo ofrece la suavidad que su bebé necesita, sino que también añade un toque de elegancia a su cuna. Es el artículo esencial que combina a la perfección la calidad superior y la sofisticación, convirtiéndolo en una opción excelente para todas las mamás fashionistas.\n\nSeguridad y Cuidado\n\nHecho con un cuidado excepcional y atención al detalle, el Saco Arrullo Pelo Crudo garantiza seguridad y un abrazo cálido a su bebé. La textura suave y mullida crea una capa extra de protección y confort, garantizando un sueño tranquilo y seguro.\n\nAdquiera nuestro Saco Arrullo Pelo Crudo hoy y haga de cada sueño de su pequeño una maravillosa experiencia. Una elección que no sólo satisfará las necesidades de su bebé, sino que también le proporcionará serenidad a usted como madre.",
+  "sourceDescriptionHtml": "<div>\n<p>Disfrute de la suavidad y calidez insuperable que ofrece nuestra lujoso <strong>Saco Arrullo Pelo Crudo</strong>. Diseñado para proporcionar a los bebés el máximo confort y dulces sueños, este saco de excepcional calidad se convertirá en el favorito de su pequeño enseguida.</p>\n<h2>Calidad y Elegancia</h2>\n<p>Nuestro <strong>Saco Arrullo Pelo Crudo</strong> no sólo ofrece la suavidad que su bebé necesita, sino que también añade un toque de elegancia a su cuna. Es el artículo esencial que combina a la perfección la calidad superior y la sofisticación, convirtiéndolo en una opción excelente para todas las mamás fashionistas.</p>\n<h2>Seguridad y Cuidado</h2>\n<p>Hecho con un cuidado excepcional y atención al detalle, el <strong>Saco Arrullo Pelo Crudo</strong> garantiza seguridad y un abrazo cálido a su bebé. La textura suave y mullida crea una capa extra de protección y confort, garantizando un sueño tranquilo y seguro.</p>\n<p>Adquiera nuestro <strong>Saco Arrullo Pelo Crudo</strong> hoy y haga de cada sueño de su pequeño una maravillosa experiencia. Una elección que no sólo satisfará las necesidades de su bebé, sino que también le proporcionará serenidad a usted como madre.</p>\n</div>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "801"
+  ],
+  "sourceDefaultCategoryId": "801",
+  "sourceCategoryName": "Sacos silla capazo y grupo 0",
+  "price": 52.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:56",
+  "sourceUpdatedAt": "2026-10-27 11:12:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "101749",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10641XA16509",
+      "productSku": "2208155",
+      "taxRate": 21,
+      "price": 52.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:11.994Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10023-8083.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8083-large_default/saco-arrullo-pelo-crudo.jpg",
+      "alt": "Saco arruyo pelo Crudo",
+      "sourceId": "8083",
+      "variantIds": [],
+      "sha256": "ac947f5eb056c85b37e93744476e989b4527203308ff7d160f51b1130afe5be8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:12.077Z",
+  "issues": []
+}

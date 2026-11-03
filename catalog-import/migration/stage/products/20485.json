@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "20485",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nina/20485-conjunto-leggin-con-sudadera-nina-petroleo.html",
+  "name": "Conjunto leggin con sudadera niña Petroleo",
+  "brand": "Mayoral",
+  "sku": "2502055",
+  "description": "Conjunto de sudadera con hombros caidos y bajo con goma.",
+  "details": "COMPOSICIÓN\n\nSudadera:\n\n98% Algodón\n\n2% Elastano\n\nLeggin:\n\n92% Viscosa\n\n8% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Sudadera:</strong></p>\n<p>98% Algodón</p>\n<p>2% Elastano</p>\n<p><strong>Leggin:</strong></p>\n<p>92% Viscosa</p>\n<p>8% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Petroleo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "755",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "755",
+  "sourceCategoryName": "Conjuntos Niña",
+  "price": 32.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94905",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502055",
+      "productSku": "2502055",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:30.269Z"
+    },
+    {
+      "id": "94906",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502055",
+      "productSku": "2502055",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:32.416Z"
+    },
+    {
+      "id": "94907",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502055",
+      "productSku": "2502055",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:34.562Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20485-19849.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19849-large_default/conjunto-leggin-con-sudadera-nina-petroleo.jpg",
+      "alt": "Conjunto leggin con sudadera niña Petroleo",
+      "sourceId": "19849",
+      "variantIds": [],
+      "sha256": "6e8bdddd1f9eddcce566a3d6059af19f759f1f92d94a73ddbb840106e82218a4"
+    },
+    {
+      "path": "assets/20485-19850.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19850-large_default/conjunto-leggin-con-sudadera-nina-petroleo.jpg",
+      "alt": "Conjunto leggin con sudadera niña Petroleo",
+      "sourceId": "19850",
+      "variantIds": [],
+      "sha256": "85de218ae45a70bbb2c81897f2d4e966ee29c87ed852635361ae9bd13f527ae3"
+    },
+    {
+      "path": "assets/20485-19851.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19851-large_default/conjunto-leggin-con-sudadera-nina-petroleo.jpg",
+      "alt": "Conjunto leggin con sudadera niña Petroleo",
+      "sourceId": "19851",
+      "variantIds": [],
+      "sha256": "6abc1395f02e94e744c82f57733e4e1ec59229d31432fb0e66286eb5445252dd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:34.762Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8410",
+  "sourceUrl": "https://babyhogarinfantil.com/velas-para-bautizo/8410-vela-para-bautizo-cordon-perlas-crudo.html",
+  "name": "Vela para bautizo CORDON PERLAS Crudo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2007135",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "814",
+    "731"
+  ],
+  "sourceDefaultCategoryId": "731",
+  "sourceCategoryName": "Velas para bautizo",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100009",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8167XA13163",
+      "productSku": "2007135",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:47.323Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8410-18476.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18476-large_default/vela-para-bautizo-cordon-perlas-crudo.jpg",
+      "alt": "Vela para bautizo CORDON PERLAS Crudo",
+      "sourceId": "18476",
+      "variantIds": [],
+      "sha256": "b8e5f184541869b8ac33ac3023d125af5554645c19f1e7e0edfdbc6fb0ddcb14"
+    },
+    {
+      "path": "assets/8410-18477.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18477-large_default/vela-para-bautizo-cordon-perlas-crudo.jpg",
+      "alt": "Vela para bautizo CORDON PERLAS Crudo",
+      "sourceId": "18477",
+      "variantIds": [],
+      "sha256": "b8f0ebf381c02cf0a488e4c8846aa3a1f52aa248bf5ba4b0c02392f715e955ea"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:47.450Z",
+  "issues": []
+}

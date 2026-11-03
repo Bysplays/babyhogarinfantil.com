@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "9111",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9111-conjunto-bebe-mostaza-y-camisa-a-cuadros-mostaza.html",
+  "name": "Conjunto bebe mostaza y camisa a cuadros Mostaza",
+  "brand": "Yoedu",
+  "sku": "2109004",
+  "description": "Descubre el perfecto Conjunto Bebé Mostaza y Camisa a Cuadros Mostaza. Un diseño exquisito para tu pequeño caballero que combina comodidad y estilo. Colores vibrantes que capturan toda la alegría y energía de los más pequeños. Confección de calidad pensada para resistir todas las aventuras de tu bebé. Es la elección perfecta para cualquier ocasión, desde un día casual en el parque hasta una reunión familiar importante. ¡Déjate seducir por la magia de una prenda única que convertirá a tu hijo en el centro de todas las miradas!",
+  "details": "Vistiendo a tu pequeño con estilo \n\n Este conjunto de bebé mostaza y camisa a cuadros color mostaza presenta un diseño contemporáneo y elegante perfectamente adecuado para ocasiones especiales o para un día cómodo en casa. Hecho con materiales de la más alta calidad, garantiza comodidad y durabilidad, incluso en las aventuras más agitadas de su pequeño. \n\n\n Comodidad y Elegancia en Cada Hilo \n\n Imagina a tu pequeño luciendo este elegante conjunto, resaltando sus dulces rasgos y su inocencia. Sus suaves y acogedores materiales proporcionan un tacto delicado en la piel del bebé. El precioso color mostaza aporta un toque de luz y alegría, mientras que la camisa a cuadros da un toque sofisticado e intemporal. \n\n\n Perfecto para Ocasiones Especiales \n\n Ya sea para un cumpleaños, un paseo en el parque, o para hacer fotos inolvidables, este conjunto es una elección perfecta. Su diseño versátil lo convierte en el atuendo ideal para cada evento. ¡Haz que cada momento sea memorable con este adorable conjunto! \n\n\n¡No te pierdas esta excepcional oferta y añade este magnífico conjunto a tu carrito ahora! Disfruta de ver a tu pequeño vestido con el más refinado estilo y comodidad. Haz click en \\'Comprar Ahora\\' y dale a tu pequeño el toque de elegancia que se merece.",
+  "sourceDescriptionHtml": "<h2> Vistiendo a tu pequeño con estilo </h2>\n<p> Este conjunto de bebé mostaza y camisa a cuadros color mostaza presenta un diseño contemporáneo y elegante perfectamente adecuado para ocasiones especiales o para un día cómodo en casa. Hecho con materiales de la más alta calidad, garantiza comodidad y durabilidad, incluso en las aventuras más agitadas de su pequeño. </p>\n\n<h3> Comodidad y Elegancia en Cada Hilo </h3>\n<p> Imagina a tu pequeño luciendo este elegante conjunto, resaltando sus dulces rasgos y su inocencia. Sus suaves y acogedores materiales proporcionan un tacto delicado en la piel del bebé. El precioso color mostaza aporta un toque de luz y alegría, mientras que la camisa a cuadros da un toque sofisticado e intemporal. </p>\n\n<h4> Perfecto para Ocasiones Especiales </h4>\n<p> Ya sea para un cumpleaños, un paseo en el parque, o para hacer fotos inolvidables, este conjunto es una elección perfecta. Su diseño versátil lo convierte en el atuendo ideal para cada evento. ¡Haz que cada momento sea memorable con este adorable conjunto! </p>\n\n<em><b>¡No te pierdas esta excepcional oferta y añade este magnífico conjunto a tu carrito ahora! Disfruta de ver a tu pequeño vestido con el más refinado estilo y comodidad. Haz click en \\'Comprar Ahora\\' y dale a tu pequeño el toque de elegancia que se merece.</b></em>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mostaza",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 42.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:45",
+  "sourceUpdatedAt": "2026-10-27 11:11:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68552",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2109004",
+      "productSku": "2109004",
+      "taxRate": 21,
+      "price": 42.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:28.869Z"
+    },
+    {
+      "id": "68554",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2109004",
+      "productSku": "2109004",
+      "taxRate": 21,
+      "price": 42.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:30.312Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9111-11920.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11920-large_default/conjunto-bebe-mostaza-y-camisa-a-cuadros-mostaza.jpg",
+      "alt": "Conjunto bebe mostaza y camisa a cuadros Mostaza",
+      "sourceId": "11920",
+      "variantIds": [],
+      "sha256": "8dc7dd15eb94e3a59b31a763246cef4caf0f65fe71e6909804f25be7943b89b1"
+    },
+    {
+      "path": "assets/9111-7397.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7397-large_default/conjunto-bebe-mostaza-y-camisa-a-cuadros-mostaza.jpg",
+      "alt": "Conjunto bebe mostaza y camisa a cuadros Mostaza",
+      "sourceId": "7397",
+      "variantIds": [],
+      "sha256": "eba8d776f2456841885f1cd4b7d8d7828f76d94f7b5c4bce6b6f355547922885"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:30.478Z",
+  "issues": []
+}

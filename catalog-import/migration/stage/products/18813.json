@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "18813",
+  "sourceUrl": "https://babyhogarinfantil.com/gorros-y-bufandas-bebe-y-nina/18813-cuello-ter-azul.html",
+  "name": "Cuello Ter Azul",
+  "brand": "Calamaro",
+  "sku": "2402153",
+  "description": "Braga cuello con borreguito. Talla única.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nCuello: 86% poliéster, 10% viscosa, 4% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Cuello: 86% poliéster, 10% viscosa, 4% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "764"
+  ],
+  "sourceDefaultCategoryId": "764",
+  "sourceCategoryName": "Gorros y bufandas bebé y niña",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-09-25 23:54:24",
+  "sourceUpdatedAt": "2026-10-27 11:13:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87643",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12283XA18811",
+      "productSku": "2402153",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:46.075Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18813-17515.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17515-large_default/cuello-ter-azul.jpg",
+      "alt": "Cuello Ter Azul",
+      "sourceId": "17515",
+      "variantIds": [],
+      "sha256": "17a74d0541c806368d7c35f6175f1d133c958ff7e94ded67789681f1cd405a31"
+    },
+    {
+      "path": "assets/18813-17516.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17516-large_default/cuello-ter-azul.jpg",
+      "alt": "Cuello Ter Azul",
+      "sourceId": "17516",
+      "variantIds": [],
+      "sha256": "3b04055fc391357bbbf3bf2fce1834a71a952953150e3dbb577bb9842f3c7a62"
+    },
+    {
+      "path": "assets/18813-17517.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17517-large_default/cuello-ter-azul.jpg",
+      "alt": "Cuello Ter Azul",
+      "sourceId": "17517",
+      "variantIds": [],
+      "sha256": "c4ca70ef94696e5d7ce7fe878f80db340d9a865c4058eb988d071bab7c588d60"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:46.272Z",
+  "issues": []
+}

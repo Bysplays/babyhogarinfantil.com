@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "21622",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21622-pantalon-felpa-basico-punos-acero.html",
+  "name": "Pantalón felpa básico puños Acero",
+  "brand": "Mayoral",
+  "sku": "2502040",
+  "description": "Pantalón largo básico deportivo para niño, con felpa interior.  Tiene la cinturilla elástica con cordón ajustable. En las piernas rodilleras reforzadas en el interior para evitar el desgaste y ofrecer mayor resistencia. El bajo con elástico para un mejor ajuste. Bolsillos funcionales en los laterales. Una prenda esencial en su armario para completar cualquier look.",
+  "details": "COMPOSICIÓN\n\n\nPantalón:\n\n\n58% Algodón\n\n\n38% Poliéster\n\n\n4% Elastano",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\">COMPOSICIÓN</p><p></p>\n<p class=\"MsoNormal\"><b>Pantalón:</b></p><p></p>\n<p class=\"MsoNormal\">58% Algodón</p><p></p>\n<p class=\"MsoNormal\">38% Poliéster</p><p></p>\n<p class=\"MsoNormal\">4% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Acero",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-12-04 23:54:28",
+  "sourceUpdatedAt": "2026-10-27 11:14:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97863",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:33.418Z"
+    },
+    {
+      "id": "97864",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:36.687Z"
+    },
+    {
+      "id": "97866",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:39.906Z"
+    },
+    {
+      "id": "97867",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:42.274Z"
+    },
+    {
+      "id": "97868",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:44.862Z"
+    },
+    {
+      "id": "97870",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:46.782Z"
+    },
+    {
+      "id": "97871",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:48.610Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21622-20282.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20282-large_default/pantalon-felpa-basico-punos-acero.jpg",
+      "alt": "Pantalón felpa básico puños Acero",
+      "sourceId": "20282",
+      "variantIds": [],
+      "sha256": "45b45b597b9b22e3e6d600db866236855651d4186c967a1d2c14a6c323af52e6"
+    },
+    {
+      "path": "assets/21622-20280.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20280-large_default/pantalon-felpa-basico-punos-acero.jpg",
+      "alt": "Pantalón felpa básico puños Acero",
+      "sourceId": "20280",
+      "variantIds": [],
+      "sha256": "221f9961cb82707c5ac7569321b5d50471d79dfa6e2348cff6fd016e28120f1b"
+    },
+    {
+      "path": "assets/21622-20281.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20281-large_default/pantalon-felpa-basico-punos-acero.jpg",
+      "alt": "Pantalón felpa básico puños Acero",
+      "sourceId": "20281",
+      "variantIds": [],
+      "sha256": "abd99768fb3922f2b5fbaa6bbaf8be593c48f9bc5ec8ce4480cb2f4708969683"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:48.828Z",
+  "issues": []
+}

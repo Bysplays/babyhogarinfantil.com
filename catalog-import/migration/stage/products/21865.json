@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "21865",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/21865-bolero-trico-basico-crudo.html",
+  "name": "Bolero trico básico Crudo",
+  "brand": "Mayoral",
+  "sku": "2601044",
+  "description": "Chaqueta bolero para bebé niña en punto color crudo, elegante y ligera, ideal para ceremonia, bautizo y ocasiones especiales.",
+  "details": "Elegante chaqueta bolero para bebé niña confeccionada en suave tejido de punto, perfecta para completar looks de ceremonia y ocasiones especiales.\n\nSu delicado color crudo la convierte en una opción ideal para bautizos, eventos y conjuntos más formales. El diseño corto tipo bolero aporta un estilo sofisticado y armoniza perfectamente con vestidos y conjuntos de bebé.\n\nEsta chaqueta de punto para bebé niña es ligera, cómoda y fácil de poner, ofreciendo un extra de abrigo sin perder elegancia.\n\nCaracterísticas:\n\n\nTejido de punto suave y confortable\n\nDiseño tipo bolero corto\n\nCierre delantero con botón\n\nColor crudo ideal para bautizo y ceremonia\n\nPerfecta para entretiempo\n\nComposición: 80% algodón, 12% poliamida, 3% elastano\n\n\nUna prenda imprescindible para completar conjuntos elegantes de bebé niña en ocasiones especiales.",
+  "sourceDescriptionHtml": "<p>Elegante <strong>chaqueta bolero para bebé niña</strong> confeccionada en suave tejido de punto, perfecta para completar looks de ceremonia y ocasiones especiales.</p>\n<p>Su delicado color <strong>crudo</strong> la convierte en una opción ideal para <strong>bautizos</strong>, eventos y conjuntos más formales. El diseño corto tipo <strong>bolero</strong> aporta un estilo sofisticado y armoniza perfectamente con vestidos y conjuntos de bebé.</p>\n<p>Esta <strong>chaqueta de punto para bebé niña</strong> es ligera, cómoda y fácil de poner, ofreciendo un extra de abrigo sin perder elegancia.</p>\n<p><strong>Características:</strong></p>\n<ul>\n<li>Tejido de punto suave y confortable</li>\n<li>Diseño tipo bolero corto</li>\n<li>Cierre delantero con botón</li>\n<li>Color crudo ideal para bautizo y ceremonia</li>\n<li>Perfecta para entretiempo</li>\n<li>Composición: <strong>80% algodón, 12% poliamida, 3% elastano</strong></li>\n</ul>\n<p>Una prenda imprescindible para completar conjuntos elegantes de bebé niña en ocasiones especiales.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "674"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-17 15:56:56",
+  "sourceUpdatedAt": "2026-10-27 11:15:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100105",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2601044",
+      "productSku": "2601044",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:37.307Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21865-20714.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20714-large_default/bolero-trico-basico-crudo.jpg",
+      "alt": "Chaqueta bolero bebé niña crudo punto bautizo ceremonia",
+      "sourceId": "20714",
+      "variantIds": [],
+      "sha256": "381b5562adbd46be44b375d59edebcfd0b037121f8d477089d095becad63c73e"
+    },
+    {
+      "path": "assets/21865-20715.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20715-large_default/bolero-trico-basico-crudo.jpg",
+      "alt": "Detalle chaqueta bebé niña punto crudo bolero tejido Mayoral",
+      "sourceId": "20715",
+      "variantIds": [],
+      "sha256": "87bb1829e3a5d72b7bbbc4bf8fbdf3f0e7bc84bd8769842a94b3e67d50e396bc"
+    },
+    {
+      "path": "assets/21865-20716.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20716-large_default/bolero-trico-basico-crudo.jpg",
+      "alt": "Chaqueta bebé niña bolero crudo vista trasera elegante",
+      "sourceId": "20716",
+      "variantIds": [],
+      "sha256": "58d700c484d6b70f57a1648842864e63bac6dbe66be6c1b1aed48f3cbcdead94"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:37.480Z",
+  "issues": []
+}

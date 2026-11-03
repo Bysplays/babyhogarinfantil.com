@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "6405",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bautizo/6405-merceditas-en-piel-con-velcro-charol-crudo.html",
+  "name": "Merceditas en piel con velcro Charol Crudo",
+  "brand": "Caminito",
+  "sku": "1449",
+  "description": "Zapato en piel CHAROL color crudo. Ideal para bautizo. Cierra con velcro.",
+  "details": "Recuerda que disponemos de todo lo necesario para el bautizo, desde el faldón o vestido y el traje hasta todos los complementos para el bautizo, como las toquillas, la vela para el padrino, y los paños bautismales que puedes personalizar con nombre y fecha. Consúltalo todo en nuestras secciones de bautizo, y no dudes en llamarnos para cualquier aclaración a nuestros teléfono 886 166 179 o por WSP 695 251 402\n\nGarantizamos que para la fabricación de estos zapatos se han empleado materiales de primera calidad en todos sus componentes.",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\"><span style=\"font-size:10pt;line-height:107%;font-family:robotoregular;color:#777777;\">Recuerda que disponemos de todo lo necesario para el bautizo, desde el faldón o vestido y el traje hasta todos los complementos para el bautizo, como las<strong><span style=\"font-family:robotoregular;\"> toquillas</span></strong>, la<strong><span style=\"font-family:robotoregular;\"> vela para el padrino</span></strong>, y los <strong><span style=\"font-family:robotoregular;\">paños bautismales</span></strong> que puedes personalizar con nombre y fecha. Consúltalo todo en nuestras secciones de bautizo, y no dudes en llamarnos para cualquier aclaración a nuestros teléfono <strong><span style=\"font-family:robotoregular;\">886 166 179</span></strong> o por WSP <strong><span style=\"font-family:robotoregular;\">695 251 402</span></strong></span></p>\n<p class=\"MsoNormal\"><span style=\"font-size:10pt;line-height:107%;font-family:robotoregular;color:#777777;\">Garantizamos que para la fabricación de estos zapatos se han empleado materiales de primera calidad en todos sus componentes.</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charol crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "814",
+    "693"
+  ],
+  "sourceDefaultCategoryId": "693",
+  "sourceCategoryName": "Calzado Bautizo",
+  "price": 27,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "256",
+          "label": "15"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "259",
+          "label": "19con"
+        },
+        {
+          "id": "258",
+          "label": "19sin"
+        },
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "260",
+          "label": "21"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63486",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "258",
+          "group": "Tamaño",
+          "value": "19sin"
+        }
+      ],
+      "sku": "1348XF3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 27,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:00.419Z"
+    },
+    {
+      "id": "144700",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1348XA3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:01.945Z"
+    },
+    {
+      "id": "144701",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "1348XB3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:03.906Z"
+    },
+    {
+      "id": "144702",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "1348XC3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:06.149Z"
+    },
+    {
+      "id": "144703",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "1348XD3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:08.591Z"
+    },
+    {
+      "id": "144704",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "1348XE3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:10.669Z"
+    },
+    {
+      "id": "144705",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "259",
+          "group": "Tamaño",
+          "value": "19con"
+        }
+      ],
+      "sku": "1348XG3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:12.171Z"
+    },
+    {
+      "id": "144706",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "1348XH3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:13.243Z"
+    },
+    {
+      "id": "144707",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "260",
+          "group": "Tamaño",
+          "value": "21"
+        }
+      ],
+      "sku": "1348XI3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:15.537Z"
+    },
+    {
+      "id": "144708",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "1348XJ3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:17.439Z"
+    },
+    {
+      "id": "144709",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "1348XK3192",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:18.587Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6405-4393.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4393-large_default/merceditas-en-piel-con-velcro-charol-crudo.jpg",
+      "alt": "Merceditas en piel con velcro Charol Crudo",
+      "sourceId": "4393",
+      "variantIds": [],
+      "sha256": "3995e72856b931fc8d882dbc7eadcd38fb347a6d0d772a190da6298ac1cf3929"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:18.666Z",
+  "issues": []
+}

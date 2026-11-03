@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "id": "6199",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/6199-zapato-velcro-sin-puntera-25-al-28-negro.html",
+  "name": "Zapato velcro Sin puntera 25 al 28 Negro",
+  "brand": "Gorila",
+  "sku": "976",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "890"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 46,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        },
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "260",
+          "label": "21"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        },
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "279",
+          "label": "25"
+        },
+        {
+          "id": "252",
+          "label": "26"
+        },
+        {
+          "id": "280",
+          "label": "27"
+        },
+        {
+          "id": "281",
+          "label": "28"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "144218",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "867XA14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:58.100Z"
+    },
+    {
+      "id": "144219",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "867XB14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:00.876Z"
+    },
+    {
+      "id": "144220",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "867XC14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:03.717Z"
+    },
+    {
+      "id": "144221",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "260",
+          "group": "Tamaño",
+          "value": "21"
+        }
+      ],
+      "sku": "867XD14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:06.768Z"
+    },
+    {
+      "id": "144222",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "867XE14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:08.565Z"
+    },
+    {
+      "id": "144223",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "867XF14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:10.195Z"
+    },
+    {
+      "id": "144224",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "867XG14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:11.941Z"
+    },
+    {
+      "id": "144225",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "279",
+          "group": "Tamaño",
+          "value": "25"
+        }
+      ],
+      "sku": "867XH14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:13.500Z"
+    },
+    {
+      "id": "144226",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "867XI14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:14.919Z"
+    },
+    {
+      "id": "144227",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "280",
+          "group": "Tamaño",
+          "value": "27"
+        }
+      ],
+      "sku": "867XJ14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:16.766Z"
+    },
+    {
+      "id": "144228",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "281",
+          "group": "Tamaño",
+          "value": "28"
+        }
+      ],
+      "sku": "867XK14608",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:18.404Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:10:18.404Z",
+  "issues": [
+    "No verified images"
+  ]
+}

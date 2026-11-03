@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7066",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/7066-chaqueta-bolero-lurex-oro.html",
+  "name": "Chaqueta bolero Lurex Oro",
+  "brand": "Pecesa",
+  "sku": "1801000",
+  "description": "Brillo, elegancia, encanto, todo envuelto en la espectacular Chaqueta Bolero Lurex Oro. La prenda ideal para las pequeñas princesas que adoran destacarse en cada ocasión. Su diseño audaz y glamuroso seducirá a los ojos más críticos. Ligeramente abierta al frente, realza cualquier vestido de verano, mientras sus destellos dorados evocan atardeceres de verano. Perfecta para una fiesta al aire libre o para añadir glamour a un atuendo casual. ¡Transforma su mundo en una pista de oro!",
+  "details": "Brillo Único\n\nSi lo que buscas es un toque de brillo y distinción para engrandecer el armario de tus pequeños, nuestra Chaqueta Bolero Lurex Oro es la pieza perfecta. Este glamuroso bolero, diseñado con lúrex de oro, aportará un toque de elegancia a cualquier conjunto. Realzará las apariencias más sencillas a nuevas alturas de sofisticación.\n\nUn Tesoro Versátil\n\nNuestra Chaqueta Bolero Lurex Oro está hecha para todas las ocasiones. Ya sea un evento de noche o una fiesta de cumpleaños en el día, esta chaqueta es un espectacular comodín de estilo. Con su irresistible brillo dorado y su corte clásico, será una prenda destacada en cualquier vestidor que añadirá glamour a cualquier atuendo de tus pequeños.\n\nComodidad y Elegancia\n\nNo sacrifiquemos la comodidad por el estilo. Aunque la Chaqueta Bolero Lurex Oro es una prenda de lujo, está pensada para ser cómoda y fácil de llevar. Las pieles delicadas de tus niños agradecerán su suave tejido, y sus libres movimientos no serán restringidos. La elegancia y comodidad de nuestros hijos son nuestra prioridad.\n\n\n\n\n\nLúcete con Nuestra Chaqueta Bolero Lurex Oro\n\nNo dejes pasar esta oportunidad de glamour y versatilidad en un solo artículo. Compra ahora la Chaqueta Bolero Lurex Oro y añade un toque de originalidad y distinción al armario de tus pequeños.\n\nComposición:\n\n50% Algodón\n\n50% Poliéster",
+  "sourceDescriptionHtml": "<h2>Brillo Único</h2>\n<p>Si lo que buscas es un toque de brillo y distinción para engrandecer el armario de tus pequeños, nuestra Chaqueta Bolero Lurex Oro es la pieza perfecta. Este glamuroso bolero, diseñado con lúrex de oro, aportará un toque de elegancia a cualquier conjunto. Realzará las apariencias más sencillas a nuevas alturas de sofisticación.</p>\n<h2>Un Tesoro Versátil</h2>\n<p>Nuestra Chaqueta Bolero Lurex Oro está hecha para todas las ocasiones. Ya sea un evento de noche o una fiesta de cumpleaños en el día, esta chaqueta es un espectacular comodín de estilo. Con su irresistible brillo dorado y su corte clásico, será una prenda destacada en cualquier vestidor que añadirá glamour a cualquier atuendo de tus pequeños.</p>\n<h2>Comodidad y Elegancia</h2>\n<p>No sacrifiquemos la comodidad por el estilo. Aunque la Chaqueta Bolero Lurex Oro es una prenda de lujo, está pensada para ser cómoda y fácil de llevar. Las pieles delicadas de tus niños agradecerán su suave tejido, y sus libres movimientos no serán restringidos. La elegancia y comodidad de nuestros hijos son nuestra prioridad.</p>\n<p></p>\n<p></p>\n<h4 style=\"text-align:center;\">Lúcete con Nuestra Chaqueta Bolero Lurex Oro</h4>\n<p>No dejes pasar esta oportunidad de glamour y versatilidad en un solo artículo. Compra ahora la Chaqueta Bolero Lurex Oro y añade un toque de originalidad y distinción al armario de tus pequeños.</p>\n<p>Composición:</p>\n<p>50% Algodón</p>\n<p>50% Poliéster </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2020",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Oro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 14.48,
+  "oldPrice": 28.9553,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64948",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1801000",
+      "productSku": "1801000",
+      "taxRate": 21,
+      "price": 14.48,
+      "oldPrice": 28.9553,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:43.315Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7066-9927.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9927-large_default/chaqueta-bolero-lurex-oro.jpg",
+      "alt": "Chaqueta bolero Lurex Oro",
+      "sourceId": "9927",
+      "variantIds": [],
+      "sha256": "1dae9a17026405c57e01be0cce9f293b2fd561962552971a4ced2e4b9998943d"
+    },
+    {
+      "path": "assets/7066-4961.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4961-large_default/chaqueta-bolero-lurex-oro.jpg",
+      "alt": "Chaqueta bolero Lurex Oro",
+      "sourceId": "4961",
+      "variantIds": [],
+      "sha256": "ab511caaf00b9098bc628bae93952cb88623d893db79689bca11f8940a60f8d9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:43.484Z",
+  "issues": []
+}

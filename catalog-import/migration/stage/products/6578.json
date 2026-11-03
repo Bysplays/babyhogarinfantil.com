@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6578",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/6578-chaqueta-nina-bobita-rojo.html",
+  "name": "Chaqueta niña Bobita Rojo",
+  "brand": "Mac Ilusión",
+  "sku": "1602069",
+  "description": "Chaqueta ROJA corta para vestidos. Abrocha con un solo botón. Temporada PRIMAVERA-VERANO",
+  "details": "Composición:\n\nChaqueta Roja: 100% Acrilico DRALON antialérgico.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR SIEMPRE DEL REVES A 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta Roja: 100% Acrilico DRALON antialérgico.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR SIEMPRE DEL REVES A 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2016",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 9.98,
+  "oldPrice": 19.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-26 19:38:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63826",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1602069",
+      "productSku": "1602069",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:06.839Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6578-4530.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4530-large_default/chaqueta-nina-bobita-rojo.jpg",
+      "alt": "Chaqueta niña Bobita Rojo",
+      "sourceId": "4530",
+      "variantIds": [],
+      "sha256": "d79df1afde1489165454b2e04954ccf67e50cb445acbe240423c5776b9ec7ad0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:06.907Z",
+  "issues": []
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "9268",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/9268-parka-bebe-nina-verano-rosa.html",
+  "name": "Parka bebe niña verano Rosa",
+  "brand": "Zippy",
+  "sku": "2111066",
+  "description": "Cortavientos con corte evasé, rosa con capucha y cierre con cremallera. Tiene goma en los puños y en la capucha, para un mayor ajuste. Con forro interior.",
+  "details": "Chaqueta cortavientos de ZIPPY, una de nuestras firmas preferidas! En color rosa, corte evasé, con capucha y cierre delantero con cremallera y tirador con forma de corazón. Goma en la capucha y puños de las mangas para un mayor ajuste. Completamente forrada. Una prenda muy ligera y cómoda, ideal para entretiempo. Echa un ojito a nuestros conjuntos sport, calzado y calcetines y podrás combinarla como más te guste!\n\nComposición y cuidados:\n\nParka: 100% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;font-size:12px;letter-spacing:0.28px;\">Chaqueta cortavientos de <strong>ZIPPY</strong>, una de nuestras firmas preferidas! En color rosa, corte <strong>evasé</strong>, con capucha y cierre delantero con cremallera y tirador con forma de corazón. Goma en la capucha y puños de las mangas para un mayor ajuste. <strong>Completamente forrada</strong>. Una prenda muy ligera y cómoda, ideal para entretiempo. Echa un ojito a nuestros <strong>conjuntos sport, calzado y calcetines</strong> y podrás combinarla como más te guste!</span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;font-size:12px;letter-spacing:0.28px;\">Composición y cuidados:</span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;font-size:12px;letter-spacing:0.28px;\">Parka: 100% poliéster</span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;font-size:12px;letter-spacing:0.28px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;font-size:12px;letter-spacing:0.28px;\">NO USAR LEJÍAS</span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;font-size:12px;letter-spacing:0.28px;\">NO USAR SECADORA</span></p>\n<p><span style=\"color:#777777;font-family:'CentraNo1-Book', sans-serif;font-size:12px;letter-spacing:0.28px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "725",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "725",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 8,
+  "oldPrice": 15.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68820",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2111066",
+      "productSku": "2111066",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:37.748Z"
+    },
+    {
+      "id": "68822",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2111066",
+      "productSku": "2111066",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:39.257Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9268-7512.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7512-large_default/parka-bebe-nina-verano-rosa.jpg",
+      "alt": "Parka bebe niña verano Rosa",
+      "sourceId": "7512",
+      "variantIds": [],
+      "sha256": "a4123be583b633a1652f642c5c5c0c65c3d4e458e1982569c5211862c723b12a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:39.332Z",
+  "issues": []
+}

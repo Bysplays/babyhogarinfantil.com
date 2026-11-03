@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9189",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nina/9189-pijama-algodon-nina-forever-fucsia.html",
+  "name": "Pijama algodón niña Forever Fucsia",
+  "brand": "Babybol",
+  "sku": "2109118",
+  "description": "Sumérgete en la elegancia de la comodidad con el \"Pijama de Algodón Forever Fucsia para Niña\". Hecho de algodón suave y acogedor, este pijama está diseñado para mantener a tu pequeña calentita durante las noches frías de invierno. Su vibrante color fucsia no solo exalta el estado de ánimo sino que también complementa la vibrante personalidad de tu princesa. Su alucinante diseño y el reconfortante tejido ofrecen la comodidad de una noche de sueño ininterrumpida. ¡Ház que las noches de tu niña sean mágicas y agradables con \"Forever Fucsia\"!",
+  "details": "Suavidad sin Igual\n\nLos pijamas de algodón para niñas Forever Fucsia ofrecen una comodidad inigualable gracias a su tejido de algodón 100% natural, perfectos para asegurar a tu pequeña un sueño tranquilo y reparador. El tacto suave del algodón es especialmente amigable con la piel delicada de las niñas, reduciendo la posibilidad de irritaciones o alergias. \n\n\n\n\n\nEstilo y Colorido\n\nEn Forever Fucsia, sabemos que vestirse para la cama también puede ser divertido. Por eso, nuestros pijamas de algodón para niñas vienen en un vibrante tono fucsia que seguramente encantará a las pequeñas fashionistas. El diseño es moderno y fresco, perfecto para mantener a tu niña a la moda incluso en la hora de dormir.\n\n\n\n\n\nCalidad que Perdura\n\nLos pijamas de algodón para niñas de Forever Fucsia están hechos para durar. El tejido de calidad y el proceso de confección garantizan que cada pijama resistirá el paso del tiempo y el uso frecuente. Puedes confiar en que, lavado tras lavado, estos pijamas mantendrán su color vibrante y su forma original, brindando comodidad y estilo por mucho más tiempo.\n\n\n\n\n\nAhora es el momento de darle a tu niña la comodidad y el estilo que merece durante la hora de dormir. ¡Disfruta de los pijamas de algodón para niñas Forever Fucsia!",
+  "sourceDescriptionHtml": "<div>\n<h2>Suavidad sin Igual</h2>\n<p>Los pijamas de algodón para niñas Forever Fucsia ofrecen una comodidad inigualable gracias a su tejido de algodón 100% natural, perfectos para asegurar a tu pequeña un sueño tranquilo y reparador. El tacto suave del algodón es especialmente amigable con la piel delicada de las niñas, reduciendo la posibilidad de irritaciones o alergias. </p>\n</div>\n\n<div>\n<h2>Estilo y Colorido</h2>\n<p>En Forever Fucsia, sabemos que vestirse para la cama también puede ser divertido. Por eso, nuestros pijamas de algodón para niñas vienen en un vibrante tono fucsia que seguramente encantará a las pequeñas fashionistas. El diseño es moderno y fresco, perfecto para mantener a tu niña a la moda incluso en la hora de dormir.</p>\n</div>\n\n<div>\n<h2>Calidad que Perdura</h2>\n<p>Los pijamas de algodón para niñas de Forever Fucsia están hechos para durar. El tejido de calidad y el proceso de confección garantizan que cada pijama resistirá el paso del tiempo y el uso frecuente. Puedes confiar en que, lavado tras lavado, estos pijamas mantendrán su color vibrante y su forma original, brindando comodidad y estilo por mucho más tiempo.</p>\n</div>\n\n<div>\n<p><strong>Ahora es el momento de darle a tu niña la comodidad y el estilo que merece durante la hora de dormir. ¡Disfruta de los pijamas de algodón para niñas Forever Fucsia!</strong></p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776"
+  ],
+  "sourceDefaultCategoryId": "776",
+  "sourceCategoryName": "Pijamas niña",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:46",
+  "sourceUpdatedAt": "2026-10-27 11:11:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68670",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2109118",
+      "productSku": "2109118",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:27.435Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9189-7452.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7452-large_default/pijama-algodon-nina-forever-fucsia.jpg",
+      "alt": "Pijama algodón niña Forever Fucsia",
+      "sourceId": "7452",
+      "variantIds": [],
+      "sha256": "d9c307ed841966242308fb55a8a3107b99b4308e497acd8ebb0cef2a51ce5018"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:27.503Z",
+  "issues": []
+}

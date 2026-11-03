@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9278",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nino-verano/9278-pijama-verano-nino-lets-travel-blanco.html",
+  "name": "Pijama verano niño lets travel Blanco",
+  "brand": "Zippy",
+  "sku": "2111077",
+  "description": "Pijama de entretiempo de dos piezas, compuesto por camiseta de manga larga en color blanco con detalles azules y rojos y pantalón largo marino con goma en la cintura y puños.",
+  "details": "Pijamita de dos piezas de ZIPPY, una de nuestras firmas estrella! Compuesto por camiseta de cuello redondo y manga larga, en color blanco con detalles viajeros en rojo y azul. Como parte de abajo, pantalón largo marino con goma en la cintura y puños en las perneras. Un pijama cómodo y ligero, ideal para estar muy a gusto las noches de entretiempo! Echa un ojito a nuestra sección de ropa interior, calcetines antideslizantes y batas de casa y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nPantalón: 95% algodón, 5% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pijamita de dos piezas de <strong>ZIPPY</strong>, una de nuestras firmas estrella! Compuesto por camiseta de cuello redondo y manga larga, en color blanco con <strong>detalles viajeros</strong> en rojo y azul. Como parte de abajo, pantalón largo marino con goma en la cintura y puños en las perneras. Un pijama cómodo y ligero, ideal para estar muy a gusto las noches de entretiempo! Echa un ojito a nuestra sección de <strong>ropa interior, calcetines antideslizantes</strong> <strong>y batas de casa</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón</p>\n<p>Pantalón: 95% algodón, 5% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "775"
+  ],
+  "sourceDefaultCategoryId": "775",
+  "sourceCategoryName": "Pijamas Niño Verano",
+  "price": 7.5,
+  "oldPrice": 14.9919,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68860",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2111077",
+      "productSku": "2111077",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:26.267Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9278-12164.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12164-large_default/pijama-verano-nino-lets-travel-blanco.jpg",
+      "alt": "Pijama verano niño lets travel Blanco",
+      "sourceId": "12164",
+      "variantIds": [],
+      "sha256": "8dc3bc59ac276cf82883bfac881cdc0e2bd591ec1842fbf6d69c8ed64ef08d13"
+    },
+    {
+      "path": "assets/9278-12165.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12165-large_default/pijama-verano-nino-lets-travel-blanco.jpg",
+      "alt": "Pijama verano niño lets travel Blanco",
+      "sourceId": "12165",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9278-9051.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9051-large_default/pijama-verano-nino-lets-travel-blanco.jpg",
+      "alt": "Pijama verano niño lets travel Blanco",
+      "sourceId": "9051",
+      "variantIds": [],
+      "sha256": "508fe76bf0a3dbf8f80f72ebecad22aa5ed559be326ddc868c20197e7ced79e4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:26.455Z",
+  "issues": []
+}

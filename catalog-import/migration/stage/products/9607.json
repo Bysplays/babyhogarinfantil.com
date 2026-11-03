@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "9607",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/9607-chaqueta-bebe-nina-sin-costuras-verano-rosa.html",
+  "name": "Chaqueta bebe niña sin costuras verano Rosa",
+  "brand": "Mac Ilusión",
+  "sku": "2203117",
+  "description": "Chaqueta verano en perlé, hecha sin costuras.",
+  "details": "Composición y cuidados:\n\nChaqueta: 100% acrílico Dralon Bayer.\n\nLAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO\n\nNO USAR SECADORA\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% acrílico Dralon Bayer.</p>\n<p>LAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO</p>\n<p>NO USAR SECADORA</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69650",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2203117",
+      "productSku": "2203117",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:52.488Z"
+    },
+    {
+      "id": "69651",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2203117",
+      "productSku": "2203117",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:56.306Z"
+    },
+    {
+      "id": "69652",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2203117",
+      "productSku": "2203117",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:00.124Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9607-12557.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12557-large_default/chaqueta-bebe-nina-sin-costuras-verano-rosa.jpg",
+      "alt": "Chaqueta bebe niña sin costuras verano Rosa",
+      "sourceId": "12557",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    },
+    {
+      "path": "assets/9607-7825.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7825-large_default/chaqueta-bebe-nina-sin-costuras-verano-rosa.jpg",
+      "alt": "Chaqueta bebe niña sin costuras verano Rosa",
+      "sourceId": "7825",
+      "variantIds": [],
+      "sha256": "e6dd14820f04f7f2a667e38a8dff913d1cbfe28ee8e6018ab01897c86f6cda13"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:00.281Z",
+  "issues": []
+}

@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "id": "19404",
+  "sourceUrl": "https://babyhogarinfantil.com/sacos-dormir/19404-saco-dormir-burrito-rosa.html",
+  "name": "Saco dormir burrito Rosa",
+  "brand": "Sterntaler",
+  "sku": "2402332",
+  "description": "Experimenta la magia del comodidad con el Saco Dormir Burrito Rosa. El diseño encantador de burrito transformará las noches de sueño de tu bebé en una aventura llena de dulzura. Hecho con tejidos suaves, garantiza el máximo confort para tu pequeño, manteniéndolo caliente y seguro. Con cada sueño, sentirás la tranquilidad de una elección perfecta. Este saco de dormir es el compañero perfecto para las noches de descanso de tu bebé. Haz que cada noche sea inolvidable con el Saco Dormir Burrito Rosa.",
+  "details": "Envuelve a Tu Bebé con Confort\n\nEl Saco de Dormir Burrito Rosa es la mezcla perfecta de comodidad, calidez y estilo. Diseñado estratégicamente para proporcionar un calor óptimo, este saco de dormir envuelve a tu bebé en una suave acogida, garantizando un ambiente de descanso perfecto para los más pequeños.\n\nFabricado Pensando en la Sensibilidad Infantil\n\nElaborado con materiales de alta calidad, el Saco de Dormir Burrito Rosa respeta la delicada piel de tu bebé. Su suavidad inigualable lo convierte en la elección perfecta para garantizar una experiencia de descanso saludable y placentera para tu pequeño, minimizando cualquier irritación o incomodidad.\n\nDiseño Único para Bebés con Estilo\n\nEl Saco de Dormir Burrito Rosa no solo es cómodo y suave, sino que su diseño único y cautivador lo hace destacar. La combinación de rosa y el diseño de burrito añade un toque de dulzura y alegría, asegurando que tu bebé sea la estrella dondequiera que vaya.\n\n¡Adquiere hoy mismo el Saco de Dormir Burrito Rosa y brinda a tu bebé un descanso cómodo y estilizado!\n\nComposición:\n\nTela exterior: 60% algodón, 40% poliéster.\n\nForro: 100% poliéster.\n\nRelleno: 100% poliéster.",
+  "sourceDescriptionHtml": "<div>\n<h2>Envuelve a Tu Bebé con Confort</h2>\n<p>El <strong>Saco de Dormir Burrito Rosa</strong> es la mezcla perfecta de comodidad, calidez y estilo. Diseñado estratégicamente para proporcionar un calor óptimo, este saco de dormir envuelve a tu bebé en una suave acogida, garantizando un ambiente de descanso perfecto para los más pequeños.</p>\n<h2>Fabricado Pensando en la Sensibilidad Infantil</h2>\n<p>Elaborado con materiales de alta calidad, el <strong>Saco de Dormir Burrito Rosa</strong> respeta la delicada piel de tu bebé. Su suavidad inigualable lo convierte en la elección perfecta para garantizar una experiencia de descanso saludable y placentera para tu pequeño, minimizando cualquier irritación o incomodidad.</p>\n<h2>Diseño Único para Bebés con Estilo</h2>\n<p>El <strong>Saco de Dormir Burrito Rosa</strong> no solo es cómodo y suave, sino que su diseño único y cautivador lo hace destacar. La combinación de rosa y el diseño de burrito añade un toque de dulzura y alegría, asegurando que tu bebé sea la estrella dondequiera que vaya.</p>\n<p><strong>¡Adquiere hoy mismo el Saco de Dormir Burrito Rosa y brinda a tu bebé un descanso cómodo y estilizado!</strong></p>\n<p>Composición:</p>\n<p>Tela exterior: 60% algodón, 40% poliéster.</p>\n<p>Forro: 100% poliéster.</p>\n<p>Relleno: 100% poliéster.</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "712"
+  ],
+  "sourceDefaultCategoryId": "712",
+  "sourceCategoryName": "Sacos Dormir",
+  "price": 44.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-01-30 23:54:09",
+  "sourceUpdatedAt": "2026-10-27 11:13:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "311",
+          "label": "70"
+        },
+        {
+          "id": "320",
+          "label": "90"
+        },
+        {
+          "id": "312",
+          "label": "95"
+        },
+        {
+          "id": "321",
+          "label": "100"
+        },
+        {
+          "id": "322",
+          "label": "105"
+        },
+        {
+          "id": "323",
+          "label": "110"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "89714",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "320",
+          "group": "Tamaño",
+          "value": "90"
+        }
+      ],
+      "sku": "12462XB19081",
+      "productSku": "2402332",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:25.594Z"
+    },
+    {
+      "id": "149328",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "311",
+          "group": "Tamaño",
+          "value": "70"
+        }
+      ],
+      "sku": "12462XA19081",
+      "productSku": "2402332",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:27.895Z"
+    },
+    {
+      "id": "149329",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "312",
+          "group": "Tamaño",
+          "value": "95"
+        }
+      ],
+      "sku": "12462XC19081",
+      "productSku": "2402332",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:29.638Z"
+    },
+    {
+      "id": "149330",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "321",
+          "group": "Tamaño",
+          "value": "100"
+        }
+      ],
+      "sku": "12462XD19081",
+      "productSku": "2402332",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:31.266Z"
+    },
+    {
+      "id": "149331",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "322",
+          "group": "Tamaño",
+          "value": "105"
+        }
+      ],
+      "sku": "12462XE19081",
+      "productSku": "2402332",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:33.268Z"
+    },
+    {
+      "id": "89715",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "323",
+          "group": "Tamaño",
+          "value": "110"
+        }
+      ],
+      "sku": "12462XF19081",
+      "productSku": "2402332",
+      "taxRate": 21,
+      "price": 50,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:37.203Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19404-18665.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18665-large_default/saco-dormir-burrito-rosa.jpg",
+      "alt": "Saco dormir burrito Rosa",
+      "sourceId": "18665",
+      "variantIds": [],
+      "sha256": "9bb29be96322dead24b857671462519bfc180e43fd89d7316fd52404d0fee52c"
+    },
+    {
+      "path": "assets/19404-18664.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18664-large_default/saco-dormir-burrito-rosa.jpg",
+      "alt": "Saco dormir burrito Rosa",
+      "sourceId": "18664",
+      "variantIds": [],
+      "sha256": "28bdd2d8a0fe640bb6e0999264b27d15036cbbe418600cf0431823c05f46308c"
+    },
+    {
+      "path": "assets/19404-18663.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18663-large_default/saco-dormir-burrito-rosa.jpg",
+      "alt": "Saco dormir burrito Rosa",
+      "sourceId": "18663",
+      "variantIds": [],
+      "sha256": "29b18b806e6e614ae609c9845e7c7545f2154f863946a0d0eb6ff906862be667"
+    },
+    {
+      "path": "assets/19404-18661.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18661-large_default/saco-dormir-burrito-rosa.jpg",
+      "alt": "Saco dormir burrito Rosa",
+      "sourceId": "18661",
+      "variantIds": [],
+      "sha256": "f0879790e8bb40209ea40e7445a14b36ac628d569e3d6987e0f97cece919c633"
+    },
+    {
+      "path": "assets/19404-18662.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18662-large_default/saco-dormir-burrito-rosa.jpg",
+      "alt": "Saco dormir burrito Rosa",
+      "sourceId": "18662",
+      "variantIds": [],
+      "sha256": "b1edf2223b0c26a3f72e05f538a1522f70a1b4928e69f95f220f835860507e2e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:37.785Z",
+  "issues": []
+}

@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "id": "6329",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/6329-zapato-velcro-reforzado-del-40-al-42-azul-marino.html",
+  "name": "Zapato velcro reforzado del 40 al 42 Azul Marino",
+  "brand": "Gorila",
+  "sku": "1167",
+  "description": "Zapato escolar con puntera reforzada y velcro. En piel AZUL MARINO. Plantilla extraíble.",
+  "details": "TECNOLOGÍA ADAPTACTION:  Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) PRODUCTO DE PIEL:  Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. CREMA DE LIMPIEZA:  Para su limpieza se recomienda la crema natural de Callaghan.",
+  "sourceDescriptionHtml": "<p><span style=\"margin:0px;padding:0px;color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"margin:0px;padding:0px;font-weight:bolder;\">TECNOLOGÍA ADAPTACTION:  </span><span style=\"margin:0px;padding:0px;\">Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) </span><br style=\"margin:0px;padding:0px;\" /></span><span style=\"margin:0px;padding:0px;color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"margin:0px;padding:0px;font-weight:bolder;\">PRODUCTO DE PIEL:  </span><span style=\"margin:0px;padding:0px;\">Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. </span><br style=\"margin:0px;padding:0px;\" /></span><span style=\"margin:0px;padding:0px;color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"margin:0px;padding:0px;font-weight:bolder;\">CREMA DE LIMPIEZA:  </span><span style=\"margin:0px;padding:0px;\">Para su limpieza se recomienda la crema natural de Callaghan. </span></span></p>\n<p> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "783",
+    "684",
+    "850",
+    "879"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 65.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "294",
+          "label": "41"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "295",
+          "label": "43"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "296",
+          "label": "45"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97404",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "1060XA1898",
+      "productSku": "1167",
+      "taxRate": 21,
+      "price": 65.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:29.401Z"
+    },
+    {
+      "id": "99493",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "294",
+          "group": "Tamaño",
+          "value": "41"
+        }
+      ],
+      "sku": "1060XB1898",
+      "productSku": "1167",
+      "taxRate": 21,
+      "price": 65.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:31.909Z"
+    },
+    {
+      "id": "97406",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "1060XC1898",
+      "productSku": "1167",
+      "taxRate": 21,
+      "price": 65.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:34.507Z"
+    },
+    {
+      "id": "144668",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "295",
+          "group": "Tamaño",
+          "value": "43"
+        }
+      ],
+      "sku": "1060XD1898",
+      "productSku": "1167",
+      "taxRate": 21,
+      "price": 65.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:37.307Z"
+    },
+    {
+      "id": "144669",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "1060XE1898",
+      "productSku": "1167",
+      "taxRate": 21,
+      "price": 65.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:40.489Z"
+    },
+    {
+      "id": "144670",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "296",
+          "group": "Tamaño",
+          "value": "45"
+        }
+      ],
+      "sku": "1060XF1898",
+      "productSku": "1167",
+      "taxRate": 21,
+      "price": 65.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:42.848Z"
+    },
+    {
+      "id": "144671",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "1060XG1898",
+      "productSku": "1167",
+      "taxRate": 21,
+      "price": 65.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:45.719Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6329-9545.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9545-large_default/zapato-velcro-reforzado-del-40-al-42-azul-marino.jpg",
+      "alt": "Zapato velcro reforzado del 40 al 42 Azul Marino",
+      "sourceId": "9545",
+      "variantIds": [],
+      "sha256": "52c5942d6b7912713ebdcf2480ef7f90aa7060a127579708ec493ca1d5428334"
+    },
+    {
+      "path": "assets/6329-9546.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9546-large_default/zapato-velcro-reforzado-del-40-al-42-azul-marino.jpg",
+      "alt": "Zapato velcro reforzado del 40 al 42 Azul Marino",
+      "sourceId": "9546",
+      "variantIds": [],
+      "sha256": "148d857771262db442126b633398ed035efa84dac2476c0d645ceb06ac94bae9"
+    },
+    {
+      "path": "assets/6329-4331.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4331-large_default/zapato-velcro-reforzado-del-40-al-42-azul-marino.jpg",
+      "alt": "Zapato velcro reforzado del 40 al 42 Azul Marino",
+      "sourceId": "4331",
+      "variantIds": [],
+      "sha256": "0f096b933e60046a5c4bca3458db574814b7855dbf4a6819fceaeb3ea5932a84"
+    },
+    {
+      "path": "assets/6329-4330.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4330-large_default/zapato-velcro-reforzado-del-40-al-42-azul-marino.jpg",
+      "alt": "Zapato velcro reforzado del 40 al 42 Azul Marino",
+      "sourceId": "4330",
+      "variantIds": [],
+      "sha256": "a90f3b6a4840a50b433251e4681dc4d7842dfdd702fbf3f79e8de80849a02bcf"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:46.005Z",
+  "issues": []
+}

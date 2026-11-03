@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "20200",
+  "sourceUrl": "https://babyhogarinfantil.com/mantas-bebe/20200-set-manta-y-dou-dou-verde.html",
+  "name": "Set manta y Dou Dou Verde",
+  "brand": "Gamberritos",
+  "sku": "2502071",
+  "description": "Set ideal para regalo, que contiene una manta y un dou dou de puntitos de la marca Gamberritos.\n\nTamaño manta: 80x110 cm.\n\nLa manta y el dou dou el regalo más vendidos para bebé.\n\nPresentación en caja, perfecta para regalo.\n\nTacto extra suave y agradable.\n\nPersonalizable con nombre bordado.",
+  "details": "Composición: 100% poliester de microfibra.",
+  "sourceDescriptionHtml": "<p>Composición: 100% poliester de microfibra.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "765",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "765",
+  "sourceCategoryName": "Mantas Bebé",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-07-23 23:53:45",
+  "sourceUpdatedAt": "2026-10-27 11:14:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "173527",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2502071",
+      "productSku": "2502071",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:46.763Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20200-19032.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19032-large_default/set-manta-y-dou-dou-verde.jpg",
+      "alt": "Set manta y Dou Dou Verde",
+      "sourceId": "19032",
+      "variantIds": [],
+      "sha256": "7a14c0218fee0ed929a0a0eaa7bbbef9d5a1dc09a7f54f42559d9b8d47f17850"
+    },
+    {
+      "path": "assets/20200-19036.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19036-large_default/set-manta-y-dou-dou-verde.jpg",
+      "alt": "Set manta y dou dou verde",
+      "sourceId": "19036",
+      "variantIds": [],
+      "sha256": "a533afe45f57aea0d72aea70ecd5977b3679b70955cab61b4b7a69cbd60bb03b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:46.916Z",
+  "issues": []
+}

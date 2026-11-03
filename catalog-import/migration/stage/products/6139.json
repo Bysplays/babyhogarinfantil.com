@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "id": "6139",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/6139-calcetin-corto-perle-detalle-calado-rojo.html",
+  "name": "Calcetín corto perlé detalle calado Rojo",
+  "brand": "Condor",
+  "sku": "686",
+  "description": "Calcetines cortos de algodón perlé, con calado diagonal y puño de fantasía. DISPONIBLE EN VARIOS COLORES.",
+  "details": "Calcetines cortos de CONDOR, una de nuestras firmas preferidas! De algodón perlé, perfectos para verano. Con pequeño calado diagonal en el tobillo y puño de fantasía. Un complemento perfecto para combinar con diferentes estilos de calzado, con un tejido suave, flexible y transpirable! Echa un ojito a nuestros leotardos y medias para elegir el que mejor se adapte a lo que buscas!\n\nComposición y cuidados:\n\nCalcetines: 80% algodón 20% poliamida \n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Calcetines cortos de <strong>CONDOR</strong>, una de nuestras firmas preferidas! De algodón perlé, perfectos para verano. Con pequeño calado diagonal en el tobillo y puño de fantasía. Un complemento perfecto para combinar con diferentes estilos de calzado, con un tejido suave, flexible y transpirable! Echa un ojito a nuestros <strong>leotardos y medias</strong> para elegir el que mejor se adapte a lo que buscas!</span></p>\n<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Composición y cuidados:</span></p>\n<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Calcetines: </span><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">80% algodón 20% poliamida </span></p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>NO PLANCHAR</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "846"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 5.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 23,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62589",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:33.750Z"
+    },
+    {
+      "id": "62590",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:36.891Z"
+    },
+    {
+      "id": "62591",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:39.200Z"
+    },
+    {
+      "id": "62592",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:41.695Z"
+    },
+    {
+      "id": "62593",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:43.791Z"
+    },
+    {
+      "id": "62594",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:46.921Z"
+    },
+    {
+      "id": "62595",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:50.113Z"
+    },
+    {
+      "id": "62596",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:52.522Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6139-4028.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4028-large_default/calcetin-corto-perle-detalle-calado-rojo.jpg",
+      "alt": "Calcetín corto perlé detalle calado Rojo",
+      "sourceId": "4028",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6139-4027.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4027-large_default/calcetin-corto-perle-detalle-calado-rojo.jpg",
+      "alt": "Calcetín corto perlé detalle calado Rojo",
+      "sourceId": "4027",
+      "variantIds": [],
+      "sha256": "5bb38986caa36c59ab9dbd67e418e3cd04834cbccc6bacb555d10a480c922987"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:52.652Z",
+  "issues": []
+}

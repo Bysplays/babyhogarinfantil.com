@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "19017",
+  "sourceUrl": "https://babyhogarinfantil.com/baberos/19017-pack-2-baberos-para-bordar-blanco.html",
+  "name": "Pack 2 baberos para bordar Blanco",
+  "brand": "Interbaby",
+  "sku": "2402254",
+  "description": "Pack de dos babaros de atar en algodón, con espacio para bordar en punto de cruz.\n\nUn babero blanco y otro con los rivetes en gris.\n\nMedidas: 20x19 cm.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "800",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "800",
+  "sourceCategoryName": "Baberos",
+  "price": 6.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-29 08:34:27",
+  "sourceUpdatedAt": "2026-10-27 11:13:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149256",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12384XA18937",
+      "productSku": "2402254",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:08.143Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19017-17434.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17434-large_default/pack-2-baberos-para-bordar-blanco.jpg",
+      "alt": "Pack 2 baberos para bordar Blanco",
+      "sourceId": "17434",
+      "variantIds": [],
+      "sha256": "ebf77537d2644d5a8eb91ae39657dda852ca7869e4406c3046c2d7469a9f577a"
+    },
+    {
+      "path": "assets/19017-17435.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17435-large_default/pack-2-baberos-para-bordar-blanco.jpg",
+      "alt": "pack de 2 baberos para bordar",
+      "sourceId": "17435",
+      "variantIds": [],
+      "sha256": "4dc04a28e626531d2e62a2adedf95e3ec5adb81dd467fa4de4aef4bff1041e9e"
+    },
+    {
+      "path": "assets/19017-17436.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17436-large_default/pack-2-baberos-para-bordar-blanco.jpg",
+      "alt": "Pack 2 baberos para bordar Blanco",
+      "sourceId": "17436",
+      "variantIds": [],
+      "sha256": "76fb34e0160160efb75c567bd9c278074db00c89142a2ae3822f1b6a5fe2a623"
+    },
+    {
+      "path": "assets/19017-17437.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17437-large_default/pack-2-baberos-para-bordar-blanco.jpg",
+      "alt": "Pack 2 baberos para bordar Blanco",
+      "sourceId": "17437",
+      "variantIds": [],
+      "sha256": "ea67da0ca8e3b65b2bc1d0d65cb49b3615728e9a42d4e43d263d691864d61726"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:08.330Z",
+  "issues": []
+}

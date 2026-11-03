@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "7733",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/7733-camiseta-mickey-amarillo.html",
+  "name": "Camiseta Mickey Amarillo",
+  "brand": "Zippy",
+  "sku": "1904093",
+  "description": "Camiseta de manga corta de Mickey Mouse, hecha en 100% ALGODÓN",
+  "details": "De una de nuestras marcas favoritas, ZIPPY, camiseta de manga corta en color amarillo, con uno de los personajes favoritos de los más peques, Mickey Mouse, decorando la parte delantera. Tiene corchetes en el hombro para mayor comodidad. En algodón, cómodo y fresquito. Puedes combinarla con nuestros pantalones cortos o largos, ideal para cualquier ocasión casual.\n\nComposición: \n\nCamiseta 100% algodón\n\n \n\nLAVAR A MÁQUINA (TEMPERATURA MÁXIMA 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nNO LAVAR EN SECO\n\nPLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)",
+  "sourceDescriptionHtml": "<p>De una de nuestras marcas favoritas,<strong> ZIPPY</strong>, camiseta de manga corta en color amarillo, con uno de los personajes favoritos de los más peques, Mickey Mouse, decorando la parte delantera. Tiene corchetes en el hombro para mayor comodidad. En algodón, cómodo y fresquito. Puedes combinarla con nuestros pantalones cortos o largos, ideal para cualquier ocasión casual.</p>\n<p>Composición: </p>\n<p>Camiseta 100% algodón</p>\n<p> </p>\n<p>LAVAR A MÁQUINA (TEMPERATURA MÁXIMA 30 ºC)</p>\n<p>NO USAR LEJÍAS NI BLANQUEANTES</p>\n<p>NO SECAR EN SECADORA</p>\n<p>NO LAVAR EN SECO</p>\n<p>PLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66239",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1904093",
+      "productSku": "1904093",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:05.388Z"
+    },
+    {
+      "id": "66240",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1904093",
+      "productSku": "1904093",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:06.854Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7733-5783.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5783-large_default/camiseta-mickey-amarillo.jpg",
+      "alt": "Camiseta Mickey Amarillo",
+      "sourceId": "5783",
+      "variantIds": [],
+      "sha256": "1b159bb648231cfb1d71544ee5bd2b2de7194ac01210f5fad4a074d9adf8d65c"
+    },
+    {
+      "path": "assets/7733-5782.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5782-large_default/camiseta-mickey-amarillo.jpg",
+      "alt": "Camiseta Mickey Amarillo",
+      "sourceId": "5782",
+      "variantIds": [],
+      "sha256": "1060cf1a4ce2ba467e3a9688e3720d1a692825093358fd8a1a90e903a1c0e506"
+    },
+    {
+      "path": "assets/7733-15012.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15012-large_default/camiseta-mickey-amarillo.jpg",
+      "alt": "Camiseta Mickey Amarillo",
+      "sourceId": "15012",
+      "variantIds": [],
+      "sha256": "c3b5a308be6a12e4d78067d47314017540aa8160539b97b74a8eb3bc1a3ea2ed"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:07.029Z",
+  "issues": []
+}

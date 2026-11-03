@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "id": "16211",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-divino-salvador-vigo/16211-camiseta-manga-corta-divino-salvador-blanco.html",
+  "name": "Camiseta manga corta Divino Salvador Blanco",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2301329",
+  "description": "Camiseta para deporte, infantil, primaria y ESO del uniforme del colegio Divino Salvador de Vigo.",
+  "details": "Camiseta de deporte para los cursos de infantil, primaria y ESO del colegio DIVINO SALVADOR de Vigo, disponible tambien en manga larga.\n\nComposición:\n\nCamiseta: 50% algodón, 50% poliéster.\n\nNO USAR SECADORA.\n\nLAVAR SIEMPRE DEL REVES.\n\nMEJOR LAVAR CON ROPA BLANCA.\n\nHECHA EN GALICIA",
+  "sourceDescriptionHtml": "<p>Camiseta de deporte para los cursos de infantil, primaria y ESO del colegio DIVINO SALVADOR de Vigo, disponible tambien en manga larga.</p>\n<p>Composición:</p>\n<p>Camiseta: 50% algodón, 50% poliéster.</p>\n<p>NO USAR SECADORA.</p>\n<p>LAVAR SIEMPRE DEL REVES.</p>\n<p>MEJOR LAVAR CON ROPA BLANCA.</p>\n<p><strong>HECHA EN GALICIA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "783"
+  ],
+  "sourceDefaultCategoryId": "783",
+  "sourceCategoryName": "Colegio Divino Salvador Vigo",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-26 16:02:47",
+  "sourceUpdatedAt": "2026-10-27 11:12:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 112,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99524",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "11197XA17272",
+      "productSku": "2301329",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:18.824Z"
+    },
+    {
+      "id": "99525",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "11197XB17272",
+      "productSku": "2301329",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 28,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:21.738Z"
+    },
+    {
+      "id": "143860",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "11197XC17272",
+      "productSku": "2301329",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:25.066Z"
+    },
+    {
+      "id": "143861",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "11197XD17272",
+      "productSku": "2301329",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 15,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:27.947Z"
+    },
+    {
+      "id": "143862",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "11197XE17272",
+      "productSku": "2301329",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 15,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:31.056Z"
+    },
+    {
+      "id": "143863",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "11197XF17272",
+      "productSku": "2301329",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 20,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:34.861Z"
+    },
+    {
+      "id": "143864",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "11197XG17272",
+      "productSku": "2301329",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 9,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:37.397Z"
+    },
+    {
+      "id": "143865",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "11197XH17272",
+      "productSku": "2301329",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 13,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:40.470Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16211-18841.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18841-large_default/camiseta-manga-corta-divino-salvador-blanco.jpg",
+      "alt": "Camiseta manga corta Divino Salvador Blanco",
+      "sourceId": "18841",
+      "variantIds": [],
+      "sha256": "47adfd295d84ad75dd445a9c7c40750eeec70d9f1cafd737737f8dccdc91b0c1"
+    },
+    {
+      "path": "assets/16211-18842.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18842-large_default/camiseta-manga-corta-divino-salvador-blanco.jpg",
+      "alt": "Camiseta manga corta Divino Salvador Blanco",
+      "sourceId": "18842",
+      "variantIds": [],
+      "sha256": "1d95313330cbfc63bde03a4c8c6826e7163fedd76482acd6e3d10cbbfcb54b0b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:40.625Z",
+  "issues": []
+}

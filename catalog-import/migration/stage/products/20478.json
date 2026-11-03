@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "20478",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys/20478-pullover-cuello-volante-nina-camel.html",
+  "name": "Pullover cuello volante niña Camel",
+  "brand": "Mayoral",
+  "sku": "2502049",
+  "description": "Sudadera con cuello redondo y volante. Bajo y puños elásticos par amayor comodidad. Detalle sbordados.",
+  "details": "Composición:\n\n98% Algodón\n\n2% Elastano",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>98% Algodón</p>\n<p>2% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "772",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "772",
+  "sourceCategoryName": "Sudaderas y jerseys",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94851",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502049",
+      "productSku": "2502049",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:03.707Z"
+    },
+    {
+      "id": "94853",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502049",
+      "productSku": "2502049",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:05.561Z"
+    },
+    {
+      "id": "94855",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502049",
+      "productSku": "2502049",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:07.396Z"
+    },
+    {
+      "id": "94856",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502049",
+      "productSku": "2502049",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:09.580Z"
+    },
+    {
+      "id": "94857",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502049",
+      "productSku": "2502049",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:11.473Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20478-19824.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19824-large_default/pullover-cuello-volante-nina-camel.jpg",
+      "alt": "Pullover cuello volante niña Camel",
+      "sourceId": "19824",
+      "variantIds": [],
+      "sha256": "47b37f96fa0f634fefe7d02f60232724cd862773158bab0cc9c71f7f4ed77a0a"
+    },
+    {
+      "path": "assets/20478-19825.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19825-large_default/pullover-cuello-volante-nina-camel.jpg",
+      "alt": "Pullover cuello volante niña Camel",
+      "sourceId": "19825",
+      "variantIds": [],
+      "sha256": "ab29fa7b86098574dd610c9e986ba6f8ac1cfc1fd72635a6337628b55c57df73"
+    },
+    {
+      "path": "assets/20478-19826.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19826-large_default/pullover-cuello-volante-nina-camel.jpg",
+      "alt": "Pullover cuello volante niña Camel",
+      "sourceId": "19826",
+      "variantIds": [],
+      "sha256": "aea5e69319f88e0436a60a77b25672e7a2e5f41e08d15d8c664564a99308c479"
+    },
+    {
+      "path": "assets/20478-19827.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19827-large_default/pullover-cuello-volante-nina-camel.jpg",
+      "alt": "Pullover cuello volante niña Camel",
+      "sourceId": "19827",
+      "variantIds": [],
+      "sha256": "05efcea587d349bda5338a5b28dc714666259977272daaa635ebd8c2fdd96101"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:11.713Z",
+  "issues": []
+}

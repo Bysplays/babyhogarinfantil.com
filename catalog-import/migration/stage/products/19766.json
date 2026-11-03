@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "19766",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/19766-sudadera-bordada-nino-azul-marino.html",
+  "name": "Sudadera bordada niño Azul Marino",
+  "brand": "Mayoral",
+  "sku": "2501217",
+  "description": "Descubre la Sudadera Bordada Niño en Azul Marino, ideal para aventuras cotidianas. El bordado preciso aporta un encanto único, mientras que el cautivador azul marino promete elegancia. Hecho de un tejido suave y cálido, es perfecto para mantener a tu pequeño cómodo y abrigado durante todo el día. Su diseño a la moda y versátil es excelente para todas las ocasiones, ya sea en el parque, en una fiesta o en un día frío. ¡Conviértete en el centro de la moda infantil con esta sudadera!",
+  "details": "\"Confort sin límites\"\n\nLa sudadera bordada para niños en color azul marino es definitivamente el símbolo de la comodidad y la elegancia en la moda infantil. Con bordados exquisitos que aportan un toque distintivo a la prenda. Ideal para aquellos pequeños exploradores que buscan aventuras y juegos al aire libre.\n\n\"Elegancia en cada detalle\"\n\nDiseñada pensando en la elegancia del azul marino, esta sudadera para niños tiene todo para marcar tendencia. Sus detalles bordados hacen de esta prenda, un punto focal de cualquier conjunto, mezclando la simplicidad con un toque de sofisticación. Perfecta para resaltar en cualquier ocasión!\n\n\"Durabilidad y calidad garantizada\"\n\nRopa infantil comprometida con la resistencia y durabilidad, y esta sudadera no es la excepción. Hecha de materiales de alta calidad, garantiza una duración prolongada, incluso en los días de juego más intensos. ¡Una inversión en moda infantil que vale cada centavo!\n\nNo esperes más! Disfruta del encanto y la practicidad de esta sudadera bordada niño en color azul marino, el compañero perfecto para todas las travesuras de tu pequeño. ¡Añade esta prenda práctica y elegante a tu carrito de compras ahora!\n\nComposición:\n\nSudadera: 100% algodón.",
+  "sourceDescriptionHtml": "<h2>\"Confort sin límites\"</h2>\n<p>La sudadera bordada para niños en color azul marino es definitivamente el símbolo de la comodidad y la elegancia en la moda infantil. Con bordados exquisitos que aportan un toque distintivo a la prenda. Ideal para aquellos pequeños exploradores que buscan aventuras y juegos al aire libre.</p>\n<h2>\"Elegancia en cada detalle\"</h2>\n<p>Diseñada pensando en la elegancia del azul marino, esta sudadera para niños tiene todo para marcar tendencia. Sus detalles bordados hacen de esta prenda, un punto focal de cualquier conjunto, mezclando la simplicidad con un toque de sofisticación. Perfecta para resaltar en cualquier ocasión!</p>\n<h2>\"Durabilidad y calidad garantizada\"</h2>\n<p>Ropa infantil comprometida con la resistencia y durabilidad, y esta sudadera no es la excepción. Hecha de materiales de alta calidad, garantiza una duración prolongada, incluso en los días de juego más intensos. ¡Una inversión en moda infantil que vale cada centavo!</p>\n<p>No esperes más! Disfruta del encanto y la practicidad de esta sudadera bordada niño en color azul marino, el compañero perfecto para todas las travesuras de tu pequeño. ¡Añade esta prenda práctica y elegante a tu carrito de compras ahora!</p>\n<p>Composición:</p>\n<p>Sudadera: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2025",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-04-09 08:53:18",
+  "sourceUpdatedAt": "2026-10-27 11:14:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92075",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2501217",
+      "productSku": "2501217",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:18.127Z"
+    },
+    {
+      "id": "92076",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2501217",
+      "productSku": "2501217",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:19.643Z"
+    },
+    {
+      "id": "92078",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2501217",
+      "productSku": "2501217",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:21.138Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19766-18535.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18535-large_default/sudadera-bordada-nino-azul-marino.jpg",
+      "alt": "Sudadera bordada niño Azul Marino",
+      "sourceId": "18535",
+      "variantIds": [],
+      "sha256": "868ad59ddc3c5454e46aef3bdcadfe3c73ffa708780fccaca29ac3c3b2f5ebe3"
+    },
+    {
+      "path": "assets/19766-18536.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18536-large_default/sudadera-bordada-nino-azul-marino.jpg",
+      "alt": "Sudadera bordada niño Azul Marino",
+      "sourceId": "18536",
+      "variantIds": [],
+      "sha256": "301af6033d029e16ceef96c3f024c4d11d7a166d9f267c4270fcc2e98b4db891"
+    },
+    {
+      "path": "assets/19766-18537.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18537-large_default/sudadera-bordada-nino-azul-marino.jpg",
+      "alt": "Sudadera bordada niño Azul Marino",
+      "sourceId": "18537",
+      "variantIds": [],
+      "sha256": "a8c5c780c440fbd13634d6ccd14e7e0db1bee707060fc3655d0a1b4fbe7b18fb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:21.318Z",
+  "issues": []
+}

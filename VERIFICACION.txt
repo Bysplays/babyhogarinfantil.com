@@ -1,0 +1,10 @@
+VERIFICADO 27/10/2026
+Docker Desktop 4.97.0 instalado; motor Docker 29.9.2 operativo; WSL 2.7.14 instalado.
+Compose validado. MySQL running/healthy y PrestaShop running.
+Tienda: HTTP 200 en http://localhost:8080/
+Administracion: HTTP 200, redireccion al formulario de login en /administracion-baby/login.
+No se ha comprobado una sesion autenticada desde la interfaz.
+El instalador 9.0.3 fallo al buscar admin-dev tras renombrar la carpeta. Corregido ejecutando:
+docker compose exec -T prestashop php bin/console assets:install administracion-baby --env=prod --no-interaction
+Resultado: todos los recursos instalados correctamente. Se reviso finalize(): despues de instalar los recursos solo quedaba registrar la URL del panel.
+Proyectos originales: segunda verificacion SHA256 sin modificaciones (367 archivos).

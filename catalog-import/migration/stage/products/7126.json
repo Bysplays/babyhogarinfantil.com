@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "7126",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/7126-camiseta-punto-flor-media-manga-azul-marino.html",
+  "name": "Camiseta punto flor media manga Azul marino",
+  "brand": "DR.Kid",
+  "sku": "1802163",
+  "description": "Camiseta manga corta en punto 100% algodón. Tiene dos botones en la espalda para facilitar la puesta. Detalles de ondas en mangas y bajo, en la foto se aprecian poco. Tienes disponible un leggin blanco para combinar. SE VENDEN POR SEPARADO.",
+  "details": "Composición:\n\nJersey: 100% algodón.\n\nLeggin: 90% algodón, 10% elastano.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS QUE LA LIAS.\n\nHECHO EN PORTUGAL",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Jersey: 100% algodón.</p>\n<p>Leggin: 90% algodón, 10% elastano.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS QUE LA LIAS.</p>\n<p><strong>HECHO EN PORTUGAL</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 11.48,
+  "oldPrice": 22.9537,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:49",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65061",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1802163",
+      "productSku": "1802163",
+      "taxRate": 21,
+      "price": 11.48,
+      "oldPrice": 22.9537,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:13.072Z"
+    },
+    {
+      "id": "65062",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1802163",
+      "productSku": "1802163",
+      "taxRate": 21,
+      "price": 11.48,
+      "oldPrice": 22.9537,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:14.364Z"
+    },
+    {
+      "id": "89344",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1802163",
+      "productSku": "1802163",
+      "taxRate": 21,
+      "price": 11.48,
+      "oldPrice": 22.9537,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:15.890Z"
+    },
+    {
+      "id": "65064",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "1802163",
+      "productSku": "1802163",
+      "taxRate": 21,
+      "price": 11.48,
+      "oldPrice": 22.9537,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:17.398Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7126-10010.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10010-large_default/camiseta-punto-flor-media-manga-azul-marino.jpg",
+      "alt": "Jersey flor media manga Azul marino",
+      "sourceId": "10010",
+      "variantIds": [],
+      "sha256": "f3b205ce27835ea9322bcfb247a9a85e6046176328ce5c709acb2726d575e60b"
+    },
+    {
+      "path": "assets/7126-5070.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5070-large_default/camiseta-punto-flor-media-manga-azul-marino.jpg",
+      "alt": "Jersey flor media manga Azul marino",
+      "sourceId": "5070",
+      "variantIds": [],
+      "sha256": "47cac41b6e125d40d795504ca9737597ed0cfc481c443de08f6242b502e616d0"
+    },
+    {
+      "path": "assets/7126-5071.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5071-large_default/camiseta-punto-flor-media-manga-azul-marino.jpg",
+      "alt": "Jersey flor media manga Azul marino",
+      "sourceId": "5071",
+      "variantIds": [],
+      "sha256": "caadfc63d40b91e23e53f3109766d2a346283805c6626dea48d598cbd4e417ae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:17.593Z",
+  "issues": []
+}

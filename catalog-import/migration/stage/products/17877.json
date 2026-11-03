@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "17877",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/17877-pantalon-nina-pierna-ancha-marino.html",
+  "name": "Pantalon niña pierna ancha Marino",
+  "brand": "Mayoral",
+  "sku": "2402057",
+  "description": "Pantalón Niña Pierna Ancha Marino\n\nRevista la creatividad y diversión de su pequeña con el elegante \"Pantalón Niña Pierna Ancha Marino\". Diseñado con un estilo moderno y chic, su niña lucirá encantadora y lista para cualquier aventura. Su material suave y transpirable garantiza la comodidad en todo momento, mientras que el corte de pierna ancha brinda libertad de movimiento. ¡Perfecto para ese look diario o una ocasión especial! Una pieza adorable que no puede faltar en el guardarropa de su pequeña princesa. ¡Deslumbre a todos con su elección ideal al vestir a su niña con el Pantalón Marino!",
+  "details": "Comodidad sin paralelo\n\nSumérgete en la suavidad absoluta de los Pantalones para niña de pierna ancha en color Marino. Creados para ofrecer comodidad durante todo el día, estos pantalones fusionan estilo y practicidad. Son ideales para cualquier actividad, desde jugar en el parque hasta acudir a la escuela. La tela suave y elástica se mueve con ella, garantizando la máxima libertad de movimiento.\n\n\nEstilo atemporal y versátil\n\nCada detalle de los Pantalones de pierna ancha Marina para niña se ha concebido con estilo y funcionalidad en cabeza. El diseño de pierna ancha no solo es moderno, también ofrecen facilidad de movimiento. Además, el color Marino es extremadamente versátil y puede combinarse con una variedad de tops y accesorios para crear conjuntos lindos y elegantes.\n\n\nDiseñados para durar\n\nPorque sabemos que los niños pueden ser bastante activos y duros con su ropa, los Pantalones de pierna ancha Marina para niña están diseñados para resistirlo todo. Hechos con tejido de alta calidad, estos pantalones pueden mantener su color y forma incluso después de innumerables lavados. Así que puede estar seguro de que sus pequeños pueden moverse, jugar y explorar tanto como quieran sin apagarse.\n\n\nDescubre la magia de la comodidad y el estilo con los Pantalones de pierna ancha Marina para niña. ¡Añade uno a la cesta de compras ahora y dale a tu pequeña la bondad del estilo y la comodidad que se merece!",
+  "sourceDescriptionHtml": "<h2>Comodidad sin paralelo</h2>\n<p>Sumérgete en la suavidad absoluta de los Pantalones para niña de pierna ancha en color Marino. Creados para ofrecer comodidad durante todo el día, estos pantalones fusionan estilo y practicidad. Son ideales para cualquier actividad, desde jugar en el parque hasta acudir a la escuela. La tela suave y elástica se mueve con ella, garantizando la máxima libertad de movimiento.</p>\n\n<h2>Estilo atemporal y versátil</h2>\n<p>Cada detalle de los Pantalones de pierna ancha Marina para niña se ha concebido con estilo y funcionalidad en cabeza. El diseño de pierna ancha no solo es moderno, también ofrecen facilidad de movimiento. Además, el color Marino es extremadamente versátil y puede combinarse con una variedad de tops y accesorios para crear conjuntos lindos y elegantes.</p>\n\n<h2>Diseñados para durar</h2>\n<p>Porque sabemos que los niños pueden ser bastante activos y duros con su ropa, los Pantalones de pierna ancha Marina para niña están diseñados para resistirlo todo. Hechos con tejido de alta calidad, estos pantalones pueden mantener su color y forma incluso después de innumerables lavados. Así que puede estar seguro de que sus pequeños pueden moverse, jugar y explorar tanto como quieran sin apagarse.</p>\n\n<p>Descubre la magia de la comodidad y el estilo con los Pantalones de pierna ancha Marina para niña. ¡Añade uno a la cesta de compras ahora y dale a tu pequeña la bondad del estilo y la comodidad que se merece!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-18 15:53:59",
+  "sourceUpdatedAt": "2026-10-27 11:13:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85738",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2402057",
+      "productSku": "2402057",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:27.526Z"
+    },
+    {
+      "id": "85740",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2402057",
+      "productSku": "2402057",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:29.690Z"
+    },
+    {
+      "id": "85741",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2402057",
+      "productSku": "2402057",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:32.371Z"
+    },
+    {
+      "id": "85742",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2402057",
+      "productSku": "2402057",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:34.615Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17877-16316.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16316-large_default/pantalon-nina-pierna-ancha-marino.jpg",
+      "alt": "Pantalon niña pierna ancha Marino",
+      "sourceId": "16316",
+      "variantIds": [],
+      "sha256": "23e4b0b98ecd5480fe4ed17716a8abebf3c71ef61036fefe86b9efb8a68de090"
+    },
+    {
+      "path": "assets/17877-16317.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16317-large_default/pantalon-nina-pierna-ancha-marino.jpg",
+      "alt": "Pantalon niña pierna ancha Marino",
+      "sourceId": "16317",
+      "variantIds": [],
+      "sha256": "7ebfc87d5c4d33028c3c6536518811e2c2bf911279b78072af74244a9e448f3e"
+    },
+    {
+      "path": "assets/17877-16318.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16318-large_default/pantalon-nina-pierna-ancha-marino.jpg",
+      "alt": "Pantalon niña pierna ancha Marino",
+      "sourceId": "16318",
+      "variantIds": [],
+      "sha256": "c484b2def476d872654e67bdf7a24b1a8b3a0b5f61cd7db22c1886589aa4b9a5"
+    },
+    {
+      "path": "assets/17877-16319.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16319-large_default/pantalon-nina-pierna-ancha-marino.jpg",
+      "alt": "Pantalon niña pierna ancha Marino",
+      "sourceId": "16319",
+      "variantIds": [],
+      "sha256": "48f1aceff5a0660270ea128fdbee44b5a9a76297efd28183f55013b21634b7a5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:34.951Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6640",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/6640-chaqueta-bebe-nina-bordada-en-espalda-rojo.html",
+  "name": "Chaqueta bebé niña bordada en espalda Rojo",
+  "brand": "Mac Ilusión",
+  "sku": "1607188",
+  "description": "Chaqueta bolero para vestidos, con detalle calado en la espalda.",
+  "details": "Composición y cuidados:\n\nChaqueta: 100% acrílico Dralon Bayer.\n\nLAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO\n\nNO USAR SECADORA\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% acrílico Dralon Bayer.</p>\n<p>LAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO</p>\n<p>NO USAR SECADORA</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2016-17",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 18.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-27 11:09:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63997",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1607188",
+      "productSku": "1607188",
+      "taxRate": 21,
+      "price": 18.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:55.113Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6640-4589.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4589-large_default/chaqueta-bebe-nina-bordada-en-espalda-rojo.jpg",
+      "alt": "Chaqueta bebé niña bordada en espalda Rojo",
+      "sourceId": "4589",
+      "variantIds": [],
+      "sha256": "0c8ca84057b5a6972edc72dbe0123c21972dd70d75647f5803a2721d108467bc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:55.167Z",
+  "issues": []
+}

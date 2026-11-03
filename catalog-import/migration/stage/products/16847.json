@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16847",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/16847-pijama-bebe-coralina-estrella-rosa.html",
+  "name": "Pijama bebé coralina estrella Rosa",
+  "brand": "Talaman",
+  "sku": "2309043",
+  "description": "Pijama entero de coralina. Cierre por delante con corchetes. Tacto muy suave.",
+  "details": "Composición y cuidados:\n\nPijama: 100% poliéster.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pijama: 100% poliéster.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 21.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-09-22 15:53:33",
+  "sourceUpdatedAt": "2026-10-27 11:13:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "79632",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2309043",
+      "productSku": "2309043",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:06.575Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16847-14578.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14578-large_default/pijama-bebe-coralina-estrella-rosa.jpg",
+      "alt": "Pijama bebé coralina estrella Rosa",
+      "sourceId": "14578",
+      "variantIds": [],
+      "sha256": "91589eabc9363dffff6d4ab519bfe6a12a3904000b6b62fcd7d19fcd7c158883"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:06.618Z",
+  "issues": []
+}

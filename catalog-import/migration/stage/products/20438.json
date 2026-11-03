@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "20438",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/20438-chaqueta-larga-bebe-nina-granate.html",
+  "name": "Chaqueta larga bebé niña Granate",
+  "brand": "Calamaro",
+  "sku": "2502022",
+  "description": "Chaqueta larga con volante en el bajo. Tacto muy suave.",
+  "details": "Composición:\n\nChaqueta: 86% poliéster, 10% viscosa, 4% elastano.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 86% poliéster, 10% viscosa, 4% elastano.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Granate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 19.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94658",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502022",
+      "productSku": "2502022",
+      "taxRate": 21,
+      "price": 19.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:38.715Z"
+    },
+    {
+      "id": "94659",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502022",
+      "productSku": "2502022",
+      "taxRate": 21,
+      "price": 19.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:40.165Z"
+    },
+    {
+      "id": "94661",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502022",
+      "productSku": "2502022",
+      "taxRate": 21,
+      "price": 19.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:42.065Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20438-19690.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19690-large_default/chaqueta-larga-bebe-nina-granate.jpg",
+      "alt": "Chaqueta larga bebé niña Granate",
+      "sourceId": "19690",
+      "variantIds": [],
+      "sha256": "927d4baad21964d11f469b476f7d2516cfa6802dea4437336e734d6060ace075"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:42.136Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "12862",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/12862-conjunto-nina-listas-con-leggin-corto-varios.html",
+  "name": "Conjunto niña listas con leggin corto Varios",
+  "brand": "Talaman",
+  "sku": "2301379",
+  "description": "Conjunto de dos piezas compuesto por camiseta y leggings cortos",
+  "details": "Composición y cuidados:\n\nConjunto: 95% algodón, 5% elastano.\n\nNO USAR LEJIAS\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Conjunto: 95% algodón, 5% elastano.</p>\n<p>NO USAR LEJIAS</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-05 16:32:05",
+  "sourceUpdatedAt": "2026-10-27 11:12:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72525",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301379",
+      "productSku": "2301379",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:22.568Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12862-13801.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13801-large_default/conjunto-nina-listas-con-leggin-corto-varios.jpg",
+      "alt": "Conjunto niña listas con leggin corto Varios",
+      "sourceId": "13801",
+      "variantIds": [],
+      "sha256": "0feb911c06abd256aa53267e70e2a0898cfe33efaa574a1d16778f0cf4714a31"
+    },
+    {
+      "path": "assets/12862-13802.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13802-large_default/conjunto-nina-listas-con-leggin-corto-varios.jpg",
+      "alt": "Conjunto niña listas con leggin corto Varios",
+      "sourceId": "13802",
+      "variantIds": [],
+      "sha256": "f3411137b5a058d8ff330306af14919a4f73adf5730271ca61de873517f29786"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:22.680Z",
+  "issues": []
+}

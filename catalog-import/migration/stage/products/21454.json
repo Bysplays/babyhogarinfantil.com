@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "21454",
+  "sourceUrl": "https://babyhogarinfantil.com/anoraks-y-chalecos/21454-impermeable-ligero-nino-gris.html",
+  "name": "Impermeable ligero niño Gris",
+  "brand": "Chicco",
+  "sku": "2502095",
+  "description": "Impermeable con capucha para niño, muy ligero pero abriga. Ideal para uniformes escolares.",
+  "details": "Composición:\n\nExterior: 100% poliéster.\n\nInterior: 100% poléster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Exterior: 100% poliéster.</p>\n<p>Interior: 100% poléster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "749",
+  "sourceCategoryName": "Anoraks y Chalecos",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96582",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502095",
+      "productSku": "2502095",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:35.109Z"
+    },
+    {
+      "id": "96583",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502095",
+      "productSku": "2502095",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:38.946Z"
+    },
+    {
+      "id": "96584",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502095",
+      "productSku": "2502095",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:42.798Z"
+    },
+    {
+      "id": "96586",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502095",
+      "productSku": "2502095",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:47.601Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21454-19955.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19955-large_default/impermeable-ligero-nino-gris.jpg",
+      "alt": "Impermeable ligero niño Gris",
+      "sourceId": "19955",
+      "variantIds": [],
+      "sha256": "bdde32e1cd609268bc2893b012fbafb05ac8c99b8f5bed6a7f41a437a8e3a521"
+    },
+    {
+      "path": "assets/21454-19956.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19956-large_default/impermeable-ligero-nino-gris.jpg",
+      "alt": "Impermeable ligero niño Gris",
+      "sourceId": "19956",
+      "variantIds": [],
+      "sha256": "04ee7774ed3802e56cdbdb11fb7ed642ef7662a2e6b4a584620bcf942cff86c7"
+    },
+    {
+      "path": "assets/21454-19957.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19957-large_default/impermeable-ligero-nino-gris.jpg",
+      "alt": "Impermeable ligero niño Gris",
+      "sourceId": "19957",
+      "variantIds": [],
+      "sha256": "11ea275abc00fa3d29ce3e180b51fe44d4654c1f9a7be69c436593deb75144bb"
+    },
+    {
+      "path": "assets/21454-19958.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19958-large_default/impermeable-ligero-nino-gris.jpg",
+      "alt": "Impermeable ligero niño Gris",
+      "sourceId": "19958",
+      "variantIds": [],
+      "sha256": "7c45429864b1c9f31a330ad0b244ffdb81f08a48205acf7909e51572133044ae"
+    },
+    {
+      "path": "assets/21454-19959.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19959-large_default/impermeable-ligero-nino-gris.jpg",
+      "alt": "Impermeable ligero niño Gris",
+      "sourceId": "19959",
+      "variantIds": [],
+      "sha256": "19853234be3c2e472a097368f99238f4126f63d9ed113f626d4ac69e79af9a8a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:47.934Z",
+  "issues": []
+}

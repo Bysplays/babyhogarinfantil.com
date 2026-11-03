@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "16289",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nino/16289-gorra-canutillo-teo-azul-celeste.html",
+  "name": "Gorra canutillo TEO Azul Celeste",
+  "brand": "Marco Polo",
+  "sku": "2304025",
+  "description": "¡Deje que su pequeño brille con la Gorra Canutillo Teo en Azul Celeste! Ideal para proteger sus tiernos ojos del sol, además de conferir un estilo vivaz a cualquier atuendo. Rendido con amor, presenta un diseño cómodo y ligero con una exquisita visera que es un elemento esencial para los días de sol. Estos colores alegres y brillantes son perfectos para refrescar su armario de verano. ¡No pierda la oportunidad de tener este folleto imprescindible en manos de su pequeño!",
+  "details": "Encanto y Elegancia\n\nLa Gorra Cannutillo TEO Azul Celeste es más que un simple accesorio. Este hermoso artículo de moda es un verdadero símbolo de elegancia y estilo. Su color vibrante atrapa todas las miradas y su confección de alta calidad garantiza una larga duración. Esta gorra única ha sido diseñada con un gran cuidado por los detalles, desde su delicado diseño hasta su acabado impecable.\n\n\nConfort y Calidad\n\nDiseñada pensando en la comodidad de nuestros pequeños, La Gorra Cannutillo TEO Azul Celeste asegura un ajuste perfecto y relajado en todos los momentos. Su material ligero y transpirable garantiza una gran comodidad, ¡haciéndoles querer llevarlo todo el día! No hay mejor opción para los días de sol, es ideal para evitar la luz del sol directa y mantener a los niños frescos y protegidos.\n\n\nUn Regalo Perfecto\n\nSin lugar a duda, la Gorra Cannutillo TEO Azul Celeste es el regalo perfecto para cualquier ocasión. Es ideal para cumpleaños, eventos especiales, o simplemente para hacer sentir especial a tu pequeño. No sólo estás regalando un accesorio de moda, sino una auténtica joya que sin duda añadirá un toque de encanto y elegancia a cualquier conjunto de ropa de los más pequeños.\n\n\nAdquiere hoy esta maravillosa Gorra Cannutillo TEO Azul Celeste, y agrega un toque de estilo y elegancia al vestuario de tu pequeño. ¡No esperes más, atrapa todas las miradas con este increíble artículo de moda!",
+  "sourceDescriptionHtml": "<p><strong>Encanto y Elegancia</strong></p>\n<p>La Gorra Cannutillo TEO Azul Celeste es más que un simple accesorio. Este hermoso artículo de moda es un verdadero símbolo de elegancia y estilo. Su color vibrante atrapa todas las miradas y su confección de alta calidad garantiza una larga duración. Esta gorra única ha sido diseñada con un gran cuidado por los detalles, desde su delicado diseño hasta su acabado impecable.</p>\n\n<p><strong>Confort y Calidad</strong></p>\n<p>Diseñada pensando en la comodidad de nuestros pequeños, La Gorra Cannutillo TEO Azul Celeste asegura un ajuste perfecto y relajado en todos los momentos. Su material ligero y transpirable garantiza una gran comodidad, ¡haciéndoles querer llevarlo todo el día! No hay mejor opción para los días de sol, es ideal para evitar la luz del sol directa y mantener a los niños frescos y protegidos.</p>\n\n<p><strong>Un Regalo Perfecto</strong></p>\n<p>Sin lugar a duda, la Gorra Cannutillo TEO Azul Celeste es el regalo perfecto para cualquier ocasión. Es ideal para cumpleaños, eventos especiales, o simplemente para hacer sentir especial a tu pequeño. No sólo estás regalando un accesorio de moda, sino una auténtica joya que sin duda añadirá un toque de encanto y elegancia a cualquier conjunto de ropa de los más pequeños.</p>\n\n<p>Adquiere hoy esta maravillosa Gorra Cannutillo TEO Azul Celeste, y agrega un toque de estilo y elegancia al vestuario de tu pequeño. ¡No esperes más, atrapa todas las miradas con este increíble artículo de moda!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "680",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "680",
+  "sourceCategoryName": "Gorras y viseras bebé y niño",
+  "price": 16,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-10 16:10:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72873",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "11299XC17402",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:05.274Z"
+    },
+    {
+      "id": "148622",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11299XA17402",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:07.888Z"
+    },
+    {
+      "id": "148623",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "11299XB17402",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:10.637Z"
+    },
+    {
+      "id": "72877",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "11299XD17402",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:12.975Z"
+    },
+    {
+      "id": "72881",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "11299XE17402",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:16.268Z"
+    },
+    {
+      "id": "72885",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "11299XF17402",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:20.597Z"
+    },
+    {
+      "id": "148624",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "11299XG17402",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:23.337Z"
+    },
+    {
+      "id": "72893",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "11299XH17402",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:27.014Z"
+    },
+    {
+      "id": "148625",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "11299XI17402",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:30.042Z"
+    },
+    {
+      "id": "148626",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "11299XJ17402",
+      "productSku": "2304025",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:33.380Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16289-14027.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14027-large_default/gorra-canutillo-teo-azul-celeste.jpg",
+      "alt": "Gorra canutillo TEO Azul Celeste",
+      "sourceId": "14027",
+      "variantIds": [],
+      "sha256": "605998439550fcc903285cbece3748980cca98a5ccf0b54a09f7f5631777f5ef"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:33.447Z",
+  "issues": []
+}

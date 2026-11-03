@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6655",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/6655-chaqueta-nina-bordada-en-espalda-chocolate.html",
+  "name": "Chaqueta niña bordada en espalda Chocolate",
+  "brand": "Mac Ilusión",
+  "sku": "1607189",
+  "description": "Chaqueta color CHOCOLATE de punto, bolero con botón para poner con vestidos. Tiene la espalda con un detalle calado. Temporada Invierno.",
+  "details": "Composición y cuidados:\n\nChaqueta chocolate: 100% Acrílico DRALON BAYER antialérgico.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nEL PUNTO LAVALO SIEMPRE DEL REVES, 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chaqueta chocolate: 100% Acrílico DRALON BAYER antialérgico.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>EL PUNTO LAVALO SIEMPRE DEL REVES, 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2016-17",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Chocolate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 22.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-26 19:38:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64019",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1607189",
+      "productSku": "1607189",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:30.530Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6655-4607.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4607-large_default/chaqueta-nina-bordada-en-espalda-chocolate.jpg",
+      "alt": "Chaqueta niña bordada en espalda Chocolate",
+      "sourceId": "4607",
+      "variantIds": [],
+      "sha256": "297c4724df90043024ae14b32d6f5cf2c5c3ede1aae45565ab186e5628be085a"
+    },
+    {
+      "path": "assets/6655-4606.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4606-large_default/chaqueta-nina-bordada-en-espalda-chocolate.jpg",
+      "alt": "Chaqueta niña bordada en espalda Chocolate",
+      "sourceId": "4606",
+      "variantIds": [],
+      "sha256": "a8c4543e76fe20cafb9fbe697600b292b4e5e1fb05cb0d48abf534518a83a12b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:30.659Z",
+  "issues": []
+}

@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "21910",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/21910-pantalon-vaquero-nina-ancho-mayoral-azul.html",
+  "name": "Pantalón vaquero niña ancho Mayoral Azul",
+  "brand": "Mayoral",
+  "sku": "2601222",
+  "description": "Moderno pantalón vaquero para niña de Mayoral en denim azul. Diseño de pierna ancha, cómodo y perfecto para looks casuales con estilo.",
+  "details": "Este pantalón vaquero para niña de la marca Mayoral combina tendencia, comodidad y versatilidad para crear looks actuales en cualquier temporada.\n\nEstá confeccionado en una mezcla de 65% algodón y 35% liocel, logrando un tejido denim suave, ligero y agradable al tacto.\n\nSu diseño de pierna ancha aporta un estilo moderno y favorecedor, ideal para combinar con camisetas, blusas, sudaderas o chaquetas.\n\nCuenta con cierre frontal con botón y cremallera, trabillas para cinturón, bolsillos delanteros y traseros, manteniendo el clásico estilo vaquero.\n\n\nPantalón vaquero para niña\n\n65% algodón y 35% liocel\n\nDenim suave y ligero\n\nDiseño de pierna ancha\n\nCierre con botón y cremallera\n\nBolsillos delanteros y traseros\n\nIdeal para looks casuales\n\n\nPerfecto para outfits cómodos, modernos y fáciles de combinar.",
+  "sourceDescriptionHtml": "<p>Este <strong>pantalón vaquero para niña</strong> de la marca <strong>Mayoral</strong> combina tendencia, comodidad y versatilidad para crear looks actuales en cualquier temporada.</p>\n<p>Está confeccionado en una mezcla de <strong>65% algodón y 35% liocel</strong>, logrando un tejido denim suave, ligero y agradable al tacto.</p>\n<p>Su diseño de <strong>pierna ancha</strong> aporta un estilo moderno y favorecedor, ideal para combinar con camisetas, blusas, sudaderas o chaquetas.</p>\n<p>Cuenta con <strong>cierre frontal con botón y cremallera</strong>, trabillas para cinturón, bolsillos delanteros y traseros, manteniendo el clásico estilo vaquero.</p>\n<ul>\n<li>Pantalón vaquero para niña</li>\n<li>65% algodón y 35% liocel</li>\n<li>Denim suave y ligero</li>\n<li>Diseño de pierna ancha</li>\n<li>Cierre con botón y cremallera</li>\n<li>Bolsillos delanteros y traseros</li>\n<li>Ideal para looks casuales</li>\n</ul>\n<p><strong>Perfecto para outfits cómodos, modernos y fáciles de combinar.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 27.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-19 23:53:43",
+  "sourceUpdatedAt": "2026-10-27 11:15:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100354",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2601222",
+      "productSku": "2601222",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:29.440Z"
+    },
+    {
+      "id": "100356",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601222",
+      "productSku": "2601222",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:32.215Z"
+    },
+    {
+      "id": "100359",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601222",
+      "productSku": "2601222",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:34.410Z"
+    },
+    {
+      "id": "100360",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2601222",
+      "productSku": "2601222",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:35.971Z"
+    },
+    {
+      "id": "100361",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2601222",
+      "productSku": "2601222",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:37.867Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21910-20865.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20865-large_default/pantalon-vaquero-nina-ancho-mayoral-azul.jpg",
+      "alt": "Pantalón vaquero niña ancho denim azul Mayoral modelo",
+      "sourceId": "20865",
+      "variantIds": [],
+      "sha256": "efc445d67bed5b3c9cad9a28e20b23f672c98e9550a92779857aa518de79e59f"
+    },
+    {
+      "path": "assets/21910-20866.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20866-large_default/pantalon-vaquero-nina-ancho-mayoral-azul.jpg",
+      "alt": "Pantalón vaquero niña ancho denim azul Mayoral",
+      "sourceId": "20866",
+      "variantIds": [],
+      "sha256": "f85fe40da613529c205e2ba8dfd741e30bb430f4f0a8043bb80d7a683b88d5ea"
+    },
+    {
+      "path": "assets/21910-20867.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20867-large_default/pantalon-vaquero-nina-ancho-mayoral-azul.jpg",
+      "alt": "Parte trasera pantalón vaquero niña Mayoral",
+      "sourceId": "20867",
+      "variantIds": [],
+      "sha256": "15af75effffeb1cca79cf03d3eaa98e14c61bdc9276f3ebd07ec26a6038c1962"
+    },
+    {
+      "path": "assets/21910-20868.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20868-large_default/pantalon-vaquero-nina-ancho-mayoral-azul.jpg",
+      "alt": "Detalle tejido denim pantalón niña",
+      "sourceId": "20868",
+      "variantIds": [],
+      "sha256": "67b3a81dbeb149b1347fbd11609a8c5ebf639b9003ed21bad898714c04fbc77c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:38.112Z",
+  "issues": []
+}

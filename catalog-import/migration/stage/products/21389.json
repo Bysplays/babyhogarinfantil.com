@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "21389",
+  "sourceUrl": "https://babyhogarinfantil.com/toquillas-tocas-arrullos/21389-toquilla-toca-dulzura-azul-celeste.html",
+  "name": "Toquilla toca DULZURA Azul Celeste",
+  "brand": "Mac Ilusión",
+  "sku": "2307011",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "785"
+  ],
+  "sourceDefaultCategoryId": "785",
+  "sourceCategoryName": "Toquillas Tocas Arrullos",
+  "price": 35.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-16 23:53:44",
+  "sourceUpdatedAt": "2026-10-27 11:12:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "148712",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11363XA17507",
+      "productSku": "2307011",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:39.703Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:39.703Z",
+  "issues": [
+    "No verified images"
+  ]
+}

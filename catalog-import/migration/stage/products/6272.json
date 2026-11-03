@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "id": "6272",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6272-leotardo-punto-liso-oceano.html",
+  "name": "Leotardo punto liso Oceano",
+  "brand": "Condor",
+  "sku": "1017",
+  "description": "Leotardos color MOSTAZA de algodón lisos en muchos colores. Disponibles en tallas de 0-3 meses a 16 años.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los primeros meses de tu bebé, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que el bebé se mueva con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. HECHO EN ESPAÑA\n\nComposición y cuidados:\n\n\nLeotardos: 75% algodón, 22% poliamida, 3% elastano.\n\nNO USAR LEJIAS.\n\nNO USAR SECADORA.\n\nNO PLANCHAR.\n\nNO LAVAR EN SECO.",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de <strong>CONDOR</strong> son sin duda una de las prendas más funcionales para los primeros meses de tu bebé, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que el bebé se mueva con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. <strong><span style=\"text-decoration:underline;\">HECHO EN ESPAÑA</span></strong></p>\n<p>Composición y cuidados:<strong><span style=\"text-decoration:underline;\"><br /></span></strong></p>\n<p>Leotardos: 75% algodón, 22% poliamida, 3% elastano.</p>\n<p>NO USAR LEJIAS.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO PLANCHAR.</p>\n<p>NO LAVAR EN SECO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Oceano",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14.21,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 11,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63142",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "909XA9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:02.715Z"
+    },
+    {
+      "id": "63143",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "909XB9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:05.049Z"
+    },
+    {
+      "id": "63144",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "909XC9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:07.844Z"
+    },
+    {
+      "id": "144461",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "909XD9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:10.679Z"
+    },
+    {
+      "id": "63145",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "909XE9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:13.595Z"
+    },
+    {
+      "id": "144462",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "909XF9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:16.283Z"
+    },
+    {
+      "id": "63146",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "909XG9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 17.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:19.280Z"
+    },
+    {
+      "id": "144463",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "909XH9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:23.001Z"
+    },
+    {
+      "id": "144464",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "909XI9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:25.582Z"
+    },
+    {
+      "id": "144465",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "909XJ9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:27.733Z"
+    },
+    {
+      "id": "144466",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "909XK9104",
+      "productSku": "1017",
+      "taxRate": 21,
+      "price": 13.3,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:28:30.619Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6272-4235.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4235-large_default/leotardo-punto-liso-oceano.jpg",
+      "alt": "Leotardo punto liso Oceano",
+      "sourceId": "4235",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6272-9490.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9490-large_default/leotardo-punto-liso-oceano.jpg",
+      "alt": "Leotardo punto liso Oceano",
+      "sourceId": "9490",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6272-4234.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4234-large_default/leotardo-punto-liso-oceano.jpg",
+      "alt": "Leotardo punto liso Oceano",
+      "sourceId": "4234",
+      "variantIds": [],
+      "sha256": "acd62dd07840ca5729aba361368d3f2ffbd23b82ce5ef610e4d8912bce39c434"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:28:33.629Z",
+  "issues": []
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8313",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8313-lazo-grande-con-pinza-rojo.html",
+  "name": "Lazo grande con pinza Rojo",
+  "brand": "Siena",
+  "sku": "2007018",
+  "description": "Sumérgete en un universo de encanto y delicadeza con el \"Lazo grande con pinza Rojo\". Este lazo rojo vibrante es un accesorio imprescindible para realzar instantáneamente cualquier atuendo de tus pequeños, aportando un toque de despreocupada elegancia. Confeccionado en España con la más alta calidad, esta pinza es fácil de colocar y se mantendrá segura en su lugar, resaltando los peinados más simples con un toque encantador. Ya sea para un evento especial o para el día a día, tus pequeños lucirán hermosos y elegantes. Date prisa y añade este lazo vibrante a tu carrito de compras, ¡puede ser el toque final perfecto!\n\nLazo de 8x8 cm. aprox. HECHO EN ESPAÑA. HECHO A MANO.",
+  "details": "Atracción Inmediata\n\n¿Te has detenido alguna vez para admirar a un niño luciendo un lazo grande rojo que atrae todas las miradas? ¡Es ese pequeño detalle que puede cambiar completamente un look! El lazo grande con pinza en color rojo es ese accesorio de moda que no puede faltar en el guardarropa de tu pequeña. Este lazo aportará elegancia y estilo inmediato a cualquier outfit, y seguramente será el centro de todas las miradas.\n\nLa Calidad en Cada Detalle\n\nEste no es solo un lazo rojo común. Cada pieza es cuidadosamente elaborada con materiales de la más alta calidad que garantizan durabilidad y resistencia. La pinza está diseñada para mantenerse segura en su lugar, sin importar cuán activa sea tu pequeña. A diferencia de otros lazos, nuestro lazo rojo grande es suave y amigable con la piel de los niños, asegurando un uso cómodo durante todo el día.\n\nEl Tocado Perfecto para Cada Ocasión\n\nYa sea para una salida informal al parque, una reunión familiar o un gran evento, este lazo rojo es siempre el toque final perfecto. Aporta ese toque de elegancia y sofisticación a cualquier atuendo. Un accesorio tan versátil que se adapta a cualquier ocasión. Nunca ha sido más fácil realzar el estilo de tu pequeña con un solo accesorio.\n\nNo esperes más, dale a tu niña el regalo de la elegancia y el estilo con el Lazo grande con pinza Rojo. ¡Cómpralo ahora y haz que cada día sea aún más especial!",
+  "sourceDescriptionHtml": "<div>\n<h2>Atracción Inmediata</h2>\n<p>¿Te has detenido alguna vez para admirar a un niño luciendo un lazo grande rojo que atrae todas las miradas? ¡Es ese pequeño detalle que puede cambiar completamente un look! El lazo grande con pinza en color rojo es ese accesorio de moda que no puede faltar en el guardarropa de tu pequeña. Este lazo aportará elegancia y estilo inmediato a cualquier outfit, y seguramente será el centro de todas las miradas.</p>\n<h2>La Calidad en Cada Detalle</h2>\n<p>Este no es solo un lazo rojo común. Cada pieza es cuidadosamente elaborada con materiales de la más alta calidad que garantizan durabilidad y resistencia. La pinza está diseñada para mantenerse segura en su lugar, sin importar cuán activa sea tu pequeña. A diferencia de otros lazos, nuestro lazo rojo grande es suave y amigable con la piel de los niños, asegurando un uso cómodo durante todo el día.</p>\n<h2>El Tocado Perfecto para Cada Ocasión</h2>\n<p>Ya sea para una salida informal al parque, una reunión familiar o un gran evento, este lazo rojo es siempre el toque final perfecto. Aporta ese toque de elegancia y sofisticación a cualquier atuendo. Un accesorio tan versátil que se adapta a cualquier ocasión. Nunca ha sido más fácil realzar el estilo de tu pequeña con un solo accesorio.</p>\n<p>No esperes más, dale a tu niña el regalo de la elegancia y el estilo con el Lazo grande con pinza Rojo. ¡Cómpralo ahora y haz que cada día sea aún más especial!</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 3.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146664",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8050XA12977",
+      "productSku": "2007018",
+      "taxRate": 21,
+      "price": 3.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:29.646Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8313-6599.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6599-large_default/lazo-grande-con-pinza-rojo.jpg",
+      "alt": "Lazo grande con pinza Rojo",
+      "sourceId": "6599",
+      "variantIds": [],
+      "sha256": "ac52d2200a47ae39bf8f1a0d295473782a248aa0c320b1de64c04284e38eecf9"
+    },
+    {
+      "path": "assets/8313-6598.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6598-large_default/lazo-grande-con-pinza-rojo.jpg",
+      "alt": "Lazo grande con pinza Rojo",
+      "sourceId": "6598",
+      "variantIds": [],
+      "sha256": "dacfb72655d1cf293f33f74375b05a57e6b44c94cac47a03532492616f95a7d1"
+    },
+    {
+      "path": "assets/8313-15544.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15544-large_default/lazo-grande-con-pinza-rojo.jpg",
+      "alt": "Lazo grande con pinza Rojo",
+      "sourceId": "15544",
+      "variantIds": [],
+      "sha256": "05ce228d31130e08be6ccae37ffbad58e35a0a133ff5eccf2581f4bec9e151ab"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:29.812Z",
+  "issues": []
+}

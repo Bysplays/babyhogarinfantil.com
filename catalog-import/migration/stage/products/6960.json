@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "6960",
+  "sourceUrl": "https://babyhogarinfantil.com/buzos-bebe-nina/6960-buzo-bebe-nina-gatitos-rosa.html",
+  "name": "Buzo bebé niña gatitos Rosa",
+  "brand": "Birba",
+  "sku": "1708043",
+  "description": "Buzo con manoplas.",
+  "details": "El buzo es idela para el frio invierno. Puedes meter a tu bebé directamente de la cuna al saco con el pijama puesto para que no se enfría, o también con su ropita. Tiene aislante térmico y forro polat en el interior.\n\nComposición y cuidados:\n\nExterior: 100% poliéster.\n\nForro: 100% poliéster.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>El buzo es idela para el frio invierno. Puedes meter a tu bebé directamente de la cuna al saco con el pijama puesto para que no se enfría, o también con su ropita. Tiene aislante térmico y forro polat en el interior.</p>\n<p>Composición y cuidados:</p>\n<p>Exterior: 100% poliéster.</p>\n<p>Forro: 100% poliéster.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "746"
+  ],
+  "sourceDefaultCategoryId": "746",
+  "sourceCategoryName": "Buzos Bebé niña",
+  "price": 38.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64753",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1708043",
+      "productSku": "1708043",
+      "taxRate": 21,
+      "price": 38.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:41.251Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6960-4882.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4882-large_default/buzo-bebe-nina-gatitos-rosa.jpg",
+      "alt": "Buzo bebé niña gatitos Rosa",
+      "sourceId": "4882",
+      "variantIds": [],
+      "sha256": "ba9e2a0eceac885068aa1adeda7efccd0d8536efe31bec3e92626e54e493a20b"
+    },
+    {
+      "path": "assets/6960-9845.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9845-large_default/buzo-bebe-nina-gatitos-rosa.jpg",
+      "alt": "Buzo bebé niña gatitos Rosa",
+      "sourceId": "9845",
+      "variantIds": [],
+      "sha256": "a66329ff7c94652b3d0229ca7a55efa4d3d067678fa4d3d98ea477868a65ff75"
+    },
+    {
+      "path": "assets/6960-4881.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4881-large_default/buzo-bebe-nina-gatitos-rosa.jpg",
+      "alt": "Buzo bebé niña gatitos Rosa",
+      "sourceId": "4881",
+      "variantIds": [],
+      "sha256": "0a9eb0e0a4aa74c2fa53efac9ddc582cd64c84ac63fa1a2283b04f2946ec5e67"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:41.406Z",
+  "issues": []
+}

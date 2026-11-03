@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "16749",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16749-lazo-grande-con-pinza-negro.html",
+  "name": "Lazo grande con pinza Negro",
+  "brand": "Siena",
+  "sku": "2007018",
+  "description": "Ilumine el día de su pequeña con el impresionante \"Lazo grande con pinza Negro\". Este hermoso accesorio para el cabello se presenta con un lazo majestuoso adosado a una pinza duradera, perfecto para mantener los mechones rebeldes a raya mientras agrega un toque chic a cualquier atuendo. Su ajuste cómodo y ligero asegura que se mantiene en su lugar, incluso cuando la diversión se intensifica. Fabricado con los mejores materiales para asegurar un uso prolongado sin desgaste ni desgaste. ¡Este lazo con pinza no es solo un accesorio, sino una forma elegante de expresar su personalidad!\n\nLazo grosgrain de 8 x 8 cm. aproximadamnete sobre clip pico-pato de 5,5 cm. aprox.\n\nHECHO EN ESPAÑA.\n\nHECHO A MANO.",
+  "details": "Estilo y Elegancia\n\nEl Lazo grande con pinza Negro es un accesorio indispensable que proporciona un toque de estilo y belleza a cualquier atuendo. Este hermoso lazo de color negro intenso, hecho con materiales de alta calidad, aporta un toque de elegancia y sofisticación que ninguna otra prenda puede igualar. Perfecto para ocasiones especiales o para el uso diario.\n\nDurabilidad y Comodidad\n\nEste precioso lazo cuenta con una pinza resistente y duradera que asegura la colocación y evita que el lazo se caiga, incluso en los días más ajetreados. La suave tela del lazo no irritará la delicada piel de los niños, proporcionando una comodidad excepcional junto con una estilo inigualable.\n\nVersatilidad Infinita\n\nLa versatilidad del Lazo grande con pinza Negro es incomparable. Puede ser utilizado en cualquier tipo de cabello y se adapta a una amplia gama de estilos. Ya sea para realzar un peinado elegante o darle un toque elegante a una coleta informal, este lazo será siempre el accesorio perfecto.\n\nNo esperes más, dale a tu pequeño ese toque adicional de belleza y elegancia. Haz clic en \"Agregar al carrito\" ahora y viste a tus hijos con el mejor accesorio del mercado: el Lazo grande con pinza Negro.",
+  "sourceDescriptionHtml": "<h2>Estilo y Elegancia</h2>\n<p>El <strong>Lazo grande con pinza Negro</strong> es un accesorio indispensable que proporciona un toque de estilo y belleza a cualquier atuendo. Este hermoso lazo de color negro intenso, hecho con materiales de alta calidad, aporta un toque de elegancia y sofisticación que ninguna otra prenda puede igualar. Perfecto para ocasiones especiales o para el uso diario.</p>\n<h2>Durabilidad y Comodidad</h2>\n<p>Este precioso lazo cuenta con una pinza resistente y duradera que asegura la colocación y evita que el lazo se caiga, incluso en los días más ajetreados. La suave tela del lazo no irritará la delicada piel de los niños, proporcionando una comodidad excepcional junto con una estilo inigualable.</p>\n<h2>Versatilidad Infinita</h2>\n<p>La versatilidad del <strong>Lazo grande con pinza Negro</strong> es incomparable. Puede ser utilizado en cualquier tipo de cabello y se adapta a una amplia gama de estilos. Ya sea para realzar un peinado elegante o darle un toque elegante a una coleta informal, este lazo será siempre el accesorio perfecto.</p>\n<p>No esperes más, dale a tu pequeño ese toque adicional de belleza y elegancia. Haz clic en \"Agregar al carrito\" ahora y viste a tus hijos con el mejor accesorio del mercado: <strong> el Lazo grande con pinza Negro.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 3.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-07-21 23:52:16",
+  "sourceUpdatedAt": "2026-10-27 11:10:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146672",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8050XA17592",
+      "productSku": "2007018",
+      "taxRate": 21,
+      "price": 3.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:29.438Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16749-15539.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15539-large_default/lazo-grande-con-pinza-negro.jpg",
+      "alt": "Lazo grande con pinza Negro",
+      "sourceId": "15539",
+      "variantIds": [],
+      "sha256": "05ce228d31130e08be6ccae37ffbad58e35a0a133ff5eccf2581f4bec9e151ab"
+    },
+    {
+      "path": "assets/16749-15540.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15540-large_default/lazo-grande-con-pinza-negro.jpg",
+      "alt": "Lazo grande con pinza Negro",
+      "sourceId": "15540",
+      "variantIds": [],
+      "sha256": "a7d3934aa3baaa5cc314d8450ab4d1ab45a1029f0a9dbfd390f1d3408d978ae0"
+    },
+    {
+      "path": "assets/16749-15541.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15541-large_default/lazo-grande-con-pinza-negro.jpg",
+      "alt": "Lazo grande con pinza Negro",
+      "sourceId": "15541",
+      "variantIds": [],
+      "sha256": "ec3d93f142ed3f8a74ab5baac7332f9a0785a439640151a3115a7eb4341c9afc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:29.596Z",
+  "issues": []
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "6175",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nino/6175-visera-bebe-nino-azul-marino.html",
+  "name": "Visera Bebé niño Azul Marino",
+  "brand": "Niseret",
+  "sku": "898",
+  "description": "\"\n\nDéjate seducir por la inigualable ternura de nuestra Visera Bebé niño en Azul Marino. Este precioso complemento es todo elegancia y suavidad, perfecta para proteger esas pequeñas caritas adorables del sol. Déjate sorprender por su calidad inigualable, fruto de una atención meticulosa al detalle. Enérgica, vibrante y despreocupada, es el detalle que todo pequeño aventurero necesita para sus juguetones días bajo el sol. Con su cautivante color y diseño, cualquier niño se sentirá el rey del parque. No busques más, la Visera Bebé niño Azul Marino es el añadido perfecto para cualquier conjunto de ropa de niño. ¡El regalo perfecto que toda mamá y su pequeño apreciarán!",
+  "details": "Una Moda Audaz e Inocente\n\nPresentamos una visera de bebé y niño en azul marino: una mezcla perfecta de funcionalidad y estilo. Hecha con materiales de alta calidad, esta visera azul marino brinda confort durante todo el día, a la vez que protege delicadamente a tu pequeño del sol. Con un diseño elegante y colorido, esta visera agrega un toque moderno a cualquier atuendo infantil.\n\nProtección y Comodidad en Cada Hilo\n\nAparte de ser absolutamente encantadora, nuestra visera para bebé y niño en azul marino posee una construcción de calidad diseñada para durar. La banda ajustable permite un ajuste perfecto, mientras que el material suave garantiza el máximo confort. Con una sombra amplia, tu pequeño estará a salvo de los rayos del sol mientras disfruta al aire libre.\n\nEl Toque Final Perfecto para Cualquier Atuendo\n\nEsta elegante visera azul marino transformará cualquier atuendo básico en algo especial. Es el accesorio perfecto para las aventuras de verano, desde viajes a la playa hasta picnics en el parque. Con su combinación de estilo y funcionalidad, esta visera seguro se convertirá en el favorito de tu pequeño.\n\nComienza a proteger a tu pequeño del sol con estilo hoy mismo. Añade esta impresionante visera de bebé y niño en azul marino al carrito ahora. ¡No te arrepentirás!\n\nComposición:\n\nExterior: 65% algodón, 35% poliéster.\n\nForro: 100% algodón.",
+  "sourceDescriptionHtml": "<h2>Una Moda Audaz e Inocente</h2>\n<p>Presentamos una visera de bebé y niño en azul marino: una mezcla perfecta de funcionalidad y estilo. Hecha con materiales de alta calidad, esta visera azul marino brinda confort durante todo el día, a la vez que protege delicadamente a tu pequeño del sol. Con un diseño elegante y colorido, esta visera agrega un toque moderno a cualquier atuendo infantil.</p>\n<h2>Protección y Comodidad en Cada Hilo</h2>\n<p>Aparte de ser absolutamente encantadora, nuestra visera para bebé y niño en azul marino posee una construcción de calidad diseñada para durar. La banda ajustable permite un ajuste perfecto, mientras que el material suave garantiza el máximo confort. Con una sombra amplia, tu pequeño estará a salvo de los rayos del sol mientras disfruta al aire libre.</p>\n<h2>El Toque Final Perfecto para Cualquier Atuendo</h2>\n<p>Esta elegante visera azul marino transformará cualquier atuendo básico en algo especial. Es el accesorio perfecto para las aventuras de verano, desde viajes a la playa hasta picnics en el parque. Con su combinación de estilo y funcionalidad, esta visera seguro se convertirá en el favorito de tu pequeño.</p>\n<p>Comienza a proteger a tu pequeño del sol con estilo hoy mismo. Añade esta impresionante visera de bebé y niño en azul marino al carrito ahora. ¡No te arrepentirás!</p>\n<p>Composición:</p>\n<p>Exterior: 65% algodón, 35% poliéster.</p>\n<p>Forro: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "680"
+  ],
+  "sourceDefaultCategoryId": "680",
+  "sourceCategoryName": "Gorras y viseras bebé y niño",
+  "price": 12,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-26 19:38:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62748",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "898",
+      "productSku": "898",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:12.707Z"
+    },
+    {
+      "id": "62749",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "898",
+      "productSku": "898",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:14.304Z"
+    },
+    {
+      "id": "77842",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "898",
+      "productSku": "898",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:16.064Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6175-9409.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9409-large_default/visera-bebe-nino-azul-marino.jpg",
+      "alt": "Visera Bebé niño Azul Marino",
+      "sourceId": "9409",
+      "variantIds": [],
+      "sha256": "d6ac3ebfaf2482a2cb172dee4d3bbd57f654844732e4e3935f742eadfef7bca1"
+    },
+    {
+      "path": "assets/6175-9408.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9408-large_default/visera-bebe-nino-azul-marino.jpg",
+      "alt": "Visera Bebé niño Azul Marino",
+      "sourceId": "9408",
+      "variantIds": [],
+      "sha256": "df361ba052bbbcf59200c60e4a6bc95bfb99dddeee344cd711bafdceb5bd1576"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:16.240Z",
+  "issues": []
+}

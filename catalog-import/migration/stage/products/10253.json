@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10253",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/10253-vestido-familia-manuela-rosa-empolvado.html",
+  "name": "Vestido familia MANUELA Rosa Empolvado",
+  "brand": "Yoedu",
+  "sku": "2301016",
+  "description": "Vestido de listas en color crudo y rosa empolvado, con detalle de tul y puntilla en la cintura, espalda abierta con cierre en forma de lágrima y lazo trasero de tul y forro interior. Disponible jesusín con ranita y vestido infantil de ceremonia a juego.",
+  "details": "Vestido de la familia MANUELA, de la firma YOEDU, firma de moda infantil que nace en 1994 con un estilo propio, elegante, funcional y alegre, que acompañe a los pequeños en su día a día. Corte bajo el pecho, estampado de listas en crudo y rosa empolvado, con detalle de tul y puntilla en la cintura. Sin mangas y con cuello redondo. Espalda abierta, con cierre de lágrima con botón superior y cremallera invisible, con lazo de tul superpuesto. Tiene forro interior rematado en tul, con vuelo y volumen. Una prenda coqueta, elegante y dulce, ideal para eventos y ceremonias! Echa un ojito a nuestras medias caladas, chaquetas de perlé y calzado y podrás completarla como más te guste! Disponible jesusín con ranita y vestido infantil de ceremonia a juego. \n\nComposición y cuidados:\n\nVestido: 73% algodón, 27% poliéster\n\nForro: 65% poliéster, 35% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nPRECAUCIÓN: TEJIDO PLUMETI PLANCHAR DEL REVÉS\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Vestido de la familia <strong>MANUELA</strong>, de la firma <strong>YOEDU</strong>, firma de moda infantil que nace en 1994 con un estilo propio, elegante, funcional y alegre, que acompañe a los pequeños en su día a día. Corte bajo el pecho, estampado de listas en crudo y rosa empolvado, con detalle de tul y puntilla en la cintura. Sin mangas y con cuello redondo. <strong>Espalda abierta</strong>, con cierre de lágrima con botón superior y <strong>cremallera invisible</strong>, con lazo de tul superpuesto. Tiene<strong> forro interior</strong> rematado en tul, con vuelo y volumen. Una prenda coqueta, elegante y dulce, ideal para eventos y ceremonias! Echa un ojito a nuestras <strong>medias caladas, chaquetas de perlé y calzado</strong> y podrás completarla como más te guste! <strong>Disponible jesusín con ranita y vestido infantil de ceremonia a juego. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Vestido: 73% algodón, 27% poliéster</p>\n<p>Forro: 65% poliéster, 35% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p><strong>PRECAUCIÓN: TEJIDO PLUMETI PLANCHAR DEL REVÉS</strong></p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa Empolvado",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 71.45,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:59",
+  "sourceUpdatedAt": "2026-10-27 11:12:14",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71286",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2301016",
+      "productSku": "2301016",
+      "taxRate": 21,
+      "price": 71.45,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:12.381Z"
+    },
+    {
+      "id": "71293",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2301016",
+      "productSku": "2301016",
+      "taxRate": 21,
+      "price": 78.25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:13.665Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10253-8208.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8208-large_default/vestido-familia-manuela-rosa-empolvado.jpg",
+      "alt": "Vestido familia MANUELA Rosa Empolvado",
+      "sourceId": "8208",
+      "variantIds": [],
+      "sha256": "7a13c8031b5c5792231f8c08c1bca5448e5380baf1191b0e9ac06983466dc3b8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:13.743Z",
+  "issues": []
+}

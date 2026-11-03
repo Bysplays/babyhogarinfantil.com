@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "8885",
+  "sourceUrl": "https://babyhogarinfantil.com/complementos/8885-marcador-ropa-con-plancha-blanco.html",
+  "name": "Marcador ropa con plancha Blanco",
+  "brand": "Santa Ana Mayor",
+  "sku": "2105024",
+  "description": "Cinta marcadora de ropa con planchado. Ideal para personalizar e identificar todas las prendas.",
+  "details": "Cinta marcadora de ropa con planchado en color blanco. Escribe el nombre que desees en la cinta, mejor con rotulador indeleble, recorta el tamaño que necesites y plánchala en la prenda que quieras durante unos segundos! Un método fácil, rápido y sin ensuciar nada para personalizar todas las prendas de tu peque.",
+  "sourceDescriptionHtml": "<p>Cinta marcadora de ropa <strong>con planchado</strong> en color blanco. Escribe el nombre que desees en la cinta, mejor con rotulador indeleble, recorta el tamaño que necesites y plánchala en la prenda que quieras durante unos segundos! Un método fácil, rápido y sin ensuciar nada para personalizar todas las prendas de tu peque.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788"
+  ],
+  "sourceDefaultCategoryId": "788",
+  "sourceCategoryName": "Complementos",
+  "price": 1,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:42",
+  "sourceUpdatedAt": "2026-10-27 11:11:07",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 18,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68170",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9078XA14377",
+      "productSku": "2105024",
+      "taxRate": 21,
+      "price": 1,
+      "oldPrice": null,
+      "quantity": 18,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:04.404Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8885-7193.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7193-large_default/marcador-ropa-con-plancha-blanco.jpg",
+      "alt": "Marcador ropa con plancha Blanco",
+      "sourceId": "7193",
+      "variantIds": [],
+      "sha256": "83a0a560a135649ef30be0483e018d8d503cf2c4b6c7ca1007729fe61dea58fa"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:04.472Z",
+  "issues": []
+}

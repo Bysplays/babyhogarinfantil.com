@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "7315",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nino/7315-chaqueta-nino-trenzas-azul.html",
+  "name": "Chaqueta niño trenzas Azul",
+  "brand": "Mac Ilusión",
+  "sku": "1807158",
+  "description": "Chaqueta larga para niño.",
+  "details": "Composición:\n\nChaqueta: 100% acrílico.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 100% acrílico.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "738"
+  ],
+  "sourceDefaultCategoryId": "738",
+  "sourceCategoryName": "Chaquetas Niño",
+  "price": 0,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:23",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [],
+  "variants": [
+    {
+      "id": "31743",
+      "attributes": [],
+      "sku": "1807158",
+      "productSku": "1807158",
+      "taxRate": 21,
+      "price": 0,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:57.413Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7315-5293.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5293-large_default/chaqueta-nino-trenzas-azul.jpg",
+      "alt": "Chaqueta niño trenzas Azul",
+      "sourceId": "5293",
+      "variantIds": [],
+      "sha256": "a69684777d79eaf5d9dee9a5eb3b904abde6ec8bb78b7fa89fbe32dd6dffa059"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:57.492Z",
+  "issues": []
+}

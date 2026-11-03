@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "19403",
+  "sourceUrl": "https://babyhogarinfantil.com/anoraks-y-chalecos/19403-parka-impermeable-renos-verde.html",
+  "name": "Parka Impermeable renos Verde",
+  "brand": "Sterntaler",
+  "sku": "2402331",
+  "description": "Impermeable con costuras selladas\n\nCapucha y bolsillos\n\nCierre con cremallera y tapeta de botones a presión\n\nTiras de ajuste en los laterales\n\nElementos reflectantes (logo y franjas en mangas y bajo)\n\nSin forro interior (ligera, ideal como chubasquero)",
+  "details": "Composición:\n\nExterior 100% poliéster, recubrimiento 100% poliuretano\n\nForro de capucha 100% algodón",
+  "sourceDescriptionHtml": "<p><strong>Composición:</strong></p>\n<p>Exterior 100% poliéster, recubrimiento 100% poliuretano</p>\n<p>Forro de capucha 100% algodón</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "749",
+  "sourceCategoryName": "Anoraks y Chalecos",
+  "price": 49.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-01-30 23:54:08",
+  "sourceUpdatedAt": "2026-10-26 19:38:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "89710",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2402331",
+      "productSku": "2402331",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:37.473Z"
+    },
+    {
+      "id": "89711",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2402331",
+      "productSku": "2402331",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:40.395Z"
+    },
+    {
+      "id": "89712",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2402331",
+      "productSku": "2402331",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:43.675Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19403-19922.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19922-large_default/parka-impermeable-renos-verde.jpg",
+      "alt": "Parka Impermeable renos Verde",
+      "sourceId": "19922",
+      "variantIds": [],
+      "sha256": "1fa0e0c45f8b54bb5a3b83d96fbe8fbba3325209a7108da2bde9412a16baf5f8"
+    },
+    {
+      "path": "assets/19403-19923.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19923-large_default/parka-impermeable-renos-verde.jpg",
+      "alt": "Parka Impermeable renos Verde",
+      "sourceId": "19923",
+      "variantIds": [],
+      "sha256": "37793bb31c048b5c49748f051c55e52cdcb1c6374fbbf9321b5d432a1ec67be8"
+    },
+    {
+      "path": "assets/19403-19924.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19924-large_default/parka-impermeable-renos-verde.jpg",
+      "alt": "Parka Impermeable renos Verde",
+      "sourceId": "19924",
+      "variantIds": [],
+      "sha256": "f39cda8d8d6e31932eb7651294fe512288e8d59ba36a8eadfe1d0a3ad96be9bf"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:43.928Z",
+  "issues": []
+}

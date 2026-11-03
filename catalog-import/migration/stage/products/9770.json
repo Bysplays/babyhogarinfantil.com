@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "9770",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/9770-trenka-punto-con-borreguito-azul.html",
+  "name": "Trenka punto con borreguito Azul",
+  "brand": "Calamaro",
+  "sku": "2207015",
+  "description": "Adéntrate en la alegría de invierno con este \"Trenka punto con borreguito Azul\", una hermosa prenda diseñada para el confort y el estilo de bebés y niños. Creado con borreguito suave, ofrece calidez a su pequeño sin renunciar a la moda. Los detalles de punto añaden una capa extra de sofisticación a este anorak. El color azul trae a la mente el cielo despejado de invierno, sumando un toque mágico a su look. ¡No dejes pasar esta prenda esencial para su guardarropa de invierno!",
+  "details": "\"Comodidad Azul: Trenka Punto con Borreguito\"\n\nLa Trenka Punto con Borreguito Azul combina el clásico diseño de la trenka con la calidez excepcional de la borreguito para ofrecerte una moda invernal que no deja de impresionar. Cada puntada de esta trenka se hace con un cuidado meticuloso, creando una pieza duradera y de calidad superior en el armario de tu hijo.\n\n“Versatilidad y Elegancia en Azul Profundo\"\n\n¿Buscas versatilidad y elegancia para el vestuario de tus pequeños? Esta Trenka Punto con Borreguito Azul es la respuesta perfecta. Lo suficientemente cómoda para jugar en el parque y lo suficientemente elegante para las ocasiones especiales. Este abrigo azul combina elegancia clásica con estilo contemporáneo.\n\n“Cálido Refugio para los Días Fríos\"\n\nEl borreguito del interior de la Trenka Punto ofrece una acogedora barrera contra el frío, manteniendo a tu pequeño cálido y cómodo. Esta trenka no sólo es cálida, sino que también permite la transpiración, ayudando a regular la temperatura corporal de tu hijo en los días más fríos.\n\nOtorga a tu hijo el regalo de la comodidad y el estilo con la Trenka Punto con Borreguito Azul. ¡Haz clic en \"Añadir a la cesta\" y dale hoy un cálido abrazo en forma de trenka!\n\nComposición:\n\nTrenka: 100% acrílico..\n\nForro: 100% poliéster.\n\nNo usar secadora.\n\nNo usar lejias.\n\nNo planchar.",
+  "sourceDescriptionHtml": "<h2>\"Comodidad Azul: Trenka Punto con Borreguito\"</h2>\n<p>La Trenka Punto con Borreguito Azul combina el clásico diseño de la trenka con la calidez excepcional de la borreguito para ofrecerte una moda invernal que no deja de impresionar. Cada puntada de esta trenka se hace con un cuidado meticuloso, creando una pieza duradera y de calidad superior en el armario de tu hijo.</p>\n<h2>“Versatilidad y Elegancia en Azul Profundo\"</h2>\n<p>¿Buscas versatilidad y elegancia para el vestuario de tus pequeños? Esta Trenka Punto con Borreguito Azul es la respuesta perfecta. Lo suficientemente cómoda para jugar en el parque y lo suficientemente elegante para las ocasiones especiales. Este abrigo azul combina elegancia clásica con estilo contemporáneo.</p>\n<h2>“Cálido Refugio para los Días Fríos\"</h2>\n<p>El borreguito del interior de la Trenka Punto ofrece una acogedora barrera contra el frío, manteniendo a tu pequeño cálido y cómodo. Esta trenka no sólo es cálida, sino que también permite la transpiración, ayudando a regular la temperatura corporal de tu hijo en los días más fríos.</p>\n<p>Otorga a tu hijo el regalo de la comodidad y el estilo con la Trenka Punto con Borreguito Azul. ¡Haz clic en \"Añadir a la cesta\" y dale hoy un cálido abrazo en forma de trenka!</p>\n<p>Composición:</p>\n<p>Trenka: 100% acrílico..</p>\n<p>Forro: 100% poliéster.</p>\n<p>No usar secadora.</p>\n<p>No usar lejias.</p>\n<p>No planchar.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 28.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69955",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2207015",
+      "productSku": "2207015",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:59.823Z"
+    },
+    {
+      "id": "69956",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2207015",
+      "productSku": "2207015",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:03.604Z"
+    },
+    {
+      "id": "69957",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2207015",
+      "productSku": "2207015",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:07.169Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9770-12705.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12705-large_default/trenka-punto-con-borreguito-azul.jpg",
+      "alt": "Trenka punto con borreguito Azul",
+      "sourceId": "12705",
+      "variantIds": [],
+      "sha256": "b40dc8225d8f5dfe57a904c5cd1cd5f873891578d3927dc7011fbdd24556eaf8"
+    },
+    {
+      "path": "assets/9770-12706.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12706-large_default/trenka-punto-con-borreguito-azul.jpg",
+      "alt": "Trenka punto con borreguito Azul",
+      "sourceId": "12706",
+      "variantIds": [],
+      "sha256": "31a297cd3b8b60fb96271818310daacbbe936e6cf9c61340fab4b31d5e18807d"
+    },
+    {
+      "path": "assets/9770-12704.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12704-large_default/trenka-punto-con-borreguito-azul.jpg",
+      "alt": "Trenka punto con borreguito Azul",
+      "sourceId": "12704",
+      "variantIds": [],
+      "sha256": "a410d3cd0d901d294bb83a3bd72f5470d7e9b6ee807a13aeeac98acbf44f7499"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:07.376Z",
+  "issues": []
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "9313",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/9313-camiseta-bebe-nino-takoyaki-amarillo.html",
+  "name": "Camiseta bebe niño Takoyaki Amarillo",
+  "brand": "Zippy",
+  "sku": "2201010",
+  "description": "Camiseta 100% ALGODÓN, de cuello redondo y manga corta con corchetes en el hombro, color amarillo estampado con pulpitos",
+  "details": "Camiseta de ZIPPY, una de nuestras firmas más divertidas! 100% algodón, manga corta y cuello redondo con corchetes en el hombro, para facilitar la puesta. En color amarillo con estampado de pequeños pulpos. Una prenda cómoda, fresquita y de colores y estampados alegres! Echa un ojito a nuestros pantalones y bermudas, bodies interiores y calzado y podrás completarla como más te guste!\n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Camiseta de <strong>ZIPPY</strong>, una de nuestras firmas más divertidas! <strong>100% algodón</strong>, manga corta y cuello redondo con <strong>corchetes</strong> en el hombro, para facilitar la puesta. En color amarillo con estampado de pequeños pulpos. Una prenda cómoda, fresquita y de colores y estampados alegres! Echa un ojito a nuestros<strong> pantalones y bermudas, bodies interiores y calzado</strong> y podrás completarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 2.5,
+  "oldPrice": 4.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68909",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2201010",
+      "productSku": "2201010",
+      "taxRate": 21,
+      "price": 2.5,
+      "oldPrice": 4.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:57.259Z"
+    },
+    {
+      "id": "68910",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2201010",
+      "productSku": "2201010",
+      "taxRate": 21,
+      "price": 2.5,
+      "oldPrice": 4.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:58.647Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9313-8727.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8727-large_default/camiseta-bebe-nino-takoyaki-amarillo.jpg",
+      "alt": "Camiseta bebe niño Takoyaki Amarillo",
+      "sourceId": "8727",
+      "variantIds": [],
+      "sha256": "27ffe8d590b93c70f98fbae0282b940dba6687dc6f41e5c525b436c95f338731"
+    },
+    {
+      "path": "assets/9313-8728.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8728-large_default/camiseta-bebe-nino-takoyaki-amarillo.jpg",
+      "alt": "Camiseta bebe niño Takoyaki Amarillo",
+      "sourceId": "8728",
+      "variantIds": [],
+      "sha256": "e42ca0406a7a3c4aff71056b858158b5e27478636cd7a5b3f69866a7262711f2"
+    },
+    {
+      "path": "assets/9313-8729.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8729-large_default/camiseta-bebe-nino-takoyaki-amarillo.jpg",
+      "alt": "Camiseta bebe niño Takoyaki Amarillo",
+      "sourceId": "8729",
+      "variantIds": [],
+      "sha256": "d7e98f6389d9f959739650dc420124e7483c2cf10c159a413c1d8a6f832eed3c"
+    },
+    {
+      "path": "assets/9313-7554.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7554-large_default/camiseta-bebe-nino-takoyaki-amarillo.jpg",
+      "alt": "Camiseta bebe niño Takoyaki Amarillo",
+      "sourceId": "7554",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:58.870Z",
+  "issues": []
+}

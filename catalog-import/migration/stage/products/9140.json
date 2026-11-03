@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "9140",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/9140-pantalon-algodon-felpa-marino-y-verde-azul-marino.html",
+  "name": "Pantalon algodon felpa marino y verde Azul marino",
+  "brand": "Zippy",
+  "sku": "2109040",
+  "description": "Pantalón básico algodón, con cintura de goma y puño en el tobillo.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 15.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:46",
+  "sourceUpdatedAt": "2026-10-27 11:11:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68591",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2109040",
+      "productSku": "2109040",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:10.042Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9140-7408.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7408-large_default/pantalon-algodon-felpa-marino-y-verde-azul-marino.jpg",
+      "alt": "Pantalon algodon felpa marino y verde Azul marino",
+      "sourceId": "7408",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9140-11952.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11952-large_default/pantalon-algodon-felpa-marino-y-verde-azul-marino.jpg",
+      "alt": "Pantalon algodon felpa marino y verde Azul marino",
+      "sourceId": "11952",
+      "variantIds": [],
+      "sha256": "f3fa178f9ef3ec9a29c40546d6b35d11f5e2880fca8810cfce1a1c4abb31e2e3"
+    },
+    {
+      "path": "assets/9140-11953.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11953-large_default/pantalon-algodon-felpa-marino-y-verde-azul-marino.jpg",
+      "alt": "Pantalon algodon felpa marino y verde Azul marino",
+      "sourceId": "11953",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9140-9031.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9031-large_default/pantalon-algodon-felpa-marino-y-verde-azul-marino.jpg",
+      "alt": "Pantalon algodon felpa marino y verde Azul marino",
+      "sourceId": "9031",
+      "variantIds": [],
+      "sha256": "136d2623615e4e96a36e1507c3560f61012fc1e88c76a9067845a272f9d453b8"
+    },
+    {
+      "path": "assets/9140-9032.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9032-large_default/pantalon-algodon-felpa-marino-y-verde-azul-marino.jpg",
+      "alt": "Pantalon algodon felpa marino y verde Azul marino",
+      "sourceId": "9032",
+      "variantIds": [],
+      "sha256": "6d302d2364c181df339856eca2773348c1bbc21540ce52e739ecabe182298d4c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:10.313Z",
+  "issues": []
+}

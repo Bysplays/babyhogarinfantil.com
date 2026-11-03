@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "6089",
+  "sourceUrl": "https://babyhogarinfantil.com/polainas-bebe-nina/6089-polaina-lisa-perle-blanco.html",
+  "name": "Polaina lisa perlé Blanco",
+  "brand": "Mac Ilusión",
+  "sku": "621",
+  "description": "Polaina lisa SIN COSTURAS. En punto, perlé blanco. Para combinar con jubones y camisitas.",
+  "details": "Composición y cuidados:\n\nPolaina: 50% algodón, 50% Acrílico Dralon.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS QUE LA LIAS.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Polaina: 50% algodón, 50% Acrílico Dralon.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS QUE LA LIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "672"
+  ],
+  "sourceDefaultCategoryId": "672",
+  "sourceCategoryName": "Polainas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62388",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:24.108Z"
+    },
+    {
+      "id": "62389",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:27.379Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6089-3942.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3942-large_default/polaina-lisa-perle-blanco.jpg",
+      "alt": "Polaina lisa perlé Blanco",
+      "sourceId": "3942",
+      "variantIds": [],
+      "sha256": "c18464c9a306eaf18c90c96c26cc687f1a26ea8afaece77a264af35cb9c5506b"
+    },
+    {
+      "path": "assets/6089-3940.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3940-large_default/polaina-lisa-perle-blanco.jpg",
+      "alt": "Polaina lisa perlé Blanco",
+      "sourceId": "3940",
+      "variantIds": [],
+      "sha256": "b21e21d0bb637122fc0bc5419e4886583b46edc0f493b45f25035a40962d476f"
+    },
+    {
+      "path": "assets/6089-9331.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9331-large_default/polaina-lisa-perle-blanco.jpg",
+      "alt": "Polaina lisa perlé Blanco",
+      "sourceId": "9331",
+      "variantIds": [],
+      "sha256": "f573e003f128e22be90ab77a0f49ae2b69133fc43b9bdf6378fe01a34b1c4760"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:27.603Z",
+  "issues": []
+}

@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "16207",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-divino-salvador-vigo/16207-pantalon-largo-chandal-azul-marino.html",
+  "name": "Pantalón largo chandal Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2301325",
+  "description": "Pantalón largo chandal para los curso de primaria y ESO.",
+  "details": "Pantalón largo del uniforme deportivo del colegio DIVINO SALVADOR de Vigo, para los cursos de primaria y eso.\n\nComposición:\n\nPantalón: 80% poliéster, 20% algodón.\n\nNO PLANCHAR\n\nNO USAR SECADORA\n\nHECHO EN UE",
+  "sourceDescriptionHtml": "<p>Pantalón largo del uniforme deportivo del colegio DIVINO SALVADOR de Vigo, para los cursos de primaria y eso.</p>\n<p>Composición:</p>\n<p>Pantalón: 80% poliéster, 20% algodón.</p>\n<p>NO PLANCHAR</p>\n<p>NO USAR SECADORA</p>\n<p><strong>HECHO EN UE</strong></p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "783"
+  ],
+  "sourceDefaultCategoryId": "783",
+  "sourceCategoryName": "Colegio Divino Salvador Vigo",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-26 16:02:47",
+  "sourceUpdatedAt": "2026-10-27 11:12:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 52,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "313",
+          "label": "16(S)"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "143836",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2301325",
+      "productSku": "2301325",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:07.716Z"
+    },
+    {
+      "id": "143837",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2301325",
+      "productSku": "2301325",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:10.676Z"
+    },
+    {
+      "id": "143838",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2301325",
+      "productSku": "2301325",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 11,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:13.323Z"
+    },
+    {
+      "id": "143839",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2301325",
+      "productSku": "2301325",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:16.325Z"
+    },
+    {
+      "id": "143840",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2301325",
+      "productSku": "2301325",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:18.941Z"
+    },
+    {
+      "id": "143841",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2301325",
+      "productSku": "2301325",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:22.210Z"
+    },
+    {
+      "id": "143842",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "313",
+          "group": "Tamaño",
+          "value": "16(S)"
+        }
+      ],
+      "sku": "2301325",
+      "productSku": "2301325",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:25.381Z"
+    },
+    {
+      "id": "143843",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "2301325",
+      "productSku": "2301325",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:28.675Z"
+    },
+    {
+      "id": "143844",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "2301325",
+      "productSku": "2301325",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 9,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:32.289Z"
+    },
+    {
+      "id": "143845",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "2301325",
+      "productSku": "2301325",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:35.065Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16207-14099.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14099-large_default/pantalon-largo-chandal-azul-marino.jpg",
+      "alt": "Pantalón largo chandal Azul Marino",
+      "sourceId": "14099",
+      "variantIds": [],
+      "sha256": "944c422379dd500fa562824abc3cff3129658fe3a613fc665835f6234604f81b"
+    },
+    {
+      "path": "assets/16207-14100.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14100-large_default/pantalon-largo-chandal-azul-marino.jpg",
+      "alt": "Pantalón largo chandal Azul Marino",
+      "sourceId": "14100",
+      "variantIds": [],
+      "sha256": "2191885d0f8d8bd41d61275cae9844d2b824e3412c772ac6cf8d23ca22f6e1ba"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:35.223Z",
+  "issues": []
+}

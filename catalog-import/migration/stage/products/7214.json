@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "7214",
+  "sourceUrl": "https://babyhogarinfantil.com/jerseys-y-chaquetas-escolares/7214-jersey-escolar-100-algodon-azul-marino.html",
+  "name": "Jersey escolar 100% algodón Azul Marino",
+  "brand": "Pecesa",
+  "sku": "1806004",
+  "description": "Jersey cuello pico en 100% ALGODON recomendado especialmente para pieles atopicas. HECHO EN ESPAÑA",
+  "details": "Composición:\n\nJersey: 100% ALGODON\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Jersey: 100% ALGODON</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "683"
+  ],
+  "sourceDefaultCategoryId": "683",
+  "sourceCategoryName": "Jerseys y chaquetas escolares",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65309",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1806004",
+      "productSku": "1806004",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:08.621Z"
+    },
+    {
+      "id": "65310",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1806004",
+      "productSku": "1806004",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:11.916Z"
+    },
+    {
+      "id": "65313",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1806004",
+      "productSku": "1806004",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:14.739Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7214-5182.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5182-large_default/jersey-escolar-100-algodon-azul-marino.jpg",
+      "alt": "Jersey escolar 100% algodón Azul Marino",
+      "sourceId": "5182",
+      "variantIds": [],
+      "sha256": "c60a520178bf76ee38126c93cdb3009bb74e4a656f394000644b513869d697f8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:14.813Z",
+  "issues": []
+}

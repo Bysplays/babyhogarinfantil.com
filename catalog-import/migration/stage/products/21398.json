@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "21398",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/21398-turbante-bebe-terra-nude.html",
+  "name": "Turbante bebe TERRA Nude",
+  "brand": "Calamaro",
+  "sku": "2307049",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nude",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 6.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-16 23:53:45",
+  "sourceUpdatedAt": "2026-10-27 11:12:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "324",
+          "label": "P"
+        },
+        {
+          "id": "325",
+          "label": "SG"
+        },
+        {
+          "id": "326",
+          "label": "G"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "148786",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "324",
+          "group": "Tamaño",
+          "value": "P"
+        }
+      ],
+      "sku": "11401XA17561",
+      "productSku": "2307049",
+      "taxRate": 21,
+      "price": 6.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:01.253Z"
+    },
+    {
+      "id": "148787",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "11401XB17561",
+      "productSku": "2307049",
+      "taxRate": 21,
+      "price": 6.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:03.441Z"
+    },
+    {
+      "id": "148788",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "325",
+          "group": "Tamaño",
+          "value": "SG"
+        }
+      ],
+      "sku": "11401XC17561",
+      "productSku": "2307049",
+      "taxRate": 21,
+      "price": 6.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:05.675Z"
+    },
+    {
+      "id": "148789",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "326",
+          "group": "Tamaño",
+          "value": "G"
+        }
+      ],
+      "sku": "11401XD17561",
+      "productSku": "2307049",
+      "taxRate": 21,
+      "price": 6.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:08.455Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:08.455Z",
+  "issues": [
+    "No verified images"
+  ]
+}

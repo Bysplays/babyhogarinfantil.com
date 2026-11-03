@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "id": "9094",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/9094-deportivo-mesh-repelente-agua-29-al-39-blanco.html",
+  "name": "Deportivo MESH repelente agua 29 al 39 Blanco",
+  "brand": "Gorila",
+  "sku": "2108076",
+  "description": "Deportivo de velcro ideal colegios. Exterior reflectante repelente al agua. Plantilla extraíble.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "878",
+    "871",
+    "879",
+    "893",
+    "894"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 35.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:45",
+  "sourceUpdatedAt": "2026-10-27 11:11:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "282",
+          "label": "29"
+        },
+        {
+          "id": "283",
+          "label": "30"
+        },
+        {
+          "id": "284",
+          "label": "31"
+        },
+        {
+          "id": "285",
+          "label": "32"
+        },
+        {
+          "id": "286",
+          "label": "33"
+        },
+        {
+          "id": "287",
+          "label": "34"
+        },
+        {
+          "id": "288",
+          "label": "35"
+        },
+        {
+          "id": "289",
+          "label": "36"
+        },
+        {
+          "id": "290",
+          "label": "37"
+        },
+        {
+          "id": "291",
+          "label": "38"
+        },
+        {
+          "id": "292",
+          "label": "39"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68506",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "283",
+          "group": "Tamaño",
+          "value": "30"
+        }
+      ],
+      "sku": "9419XB14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:06.885Z"
+    },
+    {
+      "id": "147260",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "282",
+          "group": "Tamaño",
+          "value": "29"
+        }
+      ],
+      "sku": "9419XA14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:09.339Z"
+    },
+    {
+      "id": "147261",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "284",
+          "group": "Tamaño",
+          "value": "31"
+        }
+      ],
+      "sku": "9419XC14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:12.109Z"
+    },
+    {
+      "id": "147262",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "285",
+          "group": "Tamaño",
+          "value": "32"
+        }
+      ],
+      "sku": "9419XD14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:14.447Z"
+    },
+    {
+      "id": "147263",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "286",
+          "group": "Tamaño",
+          "value": "33"
+        }
+      ],
+      "sku": "9419XE14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:17.365Z"
+    },
+    {
+      "id": "147264",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "287",
+          "group": "Tamaño",
+          "value": "34"
+        }
+      ],
+      "sku": "9419XF14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:20.303Z"
+    },
+    {
+      "id": "147265",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "288",
+          "group": "Tamaño",
+          "value": "35"
+        }
+      ],
+      "sku": "9419XG14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:22.816Z"
+    },
+    {
+      "id": "147266",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "289",
+          "group": "Tamaño",
+          "value": "36"
+        }
+      ],
+      "sku": "9419XH14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:24.636Z"
+    },
+    {
+      "id": "147267",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "290",
+          "group": "Tamaño",
+          "value": "37"
+        }
+      ],
+      "sku": "9419XI14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:27.153Z"
+    },
+    {
+      "id": "147268",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "291",
+          "group": "Tamaño",
+          "value": "38"
+        }
+      ],
+      "sku": "9419XJ14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:29.505Z"
+    },
+    {
+      "id": "147269",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "292",
+          "group": "Tamaño",
+          "value": "39"
+        }
+      ],
+      "sku": "9419XK14843",
+      "productSku": "2108076",
+      "taxRate": 21,
+      "price": 35.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:31.572Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9094-11892.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11892-large_default/deportivo-mesh-repelente-agua-29-al-39-blanco.jpg",
+      "alt": "Deportivo MESH repelente agua 29 al 39 Blanco",
+      "sourceId": "11892",
+      "variantIds": [],
+      "sha256": "c0442d0c40ee4e50ce476147ea143518d49ff6104f0954d5826cb289ae575585"
+    },
+    {
+      "path": "assets/9094-11893.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11893-large_default/deportivo-mesh-repelente-agua-29-al-39-blanco.jpg",
+      "alt": "Deportivo MESH repelente agua 29 al 39 Blanco",
+      "sourceId": "11893",
+      "variantIds": [],
+      "sha256": "176c8b77dd3356edb32dbf22e32694f2e7c7e3d8fd6c36696d870fa2caa87233"
+    },
+    {
+      "path": "assets/9094-7381.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7381-large_default/deportivo-mesh-repelente-agua-29-al-39-blanco.jpg",
+      "alt": "Deportivo MESH repelente agua 29 al 39 Blanco",
+      "sourceId": "7381",
+      "variantIds": [],
+      "sha256": "385d9c6637af97b2f6219b371f8eabcd2118124fb59304aca3c652800234fc3f"
+    },
+    {
+      "path": "assets/9094-11891.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11891-large_default/deportivo-mesh-repelente-agua-29-al-39-blanco.jpg",
+      "alt": "Deportivo MESH repelente agua 29 al 39 Blanco",
+      "sourceId": "11891",
+      "variantIds": [],
+      "sha256": "e7c3e9d8bf27f12485f4553b7d533b41fb23495d6682f0ba60868208ea5aad36"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:31.792Z",
+  "issues": []
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "9615",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9615-conjunto-bebe-nino-2-piezas-verano-gris.html",
+  "name": "Conjunto bebe niño 2 piezas verano Gris",
+  "brand": "Babybol",
+  "sku": "2203123",
+  "description": "Conjunto playero dos piezas en algodón.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 7.5,
+  "oldPrice": 14.9919,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69680",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2203123",
+      "productSku": "2203123",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:13.648Z"
+    },
+    {
+      "id": "69681",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2203123",
+      "productSku": "2203123",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:15.458Z"
+    },
+    {
+      "id": "78389",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2203123",
+      "productSku": "2203123",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:17.360Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9615-7837.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7837-large_default/conjunto-bebe-nino-2-piezas-verano-gris.jpg",
+      "alt": "Conjunto bebe niño 2 piezas verano Gris",
+      "sourceId": "7837",
+      "variantIds": [],
+      "sha256": "f2ecfa1ccaf574167f04b54ed7e815a582aee469438befe524197ba7b53bc80c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:17.443Z",
+  "issues": []
+}

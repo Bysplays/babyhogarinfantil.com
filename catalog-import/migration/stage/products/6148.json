@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "6148",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/6148-calcetin-corto-perle-detalle-calado-nata.html",
+  "name": "Calcetín corto perlé detalle calado Nata",
+  "brand": "Condor",
+  "sku": "686",
+  "description": "Calcetines cortos de algodón perlé, BLANCO ROTO (nata) con calado diagonal y puño de fantasía. DISPONIBLE EN VARIOS COLORES.",
+  "details": "Calcetines cortos de CONDOR, una de nuestras firmas preferidas! De algodón perlé, perfectos para verano. Con pequeño calado diagonal en el tobillo y puño de fantasía. Un complemento perfecto para combinar con diferentes estilos de calzado, con un tejido suave, flexible y transpirable! Echa un ojito a nuestros leotardos y medias para elegir el que mejor se adapte a lo que buscas!\n\nComposición y cuidados:\n\nCalcetines: 80% algodón 20% poliamida \n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR\n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Calcetines cortos de <strong>CONDOR</strong>, una de nuestras firmas preferidas! De algodón perlé, perfectos para verano. Con pequeño calado diagonal en el tobillo y puño de fantasía. Un complemento perfecto para combinar con diferentes estilos de calzado, con un tejido suave, flexible y transpirable! Echa un ojito a nuestros <strong>leotardos y medias</strong> para elegir el que mejor se adapte a lo que buscas!</span></p>\n<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Composición y cuidados:</span></p>\n<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Calcetines: </span><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">80% algodón 20% poliamida </span></p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>NO PLANCHAR</p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nata",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "846"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 5.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62638",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:04.950Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6148-4045.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4045-large_default/calcetin-corto-perle-detalle-calado-nata.jpg",
+      "alt": "Calcetín corto perlé detalle calado Nata",
+      "sourceId": "4045",
+      "variantIds": [],
+      "sha256": "efc8dab7d8ddd2840527f3b76cc2271993459a373755961292dc795d382e5710"
+    },
+    {
+      "path": "assets/6148-4044.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4044-large_default/calcetin-corto-perle-detalle-calado-nata.jpg",
+      "alt": "Calcetín corto perlé detalle calado Nata",
+      "sourceId": "4044",
+      "variantIds": [],
+      "sha256": "6d3999f6032afe22a557617ee198fa451382720f22e521746570778325d400e4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:05.073Z",
+  "issues": []
+}

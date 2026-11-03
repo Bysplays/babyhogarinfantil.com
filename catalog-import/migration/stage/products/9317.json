@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "9317",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/9317-pantalon-nino-urban-team-rojo.html",
+  "name": "Pantalón niño urban team Rojo",
+  "brand": "Chicco",
+  "sku": "2201014",
+  "description": "Pantalón 100% algodón, con goma y cordón ajustable en la cintura, puños y bolsillo trasero. Estampado serigrafiado en una pernera.",
+  "details": "Pantal&oacute;n de ch&aacute;ndal de CHICCO, una de nuestras firmas favoritas! 100% ALGOD&Oacute;N. Con goma y cord&oacute;n ajustable en la cintura. Acabado en pu&ntilde;o. Tiene un bolsillo trasero. Estampado serigrafiado en una pernera. Una prenda c&oacute;moda, ligera y fresquita, perfecta para un look informal y desenfadado! Echa un ojito a nuestras sudaderas, camisetas y calzado deportivo y podr&aacute;s completarlo como m&aacute;s te guste! DISPONIBLE EN VARIOS COLORES. \n\r\nComposici&oacute;n y cuidados:\n\r\nPantal&oacute;n: 100% algod&oacute;n\n\r\nLAVAR A M&Aacute;QUINA (M&Aacute;XIMO 30 &ordm;C)\n\r\nNO USAR LEJ&Iacute;AS\n\r\nNO USAR SECADORA\n\r\nPLANCHAR A BAJA TEMPERATURA (M&Aacute;XIMO 110 &ordm;C)",
+  "sourceDescriptionHtml": "<p>Pantal&oacute;n de ch&aacute;ndal de&nbsp;<strong>CHICCO</strong>, una de nuestras firmas favoritas!&nbsp;<strong>100% ALGOD&Oacute;N</strong>. Con goma y&nbsp;<strong>cord&oacute;n ajustable</strong>&nbsp;en la cintura. Acabado en pu&ntilde;o. Tiene un bolsillo trasero. Estampado serigrafiado en una pernera. Una prenda c&oacute;moda, ligera y fresquita, perfecta para un&nbsp;<strong>look informal</strong>&nbsp;y desenfadado! Echa un ojito a nuestras&nbsp;<strong>sudaderas, camisetas y calzado</strong>&nbsp;deportivo y podr&aacute;s completarlo como m&aacute;s te guste!&nbsp;<strong>DISPONIBLE EN VARIOS COLORES.&nbsp;</strong></p>\r\n<p>Composici&oacute;n y cuidados:</p>\r\n<p>Pantal&oacute;n: 100% algod&oacute;n</p>\r\n<p>LAVAR A M&Aacute;QUINA (M&Aacute;XIMO 30 &ordm;C)</p>\r\n<p>NO USAR LEJ&Iacute;AS</p>\r\n<p>NO USAR SECADORA</p>\r\n<p>PLANCHAR A BAJA TEMPERATURA (M&Aacute;XIMO 110 &ordm;C)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 5,
+  "oldPrice": 9.9946,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68923",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2201014",
+      "productSku": "2201014",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:11.692Z"
+    },
+    {
+      "id": "68925",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2201014",
+      "productSku": "2201014",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:14.334Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9317-7560.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7560-large_default/pantalon-nino-urban-team-rojo.jpg",
+      "alt": "Pantalón niño urban team Rojo",
+      "sourceId": "7560",
+      "variantIds": [],
+      "sha256": "c69fcbc700c29e0c5d1096ce9db8fcdf641383ef9f24747e4821ad27f78a0ac8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:14.384Z",
+  "issues": []
+}

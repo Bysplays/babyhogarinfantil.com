@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "18096",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals/18096-chandal-happy-nina-marino.html",
+  "name": "Chandal Happy niña Marino",
+  "brand": "Babybol",
+  "sku": "2402083",
+  "description": "Chándal sudadera y pantalón 95% Algodón y 5% Elastano.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "803"
+  ],
+  "sourceDefaultCategoryId": "803",
+  "sourceCategoryName": "Chandals",
+  "price": 33.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-01 15:54:09",
+  "sourceUpdatedAt": "2026-10-27 11:13:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "86152",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2402083",
+      "productSku": "2402083",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:30.783Z"
+    },
+    {
+      "id": "86156",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2402083",
+      "productSku": "2402083",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:33.073Z"
+    },
+    {
+      "id": "86158",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2402083",
+      "productSku": "2402083",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:35.713Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18096-16534.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16534-large_default/chandal-happy-nina-marino.jpg",
+      "alt": "Chandal Happy niña Marino",
+      "sourceId": "16534",
+      "variantIds": [],
+      "sha256": "7ce71540fad370bf28580fbda3828b177b3b03722d5801d77523bdb4d0a498b0"
+    },
+    {
+      "path": "assets/18096-16535.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16535-large_default/chandal-happy-nina-marino.jpg",
+      "alt": "Chandal Happy niña Marino",
+      "sourceId": "16535",
+      "variantIds": [],
+      "sha256": "f888d5efecc02b51e1099bad2ef4fa6d21e1f434b2ffdfcbb9496ec5751b93a7"
+    },
+    {
+      "path": "assets/18096-16537.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16537-large_default/chandal-happy-nina-marino.jpg",
+      "alt": "Chandal Happy niña Marino",
+      "sourceId": "16537",
+      "variantIds": [],
+      "sha256": "cfbfe998386ea10c78eaba68c3934955aa3c7dbc92dc55faac9365f141fab46e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:35.905Z",
+  "issues": []
+}

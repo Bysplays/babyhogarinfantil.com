@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "9267",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas-bebe-nino/9267-cazadora-vaquera-nino-verano-azul-marino.html",
+  "name": "Cazadora vaquera niño verano Azul marino",
+  "brand": "Zippy",
+  "sku": "2111065",
+  "description": "Cazadora vaquera elástica color tejano, con capucha desmontable de algodón en color gris. Cierre con corchetes.",
+  "details": "Cazadora vaquera de ZIPPY, una de nuestras firmas preferidas! Tejido elástico y flexible, en color tejano. Cierre con corchetes delanteros, en los puños y bolsillos del pecho. Tiene capucha de algodón en color gris desmontable, abrochada con botones, se puede poner y quitar. Una prenda clásica y atemporal, un fondo de armario ideal para completar todos los conjuntos de tu peque! Echa un ojito a nuestros calcetines y calzado y podrás completarla hasta el mínimo detalle!\n\nComposición y cuidados:\n\nCazadora: 88% algodón, 11% poliéster, 1% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Cazadora vaquera de <strong>ZIPPY</strong>, una de nuestras firmas preferidas! <strong>Tejido elástico</strong> y flexible, en color tejano.<strong> Cierre con corchetes</strong> delanteros, en los puños y bolsillos del pecho. Tiene <strong>capucha de algodón</strong> en color gris <strong>desmontable</strong>, abrochada con botones, se puede poner y quitar. Una prenda clásica y<strong> atemporal</strong>, un fondo de armario ideal para completar todos los conjuntos de tu peque! Echa un ojito a nuestros <strong>calcetines y calzado</strong> y podrás completarla hasta el mínimo detalle!</p>\n<p>Composición y cuidados:</p>\n<p>Cazadora: 88% algodón, 11% poliéster, 1% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "724"
+  ],
+  "sourceDefaultCategoryId": "724",
+  "sourceCategoryName": "Cazadoras y parkas bebé niño",
+  "price": 15,
+  "oldPrice": 29.9959,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68817",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2111065",
+      "productSku": "2111065",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": 29.9959,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:36.592Z"
+    },
+    {
+      "id": "68818",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2111065",
+      "productSku": "2111065",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": 29.9959,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:38.311Z"
+    },
+    {
+      "id": "68819",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2111065",
+      "productSku": "2111065",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": 29.9959,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:39.837Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9267-7511.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7511-large_default/cazadora-vaquera-nino-verano-azul-marino.jpg",
+      "alt": "Cazadora vaquera niño verano Azul marino",
+      "sourceId": "7511",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9267-12127.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12127-large_default/cazadora-vaquera-nino-verano-azul-marino.jpg",
+      "alt": "Cazadora vaquera niño verano Azul marino",
+      "sourceId": "12127",
+      "variantIds": [],
+      "sha256": "b86f173815c2c28d714b914791e34c2eb026e81362bc0360f4c23512c0bec786"
+    },
+    {
+      "path": "assets/9267-12128.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12128-large_default/cazadora-vaquera-nino-verano-azul-marino.jpg",
+      "alt": "Cazadora vaquera niño verano Azul marino",
+      "sourceId": "12128",
+      "variantIds": [],
+      "sha256": "95a09241a66fc4afbb48af00492abf227a1fdfbfc3baa0d770a3686029b4c941"
+    },
+    {
+      "path": "assets/9267-12129.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12129-large_default/cazadora-vaquera-nino-verano-azul-marino.jpg",
+      "alt": "Cazadora vaquera niño verano Azul marino",
+      "sourceId": "12129",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9267-8744.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8744-large_default/cazadora-vaquera-nino-verano-azul-marino.jpg",
+      "alt": "Cazadora vaquera niño verano Azul marino",
+      "sourceId": "8744",
+      "variantIds": [],
+      "sha256": "36a2bcd8646cdeb11c6bb114ac06bc4f329beee60694e93762b860f2f790bd6a"
+    },
+    {
+      "path": "assets/9267-8745.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8745-large_default/cazadora-vaquera-nino-verano-azul-marino.jpg",
+      "alt": "Cazadora vaquera niño verano Azul marino",
+      "sourceId": "8745",
+      "variantIds": [],
+      "sha256": "b3f3138893406f1173506e0137ae4221389b87e50324f9a9976c6bfd370b9f1c"
+    },
+    {
+      "path": "assets/9267-8746.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8746-large_default/cazadora-vaquera-nino-verano-azul-marino.jpg",
+      "alt": "Cazadora vaquera niño verano Azul marino",
+      "sourceId": "8746",
+      "variantIds": [],
+      "sha256": "1f4aca8c68efdb876816883d5b715f79c79919d593b06c92dfd2dba54dbb9507"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:40.314Z",
+  "issues": []
+}

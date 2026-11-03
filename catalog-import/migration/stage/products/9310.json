@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "9310",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9310-conjunto-short-camiseta-beach-club-azul.html",
+  "name": "Conjunto short camiseta Beach Club Azul",
+  "brand": "Zippy",
+  "sku": "2201007",
+  "description": "Conjunto de algodón compuesto por camiseta de manga corta y cuello redondo con corchetes en el hombro, en color verde agua y pantalón corto gris.",
+  "details": "Conjunto de dos piezas en algodón de ZIPPY, una de nuestras firmas preferidas! Compuesto por camiseta de manga corta y cuello redondo, con corchetes en el hombro, para facilitar la puesta. En color verde agua, con estampado en el pecho. Como parte de abajo, pantalón corto en color gris con goma en la cintura y cordón ajustable. Un conjunto fresquito, cómodo y playero, ideal para los días de verano! Echa un ojito a nuestros bodies interiores, calzado y viseras y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nPantalón: 95% algodón, 5% viscosa\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas en algodón de<strong> ZIPPY</strong>, una de nuestras firmas preferidas! Compuesto por camiseta de manga corta y cuello redondo, con <strong>corchetes en el hombro</strong>, para facilitar la puesta. En color verde agua, con estampado en el pecho. Como parte de abajo, pantalón corto en color gris con goma en la cintura y <strong>cordón ajustable.</strong> Un conjunto fresquito, cómodo y playero, ideal para los días de verano! Echa un ojito a nuestros <strong>bodies interiores, calzado y viseras</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón</p>\n<p>Pantalón: 95% algodón, 5% viscosa</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 8.5,
+  "oldPrice": 16.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68903",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2201007",
+      "productSku": "2201007",
+      "taxRate": 21,
+      "price": 8.5,
+      "oldPrice": 16.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:25.647Z"
+    },
+    {
+      "id": "68904",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2201007",
+      "productSku": "2201007",
+      "taxRate": 21,
+      "price": 8.5,
+      "oldPrice": 16.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:27.103Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9310-8731.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8731-large_default/conjunto-short-camiseta-beach-club-azul.jpg",
+      "alt": "Conjunto short camiseta Beach Club Azul",
+      "sourceId": "8731",
+      "variantIds": [],
+      "sha256": "2a8f55f0f7002c26f900d054a6d4141a5506e1e6c3c092f9384629ef7539cd48"
+    },
+    {
+      "path": "assets/9310-8730.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8730-large_default/conjunto-short-camiseta-beach-club-azul.jpg",
+      "alt": "Conjunto short camiseta Beach Club Azul",
+      "sourceId": "8730",
+      "variantIds": [],
+      "sha256": "fc33d2caacb6d7c288ae060b9e534210c491e685558c1059c8ac065d245615bb"
+    },
+    {
+      "path": "assets/9310-7550.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7550-large_default/conjunto-short-camiseta-beach-club-azul.jpg",
+      "alt": "Conjunto short camiseta Beach Club Azul",
+      "sourceId": "7550",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:27.278Z",
+  "issues": []
+}

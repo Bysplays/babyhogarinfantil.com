@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "16235",
+  "sourceUrl": "https://babyhogarinfantil.com/bano-nino/16235-banador-bermuda-helados-rojo.html",
+  "name": "Bañador bermuda helados Rojo",
+  "brand": "Mayoral",
+  "sku": "2304009",
+  "description": "Bañador bermuda en color rojo estampado con helados, cintura de goma con cordón ajustable",
+  "details": "Bañador bermuda con cintura de goma con cordón ajustable. Bolsillo trasero funcional.\nComposición y cuidados:\nBañador: 100% poliéster\nForro: 95% poliéster, 5% elastano\nLAVAR A MANO\nNO USAR LEJÍAS\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p class=\"contenido\" style=\"margin:0px 0px 12.5px;color:rgb(111,112,114);font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);line-height:21px;\">Bañador bermuda con cintura de goma con cordón ajustable. Bolsillo trasero funcional.</p><p class=\"contenido\" style=\"margin:0px 0px 12.5px;color:rgb(111,112,114);font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);line-height:21px;\">Composición y cuidados:</p><p class=\"contenido\" style=\"margin:0px 0px 12.5px;color:rgb(111,112,114);font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);line-height:21px;\">Bañador: 100% poliéster</p><p class=\"contenido\" style=\"margin:0px 0px 12.5px;color:rgb(111,112,114);font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);line-height:21px;\">Forro: 95% poliéster, 5% elastano</p><p class=\"contenido\" style=\"margin:0px 0px 12.5px;color:rgb(111,112,114);font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);line-height:21px;\">LAVAR A MANO</p><p class=\"contenido\" style=\"margin:0px 0px 12.5px;color:rgb(111,112,114);font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);line-height:21px;\">NO USAR LEJÍAS</p><p class=\"contenido\" style=\"margin:0px 0px 12.5px;color:rgb(111,112,114);font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);line-height:21px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "807"
+  ],
+  "sourceDefaultCategoryId": "807",
+  "sourceCategoryName": "Baño niño",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-26 16:02:49",
+  "sourceUpdatedAt": "2026-10-27 11:12:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72725",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2304009",
+      "productSku": "2304009",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:43.729Z"
+    },
+    {
+      "id": "72726",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2304009",
+      "productSku": "2304009",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:45.089Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16235-13941.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13941-large_default/banador-bermuda-helados-rojo.jpg",
+      "alt": "Bañador bermuda helados Rojo",
+      "sourceId": "13941",
+      "variantIds": [],
+      "sha256": "b0d58286dcfb095e88892885717b9435e16687b5462a4adb35416803f93a7e56"
+    },
+    {
+      "path": "assets/16235-13942.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13942-large_default/banador-bermuda-helados-rojo.jpg",
+      "alt": "Bañador bermuda helados Rojo",
+      "sourceId": "13942",
+      "variantIds": [],
+      "sha256": "27bb2bd43fa62fc78cf6f5b61e9bfcb0c0c2d81c8bb8b707a53fa6f60a9e842e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:45.211Z",
+  "issues": []
+}

@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "9017",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/9017-gorro-cuadros-vicky-fucsia-fucsia.html",
+  "name": "Gorro cuadros Vicky fucsia Fucsia",
+  "brand": "Mayoral",
+  "sku": "2107089",
+  "description": "La talla es el diámetro de la cabecita del bebé.",
+  "details": "Composición:\n\nGorro: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Gorro: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 11.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-27 11:11:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68352",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "9289XB14678",
+      "productSku": "2107089",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:36.552Z"
+    },
+    {
+      "id": "147201",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9289XA14678",
+      "productSku": "2107089",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:38.125Z"
+    },
+    {
+      "id": "68353",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "9289XC14678",
+      "productSku": "2107089",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:39.996Z"
+    },
+    {
+      "id": "68354",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "9289XD14678",
+      "productSku": "2107089",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:41.901Z"
+    },
+    {
+      "id": "68355",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "9289XE14678",
+      "productSku": "2107089",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:43.725Z"
+    },
+    {
+      "id": "147202",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "9289XF14678",
+      "productSku": "2107089",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:45.183Z"
+    },
+    {
+      "id": "147203",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "9289XG14678",
+      "productSku": "2107089",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:46.643Z"
+    },
+    {
+      "id": "147204",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "9289XH14678",
+      "productSku": "2107089",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:47.806Z"
+    },
+    {
+      "id": "147205",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "9289XI14678",
+      "productSku": "2107089",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:50.384Z"
+    },
+    {
+      "id": "147206",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "9289XJ14678",
+      "productSku": "2107089",
+      "taxRate": 21,
+      "price": 11.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:54.487Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9017-11809.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11809-large_default/gorro-cuadros-vicky-fucsia-fucsia.jpg",
+      "alt": "Gorro cuadros Vicky fucsia Fucsia",
+      "sourceId": "11809",
+      "variantIds": [],
+      "sha256": "f5c49baf7d8b8d5ed2bfa8767244b15623ce488e601810923b23371bacb29cc3"
+    },
+    {
+      "path": "assets/9017-11808.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11808-large_default/gorro-cuadros-vicky-fucsia-fucsia.jpg",
+      "alt": "Gorro cuadros Vicky fucsia Fucsia",
+      "sourceId": "11808",
+      "variantIds": [],
+      "sha256": "33439e792a8ec35bc1e28a0526c52d6da2e590d5b5420c8aa511a51db6fea311"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:54.720Z",
+  "issues": []
+}

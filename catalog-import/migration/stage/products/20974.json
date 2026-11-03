@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "20974",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/20974-pololo-pana-verde.html",
+  "name": "Pololo pana Verde",
+  "brand": "Calamaro",
+  "sku": "2502014",
+  "description": "Pololo, ranita cubre pañal en color verde. En pana, con botones decorativos. Cintura de goma.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nPololo: 98% algodón, 2% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pololo: 98% algodón, 2% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 12.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-09-26 08:33:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96049",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502014",
+      "productSku": "2502014",
+      "taxRate": 21,
+      "price": 12.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:45.518Z"
+    },
+    {
+      "id": "96050",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502014",
+      "productSku": "2502014",
+      "taxRate": 21,
+      "price": 12.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:47.641Z"
+    },
+    {
+      "id": "96052",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502014",
+      "productSku": "2502014",
+      "taxRate": 21,
+      "price": 12.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:51.086Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20974-19947.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19947-large_default/pololo-pana-verde.jpg",
+      "alt": "Pololo pana Verde",
+      "sourceId": "19947",
+      "variantIds": [],
+      "sha256": "f0d81a51b45956f88ec3f5c3a57348ea0b4db147eeebe0834f133d1ba6fac972"
+    },
+    {
+      "path": "assets/20974-19948.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19948-large_default/pololo-pana-verde.jpg",
+      "alt": "Pololo pana Verde",
+      "sourceId": "19948",
+      "variantIds": [],
+      "sha256": "fa010ef1ad8fb423cd638c66a1f710a31e2ad3e4d1642d46eb8a7585cc6d7064"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:51.234Z",
+  "issues": []
+}

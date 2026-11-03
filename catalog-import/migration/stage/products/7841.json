@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "7841",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/7841-bota-baja-sin-suela-odelio-azul.html",
+  "name": "Bota baja sin suela ODELIO Azul",
+  "brand": "Chicco",
+  "sku": "1907145",
+  "description": "Botita baja de tela, SIN SUELA, los cordones son de goma, NO SE ATA.",
+  "details": "Botita baja de CHICCO, una de nuestras firmas preferidas. En color azul marino, con detalles en marrón clarito. Tiene cordones, pero son de goma y no se atan. Es un calzado de gran ligereza y flexbilidad, podrás adaptarlo para calzar a tu bebé cómodamente. Un complemento perfecto para tus conjuntos!",
+  "sourceDescriptionHtml": "<p>Botita baja de <strong>CHICCO</strong>, una de nuestras firmas preferidas. En color azul marino, con detalles en marrón clarito. Tiene cordones, pero son de goma y no se atan. Es un calzado de gran ligereza y flexbilidad, podrás adaptarlo para calzar a tu bebé cómodamente. Un complemento perfecto para tus conjuntos! </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:29",
+  "sourceUpdatedAt": "2026-10-27 11:10:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "256",
+          "label": "15"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66503",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "1907145",
+      "productSku": "1907145",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:53.669Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7841-5940.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5940-large_default/bota-baja-sin-suela-odelio-azul.jpg",
+      "alt": "Bota baja sin suela ODELIO Azul",
+      "sourceId": "5940",
+      "variantIds": [],
+      "sha256": "ce8ae8e68fd1264c6932d970020f9c7a0ac2d0119b7ce3c88455bf3e1571903b"
+    },
+    {
+      "path": "assets/7841-10604.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10604-large_default/bota-baja-sin-suela-odelio-azul.jpg",
+      "alt": "Bota baja sin suela ODELIO Azul",
+      "sourceId": "10604",
+      "variantIds": [],
+      "sha256": "ce8ae8e68fd1264c6932d970020f9c7a0ac2d0119b7ce3c88455bf3e1571903b"
+    },
+    {
+      "path": "assets/7841-5939.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5939-large_default/bota-baja-sin-suela-odelio-azul.jpg",
+      "alt": "Bota baja sin suela ODELIO Azul",
+      "sourceId": "5939",
+      "variantIds": [],
+      "sha256": "93165c92ca53c6df32eb32d8b07afdf1d0ba35bd22d84ca7ccd2dc5db15442dd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:53.869Z",
+  "issues": []
+}

@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "id": "21506",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/21506-sudadera-felpa-sin-capucha-verde-caqui.html",
+  "name": "Sudadera felpa sin capucha Verde Caqui",
+  "brand": "Babybol",
+  "sku": "2502144",
+  "description": "Sudadera de invierno para niño. Con felpa interior para que sea cálida. Puños y cintura con elásticos.",
+  "details": "Composición:\n\nSudadera: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Sudadera: </strong>100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde Caqui",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 18.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96848",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502144",
+      "productSku": "2502144",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:12.835Z"
+    },
+    {
+      "id": "96850",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502144",
+      "productSku": "2502144",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:14.466Z"
+    },
+    {
+      "id": "96851",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502144",
+      "productSku": "2502144",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:16.233Z"
+    },
+    {
+      "id": "96852",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502144",
+      "productSku": "2502144",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:17.663Z"
+    },
+    {
+      "id": "96853",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502144",
+      "productSku": "2502144",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:19.085Z"
+    },
+    {
+      "id": "96854",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502144",
+      "productSku": "2502144",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:20.484Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21506-20095.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20095-large_default/sudadera-felpa-sin-capucha-verde-caqui.jpg",
+      "alt": "Sudadera felpa sin capucha Verde Caqui",
+      "sourceId": "20095",
+      "variantIds": [],
+      "sha256": "ea07013d0e41a7ab2f0d3718ffad819a05ab8387ffd856cacccf40f62b5f1d79"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:20.564Z",
+  "issues": []
+}

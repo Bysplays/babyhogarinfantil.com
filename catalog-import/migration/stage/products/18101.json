@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "18101",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals/18101-chandal-2-piezas-skis-nina-fucsia.html",
+  "name": "Chandal 2 piezas skis niña Fucsia",
+  "brand": "Babybol",
+  "sku": "2402088",
+  "description": "Chándal de sudadera y pantalón 95% Algodón y 5% Elastano.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "803"
+  ],
+  "sourceDefaultCategoryId": "803",
+  "sourceCategoryName": "Chandals",
+  "price": 28.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-01 15:54:10",
+  "sourceUpdatedAt": "2026-10-27 11:13:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "86178",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2402088",
+      "productSku": "2402088",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:30.937Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18101-16554.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16554-large_default/chandal-2-piezas-skis-nina-fucsia.jpg",
+      "alt": "Chandal 2 piezas skis niña Fucsia",
+      "sourceId": "16554",
+      "variantIds": [],
+      "sha256": "ff51efe763f69933ba0fefa2c7bf36b4a84de632624e280e7899bfb5828b90a0"
+    },
+    {
+      "path": "assets/18101-16555.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16555-large_default/chandal-2-piezas-skis-nina-fucsia.jpg",
+      "alt": "Chandal 2 piezas skis niña Fucsia",
+      "sourceId": "16555",
+      "variantIds": [],
+      "sha256": "dbdbf48a6a0c0d25dc5c0c417447f4ee1d75de855f3bbdb97a05074f9b29bcf6"
+    },
+    {
+      "path": "assets/18101-16556.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16556-large_default/chandal-2-piezas-skis-nina-fucsia.jpg",
+      "alt": "Chandal 2 piezas skis niña Fucsia",
+      "sourceId": "16556",
+      "variantIds": [],
+      "sha256": "505cfc689f26cfd383a737fd46ce32a453bc2340b94c85ec9a48c6e96d683bb7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:31.098Z",
+  "issues": []
+}

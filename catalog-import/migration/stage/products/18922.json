@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "18922",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/18922-chaqueta-larga-capucha-tricot-nina-azul-marino.html",
+  "name": "Chaqueta larga capucha tricot niña Azul Marino",
+  "brand": "Mayoral",
+  "sku": "2402186",
+  "description": "Esta chaqueta larga con capucha de tricot para niñas en color azul marino combina comodidad, estilo y versatilidad. Perfecta para el clima frío, es una prenda esencial en el armario de cualquier niña. ¡No esperes más y añade esta chaqueta a tu carrito de compras hoy mismo!",
+  "details": "Comodidad y Estilo para Niñas Activas\n\nEsta chaqueta larga con capucha es perfecta para las niñas que aman jugar y explorar. Confeccionada en tricot, ofrece una textura suave y cálida que mantiene a las pequeñas cómodas durante todo el día. La capucha añade un toque de estilo y funcionalidad, protegiendo del viento y el frío. Ideal para combinar con cualquier atuendo, esta chaqueta se convierte en una prenda esencial en el armario de cualquier niña.\n\nDiseño Versátil y Moderno\n\nEl diseño de esta chaqueta es tanto versátil como moderno, permitiendo que las niñas la usen en diversas ocasiones, desde un día en el parque hasta una salida familiar. El color azul marino es neutro y elegante, fácil de combinar con otros colores y estilos. Además, el tricot proporciona una durabilidad excepcional, asegurando que la chaqueta mantenga su forma y apariencia a lo largo del tiempo.\n\nPrenda Esencial para el Clima Frío\n\nCuando las temperaturas bajan, esta chaqueta larga se convierte en la mejor aliada para mantener a las niñas abrigadas. La capucha ofrece una protección adicional contra el frío, mientras que el tricot garantiza una excelente retención del calor. Es una prenda ideal para el otoño e invierno, proporcionando confort y estilo en cada uso.\n\nComposición:\n\n58% Acrílico, 34% Poliéster y 8% Poliamida",
+  "sourceDescriptionHtml": "<div class=\"content user-select-text\" style=\"font-size:medium;\">\n<div class=\"ac-container ac-adaptiveCard has-image\">\n<div class=\"ac-textBlock\">\n<h3>Comodidad y Estilo para Niñas Activas</h3>\n<p>Esta <strong>chaqueta larga con capucha</strong> es perfecta para las niñas que aman jugar y explorar. Confeccionada en <strong>tricot</strong>, ofrece una textura suave y cálida que mantiene a las pequeñas cómodas durante todo el día. La <strong>capucha</strong> añade un toque de estilo y funcionalidad, protegiendo del viento y el frío. Ideal para combinar con cualquier atuendo, esta chaqueta se convierte en una prenda esencial en el armario de cualquier niña.</p>\n<h3>Diseño Versátil y Moderno</h3>\n<p>El diseño de esta chaqueta es tanto <strong>versátil</strong> como moderno, permitiendo que las niñas la usen en diversas ocasiones, desde un día en el parque hasta una salida familiar. El color <strong>azul marino</strong> es neutro y elegante, fácil de combinar con otros colores y estilos. Además, el <strong>tricot</strong> proporciona una durabilidad excepcional, asegurando que la chaqueta mantenga su forma y apariencia a lo largo del tiempo.</p>\n<h3>Prenda Esencial para el Clima Frío</h3>\n<p>Cuando las temperaturas bajan, esta <strong>chaqueta larga</strong> se convierte en la mejor aliada para mantener a las niñas abrigadas. La <strong>capucha</strong> ofrece una protección adicional contra el frío, mientras que el <strong>tricot</strong> garantiza una excelente retención del calor. Es una prenda ideal para el otoño e invierno, proporcionando confort y estilo en cada uso.</p>\n<p>Composición:</p>\n<p>58% Acrílico, 34% Poliéster y 8% Poliamida</p>\n<p></p>\n<p></p>\n<p></p>\n</div>\n</div>\n<div class=\"ad-container\"></div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-08 15:54:14",
+  "sourceUpdatedAt": "2026-10-27 11:13:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87909",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2402186",
+      "productSku": "2402186",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:43.509Z"
+    },
+    {
+      "id": "87910",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2402186",
+      "productSku": "2402186",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:46.684Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18922-17479.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17479-large_default/chaqueta-larga-capucha-tricot-nina-azul-marino.jpg",
+      "alt": "Chaqueta larga capucha tricot niña Azul Marino",
+      "sourceId": "17479",
+      "variantIds": [],
+      "sha256": "9a2e42859ef2113d92ebe283b84d777fb6ac674ed821814ced0de57a15b8f696"
+    },
+    {
+      "path": "assets/18922-17480.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17480-large_default/chaqueta-larga-capucha-tricot-nina-azul-marino.jpg",
+      "alt": "chaqueta larga para niña",
+      "sourceId": "17480",
+      "variantIds": [],
+      "sha256": "99085e5379a04ea3d26cb2ba6eef609f04456a8081f2d413ebe78c78939b36e5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:46.826Z",
+  "issues": []
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "21494",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/21494-pijama-tundosado-nino-invierno-gris.html",
+  "name": "Pijama tundosado niño invierno Gris",
+  "brand": "Tobogan",
+  "sku": "2502132",
+  "description": "Pijama largo para niño. Es calentito para el invierno. Tacto muy suave y agradable. Con dinosaurio T-REX estampado en el pecho.",
+  "details": "Composición:\n\nPijama: 76% algodón, 24% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pijama: 76% algodón, 24% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 24,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96794",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502132",
+      "productSku": "2502132",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:12.171Z"
+    },
+    {
+      "id": "96795",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502132",
+      "productSku": "2502132",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:13.800Z"
+    },
+    {
+      "id": "96796",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502132",
+      "productSku": "2502132",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:15.496Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21494-20057.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20057-large_default/pijama-tundosado-nino-invierno-gris.jpg",
+      "alt": "Pijama tundosado niño invierno Gris",
+      "sourceId": "20057",
+      "variantIds": [],
+      "sha256": "855069f4e302639b7d4cf00055138900ef52365c9947fd2d895ef6524dc2004a"
+    },
+    {
+      "path": "assets/21494-20058.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20058-large_default/pijama-tundosado-nino-invierno-gris.jpg",
+      "alt": "Pijama tundosado niño invierno Gris",
+      "sourceId": "20058",
+      "variantIds": [],
+      "sha256": "5aa7bd98fe42a0e951e8fc10b365363714ab9e35996a113c8105503c84654c51"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:15.655Z",
+  "issues": []
+}

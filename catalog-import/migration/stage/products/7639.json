@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7639",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/7639-pantalon-basico-algodon-rojo.html",
+  "name": "Pantalón básico algodón Rojo",
+  "brand": "Chicco",
+  "sku": "1902195",
+  "description": "Pantalón ROJO algodón básico. Para todo tiempo sin felpa interior. Goma ajustable con cordón en cintura y goma en tobillos.",
+  "details": "Pantalón básico rojo que puedes usar tanto para casa, el parque o la guardería. De la firma Italiana CHICCO.\n\nPantalón: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDABLE.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Pantalón básico rojo que puedes usar tanto para casa, el parque o la guardería. De la firma Italiana <strong>CHICCO.</strong></p>\n<p style=\"background-size:initial;\"><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">Pantalón: 100% algodón.</span></p>\n<p style=\"background-size:initial;\"><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">NO USAR LEJIAS.</span></p>\n<p style=\"background-size:initial;\"><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">LAVAR A 30º RECOMENDABLE.</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">NO USAR SECADORA.</span></p>\n<p> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 5,
+  "oldPrice": 9.9946,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66073",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1902195",
+      "productSku": "1902195",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:55.563Z"
+    },
+    {
+      "id": "66074",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1902195",
+      "productSku": "1902195",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:57.124Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7639-5623.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5623-large_default/pantalon-basico-algodon-rojo.jpg",
+      "alt": "Pantalón básico algodón Rojo",
+      "sourceId": "5623",
+      "variantIds": [],
+      "sha256": "7af7f5e2cb9d6b974d472699a19a934446c600c80254719c3ff0c960d62f8fb1"
+    },
+    {
+      "path": "assets/7639-5622.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5622-large_default/pantalon-basico-algodon-rojo.jpg",
+      "alt": "Pantalón básico algodón Rojo",
+      "sourceId": "5622",
+      "variantIds": [],
+      "sha256": "1d0e9afbd57acd46fd0aa7deddb534230f7dbc9de0604670b28b585d19dd03ad"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:57.264Z",
+  "issues": []
+}

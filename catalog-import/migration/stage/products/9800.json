@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9800",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/9800-camiseta-manga-larga-algodon-gris-gris.html",
+  "name": "Camiseta manga larga algodon gris Gris",
+  "brand": "Zippy",
+  "sku": "2207041",
+  "description": "Camiseta de manga larga y cuello redondo, en color gris con estampado con letras de videojuego en el pecho.",
+  "details": "Camiseta de ZIPPY, firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. De manga larga y cuello redondo, en color gris con estampado de letras de videojuego en el pecho. Una prenda atemporal, cómoda y de tacto suave y ligero, ideal para combinar con chándales o vaqueros! Echa un ojito a nuestra sección de ropa interior, calcetines y calzado y podrás completarla como más te guste!\n\nComposición y cuidados:\n\nCamiseta: 85% algodón, 15% viscosa\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Camiseta de <strong>ZIPPY</strong>, firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. De manga larga y cuello redondo, en color gris con estampado de letras de videojuego en el pecho. Una prenda atemporal, cómoda y de tacto suave y ligero, ideal para combinar con <strong>chándales o vaqueros</strong>! Echa un ojito a nuestra sección de<strong> ropa interior, calcetines y calzado</strong> y podrás completarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 85% algodón, 15% viscosa</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70048",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2207041",
+      "productSku": "2207041",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:34.592Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9800-7947.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7947-large_default/camiseta-manga-larga-algodon-gris-gris.jpg",
+      "alt": "Camiseta manga larga algodon gris Gris",
+      "sourceId": "7947",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9800-12758.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12758-large_default/camiseta-manga-larga-algodon-gris-gris.jpg",
+      "alt": "Camiseta manga larga algodon gris Gris",
+      "sourceId": "12758",
+      "variantIds": [],
+      "sha256": "6d43c5bb9900f6de0691874984fb15295b55fd2498c52568cb3455015722d36c"
+    },
+    {
+      "path": "assets/9800-8770.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8770-large_default/camiseta-manga-larga-algodon-gris-gris.jpg",
+      "alt": "Camiseta manga larga algodon gris Gris",
+      "sourceId": "8770",
+      "variantIds": [],
+      "sha256": "d19e86c9e9026c8df3f9da4aec8cd59f7ae45962b748f8afeaf1c054f73fc1fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:34.735Z",
+  "issues": []
+}

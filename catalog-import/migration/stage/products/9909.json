@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "9909",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9909-conjunto-tres-piezas-oso-azul.html",
+  "name": "Conjunto tres piezas oso Azul",
+  "brand": "Yoedu",
+  "sku": "2208023",
+  "description": "Conjunto tres piezas oso Azul, la elección definitiva para el bebé de moda. Este adorable conjunto traerá sonrisas instantáneas y corazones amorosos. La intensidad azul dota al pequeño de una elegancia discreta, mientras que el oso tierno le confiere un aspecto juguetón. El set incluye tres piezas esenciales para vestir a tu angelito - todo en uno. Perfecto para capturar fotos memorables, momentos de ternura y diversión. La suavidad, durabilidad y comodidad son garantizadas.¡Haga que su bebé brille con este dulce conjunto!",
+  "details": "Encuentra el Conjunto de tres piezas Oso Azul, que brinda el máximo confort a tu pequeño durante todo el día. Confeccionado en tejidos suaves y agradables al tacto que cuidan la piel sensibles de los niños.\n\n\nDiseño atractivo con comodidad superior\n\n Elsten Conjunto de tres piezas Oso Azules la solución perfecta para aquellos padres que buscan ropa de cama de alta calidad con diseños atractivos. Cubierto con adorables ositos, este conjunto promete a tu bebé noches de dulces sueños.\n\n\nConjunto perfecto para todas las estaciones\n\nEste conjunto único, hecho para todas las estaciones, ofrece a tu pequeño una experiencia de sueño superior. Hecho 100% de algodón, asegura la máxima transpirabilidad durante la noche. Así, tu hijo puede dormir fácilmente en cualquier época del año sin problemas de sobrecalentamiento.\n\n\nResistencia a la decoloración y facilidad de cuidado\n\nEl Conjunto de tres piezas Oso Azul está diseñado con tintes seguros y de alta calidad que son resistentes a las manchas y la decoloración. Estos conjuntos son fáciles de cuidar y pueden lavarse a máquina para facilitar el cuidado de las mamás ocupadas.\n\n\nElige este adorable Conjunto de tres piezas Oso Azul para tu pequeño y dile adiós a las noches inquietas. ¡Haz que cada noche sea memorable con este encantador juego de ropa de cama hoy! ¡Haz clic aquí para comprar ahora!",
+  "sourceDescriptionHtml": "<p>Encuentra el <strong>Conjunto de tres piezas Oso Azul</strong>, que brinda el máximo confort a tu pequeño durante todo el día. Confeccionado en tejidos suaves y agradables al tacto que cuidan la piel sensibles de los niños.</p>\n\n<h2>Diseño atractivo con comodidad superior</h2>\n<p> Elsten <strong>Conjunto de tres piezas Oso Azul</strong>es la solución perfecta para aquellos padres que buscan ropa de cama de alta calidad con diseños atractivos. Cubierto con adorables ositos, este conjunto promete a tu bebé noches de dulces sueños.</p>\n\n<h2>Conjunto perfecto para todas las estaciones</h2>\n<p>Este conjunto único, hecho para todas las estaciones, ofrece a tu pequeño una experiencia de sueño superior. Hecho 100% de algodón, asegura la máxima transpirabilidad durante la noche. Así, tu hijo puede dormir fácilmente en cualquier época del año sin problemas de sobrecalentamiento.</p>\n\n<h2>Resistencia a la decoloración y facilidad de cuidado</h2>\n<p>El <strong>Conjunto de tres piezas Oso Azul</strong> está diseñado con tintes seguros y de alta calidad que son resistentes a las manchas y la decoloración. Estos conjuntos son fáciles de cuidar y pueden lavarse a máquina para facilitar el cuidado de las mamás ocupadas.</p>\n\n<p>Elige este adorable <strong>Conjunto de tres piezas Oso Azul</strong> para tu pequeño y dile adiós a las noches inquietas. ¡Haz que cada noche sea memorable con este encantador juego de ropa de cama hoy! <a href=\"#\">¡Haz clic aquí para comprar ahora!</a></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 58.47,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70371",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2208023",
+      "productSku": "2208023",
+      "taxRate": 21,
+      "price": 58.47,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:01.996Z"
+    },
+    {
+      "id": "70372",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2208023",
+      "productSku": "2208023",
+      "taxRate": 21,
+      "price": 58.47,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:03.240Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9909-8034.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8034-large_default/conjunto-tres-piezas-oso-azul.jpg",
+      "alt": "Conjunto tres piezas oso Azul",
+      "sourceId": "8034",
+      "variantIds": [],
+      "sha256": "8dc7dd15eb94e3a59b31a763246cef4caf0f65fe71e6909804f25be7943b89b1"
+    },
+    {
+      "path": "assets/9909-12933.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12933-large_default/conjunto-tres-piezas-oso-azul.jpg",
+      "alt": "Conjunto tres piezas oso Azul",
+      "sourceId": "12933",
+      "variantIds": [],
+      "sha256": "6378d4465316c09419b6bf078e184627cffaad54c461e1698ee500fdc637e8ff"
+    },
+    {
+      "path": "assets/9909-12934.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12934-large_default/conjunto-tres-piezas-oso-azul.jpg",
+      "alt": "Conjunto tres piezas oso Azul",
+      "sourceId": "12934",
+      "variantIds": [],
+      "sha256": "8dc7dd15eb94e3a59b31a763246cef4caf0f65fe71e6909804f25be7943b89b1"
+    },
+    {
+      "path": "assets/9909-12932.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12932-large_default/conjunto-tres-piezas-oso-azul.jpg",
+      "alt": "Conjunto tres piezas oso Azul",
+      "sourceId": "12932",
+      "variantIds": [],
+      "sha256": "552133800ce0535bf44eae6b9ec8b8c83ca382751731c7572a24bdfe290663ce"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:03.500Z",
+  "issues": []
+}

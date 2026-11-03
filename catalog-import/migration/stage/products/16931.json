@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16931",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/16931-conjunto-leggin-con-diadema-frambuesa.html",
+  "name": "Conjunto leggin con diadema Frambuesa",
+  "brand": "Babybol",
+  "sku": "2307108",
+  "description": "Sumérgete en un mundo de ternura y estilo con el Conjunto Leggin con Diadema Frambuesa. Perfecto para las pequeñas princesas, este adorable conjunto promete comodidad sin comprometer el estilo. Con un diseño moderno y un color frambuesa llamativo, atraerá todas las miradas. La suave tela del leggin promete una movilidad sin restricciones, mientras que la diadema a juego sella el look con un toque de gracia. Un verdadero espectáculo de estilo y dulzura, es una elección ideal para los momentos especiales de tu pequeña. Haz que tu princesa brille con el Conjunto Leggin con Diadema Frambuesa.",
+  "details": "Resalta su Dulzura\n\nEste adorable Conjunto leggin con diadema frambuesa es la combinación perfecta de confort y estilo. Hecho con telas suaves de alta calidad, esta ropa asegura que el bebé esté a gusto mientras se ve absolutamente encantador. El diseño de frambuesas frescas y vivas aporta un encanto adicional, mientras que el ajuste flexible del leggin asegura que el bebé pueda moverse libremente. \n\n\nSiempre a la Moda\n\nCon este conjunto, no es necesario sacrificar el estilo por la comodidad. La diadema a juego aporta un toque extra de elegancia, haciendo que este conjunto sea la opción perfecta para cualquier ocasión. Ya sea para una salida casual o un evento especial, con este conjunto la pequeña lucirá siempre elegante y adorable. Además, el diseño alegre y colorido de la frambuesa mantendrá a la pequña a la vanguardia de la moda. \n\n\nUna Elección Perfecta\n\nEste Conjunto leggin con diadema frambuesa no solo promete confort y estilo, también ofrece una excelente resistencia al uso frecuente y a los lavados. Cada detalle ha sido cuidadosamente pensado, desde los materiales resistentes hasta la elástica banda en la cintura del leggin y la cómoda diadema, este conjunto es realmente la combinación perfecta de durabilidad y delicadeza.\n\n\n¿A qué esperas? Dale a tu pequeña la suavidad, el confort y el estilo que merece. Agrégalo a tu carrito hoy.",
+  "sourceDescriptionHtml": "<p><strong>Resalta su Dulzura</strong></p>\n<p>Este adorable <em>Conjunto leggin con diadema frambuesa</em> es la combinación perfecta de confort y estilo. Hecho con telas suaves de alta calidad, esta ropa asegura que el bebé esté a gusto mientras se ve absolutamente encantador. El diseño de frambuesas frescas y vivas aporta un encanto adicional, mientras que el ajuste flexible del leggin asegura que el bebé pueda moverse libremente. </p>\n\n<p><strong>Siempre a la Moda</strong></p>\n<p>Con este conjunto, no es necesario sacrificar el estilo por la comodidad. La diadema a juego aporta un toque extra de elegancia, haciendo que este conjunto sea la opción perfecta para cualquier ocasión. Ya sea para una salida casual o un evento especial, con este conjunto la pequeña lucirá siempre elegante y adorable. Además, el diseño alegre y colorido de la frambuesa mantendrá a la pequña a la vanguardia de la moda. </p>\n\n<p><strong>Una Elección Perfecta</strong></p>\n<p>Este <em>Conjunto leggin con diadema frambuesa</em> no solo promete confort y estilo, también ofrece una excelente resistencia al uso frecuente y a los lavados. Cada detalle ha sido cuidadosamente pensado, desde los materiales resistentes hasta la elástica banda en la cintura del leggin y la cómoda diadema, este conjunto es realmente la combinación perfecta de durabilidad y delicadeza.</p>\n\n<p>¿A qué esperas? Dale a tu pequeña la suavidad, el confort y el estilo que merece. Agrégalo a tu carrito hoy. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Frambuesa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-10-19 15:53:03",
+  "sourceUpdatedAt": "2026-10-27 11:12:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "80392",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2307108",
+      "productSku": "2307108",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:16.347Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16931-14513.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14513-large_default/conjunto-leggin-con-diadema-frambuesa.jpg",
+      "alt": "Conjunto leggin con diadema Frambuesa",
+      "sourceId": "14513",
+      "variantIds": [],
+      "sha256": "72cddc1df389aba049f73e0d33e143b7961f1fb08774a2babbd58888037d9b00"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:16.387Z",
+  "issues": []
+}

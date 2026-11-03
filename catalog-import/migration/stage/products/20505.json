@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "20505",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/20505-pijama-pelele-interlock-blue-bell.html",
+  "name": "Pijama pelele interlock Blue bell",
+  "brand": "Mayoral",
+  "sku": "2502070",
+  "description": "Pijama entero, apertura por delante con botones automáticos. 100% algodón.",
+  "details": "Composición: \n\n 100% Algodón.\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p> 100% Algodón.</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blue bell",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-26 19:38:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95014",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2502070",
+      "productSku": "2502070",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:34.881Z"
+    },
+    {
+      "id": "95016",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502070",
+      "productSku": "2502070",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:36.926Z"
+    },
+    {
+      "id": "95017",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502070",
+      "productSku": "2502070",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:39.625Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20505-19181.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19181-large_default/pijama-pelele-interlock-blue-bell.jpg",
+      "alt": "Pijama pelele interlock Blue bell",
+      "sourceId": "19181",
+      "variantIds": [],
+      "sha256": "9886bebe35deb465c7b0c9a2c69c36ab3816a9b4836a622a04abf40c2f1ff613"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:39.695Z",
+  "issues": []
+}

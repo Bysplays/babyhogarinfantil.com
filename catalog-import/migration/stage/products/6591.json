@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "6591",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/6591-calcetin-ceremonia-corto-puno-labrado-v-rosa-palo.html",
+  "name": "Calcetín ceremonia corto puño labrado V Rosa palo",
+  "brand": "Condor",
+  "sku": "1602101",
+  "description": "Calcetín corto de hilo con bolillo calado, ideal para ceremonia o días especiales.",
+  "details": "Calcetines de C&Oacute;NDOR, una de nuestras firmas favoritas! Modelo corto, de hilo. Detalles de pu&ntilde;o con puntilla, ideal para ceremonia. Disponibles en varios colores. Un complemento elegante y delicado, de tacto suave y transpirable, perfecto para combinar con vestidos o conjuntos en ocasiones especiales! Echa un ojito a nuestro calzado y podr&aacute;s combinarlos como m&aacute;s te gusten!\n\r\nComposici&oacute;n y cuidados:\n\r\nCalcet&iacute;n: 70% algod&oacute;n, 30% poliamida\n\r\nLAVAR A M&Aacute;QUINA (M&Aacute;XIMO 30 &ordm;C)\n\r\nNO USAR LEJ&Iacute;AS\n\r\nNO USAR SECADORA\n\r\nNO PLANCHAR\n\r\n \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">Calcetines de <strong>C&Oacute;NDOR</strong>, una de nuestras firmas favoritas! Modelo corto, de hilo. Detalles de pu&ntilde;o con puntilla, ideal para ceremonia. Disponibles en varios colores. Un complemento elegante y delicado, de tacto suave y transpirable, perfecto para combinar con vestidos o conjuntos en ocasiones especiales! Echa un ojito a nuestro <strong>calzado</strong> y podr&aacute;s combinarlos como m&aacute;s te gusten!</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">Composici&oacute;n y cuidados:</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">Calcet&iacute;n: 70% algod&oacute;n, 30% poliamida</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">LAVAR A M&Aacute;QUINA (M&Aacute;XIMO 30 &ordm;C)</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">NO USAR LEJ&Iacute;AS</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">NO USAR SECADORA</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">NO PLANCHAR</span></p>\r\n<p><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">&nbsp;</span></p>\r\n<p><strong><span style=\"color: #5d5d5d; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 15px;\">FABRICADO EN ESPA&Ntilde;A</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa palo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-27 11:09:07",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63867",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1602101",
+      "productSku": "1602101",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:40.880Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6591-4543.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4543-large_default/calcetin-ceremonia-corto-puno-labrado-v-rosa-palo.jpg",
+      "alt": "Calcetín ceremonia corto puño labrado V Rosa palo",
+      "sourceId": "4543",
+      "variantIds": [],
+      "sha256": "58189875394f435fa60a56f5017dd6865a49ea103ae30aa48415159fc575d0b9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:40.931Z",
+  "issues": []
+}

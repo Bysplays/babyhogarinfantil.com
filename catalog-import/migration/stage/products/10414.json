@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "10414",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/10414-deportivo-troquelado-bebe-nina-blanco.html",
+  "name": "Deportivo troquelado bebe niña Blanco",
+  "brand": "Chicco",
+  "sku": "2301180",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "262",
+          "label": "19"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71953",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "2301180",
+      "productSku": "2301180",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:34.712Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10414-13539.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13539-large_default/deportivo-troquelado-bebe-nina-blanco.jpg",
+      "alt": "Deportivo troquelado bebe niña Blanco",
+      "sourceId": "13539",
+      "variantIds": [],
+      "sha256": "b31e9bc894ac0ddba1c0f404d517b8872b77b9a5431c02acf27cfee87b43c826"
+    },
+    {
+      "path": "assets/10414-13540.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13540-large_default/deportivo-troquelado-bebe-nina-blanco.jpg",
+      "alt": "Deportivo troquelado bebe niña Blanco",
+      "sourceId": "13540",
+      "variantIds": [],
+      "sha256": "1f95390813fd4bd0bf4836ba576a699860423d6bd3cabee56a49f7b4dbc86a9f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:34.831Z",
+  "issues": []
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "18921",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/18921-chaqueta-larga-capucha-tricot-nina-rosado.html",
+  "name": "Chaqueta larga capucha tricot niña Rosado",
+  "brand": "Mayoral",
+  "sku": "2402186",
+  "description": "La chaqueta de punto con capucha, en un tono rosa claro suave y cálido, es ideal para mantener cómodos y elegantes a los pequeños. Con detalles como patrones trenzados y una cremallera frontal práctica, esta prenda combina estilo clásico y funcionalidad moderna. No esperes más para darle a tu pequeño confort y estilo con nuestra chaqueta; ¡adquiérela hoy!",
+  "details": "Confort Diario en Punto\n\nDescubre la suavidad y el confort que ofrece nuestra chaqueta de punto con capucha, perfecta para el uso diario. Confeccionada con hilos de primera calidad, esta prenda asegura un tacto suave contra la piel delicada de los más pequeños. Su diseño versátil permite combinarla fácilmente con cualquier conjunto, convirtiéndola en un imprescindible para el armario infantil.\n\nEstilo Clásico Renovado\n\nLa elegancia clásica se encuentra con la comodidad moderna en esta chaqueta rosa claro. El tejido de punto entrelazado no solo añade un toque tradicional sino que también proporciona una capa extra de calidez durante los días más frescos. Las mangas largas y la capucha ofrecen protección adicional contra el viento, haciendo que esta chaqueta sea tan funcional como estilosa.\n\nDetalles Que Encantan\n\nCada detalle ha sido pensado para encantar tanto a padres como a hijos. La cremallera frontal facilita vestir a los niños rápidamente, mientras que los patrones de trenzas añaden un encanto visual único a la prenda. Esta chaqueta infantil no solo es práctica sino también hermosa, destacando entre las prendas básicas del día a día.\n\n\n\n\n\n\nComposición:\n\n58% Acrílico, 34% Poliéster y 8% Poliamida",
+  "sourceDescriptionHtml": "<div class=\"content user-select-text\" style=\"font-size:medium;\">\n<div class=\"ac-container ac-adaptiveCard has-image\">\n<div class=\"ac-textBlock\">\n<h3>Confort Diario en Punto</h3>\n<p>Descubre la suavidad y el confort que ofrece nuestra <strong>chaqueta de punto con capucha</strong>, perfecta para el uso diario. Confeccionada con hilos de primera calidad, esta prenda asegura un tacto suave contra la piel delicada de los más pequeños. Su diseño versátil permite combinarla fácilmente con cualquier conjunto, convirtiéndola en un imprescindible para el armario infantil.</p>\n<h3>Estilo Clásico Renovado</h3>\n<p>La elegancia clásica se encuentra con la comodidad moderna en esta <strong>chaqueta rosa claro</strong>. El tejido de punto entrelazado no solo añade un toque tradicional sino que también proporciona una capa extra de calidez durante los días más frescos. Las mangas largas y la capucha ofrecen protección adicional contra el viento, haciendo que esta chaqueta sea tan funcional como estilosa.</p>\n<h3>Detalles Que Encantan</h3>\n<p>Cada detalle ha sido pensado para encantar tanto a padres como a hijos. La cremallera frontal facilita vestir a los niños rápidamente, mientras que los patrones de trenzas añaden un encanto visual único a la prenda. Esta <strong>chaqueta infantil</strong> no solo es práctica sino también hermosa, destacando entre las prendas básicas del día a día.</p>\n</div>\n</div>\n<div class=\"ad-container\">\n<p>Composición:</p>\n<p>58% Acrílico, 34% Poliéster y 8% Poliamida</p>\n<p></p>\n</div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosado",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-08 15:54:14",
+  "sourceUpdatedAt": "2026-10-27 11:13:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87906",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2402186",
+      "productSku": "2402186",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:41.855Z"
+    },
+    {
+      "id": "90296",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2402186",
+      "productSku": "2402186",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:45.882Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18921-17477.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17477-large_default/chaqueta-larga-capucha-tricot-nina-rosado.jpg",
+      "alt": "Chaqueta larga capucha tricot niña Rosado",
+      "sourceId": "17477",
+      "variantIds": [],
+      "sha256": "0ccb781b38b6ffba593f13d734854d4156c937eff1f78f922802348abfc79dc5"
+    },
+    {
+      "path": "assets/18921-17478.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17478-large_default/chaqueta-larga-capucha-tricot-nina-rosado.jpg",
+      "alt": "Chaqueta larga capucha tricot niña Rosado",
+      "sourceId": "17478",
+      "variantIds": [],
+      "sha256": "9b2cee8c24baf009a7a12b42f8e22c7411948ae140d1c26322e8e29413a51311"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:46.128Z",
+  "issues": []
+}

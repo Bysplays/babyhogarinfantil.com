@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6387",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6387-leotardo-canale-liquen.html",
+  "name": "Leotardo canalé Liquen",
+  "brand": "Condor",
+  "sku": "1339",
+  "description": "Leotardos verde liquen, de algodón canalé.",
+  "details": "Los pantys o leotardos de CONDOR son sin duda una de las prendas más funcionales para los primeros meses de tu bebé, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que el bebé se mueva con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. HECHO EN ESPAÑA\n\nComposición y cuidados:\n\n\nLeotardos: 75% algodón, 22% poliamida, 3% elastano.\n\nNO USAR LEJIAS.\n\nNO USAR SECADORA.\n\nNO PLANCHAR.\n\nNO LAVAR EN SECO.",
+  "sourceDescriptionHtml": "<p>Los pantys o leotardos de <strong>CONDOR</strong> son sin duda una de las prendas más funcionales para los primeros meses de tu bebé, para que descubra todo el mundo que le rodea. Por eso, debes buscar leotardos para niños con lycra, para que el bebé se mueva con total flexibilidad mientras le ofrecen una protección total ante el frio o las rozaduras. <strong><span style=\"text-decoration:underline;\">HECHO EN ESPAÑA</span></strong></p>\n<p>Composición y cuidados:<strong><span style=\"text-decoration:underline;\"><br /></span></strong></p>\n<p>Leotardos: 75% algodón, 22% poliamida, 3% elastano.</p>\n<p>NO USAR LEJIAS.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO PLANCHAR.</p>\n<p>NO LAVAR EN SECO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Liquen",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14.21,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63469",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1339",
+      "productSku": "1339",
+      "taxRate": 21,
+      "price": 14.21,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:27.148Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6387-14140.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14140-large_default/leotardo-canale-liquen.jpg",
+      "alt": "leotardo canale condor color verde liquen",
+      "sourceId": "14140",
+      "variantIds": [],
+      "sha256": "07e42a4ebd3767b80eeb5890b83369c04cd4bf23c260c747b44f9f6a7baa857c"
+    },
+    {
+      "path": "assets/6387-14139.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14139-large_default/leotardo-canale-liquen.jpg",
+      "alt": "Leotardo canalé Liquen",
+      "sourceId": "14139",
+      "variantIds": [],
+      "sha256": "97b0fcc644166fc6a554b5cf0331a4975bd4508540233ee496523e25a3885f55"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:29:27.996Z",
+  "issues": []
+}

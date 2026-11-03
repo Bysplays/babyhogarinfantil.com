@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "19765",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/19765-rebeca-tricot-larga-blanco.html",
+  "name": "Rebeca tricot larga Blanco",
+  "brand": "Mayoral",
+  "sku": "2501216",
+  "description": "Adéntrate en la pureza y elegancia sutil con la Rebeca Tricot Larga Blanco, una prenda irresistible para las niñas. Confeccionada con mimo y detallismo, abriga a tu pequeña en el confort cálido de esta chaqueta de verano. Su diseño largo y el estiloso tricot transforman cada momento en una ocasión especial. El blanco radiante refleja la luz del sol, inyectando un halo de alegría y luminosidad en cada día. Envuelve a tu ser querido en suavidad y viste los sueños de tu niña con estilo.",
+  "details": "Experiencia Cómoda y Elegante\n\nRebeca tricot larga Blanco es un imprescindible en el armario de tu pequeño. Fabricada con lana de alta calidad, esta prenda brindará a tu hijo una experiencia cálida y suave durante todo el día. Su color blanco clásico la hace versátil para combinar con diferentes conjuntos, elevando el estilo de tu pequeño de inmediato.\n\nMucho más que una Prenda de Vestir\n\nEsta rebeca no es solo una prenda de vestir común. Su tricot largo y su color blanco brillante crean una imagen lúdica y adorable. El diseño sencillo y limpio es perfecto para cualquier actividad, ya sea un día de juego informal o una ocasión especial. La rebeca también se puede usar como una capa adicional de calor durante los días más fríos.\n\nUn regalo Perfecto para tu Pequeño\n\nEsta increíble rebeca tricot larga de color blanco es una elección perfecta como regalo para tu pequeño. Su diseño elegante y su construcción de alta calidad aseguran que esta prenda será un favorito durante mucho tiempo. Dorado con una sonrisa, tu pequeño será el centro de atención en cualquier reunión familiar o fiesta de amigos.\n\nComposición:\n\n80% Algodón\n\n17% Poliamida\n\n3% Elastano.\n\n Compra la Rebeca tricot larga Blanco ahora y proporciona a tu pequeño elegancia y comodidad!",
+  "sourceDescriptionHtml": "<h2>Experiencia Cómoda y Elegante</h2>\n<p>Rebeca tricot larga Blanco es un imprescindible en el armario de tu pequeño. Fabricada con lana de alta calidad, esta prenda brindará a tu hijo una experiencia cálida y suave durante todo el día. Su color blanco clásico la hace versátil para combinar con diferentes conjuntos, elevando el estilo de tu pequeño de inmediato.</p>\n<h2>Mucho más que una Prenda de Vestir</h2>\n<p>Esta rebeca no es solo una prenda de vestir común. Su tricot largo y su color blanco brillante crean una imagen lúdica y adorable. El diseño sencillo y limpio es perfecto para cualquier actividad, ya sea un día de juego informal o una ocasión especial. La rebeca también se puede usar como una capa adicional de calor durante los días más fríos.</p>\n<h2>Un regalo Perfecto para tu Pequeño</h2>\n<p>Esta increíble rebeca tricot larga de color blanco es una elección perfecta como regalo para tu pequeño. Su diseño elegante y su construcción de alta calidad aseguran que esta prenda será un favorito durante mucho tiempo. Dorado con una sonrisa, tu pequeño será el centro de atención en cualquier reunión familiar o fiesta de amigos.</p>\n<p>Composición:</p>\n<p>80% Algodón</p>\n<p>17% Poliamida</p>\n<p>3% Elastano.</p>\n<p><a href=\"www.example.com/comprarahora\"> Compra la Rebeca tricot larga Blanco ahora y proporciona a tu pequeño elegancia y comodidad!</a></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2025",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-04-09 08:53:18",
+  "sourceUpdatedAt": "2026-10-27 11:14:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92073",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2501216",
+      "productSku": "2501216",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:24.514Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19765-18532.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18532-large_default/rebeca-tricot-larga-blanco.jpg",
+      "alt": "Rebeca tricot larga Blanco",
+      "sourceId": "18532",
+      "variantIds": [],
+      "sha256": "59e355bbd43afcf28b61259847dde1850ac831d7ca7aa4b372dd6f6619f3f6be"
+    },
+    {
+      "path": "assets/19765-18533.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18533-large_default/rebeca-tricot-larga-blanco.jpg",
+      "alt": "Rebeca tricot larga Blanco",
+      "sourceId": "18533",
+      "variantIds": [],
+      "sha256": "bd321061d109380275ca98ac73c335ea3fd0e8e7a326120597256ee3a76f1d77"
+    },
+    {
+      "path": "assets/19765-18534.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18534-large_default/rebeca-tricot-larga-blanco.jpg",
+      "alt": "Rebeca tricot larga Blanco",
+      "sourceId": "18534",
+      "variantIds": [],
+      "sha256": "c657884efc9e313f11044ddc463ca37ac4d76078bbf51bf9f8dee5f8058a740b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:24.695Z",
+  "issues": []
+}

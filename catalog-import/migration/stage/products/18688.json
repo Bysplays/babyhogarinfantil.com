@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "18688",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/18688-chaqueton-largo-nina-marino.html",
+  "name": "Chaqueton largo niña Marino",
+  "brand": "Mayoral",
+  "sku": "2402127",
+  "description": "Chaquetón largo con capucha desmontable azul marino. Facil de combinar.",
+  "details": "Composición:\n\nExterior: 100% poliéster.\n\nRelleno: 100% poliéster.\n\nForro: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Exterior: 100% poliéster.</p>\n<p>Relleno: 100% poliéster.</p>\n<p>Forro: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 55.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-09-06 23:54:29",
+  "sourceUpdatedAt": "2026-10-27 11:13:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88440",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2402127",
+      "productSku": "2402127",
+      "taxRate": 21,
+      "price": 55.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:35.399Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18688-17250.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17250-large_default/chaqueton-largo-nina-marino.jpg",
+      "alt": "Chaqueton largo niña Marino",
+      "sourceId": "17250",
+      "variantIds": [],
+      "sha256": "30db9a1ee9f4fcb6bff944218d3e8da8aa2a2b4ee42460696cb6cd75f675b1df"
+    },
+    {
+      "path": "assets/18688-17251.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17251-large_default/chaqueton-largo-nina-marino.jpg",
+      "alt": "Chaqueton largo niña Marino",
+      "sourceId": "17251",
+      "variantIds": [],
+      "sha256": "28ef32f93c29409507047992a3cf73dbee44df8ef1a4b2d986d1230e102cd87d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:35.512Z",
+  "issues": []
+}

@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "id": "9475",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/9475-vestido-bebe-rosa-ceremonia-rosa.html",
+  "name": "Vestido bebe rosa ceremonia Rosa",
+  "brand": "Anavig",
+  "sku": "2202114",
+  "description": "Vestido de ceremonia en piqué rosa, con corte en la cintura y aplique floral con imperdible. Volantes en los hombros. Cierre trasero con botones hasta media espalda, con amplia lazada superpuesta. Completamente forrado. DISPONIBLE EN TALLAS GRANDES PARA NIÑA.",
+  "details": "Vestido de ANAVIG, firma con fabricación española fundada en 1980 dedicada a la confección de vestidos ceremonia y arras. Con corte en la cintura y cuello redondo. Tejido de piqué rosa clarito con sutiles tablillas en la falda y aplique floral con imperdible decorando la cintura. Volantes en los hombros. Cierre trasero con botones hasta media espalda y amplia lazada superpuesta. Con forro interior acabado en volantes, para mayor movimiento y vuelo. Una prenda delicada y estilosa, perfecta para cualquier evento! Echa un ojito a nuestras chaquetas y calcetines de perlé y calzado y podrás completarlo hasta el mínimo detalle! DISPONIBLE EN TALLAS GRANDES PARA NIÑA A JUEGO.\n\nComposición y cuidados:\n\nVestido: 50% algodón, 50% poliéster\n\nForro: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO LAVAR EN SECO\n\nPLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Vestido de <strong>ANAVIG</strong>, firma con <strong>fabricación española</strong> fundada en 1980 dedicada a la confección de vestidos ceremonia y arras. Con corte en la cintura y cuello redondo. Tejido de <strong>piqué rosa</strong> clarito con sutiles tablillas en la falda y <strong>aplique floral con imperdible</strong> decorando la cintura. Volantes en los hombros. Cierre trasero con botones hasta media espalda y amplia lazada superpuesta. Con <strong>forro interior</strong> acabado en volantes, para mayor movimiento y vuelo. Una prenda delicada y estilosa, perfecta para cualquier evento! Echa un ojito a nuestras <strong>chaquetas y calcetines de perlé y calzado</strong> y podrás completarlo hasta el mínimo detalle! <strong>DISPONIBLE EN TALLAS GRANDES PARA NIÑA A JUEGO.</strong></p>\n<p>Composición y cuidados:</p>\n<p>Vestido: 50% algodón, 50% poliéster</p>\n<p>Forro: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>NO LAVAR EN SECO</p>\n<p>PLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 44.99,
+  "oldPrice": 49.990001,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69294",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "10014XH15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.990001,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:53.766Z"
+    },
+    {
+      "id": "147485",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "10014XA15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.9851,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:56.857Z"
+    },
+    {
+      "id": "147486",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "10014XB15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.9851,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:59.043Z"
+    },
+    {
+      "id": "147487",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "10014XC15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.9851,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:01.813Z"
+    },
+    {
+      "id": "147488",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "10014XD15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.9851,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:03.148Z"
+    },
+    {
+      "id": "147489",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "10014XE15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.9851,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:04.523Z"
+    },
+    {
+      "id": "147490",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "10014XF15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.9851,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:05.916Z"
+    },
+    {
+      "id": "147491",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "10014XG15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.9851,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:08.568Z"
+    },
+    {
+      "id": "147492",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "10014XI15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.9851,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:10.831Z"
+    },
+    {
+      "id": "147493",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "10014XJ15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.9851,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:12.609Z"
+    },
+    {
+      "id": "147494",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "10014XK15653",
+      "productSku": "2202114",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": 49.9851,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:14.354Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9475-12369.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12369-large_default/vestido-bebe-rosa-ceremonia-rosa.jpg",
+      "alt": "Vestido bebe rosa ceremonia Rosa",
+      "sourceId": "12369",
+      "variantIds": [],
+      "sha256": "7157ab7635b483ad87af41182eea862c8dab43903449a344afbf1e3fc0220b99"
+    },
+    {
+      "path": "assets/9475-12370.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12370-large_default/vestido-bebe-rosa-ceremonia-rosa.jpg",
+      "alt": "Vestido bebe rosa ceremonia Rosa",
+      "sourceId": "12370",
+      "variantIds": [],
+      "sha256": "99e52bae0adcb3e90e9c7dd206a87569bb4bf25d0500fbc8e4403e49574e2d66"
+    },
+    {
+      "path": "assets/9475-12371.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12371-large_default/vestido-bebe-rosa-ceremonia-rosa.jpg",
+      "alt": "Vestido bebe rosa ceremonia Rosa",
+      "sourceId": "12371",
+      "variantIds": [],
+      "sha256": "737c8d6191fb27a4381712f6cccca78b630cc780d1ec59d31b2261f1d9d3f8c8"
+    },
+    {
+      "path": "assets/9475-12368.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12368-large_default/vestido-bebe-rosa-ceremonia-rosa.jpg",
+      "alt": "Vestido bebe rosa ceremonia Rosa",
+      "sourceId": "12368",
+      "variantIds": [],
+      "sha256": "613c16b8bcf4fcc89d31f51cf6548c6cca68ee5e7ef0a25d41db11b005746bd6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:14.680Z",
+  "issues": []
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "7486",
+  "sourceUrl": "https://babyhogarinfantil.com/dou-dou-y-peluches/7486-dou-dou-topitos-azul-celeste.html",
+  "name": "Dou Dou Topitos Azul celeste",
+  "brand": "Gamberritos",
+  "sku": "1810105",
+  "description": "Dou-Dou azul celeste con cabeza de osito de la marca Gamberritos. Tacto muy suave.",
+  "details": "Composición:\n\n100% poliester.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>100% poliester.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "767",
+    "788",
+    "865"
+  ],
+  "sourceDefaultCategoryId": "767",
+  "sourceCategoryName": "Dou Dou y Peluches",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:25",
+  "sourceUpdatedAt": "2026-10-27 11:10:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94171",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "5832XA9995",
+      "productSku": "1810105",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:16.025Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7486-5397.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5397-large_default/dou-dou-topitos-azul-celeste.jpg",
+      "alt": "Dou Dou Topitos Azul celeste",
+      "sourceId": "5397",
+      "variantIds": [],
+      "sha256": "66156565acd107fb35418769727b7c9b6c45efeb478811f94e4d2c949ee773db"
+    },
+    {
+      "path": "assets/7486-15501.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15501-large_default/dou-dou-topitos-azul-celeste.jpg",
+      "alt": "Dou Dou Topitos Azul celeste",
+      "sourceId": "15501",
+      "variantIds": [],
+      "sha256": "93d909b1d050706c24110d77da75a348eac7fb628918e1e32f41235ced47fc84"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:16.152Z",
+  "issues": []
+}

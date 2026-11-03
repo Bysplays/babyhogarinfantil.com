@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "9659",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nino-verano/9659-pijama-nino-verano-corto-rock-star-rojo.html",
+  "name": "Pijama niño verano corto ROCK STAR Rojo",
+  "brand": "Talaman",
+  "sku": "2204036",
+  "description": "Pijama corto 100% algodón. Pantalón con goma en la cintura.",
+  "details": "Composición:\n\nPijama corto: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pijama corto: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "775"
+  ],
+  "sourceDefaultCategoryId": "775",
+  "sourceCategoryName": "Pijamas Niño Verano",
+  "price": 7.5,
+  "oldPrice": 14.9919,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "75051",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2204036",
+      "productSku": "2204036",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:36.941Z"
+    },
+    {
+      "id": "93514",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2204036",
+      "productSku": "2204036",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:38.620Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9659-7868.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7868-large_default/pijama-nino-verano-corto-rock-star-rojo.jpg",
+      "alt": "Pijama niño verano corto ROCK STAR Rojo",
+      "sourceId": "7868",
+      "variantIds": [],
+      "sha256": "2ae8144fdecf012b07886bb24e36e90445b2b036438716dda1e76aa9ae1d00ea"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:38.693Z",
+  "issues": []
+}

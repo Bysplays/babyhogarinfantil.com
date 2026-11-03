@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10223",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nina/10223-pijama-nina-tundosado-super-girl-rosa.html",
+  "name": "Pijama niña tundosado super girl Rosa",
+  "brand": "Talaman",
+  "sku": "2208362",
+  "description": "Deslumbra en la cama con el Pijama niña tundosado super girl Rosa. Este cálido y acogedor pijama transformará las noches de sueño en momentos mágicos llenos de confort. Con su vibrante color rosa y fantásticos detalles, es una verdadera musa de los sueños, una prenda esencial de invierno para cada pequeña superchica. Excelente artesanía que garantiza su durabilidad por encima de la media. Noches de dulces sueños garantizadas. ¡Transmite amor y calidez, haz feliz a tu pequeña heroína con este pijama!",
+  "details": "La Comodidad Inigualable\n\nEste pijama de niña tundosado super girl rosa ofrece un nivel de comodidad incomparable. Fabricado con algodón de alta calidad, se garantiza la suavidad y la durabilidad de la prenda. Con su corte generoso, permite un amplio movimiento durante el sueño. Se ha diseñado pensando en el descanso de las pequeñas superhéroes, definitivamente un básico fundamental en el guardarropa de cualquier niña.\n\n\nRosa: El Color de la Valentía\n\nEsta magnífica prenda viene en un vibrante tono rosa, radiante e inspirador como las superhéroes que aman. El color rosa no solo simboliza delicadeza y feminidad, sino también valentía y fortaleza, lo que les recordará a las pequeñas que ellas también pueden ser valientes y fuertes. Sin duda, permitirá a las pequeñas soñar grandes sueños cada noche.\n\n\nUn Regalo Especial\n\nSi buscas el regalo ideal, ¡no busques más! Este pijama de niña tundosado super girl rosa es perfecto para cumpleaños, fiestas de pijamas, o simplemente para demostrar cuánto las quieres. Se garantiza una sonrisa en el rostro de cualquier niña con este adorable pijama que seguramente se convertirá en su favorito.\n\n\n¡Cómpralo ya para el próximo gran sueño de tu pequeña superheroína!",
+  "sourceDescriptionHtml": "<h2>La Comodidad Inigualable</h2>\n<p>Este pijama de niña tundosado super girl rosa ofrece un nivel de comodidad incomparable. Fabricado con algodón de alta calidad, se garantiza la suavidad y la durabilidad de la prenda. Con su corte generoso, permite un amplio movimiento durante el sueño. Se ha diseñado pensando en el descanso de las pequeñas superhéroes, definitivamente un básico fundamental en el guardarropa de cualquier niña.</p>\n\n<h2>Rosa: El Color de la Valentía</h2>\n<p>Esta magnífica prenda viene en un vibrante tono rosa, radiante e inspirador como las superhéroes que aman. El color rosa no solo simboliza delicadeza y feminidad, sino también valentía y fortaleza, lo que les recordará a las pequeñas que ellas también pueden ser valientes y fuertes. Sin duda, permitirá a las pequeñas soñar grandes sueños cada noche.</p>\n\n<h2>Un Regalo Especial</h2>\n<p>Si buscas el regalo ideal, ¡no busques más! Este pijama de niña tundosado super girl rosa es perfecto para cumpleaños, fiestas de pijamas, o simplemente para demostrar cuánto las quieres. Se garantiza una sonrisa en el rostro de cualquier niña con este adorable pijama que seguramente se convertirá en su favorito.</p>\n\n<a href=\"addtocart.html\">¡Cómpralo ya para el próximo gran sueño de tu pequeña superheroína!</a>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776"
+  ],
+  "sourceDefaultCategoryId": "776",
+  "sourceCategoryName": "Pijamas niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:59",
+  "sourceUpdatedAt": "2026-10-27 11:12:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71218",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2208362",
+      "productSku": "2208362",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:14.961Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10223-8196.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8196-large_default/pijama-nina-tundosado-super-girl-rosa.jpg",
+      "alt": "Pijama niña tundosado super girl Rosa",
+      "sourceId": "8196",
+      "variantIds": [],
+      "sha256": "e14fd76e0e59f82dd31ee998304771e24cdad740700b715a3963645802d80156"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:15.004Z",
+  "issues": []
+}

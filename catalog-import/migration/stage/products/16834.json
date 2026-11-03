@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "16834",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-punto-bebe-nina/16834-conjunto-polaina-bebe-nina-chester-gris.html",
+  "name": "Conjunto polaina bebe niña CHESTER Gris",
+  "brand": "Calamaro",
+  "sku": "2307044",
+  "description": "Descubre el encantador \"Conjunto Polaina Bebé Niña CHESTER Gris\" para esa pequeña princesa. Este conjunto de punto extra suave se ha diseñado con un amor excepcional, pensando en la comodidad del bebé, una auténtica belleza entre la ropa de bebé de 0 a 3 meses. La tentadora combinación de detalles cariñosos y artesanía de alta calidad resalta el encanto elegante de tu pequeña, proporcionándole un estilo sorprendente en toda ocasión. Un toque de amor perfecto para tu princesita.",
+  "details": "Descubre la Comodidad\n\nEl Conjunto polaina bebe niña CHESTER Gris combina divinamente la comodidad y el estilo. Hecho con los materiales más suaves, las pequeñas podrán moverse libremente durante todo el día sin sentirse limitadas. Este conjunto es perfecto para el juego en interiores, paseos en el parque, o incluso para una siesta confortable.\n\nUn Toque de Elegancia\n\nEste conjunto resalta por su color gris versátil y elegante. La polaina y la parte superior están adornadas con detalles delicados que le dan un toque de feminidad a la apariencia general. Perfecto para cualquier ocasión, es una elección exquisita para aquellos días en los que tu pequeña necesita un poco más de sofisticación en su vestimenta.\n\nCalidad Superior\n\nNo se hizo ninguna concesión en cuanto a la calidad del Conjunto polaina bebe niña CHESTER Gris. Las costuras bien trabajadas y la durabilidad del tejido garantizan que este conjunto sobrevivirá al desgaste diario sin ningún problema. Dale a tu pequeña la calidad que se merece con este conjunto excepcional.\n\nComposición y cuidados:\n\nConjunto: 100% algodón.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA\n\n\n¡No esperes más! Añade el Conjunto polaina bebe niña CHESTER Gris a tu cesta hoy mismo y dale a tu pequeña la comodidad y el estilo que se merece.",
+  "sourceDescriptionHtml": "<h2>Descubre la Comodidad</h2>\n<p>El Conjunto polaina bebe niña CHESTER Gris combina divinamente la comodidad y el estilo. Hecho con los materiales más suaves, las pequeñas podrán moverse libremente durante todo el día sin sentirse limitadas. Este conjunto es perfecto para el juego en interiores, paseos en el parque, o incluso para una siesta confortable.</p>\n<h2>Un Toque de Elegancia</h2>\n<p>Este conjunto resalta por su color gris versátil y elegante. La polaina y la parte superior están adornadas con detalles delicados que le dan un toque de feminidad a la apariencia general. Perfecto para cualquier ocasión, es una elección exquisita para aquellos días en los que tu pequeña necesita un poco más de sofisticación en su vestimenta.</p>\n<h2>Calidad Superior</h2>\n<p>No se hizo ninguna concesión en cuanto a la calidad del Conjunto polaina bebe niña CHESTER Gris. Las costuras bien trabajadas y la durabilidad del tejido garantizan que este conjunto sobrevivirá al desgaste diario sin ningún problema. Dale a tu pequeña la calidad que se merece con este conjunto excepcional.</p>\n<p>Composición y cuidados:</p>\n<p>Conjunto: 100% algodón.</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>\n<p>NO USAR SECADORA</p>\n<p><br /><a href=\"#\">¡No esperes más! Añade el Conjunto polaina bebe niña CHESTER Gris a tu cesta hoy mismo y dale a tu pequeña la comodidad y el estilo que se merece.</a></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "792",
+    "818",
+    "737"
+  ],
+  "sourceDefaultCategoryId": "737",
+  "sourceCategoryName": "Conjuntos punto bebé niña",
+  "price": 24.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-09-21 15:52:59",
+  "sourceUpdatedAt": "2026-10-27 11:12:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "79536",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2307044",
+      "productSku": "2307044",
+      "taxRate": 21,
+      "price": 24.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:00.187Z"
+    },
+    {
+      "id": "79537",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2307044",
+      "productSku": "2307044",
+      "taxRate": 21,
+      "price": 24.49,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:01.685Z"
+    },
+    {
+      "id": "79538",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2307044",
+      "productSku": "2307044",
+      "taxRate": 21,
+      "price": 24.49,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:03.868Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16834-14417.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14417-large_default/conjunto-polaina-bebe-nina-chester-gris.jpg",
+      "alt": "Conjunto polaina bebe niña CHESTER Gris",
+      "sourceId": "14417",
+      "variantIds": [],
+      "sha256": "a3593177c8eee0ec9d3aa4df98426326dcb50679ae8a66e83e7a61b0142e0a66"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:03.948Z",
+  "issues": []
+}

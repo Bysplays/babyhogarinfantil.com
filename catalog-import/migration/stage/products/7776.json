@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "7776",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/7776-abrigo-cuadros-pelo-rosa.html",
+  "name": "Abrigo cuadros pelo Rosa",
+  "brand": "Pecesa",
+  "sku": "1907068",
+  "description": "Envolvente ternura en nuestro Abrigo de Cuadros con Piel Rosa, perfecto para los días más gélidos. Destáquese entre la multitud, con este elegante abrigo. Sus patrones de cuadros clásicos dan un toque de sofisticación, y el suave interior de piel ofrece un calor acogedor. La ropa para bebés nunca ha sido tan atractiva. Un regalo ideal para su pequeña princesa. Si busca calidad, estilo y comodidad, no busque más.",
+  "details": "Elegante y Acogedor\n\nAdéntrate en la calidez y el estilo con nuestro Abrigo de Cuadros con Piel en Rosa. Elaborado con telas de calidad superior, ofrece una combinación irrenunciable de confort y durabilidad. Ideal para las estaciones más frías, mantiene a los pequeños calentitos mientras lucen un estilo elegante y adorable.\n\nDiseño Atemporal con un Toque Moderno\n\nEl diseño a cuadros nunca pasa de moda, y este abrigo lo lleva un paso más allá con su vibrante tonalidad rosa. Los detalles de piel sintética añaden un toque de lujo, haciendo de este abrigo un imprescindible en el guardarropa de todo pequeño con estilo. Es ideal para ocasiones especiales, para relajarse en casa o para lucir a la última en el parque.\n\nPráctico y Cómodo\n\nAdemás de elegante, este abrigo ha sido diseñado pensando en la comodidad y facilidad de uso. Fácil de poner y quitar, gracias a su cierre de botones, asegura una fácil vestimenta incluso en días de prisa. Su tejido suave garantiza una sensación confortable durante todo el día, convirtiéndolo en una opción preferida tanto para los peques como sus padres.\n\nNo pierdas la oportunidad de aportar un toque de estilo y comodidad a los días más fríos con nuestro Abrigo de Cuadros con Piel en Rosa. Compra ahora y eleva el estilo de tu pequeño al siguiente nivel.\n\nComposición y cuidados:\n\nAbrigo: 75% acrílico, 25% poliamida.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<h2>Elegante y Acogedor</h2>\n<p>Adéntrate en la calidez y el estilo con nuestro Abrigo de Cuadros con Piel en Rosa. Elaborado con telas de calidad superior, ofrece una combinación irrenunciable de confort y durabilidad. Ideal para las estaciones más frías, mantiene a los pequeños calentitos mientras lucen un estilo elegante y adorable.</p>\n<h2>Diseño Atemporal con un Toque Moderno</h2>\n<p>El diseño a cuadros nunca pasa de moda, y este abrigo lo lleva un paso más allá con su vibrante tonalidad rosa. Los detalles de piel sintética añaden un toque de lujo, haciendo de este abrigo un imprescindible en el guardarropa de todo pequeño con estilo. Es ideal para ocasiones especiales, para relajarse en casa o para lucir a la última en el parque.</p>\n<h2>Práctico y Cómodo</h2>\n<p>Además de elegante, este abrigo ha sido diseñado pensando en la comodidad y facilidad de uso. Fácil de poner y quitar, gracias a su cierre de botones, asegura una fácil vestimenta incluso en días de prisa. Su tejido suave garantiza una sensación confortable durante todo el día, convirtiéndolo en una opción preferida tanto para los peques como sus padres.</p>\n<p>No pierdas la oportunidad de aportar un toque de estilo y comodidad a los días más fríos con nuestro Abrigo de Cuadros con Piel en Rosa. Compra ahora y eleva el estilo de tu pequeño al siguiente nivel.</p>\n<p>Composición y cuidados:</p>\n<p>Abrigo: 75% acrílico, 25% poliamida.</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 31.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66372",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1907068",
+      "productSku": "1907068",
+      "taxRate": 21,
+      "price": 31.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:00.394Z"
+    },
+    {
+      "id": "66373",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1907068",
+      "productSku": "1907068",
+      "taxRate": 21,
+      "price": 31.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:01.777Z"
+    },
+    {
+      "id": "66374",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1907068",
+      "productSku": "1907068",
+      "taxRate": 21,
+      "price": 31.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:03.310Z"
+    },
+    {
+      "id": "66376",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1907068",
+      "productSku": "1907068",
+      "taxRate": 21,
+      "price": 31.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:04.838Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7776-5840.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5840-large_default/abrigo-cuadros-pelo-rosa.jpg",
+      "alt": "Abrigo cuadros pelo Rosa",
+      "sourceId": "5840",
+      "variantIds": [],
+      "sha256": "bea6eb923516d8a1eb3ab5ce698c10dc33938d0437c70bc927e32836701eafe6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:04.933Z",
+  "issues": []
+}

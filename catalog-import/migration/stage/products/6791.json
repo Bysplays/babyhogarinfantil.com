@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "6791",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/6791-pantalon-corto-deporte-rojo.html",
+  "name": "Pantalón corto Deporte Rojo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1703186",
+  "description": "Pantalón corto para deporte.",
+  "details": "Composición:\n\n100% Poliester.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>100% Poliester.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-27 11:09:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 14,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64347",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1703186",
+      "productSku": "1703186",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:52.997Z"
+    },
+    {
+      "id": "64348",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1703186",
+      "productSku": "1703186",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:55.320Z"
+    },
+    {
+      "id": "64349",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1703186",
+      "productSku": "1703186",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:58.290Z"
+    },
+    {
+      "id": "64350",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "1703186",
+      "productSku": "1703186",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:01.665Z"
+    },
+    {
+      "id": "64351",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1703186",
+      "productSku": "1703186",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:04.376Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6791-4714.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4714-large_default/pantalon-corto-deporte-rojo.jpg",
+      "alt": "Pantalón corto Deporte Rojo",
+      "sourceId": "4714",
+      "variantIds": [],
+      "sha256": "f3ef4893dd420e3c94fe0519257468aa2b13daff82c3f274428fcb83a5ec2b64"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:04.449Z",
+  "issues": []
+}

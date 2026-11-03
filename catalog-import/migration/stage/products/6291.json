@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "6291",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-pom-pom/6291-calcetin-alto-con-borlas-azul-francia.html",
+  "name": "Calcetín alto con borlas Azul Francia",
+  "brand": "Condor",
+  "sku": "1020",
+  "description": "Calcetín alto con borlas en ALGODON CALIDO.",
+  "details": "Composisic&oacute;n:\nCalcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.",
+  "sourceDescriptionHtml": "<p>Composisic&oacute;n:<br />Calcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Francia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "686",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "686",
+  "sourceCategoryName": "Calcetines con pom-pom",
+  "price": 9.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63212",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:22.577Z"
+    },
+    {
+      "id": "63213",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:25.494Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6291-4271.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4271-large_default/calcetin-alto-con-borlas-azul-francia.jpg",
+      "alt": "Calcetín alto con borlas Azul Francia",
+      "sourceId": "4271",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6291-9508.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9508-large_default/calcetin-alto-con-borlas-azul-francia.jpg",
+      "alt": "Calcetín alto con borlas Azul Francia",
+      "sourceId": "9508",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6291-4270.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4270-large_default/calcetin-alto-con-borlas-azul-francia.jpg",
+      "alt": "Calcetín alto con borlas Azul Francia",
+      "sourceId": "4270",
+      "variantIds": [],
+      "sha256": "c52308217f88a5e3ed401bed0af7316d6158fc9e8e24ce44362b9cb2331a7547"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:25.676Z",
+  "issues": []
+}

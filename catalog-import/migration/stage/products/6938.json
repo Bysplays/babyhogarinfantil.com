@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6938",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/6938-pantalon-bebe-monstruo-azul-marino.html",
+  "name": "Pantalón bebé \"MONSTRUO\" Azul marino",
+  "brand": "Chicco",
+  "sku": "1708021",
+  "description": "Simpático pantalón largo para bebé en color azul marino, con detalle de monstruo serigrafiado y bordado en el culete. Cintura todo goma sin botones y bolsillos. Interior perchado, así es mas calentito.",
+  "details": "Composición:\n\n100% Algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR DEL REVES A 30º.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>100% Algodón.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR DEL REVES A 30º.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85988",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1708021",
+      "productSku": "1708021",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:31.291Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6938-4858.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4858-large_default/pantalon-bebe-monstruo-azul-marino.jpg",
+      "alt": "Pantalón bebé \"MONSTRUO\" Azul marino",
+      "sourceId": "4858",
+      "variantIds": [],
+      "sha256": "8e4861a3d13d0a254cab2c3ee6b3d7347ee9f66c528b0d23be89ae880fbb0059"
+    },
+    {
+      "path": "assets/6938-4857.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4857-large_default/pantalon-bebe-monstruo-azul-marino.jpg",
+      "alt": "Pantalón bebé \"MONSTRUO\" Azul marino",
+      "sourceId": "4857",
+      "variantIds": [],
+      "sha256": "9e24d43f675a14d05bb42977ba488b41de61cc7ae1c324b24112b6ec81069a9b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:31.401Z",
+  "issues": []
+}

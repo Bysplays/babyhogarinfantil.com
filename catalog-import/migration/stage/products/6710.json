@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "id": "6710",
+  "sourceUrl": "https://babyhogarinfantil.com/polainas-bebe-nina/6710-polaina-punto-reves-azul-celeste.html",
+  "name": "Polaina punto reves Azul Celeste",
+  "brand": "Mac Ilusión",
+  "sku": "1610038",
+  "description": "Polaina color AZUL CELESTE de punto bobo o punto del revés. Para combinar con los jubones que tengas, o poner debajo de un vestido. Temporada Invierno. Goma muy suave de hilo en la cintura.",
+  "details": "Estas polainas están FABRICADAS EN ESPAÑA en fibra acrílica DRALON la cual confiere al tejido un tacto suave voluminoso y lanoso, al mismo tiempo que muy lijero. Otra de sus características importantes es su inmunidad a microorganismos, su alta resistencia a la luz solar y que no tiene encojimiento.\n\nComposición y cuidados:\n\n100% Acrílico DRALON.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR SIEMPRE DEL REVES A 40º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Estas polainas están <strong>FABRICADAS EN</strong><strong style=\"margin:0px;padding:0px;\"> ESPAÑA</strong> en fibra acrílica DRALON la cual confiere al tejido un tacto suave voluminoso y lanoso, al mismo tiempo que muy lijero. Otra de sus características importantes es su inmunidad a microorganismos, su alta resistencia a la luz solar y que no tiene encojimiento.</p>\n<p>Composición y cuidados:</p>\n<p>100% Acrílico DRALON.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR SIEMPRE DEL REVES A 40º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "672"
+  ],
+  "sourceDefaultCategoryId": "672",
+  "sourceCategoryName": "Polainas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-27 11:09:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 11,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64175",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "3042XA5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:00.154Z"
+    },
+    {
+      "id": "64176",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "3042XB5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:02.638Z"
+    },
+    {
+      "id": "64177",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "3042XC5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:05.227Z"
+    },
+    {
+      "id": "64178",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "3042XD5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:07.300Z"
+    },
+    {
+      "id": "78753",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "3042XE5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:09.874Z"
+    },
+    {
+      "id": "145167",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "3042XF5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:12.290Z"
+    },
+    {
+      "id": "145168",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "3042XG5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:14.638Z"
+    },
+    {
+      "id": "145169",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "3042XH5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:18.715Z"
+    },
+    {
+      "id": "145170",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "3042XI5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:21.514Z"
+    },
+    {
+      "id": "145171",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "3042XJ5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:24.222Z"
+    },
+    {
+      "id": "145172",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "3042XK5500",
+      "productSku": "1610038",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:27.082Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6710-4649.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4649-large_default/polaina-punto-reves-azul-celeste.jpg",
+      "alt": "Polaina punto reves Azul Celeste",
+      "sourceId": "4649",
+      "variantIds": [],
+      "sha256": "57aec4c8cfca3c4d9dceb8688c989f0652f9fb2cb9ef915d73185ec5353b28f0"
+    },
+    {
+      "path": "assets/6710-4648.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4648-large_default/polaina-punto-reves-azul-celeste.jpg",
+      "alt": "Polaina punto reves Azul Celeste",
+      "sourceId": "4648",
+      "variantIds": [],
+      "sha256": "ebed77e5a67b3d13bd14aed9d892fcce3b734710b8d545674e0921c98b17ca3f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:27.218Z",
+  "issues": []
+}

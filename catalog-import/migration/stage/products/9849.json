@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "9849",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/9849-camiseta-manga-larga-bebe-unicornios-varios.html",
+  "name": "Camiseta manga larga bebe unicornios Varios",
+  "brand": "Chicco",
+  "sku": "2207079",
+  "description": "Camiseta de manga larga con estampado de unicornios, realizada en punto elástico de algodón sostenible y cuello con botones traseros para facilitar la puesta. DISPONIBLE EN TALLAS DE INFANTIL.",
+  "details": "Camiseta de manga larga de CHICCO, firma italiana con más de 60 años de experiencia y puntos de venta en todo el mundo. Con divertido estampado de unicornios, realizada en punto elástico de algodón sostenible. Con corchetes en el cuello por la espalda para facilitar la puesta. Una prenda cómoda, práctica y alegre, ideal para combinar con pantalones sport y chándals! Echa un ojito a nuestras sudaderas, pantalones y calzado y podrás combinarla como más te guste! DISPONIBLE EN TALLAS DE INFANTIL. \n\nComposición y cuidados:\n\nCamiseta: 95% algodón, 5% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Camiseta de manga larga de <strong>CHICCO</strong>, firma italiana con más de 60 años de experiencia y puntos de venta en todo el mundo. Con divertido estampado de <strong>unicornios</strong>, realizada en punto elástico de algodón sostenible. <strong>Con corchetes</strong> en el cuello por la espalda para facilitar la puesta. Una prenda cómoda, práctica y alegre, ideal para combinar con pantalones sport y chándals! Echa un ojito a nuestras<strong> sudaderas, pantalones y calzado</strong> y podrás combinarla como más te guste! <strong>DISPONIBLE EN TALLAS DE INFANTIL. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 95% algodón, 5% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70206",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "10448XE16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:15.959Z"
+    },
+    {
+      "id": "147820",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "10448XA16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:17.461Z"
+    },
+    {
+      "id": "147821",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "10448XB16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:19.298Z"
+    },
+    {
+      "id": "147822",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "10448XC16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:21.191Z"
+    },
+    {
+      "id": "147823",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "10448XD16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:22.635Z"
+    },
+    {
+      "id": "147824",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "10448XF16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:24.647Z"
+    },
+    {
+      "id": "147825",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "10448XG16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:26.822Z"
+    },
+    {
+      "id": "147826",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "10448XH16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:29.839Z"
+    },
+    {
+      "id": "147827",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "10448XI16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:32.794Z"
+    },
+    {
+      "id": "147828",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "10448XJ16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:34.910Z"
+    },
+    {
+      "id": "147829",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "10448XK16264",
+      "productSku": "2207079",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:37.463Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9849-7987.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7987-large_default/camiseta-manga-larga-bebe-unicornios-varios.jpg",
+      "alt": "Camiseta manga larga bebe unicornios Varios",
+      "sourceId": "7987",
+      "variantIds": [],
+      "sha256": "140888ded26143d749d38bb077d132ed05af79040540cfff518a3053887c8771"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:37.539Z",
+  "issues": []
+}

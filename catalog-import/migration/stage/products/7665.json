@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7665",
+  "sourceUrl": "https://babyhogarinfantil.com/camisas-bebe-nino/7665-camisa-bebe-cuello-mao-blanco.html",
+  "name": "Camisa bebé cuello mao Blanco",
+  "brand": "DR.Kid",
+  "sku": "1902248",
+  "description": "Camisa de vestir para bebé. Cuello mao y trabillas en las mangas para poder remangar. HECHA EN PORTUGAL",
+  "details": "De una de nuestras marcas favoritas, DR. KID, camisa de vestir de manga larga, en color blanco, con cuello mao. Con trabillias en las mangas para poder remangarlas. Una camisa básica, pero con el toque del cuello mao para marcar la diferencia y dar un toque estiloso a cualquier look. En 100% algodón, ideal para el verano, fresquita y cómoda. Combínala con nuestros vaqueros, bermudas, chaquetas y jerséis. \n\n \n\nComposición:\n\nCamisa: 100% algodón\n\nLAVAR A MÁQUINA (TEMPERATURA MÁXIMA 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA \n\nSE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nSECAR EN HORIZONTAL Y A LA SOMBRA\n\n \n\nHECHA EN PORTUGAL",
+  "sourceDescriptionHtml": "<p><span style=\"color:#777777;font-family:robotoregular;font-size:14px;\">De una de nuestras marcas favoritas,</span><span style=\"color:#777777;font-family:robotoregular;font-size:14px;\"> </span><strong style=\"color:#777777;font-family:robotoregular;font-size:14px;margin:0px;padding:0px;\">DR. KID</strong><span style=\"color:#777777;font-family:robotoregular;font-size:14px;\">, camisa de vestir de manga larga, en color blanco, con cuello mao. Con trabillias en las mangas para poder remangarlas. Una camisa básica, pero con el toque del cuello mao para marcar la diferencia y dar un toque estiloso a cualquier look. En 100% algodón, ideal para el verano, fresquita y cómoda. Combínala con nuestros vaqueros, bermudas, chaquetas y jerséis. </span></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"> </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Camisa: 100% algodón</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (TEMPERATURA MÁXIMA 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS NI BLANQUEANTES</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO SECAR EN SECADORA </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">SE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">SECAR EN HORIZONTAL Y A LA SOMBRA</p>\n<p><strong> </strong></p>\n<p><strong>HECHA EN PORTUGAL</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "677",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "677",
+  "sourceCategoryName": "Camisas Bebé niño",
+  "price": 12.48,
+  "oldPrice": 24.9502,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66114",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1902248",
+      "productSku": "1902248",
+      "taxRate": 21,
+      "price": 12.48,
+      "oldPrice": 24.9502,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:22.249Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7665-5667.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5667-large_default/camisa-bebe-cuello-mao-blanco.jpg",
+      "alt": "Camisa bebé cuello mao Blanco",
+      "sourceId": "5667",
+      "variantIds": [],
+      "sha256": "023c168cf3396e7a77178f7f3db8b9f5e27934937b2a8ebbfc3f2593967d9a92"
+    },
+    {
+      "path": "assets/7665-5666.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5666-large_default/camisa-bebe-cuello-mao-blanco.jpg",
+      "alt": "Camisa bebé cuello mao Blanco",
+      "sourceId": "5666",
+      "variantIds": [],
+      "sha256": "b2db9f082b6528584da87e4dfe3ef665b23b56ecaf0f23e8c67076af282753b5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:22.367Z",
+  "issues": []
+}

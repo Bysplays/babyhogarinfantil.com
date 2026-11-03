@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "18960",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-altos/18960-calcetin-alto-canale-guinda.html",
+  "name": "Calcetin alto canalé Guinda",
+  "brand": "Condor",
+  "sku": "2006040",
+  "description": "Calcetín alto básico punto liso. Disponible en mas colores.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\n75% algodón.\n\n22% poliamida.\n\n3% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>75% algodón.</p>\n<p>22% poliamida.</p>\n<p>3% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Guinda",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "688",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "688",
+  "sourceCategoryName": "Calcetines altos",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-20 15:52:54",
+  "sourceUpdatedAt": "2026-10-26 19:38:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88038",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2006040",
+      "productSku": "2006040",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:41.042Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18960-17414.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17414-large_default/calcetin-alto-canale-guinda.jpg",
+      "alt": "Calcetin alto canalé Guinda",
+      "sourceId": "17414",
+      "variantIds": [],
+      "sha256": "0fdcc51eea1e2e583db4426e4963204674ab978e4e5de5a74388f7bed9a43ce1"
+    },
+    {
+      "path": "assets/18960-17415.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17415-large_default/calcetin-alto-canale-guinda.jpg",
+      "alt": "calcetin basico liso alto",
+      "sourceId": "17415",
+      "variantIds": [],
+      "sha256": "8400c7b6ad34559a8ea643ff3d3d003e0c42ca1b1699e886bf7d21d2ecf83fd1"
+    },
+    {
+      "path": "assets/18960-17416.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17416-large_default/calcetin-alto-canale-guinda.jpg",
+      "alt": "Calcetin alto canalé Guinda",
+      "sourceId": "17416",
+      "variantIds": [],
+      "sha256": "62968d446836fb10b98cfe961e260650a5da447b6783926692532d02c6c1ede6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:11:41.204Z",
+  "issues": []
+}

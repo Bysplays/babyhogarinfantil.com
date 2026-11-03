@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "10368",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/10368-chaqueta-larga-bebe-sin-costuras-blanco.html",
+  "name": "Chaqueta larga bebe sin costuras Blanco",
+  "brand": "Mac Ilusión",
+  "sku": "2301123",
+  "description": "Transforma el estilo de tu pequeño con nuestra Chaqueta Larga Bebé sin Costuras en Blanco. Diseñada para máxima comodidad, esta chaqueta presenta un elegante color blanco y una construcción sin costuras para un uso suave y cómodo. Su bebé se verá radiante en todas las reuniones familiares y los paseos por el parque. El estilo versátil se combina fácilmente con cualquier atuendo, desde jeans hasta monos, mientras que su ligereza es perfecta para los cálidos días de verano. Así que, ¿a que esperas? Viste a tu pequeñín a la moda y demuestra cuán especial es con esta chaqueta única. HECHA EN ESPAÑA",
+  "details": "Encanto Puramente Blanco\n\nTemple la elegancia atemporal del color más puro con la Chaqueta Larga Bebé sin Costuras en Blanco. Esta maravillosa prenda es la elección perfecta para aquellos que buscan abrazar la sofisticación sin complicaciones. Con su suave material sin costuras, la comodidad de su pequeño está garantizada.\n\nLa Delicadeza en Cada Detalle\n\nLa Chaqueta Larga Bebé sin Costuras en Blanco es elegante y funcional, fabricada con especial atención en cada detalle. Con su material de alta calidad, la suavidad y la calidez son incomparables, brindando un cobijo cálido y snug en los días más fríos. Ideado para ser tan práctico como chic, este pequeño imprescindible se convertirá en una pieza central del guardarropa de su bebé.\n\nComodidad Todoterreno\n\nPara aventuras al aire libre o agradablemente jugando en el interior, la Chaqueta Larga Bebé sin Costuras Blanco es la elección confortable y elegante. Su diseño sin costuras garantiza una irritación mínima, permitiendo la diversión y el juego sin parar. Exudando una sofisticación silenciosa, mientras proporciona la máxima comodidad, esta prenda es perfecta para cualquier situación.\n\nNo lo piense dos veces, agregue la Chaqueta Larga Bebé sin Costuras Blanco a su carrito y haga que su pequeño se sienta amado y abrazado cada vez que lo vista. ¡Compre ahora!",
+  "sourceDescriptionHtml": "<h2>Encanto Puramente Blanco</h2>\n<p>Temple la elegancia atemporal del color más puro con la Chaqueta Larga Bebé sin Costuras en Blanco. Esta maravillosa prenda es la elección perfecta para aquellos que buscan abrazar la sofisticación sin complicaciones. Con su suave material sin costuras, la comodidad de su pequeño está garantizada.</p>\n<h2>La Delicadeza en Cada Detalle</h2>\n<p>La Chaqueta Larga Bebé sin Costuras en Blanco es elegante y funcional, fabricada con especial atención en cada detalle. Con su material de alta calidad, la suavidad y la calidez son incomparables, brindando un cobijo cálido y snug en los días más fríos. Ideado para ser tan práctico como chic, este pequeño imprescindible se convertirá en una pieza central del guardarropa de su bebé.</p>\n<h2>Comodidad Todoterreno</h2>\n<p>Para aventuras al aire libre o agradablemente jugando en el interior, la Chaqueta Larga Bebé sin Costuras Blanco es la elección confortable y elegante. Su diseño sin costuras garantiza una irritación mínima, permitiendo la diversión y el juego sin parar. Exudando una sofisticación silenciosa, mientras proporciona la máxima comodidad, esta prenda es perfecta para cualquier situación.</p>\n<p>No lo piense dos veces, agregue la Chaqueta Larga Bebé sin Costuras Blanco a su carrito y haga que su pequeño se sienta amado y abrazado cada vez que lo vista. ¡Compre ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71765",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2301123",
+      "productSku": "2301123",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:46.230Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10368-8950.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8950-large_default/chaqueta-larga-bebe-sin-costuras-blanco.jpg",
+      "alt": "Chaqueta larga bebe sin costuras Blanco",
+      "sourceId": "8950",
+      "variantIds": [],
+      "sha256": "4035eefb165a5cad9d3a7aa955f192308b0d790da80d189425778dedac2b1fe7"
+    },
+    {
+      "path": "assets/10368-15020.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15020-large_default/chaqueta-larga-bebe-sin-costuras-blanco.jpg",
+      "alt": "Chaqueta larga bebe sin costuras Blanco",
+      "sourceId": "15020",
+      "variantIds": [],
+      "sha256": "5a0668f940b663e7207f5a1ec329adc73c9459f1cef6653d3b4f09b491a1f5fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:46.373Z",
+  "issues": []
+}

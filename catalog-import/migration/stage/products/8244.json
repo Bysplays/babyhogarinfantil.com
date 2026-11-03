@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "8244",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-nina/8244-camiseta-mariposa-blanco.html",
+  "name": "Camiseta Mariposa Blanco",
+  "brand": "Zippy",
+  "sku": "2005120",
+  "description": "Presentamos la Camiseta Mariposa Blanco, prenda perfecta para la niña que añora volar con estilo y diversión. Su diseño luminoso de una mariposa muestra un toque de gracia y inocencia, ideal para cualquier ocasión. Hecha de tela suave y transpirable, proporciona un máximo confort todo el día. Cada camiseta refleja el amor por la moda infantil y la alegría de la infancia. La vivacidad de la mariposa impulsa la imaginación de su niña, invitándola a explorar todas sus fantasías. Regale a su pequeña esta prenda imprescindible para realzar su guardarropa y verla sonreír con felicidad y entusiasmo. 100% ALGODON",
+  "details": "La elegancia en simplicidad\n\nAdorna a tu pequeño con la 'Camiseta Mariposa Blanco', una auténtica joya en el mundo de la moda infantil. Destaca por su diseño contemporáneo y simple que emana una frescura inigualable. Diseñado con amor, la preciosa mariposa que adorna la camiseta atraerá miradas de admiración dondequiera que vaya tu pequeño.\n\nSuavidad que abraza\n\nEsta adorable camiseta de mariposa no solo es estéticamente agradable, sino también increíblemente cómoda. Hecha de tela suave al tacto, garantiza la máxima comodidad para tu pequeño durante todo el día. Imagina a tu pequeño sonriendo con placer mientras disfruta de la suavidad que esta prenda proporciona.\n\nCalidad que perdura\n\nComprometidos con la calidad, la 'Camiseta Mariposa Blanco' cumple los estándares más altos de durabilidad y resistencia. Su excelente calidad asegura que se mantenga en perfectas condiciones lavado tras lavado, brindando a su pequeño la comodidad duradera que se merece.\n\n¿Por qué esperar? Agrega la 'Camiseta Mariposa Blanco' a tu carrito de compras hoy y viste a tu pequeño con gracejo y elegancia. Haz que cada día sea una celebración de estilo y comodidad.",
+  "sourceDescriptionHtml": "<h2>La elegancia en simplicidad</h2>\n<p>Adorna a tu pequeño con la 'Camiseta Mariposa Blanco', una auténtica joya en el mundo de la moda infantil. Destaca por su diseño contemporáneo y simple que emana una frescura inigualable. Diseñado con amor, la preciosa mariposa que adorna la camiseta atraerá miradas de admiración dondequiera que vaya tu pequeño.</p>\n<h2>Suavidad que abraza</h2>\n<p>Esta adorable camiseta de mariposa no solo es estéticamente agradable, sino también increíblemente cómoda. Hecha de tela suave al tacto, garantiza la máxima comodidad para tu pequeño durante todo el día. Imagina a tu pequeño sonriendo con placer mientras disfruta de la suavidad que esta prenda proporciona.</p>\n<h2>Calidad que perdura</h2>\n<p>Comprometidos con la calidad, la 'Camiseta Mariposa Blanco' cumple los estándares más altos de durabilidad y resistencia. Su excelente calidad asegura que se mantenga en perfectas condiciones lavado tras lavado, brindando a su pequeño la comodidad duradera que se merece.</p>\n<p><strong>¿Por qué esperar? Agrega la 'Camiseta Mariposa Blanco' a tu carrito de compras hoy y viste a tu pequeño con gracejo y elegancia. Haz que cada día sea una celebración de estilo y comodidad.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2020",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "736",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "736",
+  "sourceCategoryName": "Camisetas niña",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:34",
+  "sourceUpdatedAt": "2026-10-27 11:10:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67266",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2005120",
+      "productSku": "2005120",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:52.638Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8244-6533.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6533-large_default/camiseta-mariposa-blanco.jpg",
+      "alt": "Camiseta Mariposa Blanco",
+      "sourceId": "6533",
+      "variantIds": [],
+      "sha256": "771fbafdb12f39175e6cb7e302d9e4c7efa0217156ab2644f4db8a9c13ff16a0"
+    },
+    {
+      "path": "assets/8244-6532.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6532-large_default/camiseta-mariposa-blanco.jpg",
+      "alt": "Camiseta Mariposa Blanco",
+      "sourceId": "6532",
+      "variantIds": [],
+      "sha256": "52c8915a5831fcc501680df58136fd33a9a6db17c742f1276997bc9c241a73f0"
+    },
+    {
+      "path": "assets/8244-10996.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10996-large_default/camiseta-mariposa-blanco.jpg",
+      "alt": "Camiseta Mariposa Blanco",
+      "sourceId": "10996",
+      "variantIds": [],
+      "sha256": "33933a04d4dd93d8c97294b4e303fcf0b569cc4065f9d97ab688c18f9fd63a98"
+    },
+    {
+      "path": "assets/8244-10997.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10997-large_default/camiseta-mariposa-blanco.jpg",
+      "alt": "Camiseta Mariposa Blanco",
+      "sourceId": "10997",
+      "variantIds": [],
+      "sha256": "08d9d50c7ce7902f527dd7b0cf991c4676760af510ca60d95976389b28db40b0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:52.848Z",
+  "issues": []
+}

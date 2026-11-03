@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "17545",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/17545-albornoz-liso-verde-pistacho.html",
+  "name": "Albornoz liso Verde Pistacho",
+  "brand": "Rizo Basic",
+  "sku": "2205069",
+  "description": "Envuelva a su pequeño en un acogedor abrazo con el Albornoz liso Verde Pistacho. Diseñado con amor, perfecto para las noches de invierno y las mañanas perezosas. Un toque de lluvia de primavera encapsulada en la maravillosa tonalidad de pistacho, simboliza la alegría y la vitalidad. El suave algodón mima la delicada piel del niño, asegurando un confort inigualable. ¡Despierte el deleite cada mañana con este moderno albornoz! Ideal para niños y niñas. Un regalo perfecto para hacer de cada día una aventura confortable.",
+  "details": "Color Vibrante y Estilo\n\nEl Albornoz liso verde pistacho es la elección perfecta para los pequeños que aman los colores brillantes. Su tono vibrante de verde pistacho destaca, permitiendo que tu hijo se sienta elegante mientras está cómodo. Además de su atractivo color, este albornoz también está diseñado con una delicada textura lisa que es suave al tacto.\n\nComodidad sin Igual\n\nEl albornoz es de alta calidad, confeccionado con materiales suaves y duraderos para garantizar largas horas de comodidad. Con un corte holgado y un tejido transpirable, este albornoz proporcionará comodidad máxima para tu hijo después del baño o durante las relajantes noches de descanso en casa.\n\nCuidado Fácil y Durabilidad\n\nEste albornoz es fácil de cuidar y resistente a la decoloración y al desgaste, garantizando que siga pareciendo nuevo después de numerosos lavados. Perfecto para la rutina diaria de los más pequeños, este robusto y bonito albornoz promete una durabilidad excepcional.\n\nNo pierdas la oportunidad de regalar este hermoso Albornoz liso verde pistacho a tu pequeño. Ofrece confort, estilo y durabilidad, además de ser un verdadero placer visual. Asegúrate de añadir este encantador albornoz al carrito de la compra hoy mismo.\n\nComposición:\n\nAlbornoz: 100% algodón.",
+  "sourceDescriptionHtml": "<h2>Color Vibrante y Estilo</h2>\n<p>El Albornoz liso verde pistacho es la elección perfecta para los pequeños que aman los colores brillantes. Su tono vibrante de verde pistacho destaca, permitiendo que tu hijo se sienta elegante mientras está cómodo. Además de su atractivo color, este albornoz también está diseñado con una delicada textura lisa que es suave al tacto.</p>\n<h2>Comodidad sin Igual</h2>\n<p>El albornoz es de alta calidad, confeccionado con materiales suaves y duraderos para garantizar largas horas de comodidad. Con un corte holgado y un tejido transpirable, este albornoz proporcionará comodidad máxima para tu hijo después del baño o durante las relajantes noches de descanso en casa.</p>\n<h2>Cuidado Fácil y Durabilidad</h2>\n<p>Este albornoz es fácil de cuidar y resistente a la decoloración y al desgaste, garantizando que siga pareciendo nuevo después de numerosos lavados. Perfecto para la rutina diaria de los más pequeños, este robusto y bonito albornoz promete una durabilidad excepcional.</p>\n<p>No pierdas la oportunidad de regalar este hermoso Albornoz liso verde pistacho a tu pequeño. Ofrece confort, estilo y durabilidad, además de ser un verdadero placer visual. Asegúrate de añadir este encantador albornoz al carrito de la compra hoy mismo.</p>\n<p>Composición:</p>\n<p>Albornoz: 100% algodón.</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde Pistacho",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-05-02 15:54:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "333",
+          "label": "2-4"
+        },
+        {
+          "id": "455",
+          "label": "6-8"
+        },
+        {
+          "id": "468",
+          "label": "4-6"
+        },
+        {
+          "id": "469",
+          "label": "10-12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "101723",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "333",
+          "group": "Tamaño",
+          "value": "2-4"
+        }
+      ],
+      "sku": "10351XA16134",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:32.175Z"
+    },
+    {
+      "id": "101724",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "455",
+          "group": "Tamaño",
+          "value": "6-8"
+        }
+      ],
+      "sku": "10351XC16134",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:33.849Z"
+    },
+    {
+      "id": "147677",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "468",
+          "group": "Tamaño",
+          "value": "4-6"
+        }
+      ],
+      "sku": "10351XB16134",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:35.351Z"
+    },
+    {
+      "id": "147678",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "469",
+          "group": "Tamaño",
+          "value": "10-12"
+        }
+      ],
+      "sku": "10351XD16134",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:36.902Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17545-17051.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17051-large_default/albornoz-liso-verde-pistacho.jpg",
+      "alt": "Albornoz liso Verde Pistacho",
+      "sourceId": "17051",
+      "variantIds": [],
+      "sha256": "20461370e18796390c1408c7c79e53e0c45c5bc542d646176e99ab0ed58f6f6c"
+    },
+    {
+      "path": "assets/17545-17052.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17052-large_default/albornoz-liso-verde-pistacho.jpg",
+      "alt": "Albornoz liso Verde Pistacho",
+      "sourceId": "17052",
+      "variantIds": [],
+      "sha256": "9ae202e980073fc289dd375ed3e328b3ea62027808db1fd0d3b5dbe82a61abd4"
+    },
+    {
+      "path": "assets/17545-17053.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17053-large_default/albornoz-liso-verde-pistacho.jpg",
+      "alt": "Albornoz liso Verde Pistacho",
+      "sourceId": "17053",
+      "variantIds": [],
+      "sha256": "5a4ae90c4ddd4c447a60a32c7c339d6e62e9cf6d4df58f697fff317e5a237de9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:37.099Z",
+  "issues": []
+}

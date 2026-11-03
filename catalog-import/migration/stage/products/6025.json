@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "6025",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6025-leotardo-invierno-calado-lateral-marron.html",
+  "name": "Leotardo INVIERNO calado lateral Marrón",
+  "brand": "Condor",
+  "sku": "387",
+  "description": "Leotardo MARRON, de algodón cálido con calado en el lateral. Tallas para bebé hasta 6 años. Disponible en varios colores.",
+  "details": "Un Toque de Elegancia\n\nAbraza el frío invierno con estilo y funcionalidad. Nuestro Leotardo INVIERNO calado lateral Marrón proporciona calidez excepcional a la vez que acentúa la belleza de los más pequeños. El diseño calado y el color marrón delicado combina un sentido clásico con una estética contemporánea, un verdadero deleite a la vista.\n\n\nCalidez sin Compromiso\n\nDesarrollado con la funcionalidad en mente, este leotardo es un escudo contra el frío del invierno. Fabricado con materiales de alta calidad que garantizan calidez y suavidad, este Leotardo INVIERNO se convertirá en una pieza esencial durante los meses más fríos. Nunca más tendrán que sacrificar la comodidad por el estilo.\n\n\nExquisito Diseño Calado\n\nEl diseño lateral calado no solo añade un toque de sofisticación, sino que también garantiza circulación adecuada de aire. El Leotardo INVIERNO calado lateral Marrón añadirá un factor extra de fashion chic al guardarropa de los niños, asegurando que luzcan adorables y elegantes a la vez que permanecen acogedoramente cálidos.\n\n\nHaz clic aquí para comprar ahora y dar la bienvenida a los meses de invierno con estilo y elegancia.",
+  "sourceDescriptionHtml": "<h2>Un Toque de Elegancia</h2>\n<p>Abraza el frío invierno con estilo y funcionalidad. Nuestro Leotardo INVIERNO calado lateral Marrón proporciona calidez excepcional a la vez que acentúa la belleza de los más pequeños. El diseño calado y el color marrón delicado combina un sentido clásico con una estética contemporánea, un verdadero deleite a la vista.</p>\n\n<h2>Calidez sin Compromiso</h2>\n<p>Desarrollado con la funcionalidad en mente, este leotardo es un escudo contra el frío del invierno. Fabricado con materiales de alta calidad que garantizan calidez y suavidad, este Leotardo INVIERNO se convertirá en una pieza esencial durante los meses más fríos. Nunca más tendrán que sacrificar la comodidad por el estilo.</p>\n\n<h2>Exquisito Diseño Calado</h2>\n<p>El diseño lateral calado no solo añade un toque de sofisticación, sino que también garantiza circulación adecuada de aire. El Leotardo INVIERNO calado lateral Marrón añadirá un factor extra de fashion chic al guardarropa de los niños, asegurando que luzcan adorables y elegantes a la vez que permanecen acogedoramente cálidos.</p>\n\n<button>Haz clic aquí para comprar ahora y dar la bienvenida a los meses de invierno con estilo y elegancia.</button>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marrón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:07",
+  "sourceUpdatedAt": "2026-10-27 11:08:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 12,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62249",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "387",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:55.686Z"
+    },
+    {
+      "id": "62250",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "387",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:59.734Z"
+    },
+    {
+      "id": "62251",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "387",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:02.635Z"
+    },
+    {
+      "id": "62252",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "387",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:05.774Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6025-3878.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3878-large_default/leotardo-invierno-calado-lateral-marron.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Marrón",
+      "sourceId": "3878",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6025-9291.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9291-large_default/leotardo-invierno-calado-lateral-marron.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Marrón",
+      "sourceId": "9291",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6025-3877.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3877-large_default/leotardo-invierno-calado-lateral-marron.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Marrón",
+      "sourceId": "3877",
+      "variantIds": [],
+      "sha256": "e1e444733d8e7821d3367570975e8edefaff26fd5bf73def23f3508c88f39761"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:25:05.961Z",
+  "issues": []
+}

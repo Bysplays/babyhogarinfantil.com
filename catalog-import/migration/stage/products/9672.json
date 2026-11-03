@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "9672",
+  "sourceUrl": "https://babyhogarinfantil.com/peleles-bebe-nino/9672-pelele-ceremonia-nino-lino-lino.html",
+  "name": "Pelele ceremonia niño Lino Lino",
+  "brand": "Calamaro",
+  "sku": "2204059",
+  "description": "Pelele de lino y algodón, en color tostado con combinación de tela de topitos blanca y puntillas. Cuello bebé y cierre de botones en toda la espalda y entrepierna. Mangas y perneras elásticas. IDEAL PARA CEREMONIA.",
+  "details": "Pelele de CALAMARO, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. De lino y algodón, en color tostado con combinación de tela de topitos blanca a contraste y puntillas decorando la parte delantera. Cuello bebé y botones en toda la espalda y entrepierna para facilitar la puesta. Mangas y perneras elásticas. Una prenda cómoda, fresquita y dulce, en tonos suaves ideal para ceremonias como el bautizo. Echa un ojito a nuestros leotardos, calcetines y chaquetas de perlé y calzado y recuerda que disponemos de la vela y el pañito bordado personalizado para tal ocasión! \n\nComposición y cuidados:\n\nPelele: 52% lino, 48% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Pelele de <strong>CALAMARO</strong>, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. De <strong>lino y algodón</strong>, en color tostado con combinación de tela de topitos blanca a contraste y <strong>puntillas</strong> decorando la parte delantera. Cuello bebé y botones en toda la espalda y entrepierna para facilitar la puesta. Mangas y perneras elásticas. Una prenda cómoda, fresquita y dulce, en tonos suaves ideal para <strong>ceremonias como el bautizo.</strong> Echa un ojito a nuestros<strong> leotardos, calcetines y chaquetas de perlé y calzado</strong> y recuerda que disponemos de la <strong>vela y el pañito bordado personalizado</strong> para tal ocasión! </p>\n<p>Composición y cuidados:</p>\n<p>Pelele: 52% lino, 48% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "756"
+  ],
+  "sourceDefaultCategoryId": "756",
+  "sourceCategoryName": "Peleles Bebé Niño",
+  "price": 15,
+  "oldPrice": 29.9959,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "93911",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2204059",
+      "productSku": "2204059",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": 29.9959,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:56.561Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9672-12585.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12585-large_default/pelele-ceremonia-nino-lino-lino.jpg",
+      "alt": "Pelele ceremonia niño Lino Lino",
+      "sourceId": "12585",
+      "variantIds": [],
+      "sha256": "930c7d7040169699f0359e397716ce974efab88d7d1018936873bbab4e53bdbf"
+    },
+    {
+      "path": "assets/9672-12584.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12584-large_default/pelele-ceremonia-nino-lino-lino.jpg",
+      "alt": "Pelele ceremonia niño Lino Lino",
+      "sourceId": "12584",
+      "variantIds": [],
+      "sha256": "10bbdb076776972686ccf6adebe3a811c70b675050f91a9696e0f3676995513c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:56.703Z",
+  "issues": []
+}

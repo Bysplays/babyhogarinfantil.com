@@ -1,0 +1,637 @@
+{
+    "at": "2026-10-27T21:41:52+01:00",
+    "expected": 2702,
+    "imported": 2702,
+    "images": 5705,
+    "combinations": 10103,
+    "errors": [],
+    "sourceIssues": [
+        {
+            "source": 10121,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22370,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 17459,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 19794,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 19795,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 19798,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 19799,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 20267,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21064,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21065,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21066,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21177,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21209,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21236,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21265,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21266,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21267,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21270,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21271,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21272,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21290,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21386,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21397,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21398,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21399,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21813,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21814,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21815,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21817,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22058,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22059,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22481,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22482,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22483,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22484,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 6344,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 6350,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 10055,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 10059,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 16899,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21142,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21185,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21186,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21187,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21206,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21207,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21216,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21217,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21218,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21219,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21220,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21276,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21301,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21304,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21306,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21315,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21326,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21327,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21341,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21342,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21343,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21344,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21345,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21346,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21347,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21348,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21349,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21350,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21351,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21352,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21381,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21382,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21383,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21384,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21385,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21389,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21390,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21391,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21392,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21413,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21422,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21423,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21802,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22358,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22359,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22360,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22361,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22362,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22363,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22540,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22541,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22542,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22543,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 6199,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21279,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21280,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 19297,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 19298,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21030,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21116,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 22418,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 6041,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 19812,
+            "issues": [
+                "No verified images"
+            ]
+        },
+        {
+            "source": 21262,
+            "issues": [
+                "No verified images"
+            ]
+        }
+    ],
+    "unknownStock": [],
+    "missing": [],
+    "valid": true
+}

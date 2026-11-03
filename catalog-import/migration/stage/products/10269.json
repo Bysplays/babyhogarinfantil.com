@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "10269",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/10269-vestido-nina-estampado-flores-beige.html",
+  "name": "Vestido niña estampado flores Beige",
+  "brand": "Mayoral",
+  "sku": "2301033",
+  "description": "Vestido en color tostado con estampado floral, sin mangas y con cuello redondo, espalda con aberturas, cierre trasero de lágrima y cremallera invisible. Con forro interior. Disponible en tallas de bebé a juego.",
+  "details": "Vestido de MAYORAL, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. En color tostado con estampado floral en tonos verdes y amarillos. Con corte en la cintura, cuello redondo y sin mangas. Espalda con aberturas y cierre de lágrima y cremallera invisible. Con forro interior. Una prenda primaveral, fresquita y ligera, ideal para los días de sol! Echa un ojito a nuestras chaquetas de perlé o vaqueras, calzado y ropa interior y podrás completarlo con todo lo que necesites! Disponible vestido en tallas para bebé a juego. \n\nComposición y cuidados:\n\nVestido: 97% algodón, 3% elastano\n\nForro: 50% algodón, 50% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Vestido de <strong>MAYORAL</strong>, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. En color tostado con estampado floral en tonos verdes y amarillos. Con corte en la cintura, cuello redondo y sin mangas. Espalda con aberturas y cierre de lágrima y <strong>cremallera invisible. Con forro interior.</strong> Una prenda primaveral, fresquita y ligera, ideal para los días de sol! Echa un ojito a nuestras <strong>chaquetas de perlé o vaqueras, calzado y ropa interior</strong> y podrás completarlo con todo lo que necesites! <strong>Disponible vestido en tallas para bebé a juego. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Vestido: 97% algodón, 3% elastano</p>\n<p>Forro: 50% algodón, 50% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 41.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71373",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2301033",
+      "productSku": "2301033",
+      "taxRate": 21,
+      "price": 41.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:10.514Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10269-13345.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13345-large_default/vestido-nina-estampado-flores-beige.jpg",
+      "alt": "Vestido niña estampado flores Beige",
+      "sourceId": "13345",
+      "variantIds": [],
+      "sha256": "d524fbb4dac96a50ecf504be16129a3a15783798af6692ced72e685203bf50b4"
+    },
+    {
+      "path": "assets/10269-13346.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13346-large_default/vestido-nina-estampado-flores-beige.jpg",
+      "alt": "Vestido niña estampado flores Beige",
+      "sourceId": "13346",
+      "variantIds": [],
+      "sha256": "7e72bb96a5a1a322feee16c1393663281e241959187b5e56d38f3c3dce888c83"
+    },
+    {
+      "path": "assets/10269-13347.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13347-large_default/vestido-nina-estampado-flores-beige.jpg",
+      "alt": "Vestido niña estampado flores Beige",
+      "sourceId": "13347",
+      "variantIds": [],
+      "sha256": "18224516026f9404c63b7fb3c8ef50bc34a009444b1ce483c992d8395dd1674e"
+    },
+    {
+      "path": "assets/10269-8577.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8577-large_default/vestido-nina-estampado-flores-beige.jpg",
+      "alt": "Vestido niña estampado flores Beige",
+      "sourceId": "8577",
+      "variantIds": [],
+      "sha256": "b8ace4f7bbb620eb0715de4ae10f04aed980b5c7ddfb74cecbd6cec0cf0ca588"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:10.695Z",
+  "issues": []
+}

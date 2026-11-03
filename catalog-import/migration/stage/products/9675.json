@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "9675",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9675-conjunto-camiseta-y-ranita-a-cuadros-blanco.html",
+  "name": "Conjunto camiseta y ranita a cuadros Blanco",
+  "brand": "Calamaro",
+  "sku": "2204062",
+  "description": "Conjunto de dos piezas 100% ALGODÓN, compuesto por camiseta de manga corta en color blanco con detalles de cuadro vichy en blanco y negro y ranita a juego con goma en la parte trasera de la cintura y perneras.  HECHO EN ESPAÑA",
+  "details": "Conjunto de dos piezas de CALAMARO, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. 100% ALGODÓN, compuesto por camiseta de manga corta y cuello redondo, con detalles estampados de cuadro vichy blanco y negro. Cierre trasero con botones en toda la espalda. Como parte de abajo, ranita vichy con goma en la parte trasera de la cintura y en las perneras. Un conjunto cómodo, fresquito y ligero, con un estampado atemporal, ideal para el verano! Echa un vistazo a nuestros bodies interiores, calzado y chaquetas y podrás completarlo como más te guste! DISPONIBLE CONJUNTO PARA BEBÉ NIÑA A JUEGO. \n\nComposición y cuidados:\n\nConjunto: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas de<strong> CALAMARO</strong>, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. <strong>100% ALGODÓN</strong>, compuesto por camiseta de manga corta y cuello redondo, con detalles estampados de <strong>cuadro vichy blanco y negro</strong>. Cierre trasero con botones en toda la espalda. Como parte de abajo, ranita vichy con goma en la parte trasera de la cintura y en las perneras. Un conjunto cómodo, fresquito y ligero, con un estampado atemporal, ideal para el verano! Echa un vistazo a nuestros <strong>bodies interiores, calzado y chaquetas</strong> y podrás completarlo como más te guste! <strong>DISPONIBLE CONJUNTO PARA BEBÉ NIÑA A JUEGO. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Conjunto: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 10.5,
+  "oldPrice": 20.9935,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69807",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2204062",
+      "productSku": "2204062",
+      "taxRate": 21,
+      "price": 10.5,
+      "oldPrice": 20.9935,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:09.661Z"
+    },
+    {
+      "id": "69808",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2204062",
+      "productSku": "2204062",
+      "taxRate": 21,
+      "price": 10.5,
+      "oldPrice": 20.9935,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:11.105Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9675-7880.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7880-large_default/conjunto-camiseta-y-ranita-a-cuadros-blanco.jpg",
+      "alt": "Conjunto camiseta y ranita a cuadros Blanco",
+      "sourceId": "7880",
+      "variantIds": [],
+      "sha256": "91a76f79d9895b0f497b0a7dfe2c5552ce9b8ebbc3997111029eb1d67c404b8b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:11.166Z",
+  "issues": []
+}

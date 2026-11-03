@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "id": "21970",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/21970-camiseta-basica-nino-blanco.html",
+  "name": "Camiseta básica niño Blanco",
+  "brand": "Babybol",
+  "sku": "2401261",
+  "description": "Camiseta básica para niño BABYBOL en color blanco, confeccionada en algodón suave. Cómoda, transpirable y perfecta para el día a día o para combinar con cualquier look.",
+  "details": "La camiseta básica de niño BABYBOL es un imprescindible en el armario de los más pequeños. Su diseño sencillo en color blanco la convierte en una prenda versátil, ideal para combinar con todo tipo de conjuntos.\n\nEstá confeccionada en algodón, lo que garantiza suavidad y comodidad durante todo el día, respetando la piel delicada del bebé.\n\nCuenta con cierre con botones en el hombro, facilitando el cambio de ropa de forma rápida y cómoda.\n\n\nMarca: BABYBOL\n\nTejido: Algodón\n\nColor: Blanco\n\nManga corta\n\nCierre con botones en el hombro\n\n\nPerfecta como camiseta interior o exterior, para el día a día o como base para múltiples conjuntos.",
+  "sourceDescriptionHtml": "<p>La <strong>camiseta básica de niño BABYBOL</strong> es un imprescindible en el armario de los más pequeños. Su diseño sencillo en color blanco la convierte en una prenda versátil, ideal para combinar con todo tipo de conjuntos.</p>\n<p>Está confeccionada en <strong>algodón</strong>, lo que garantiza suavidad y comodidad durante todo el día, respetando la piel delicada del bebé.</p>\n<p>Cuenta con <strong>cierre con botones en el hombro</strong>, facilitando el cambio de ropa de forma rápida y cómoda.</p>\n<ul>\n<li>Marca: <strong>BABYBOL</strong></li>\n<li>Tejido: Algodón</li>\n<li>Color: Blanco</li>\n<li>Manga corta</li>\n<li>Cierre con botones en el hombro</li>\n</ul>\n<p>Perfecta como <strong>camiseta interior o exterior</strong>, para el día a día o como base para múltiples conjuntos.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 7.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-04-11 15:53:23",
+  "sourceUpdatedAt": "2026-10-27 11:13:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 27,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100966",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2401261",
+      "productSku": "2401261",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:19.264Z"
+    },
+    {
+      "id": "100967",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2401261",
+      "productSku": "2401261",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:20.703Z"
+    },
+    {
+      "id": "100968",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2401261",
+      "productSku": "2401261",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:21.824Z"
+    },
+    {
+      "id": "100969",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2401261",
+      "productSku": "2401261",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:22.847Z"
+    },
+    {
+      "id": "100970",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2401261",
+      "productSku": "2401261",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:24.008Z"
+    },
+    {
+      "id": "100971",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2401261",
+      "productSku": "2401261",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:25.245Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21970-21017.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21017-large_default/camiseta-basica-nino-blanco.jpg",
+      "alt": "Camiseta niño blanca BABYBOL algodón",
+      "sourceId": "21017",
+      "variantIds": [],
+      "sha256": "8acdfc97eddd910715800da125e8fed80e3a36950fd86e0a46340741e7e6733f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:25.328Z",
+  "issues": []
+}

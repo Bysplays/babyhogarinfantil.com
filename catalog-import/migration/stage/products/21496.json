@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "21496",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/21496-conjunto-algodon-con-felpa-bebe-nina-rosa-palo.html",
+  "name": "Conjunto algodón con felpa bebe niña Rosa Palo",
+  "brand": "Babybol",
+  "sku": "2502134",
+  "description": "Divertido conjunto rosa de dos piezas para bebé niña. Con felpa interior para que sea cómodo y calentito. Con botones automáticos en el cuello del jersey para facilitar la puesta.",
+  "details": "Composición:\n\nConjunto: 95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Conjunto: 95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa palo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 21.01,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96799",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502134",
+      "productSku": "2502134",
+      "taxRate": 21,
+      "price": 21.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:26.591Z"
+    },
+    {
+      "id": "96800",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502134",
+      "productSku": "2502134",
+      "taxRate": 21,
+      "price": 21.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:29.694Z"
+    },
+    {
+      "id": "96801",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502134",
+      "productSku": "2502134",
+      "taxRate": 21,
+      "price": 21.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:32.219Z"
+    },
+    {
+      "id": "96802",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502134",
+      "productSku": "2502134",
+      "taxRate": 21,
+      "price": 21.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:35.021Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21496-20078.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20078-large_default/conjunto-algodon-con-felpa-bebe-nina-rosa-palo.jpg",
+      "alt": "Conjunto algodón con felpa bebe niña Rosa Palo",
+      "sourceId": "20078",
+      "variantIds": [],
+      "sha256": "fed638728a5ee7ef3cadd14e93ca9d0e84c7a892bd2a11a4f93830d6c2d441af"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:35.085Z",
+  "issues": []
+}

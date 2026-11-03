@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "9484",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/9484-blusa-manga-corta-cuello-puntilla-blanco.html",
+  "name": "Blusa manga corta cuello puntilla Blanco",
+  "brand": "Yoedu",
+  "sku": "2202125",
+  "description": "Blusa de manga corta y cuello volante rematado con pequeña puntilla. Color blanco. Cierre trasero con botones en toda la espalda. Mangas con goma.",
+  "details": "Blusa de YOEDU, firma de moda infantil que nace en 1994 con un estilo propio, elegante, funcional y alegre, que acompañe a los pequeños en su día a día. Color blanco, de manga corta acabada en gomita elástica y cuello volante rematado con una fina puntilla. Cierre trasero con botones en toda la espalda, para facilitar la puesta. Una prenda atemporal, un fondo de armario, ideal para combinar con jubones, chaquetas, petos, ranitas... Echa un ojito a las opciones que te ofrecemos y podrás combinarla como más te guste!\n\nComposición y cuidados:\n\nBlusa: 65% poliéster, 35% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Blusa de<strong> YOEDU</strong>, firma de moda infantil que nace en 1994 con un estilo propio, elegante, funcional y alegre, que acompañe a los pequeños en su día a día. Color blanco, de manga corta acabada en gomita elástica y <strong>cuello volante</strong> rematado con una fina puntilla.<strong> Cierre trasero</strong> con botones en toda la espalda, para facilitar la puesta. Una prenda atemporal, un <strong>fondo de armario</strong>, ideal para combinar con <strong>jubones, chaquetas, petos, ranitas</strong>... Echa un ojito a las opciones que te ofrecemos y podrás combinarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Blusa: 65% poliéster, 35% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 8.48,
+  "oldPrice": 16.9521,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69316",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2202125",
+      "productSku": "2202125",
+      "taxRate": 21,
+      "price": 8.48,
+      "oldPrice": 16.9521,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:40.359Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9484-12400.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12400-large_default/blusa-manga-corta-cuello-puntilla-blanco.jpg",
+      "alt": "Blusa manga corta cuello puntilla Blanco",
+      "sourceId": "12400",
+      "variantIds": [],
+      "sha256": "0296cd7f256d5cc413748845efd7c50008a610968b412984211f82e56ef33db4"
+    },
+    {
+      "path": "assets/9484-12401.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12401-large_default/blusa-manga-corta-cuello-puntilla-blanco.jpg",
+      "alt": "Blusa manga corta cuello puntilla Blanco",
+      "sourceId": "12401",
+      "variantIds": [],
+      "sha256": "8dc7dd15eb94e3a59b31a763246cef4caf0f65fe71e6909804f25be7943b89b1"
+    },
+    {
+      "path": "assets/9484-8264.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8264-large_default/blusa-manga-corta-cuello-puntilla-blanco.jpg",
+      "alt": "Blusa manga corta cuello puntilla Blanco",
+      "sourceId": "8264",
+      "variantIds": [],
+      "sha256": "0723534e655750852e0fd0ff73316d62c6564981179dcbbba1e3bf1bca4cc645"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:40.522Z",
+  "issues": []
+}

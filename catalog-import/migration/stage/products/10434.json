@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10434",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10434-conjunto-bebe-nino-corto-safari-azul.html",
+  "name": "Conjunto bebe niño corto safari Azul",
+  "brand": "Babybol",
+  "sku": "2301201",
+  "description": "Conjunto de dos piezas en algodón, con pantalón corto",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:02",
+  "sourceUpdatedAt": "2026-10-27 11:12:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72042",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301201",
+      "productSku": "2301201",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:37.918Z"
+    },
+    {
+      "id": "72043",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2301201",
+      "productSku": "2301201",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:39.139Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10434-13595.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13595-large_default/conjunto-bebe-nino-corto-safari-azul.jpg",
+      "alt": "Conjunto bebe niño corto safari Azul",
+      "sourceId": "13595",
+      "variantIds": [],
+      "sha256": "046ca1e9789ad943ba9206a16c94b4bf769c5e84a7485937d13142cd66497f3e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:39.218Z",
+  "issues": []
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "9037",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/9037-pantalon-algodon-basico-nino-rojo-rojo.html",
+  "name": "Pantalón algodón básico niño rojo Rojo",
+  "brand": "Chicco",
+  "sku": "2107110",
+  "description": "Pantalón de algodón en color rojo con detalles en blanco. Goma en la cintura y cordón ajustable. Puño en las perneras. Bolsillo trasero.",
+  "details": "Pantalón de CHICCO, una de nuestras firmas favoritas! 100% ALGODÓN, en color rojo con detalles en blanco. Goma en la cintura con cordón ajustable. Tiene puño en el bajo de las perneras. Bolsillo trasero. Una prenda básica y atemporal, ideal para combinar con todas tus partes de arriba! Echa un ojito a nuestras camisetas, sudaderas y ropa interior y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nPantalón: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pantalón de <strong>CHICCO</strong>, una de nuestras firmas favoritas! <strong>100% ALGODÓN</strong>, en color rojo con detalles en blanco. Goma en la cintura con cordón ajustable. Tiene puño en el bajo de las perneras. Bolsillo trasero. Una prenda básica y atemporal, ideal para combinar con todas tus partes de arriba! Echa un ojito a nuestras <strong>camisetas, sudaderas y ropa interior</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-27 11:11:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68388",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2107110",
+      "productSku": "2107110",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:09.554Z"
+    },
+    {
+      "id": "68390",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2107110",
+      "productSku": "2107110",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:12.000Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9037-7341.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7341-large_default/pantalon-algodon-basico-nino-rojo-rojo.jpg",
+      "alt": "Pantalón algodón básico niño rojo Rojo",
+      "sourceId": "7341",
+      "variantIds": [],
+      "sha256": "dad459c716acf25ab44005628a84bbd8c19556e627950623a4591c4fc50dcafe"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:12.077Z",
+  "issues": []
+}

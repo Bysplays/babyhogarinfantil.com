@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "id": "9808",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9808-jersey-mostaza-todo-tiempo-nino-mostaza.html",
+  "name": "Jersey mostaza todo tiempo niño Mostaza",
+  "brand": "Zippy",
+  "sku": "2207047",
+  "description": "Envuelve a tu pequeño con el mullido y suave Jersey Mostaza Todo Tiempo. Su espectacular tonalidad mostaza se complementa a la perfección con cualquier tono, mientras que su confección asegura la comodidad y calidez en todo momento. ¡Ideal para jugar bajo la luz del día o acurrucarse en noches frías! También es perfectamente durable, resistiendo todas las aventuras y travesuras de su niño. Más que una prenda, es una inversión en su comodidad y felicidad.",
+  "details": "Confort Insuperable\n \nMantenga a los niños abrigados y listos para jugar en cualquier clima con el jersey mostaza todo tiempo niño Mostaza. Lujosamente suave y hecho para durar, esta prenda está diseñada para proporcionar la máxima comodidad mientras se mantiene al niño a la moda.\n\n\nDetalles de Calidad\n \nCon intrincados detalles de punto y un color mostaza vibrante, este jersey infantil suma elegancia y retrocede a un clásico. El tejido ligero permite a los niños moverse libremente, mientras que los dobladillos de punto cerrado mantienen el calor, adaptandose perfectamente a cualquier estación del año.\n\n\nDurabilidad y Mantenimiento\n\n¿Preocupado por el mantenimiento? No hay problema. Hecho de hilos de alta calidad, este jersey resiste el desgaste diario. Es fácil de limpiar y retiene su forma y color, incluso después de numerosos lavados. Asegurese de darle a su niño la mejor ropa que perdura.\n\n \n\n ¡Compre ahora y asegure comodidad para su niño!",
+  "sourceDescriptionHtml": "<h2>Confort Insuperable</h2> \n<p>Mantenga a los niños abrigados y listos para jugar en cualquier clima con el jersey mostaza todo tiempo niño Mostaza. Lujosamente suave y hecho para durar, esta prenda está diseñada para proporcionar la máxima comodidad mientras se mantiene al niño a la moda.</p>\n\n<h2>Detalles de Calidad</h2> \n<p>Con intrincados detalles de punto y un color mostaza vibrante, este jersey infantil suma elegancia y retrocede a un clásico. El tejido ligero permite a los niños moverse libremente, mientras que los dobladillos de punto cerrado mantienen el calor, adaptandose perfectamente a cualquier estación del año.</p>\n\n<h2>Durabilidad y Mantenimiento</h2>\n<p>¿Preocupado por el mantenimiento? No hay problema. Hecho de hilos de alta calidad, este jersey resiste el desgaste diario. Es fácil de limpiar y retiene su forma y color, incluso después de numerosos lavados. Asegurese de darle a su niño la mejor ropa que perdura.</p>\n \n<div>\n <a href=\"#\" class=\"btn btn-primary\">¡Compre ahora y asegure comodidad para su niño!</a>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mostaza",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 15.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70082",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2207047",
+      "productSku": "2207047",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:42.205Z"
+    },
+    {
+      "id": "70083",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2207047",
+      "productSku": "2207047",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:43.776Z"
+    },
+    {
+      "id": "70084",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2207047",
+      "productSku": "2207047",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:45.240Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9808-7953.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7953-large_default/jersey-mostaza-todo-tiempo-nino-mostaza.jpg",
+      "alt": "Jersey mostaza todo tiempo niño Mostaza",
+      "sourceId": "7953",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9808-12774.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12774-large_default/jersey-mostaza-todo-tiempo-nino-mostaza.jpg",
+      "alt": "Jersey mostaza todo tiempo niño Mostaza",
+      "sourceId": "12774",
+      "variantIds": [],
+      "sha256": "837d0eada35569210ff4c0b2e8255bbb0d2ff7d5061eb71436a4a527eaf3c63d"
+    },
+    {
+      "path": "assets/9808-12775.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12775-large_default/jersey-mostaza-todo-tiempo-nino-mostaza.jpg",
+      "alt": "Jersey mostaza todo tiempo niño Mostaza",
+      "sourceId": "12775",
+      "variantIds": [],
+      "sha256": "380af5d0ce12234a473ed0b46a73cf6f9eec880515284943346ec6afc6ba546b"
+    },
+    {
+      "path": "assets/9808-12776.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12776-large_default/jersey-mostaza-todo-tiempo-nino-mostaza.jpg",
+      "alt": "Jersey mostaza todo tiempo niño Mostaza",
+      "sourceId": "12776",
+      "variantIds": [],
+      "sha256": "7727aadb838188d9fd3cea5e5e63d32f7e6a661cfde308c8bcdc312af7db4588"
+    },
+    {
+      "path": "assets/9808-12777.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12777-large_default/jersey-mostaza-todo-tiempo-nino-mostaza.jpg",
+      "alt": "Jersey mostaza todo tiempo niño Mostaza",
+      "sourceId": "12777",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9808-8969.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8969-large_default/jersey-mostaza-todo-tiempo-nino-mostaza.jpg",
+      "alt": "Jersey mostaza todo tiempo niño Mostaza",
+      "sourceId": "8969",
+      "variantIds": [],
+      "sha256": "698edc2d6a7a817a6465e183f8d3f45eac8c67a4c4751606125606658eeb33ba"
+    },
+    {
+      "path": "assets/9808-8970.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8970-large_default/jersey-mostaza-todo-tiempo-nino-mostaza.jpg",
+      "alt": "Jersey mostaza todo tiempo niño Mostaza",
+      "sourceId": "8970",
+      "variantIds": [],
+      "sha256": "78f6349aa0b3ba29e50fed8ad6fa67a4611db70d0c4f02197c41995220901bb3"
+    },
+    {
+      "path": "assets/9808-8971.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8971-large_default/jersey-mostaza-todo-tiempo-nino-mostaza.jpg",
+      "alt": "Jersey mostaza todo tiempo niño Mostaza",
+      "sourceId": "8971",
+      "variantIds": [],
+      "sha256": "7b282972ce972ec402925a5668b759e7e5304912473cbcd7e2de49df99c357b9"
+    },
+    {
+      "path": "assets/9808-8972.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8972-large_default/jersey-mostaza-todo-tiempo-nino-mostaza.jpg",
+      "alt": "Jersey mostaza todo tiempo niño Mostaza",
+      "sourceId": "8972",
+      "variantIds": [],
+      "sha256": "69bb039fcfe36dfa5f8df548209f191f834ee10a77fbf74ec3d2272c595c0152"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:45.784Z",
+  "issues": []
+}

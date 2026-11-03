@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10082",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/10082-pantalon-algodon-coches-gris.html",
+  "name": "Pantalon algodon coches Gris",
+  "brand": "Chicco",
+  "sku": "2208195",
+  "description": "Pantalón en algodón sin felpa interior, para todo tiempo.",
+  "details": "Composición y cuidados:\n\nPantalón: 100% algodón.\n\nNO USAR SECADORA\n\nNO USAR LIJIAS\n\nLAVAR A 30º",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pantalón: 100% algodón.</p>\n<p>NO USAR SECADORA</p>\n<p>NO USAR LIJIAS</p>\n<p>LAVAR A 30º</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70837",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2208195",
+      "productSku": "2208195",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:20.258Z"
+    },
+    {
+      "id": "70839",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2208195",
+      "productSku": "2208195",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:22.590Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10082-8115.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8115-large_default/pantalon-algodon-coches-gris.jpg",
+      "alt": "pantalon algodon coches Gris",
+      "sourceId": "8115",
+      "variantIds": [],
+      "sha256": "cafd1d15b8e46f0e66551ba86ea192779b08a109b6f7f2cb25b8e0bd82f9c2e0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:22.689Z",
+  "issues": []
+}

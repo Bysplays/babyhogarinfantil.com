@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7644",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/7644-pantalon-algodon-moto-azul.html",
+  "name": "Pantalón algodón moto Azul",
+  "brand": "Chicco",
+  "sku": "1902201",
+  "description": "Pantalón vaquero en algodón elástico. Con cintura ajustable y puño en el tobillo.",
+  "details": "Pantalón vaquero de una de nuestras marcas favoritas, CHICCO. En algodón elástico, cómodo y flexible. Con goma en la cintura y puño en el tobillo en azul y blanco. Como adorno, tiene cordón en la cintura, falsos bolsillos y el parche de una motocileta en un lateral. En el culete lleva estampada la carita de un osito. Un básico de armario como puede ser un vaquero pero con toques originales, y sin olvidar la comodidad gracias a su tejido elástico. Ideal para los más peques. Combínalo con nuestras camisetas de verano, chaquetas, sudaderas y calzado sport, y completa tu look.\n\nComposición: \n\nPantalón: 78% algodón, 16% elastano, 6% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO A 40 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTE\n\nNO SECAR EN SECADORA\n\nNO LAVAR EN SECO\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nRECOMENDABLE SECAR EN VERTICAL",
+  "sourceDescriptionHtml": "<p>Pantalón vaquero de una de nuestras marcas favoritas, <strong>CHICCO. </strong>En algodón elástico, cómodo y flexible. Con goma en la cintura y puño en el tobillo en azul y blanco. Como adorno, tiene cordón en la cintura, falsos bolsillos y el parche de una motocileta en un lateral. En el culete lleva estampada la carita de un osito. Un básico de armario como puede ser un vaquero pero con toques originales, y sin olvidar la comodidad gracias a su tejido elástico. Ideal para los más peques. Combínalo con nuestras camisetas de verano, chaquetas, sudaderas y calzado sport, y completa tu look.</p>\n<p>Composición: </p>\n<p>Pantalón: 78% algodón, 16% elastano, 6% poliéster</p>\n<p><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 40 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTE</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">NO LAVAR EN SECO</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">RECOMENDABLE SECAR EN VERTICAL</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 12.5,
+  "oldPrice": 24.990001,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66085",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1902201",
+      "productSku": "1902201",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": 24.990001,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:59.288Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7644-5631.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5631-large_default/pantalon-algodon-moto-azul.jpg",
+      "alt": "Pantalón algodón moto Azul",
+      "sourceId": "5631",
+      "variantIds": [],
+      "sha256": "7ad031a11542b5f9ecba33b9a20553711fb807786379c3587f692aef6d21df8a"
+    },
+    {
+      "path": "assets/7644-5630.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5630-large_default/pantalon-algodon-moto-azul.jpg",
+      "alt": "Pantalón algodón moto Azul",
+      "sourceId": "5630",
+      "variantIds": [],
+      "sha256": "42a886f991d39d3c8914511c099ad949ed9c789dd3340e4d7b8771afd8eae8b4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:59.443Z",
+  "issues": []
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "6929",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/6929-pantalon-bebe-nina-algodon-todo-goma-fucsia.html",
+  "name": "Pantalón bebé niña algodón todo goma Fucsia",
+  "brand": "Chicco",
+  "sku": "1708015",
+  "description": "Deslumbre con la moda infantil con el Pantalón bebé niña algodón todo goma Fucsia. Este pantalón de vibrante color fucsia es una adorable incorporación al guardarropa. Confeccionado en un suave algodón para garantizar la comodidad, cuenta con una cintura elástica para un ajuste fácil. La versatilidad y la comodidad se entrelazan con estilo para formar este pantalón imprescindible. Perfecto para vestir a la bebé para cualquier ocasión, incorpora personalidad y diversión a su conjunto diario. Abraza la ternura con estilo. Descubre el amor a primera vista.",
+  "details": "Comodidad Hecha Algodón\n\nEste adorable Pantalón bebé niña algodón todo goma Fucsia es el complemento perfecto para el guardarropa de su pequeña. Fabricado con 100% algodón puro, ofrece un tacto suave sobre la delicada piel de los bebés. El diseño de goma completa permite un ajuste flexible y una comodidad inmejorable, mientras que el vibrante color fucsia agrega un toque chic y divertido.\n\n\nEstilo Sin Sacrificar Funcionalidad\n\nEl Pantalón bebé niña algodón todo goma Fucsia no solo es suave y cómodo, sino que también es elegante y versátil. Combínalo con cualquier top para crear una variedad de outfits adorables. A la vez, los pantalones son fácilmente lavables, resistentes a las arrugas y de rápida secado, lo que lo hace ideal para el día a día de un bebé activo.\n\n\nTamaño Perfecto para Crecer\n\nCon la goma completamente ajustable, el Pantalón bebé niña algodón todo goma Fucsia crece con su pequeña ofreciendo siempre un ajuste perfecto. Con tamaños disponibles desde recién nacido hasta niño pequeño, es el pantalón que evoluciona con su niña a medida que se desarrolla y crece.\n\n\nNo pierdas la oportunidad de darle a tu pequeña la comodidad y estilo que merece. Compra el Pantalón bebé niña algodón todo goma Fucsia hoy y pon un paso hacia la elegancia cotidiana de la pequeña.",
+  "sourceDescriptionHtml": "<h2>Comodidad Hecha Algodón</h2>\n<p>Este adorable Pantalón bebé niña algodón todo goma Fucsia es el complemento perfecto para el guardarropa de su pequeña. Fabricado con 100% algodón puro, ofrece un tacto suave sobre la delicada piel de los bebés. El diseño de goma completa permite un ajuste flexible y una comodidad inmejorable, mientras que el vibrante color fucsia agrega un toque chic y divertido.</p>\n\n<h2>Estilo Sin Sacrificar Funcionalidad</h2>\n<p>El Pantalón bebé niña algodón todo goma Fucsia no solo es suave y cómodo, sino que también es elegante y versátil. Combínalo con cualquier top para crear una variedad de outfits adorables. A la vez, los pantalones son fácilmente lavables, resistentes a las arrugas y de rápida secado, lo que lo hace ideal para el día a día de un bebé activo.</p>\n\n<h2>Tamaño Perfecto para Crecer</h2>\n<p>Con la goma completamente ajustable, el Pantalón bebé niña algodón todo goma Fucsia crece con su pequeña ofreciendo siempre un ajuste perfecto. Con tamaños disponibles desde recién nacido hasta niño pequeño, es el pantalón que evoluciona con su niña a medida que se desarrolla y crece.</p>\n\n<p><strong>No pierdas la oportunidad de darle a tu pequeña la comodidad y estilo que merece. Compra el Pantalón bebé niña algodón todo goma Fucsia hoy y pon un paso hacia la elegancia cotidiana de la pequeña.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64715",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1708015",
+      "productSku": "1708015",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:10.270Z"
+    },
+    {
+      "id": "64716",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1708015",
+      "productSku": "1708015",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:13.118Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6929-4849.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4849-large_default/pantalon-bebe-nina-algodon-todo-goma-fucsia.jpg",
+      "alt": "Pantalón bebé niña algodón todo goma Fucsia",
+      "sourceId": "4849",
+      "variantIds": [],
+      "sha256": "c3e4805ca05c0a7240a5417423051f3bb6adb67a085c4ce3511fbd5a6ecc3678"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:13.183Z",
+  "issues": []
+}

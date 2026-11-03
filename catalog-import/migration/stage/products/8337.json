@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8337",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8337-lazo-mediano-con-pinza-azul-celeste.html",
+  "name": "Lazo mediano con pinza Azul celeste",
+  "brand": "Siena",
+  "sku": "2007019",
+  "description": "Lazo de 8 x 5,5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox.\n\nHECHO A MANO.\n\nHECHO EN ESPAÑA.",
+  "details": "Estilo Incomparable\n\nMuestra el verdadero sentido de la elegancia con el Lazo mediano con pinza Azul celeste. Excelentemente elaborado, este lazo es la forma suprema de destacar en cualquier evento. La intensa tonalidad de azul celeste se fusiona perfectamente con un nivel de refinamiento raramente visto, haciendo de este lazo un accesorio que simplemente no puede faltar.\n\n\nCalidad Impresionante\n\nEl increíble acabado y la perfección ejecutada en la creación de este lazo mediano con pinza Azul Celeste evocan una sensación de alta calidad. Este lazo no es solo un accesorio; es una inversión que perdura en el tiempo. Su duración y resistencia te harán sentir agradecido por cada ocasión en la que lo uses. \n\n\nAtemporal y Versátil\n\nAdemás de ser deslumbrante, el Lazo mediano con pinza Azul Celeste es increíblemente versátil, lo cual significa que puede ser combinado con una gran variedad de outfits, desde la ropa más casual hasta la más formal. Su diseño atemporal asegura que nunca pasará de moda, y se convertirá en una pieza clásica de tu colección.\n\n\nCompra Ahora\n\nNo pierdas la brillante oportunidad de tener esta maravillosa pieza. Con un clic puedes tener este Lazo mediano con pinza Azul celeste enviado directamente a la puerta de tu casa. Sorprende a todos con tu estilo único y sofisticado. ¡Compra ahora!",
+  "sourceDescriptionHtml": "<h2>Estilo Incomparable</h2>\n<p>Muestra el verdadero sentido de la elegancia con el Lazo mediano con pinza Azul celeste. Excelentemente elaborado, este lazo es la forma suprema de destacar en cualquier evento. La intensa tonalidad de azul celeste se fusiona perfectamente con un nivel de refinamiento raramente visto, haciendo de este lazo un accesorio que simplemente no puede faltar.</p>\n\n<h2>Calidad Impresionante</h2>\n<p>El increíble acabado y la perfección ejecutada en la creación de este lazo mediano con pinza Azul Celeste evocan una sensación de alta calidad. Este lazo no es solo un accesorio; es una inversión que perdura en el tiempo. Su duración y resistencia te harán sentir agradecido por cada ocasión en la que lo uses. </p>\n\n<h2>Atemporal y Versátil</h2>\n<p>Además de ser deslumbrante, el Lazo mediano con pinza Azul Celeste es increíblemente versátil, lo cual significa que puede ser combinado con una gran variedad de outfits, desde la ropa más casual hasta la más formal. Su diseño atemporal asegura que nunca pasará de moda, y se convertirá en una pieza clásica de tu colección.</p>\n\n<h2>Compra Ahora</h2>\n<p>No pierdas la brillante oportunidad de tener esta maravillosa pieza. Con un clic puedes tener este Lazo mediano con pinza Azul celeste enviado directamente a la puerta de tu casa. Sorprende a todos con tu estilo único y sofisticado. ¡Compra ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146678",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8051XA14316",
+      "productSku": "2007019",
+      "taxRate": 21,
+      "price": 2.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:35.542Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8337-6641.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6641-large_default/lazo-mediano-con-pinza-azul-celeste.jpg",
+      "alt": "Lazo mediano con pinza Azul celeste",
+      "sourceId": "6641",
+      "variantIds": [],
+      "sha256": "dd0b85d20966964385271d3a0ca6dddfdaa7d1c8f7c8497b295960110bac5e1b"
+    },
+    {
+      "path": "assets/8337-6640.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6640-large_default/lazo-mediano-con-pinza-azul-celeste.jpg",
+      "alt": "Lazo mediano con pinza Azul celeste",
+      "sourceId": "6640",
+      "variantIds": [],
+      "sha256": "778f47ff82c67f743ba80e3ed409ae9380554adb10b19a561dc65cbf3d9dcce5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:35.700Z",
+  "issues": []
+}

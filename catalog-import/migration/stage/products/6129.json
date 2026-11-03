@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "id": "6129",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-verano/6129-leotardo-perle-calado-aluminio.html",
+  "name": "Leotardo perlé calado Aluminio",
+  "brand": "Condor",
+  "sku": "683",
+  "description": "Leotardo de perlé calado, con detalles de espigas en los laterales, ideal para primavera y verano.",
+  "details": "Leotardos de CÓNDOR, una de nuestras firmas favoritas! Un modelo cómodo y versátil en más de 20 colores. Confeccionados en hilo de perlé calado, ideales para primavera y verano, pues su tejido es fresco, ligero y transpirable! Detalles de espiga en los laterales y puntitos en la parte delantera y trasera. Echa un ojito a nuestro calzado, calcetines y medias de perlé y podrás escoger la opción que mejor se adapte a lo que necesitas! \n\nComposición y cuidados:\n\nLeotardos: 80% Algodón 20% Poliamida.\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR\n\nLAVAR A 30º RECOMENDADO\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;border:0px;line-height:inherit;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;vertical-align:baseline;color:#777777;\"><span style=\"margin:0px;padding:0px;border:0px;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;font-family:inherit;vertical-align:baseline;\">Leotardos de<strong> CÓNDOR</strong>, una de nuestras firmas favoritas! Un modelo cómodo y versátil en más de 20 colores. Confeccionados en <strong>hilo de perlé calado</strong>, ideales para primavera y verano, pues su tejido es fresco, ligero y transpirable! Detalles de espiga en los laterales y puntitos en la parte delantera y trasera. Echa un ojito a nuestro <strong>calzado, calcetines y medias de perlé</strong> y podrás escoger la opción que mejor se adapte a lo que necesitas! </span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">Composición y cuidados:</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">Leotardos: 80% Algodón 20% Poliamida.</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">NO USAR LEJÍAS</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">NO USAR SECADORA</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">NO PLANCHAR</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">LAVAR A 30º RECOMENDADO</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\"> </span></p>\n<p><strong><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;\">FABRICADO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Aluminio",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "676",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "676",
+  "sourceCategoryName": "Leotardos Verano",
+  "price": 13.61,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:18",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62526",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:03.492Z"
+    },
+    {
+      "id": "62528",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:06.131Z"
+    },
+    {
+      "id": "62529",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:08.457Z"
+    },
+    {
+      "id": "62530",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 15.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:11.153Z"
+    },
+    {
+      "id": "62531",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 15.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:26:14.089Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6129-4010.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4010-large_default/leotardo-perle-calado-aluminio.jpg",
+      "alt": "Leotardo perlé calado Aluminio",
+      "sourceId": "4010",
+      "variantIds": [],
+      "sha256": "547ffa645653006d7bbe6f65c117831f711fdb8d10860c32bf69a4398051841d"
+    },
+    {
+      "path": "assets/6129-4009.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4009-large_default/leotardo-perle-calado-aluminio.jpg",
+      "alt": "Leotardo perlé calado Aluminio",
+      "sourceId": "4009",
+      "variantIds": [],
+      "sha256": "4201391c0f41d03775464824ade7b2be50f02d9a3d0c7e225411724e28ed324e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:26:14.237Z",
+  "issues": []
+}

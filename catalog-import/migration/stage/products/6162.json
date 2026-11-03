@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "id": "6162",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/6162-calcetin-corto-algodon-puno-labrado-cava.html",
+  "name": "Calcetín corto algodón puño labrado Cava",
+  "brand": "Condor",
+  "sku": "687",
+  "description": "Calcetines cortos color CAVA con el puño labrado de primavera para bebé y niñ@s hasta talla 6. Ver guía de tallas en las imágenes.",
+  "details": "Composición:\n\n70% ALGODON, 30% POLIAMIDA.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>70% ALGODON, 30% POLIAMIDA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cava",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "846",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 4.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 19,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62698",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:25.253Z"
+    },
+    {
+      "id": "62699",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:28.821Z"
+    },
+    {
+      "id": "62700",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:31.538Z"
+    },
+    {
+      "id": "62701",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:34.550Z"
+    },
+    {
+      "id": "62702",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:37.610Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6162-4067.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4067-large_default/calcetin-corto-algodon-puno-labrado-cava.jpg",
+      "alt": "Calcetín corto algodón puño labrado Cava",
+      "sourceId": "4067",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6162-4066.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4066-large_default/calcetin-corto-algodon-puno-labrado-cava.jpg",
+      "alt": "Calcetín corto algodón puño labrado Cava",
+      "sourceId": "4066",
+      "variantIds": [],
+      "sha256": "f624a0873241db74c163b2840b555653c5462de3c86fdc44a838dcd92d077b48"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:37.743Z",
+  "issues": []
+}

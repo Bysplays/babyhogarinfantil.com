@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "id": "20472",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/20472-camiseta-manga-larga-nino-nata.html",
+  "name": "Camiseta manga larga niño Nata",
+  "brand": "Mayoral",
+  "sku": "2502047",
+  "description": "Camiseta manga larga con cuello redondo. Serigrafiada.",
+  "details": "Composición: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nata",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 11.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94809",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:20.770Z"
+    },
+    {
+      "id": "94810",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:22.278Z"
+    },
+    {
+      "id": "94811",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:23.351Z"
+    },
+    {
+      "id": "94812",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:25.054Z"
+    },
+    {
+      "id": "94813",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:26.537Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20472-19803.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19803-large_default/camiseta-manga-larga-nino-nata.jpg",
+      "alt": "Camiseta manga larga niño Nata",
+      "sourceId": "19803",
+      "variantIds": [],
+      "sha256": "d655ab19b34634e13a809099d95ce0ef9b1e8c5abf0ea456b1cff7301f79e718"
+    },
+    {
+      "path": "assets/20472-19804.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19804-large_default/camiseta-manga-larga-nino-nata.jpg",
+      "alt": "Camiseta manga larga niño Nata",
+      "sourceId": "19804",
+      "variantIds": [],
+      "sha256": "142a107011e34929b9454c3a762a33c62e3a3f6f068467b6a336e316e01333d6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:26.668Z",
+  "issues": []
+}

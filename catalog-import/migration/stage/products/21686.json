@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "21686",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21686-pantalon-algodon-nino-verde.html",
+  "name": "Pantalón algodón niño Verde",
+  "brand": "Chicco",
+  "sku": "2601012",
+  "description": "Pantalón de niño Chicco en color verde, confeccionado en algodón suave. Cómodo y práctico, con cintura elástica y cordón ajustable. Combina con sudadera y camiseta a juego para un conjunto completo.",
+  "details": "Este pantalón de niño Chicco está diseñado para ofrecer comodidad y libertad de movimiento en el día a día. Confeccionado en algodón suave, resulta agradable al tacto y perfecto para acompañar al niño durante todo el día.\n\nPresenta cintura elástica con cordón ajustable, que garantiza un ajuste cómodo y seguro, además de puños elásticos en el bajo para un mejor asentamiento. Su color verde, actual y fácil de combinar, lo convierte en una prenda versátil tanto para looks casuales como sport.\n\nEste pantalón combina con la sudadera y la camiseta a juego, permitiendo crear un conjunto completo Chicco, ideal para entretiempo, colegio o tiempo libre.\n\nCaracterísticas destacadas:\n\n\n\n\n\nPantalón para niño\n\n\n\n\nAlgodón suave y confortable\n\n\n\n\nCintura elástica con cordón ajustable\n\n\n\n\nPuños elásticos en el bajo\n\n\n\n\nColor verde, combinable y actual\n\n\n\n\nCorte cómodo para uso diario\n\n\n\n\nSudadera y camiseta a juego disponibles\n\n\n\n\nMarca Chicco\n\n\n\n\nComposición: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Este <strong>pantalón de niño Chicco</strong> está diseñado para ofrecer comodidad y libertad de movimiento en el día a día. Confeccionado en <strong>algodón suave</strong>, resulta agradable al tacto y perfecto para acompañar al niño durante todo el día.</p>\n<p>Presenta <strong>cintura elástica con cordón ajustable</strong>, que garantiza un ajuste cómodo y seguro, además de <strong>puños elásticos en el bajo</strong> para un mejor asentamiento. Su <strong>color verde</strong>, actual y fácil de combinar, lo convierte en una prenda versátil tanto para looks casuales como sport.</p>\n<p>Este pantalón <strong>combina con la sudadera y la camiseta a juego</strong>, permitiendo crear un <strong>conjunto completo Chicco</strong>, ideal para entretiempo, colegio o tiempo libre.</p>\n<p><strong>Características destacadas:</strong></p>\n<p></p>\n<ul>\n<li>\n<p>Pantalón para niño</p>\n</li>\n<li>\n<p>Algodón suave y confortable</p>\n</li>\n<li>\n<p>Cintura elástica con cordón ajustable</p>\n</li>\n<li>\n<p>Puños elásticos en el bajo</p>\n</li>\n<li>\n<p>Color verde, combinable y actual</p>\n</li>\n<li>\n<p>Corte cómodo para uso diario</p>\n</li>\n<li>\n<p><strong>Sudadera y camiseta a juego disponibles</strong></p>\n</li>\n<li>\n<p>Marca Chicco</p>\n</li>\n</ul>\n<p>Composición: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-04 12:24:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "98917",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601012",
+      "productSku": "2601012",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:45.211Z"
+    },
+    {
+      "id": "98918",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601012",
+      "productSku": "2601012",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:47.104Z"
+    },
+    {
+      "id": "98920",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601012",
+      "productSku": "2601012",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:49.270Z"
+    },
+    {
+      "id": "98921",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2601012",
+      "productSku": "2601012",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:51.912Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21686-20373.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20373-large_default/pantalon-algodon-nino-verde.jpg",
+      "alt": "Pantalón algodón niño Verde",
+      "sourceId": "20373",
+      "variantIds": [],
+      "sha256": "09bac6a167e0051e1ca8ca358446cff681c60ec7d90ba2e50441033cc620ac8b"
+    },
+    {
+      "path": "assets/21686-20374.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20374-large_default/pantalon-algodon-nino-verde.jpg",
+      "alt": "Pantalón algodón niño Verde",
+      "sourceId": "20374",
+      "variantIds": [],
+      "sha256": "fbef6be8d0cd646415be0d7d25024109df36a5af4df04595cc6d57cf66be4c18"
+    },
+    {
+      "path": "assets/21686-20375.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20375-large_default/pantalon-algodon-nino-verde.jpg",
+      "alt": "Pantalón algodón niño Verde",
+      "sourceId": "20375",
+      "variantIds": [],
+      "sha256": "286ceecc4ad4bd7883a2e471479526c6f877c7ee301c65b90d9c0adfaae83893"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:52.105Z",
+  "issues": []
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "9570",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/9570-conjunto-nino-verano-camisa-pantalon-blanco.html",
+  "name": "Conjunto niño verano camisa pantalon Blanco",
+  "brand": "Babybol",
+  "sku": "2203081",
+  "description": "¡Dale vida al guardarropa de tu pequeño con este Conjunto de Verano Camisa Pantalón Blanco para niño! Hecho con materiales de alta calidad, este conjunto asegura frescura y comodidad durante toda la jornada estival. La camisa de vivos colores y el pantalón blanco dan un toque de estilo sin igual, ideal para capturar los momentos más desenfadados y alegres del verano. ¿No sería adorable verle exprimiendo al máximo cada momento, luciendo elegante e impecable? ¡Dale ese gusto! Es la elección perfecta para añadir un toque de elegancia a cualquier ocasión este verano. ¡No lo pienses más, agrégalo a tu carrito de compra ahora!",
+  "details": "Sofisticado y Fresco Conjunto para Niño\n\nEste elegante conjunto de verano para niños cuenta con una camisa blanca y pantalón, ambos confeccionados con materiales de la más alta calidad que aseguran durabilidad y resistencia. Combina tu encanto con la comodidad de la temporada estival.\n\nComodidad que Atrapa en cada Uso\n\nEl algodón suave y transpirable hace de este conjunto el auténtico tesoro del verano. Los niños merecen sentirse cómodos y frescos mientras disfrutan del sol y el aire libre. Este conjunto promete aventuras frescas y sin restricciones.\n\nDiseño Puro y Versátil\n\nEl blanco es el color de la pureza y la elegancia - perfecto para resaltar en cualquier ocasión. El diseño minimalista de este conjunto asegura su versatilidad. Es fácil de combinar con otros accesorios y prendas, haciendo del vestir una tarea sin complicaciones.\n\nNo dejes pasar la oportunidad de darle a tu pequeño lo mejor. ¡Compra ya este atractivo conjunto de verano para niños y permite que disfrute del verano de la manera más elegante y cómoda!\n\nComposición:\n\nCamisa: 100% algodón.\n\nPantalón: 100% algodoón.\n\nHECHO EN INDIA",
+  "sourceDescriptionHtml": "<h2>Sofisticado y Fresco Conjunto para Niño</h2>\n<p>Este elegante conjunto de verano para niños cuenta con una camisa blanca y pantalón, ambos confeccionados con materiales de la más alta calidad que aseguran durabilidad y resistencia. Combina tu encanto con la comodidad de la temporada estival.</p>\n<h3>Comodidad que Atrapa en cada Uso</h3>\n<p>El algodón suave y transpirable hace de este conjunto el auténtico tesoro del verano. Los niños merecen sentirse cómodos y frescos mientras disfrutan del sol y el aire libre. Este conjunto promete aventuras frescas y sin restricciones.</p>\n<h4>Diseño Puro y Versátil</h4>\n<p>El blanco es el color de la pureza y la elegancia - perfecto para resaltar en cualquier ocasión. El diseño minimalista de este conjunto asegura su versatilidad. Es fácil de combinar con otros accesorios y prendas, haciendo del vestir una tarea sin complicaciones.</p>\n<p style=\"font-weight:bold;\">No dejes pasar la oportunidad de darle a tu pequeño lo mejor. ¡Compra ya este atractivo conjunto de verano para niños y permite que disfrute del verano de la manera más elegante y cómoda!</p>\n<p>Composición:</p>\n<p>Camisa: 100% algodón.</p>\n<p>Pantalón: 100% algodoón.</p>\n<p><strong>HECHO EN INDIA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 20,
+  "oldPrice": 39.9905,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69550",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2203081",
+      "productSku": "2203081",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": 39.9905,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:18.878Z"
+    },
+    {
+      "id": "69551",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2203081",
+      "productSku": "2203081",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": 39.9905,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:23.304Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9570-7791.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7791-large_default/conjunto-nino-verano-camisa-pantalon-blanco.jpg",
+      "alt": "Conjunto niño verano camisa pantalon Blanco",
+      "sourceId": "7791",
+      "variantIds": [],
+      "sha256": "c3490536106e43bce44602f9d937c14167438f85492015b908b88720003600b2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:23.388Z",
+  "issues": []
+}

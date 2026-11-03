@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "16759",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/16759-pepito-con-velcro-azul-celeste.html",
+  "name": "Pepito con velcro Azul celeste",
+  "brand": "Mayoral",
+  "sku": "2301056",
+  "description": "¡Descubre el 'Pepito con velcro Azul celeste'! Una delicia para los pies pequeños, creada para brindar comodidad y estilo. Diseñado con amor, este calzado celeste evoca la inocencia y alegría de la infancia. Su práctico velcro facilita poner y quitar, ideal para niños activos. La suavidad inigualable hace que cada paso sea una caricia, mientras que su resistencia garantiza una inversión duradera. ¡Una elección perfecta para esos momentos memorables! Adquiere el 'Pepito con velcro Azul celeste' y lleva a casa un trotamundos perfecto para las aventuras de tu pequeño.",
+  "details": "Confort Inigualable\n\nDescubra la suavidad y confort inigualable de los zapatos Pepito con Velcro en azul celeste. Diseñados pensando en los más pequeños, cada detalle ha sido cuidadosamente pensado para proporcionar un ajuste cómodo y seguro. Sus pequeños pies están protegidos y abrazados en todo momento.\n\nEstilo que Cautiva\n\nLos zapatos Pepito con Velcro en azul celeste no solo son cómodos, sino también elegantes. Con su vibrante tono azul celeste y su diseño de Velcro fácil de usar, estos zapatos realzarán cualquier atuendo de su hijo, brindando un aspecto fresco y encantador.\n\nInsuperable Durabilidad\n\nHechos para durar, los zapatos Pepito con Velcro en azul celeste están confeccionados con materiales de alta calidad que resisten el tiempo y el uso. A pesar del juego rudo, estos zapatos mantendrán su forma y lucirán tan geniales como el día que los compró.\n\nNo pierda un minuto más y dote a su pequeño con la comodidad y el estilo que merece. ¡Dele hoy mismo los zapatos Pepito con Velcro en azul celeste y observe cómo su rostro se ilumina con felicidad!",
+  "sourceDescriptionHtml": "<h2>Confort Inigualable</h2>\n<p>Descubra la suavidad y confort inigualable de los zapatos Pepito con Velcro en azul celeste. Diseñados pensando en los más pequeños, cada detalle ha sido cuidadosamente pensado para proporcionar un ajuste cómodo y seguro. Sus pequeños pies están protegidos y abrazados en todo momento.</p>\n<h2>Estilo que Cautiva</h2>\n<p>Los zapatos Pepito con Velcro en azul celeste no solo son cómodos, sino también elegantes. Con su vibrante tono azul celeste y su diseño de Velcro fácil de usar, estos zapatos realzarán cualquier atuendo de su hijo, brindando un aspecto fresco y encantador.</p>\n<h2>Insuperable Durabilidad</h2>\n<p>Hechos para durar, los zapatos Pepito con Velcro en azul celeste están confeccionados con materiales de alta calidad que resisten el tiempo y el uso. A pesar del juego rudo, estos zapatos mantendrán su forma y lucirán tan geniales como el día que los compró.</p>\n<p>No pierda un minuto más y dote a su pequeño con la comodidad y el estilo que merece. ¡Dele hoy mismo los zapatos Pepito con Velcro en azul celeste y observe cómo su rostro se ilumina con felicidad!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-08-14 15:53:17",
+  "sourceUpdatedAt": "2026-10-27 11:12:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "262",
+          "label": "19"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88793",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "2301056",
+      "productSku": "2301056",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:11.320Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16759-15637.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15637-large_default/pepito-con-velcro-azul-celeste.jpg",
+      "alt": "Pepito con velcro Azul celeste",
+      "sourceId": "15637",
+      "variantIds": [],
+      "sha256": "3ab8076d00ec303a2dd784e13636897b36cb2107610f1b3f5452ed5b68485e72"
+    },
+    {
+      "path": "assets/16759-15638.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15638-large_default/pepito-con-velcro-azul-celeste.jpg",
+      "alt": "Pepito con velcro Azul celeste",
+      "sourceId": "15638",
+      "variantIds": [],
+      "sha256": "5dbd50562c135ec826802e807c8eea74587dba55bf3e10d05c215f4a867c9141"
+    },
+    {
+      "path": "assets/16759-15639.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15639-large_default/pepito-con-velcro-azul-celeste.jpg",
+      "alt": "Pepito con velcro Azul celeste",
+      "sourceId": "15639",
+      "variantIds": [],
+      "sha256": "86d823b95bacc24e85f48b8f5e18d1415959addbc366e865695152d4ebde9804"
+    },
+    {
+      "path": "assets/16759-15640.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15640-large_default/pepito-con-velcro-azul-celeste.jpg",
+      "alt": "Pepito con velcro Azul celeste",
+      "sourceId": "15640",
+      "variantIds": [],
+      "sha256": "fa182fe4c54f98f7fb0ba4ad29814cbdf7be3397250ee76303416941069dab69"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:11.525Z",
+  "issues": []
+}

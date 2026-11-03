@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "21889",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/21889-conjunto-nino-camisa-algodon-verano-verde.html",
+  "name": "Conjunto niño camisa algodón verano Verde",
+  "brand": "Calamaro",
+  "sku": "2601086",
+  "description": "Conjunto de verano para niño de la marca Calamaro, confeccionado en 100% algodón. Incluye camiseta en tono crudo con botones y bermuda verde con estampado de palmeras. Ligero, fresco y cómodo para el día a día.",
+  "details": "Este conjunto de niño de verano de la firma Calamaro es una opción ideal para los días más cálidos. Confeccionado en 100% algodón, garantiza suavidad, transpirabilidad y máximo confort para el uso diario.\n\nLa parte superior es una camiseta en tono crudo, con diseño minimalista y cierre frontal con botones, que aporta un estilo natural y elegante. Se combina con una bermuda verde con estampado de palmeras, cintura elástica y cordón ajustable, perfecta para asegurar comodidad y libertad de movimiento.\n\nUn conjunto versátil, fresco y fácil de combinar, ideal tanto para looks informales como para ocasiones especiales de verano.\n\nCaracterísticas:\n\n\nMarca: Calamaro\n\nConfección: 100% algodón\n\nCamiseta en color crudo con botones\n\nBermuda verde con estampado de palmeras\n\nCintura elástica con cordón ajustable\n\nTejido ligero y transpirable\n\nComposición conjunto:  100% algodón.\n\n\nPerfecto para quienes buscan ropa de niño cómoda, fresca y con estilo para la temporada de verano.",
+  "sourceDescriptionHtml": "<p>Este <strong>conjunto de niño de verano</strong> de la firma <strong>Calamaro</strong> es una opción ideal para los días más cálidos. Confeccionado en <strong>100% algodón</strong>, garantiza suavidad, transpirabilidad y máximo confort para el uso diario.</p>\n<p>La parte superior es una camiseta en tono crudo, con diseño minimalista y cierre frontal con botones, que aporta un estilo natural y elegante. Se combina con una <strong>bermuda verde</strong> con estampado de palmeras, cintura elástica y cordón ajustable, perfecta para asegurar comodidad y libertad de movimiento.</p>\n<p>Un conjunto versátil, fresco y fácil de combinar, ideal tanto para looks informales como para ocasiones especiales de verano.</p>\n<p><strong>Características:</strong></p>\n<ul>\n<li>Marca: Calamaro</li>\n<li>Confección: 100% algodón</li>\n<li>Camiseta en color crudo con botones</li>\n<li>Bermuda verde con estampado de palmeras</li>\n<li>Cintura elástica con cordón ajustable</li>\n<li>Tejido ligero y transpirable</li>\n<li>Composición conjunto: <strong> 100% algodón.</strong></li>\n</ul>\n<p>Perfecto para quienes buscan <strong>ropa de niño cómoda, fresca y con estilo</strong> para la temporada de verano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 34.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-17 15:56:59",
+  "sourceUpdatedAt": "2026-10-27 11:15:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100235",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2601086",
+      "productSku": "2601086",
+      "taxRate": 21,
+      "price": 34.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:00.855Z"
+    },
+    {
+      "id": "100236",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601086",
+      "productSku": "2601086",
+      "taxRate": 21,
+      "price": 34.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:04.588Z"
+    },
+    {
+      "id": "100237",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601086",
+      "productSku": "2601086",
+      "taxRate": 21,
+      "price": 34.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:09.225Z"
+    },
+    {
+      "id": "100238",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2601086",
+      "productSku": "2601086",
+      "taxRate": 21,
+      "price": 34.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:11.892Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21889-20803.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20803-large_default/conjunto-nino-camisa-algodon-verano-verde.jpg",
+      "alt": "Camisa en algodón beige para niño verano",
+      "sourceId": "20803",
+      "variantIds": [],
+      "sha256": "95f36fa5161b11e0af7ac393d489c2c0ea11569d5c03d26aa23394910a8dcf2e"
+    },
+    {
+      "path": "assets/21889-20805.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20805-large_default/conjunto-nino-camisa-algodon-verano-verde.jpg",
+      "alt": "Bermuda niño verde con estampado de palmeras y cordón ajustable",
+      "sourceId": "20805",
+      "variantIds": [],
+      "sha256": "4cb470f5c99df8cfef53ab7c8a6d3012c05c047779fc10f6ad314aa8d1a279e1"
+    },
+    {
+      "path": "assets/21889-20806.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20806-large_default/conjunto-nino-camisa-algodon-verano-verde.jpg",
+      "alt": "Conjunto niño verano algodón verde Calamaro con bermuda de palmeras",
+      "sourceId": "20806",
+      "variantIds": [],
+      "sha256": "8b6e9d15d754a254744938353a7fa1f1dc5c0687d6dfff8c7fd370ddb0f431cc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:12.654Z",
+  "issues": []
+}

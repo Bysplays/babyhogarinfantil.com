@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "16248",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/16248-pantalon-corto-nino-sarga-verde.html",
+  "name": "Pantalón corto niño Sarga Verde",
+  "brand": "Katuco",
+  "sku": "1703136",
+  "description": "Pantalón bermuda sarga elástico.",
+  "details": "Composición:\n\nPantalón: 98% algodón, 2% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pantalón: 98% algodón, 2% elastano.</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2017",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 9.99,
+  "oldPrice": 16.9521,
+  "new": false,
+  "sourceAddedAt": "2023-05-04 00:24:25",
+  "sourceUpdatedAt": "2026-10-27 11:09:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72750",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "1703136",
+      "productSku": "1703136",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": 16.9521,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:01.851Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16248-13992.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13992-large_default/pantalon-corto-nino-sarga-verde.jpg",
+      "alt": "Pantalón corto niño Sarga Verde",
+      "sourceId": "13992",
+      "variantIds": [],
+      "sha256": "a6c58ba6f311da59ae13488a1d9c0bcff179ab2c51a9b8003fa166a2dd819dcf"
+    },
+    {
+      "path": "assets/16248-13993.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13993-large_default/pantalon-corto-nino-sarga-verde.jpg",
+      "alt": "Pantalón corto niño Sarga Verde",
+      "sourceId": "13993",
+      "variantIds": [],
+      "sha256": "6b1fca29357369af1fd49d5ff68e7891dd08d3ce99d17dac11f3f1be2617481a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:02.004Z",
+  "issues": []
+}

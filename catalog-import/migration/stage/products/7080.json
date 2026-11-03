@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "7080",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/7080-conjunto-nino-ceremonia-beige.html",
+  "name": "Conjunto niño ceremonia Beige",
+  "brand": "Kiriki",
+  "sku": "1801133",
+  "description": "Conjunto para ceremonia. Camisa manga corta en hilo, con cuello maho. Pantalón totalmente forrado en el interior con goma en cintura. Incluye fajín. Disponibles vestidos y conjuntos de bebé a juego para que todos vayan iguales ese día especial.",
+  "details": "Composición:\n\nCamisa: 100% Poliester.\n\nPantalón: 100% Poliester.\n\nSE PUEDE METER EN SECADORA.\n\nNO USAR LEJIAS.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Camisa: 100% Poliester.</p>\n<p>Pantalón: 100% Poliester.</p>\n<p>SE PUEDE METER EN SECADORA.</p>\n<p>NO USAR LEJIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824",
+    "825",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 34.48,
+  "oldPrice": 68.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64965",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1801133",
+      "productSku": "1801133",
+      "taxRate": 21,
+      "price": 34.48,
+      "oldPrice": 68.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:24.155Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7080-4992.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4992-large_default/conjunto-nino-ceremonia-beige.jpg",
+      "alt": "Conjunto niño ceremonia Beige",
+      "sourceId": "4992",
+      "variantIds": [],
+      "sha256": "339b9419dd0d4ac91e7e05b99ea5bccfb93ec30c13df49346acec81b6dc05953"
+    },
+    {
+      "path": "assets/7080-9945.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9945-large_default/conjunto-nino-ceremonia-beige.jpg",
+      "alt": "Conjunto niño ceremonia Beige",
+      "sourceId": "9945",
+      "variantIds": [],
+      "sha256": "339b9419dd0d4ac91e7e05b99ea5bccfb93ec30c13df49346acec81b6dc05953"
+    },
+    {
+      "path": "assets/7080-4991.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4991-large_default/conjunto-nino-ceremonia-beige.jpg",
+      "alt": "Conjunto niño ceremonia Beige",
+      "sourceId": "4991",
+      "variantIds": [],
+      "sha256": "cc98cfc8885d3eed8e57134f3108da62c7e9ba85cf683b3a6c7f05d68ad34fb7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:24.330Z",
+  "issues": []
+}

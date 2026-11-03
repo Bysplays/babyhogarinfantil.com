@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8339",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8339-lazo-mediano-con-pinza-coral.html",
+  "name": "Lazo mediano con pinza Coral",
+  "brand": "Siena",
+  "sku": "2007019",
+  "description": "Lazo de 8 x 5,5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox.\n\nHECHO A MANO.\n\nHECHO EN ESPAÑA.",
+  "details": "Una explosión de color con estilo\n\nEl Lazo mediano con pinza Coral ofrece una hermosa tonalidad, optimizada para resaltar en el cabello de los más pequeños. Este atractivo accesorio promete dar un toque de color único a su atuendo. Perfecto para cualquier ocasión, desde una jovial fiesta de disfraces hasta el elegante día a día.\n\nMateriales de calidad insuperable\n\nHecho con excelencia, el Lazo mediano con pinza Coral garantiza durabilidad y confort. Suave al tacto, el lazo ha sido fabricado con los más finos materiales, demostrando resistencia a los desgastes de uso regular. Una lujosa mezcla de belleza y resistencia, prometiendo durar tanto como los adorables momentos que acompañará.\n\nLa unión perfecta de elegancia y practicidad\n\nEste accesorio está diseñado para ser tan práctico como estiloso. El Lazo mediano con pinza Coral posee un cierre seguro y resistente que, al mismo tiempo, es delicado con el cabello, impidiendo tirones incómodos. La forma perfecta de mantener elegante y ordenado el pelo de su pequeño tesoro, sin sacrificar confort.\n\nDele color y estilo a la vida de su pequeño con el Lazo mediano con pinza Coral. Agregue al carrito de compras y prepárese para ver los ojos de su niño llenos de alegría al recibir este encantador accesorio.",
+  "sourceDescriptionHtml": "<h2>Una explosión de color con estilo</h2>\n<p>El Lazo mediano con pinza Coral ofrece una hermosa tonalidad, optimizada para resaltar en el cabello de los más pequeños. Este atractivo accesorio promete dar un toque de color único a su atuendo. Perfecto para cualquier ocasión, desde una jovial fiesta de disfraces hasta el elegante día a día.</p>\n<h2>Materiales de calidad insuperable</h2>\n<p>Hecho con excelencia, el Lazo mediano con pinza Coral garantiza durabilidad y confort. Suave al tacto, el lazo ha sido fabricado con los más finos materiales, demostrando resistencia a los desgastes de uso regular. Una lujosa mezcla de belleza y resistencia, prometiendo durar tanto como los adorables momentos que acompañará.</p>\n<h2>La unión perfecta de elegancia y practicidad</h2>\n<p>Este accesorio está diseñado para ser tan práctico como estiloso. El Lazo mediano con pinza Coral posee un cierre seguro y resistente que, al mismo tiempo, es delicado con el cabello, impidiendo tirones incómodos. La forma perfecta de mantener elegante y ordenado el pelo de su pequeño tesoro, sin sacrificar confort.</p>\n<p>Dele color y estilo a la vida de su pequeño con el Lazo mediano con pinza Coral. Agregue al carrito de compras y prepárese para ver los ojos de su niño llenos de alegría al recibir este encantador accesorio.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Coral",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146680",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8051XA14318",
+      "productSku": "2007019",
+      "taxRate": 21,
+      "price": 2.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:37.866Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8339-8228.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8228-large_default/lazo-mediano-con-pinza-coral.jpg",
+      "alt": "Lazo mediano con pinza Coral",
+      "sourceId": "8228",
+      "variantIds": [],
+      "sha256": "361402f4ca5807070d51aa6a3b6f3a71ada745c8fe9a3f3c0d590a169ed58ddd"
+    },
+    {
+      "path": "assets/8339-8229.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8229-large_default/lazo-mediano-con-pinza-coral.jpg",
+      "alt": "Lazo mediano con pinza Coral",
+      "sourceId": "8229",
+      "variantIds": [],
+      "sha256": "ac959540d36cd1fa2be4ec35eee59b1f3f7d698eda1776f3b07ec99be31ea000"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:37.991Z",
+  "issues": []
+}

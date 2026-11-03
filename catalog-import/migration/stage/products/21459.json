@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "21459",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/21459-pantalon-largo-felpa-botones-marron.html",
+  "name": "Pantalón largo felpa botones Marrón",
+  "brand": "Chicco",
+  "sku": "2502098",
+  "description": "Pantalón largo en algodón, con felpa interior para que sea cálido. Tallas para bebé. Cintura de goma botones decorativos. Bolsillo funcional en la pierna. Cómodo y práctico\n\npara todos los días.\n\nDisponible la sudadera a juego.",
+  "details": "Composición:\n\nPantalón: 95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Pantalón:</strong> 95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marrón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96612",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502098",
+      "productSku": "2502098",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:49.462Z"
+    },
+    {
+      "id": "96615",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502098",
+      "productSku": "2502098",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:50.642Z"
+    },
+    {
+      "id": "96613",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502098",
+      "productSku": "2502098",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:51.747Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21459-19971.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19971-large_default/pantalon-largo-felpa-botones-marron.jpg",
+      "alt": "Pantalón largo felpa botones Marrón",
+      "sourceId": "19971",
+      "variantIds": [],
+      "sha256": "48c365721b4c66826bc2de68f713334b84bfcab908995668e06af358daa7db54"
+    },
+    {
+      "path": "assets/21459-19972.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19972-large_default/pantalon-largo-felpa-botones-marron.jpg",
+      "alt": "Pantalón largo felpa botones Marrón",
+      "sourceId": "19972",
+      "variantIds": [],
+      "sha256": "2a31c0cccaaa565f640edc420a023d058651ab6b1672cd820a5f2493848418d3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:51.871Z",
+  "issues": []
+}

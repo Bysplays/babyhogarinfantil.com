@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "21829",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-el-castro-vigo/21829-sudadera-infantil-el-castro-azul.html",
+  "name": "Sudadera infantíl El Castro Azul",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2601134",
+  "description": "Sudadera para el uniforme de infantil del colegio EL Castro de Vigo. Comprando el chándal completo sudadera+pantalón largo disfruta de un descuento especial. Puedes elegir tallas diferentes de cada prenda.",
+  "details": "Composición sudadera:\n\n50% algodón, 50% poliéster",
+  "sourceDescriptionHtml": "<p>Composición sudadera:</p>\n<p>50% algodón, 50% poliéster</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "893"
+  ],
+  "sourceDefaultCategoryId": "893",
+  "sourceCategoryName": "Colegio El Castro Vigo",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-05 15:53:41",
+  "sourceUpdatedAt": "2026-10-26 19:38:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 35,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "129334",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2601134",
+      "productSku": "2601134",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:36.064Z"
+    },
+    {
+      "id": "129335",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2601134",
+      "productSku": "2601134",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:38.337Z"
+    },
+    {
+      "id": "129336",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2601134",
+      "productSku": "2601134",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:42.378Z"
+    },
+    {
+      "id": "129337",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2601134",
+      "productSku": "2601134",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:44.736Z"
+    },
+    {
+      "id": "129338",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601134",
+      "productSku": "2601134",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:46.881Z"
+    },
+    {
+      "id": "129339",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601134",
+      "productSku": "2601134",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:49.038Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21829-21232.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21232-large_default/sudadera-infantil-el-castro-azul.jpg",
+      "alt": "Sudadera infantil azul colegio El Castro",
+      "sourceId": "21232",
+      "variantIds": [],
+      "sha256": "9f86fbe05e895bb6226bf02696fad41ad100a345db602c896638423807d34129"
+    },
+    {
+      "path": "assets/21829-21278.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21278-large_default/sudadera-infantil-el-castro-azul.jpg",
+      "alt": "Sudadera infantil azul colegio El Castro vista trasera",
+      "sourceId": "21278",
+      "variantIds": [],
+      "sha256": "f561b6a3e27afd2060864a6898a40e43d0d0fa645cd2b7be14f82a8032b7ccb7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:31:49.173Z",
+  "issues": []
+}

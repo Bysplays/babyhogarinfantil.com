@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "19008",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/19008-conjunto-tirantes-zorritos-verde.html",
+  "name": "Conjunto tirantes zorritos Verde",
+  "brand": "Baby-Ferr",
+  "sku": "2402139",
+  "description": "Este conjunto verde con tirantes combina estilo, comodidad y versatilidad. Perfecto para el otoño e invierno, su diseño atemporal y detalles de alta calidad lo convierten en una opción ideal para cualquier ocasión especial. ¡Haz que tu pequeño luzca adorable y a la moda con esta prenda única!\n\n¡No esperes más y añade este encantador conjunto a tu carrito de compras hoy mismo!",
+  "details": "Estilo y Comodidad para el Invierno\n\nEste conjunto verde con tirantes es la elección perfecta para mantener a tu pequeño abrigado y a la moda durante el invierno. Confeccionado con materiales de alta calidad, garantiza la comodidad y el bienestar de tu bebé durante todo el día. Su diseño elegante y funcional permite que tu hijo se mueva libremente mientras luce adorable en cualquier ocasión.\n\nDiseño Versátil y Atemporal\n\nEl conjunto es una prenda versátil que se adapta a diferentes actividades y eventos. Ideal para el otoño e invierno, su tejido suave y cálido mantiene a tu bebé abrigado sin sacrificar el estilo. Además, el color verde añade un toque de frescura y originalidad, convirtiéndolo en una pieza atemporal que nunca pasa de moda.\n\nDetalles que Marcan la Diferencia\n\nCada detalle de este conjunto ha sido cuidadosamente pensado para ofrecer lo mejor en moda infantil. Los acabados de alta calidad y el diseño ergonómico aseguran un ajuste perfecto y cómodo. Los botones y tirantes decorativos no solo añaden un toque de elegancia, sino que también facilitan el proceso de vestir y desvestir a tu bebé, haciendo de este conjunto una prenda práctica y encantadora.",
+  "sourceDescriptionHtml": "<h3>Estilo y Comodidad para el Invierno</h3>\n<p>Este conjunto verde con <strong>tirantes</strong> es la elección perfecta para mantener a tu pequeño abrigado y a la moda durante el <strong>invierno</strong>. Confeccionado con materiales de alta calidad, garantiza la <strong>comodidad</strong> y el <strong>bienestar</strong> de tu bebé durante todo el día. Su diseño elegante y funcional permite que tu hijo se mueva libremente mientras luce adorable en cualquier ocasión.</p>\n<h3>Diseño Versátil y Atemporal</h3>\n<p>El conjunto es una prenda versátil que se adapta a diferentes actividades y eventos. Ideal para el <strong>otoño</strong> e <strong>invierno</strong>, su tejido suave y cálido mantiene a tu bebé abrigado sin sacrificar el estilo. Además, el color verde añade un toque de frescura y originalidad, convirtiéndolo en una pieza atemporal que nunca pasa de moda.</p>\n<h3>Detalles que Marcan la Diferencia</h3>\n<p>Cada detalle de este conjunto ha sido cuidadosamente pensado para ofrecer lo mejor en <strong>moda infantil</strong>. Los acabados de alta calidad y el diseño ergonómico aseguran un ajuste perfecto y cómodo. Los botones y tirantes decorativos no solo añaden un toque de elegancia, sino que también facilitan el proceso de vestir y desvestir a tu bebé, haciendo de este conjunto una prenda práctica y encantadora.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 36.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-22 23:54:24",
+  "sourceUpdatedAt": "2026-10-27 11:13:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88229",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2402139",
+      "productSku": "2402139",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:15.813Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19008-17544.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17544-large_default/conjunto-tirantes-zorritos-verde.jpg",
+      "alt": "Conjunto tirantes zorritos Verde",
+      "sourceId": "17544",
+      "variantIds": [],
+      "sha256": "ee10f8c58daf39df03dcba83523d1a4b427b56dfedb3b7c115c405818351e7f8"
+    },
+    {
+      "path": "assets/19008-17546.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17546-large_default/conjunto-tirantes-zorritos-verde.jpg",
+      "alt": "Conjunto tirantes zorritos Verde",
+      "sourceId": "17546",
+      "variantIds": [],
+      "sha256": "0f9a86285e4b67115fcf8d710517da5cdc7da39c8029a3906c636f633a81ae38"
+    },
+    {
+      "path": "assets/19008-17545.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17545-large_default/conjunto-tirantes-zorritos-verde.jpg",
+      "alt": "Conjunto tirantes zorritos Verde",
+      "sourceId": "17545",
+      "variantIds": [],
+      "sha256": "558926e1dc5e2ebae48e57085d77b9d3adaf2cd19b2c9f57d7579666c7046965"
+    },
+    {
+      "path": "assets/19008-17543.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17543-large_default/conjunto-tirantes-zorritos-verde.jpg",
+      "alt": "Conjunto tirantes zorritos Verde",
+      "sourceId": "17543",
+      "variantIds": [],
+      "sha256": "111fba6bba5666d7c9cfbb9fd4a14423e687d58e01cfdc9883eabd3bace08e3c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:16.032Z",
+  "issues": []
+}

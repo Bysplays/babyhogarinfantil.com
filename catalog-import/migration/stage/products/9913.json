@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9913",
+  "sourceUrl": "https://babyhogarinfantil.com/anoraks-y-chalecos/9913-chaleco-con-forro-polar-verde.html",
+  "name": "Chaleco con forro polar Verde",
+  "brand": "Zippy",
+  "sku": "2208026",
+  "description": "Enfrenta el frío con estilo con el \"Chaleco con forro polar Verde\". Este pequeño abriguito es ideal para mantener a los pequeños calientes sin restringir su movilidad. Hecho con polar suave al tacto, este chaleco verde es una adición brillante y alegre al guardarropa de cualquier niño. Su estructura ligera y suave lo hace cómodo para el uso diario y el juego al aire libre. Es más que un simple chaleco, es confianza y comodidad para esos preciosos momentos al aire libre.",
+  "details": "Abraza el invierno con estilo y comodidad con el Chaleco con forro polar Verde. Este chaleco, repleto de detalles elegantes y un forro polar ultra suave, es esencial para cualquier armario infantil durante los meses de frío. El diseño chic verde menta es perfecto para lograr un aspecto desenfadado pero sofisticado.\n\n\n\nEl Chaleco con forro polar Verde está confeccionado con materiales de primera calidad para garantizar la durabilidad y resistencia a las manchas. El forro polar esponjoso proporcionará el calor necesario sin comprometer el estilo o el confort. Este chaleco es un ejemplo perfecto de la calidad excepcional\n\n\n\nEste atemporal Chaleco con forro polar Verde es ideal tanto para un día de parque como para el colegio. Su práctico diseño con cremallera facilita su uso a los más pequeños. Con este chaleco, tu pequeño estará siempre a la moda, y además podrá disfrutar de la máxima comodidad gracias a la suavidad de su forro polar.\n\n\n\n¡No esperes más para sumar este Chaleco con forro polar Verde al armario de tus pequeños! Ofrece a tus niños la combinación perfecta de estilo, comodidad y calidez que merecen.",
+  "sourceDescriptionHtml": "<p>Abraza el invierno con estilo y comodidad con el Chaleco con forro polar Verde. Este chaleco, repleto de detalles elegantes y un forro polar ultra suave, es esencial para cualquier armario infantil durante los meses de frío. El diseño chic verde menta es perfecto para lograr un aspecto desenfadado pero sofisticado.</p>\n\n<!-- Subtitle: Calidad Superior -->\n<p>El Chaleco con forro polar Verde está confeccionado con materiales de primera calidad para garantizar la durabilidad y resistencia a las manchas. El forro polar esponjoso proporcionará el calor necesario sin comprometer el estilo o el confort. Este chaleco es un ejemplo perfecto de la calidad excepcional</p>\n\n<!-- Subtitle: Estilo para Todas las Estaciones -->\n<p>Este atemporal Chaleco con forro polar Verde es ideal tanto para un día de parque como para el colegio. Su práctico diseño con cremallera facilita su uso a los más pequeños. Con este chaleco, tu pequeño estará siempre a la moda, y además podrá disfrutar de la máxima comodidad gracias a la suavidad de su forro polar.</p>\n\n<!-- Call to action -->\n<p>¡No esperes más para sumar este Chaleco con forro polar Verde al armario de tus pequeños! Ofrece a tus niños la combinación perfecta de estilo, comodidad y calidez que merecen.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "749",
+  "sourceCategoryName": "Anoraks y Chalecos",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70384",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2208026",
+      "productSku": "2208026",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:43.291Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9913-8038.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8038-large_default/chaleco-con-forro-polar-verde.jpg",
+      "alt": "Chaleco con forro polar Verde",
+      "sourceId": "8038",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9913-8912.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8912-large_default/chaleco-con-forro-polar-verde.jpg",
+      "alt": "Chaleco con forro polar Verde",
+      "sourceId": "8912",
+      "variantIds": [],
+      "sha256": "4a296260345dbc9c238f833f01d6959e3dcf7396a4a0ecaf2ea5f2b55777b61c"
+    },
+    {
+      "path": "assets/9913-8913.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8913-large_default/chaleco-con-forro-polar-verde.jpg",
+      "alt": "Chaleco con forro polar Verde",
+      "sourceId": "8913",
+      "variantIds": [],
+      "sha256": "c97aadaf24283dde754457546d3c81796dcc0272840b458942364268e0ecb340"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:43.462Z",
+  "issues": []
+}

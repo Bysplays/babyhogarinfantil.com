@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "6478",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/6478-pantalon-colegial-corto-gomas-de-4-a-10-azul-marino.html",
+  "name": "Pantalón colegial CORTO gomas de 4 a 10 Azul Marino",
+  "brand": "Ayapunt",
+  "sku": "1561929",
+  "description": "Pantalón colegial corto SIN BOTONES. Cintura ajustable con goma. Con tratamiento repelente al agua y a la grasa.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\n65% Poliester, 35% Viscosa.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>65% Poliester, 35% Viscosa.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "783"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 26.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:13",
+  "sourceUpdatedAt": "2026-10-27 11:08:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63662",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1561929",
+      "productSku": "1561929",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:47.039Z"
+    },
+    {
+      "id": "76876",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1561929",
+      "productSku": "1561929",
+      "taxRate": 21,
+      "price": 26,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:49.605Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6478-4440.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4440-large_default/pantalon-colegial-corto-gomas-de-4-a-10-azul-marino.jpg",
+      "alt": "Pantalón colegial CORTO gomas de 4 a 10 Azul Marino",
+      "sourceId": "4440",
+      "variantIds": [],
+      "sha256": "5dbebb728fd975574510bb155623d440bc9a28f3f70c43576d3400d0fff7e6ad"
+    },
+    {
+      "path": "assets/6478-4438.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4438-large_default/pantalon-colegial-corto-gomas-de-4-a-10-azul-marino.jpg",
+      "alt": "Pantalón colegial CORTO gomas de 4 a 10 Azul Marino",
+      "sourceId": "4438",
+      "variantIds": [],
+      "sha256": "ce73cece315e59a45c1dd3dd0e103494c010f9b94abf67c50b64e7cc0bfb7a99"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:49.773Z",
+  "issues": []
+}

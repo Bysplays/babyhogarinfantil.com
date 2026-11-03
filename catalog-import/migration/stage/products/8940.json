@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8940",
+  "sourceUrl": "https://babyhogarinfantil.com/interiores-nino/8940-pack-4-boxers-dinosaurios-varios.html",
+  "name": "Pack 4 boxers Dinosaurios Varios",
+  "brand": "Zippy",
+  "sku": "2106026",
+  "description": "Pack 4 boxer niño, estampado dinosaurios. Goma ancha en cintura. Algodón y elastano.",
+  "details": "Composición:\n\nslips: 98% algodón, 2% elastano.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>slips: 98% algodón, 2% elastano.</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "703"
+  ],
+  "sourceDefaultCategoryId": "703",
+  "sourceCategoryName": "Interiores niño",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:43",
+  "sourceUpdatedAt": "2026-10-27 11:11:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68225",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2106026",
+      "productSku": "2106026",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:16.030Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8940-11686.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11686-large_default/pack-4-boxers-dinosaurios-varios.jpg",
+      "alt": "Pack 4 boxers Dinosaurios Varios",
+      "sourceId": "11686",
+      "variantIds": [],
+      "sha256": "6a75fd88079a27082ead888cf0947992fdcc30d4853df20ae9f9768953761e39"
+    },
+    {
+      "path": "assets/8940-11687.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11687-large_default/pack-4-boxers-dinosaurios-varios.jpg",
+      "alt": "Pack 4 boxers Dinosaurios Varios",
+      "sourceId": "11687",
+      "variantIds": [],
+      "sha256": "896eb47cdbd73ebcf57f7458f8bbdbb68c6c04bc73f0ecb19db1826e60ba1462"
+    },
+    {
+      "path": "assets/8940-7251.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7251-large_default/pack-4-boxers-dinosaurios-varios.jpg",
+      "alt": "Pack 4 boxers Dinosaurios Varios",
+      "sourceId": "7251",
+      "variantIds": [],
+      "sha256": "44785d6d11149e02258c28c53a21468b136a91781e2a638bc3cb273720d77577"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:16.172Z",
+  "issues": []
+}

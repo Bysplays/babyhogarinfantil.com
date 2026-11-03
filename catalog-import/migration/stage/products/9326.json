@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "9326",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/9326-parka-bebe-nina-verano-rosa.html",
+  "name": "Parka bebe niña verano Rosa",
+  "brand": "Chicco",
+  "sku": "2201020",
+  "description": "Parka cortavientos con cierre de cremallera y capucha, en color rojo. Forrada con algodón en el interior. Tiene bolsillos. Tallas bebé e infantil.",
+  "details": "Parka estilo cortavientos de la firma CHICCO. Con cierre de cremallera oculta delantera. Tiene capucha y bolsillos. En color rojo. Acabado elástico en puños y cinturilla, para un mejor ajuste. Completamente forrado de algodón en color gris a contraste. Una prenda cómoda, ligera y perfecta para entretiempo! Echa un ojito a nuestra sección de ropa interior, calcetines y calzado y podrás completarla hasta el mínimo detalle!\n\nComposición y cuidados:\n\nParka: 100% poliéster.\n\nLAVAR A MÁQUINA (TEMPERATURA MÁXIMA 30 ºC)\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nSE PUEDE LIMPIAR EN SECO",
+  "sourceDescriptionHtml": "<p>Parka estilo cortavientos de la firma <strong>CHICCO.</strong> Con cierre de cremallera oculta delantera. Tiene capucha y bolsillos. En color rojo. Acabado elástico en puños y cinturilla, para un mejor ajuste.<strong> Completamente forrado de algodón</strong> en color gris a contraste. Una prenda cómoda, ligera y perfecta para entretiempo! Echa un ojito a nuestra sección de <strong>ropa interior, calcetines y calzado</strong> y podrás completarla hasta el mínimo detalle!</p>\n<p>Composición y cuidados:</p>\n<p>Parka: 100% poliéster.</p>\n<p>LAVAR A MÁQUINA (TEMPERATURA MÁXIMA 30 ºC)</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p>SE PUEDE LIMPIAR EN SECO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "725",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "725",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68967",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2201020",
+      "productSku": "2201020",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:40.072Z"
+    },
+    {
+      "id": "68968",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2201020",
+      "productSku": "2201020",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:42.187Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9326-7569.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7569-large_default/parka-bebe-nina-verano-rosa.jpg",
+      "alt": "Parka bebe niña verano Rosa",
+      "sourceId": "7569",
+      "variantIds": [],
+      "sha256": "5eea1acd3f5c5a93ffd35779b36454a80449d1293a86dbdf99044c96b3185b1f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:42.267Z",
+  "issues": []
+}

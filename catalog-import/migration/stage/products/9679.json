@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "9679",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/9679-camiseta-nino-verano-urban-rojo.html",
+  "name": "Camiseta niño verano URBAN Rojo",
+  "brand": "Talaman",
+  "sku": "2204077",
+  "description": "Camiseta 100% ALGODÓN, de manga corta y cuello redondo, en color rojo con estampado en el pecho.",
+  "details": "Camiseta de TALAMAN, firma nacida en 1985 experta en diseño, producción y comercialización de moda infantil. 100% ALGODÓN, de manga corta y cuello redondo, en color rojo con estampado en el pecho. Una prenda cómoda, fresquita y ligera, ideal para los días de calor! Echa un ojito a nuestras bermudas, pantalones cortos de algodón y vaqueros y podrás combinarla como más te guste! \n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Camiseta de <strong>TALAMAN</strong>, firma nacida en 1985 experta en diseño, producción y comercialización de moda infantil. <strong>100% ALGODÓN,</strong> de manga corta y cuello redondo, en color rojo con estampado en el pecho. Una prenda cómoda, fresquita y ligera, ideal para los días de calor! Echa un ojito a nuestras <strong>bermudas, pantalones cortos de algodón y vaqueros</strong> y podrás combinarla como más te guste! </p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 5,
+  "oldPrice": 9.9946,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69821",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2204077",
+      "productSku": "2204077",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:36.548Z"
+    },
+    {
+      "id": "69822",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2204077",
+      "productSku": "2204077",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:39.448Z"
+    },
+    {
+      "id": "69823",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2204077",
+      "productSku": "2204077",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:41.545Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9679-7883.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7883-large_default/camiseta-nino-verano-urban-rojo.jpg",
+      "alt": "Camiseta niño verano URBAN Rojo",
+      "sourceId": "7883",
+      "variantIds": [],
+      "sha256": "9bfa8bacbfa800b0beff7ebd8504c7b402c5c8789e786415a98b932c7554fa92"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:41.620Z",
+  "issues": []
+}

@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "7989",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/7989-calcetin-rizo-con-lanita-rosa.html",
+  "name": "Calcetín rizo con lanita Rosa",
+  "brand": "Condor",
+  "sku": "2001002",
+  "description": "Calcetín corto color ROSA, con puño vuelto de rizo con lana. Son Cálidos. Disponibles de 0 a 4 años aproximadamente.",
+  "details": "Composici&oacute;n y cuidados:\n\r\nClacet&iacute;n: 47% Lana, 44% acr&iacute;lico, 8& poliamida, 1% elastano.\n\r\nNO USAR SECADORA.\n\r\nNO USAR LEJIAS.\n\r\nNO LAVAR EN SECO.\n\r\nNO PLANCHAR.",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n y cuidados:</p>\r\n<p>Clacet&iacute;n: 47% Lana, 44% acr&iacute;lico, 8&amp; poliamida, 1% elastano.</p>\r\n<p>NO USAR SECADORA.</p>\r\n<p>NO USAR LEJIAS.</p>\r\n<p>NO LAVAR EN SECO.</p>\r\n<p>NO PLANCHAR.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 24,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66777",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "2001002",
+      "productSku": "2001002",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:53.237Z"
+    },
+    {
+      "id": "66778",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "2001002",
+      "productSku": "2001002",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:56.501Z"
+    },
+    {
+      "id": "88031",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2001002",
+      "productSku": "2001002",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:00.381Z"
+    },
+    {
+      "id": "88032",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2001002",
+      "productSku": "2001002",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:03.040Z"
+    },
+    {
+      "id": "66779",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2001002",
+      "productSku": "2001002",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:05.884Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7989-6151.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6151-large_default/calcetin-rizo-con-lanita-rosa.jpg",
+      "alt": "Calcetín rizo con lanita Rosa",
+      "sourceId": "6151",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/7989-10793.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10793-large_default/calcetin-rizo-con-lanita-rosa.jpg",
+      "alt": "Calcetín rizo con lanita Rosa",
+      "sourceId": "10793",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/7989-6152.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6152-large_default/calcetin-rizo-con-lanita-rosa.jpg",
+      "alt": "Calcetín rizo con lanita Rosa",
+      "sourceId": "6152",
+      "variantIds": [],
+      "sha256": "fddf626c448bc3b81a338fef0ba2b2c0e0bc06955a022ad242a61b3b274c9f3b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:23:06.118Z",
+  "issues": []
+}

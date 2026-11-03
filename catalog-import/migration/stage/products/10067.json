@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "10067",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/10067-vestido-felpa-combinado-rojo.html",
+  "name": "Vestido felpa combinado Rojo",
+  "brand": "Mayoral",
+  "sku": "2208178",
+  "description": "Vestido evasé en color rojo con acabado brillante, osito bordado en el pecho y volante en los bajos estampado con cuadros y cierre trasero con cremallera invisible. Ideal para Navidad.\n\nBusca aquí el leotardo que mejor te combine Leotardos Invierno\n\nDISEÑADO EN ESPAÑA",
+  "details": "Vestido de MAYORAL, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. Corte evasé, en color rojo con acabado brillante de purpurina, osito bordado en el pecho y volante en los bajos estampado con cuadros. Cierre trasero con cremallera invisible. Una prenda cómoda, coqueta y original, ideal para fiestas y Navidad! Echa un ojito a nuestros leotardos, calzado y accesorios para el pelo y podrás combinarlo como más te guste!\n\nComposición y cuidados:\n\nVestido: 91% algodón, 5% elastano, 4% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Vestido de <strong>MAYORAL</strong>, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. Corte evasé, en color rojo con <strong>acabado brillante de purpurina</strong>, osito bordado en el pecho y volante en los bajos estampado con cuadros. Cierre trasero con <strong>cremallera invisible</strong>. Una prenda cómoda, coqueta y original, ideal para<strong> fiestas y Navidad</strong>! Echa un ojito a nuestros <strong>leotardos, calzado y accesorios para el pelo</strong> y podrás combinarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Vestido: 91% algodón, 5% elastano, 4% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 27.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "338",
+          "label": "0-1m"
+        },
+        {
+          "id": "339",
+          "label": "1-2m"
+        },
+        {
+          "id": "340",
+          "label": "2-4m"
+        },
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70791",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "10664XE16565",
+      "productSku": "2208178",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:22.047Z"
+    },
+    {
+      "id": "148098",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "338",
+          "group": "Tamaño",
+          "value": "0-1m"
+        }
+      ],
+      "sku": "10664XA16565",
+      "productSku": "2208178",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:25.100Z"
+    },
+    {
+      "id": "148099",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "339",
+          "group": "Tamaño",
+          "value": "1-2m"
+        }
+      ],
+      "sku": "10664XB16565",
+      "productSku": "2208178",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:28.339Z"
+    },
+    {
+      "id": "148100",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "10664XC16565",
+      "productSku": "2208178",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:31.211Z"
+    },
+    {
+      "id": "148101",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "10664XD16565",
+      "productSku": "2208178",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:34.902Z"
+    },
+    {
+      "id": "148102",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "10664XF16565",
+      "productSku": "2208178",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:38.214Z"
+    },
+    {
+      "id": "148103",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "10664XG16565",
+      "productSku": "2208178",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:41.197Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10067-13190.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13190-large_default/vestido-felpa-combinado-rojo.jpg",
+      "alt": "Vestido felpa combinado Rojo",
+      "sourceId": "13190",
+      "variantIds": [],
+      "sha256": "96a35040ba9032b6cc795674ec1f2d6c3dc4d8bc91b19e092436c4a113d1f5de"
+    },
+    {
+      "path": "assets/10067-13191.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13191-large_default/vestido-felpa-combinado-rojo.jpg",
+      "alt": "Vestido felpa combinado Rojo",
+      "sourceId": "13191",
+      "variantIds": [],
+      "sha256": "953628dcf613aa51b9b0f3e0b0024c61d056fc4f93ce590dbd9a1ad2b40e1448"
+    },
+    {
+      "path": "assets/10067-13189.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13189-large_default/vestido-felpa-combinado-rojo.jpg",
+      "alt": "Vestido felpa combinado Rojo",
+      "sourceId": "13189",
+      "variantIds": [],
+      "sha256": "2e2c8b2ad7955d15e8337ebb547bebe6c8b2fe5c38afb0d38d9700b9b235d391"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:41.415Z",
+  "issues": []
+}

@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "21732",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/21732-pelele-largo-pie-convertible-alga.html",
+  "name": "Pelele largo pie convertible Alga",
+  "brand": "Mayoral",
+  "sku": "2601034",
+  "description": "Pelele de bebé Mayoral confeccionado en algodón suave con delicado diseño de rayas verdes. Incorpora práctico cierre con cremallera frontal que facilita el cambio y aporta mayor comodidad. Una prenda ideal para el día a día del bebé, cómoda, ligera y perfecta para entretiempo.",
+  "details": "Este pelele de bebé Mayoral está confeccionado en algodón suave y transpirable, pensado para ofrecer el máximo confort a los más pequeños. Su diseño en rayas verdes aporta un estilo dulce y actual, ideal para vestir al bebé con comodidad durante todo el día. El práctico cierre con cremallera frontal permite poner y quitar la prenda fácilmente, facilitando el cambio del bebé y aportando mayor funcionalidad en el uso diario. Además, su tejido ligero y agradable al tacto garantiza una sensación suave sobre la piel del bebé. Este pelele de algodón para bebé es una prenda versátil perfecta tanto para casa como para salir, combinando comodidad, calidad y el estilo característico de la marca Mayoral. Características:\n\n\nPelele bebé marca Mayoral\n\nTejido de algodón suave y transpirable\n\nDiseño de rayas en color verde\n\nCremallera frontal para mayor comodidad\n\nPrenda cómoda y práctica para el día a día\n\nIdeal para bebé recién nacido\n\nComposición: 100% algodón",
+  "sourceDescriptionHtml": "<p>Este <strong>pelele de bebé Mayoral</strong> está confeccionado en <strong>algodón suave y transpirable</strong>, pensado para ofrecer el máximo confort a los más pequeños. Su diseño en <strong>rayas verdes</strong> aporta un estilo dulce y actual, ideal para vestir al bebé con comodidad durante todo el día. El práctico <strong>cierre con cremallera frontal</strong> permite poner y quitar la prenda fácilmente, facilitando el cambio del bebé y aportando mayor funcionalidad en el uso diario. Además, su tejido ligero y agradable al tacto garantiza una sensación suave sobre la piel del bebé. Este <strong>pelele de algodón para bebé</strong> es una prenda versátil perfecta tanto para casa como para salir, combinando comodidad, calidad y el estilo característico de la marca <strong>Mayoral</strong>. <strong>Características:</strong></p>\n<ul>\n<li>Pelele bebé marca Mayoral</li>\n<li>Tejido de algodón suave y transpirable</li>\n<li>Diseño de rayas en color verde</li>\n<li>Cremallera frontal para mayor comodidad</li>\n<li>Prenda cómoda y práctica para el día a día</li>\n<li>Ideal para bebé recién nacido</li>\n<li>Composición: <strong>100% algodón</strong></li>\n</ul>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Alga",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778",
+    "777"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-12 08:34:13",
+  "sourceUpdatedAt": "2026-10-27 11:14:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "339",
+          "label": "1-2m"
+        },
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99668",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "339",
+          "group": "Tamaño",
+          "value": "1-2m"
+        }
+      ],
+      "sku": "2601034",
+      "productSku": "2601034",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:45.748Z"
+    },
+    {
+      "id": "99670",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2601034",
+      "productSku": "2601034",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:46.833Z"
+    },
+    {
+      "id": "99671",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2601034",
+      "productSku": "2601034",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:47.900Z"
+    },
+    {
+      "id": "99672",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2601034",
+      "productSku": "2601034",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:48.954Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21732-20664.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20664-large_default/pelele-largo-pie-convertible-alga.jpg",
+      "alt": "Pelele bebé algodón verde a rayas Mayoral",
+      "sourceId": "20664",
+      "variantIds": [],
+      "sha256": "5a0b8034b8fa198723e2e0ad0f9feb481a26b4b32ec722985012fac664509280"
+    },
+    {
+      "path": "assets/21732-20665.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20665-large_default/pelele-largo-pie-convertible-alga.jpg",
+      "alt": "Detalle pelele bebé algodón rayas verdes Mayoral",
+      "sourceId": "20665",
+      "variantIds": [],
+      "sha256": "74bc4e96d0c31df0aab9c07af41bf20717271dcde7020ce0451277db06139ae4"
+    },
+    {
+      "path": "assets/21732-20666.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20666-large_default/pelele-largo-pie-convertible-alga.jpg",
+      "alt": "trasera pelele bebé algodón rayas verdes Mayoral",
+      "sourceId": "20666",
+      "variantIds": [],
+      "sha256": "e3575176de17a3cbae7bb205d9211568201baa1efc74792321716c76e3d6a09d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:49.178Z",
+  "issues": []
+}

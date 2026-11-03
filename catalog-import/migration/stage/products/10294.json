@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "10294",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/10294-pepito-con-velcro-crudo.html",
+  "name": "Pepito con velcro Crudo",
+  "brand": "Mayoral",
+  "sku": "2301056",
+  "description": "Da ese paso matutino con el \"Pepito con Velcro Crudo\", el zapatito ideal para los primeros pasos de tu precioso niño. Su cómodo diseño envuelve tiernamente los pequeños pies en un abrazo de apoyo por lo que nunca sentirán ninguna incomodidad. Elaborado cuidadosamente con materiales premium, su durabilidad no tiene comparación, garantizando incontables horas de risueño paseo. El fácil acceso del velcro le permite a tu pequeñín ganar confianza en su independencia. ¿Pero sabes qué es lo mejor? Su neutro tono crudo, que les otorga el estilo chic a tus inigualables momentos mágicos. Un preciado tesoro para esos pequeños tesoro de la vida.",
+  "details": "Ajuste Perfecto y Cómodo\n\nDescubra la comodidad inigualable del Pepito con velcro Crudo. Diseñado con velcro ajustable, este zapato se adapta perfectamente a pequeños pies en crecimiento, proporcionando un ajuste seguro sin comprometer la comodidad. El suave interior y el acolchado extra garantizan una experiencia de uso agradable, permitiendo que su pequeño juegue y explore con facilidad.\n\nEstilo Clásico, Versatilidad Moderna\n\nCon un diseño clásico en color crudo, el Pepito con velcro Crudo es el complemento perfecto para cualquier conjunto. Su versatilidad lo hace ideal tanto para ocasiones formales como para el juego diario. Ya sea que se combine con un bonito vestidito para una reunión familiar o con jeans para un día en el parque, este zapato se adapta sin esfuerzo a cualquier estilo.\n\nDurabilidad que Impresiona\n\nSabemos que los niños pueden ser duros con sus zapatos. Por esta razón, el Pepito con velcro Crudo está construido para resistir el uso diario. Hecho con materiales de alta calidad, este zapato es tan resistente como elegante, asegurando que su pequeño disfrute de una comodidad duradera en sus aventuras diarias.\n\nNo esperes más, añade el Pepito con velcro Crudo a tu carrito de compras hoy mismo y descubre el equilibrio perfecto entre estilo, comodidad y durabilidad.",
+  "sourceDescriptionHtml": "<h2>Ajuste Perfecto y Cómodo</h2>\n<p>Descubra la comodidad inigualable del <strong>Pepito con velcro Crudo</strong>. Diseñado con velcro ajustable, este zapato se adapta perfectamente a pequeños pies en crecimiento, proporcionando un ajuste seguro sin comprometer la comodidad. El suave interior y el acolchado extra garantizan una experiencia de uso agradable, permitiendo que su pequeño juegue y explore con facilidad.</p>\n<h2>Estilo Clásico, Versatilidad Moderna</h2>\n<p>Con un diseño clásico en color crudo, el <strong>Pepito con velcro Crudo</strong> es el complemento perfecto para cualquier conjunto. Su versatilidad lo hace ideal tanto para ocasiones formales como para el juego diario. Ya sea que se combine con un bonito vestidito para una reunión familiar o con jeans para un día en el parque, este zapato se adapta sin esfuerzo a cualquier estilo.</p>\n<h2>Durabilidad que Impresiona</h2>\n<p>Sabemos que los niños pueden ser duros con sus zapatos. Por esta razón, el <strong>Pepito con velcro Crudo</strong> está construido para resistir el uso diario. Hecho con materiales de alta calidad, este zapato es tan resistente como elegante, asegurando que su pequeño disfrute de una comodidad duradera en sus aventuras diarias.</p>\n<p>No esperes más, añade el <strong>Pepito con velcro Crudo</strong> a tu carrito de compras hoy mismo y descubre el equilibrio perfecto entre estilo, comodidad y durabilidad.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "256",
+          "label": "15"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71478",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "2301056",
+      "productSku": "2301056",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:11.389Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10294-13406.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13406-large_default/pepito-con-velcro-crudo.jpg",
+      "alt": "Pepito con velcro Crudo",
+      "sourceId": "13406",
+      "variantIds": [],
+      "sha256": "030abfef65b762e8e67bc1e396d467d7d97c47c9d9ba0969264f90438f4b2780"
+    },
+    {
+      "path": "assets/10294-13407.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13407-large_default/pepito-con-velcro-crudo.jpg",
+      "alt": "Pepito con velcro Crudo",
+      "sourceId": "13407",
+      "variantIds": [],
+      "sha256": "a0779ea8659c57a0ebb7f7e49d02499e4be497af50883eeba797a8a485fa5f3a"
+    },
+    {
+      "path": "assets/10294-13405.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13405-large_default/pepito-con-velcro-crudo.jpg",
+      "alt": "Pepito con velcro Crudo",
+      "sourceId": "13405",
+      "variantIds": [],
+      "sha256": "161bb5871c1e121d797e73dc182184835ef18b442230474592b2536c94c13d29"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:11.604Z",
+  "issues": []
+}

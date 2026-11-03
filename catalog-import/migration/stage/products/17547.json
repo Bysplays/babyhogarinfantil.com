@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "17547",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/17547-albornoz-liso-gris.html",
+  "name": "Albornoz liso Gris",
+  "brand": "Rizo Basic",
+  "sku": "2205069",
+  "description": "Sumérgete en la calidez y comodidad del Albornoz liso Gris. Este acogedor albornoz, ideal para los fríos días de invierno, envuelve a tus pequeños en suavidad y amor. El delicado tono gris se convierte en el epítome de la elegancia, mientras que su ligero peso brinda facilidad y libertad de movimiento. ¡Es la protección perfecta después de un baño relajante o para acurrucarse antes de ir a la cama! Deja que tus niños disfruten el confort supremo con este indispensable albornoz.",
+  "details": "Comodidad Inigualable\n\nEnvuelve a los más pequeños en la suavidad y comodidad inigualable de nuestro Albornoz liso Gris. Diseñado pensando en ellos, este albornoz cuenta con una tela de algodón suave al tacto que mima su delicada piel. Perfecto para esas mañanas frescas o después de un relajante baño, este albornoz les protege y mantiene calientes de forma duradera.\n\nCalidad y Durabilidad\n\nEl Albornoz liso Gris se distingue por su excelente calidad y durabilidad. Su confección es resistente al desgaste diario y se mantiene como nuevo después de muchos lavados. Además, su color gris sólido agrega un toque de elegancia y modernidad, lo que lo convierte en una excelente opción tanto para niños como para niñas.\n\nElegancia y Prácticidad\n\nEste Albornoz liso Gris no sólo es una prenda de vestir cómoda y calentita, sino también una pieza de estilo para los pequeños. Su diseño minimalista y el tono gris neutro aportan elegancia, mientras su cinturón ajustable asegura una adecuada adaptación al cuerpo. Es la combinación perfecta de funcionalidad, diseño y confort.\n\nQue esperas? Asegura el bienestar de los pequeños de la casa con este albornoz indispensable. Haz click aquí para comprar ahora.\n\nComposición:\n\nAlbornoz: 100% algodón.",
+  "sourceDescriptionHtml": "<p><strong>Comodidad Inigualable</strong></p>\n<p>Envuelve a los más pequeños en la suavidad y comodidad inigualable de nuestro <em>Albornoz liso Gris</em>. Diseñado pensando en ellos, este albornoz cuenta con una tela de algodón suave al tacto que mima su delicada piel. Perfecto para esas mañanas frescas o después de un relajante baño, este albornoz les protege y mantiene calientes de forma duradera.</p>\n<p><strong>Calidad y Durabilidad</strong></p>\n<p>El <em>Albornoz liso Gris</em> se distingue por su excelente calidad y durabilidad. Su confección es resistente al desgaste diario y se mantiene como nuevo después de muchos lavados. Además, su color gris sólido agrega un toque de elegancia y modernidad, lo que lo convierte en una excelente opción tanto para niños como para niñas.</p>\n<p><strong>Elegancia y Prácticidad</strong></p>\n<p>Este <em>Albornoz liso Gris</em> no sólo es una prenda de vestir cómoda y calentita, sino también una pieza de estilo para los pequeños. Su diseño minimalista y el tono gris neutro aportan elegancia, mientras su cinturón ajustable asegura una adecuada adaptación al cuerpo. Es la combinación perfecta de funcionalidad, diseño y confort.</p>\n<p>Que esperas? Asegura el bienestar de los pequeños de la casa con este albornoz indispensable. <a href=\"#\">Haz click aquí para comprar ahora.</a></p>\n<p>Composición:</p>\n<p>Albornoz: 100% algodón.</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-05-02 15:54:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "333",
+          "label": "2-4"
+        },
+        {
+          "id": "455",
+          "label": "6-8"
+        },
+        {
+          "id": "468",
+          "label": "4-6"
+        },
+        {
+          "id": "469",
+          "label": "10-12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84221",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "333",
+          "group": "Tamaño",
+          "value": "2-4"
+        }
+      ],
+      "sku": "10351XA18569",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:32.197Z"
+    },
+    {
+      "id": "84222",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "455",
+          "group": "Tamaño",
+          "value": "6-8"
+        }
+      ],
+      "sku": "10351XC18569",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:33.820Z"
+    },
+    {
+      "id": "147686",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "468",
+          "group": "Tamaño",
+          "value": "4-6"
+        }
+      ],
+      "sku": "10351XB18569",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:35.372Z"
+    },
+    {
+      "id": "147687",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "469",
+          "group": "Tamaño",
+          "value": "10-12"
+        }
+      ],
+      "sku": "10351XD18569",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:36.973Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17547-17054.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17054-large_default/albornoz-liso-gris.jpg",
+      "alt": "Albornoz liso Gris",
+      "sourceId": "17054",
+      "variantIds": [],
+      "sha256": "9ae202e980073fc289dd375ed3e328b3ea62027808db1fd0d3b5dbe82a61abd4"
+    },
+    {
+      "path": "assets/17547-17055.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17055-large_default/albornoz-liso-gris.jpg",
+      "alt": "Albornoz liso Gris",
+      "sourceId": "17055",
+      "variantIds": [],
+      "sha256": "936b726b05826f1dcc6f041b380aec0386297636f2269839ddacabe70179ceaf"
+    },
+    {
+      "path": "assets/17547-17056.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17056-large_default/albornoz-liso-gris.jpg",
+      "alt": "Albornoz liso Gris",
+      "sourceId": "17056",
+      "variantIds": [],
+      "sha256": "e7118c9d18c40aa7a96c678b1b98c0fd5a6a1f0e05cd63063e87422d44202f22"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:37.144Z",
+  "issues": []
+}

@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "21864",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/21864-bolero-trico-basico-avellana.html",
+  "name": "Bolero trico básico Avellana",
+  "brand": "Mayoral",
+  "sku": "2601044",
+  "description": "Chaqueta tipo bolero para bebé niña en punto, elegante y ligera, perfecta para completar looks de ceremonia, bautizo o entretiempo.",
+  "details": "Elegante chaqueta bolero para bebé niña confeccionada en suave tejido de punto, ideal para completar conjuntos de ceremonia o looks más especiales.\n\nSu diseño corto tipo bolero aporta un estilo delicado y sofisticado, perfecto para combinar con vestidos de bebé, conjuntos de vestir o prendas de ocasión como bautizos y eventos.\n\nEsta chaqueta de punto para bebé niña es ligera, cómoda y fácil de poner, ofreciendo un extra de abrigo sin renunciar al estilo.\n\nCaracterísticas:\n\n\nTejido de punto suave y confortable\n\nDiseño tipo bolero corto\n\nCierre delantero con botón\n\nIdeal para ceremonia, bautizo y ocasiones especiales\n\nPerfecta para entretiempo\n\nComposición: 60% algodón, 22% viscosa, 12% poliamida, 4% fibra metálica, 2% elastano.\n\n\nUna prenda imprescindible para completar cualquier look elegante de bebé niña.",
+  "sourceDescriptionHtml": "<p>Elegante <strong>chaqueta bolero para bebé niña</strong> confeccionada en suave tejido de punto, ideal para completar conjuntos de ceremonia o looks más especiales.</p>\n<p>Su diseño corto tipo <strong>bolero</strong> aporta un estilo delicado y sofisticado, perfecto para combinar con vestidos de bebé, conjuntos de vestir o prendas de ocasión como bautizos y eventos.</p>\n<p>Esta <strong>chaqueta de punto para bebé niña</strong> es ligera, cómoda y fácil de poner, ofreciendo un extra de abrigo sin renunciar al estilo.</p>\n<p><strong>Características:</strong></p>\n<ul>\n<li>Tejido de punto suave y confortable</li>\n<li>Diseño tipo bolero corto</li>\n<li>Cierre delantero con botón</li>\n<li>Ideal para ceremonia, bautizo y ocasiones especiales</li>\n<li>Perfecta para entretiempo</li>\n<li>Composición: 60% algodón, 22% viscosa, 12% poliamida, 4% fibra metálica, 2% elastano.</li>\n</ul>\n<p>Una prenda imprescindible para completar cualquier look elegante de bebé niña.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Avellana",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "674"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-17 15:56:56",
+  "sourceUpdatedAt": "2026-10-27 11:15:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100098",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2601044",
+      "productSku": "2601044",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:37.174Z"
+    },
+    {
+      "id": "100102",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2601044",
+      "productSku": "2601044",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:38.872Z"
+    },
+    {
+      "id": "100099",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2601044",
+      "productSku": "2601044",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:40.606Z"
+    },
+    {
+      "id": "100100",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2601044",
+      "productSku": "2601044",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:42.943Z"
+    },
+    {
+      "id": "100101",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2601044",
+      "productSku": "2601044",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:45.367Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21864-20711.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20711-large_default/bolero-trico-basico-avellana.jpg",
+      "alt": "Chaqueta bolero bebé niña punto beige ceremonia bautizo",
+      "sourceId": "20711",
+      "variantIds": [],
+      "sha256": "a13e53eb75749dfab54de3438a29e66858ff2d8295e11508274b35c7d0da338b"
+    },
+    {
+      "path": "assets/21864-20712.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20712-large_default/bolero-trico-basico-avellana.jpg",
+      "alt": "Detalle chaqueta bebé niña punto beige bolero tejido y acabado",
+      "sourceId": "20712",
+      "variantIds": [],
+      "sha256": "9c4ec9a404867f14b62e14808cc90cca66b60d51871b21ce61b8844ae52dcadd"
+    },
+    {
+      "path": "assets/21864-20713.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20713-large_default/bolero-trico-basico-avellana.jpg",
+      "alt": "Chaqueta bebé niña punto beige bolero vista trasera elegante",
+      "sourceId": "20713",
+      "variantIds": [],
+      "sha256": "677b3ef12b120cff4b8762360b049fe9d6aa26b794b28467c557fe69186439b5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:45.594Z",
+  "issues": []
+}

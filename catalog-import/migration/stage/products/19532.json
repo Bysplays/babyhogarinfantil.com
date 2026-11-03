@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "19532",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/19532-ranita-basica-pique-rosa.html",
+  "name": "Ranita básica piqué Rosa",
+  "brand": "Baby-Ferr",
+  "sku": "2401216",
+  "description": "Ranita cubrepañal para poner a cuerpo con una blusita, o debajo de los vestido.\n\n100% algodón.\n\nHECHA EN ESPAÑA",
+  "details": "Composición y cuidados:\n\nRanita: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Ranita: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-02-11 15:54:11",
+  "sourceUpdatedAt": "2026-10-27 11:13:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 26,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "90454",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2401216",
+      "productSku": "2401216",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:50.852Z"
+    },
+    {
+      "id": "90455",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2401216",
+      "productSku": "2401216",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:52.909Z"
+    },
+    {
+      "id": "90456",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2401216",
+      "productSku": "2401216",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:55.210Z"
+    },
+    {
+      "id": "90457",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2401216",
+      "productSku": "2401216",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:57.795Z"
+    },
+    {
+      "id": "90458",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2401216",
+      "productSku": "2401216",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:59.850Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19532-17817.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17817-large_default/ranita-basica-pique-rosa.jpg",
+      "alt": "Ranita básica piqué Rosa",
+      "sourceId": "17817",
+      "variantIds": [],
+      "sha256": "a03c50d7158a1d78138c6f7238465889b503a0ee8082fdd9b8d4f17e31389c15"
+    },
+    {
+      "path": "assets/19532-17818.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17818-large_default/ranita-basica-pique-rosa.jpg",
+      "alt": "Ranita básica piqué Rosa",
+      "sourceId": "17818",
+      "variantIds": [],
+      "sha256": "b0ddd9fbd21bf03f6ea9f521a453529a7dd15257b2367b9614a102ab93ffbdc3"
+    },
+    {
+      "path": "assets/19532-17819.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17819-large_default/ranita-basica-pique-rosa.jpg",
+      "alt": "Ranita básica piqué Rosa",
+      "sourceId": "17819",
+      "variantIds": [],
+      "sha256": "96697c1858c604344bf7f55e9fadea5d9f1fae43dcf0bdc46182a4281093aabb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:00.119Z",
+  "issues": []
+}

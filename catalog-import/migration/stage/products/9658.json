@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "9658",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nino-verano/9658-pijama-nino-verano-corto-skate-amarillo.html",
+  "name": "Pijama niño verano corto SKATE Amarillo",
+  "brand": "Talaman",
+  "sku": "2204035",
+  "description": "Pijama corto 100% algodón. Pantalón con goma en la cintura.",
+  "details": "Composición:\n\nPijama corto: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pijama corto: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "775"
+  ],
+  "sourceDefaultCategoryId": "775",
+  "sourceCategoryName": "Pijamas Niño Verano",
+  "price": 7.5,
+  "oldPrice": 14.9919,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69759",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2204035",
+      "productSku": "2204035",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:36.359Z"
+    },
+    {
+      "id": "75049",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2204035",
+      "productSku": "2204035",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:38.061Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9658-12581.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12581-large_default/pijama-nino-verano-corto-skate-amarillo.jpg",
+      "alt": "Pijama niño verano corto SKATE Amarillo",
+      "sourceId": "12581",
+      "variantIds": [],
+      "sha256": "024e03c9f4adb46b24da05a9eef1fcf2e6909ad55ae6b6d84c3866357014b539"
+    },
+    {
+      "path": "assets/9658-9056.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9056-large_default/pijama-nino-verano-corto-skate-amarillo.jpg",
+      "alt": "Pijama niño verano corto SKATE Amarillo",
+      "sourceId": "9056",
+      "variantIds": [],
+      "sha256": "1d9f3fccd3ca162b5c3161c9c931ce9c3e999b41371ef4d0a22a444d46b3fcca"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:38.211Z",
+  "issues": []
+}

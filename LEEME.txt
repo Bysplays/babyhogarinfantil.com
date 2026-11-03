@@ -1,0 +1,18 @@
+PRESTASHOP LOCAL - BABY HOGAR
+
+Entorno independiente de baby-hogar y baby-hogar-segunda. El diseño existente permanece intacto; todavía no se ha convertido en tema PrestaShop ni se ha importado el catálogo original.
+
+Requisitos: Docker Desktop iniciado, motor Linux/WSL operativo.
+Desde esta carpeta: docker compose up -d
+Tienda, cuando finalice la instalación: http://localhost:8080/
+Administración: http://localhost:8080/administracion-baby/
+Credenciales locales generadas en .env. No compartir ese archivo.
+Estado: docker compose ps
+Parar conservando datos: docker compose stop
+Arrancar de nuevo: docker compose start
+
+Se utiliza PrestaShop 9.0.3 y MySQL 8.0, con volúmenes persistentes independientes para archivos y base de datos. El puerto solo está accesible desde este ordenador. No se publica la tienda en Internet.
+No ejecutar docker compose down -v ni borrar los volúmenes: eliminaría los datos.
+La copia previa del proyecto está en ../backups/backup-antes-de-prestashop-2026-10-27-195811. Esta copia no incluye futuros datos de PrestaShop; habrá que respaldar por separado sus archivos y base de datos.
+
+La conversión del diseño estático a tema se realizará posteriormente. El panel anterior es un prototipo; el nuevo panel será el propio de PrestaShop.

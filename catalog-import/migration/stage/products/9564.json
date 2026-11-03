@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "9564",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/9564-parka-nino-verano-urban-style-rojo.html",
+  "name": "Parka niño verano URBAN STYLE Rojo",
+  "brand": "Babybol",
+  "sku": "2203078",
+  "description": "Cazadora cortavientos con cierre de cremallera y capucha, en color rojo con detalles blancos y azul marino a contraste. Tiene bolsillos. Acabado de puños y cinturilla en canalé elástico. Completamente forrada 100% algodón.",
+  "details": "Cazadora cortavientos de BABYBOL, creando desde 1978 ropa infantil con mucha ilusión, diseña, fabrica y distribuye desde su sede central en Barcelona para comercios de todo el mundo. Cierre delantero con cremallera y capucha fija. Acabados de puños y cinturilla en canalé elástico. En color rojo con detalles azul marino y blanco a contraste. Completamente forrada en 100% ALGODÓN. Tiene bolsillos. Una prenda desenfadada, cómoda y ligera, ideal para esos días en los que el tiempo está sí pero no! Echa un ojito a nuestro calzado, calcetines y ropa interior y podrás completar tu modelito con todo lo que necesites!\n\nComposición y cuidados:\n\nCazadora: 70% algodón, 28% poliéster, 2% elastano.\n\nForro: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Cazadora cortavientos de <strong>BABYBOL</strong>, creando desde 1978 ropa infantil con mucha ilusión, diseña, fabrica y distribuye desde su sede central en Barcelona para comercios de todo el mundo. Cierre delantero con cremallera y capucha fija. Acabados de puños y cinturilla en <strong>canalé elástico</strong>. En color rojo con detalles azul marino y blanco a contraste. <strong>Completamente forrada en 100% ALGODÓN</strong>. Tiene bolsillos. Una prenda desenfadada, cómoda y ligera, ideal para esos días en los que el tiempo está sí pero no! Echa un ojito a nuestro<strong> calzado, calcetines y ropa interior</strong> y podrás completar tu modelito con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Cazadora: 70% algodón, 28% poliéster, 2% elastano.</p>\n<p>Forro: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>NO PLANCHAR</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "769"
+  ],
+  "sourceDefaultCategoryId": "769",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 17.5,
+  "oldPrice": 34.9932,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69533",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2203078",
+      "productSku": "2203078",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:36.209Z"
+    },
+    {
+      "id": "69537",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2203078",
+      "productSku": "2203078",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:38.120Z"
+    },
+    {
+      "id": "69538",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2203078",
+      "productSku": "2203078",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": 34.9932,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:39.602Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9564-7785.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7785-large_default/parka-nino-verano-urban-style-rojo.jpg",
+      "alt": "Parka niño verano URBAN STYLE Rojo",
+      "sourceId": "7785",
+      "variantIds": [],
+      "sha256": "d80cde771b78903bcc5f74afc6b478293610e4f61e63fad5b4a4c1cef20620d9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:39.650Z",
+  "issues": []
+}

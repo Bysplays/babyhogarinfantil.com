@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6166",
+  "sourceUrl": "https://babyhogarinfantil.com/camisas-bebe-nino/6166-camisa-bebe-manga-corta-con-lorzas-blanco.html",
+  "name": "Camisa bebé manga corta con lorzas Blanco",
+  "brand": "Mac Ilusión",
+  "sku": "718",
+  "description": "Envuelva a su pequeño en la comodidad sublime y la elegancia atemporal con nuestra \"Camisa Bebé Manga Corta con Lorzas, Blanco\". Cada detalle, desde las delicadas lorzas hasta el blanco impoluto, se ha pensado meticulosamente para presentarle una prenda infantil que es casi tan especial como su niños. Hecha de telas de alta calidad, esta camisa garantiza una sensación de suavidad incomparable y seguridad. Es la opción perfecta para esos momentos memorables, tanto formales como casuales. Haga que su pequeño brille de la mejor manera, dondequiera que vaya. HECHA EN ESPAÑA",
+  "details": "Encanto Infantil y Elegancia\n\n¡Llena el guardarropa de tu bebé de ternura con la Camisa de manga corta con lorzas! Esta increíble prenda, diseñada en un color blanco inmaculado, se convertirá en la estrella de cualquier outfit. Las lorzas en el frente le añaden un toque de elegancia y encanto, haciendo de esta camisa la elección perfecta para ocasiones especiales o fotografías memorables.\n\nConfort sin Sacrificar Estilo\n\nPodría parecer que la elegancia y el confort no pueden ir de la mano, pero esta camisa de manga corta con lorzas lo desmiente. Hecha con materiales de alta calidad, la camisa cuida la piel sensible de tu bebé, aportando suavidad y facilidad de movimiento para sus aventuras diarias. El diseño de manga corta es ideal para el clima cálido, permitiendo que tu pequeño se mantenga fresco y cómodo a la vez que luce adorable.\n\nDurabilidad y Cuidado Fácil\n\nSabemos que la vida con un bebé puede ser ajetreada. Por eso, esta camisa de manga corta con lorzas es fácil de cuidar. A pesar de su apariencia delicada, la prenda está hecha para resistir el desgaste del uso diario y las lavadas constantes. Asegura la inversión en el vestuario de tu bebé con una prenda diseñada para durar.\n\nNo esperes más, dale a tu bebé el estilo y confort que se merece con la Camisa bebé manga corta con lorzas. Agrega esta hermosa prenda a tu carrito de compras hoy.",
+  "sourceDescriptionHtml": "<h2>Encanto Infantil y Elegancia</h2>\n<p>¡Llena el guardarropa de tu bebé de ternura con la Camisa de manga corta con lorzas! Esta increíble prenda, diseñada en un color blanco inmaculado, se convertirá en la estrella de cualquier outfit. Las lorzas en el frente le añaden un toque de elegancia y encanto, haciendo de esta camisa la elección perfecta para ocasiones especiales o fotografías memorables.</p>\n<h2>Confort sin Sacrificar Estilo</h2>\n<p>Podría parecer que la elegancia y el confort no pueden ir de la mano, pero esta camisa de manga corta con lorzas lo desmiente. Hecha con materiales de alta calidad, la camisa cuida la piel sensible de tu bebé, aportando suavidad y facilidad de movimiento para sus aventuras diarias. El diseño de manga corta es ideal para el clima cálido, permitiendo que tu pequeño se mantenga fresco y cómodo a la vez que luce adorable.</p>\n<h2>Durabilidad y Cuidado Fácil</h2>\n<p>Sabemos que la vida con un bebé puede ser ajetreada. Por eso, esta camisa de manga corta con lorzas es fácil de cuidar. A pesar de su apariencia delicada, la prenda está hecha para resistir el desgaste del uso diario y las lavadas constantes. Asegura la inversión en el vestuario de tu bebé con una prenda diseñada para durar.</p>\n<p>No esperes más, dale a tu bebé el estilo y confort que se merece con la Camisa bebé manga corta con lorzas. Agrega esta hermosa prenda a tu carrito de compras hoy.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "677",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "677",
+  "sourceCategoryName": "Camisas Bebé niño",
+  "price": 6.75,
+  "oldPrice": 13.5036,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62714",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "718",
+      "productSku": "718",
+      "taxRate": 21,
+      "price": 6.75,
+      "oldPrice": 13.5036,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:27.750Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6166-4072.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4072-large_default/camisa-bebe-manga-corta-con-lorzas-blanco.jpg",
+      "alt": "Camisa bebé manga corta con lorzas Blanco",
+      "sourceId": "4072",
+      "variantIds": [],
+      "sha256": "f32fb948eec2e699b626490d1417ebd6bb91d32ec6651a0d9cfd5d60cc3d5d1e"
+    },
+    {
+      "path": "assets/6166-15007.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15007-large_default/camisa-bebe-manga-corta-con-lorzas-blanco.jpg",
+      "alt": "Camisa bebé manga corta con lorzas Blanco",
+      "sourceId": "15007",
+      "variantIds": [],
+      "sha256": "5a0668f940b663e7207f5a1ec329adc73c9459f1cef6653d3b4f09b491a1f5fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:27.848Z",
+  "issues": []
+}

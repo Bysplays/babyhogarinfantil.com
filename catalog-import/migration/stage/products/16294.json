@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "id": "16294",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nino/16294-gorra-pique-teo-rojo.html",
+  "name": "Gorra piqué TEO Rojo",
+  "brand": "Marco Polo",
+  "sku": "2304026",
+  "description": "Sumérgete en la elegancia infantil con la Gorra Piqué TEO Rojo. ¡Un complemento imprescindible para los pequeños aventureros! Confeccionada en tejido de piqué de alta calidad, es cómoda y transpirable. Su vibrante color rojo agrega una chispa de alegría a cualquier conjunto, mientras su diseño versátil brinda protección solar durante el verano. Ideal para darle un toque de estilo a su pequeño, y permitirle explorar al aire libre con total confianza. ¡Haz de cada día una aventura con la Gorra Piqué TEO Rojo!",
+  "details": "Estilo Rojo Vivo\n\nLa Gorra piqué TEO roja resalta con su vibrante matiz rojo. No hay mejor manera de proteger a tus pequeños del sol al mismo tiempo que los mantienes a la moda. El color rojo es símbolo de valentía y pasión, perfecto para los pequeños aventureros.\n\nComodidad y Calidad Suprema\n\nEsta gorra no solo destaca por su color brillante y espectacular, sino también por su extraordinaria calidad. La Gorra piqué TEO roja está elaborada con materiales de alto grado que garantizan un ajuste cómodo y durabilidad. Su diseño de piqué proporciona a la prenda transpirabilidad, ideal para los días soleados.\n\nPerfecta para Todas las Ocasiones\n\nYa sea para un día de juego en el parque o para una ocasión especial, la Gorra piqué TEO roja es la elección perfecta. Su diseño versátil y vivaz se adapta a una variedad de atuendos, asegurando que tu pequeño siempre se vea elegante y esté cómodo.\n\n¡No esperes más! Añade la Gorra piqué TEO roja a tu carrito de compras y dale a tus pequeños una gorra que combine con su espíritu aventurero.\n\nComposición:\n\nExterior: 65% algodón, 35% poliéster.\n\nForro: 100% algodón.",
+  "sourceDescriptionHtml": "<div>\n<h2>Estilo Rojo Vivo</h2>\n<p>La Gorra piqué TEO roja resalta con su vibrante matiz rojo. No hay mejor manera de proteger a tus pequeños del sol al mismo tiempo que los mantienes a la moda. El color rojo es símbolo de valentía y pasión, perfecto para los pequeños aventureros.</p>\n<h2>Comodidad y Calidad Suprema</h2>\n<p>Esta gorra no solo destaca por su color brillante y espectacular, sino también por su extraordinaria calidad. La Gorra piqué TEO roja está elaborada con materiales de alto grado que garantizan un ajuste cómodo y durabilidad. Su diseño de piqué proporciona a la prenda transpirabilidad, ideal para los días soleados.</p>\n<h2>Perfecta para Todas las Ocasiones</h2>\n<p>Ya sea para un día de juego en el parque o para una ocasión especial, la Gorra piqué TEO roja es la elección perfecta. Su diseño versátil y vivaz se adapta a una variedad de atuendos, asegurando que tu pequeño siempre se vea elegante y esté cómodo.</p>\n<p><b>¡No esperes más! Añade la Gorra piqué TEO roja a tu carrito de compras y dale a tus pequeños una gorra que combine con su espíritu aventurero.</b></p>\n<p>Composición:</p>\n<p>Exterior: 65% algodón, 35% poliéster.</p>\n<p>Forro: 100% algodón.</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "680",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "680",
+  "sourceCategoryName": "Gorras y viseras bebé y niño",
+  "price": 16,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-10 16:10:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72917",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "2304026",
+      "productSku": "2304026",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:43.951Z"
+    },
+    {
+      "id": "72918",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "2304026",
+      "productSku": "2304026",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:46.620Z"
+    },
+    {
+      "id": "72919",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "2304026",
+      "productSku": "2304026",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:49.122Z"
+    },
+    {
+      "id": "72920",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "2304026",
+      "productSku": "2304026",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:51.615Z"
+    },
+    {
+      "id": "72921",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "2304026",
+      "productSku": "2304026",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:53.631Z"
+    },
+    {
+      "id": "72922",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "2304026",
+      "productSku": "2304026",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:55.642Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16294-14043.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14043-large_default/gorra-pique-teo-rojo.jpg",
+      "alt": "Gorra piqué TEO Rojo",
+      "sourceId": "14043",
+      "variantIds": [],
+      "sha256": "522816e965836f2f7b933cf1e56ef41cbdf0ec319e7143f3b5352437ceec8d71"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:11:55.709Z",
+  "issues": []
+}

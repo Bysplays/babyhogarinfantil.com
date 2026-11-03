@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "id": "6423",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/6423-body-cuello-puntilla-manga-corta-gris.html",
+  "name": "Body cuello puntilla Manga Corta Gris",
+  "brand": "Calamaro",
+  "sku": "1531684",
+  "description": "Body 100% algodón, de manga corta y cuello redondo con volante de puntilla. Color blanco. Cierre trasero con corchetes hasta media espalda y entrepierna. DISPONIBLE EN ROSA, CELESTE Y CRUDO.",
+  "details": "Body de CALAMARO, una de nuestra firmas preferidas! 100% algodón, de manga corta y cuello redondo con volante de puntilla. Color blanco. Cierre trasero con corchetes hasta media espalda y entrepierna, para facilitar la puesta y el cambio de pañal. Una prenda clásica y atemporal, tejido suave, fresco y agradable al tacto así como respetuoso con la piel. Echa un ojito a nuestros conjuntos de perlé y ranitas o petos y podrás combinarlo como más te guste! DISPONIBLE EN COLOR BLANCO CON ROSA, BLANCO CON CELESTE Y CRUDO. \n\nComposición y cuidados:\n\nBody: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n FABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Body de <strong>CALAMARO</strong>, una de nuestra firmas preferidas! <strong>100% algodón</strong>, de manga corta y cuello redondo con <strong>volante de puntilla</strong>. Color blanco. Cierre trasero con corchetes hasta media espalda y entrepierna, para facilitar la puesta y el cambio de pañal. Una prenda clásica y atemporal, tejido suave, fresco y agradable al tacto así como respetuoso con la piel. Echa un ojito a nuestros <strong>conjuntos de perlé y ranitas o petos</strong> y podrás combinarlo como más te guste! <strong>DISPONIBLE EN COLOR BLANCO CON ROSA, BLANCO CON CELESTE Y CRUDO. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Body: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> <strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "896",
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63544",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1584XH14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:09.183Z"
+    },
+    {
+      "id": "144743",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1584XA14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:11.260Z"
+    },
+    {
+      "id": "144744",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1584XB14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:14.273Z"
+    },
+    {
+      "id": "144745",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1584XC14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:15.927Z"
+    },
+    {
+      "id": "144746",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1584XD14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:17.783Z"
+    },
+    {
+      "id": "144747",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1584XE14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:19.990Z"
+    },
+    {
+      "id": "144748",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1584XF14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:22.018Z"
+    },
+    {
+      "id": "144749",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1584XG14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:24.798Z"
+    },
+    {
+      "id": "63545",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "1584XI14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:27.954Z"
+    },
+    {
+      "id": "144750",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "1584XJ14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:30.271Z"
+    },
+    {
+      "id": "144751",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "1584XK14443",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:32.124Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6423-9590.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9590-large_default/body-cuello-puntilla-manga-corta-gris.jpg",
+      "alt": "Body cuello puntilla Manga Corta Gris",
+      "sourceId": "9590",
+      "variantIds": [],
+      "sha256": "2e0023939384fe8edbb523e61c81c25ef5ec961b7af31d5f57e8ea35230f6997"
+    },
+    {
+      "path": "assets/6423-8664.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8664-large_default/body-cuello-puntilla-manga-corta-gris.jpg",
+      "alt": "Body manga corta cuello gris",
+      "sourceId": "8664",
+      "variantIds": [],
+      "sha256": "79f66ee24ca93a3a4562e8faf016cf9a855a8fe334f7b4746f4bce98be3bfae8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:32.325Z",
+  "issues": []
+}

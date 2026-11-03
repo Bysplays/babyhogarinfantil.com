@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "6582",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/6582-chaqueta-nina-bobita-gris-claro.html",
+  "name": "Chaqueta niña Bobita Gris claro",
+  "brand": "Mac Ilusión",
+  "sku": "1602069",
+  "description": "Chaqueta GRIS corta para vestidos. Abrocha con un solo botón. Temporada PRIMAVERA-VERANO",
+  "details": "Composición:\n\nChaqueta GRIS: 100% acrílico DRALON antialérgico.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º SIEMPRE DEL REVES.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta GRIS: 100% acrílico DRALON antialérgico.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º SIEMPRE DEL REVES.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2016",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Claro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 9.98,
+  "oldPrice": 19.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-26 19:38:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63828",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1602069",
+      "productSku": "1602069",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:10.633Z"
+    },
+    {
+      "id": "63829",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1602069",
+      "productSku": "1602069",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:14.902Z"
+    },
+    {
+      "id": "63830",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1602069",
+      "productSku": "1602069",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:18.279Z"
+    },
+    {
+      "id": "63832",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1602069",
+      "productSku": "1602069",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:22.360Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6582-4532.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4532-large_default/chaqueta-nina-bobita-gris-claro.jpg",
+      "alt": "Chaqueta niña Bobita Gris claro",
+      "sourceId": "4532",
+      "variantIds": [],
+      "sha256": "575c6c5df5cea30c1ad890843a5175ad60a0b3dd7358ac4a4b03da46f402d670"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:22.428Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "20441",
+  "sourceUrl": "https://babyhogarinfantil.com/gorros-y-bufandas-bebe-y-nina/20441-boina-nina-aliso-negro.html",
+  "name": "Boina niña Aliso Negro",
+  "brand": "Calamaro",
+  "sku": "2502023",
+  "description": "Boina para combinar con el conjunto ALISO",
+  "details": "Composicón:\n\n66% poliester, 29% algodón, 5% hilo metálico.",
+  "sourceDescriptionHtml": "<p>Composicón:</p>\n<p>66% poliester, 29% algodón, 5% hilo metálico.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "764"
+  ],
+  "sourceDefaultCategoryId": "764",
+  "sourceCategoryName": "Gorros y bufandas bebé y niña",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94672",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2502023",
+      "productSku": "2502023",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:31.469Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20441-19619.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19619-large_default/boina-nina-aliso-negro.jpg",
+      "alt": "Boina niña Aliso Negro",
+      "sourceId": "19619",
+      "variantIds": [],
+      "sha256": "805a53696ab3f9716f5042a949d68627d335e9174c6d9407ade8e348ea145246"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:31.507Z",
+  "issues": []
+}

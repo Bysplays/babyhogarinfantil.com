@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "6213",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/6213-chaqueta-bebe-nino-carteras-azul.html",
+  "name": "Chaqueta Bebé niño Carteras Azul",
+  "brand": "Pecesa",
+  "sku": "995",
+  "description": "Envolved en amor y calidez a tu pequeño con la Chaqueta Bebé Niño Carteras Azul. Hecha para aventuras invernales, brinda un abrigo inigualable gracias a su diseño y material de alta calidad. La elegancia y comodidad se unen, creando la combinación perfecta para los días fríos, seguramente ésta será la elección preferida en su guardarropa. Un regalo cautivador que cada pequeñín merece, brindándoles alegría y confort en cada uso. ¡Haga de este invierno una estación llena de calidez y estilo con esta imprescindible chaqueta!",
+  "details": "Inspírate con El Azul Perfecto\n\nEnvuelve a tu pequeño en la divina suavidad de la Chaqueta Bebé Niño Carteras Azul. Hecha para el máximo confort, la chaqueta añade un toque de color vibrante que refleja el cielo azul en un día soleado. Sin duda un básico imprescindible en la vestimenta de tu bebé para abrigarlo en días frescos.\n\n\nComodidad sin Compromisos\n\nNo hay nada más importante que la comodidad y el bienestar de tu niño. Esta chaqueta está confeccionada con materiales suaves y duraderos que resguardarán a tu bebé del frío. Con un ajuste perfecto que permite total libertad de movimiento, ideal para pequeños en constante exploración.\n\n\nEstilo que Combina con Todo\n\nEl clásico diseño de esta chaqueta hace que sea una elección perfecta para cualquier outfit. Su color azul mezcla fácilmente con cualquier color y patrón, y su diseño minimalista añade un toque chic a cualquier conjunto. Seguro será la pieza favorita en el armario de tu bebé.\n\n\nNo pierdas esta oportunidad de darle a tu niño una chaqueta versátil y con estilo. Haz clic en \"Comprar ahora\" para que tu pequeño luzca como el príncipe que es. ¡Te prometemos que la Chaqueta Bebé Niño Carteras Azul será amor a primera vista!",
+  "sourceDescriptionHtml": "<div>\n<h2>Inspírate con El Azul Perfecto</h2>\n<p>Envuelve a tu pequeño en la divina suavidad de la Chaqueta Bebé Niño Carteras Azul. Hecha para el máximo confort, la chaqueta añade un toque de color vibrante que refleja el cielo azul en un día soleado. Sin duda un básico imprescindible en la vestimenta de tu bebé para abrigarlo en días frescos.</p>\n\n<h2>Comodidad sin Compromisos</h2>\n<p>No hay nada más importante que la comodidad y el bienestar de tu niño. Esta chaqueta está confeccionada con materiales suaves y duraderos que resguardarán a tu bebé del frío. Con un ajuste perfecto que permite total libertad de movimiento, ideal para pequeños en constante exploración.</p>\n\n<h2>Estilo que Combina con Todo</h2>\n<p>El clásico diseño de esta chaqueta hace que sea una elección perfecta para cualquier outfit. Su color azul mezcla fácilmente con cualquier color y patrón, y su diseño minimalista añade un toque chic a cualquier conjunto. Seguro será la pieza favorita en el armario de tu bebé.</p>\n\n<p>No pierdas esta oportunidad de darle a tu niño una chaqueta versátil y con estilo. Haz clic en \"Comprar ahora\" para que tu pequeño luzca como el príncipe que es. ¡Te prometemos que la Chaqueta Bebé Niño Carteras Azul será amor a primera vista!</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 24.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62906",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "995",
+      "productSku": "995",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:25.544Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6213-4126.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4126-large_default/chaqueta-bebe-nino-carteras-azul.jpg",
+      "alt": "Chaqueta Bebé niño Carteras Azul",
+      "sourceId": "4126",
+      "variantIds": [],
+      "sha256": "869229cf52bb18bf5b4ba2fc362974e890d5046b9974e8915b3422c97dd969d8"
+    },
+    {
+      "path": "assets/6213-9437.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9437-large_default/chaqueta-bebe-nino-carteras-azul.jpg",
+      "alt": "Chaqueta Bebé niño Carteras Azul",
+      "sourceId": "9437",
+      "variantIds": [],
+      "sha256": "869229cf52bb18bf5b4ba2fc362974e890d5046b9974e8915b3422c97dd969d8"
+    },
+    {
+      "path": "assets/6213-4125.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4125-large_default/chaqueta-bebe-nino-carteras-azul.jpg",
+      "alt": "Chaqueta Bebé niño Carteras Azul",
+      "sourceId": "4125",
+      "variantIds": [],
+      "sha256": "067b82c8e02ba62bd1a9cae6de6d49b0a5a0b5f34353c75b4ac0d4862b475a58"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:25.748Z",
+  "issues": []
+}

@@ -1,0 +1,389 @@
+{
+  "schemaVersion": 1,
+  "id": "6328",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/6328-zapato-velcro-reforzado-del-29-al-39-negro.html",
+  "name": "Zapato velcro reforzado del 29 al 39 Negro",
+  "brand": "Gorila",
+  "sku": "1166",
+  "description": "Descubre el imprescindible \"Zapato velcro reforzado\" en un elegante color negro, disponible en las tallas del 29 al 39. Este zapato captura la esencia de la comodidad y robustez, apto tanto para la ventura casual como para el ajetreo del colegio. Incorpora un mecanismo de velcro resistente, permitiendo un ajuste perfecto para crecer junto a tus pequeños y darles el soporte necesario en cada paso. Un verdadero campeón en resistencia al desgaste, perfecto para el colegio Cluny Vigo y Colegio Atlantida. Compra ahora y asegúrate de que tus hijos llevan lo mejor en sus pies! PLANTILLA EXTRAIBLE",
+  "details": "TECNOLOGÍA ADAPTACTION:  Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) \nPRODUCTO DE PIEL:  Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. \nCREMA DE LIMPIEZA:  Para su limpieza se recomienda la crema natural de Callaghan.",
+  "sourceDescriptionHtml": "<p><span style=\"color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"font-weight:bolder;\">TECNOLOGÍA ADAPTACTION:  </span><span>Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) </span><br /></span><span style=\"color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"font-weight:bolder;\">PRODUCTO DE PIEL:  </span><span>Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. </span><br /></span><span style=\"color:#575756;font-family:'Open Sans', sans-serif;font-size:12.8px;text-align:justify;line-height:1.5;\"><span style=\"font-weight:bolder;\">CREMA DE LIMPIEZA:  </span><span>Para su limpieza se recomienda la crema natural de Callaghan. </span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "705",
+    "759",
+    "888",
+    "868",
+    "878",
+    "871",
+    "890"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 56.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 19,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "282",
+          "label": "29"
+        },
+        {
+          "id": "283",
+          "label": "30"
+        },
+        {
+          "id": "284",
+          "label": "31"
+        },
+        {
+          "id": "285",
+          "label": "32"
+        },
+        {
+          "id": "286",
+          "label": "33"
+        },
+        {
+          "id": "287",
+          "label": "34"
+        },
+        {
+          "id": "288",
+          "label": "35"
+        },
+        {
+          "id": "289",
+          "label": "36"
+        },
+        {
+          "id": "290",
+          "label": "37"
+        },
+        {
+          "id": "291",
+          "label": "38"
+        },
+        {
+          "id": "292",
+          "label": "39"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "143694",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "282",
+          "group": "Tamaño",
+          "value": "29"
+        }
+      ],
+      "sku": "1059XA7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:29.496Z"
+    },
+    {
+      "id": "136702",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "283",
+          "group": "Tamaño",
+          "value": "30"
+        }
+      ],
+      "sku": "1059XB7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:32.044Z"
+    },
+    {
+      "id": "89095",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "284",
+          "group": "Tamaño",
+          "value": "31"
+        }
+      ],
+      "sku": "1059XC7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:34.731Z"
+    },
+    {
+      "id": "136703",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "285",
+          "group": "Tamaño",
+          "value": "32"
+        }
+      ],
+      "sku": "1059XD7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:37.288Z"
+    },
+    {
+      "id": "88291",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "286",
+          "group": "Tamaño",
+          "value": "33"
+        }
+      ],
+      "sku": "1059XE7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:39.781Z"
+    },
+    {
+      "id": "87152",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "287",
+          "group": "Tamaño",
+          "value": "34"
+        }
+      ],
+      "sku": "1059XF7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:42.757Z"
+    },
+    {
+      "id": "87213",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "288",
+          "group": "Tamaño",
+          "value": "35"
+        }
+      ],
+      "sku": "1059XG7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 62.94,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:45.097Z"
+    },
+    {
+      "id": "93604",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "289",
+          "group": "Tamaño",
+          "value": "36"
+        }
+      ],
+      "sku": "1059XH7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 62.94,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:48.922Z"
+    },
+    {
+      "id": "93605",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "290",
+          "group": "Tamaño",
+          "value": "37"
+        }
+      ],
+      "sku": "1059XI7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 62.94,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:52.091Z"
+    },
+    {
+      "id": "99492",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "291",
+          "group": "Tamaño",
+          "value": "38"
+        }
+      ],
+      "sku": "1059XJ7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 62.94,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:54.781Z"
+    },
+    {
+      "id": "99807",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "292",
+          "group": "Tamaño",
+          "value": "39"
+        }
+      ],
+      "sku": "1059XK7047",
+      "productSku": "1166",
+      "taxRate": 21,
+      "price": 65.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:57.716Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6328-15677.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15677-large_default/zapato-velcro-reforzado-del-29-al-39-negro.jpg",
+      "alt": "Zapato velcro reforzado del 29 al 39 Negro",
+      "sourceId": "15677",
+      "variantIds": [],
+      "sha256": "787ccee6cd154d4228fb97a6d29bf4b3f517b80f2fc3f081056e3ff774cd6c9e"
+    },
+    {
+      "path": "assets/6328-15678.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15678-large_default/zapato-velcro-reforzado-del-29-al-39-negro.jpg",
+      "alt": "Zapato velcro reforzado del 29 al 39 Negro",
+      "sourceId": "15678",
+      "variantIds": [],
+      "sha256": "d6e107595ed4223d5119730340e71265eac8804314d8dbfe8d539d35cdfc7ca3"
+    },
+    {
+      "path": "assets/6328-15679.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15679-large_default/zapato-velcro-reforzado-del-29-al-39-negro.jpg",
+      "alt": "Zapato velcro reforzado del 29 al 39 Negro",
+      "sourceId": "15679",
+      "variantIds": [],
+      "sha256": "d111a719f5fd76b4b44d1cf633ddbdd48253ab57dc5036838abbb2a238b01d7d"
+    },
+    {
+      "path": "assets/6328-15680.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15680-large_default/zapato-velcro-reforzado-del-29-al-39-negro.jpg",
+      "alt": "Zapato velcro reforzado del 29 al 39 Negro",
+      "sourceId": "15680",
+      "variantIds": [],
+      "sha256": "5afb9d29d2ca5781f89d49df435008ce7e636ff060fb64966c2870c1e474c2ee"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:57.944Z",
+  "issues": []
+}

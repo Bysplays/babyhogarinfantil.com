@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "9379",
+  "sourceUrl": "https://babyhogarinfantil.com/peleles-bebe-nina/9379-pelele-bebe-nina-verano-algodon-rosa.html",
+  "name": "Pelele bebe niña verano algodón Rosa",
+  "brand": "Babybol",
+  "sku": "2202012",
+  "description": "Pelele corto 100% algodón. Tiene corchetes en la espalda y en la entrepierna para facilitar la puesta.",
+  "details": "Composición y cuidados:\n\nPelele: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pelele: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "773",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "773",
+  "sourceCategoryName": "Peleles Bebé Niña",
+  "price": 6.5,
+  "oldPrice": 13.005401,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69129",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2202012",
+      "productSku": "2202012",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 13.005401,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:45.093Z"
+    },
+    {
+      "id": "69130",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2202012",
+      "productSku": "2202012",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 13.005401,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:47.373Z"
+    },
+    {
+      "id": "69131",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2202012",
+      "productSku": "2202012",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 13.005401,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:51.264Z"
+    },
+    {
+      "id": "69132",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2202012",
+      "productSku": "2202012",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 13.005401,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:54.435Z"
+    },
+    {
+      "id": "69133",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2202012",
+      "productSku": "2202012",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 13.005401,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:58.376Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9379-7635.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7635-large_default/pelele-bebe-nina-verano-algodon-rosa.jpg",
+      "alt": "Pelele bebe niña verano algodón Rosa",
+      "sourceId": "7635",
+      "variantIds": [],
+      "sha256": "2ff0895b474b43fb293f5f5bdc1d68d3608c217595f04632249370db8a17c570"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:58.446Z",
+  "issues": []
+}

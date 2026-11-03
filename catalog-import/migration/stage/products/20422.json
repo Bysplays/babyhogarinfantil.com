@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": "20422",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nino/20422-abrigo-borreguito-bebe-camel.html",
+  "name": "Abrigo borreguito bebe Camel",
+  "brand": "Calamaro",
+  "sku": "2502010",
+  "description": "Trenka con capucha ideal para el frío, por dentro es toda de borreguito. Abrocha con botones.\n\nHECHO EN ESPAÑA",
+  "details": "Composición y cuidados:\n\n100% poliéster.\n\nNO USAR LEJIAS\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>100% poliéster.</p>\n<p>NO USAR LEJIAS</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "827",
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "827",
+  "sourceCategoryName": "Abrigos chaquetones bebé niño",
+  "price": 32.25,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94572",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502010",
+      "productSku": "2502010",
+      "taxRate": 21,
+      "price": 32.25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:55.920Z"
+    },
+    {
+      "id": "94573",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502010",
+      "productSku": "2502010",
+      "taxRate": 21,
+      "price": 32.25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:57.291Z"
+    },
+    {
+      "id": "94574",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502010",
+      "productSku": "2502010",
+      "taxRate": 21,
+      "price": 32.25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:58.494Z"
+    },
+    {
+      "id": "94575",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502010",
+      "productSku": "2502010",
+      "taxRate": 21,
+      "price": 32.25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:59.999Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20422-19634.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19634-large_default/abrigo-borreguito-bebe-camel.jpg",
+      "alt": "Abrigo borreguito bebe Camel",
+      "sourceId": "19634",
+      "variantIds": [],
+      "sha256": "a2aead03804fae68b6a500683b399c2b7138225d3817318739d4d1580892f8fa"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:00.059Z",
+  "issues": []
+}

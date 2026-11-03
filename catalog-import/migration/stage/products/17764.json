@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "17764",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-de-punto-bebe-nino/17764-conjunto-polaina-mino-granate.html",
+  "name": "Conjunto polaina Miño Granate",
+  "brand": "Calamaro",
+  "sku": "2402030",
+  "description": "Conjunto polaina ideal para las fotos de esta navidad.",
+  "details": "Composición y cuidados:\n\nConjunto: 100% algodón.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Conjunto: 100% algodón.</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Granate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "692"
+  ],
+  "sourceDefaultCategoryId": "692",
+  "sourceCategoryName": "Conjuntos de punto BEBE NIÑO",
+  "price": 27,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-09 15:53:55",
+  "sourceUpdatedAt": "2026-10-27 11:13:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85417",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2402030",
+      "productSku": "2402030",
+      "taxRate": 21,
+      "price": 27,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:56.470Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17764-17246.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17246-large_default/conjunto-polaina-mino-granate.jpg",
+      "alt": "Conjunto polaina Miño Granate",
+      "sourceId": "17246",
+      "variantIds": [],
+      "sha256": "3fd6ddb7f8d62673661028eb4217b8444d38b515583c128e39752aa261c0da8b"
+    },
+    {
+      "path": "assets/17764-17247.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17247-large_default/conjunto-polaina-mino-granate.jpg",
+      "alt": "Conjunto polaina Miño Granate",
+      "sourceId": "17247",
+      "variantIds": [],
+      "sha256": "ca0c9d9858e81c63c405d7e8c9ae26852de0542738851ac12f235c4a793cf496"
+    },
+    {
+      "path": "assets/17764-17248.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17248-large_default/conjunto-polaina-mino-granate.jpg",
+      "alt": "Conjunto polaina Miño Granate",
+      "sourceId": "17248",
+      "variantIds": [],
+      "sha256": "d94e88dbe41c87ddf01a58ba09f1cd1cd25ea7c77ae00189f4454d9ef4383d9f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:56.606Z",
+  "issues": []
+}

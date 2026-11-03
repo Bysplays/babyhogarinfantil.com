@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "7335",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/7335-polo-bebe-listas-elefante-crudo.html",
+  "name": "Polo bebé listas elefante Crudo",
+  "brand": "Chicco",
+  "sku": "1807240",
+  "description": "Polo de rayas, 100% ALGODON, para combinar con el peto y la chaqueta de borreguito que puedes ver mas abajo. SE VENDE TODO POR SEPARADO.",
+  "details": "De la firma Italiana CHICCO. Polo maga larga de rayas y Pantalón de peto en espiguilla, dos posiciones para ajustar el tirante. Tiene goma en la cintura, y se abre completmante en la entrepierna con corchetes. Dispones tambien la chaqueta de borreguito a juego para hacer un conjunto perfecto para el invierno.\n\nComposición:\nPantalón peto: 100% algodón.\nPolo: 100% algodón.\nChaqueta borreguito: \n    El punto: 53% acrílico, 35% algodón, 11% poliamida, 1% elastano.\n    El borreguito: 100% Poliéster.\n\nNO USAR SECADORA.\nNO USAR LEJIAS QUE LA LIAS.\nLAVAR A 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>De la firma Italiana <strong>CHICCO</strong>. Polo maga larga de rayas y Pantalón de peto en espiguilla, dos posiciones para ajustar el tirante. Tiene goma en la cintura, y se abre completmante en la entrepierna con corchetes. Dispones tambien la chaqueta de borreguito a juego para hacer un conjunto perfecto para el invierno.</p>\n<p>Composición:<br />Pantalón peto: 100% algodón.<br />Polo: 100% algodón.<br />Chaqueta borreguito: <br />    El punto: 53% acrílico, 35% algodón, 11% poliamida, 1% elastano.<br />    El borreguito: 100% Poliéster.</p>\n<p>NO USAR SECADORA.<br />NO USAR LEJIAS QUE LA LIAS.<br />LAVAR A 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:23",
+  "sourceUpdatedAt": "2026-10-27 11:10:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65583",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1807240",
+      "productSku": "1807240",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:08.867Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7335-5310.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5310-large_default/polo-bebe-listas-elefante-crudo.jpg",
+      "alt": "Polo bebé listas elefante Crudo",
+      "sourceId": "5310",
+      "variantIds": [],
+      "sha256": "65790d723261761efae9f02f8be285f07aca98d803a42fcba7f3acf33c79137e"
+    },
+    {
+      "path": "assets/7335-10202.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10202-large_default/polo-bebe-listas-elefante-crudo.jpg",
+      "alt": "Polo bebé listas elefante Crudo",
+      "sourceId": "10202",
+      "variantIds": [],
+      "sha256": "0d1cf8caee25b8a9df6ba65a5df574711ec5ec962030dbefb2a96280d8955495"
+    },
+    {
+      "path": "assets/7335-10203.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10203-large_default/polo-bebe-listas-elefante-crudo.jpg",
+      "alt": "Polo bebé listas elefante Crudo",
+      "sourceId": "10203",
+      "variantIds": [],
+      "sha256": "65790d723261761efae9f02f8be285f07aca98d803a42fcba7f3acf33c79137e"
+    },
+    {
+      "path": "assets/7335-5309.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5309-large_default/polo-bebe-listas-elefante-crudo.jpg",
+      "alt": "Polo bebé listas elefante Crudo",
+      "sourceId": "5309",
+      "variantIds": [],
+      "sha256": "0d1cf8caee25b8a9df6ba65a5df574711ec5ec962030dbefb2a96280d8955495"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:09.321Z",
+  "issues": []
+}

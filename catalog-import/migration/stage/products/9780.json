@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "9780",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9780-conjunto-pololo-terra-gris.html",
+  "name": "Conjunto pololo terra Gris",
+  "brand": "Calamaro",
+  "sku": "2207024",
+  "description": "Destaca entre la multitud con el conjunto Pololo Terra Gris. Este versátil conjunto de ropa para bebés y niños ha sido diseñado a la perfección para la máxima comodidad y estilo. Su tejido ultra suave y respirable garantizará que su pequeño se sienta cómodo durante todo el día. Ademas, su elegante tono gris le dará un aspecto sofisticado y moderno. Ya sea para un evento especial o para el uso cotidiano, el Conjunto Pololo Terra Gris será la elección perfecta.",
+  "details": "Confort en Cada Hilo\n\nEl Conjunto Pololo Terra Gris ofrece una mezcla de confort y suavidad para los más pequeños. Cada hilo de este conjunto está diseñado con materias primas de alta calidad, garantizando un ajuste cómodo y una prolongada durabilidad. Este artículo suma elegancia y funcionalidad, siendo una opción excelente para cualquier ocasión o temporada.\n\n\nTranspirabilidad y Suavidad Incomparables\n\nPensado para la delicada piel de los bebés y niños, el Conjunto Pololo Terra Gris está fabricado con tejidos transpirables que permiten el paso del aire, brindando frescura incluso en los días más calurosos. Además, su esponjosa suavidad ofrece una agradable sensación al tacto que deleitará a los más pequeños y les dará un descanso placentero y tranquilo.\n\n\nEstilo Contemporáneo para los Pequeños Fashionistas\n\nLa estética neutra y versátil de este conjunto en tonos grises aporta un toque de sofisticación y sencillez sutil. El Conjunto Pololo Terra Gris combina con todo, desde un chaleco alegre hasta un sombrero tierno, lo que lo hace perfectamente combinable para crear un sinfín de estilos para los pequeños fashionistas.\n\n\n¡No esperes más! Dale a los pequeños el regalo del confort y el estilo con el Conjunto Pololo Terra Gris. ¡Añádelo al carrito hoy mismo!",
+  "sourceDescriptionHtml": "<h2>Confort en Cada Hilo</h2>\n<p>El Conjunto Pololo Terra Gris ofrece una mezcla de confort y suavidad para los más pequeños. Cada hilo de este conjunto está diseñado con materias primas de alta calidad, garantizando un ajuste cómodo y una prolongada durabilidad. Este artículo suma elegancia y funcionalidad, siendo una opción excelente para cualquier ocasión o temporada.</p>\n\n<h2>Transpirabilidad y Suavidad Incomparables</h2>\n<p>Pensado para la delicada piel de los bebés y niños, el Conjunto Pololo Terra Gris está fabricado con tejidos transpirables que permiten el paso del aire, brindando frescura incluso en los días más calurosos. Además, su esponjosa suavidad ofrece una agradable sensación al tacto que deleitará a los más pequeños y les dará un descanso placentero y tranquilo.</p>\n\n<h2>Estilo Contemporáneo para los Pequeños Fashionistas</h2>\n<p>La estética neutra y versátil de este conjunto en tonos grises aporta un toque de sofisticación y sencillez sutil. El Conjunto Pololo Terra Gris combina con todo, desde un chaleco alegre hasta un sombrero tierno, lo que lo hace perfectamente combinable para crear un sinfín de estilos para los pequeños fashionistas.</p>\n\n<p><strong>¡No esperes más! Dale a los pequeños el regalo del confort y el estilo con el Conjunto Pololo Terra Gris. ¡Añádelo al carrito hoy mismo!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69979",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2207024",
+      "productSku": "2207024",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:06.571Z"
+    },
+    {
+      "id": "69980",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2207024",
+      "productSku": "2207024",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:07.690Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9780-12723.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12723-large_default/conjunto-pololo-terra-gris.jpg",
+      "alt": "Conjunto pololo terra Gris",
+      "sourceId": "12723",
+      "variantIds": [],
+      "sha256": "92b05e0f8bee6b0d185873cdc0647e509595ff0d7c4fa0e98c9ef254cd6e22dc"
+    },
+    {
+      "path": "assets/9780-12722.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12722-large_default/conjunto-pololo-terra-gris.jpg",
+      "alt": "Conjunto pololo terra Gris",
+      "sourceId": "12722",
+      "variantIds": [],
+      "sha256": "4b2eb885a8c1b80bba4c58ca91f50c5d4db1ff5592731ca81f35c64bcd151100"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:07.824Z",
+  "issues": []
+}

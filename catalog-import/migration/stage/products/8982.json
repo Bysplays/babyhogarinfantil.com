@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "8982",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/8982-rebeca-tricot-basica-fucsia.html",
+  "name": "Rebeca tricot básica Fucsia",
+  "brand": "Mayoral",
+  "sku": "2107048",
+  "description": "Chaqueta tricot 100% algodón orgánico.",
+  "details": "Composición y cuidados:\n\nChaqueta: 100% algodón orgánico.\n\nLAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% algodón orgánico.</p>\n<p>LAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 9.5,
+  "oldPrice": 18.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "338",
+          "label": "0-1m"
+        },
+        {
+          "id": "339",
+          "label": "1-2m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72963",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "338",
+          "group": "Tamaño",
+          "value": "0-1m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:29.071Z"
+    },
+    {
+      "id": "72964",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "339",
+          "group": "Tamaño",
+          "value": "1-2m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:30.795Z"
+    },
+    {
+      "id": "72968",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:33.127Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8982-11759.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11759-large_default/rebeca-tricot-basica-fucsia.jpg",
+      "alt": "Rebeca tricot básica Fucsia",
+      "sourceId": "11759",
+      "variantIds": [],
+      "sha256": "16e10e9d9b8273b1a63df566164930e54c0d4741c113b4cfcfd5c5ab5c80099a"
+    },
+    {
+      "path": "assets/8982-11762.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11762-large_default/rebeca-tricot-basica-fucsia.jpg",
+      "alt": "Rebeca tricot básica Fucsia",
+      "sourceId": "11762",
+      "variantIds": [],
+      "sha256": "212b571e1ffd83c4a1fb85a9fbace2095d27e22be3db36611d2cec8265bbdc66"
+    },
+    {
+      "path": "assets/8982-11760.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11760-large_default/rebeca-tricot-basica-fucsia.jpg",
+      "alt": "Rebeca tricot básica Fucsia",
+      "sourceId": "11760",
+      "variantIds": [],
+      "sha256": "e8d917af4e215cf924a1e4be47b93204e625f90e5a66df1e901648fe79d04354"
+    },
+    {
+      "path": "assets/8982-11761.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11761-large_default/rebeca-tricot-basica-fucsia.jpg",
+      "alt": "Rebeca tricot básica Fucsia",
+      "sourceId": "11761",
+      "variantIds": [],
+      "sha256": "cb571fab1d5226aae7cb0e5ae48c1f0af5d3c6a92df3a8f11dd229cdaaf58913"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:33.425Z",
+  "issues": []
+}

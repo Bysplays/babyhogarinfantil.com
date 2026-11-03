@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "6293",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-pom-pom/6293-calcetin-alto-con-borlas-azul-bebe.html",
+  "name": "Calcetín alto con borlas Azul bebé",
+  "brand": "Condor",
+  "sku": "1020",
+  "description": "Calcetín alto con borlas en ALGODON CALIDO.",
+  "details": "Composisic&oacute;n:\nCalcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.",
+  "sourceDescriptionHtml": "<p>Composisic&oacute;n:<br />Calcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul bebé",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "686",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "686",
+  "sourceCategoryName": "Calcetines con pom-pom",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84060",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:23.524Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6293-4275.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4275-large_default/calcetin-alto-con-borlas-azul-bebe.jpg",
+      "alt": "Calcetín alto con borlas Azul bebé",
+      "sourceId": "4275",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6293-9510.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9510-large_default/calcetin-alto-con-borlas-azul-bebe.jpg",
+      "alt": "Calcetín alto con borlas Azul bebé",
+      "sourceId": "9510",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6293-4274.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4274-large_default/calcetin-alto-con-borlas-azul-bebe.jpg",
+      "alt": "Calcetín alto con borlas Azul bebé",
+      "sourceId": "4274",
+      "variantIds": [],
+      "sha256": "ba5614390336d42f3b558c50621af5a1944d474796e86a34d8995dded4a18b8d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:23.696Z",
+  "issues": []
+}

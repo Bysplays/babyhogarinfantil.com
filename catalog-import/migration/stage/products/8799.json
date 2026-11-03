@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8799",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/8799-cazadora-vaquera-parche-corazones-azul.html",
+  "name": "Cazadora vaquera parche corazones Azul",
+  "brand": "Newness",
+  "sku": "2104022",
+  "description": "Cazadora vaquera en tono claro, tejido elástico y flexible, con detalles de corazones de lentejuelas en el pecho.",
+  "details": "Cazadora vaquera en color tejano claro, tejido elástico y flexible. Cierre con botones plateados delanteros. Bolsillos en el pecho. Manga de murciélago. Como detalle, corazones de lentejuelas en rosa y verde en el pecho. Una prenda perfecta para combinar con vestidos o conjuntos, ideal para darle un toque desenfadado a cualquier look! Echa un ojito a nuestros calcetines y calzado y podrás completarla con todo lo que necesites!\n\nComposición y cuidados:\n\nCazadora: 75% algodón, 23% poliéster, 2% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Cazadora vaquera en color tejano claro, tejido elástico y flexible. Cierre con botones plateados delanteros. Bolsillos en el pecho. <strong>Manga de murciélago</strong>. Como detalle, <strong>corazones de lentejuelas</strong> en rosa y verde en el pecho. Una prenda perfecta para combinar con vestidos o conjuntos, ideal para darle un toque desenfadado a cualquier look! Echa un ojito a nuestros <strong>calcetines y calzado</strong> y podrás completarla con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Cazadora: 75% algodón, 23% poliéster, 2% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "728"
+  ],
+  "sourceDefaultCategoryId": "728",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 13,
+  "oldPrice": 25.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:41",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "78782",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2104022",
+      "productSku": "2104022",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": 25.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:18.042Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8799-11548.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11548-large_default/cazadora-vaquera-parche-corazones-azul.jpg",
+      "alt": "Cazadora vaquera parche corazones Azul",
+      "sourceId": "11548",
+      "variantIds": [],
+      "sha256": "58de842d56862fb22c056fc1947639ac6f78b17e095e926ff439a6881f2f6b10"
+    },
+    {
+      "path": "assets/8799-9229.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9229-large_default/cazadora-vaquera-parche-corazones-azul.jpg",
+      "alt": "Cazadora vaquera parche corazones Azul",
+      "sourceId": "9229",
+      "variantIds": [],
+      "sha256": "de01d3f37085c3db1b1dada583116f395b7c74c945e33194d4d2b6edc7db153c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:18.152Z",
+  "issues": []
+}

@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "9490",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/9490-conjunto-nino-verano-3-piezas-rojo.html",
+  "name": "Conjunto niño verano 3 piezas Rojo",
+  "brand": "Zippy",
+  "sku": "2202131",
+  "description": "Conjunto de tres piezas, compuesto por dos camisetas de manga corta con distintos estampados y pantalón corto azul marino, con goma interior ajustable en la cintura.",
+  "details": "Conjunto de tres piezas de ZIPPY,  firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. Compuesto por dos camisetas de manga corta y cuello redondo, 100% ALGODÓN, con distintos estampados: una en color rojo con estampado en el pecho y otra blanca con estampado geométrico en azul marino y mostaza. Como parte de abajo, pantalón corto azul marino con cierre de corchete a presión y cremallera. Tiene goma interior ajustable. Con bolsillos y trabillas para poder usar cinturón. Un conjunto muy estiloso y completo, al tratarse de tres piezas podrás combinar el pantalón con la camiseta que más te guste! Echa un ojito a nuestra sección de ropa interior, sudaderas y calzado y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nCamisetas: 100% algodón\n\nPantalón: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Conjunto de tres piezas de <strong>ZIPPY</strong>,  firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. Compuesto por <strong>dos camisetas</strong> de manga corta y cuello redondo,<strong> 100% ALGODÓN</strong>, con distintos estampados: una en color rojo con estampado en el pecho y otra blanca con estampado geométrico en azul marino y mostaza. Como parte de abajo, pantalón corto azul marino con cierre de<strong> corchete a presión</strong> y cremallera. Tiene <strong>goma interior ajustable</strong>. Con bolsillos y trabillas para poder usar cinturón. Un conjunto muy estiloso y completo, al tratarse de tres piezas podrás combinar el pantalón con la camiseta que más te guste! Echa un ojito a nuestra <strong>sección de ropa interior, sudaderas y calzado</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camisetas: 100% algodón</p>\n<p>Pantalón: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 15,
+  "oldPrice": 29.9959,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69335",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2202131",
+      "productSku": "2202131",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": 29.9959,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:19.269Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9490-7745.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7745-large_default/conjunto-nino-verano-3-piezas-rojo.jpg",
+      "alt": "Conjunto niño verano 3 piezas Rojo",
+      "sourceId": "7745",
+      "variantIds": [],
+      "sha256": "f16008e52ef2a9e009c532a990f5948cc3f689e19f0d729566d9a1e2b65b6db7"
+    },
+    {
+      "path": "assets/9490-12410.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12410-large_default/conjunto-nino-verano-3-piezas-rojo.jpg",
+      "alt": "Conjunto niño verano 3 piezas Rojo",
+      "sourceId": "12410",
+      "variantIds": [],
+      "sha256": "4e8dd245cbd1c28a79147de2f1b1756e21153bc147c663d817f9f2ed1851dc92"
+    },
+    {
+      "path": "assets/9490-12412.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12412-large_default/conjunto-nino-verano-3-piezas-rojo.jpg",
+      "alt": "Conjunto niño verano 3 piezas Rojo",
+      "sourceId": "12412",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9490-7743.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7743-large_default/conjunto-nino-verano-3-piezas-rojo.jpg",
+      "alt": "Conjunto niño verano 3 piezas Rojo",
+      "sourceId": "7743",
+      "variantIds": [],
+      "sha256": "40dfcf5ce558f701f7fe268d5cdfbd5ad2f300da8e166f22dd6cf255e11de98e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:19.487Z",
+  "issues": []
+}

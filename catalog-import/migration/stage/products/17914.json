@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "17914",
+  "sourceUrl": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/17914-mochila-guarderia-rojo.html",
+  "name": "Mochila guarderia Rojo",
+  "brand": "Mayoral",
+  "sku": "2402072",
+  "description": "¡Descubre la Mochila Guardería Rojo! Un imprescindible para los pequeños aventureros. Su diseño vibrante e ingenioso atraerá miradas en todo lugar. Fabricada con materiales de alta calidad, garantiza durabilidad y confort inigualables. Perfecta para días de guardería, excursiones o simplemente un día en el parque. No más desorden con sus amplios compartimientos, ideal para guardar meriendas y esenciales. ¡Promueve la autonomía y agrega diversión a su rutina diaria con esta mochila perfecta!",
+  "details": "Diseño Irresistible y Práctico\n\nEstimula los sentidos del pequeño con el color vibrante de nuestra mágica Mochila Guardería Rojo. Este accesorio esencial para el jardín de infantes está diseñado pensando en los niños pequeños. Su color atractivo, junto con su tamaño adecuado para los niños en edad preescolar, la hacen perfecta para que tu hijo lleve todos sus elementos esenciales de la guardería.\n\nComodidad Incomparable\n\nLa comodidad es una prioridad primordial y la Mochila Guardería Rojo no se queda atrás. Con correas de hombro acolchadas y ajustables, se asegura un ajuste cómodo y personalizado para tu pequeño. Su espalda acolchada promete una comodidad total, importante para la espina dorsal en desarrollo de tu pequeño.\n\nCalidad y Durabilidad Aseguradas\n\nLa Mochila Guardería Rojo no sólo es atractiva, sino también resistente y duradera. Hecha con materiales de alta calidad, esta mochila se asegura de acompañar a tu hijo durante todas sus experiencias de aprendizaje y aventuras en la guardería. Los cierres fuertes y el material impermeable garantizan que todas sus pertenencias se mantengan seguras y secas, sin importar el clima.\n\n¡No esperes más! Dale a tu hijo una experiencia cómoda y agradable en la guardería con la Mochila Guardería Rojo. Compra ahora e impulsa las aventuras de aprendizaje de tu pequeño.\n\nComposición:\n\nMochila: 100% poliéster.",
+  "sourceDescriptionHtml": "<h2>Diseño Irresistible y Práctico</h2>\n<p>Estimula los sentidos del pequeño con el color vibrante de nuestra mágica Mochila Guardería Rojo. Este accesorio esencial para el jardín de infantes está diseñado pensando en los niños pequeños. Su color atractivo, junto con su tamaño adecuado para los niños en edad preescolar, la hacen perfecta para que tu hijo lleve todos sus elementos esenciales de la guardería.</p>\n<h2>Comodidad Incomparable</h2>\n<p>La comodidad es una prioridad primordial y la Mochila Guardería Rojo no se queda atrás. Con correas de hombro acolchadas y ajustables, se asegura un ajuste cómodo y personalizado para tu pequeño. Su espalda acolchada promete una comodidad total, importante para la espina dorsal en desarrollo de tu pequeño.</p>\n<h2>Calidad y Durabilidad Aseguradas</h2>\n<p>La Mochila Guardería Rojo no sólo es atractiva, sino también resistente y duradera. Hecha con materiales de alta calidad, esta mochila se asegura de acompañar a tu hijo durante todas sus experiencias de aprendizaje y aventuras en la guardería. Los cierres fuertes y el material impermeable garantizan que todas sus pertenencias se mantengan seguras y secas, sin importar el clima.</p>\n<p><strong>¡No esperes más! Dale a tu hijo una experiencia cómoda y agradable en la guardería con la Mochila Guardería Rojo. Compra ahora e impulsa las aventuras de aprendizaje de tu pequeño.</strong></p>\n<p>Composición:</p>\n<p>Mochila: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "704",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "704",
+  "sourceCategoryName": "Mochilas y bolsas merienda",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-20 08:34:33",
+  "sourceUpdatedAt": "2026-10-27 11:13:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94037",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12202XA18701",
+      "productSku": "2402072",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:07.015Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17914-16194.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16194-large_default/mochila-guarderia-rojo.jpg",
+      "alt": "Mochila guarderia Rojo",
+      "sourceId": "16194",
+      "variantIds": [],
+      "sha256": "2735e53e56bfda6fb1559adc68ff2ffa67cea3c35857c70a0038c6e3745cbafa"
+    },
+    {
+      "path": "assets/17914-16195.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16195-large_default/mochila-guarderia-rojo.jpg",
+      "alt": "Mochila guarderia Rojo",
+      "sourceId": "16195",
+      "variantIds": [],
+      "sha256": "6871b4689648a6ab9b0319280a2c76348706640f1607f01565d276c7feaabc80"
+    },
+    {
+      "path": "assets/17914-16196.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16196-large_default/mochila-guarderia-rojo.jpg",
+      "alt": "Mochila guarderia Rojo",
+      "sourceId": "16196",
+      "variantIds": [],
+      "sha256": "6fd292fe57eb205a6b935c48b351c834ff8ecd2f82f2accfd1bdc2d0bdc940f8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:07.182Z",
+  "issues": []
+}

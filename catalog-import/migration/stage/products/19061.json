@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "19061",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/19061-calcetin-corto-mezcla-lana-nino-azul-marino.html",
+  "name": "Calcetín corto mezcla lana niño Azul Marino",
+  "brand": "Condor",
+  "sku": "2402273",
+  "description": "Calcetín corto dibujo coches. Con lana. Cáido para el invierno.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\n45% Acrílico\n\n44% Lana \n\n10% Poliamida\n\n1% Elastano",
+  "sourceDescriptionHtml": "<p><strong>Composición:</strong></p>\n<p>45% Acrílico</p>\n<p>44% Lana </p>\n<p>10% Poliamida</p>\n<p>1% Elastano</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-11-14 08:34:12",
+  "sourceUpdatedAt": "2026-10-27 11:13:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88639",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "2402273",
+      "productSku": "2402273",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:10.953Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19061-17574.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17574-large_default/calcetin-corto-mezcla-lana-nino-azul-marino.jpg",
+      "alt": "Calcetín corto mezcla lana niño Azul Marino",
+      "sourceId": "17574",
+      "variantIds": [],
+      "sha256": "62299b0638e0bc2366e18dcbcece4403a29b11730c2ffc56cb731700b9a1fd34"
+    },
+    {
+      "path": "assets/19061-17575.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17575-large_default/calcetin-corto-mezcla-lana-nino-azul-marino.jpg",
+      "alt": "Calcetín corto mezcla lana niño Azul Marino",
+      "sourceId": "17575",
+      "variantIds": [],
+      "sha256": "62968d446836fb10b98cfe961e260650a5da447b6783926692532d02c6c1ede6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:11.085Z",
+  "issues": []
+}

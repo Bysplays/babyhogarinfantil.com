@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "21886",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21886-conjunto-bebe-nino-calamaro-ballena-azul.html",
+  "name": "Conjunto bebé niño Calamaro ballena Azul",
+  "brand": "Calamaro",
+  "sku": "2601083",
+  "description": "Conjunto para bebé niño Calamaro formado por camiseta blanca de manga corta con bordado de ballena azul y cubrepañal estampado a juego. Un diseño fresco, cómodo y muy bonito para los días de primavera y verano. Hecho en España, con el estilo delicado y la calidad que caracterizan a la firma Calamaro.",
+  "details": "Este conjunto bebé niño Calamaro es una opción ideal para vestir a los más pequeños con un estilo dulce, cuidado y cómodo. Está compuesto por una camiseta blanca de manga corta con un bonito motivo bordado de ballena en tonos azules y un cubrepañal estampado a juego, creando un conjunto veraniego muy favorecedor.\n\nSu diseño combina la suavidad visual del blanco con un estampado azul de inspiración marinera, perfecto para la temporada de primavera y verano. El cubrepañal con cintura y perneras elásticas aporta una buena sujeción y comodidad, permitiendo libertad de movimiento para el bebé.\n\nLa camiseta presenta una línea sencilla y elegante, realzada por el detalle bordado de la ballena, que aporta un acabado fino y muy especial. Es un conjunto muy apropiado tanto para el día a día como para ocasiones más arregladas, cuando se busca una prenda cómoda pero con un aire más cuidado.\n\nCalamaro es una marca reconocida por su diseño clásico renovado y por la calidad de sus prendas infantiles. Además, este conjunto está hecho en España, un valor añadido que muchos clientes aprecian por su garantía de confección, detalle y buen acabado.\n\nSi buscas un conjunto de bebé niño elegante, fresco y de fabricación española, este modelo de Calamaro es una elección excelente para la nueva temporada.",
+  "sourceDescriptionHtml": "<p>Este <strong>conjunto bebé niño Calamaro</strong> es una opción ideal para vestir a los más pequeños con un estilo dulce, cuidado y cómodo. Está compuesto por una camiseta blanca de manga corta con un bonito <strong>motivo bordado de ballena en tonos azules</strong> y un <strong>cubrepañal estampado</strong> a juego, creando un conjunto veraniego muy favorecedor.</p>\n<p>Su diseño combina la suavidad visual del blanco con un estampado azul de inspiración marinera, perfecto para la temporada de primavera y verano. El cubrepañal con cintura y perneras elásticas aporta una buena sujeción y comodidad, permitiendo libertad de movimiento para el bebé.</p>\n<p>La camiseta presenta una línea sencilla y elegante, realzada por el detalle bordado de la ballena, que aporta un acabado fino y muy especial. Es un conjunto muy apropiado tanto para el día a día como para ocasiones más arregladas, cuando se busca una prenda cómoda pero con un aire más cuidado.</p>\n<p><strong>Calamaro es una marca reconocida por su diseño clásico renovado y por la calidad de sus prendas infantiles</strong>. Además, este conjunto está <strong>hecho en España</strong>, un valor añadido que muchos clientes aprecian por su garantía de confección, detalle y buen acabado.</p>\n<p>Si buscas un <strong>conjunto de bebé niño elegante, fresco y de fabricación española</strong>, este modelo de Calamaro es una elección excelente para la nueva temporada.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 26.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-17 15:56:59",
+  "sourceUpdatedAt": "2026-10-27 11:15:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100220",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2601083",
+      "productSku": "2601083",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:47.538Z"
+    },
+    {
+      "id": "100221",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2601083",
+      "productSku": "2601083",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:48.428Z"
+    },
+    {
+      "id": "100222",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2601083",
+      "productSku": "2601083",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:49.218Z"
+    },
+    {
+      "id": "100224",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2601083",
+      "productSku": "2601083",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:50.161Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21886-20792.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20792-large_default/conjunto-bebe-nino-calamaro-ballena-azul.jpg",
+      "alt": "Conjunto bebé niño Calamaro con camiseta blanca de ballena azul y cubrepañal estampado",
+      "sourceId": "20792",
+      "variantIds": [],
+      "sha256": "340dc8a1fb01047587eb08e7aaa64c7eba46186123703e9e9b6dbe7356a1e018"
+    },
+    {
+      "path": "assets/21886-20793.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20793-large_default/conjunto-bebe-nino-calamaro-ballena-azul.jpg",
+      "alt": "Detalle del cubrepañal azul estampado del conjunto bebé niño Calamaro",
+      "sourceId": "20793",
+      "variantIds": [],
+      "sha256": "e0b6591abc297b79502d1617e505a16358857b097919e2f6fd5f88208a280a18"
+    },
+    {
+      "path": "assets/21886-20794.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20794-large_default/conjunto-bebe-nino-calamaro-ballena-azul.jpg",
+      "alt": "Conjunto bebé niño Calamaro ballena Azul",
+      "sourceId": "20794",
+      "variantIds": [],
+      "sha256": "bff5f269384252758996033168651ed05ea95e4be1a4a020acf8cdaf35e541c8"
+    },
+    {
+      "path": "assets/21886-20799.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20799-large_default/conjunto-bebe-nino-calamaro-ballena-azul.jpg",
+      "alt": "Parte trasera del conjunto bebé niño Calamaro con cubrepañal azul",
+      "sourceId": "20799",
+      "variantIds": [],
+      "sha256": "abc5ae111fdc971f1c684b916f7dd3f49e3cd702d55cd2fece1d72be53b94fab"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:51:50.659Z",
+  "issues": []
+}

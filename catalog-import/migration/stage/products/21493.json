@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "21493",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/21493-pijama-tundosado-nino-invierno-azul.html",
+  "name": "Pijama tundosado niño invierno Azul",
+  "brand": "Tobogan",
+  "sku": "2502131",
+  "description": "Pijama largo para niño. Es calentito para el invierno. Tacto muy suave y agradable.",
+  "details": "Composición:\n\nPijama: 76% algodón, 24% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pijama: 76% algodón, 24% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 24,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96792",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502131",
+      "productSku": "2502131",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:08.847Z"
+    },
+    {
+      "id": "96793",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502131",
+      "productSku": "2502131",
+      "taxRate": 21,
+      "price": 24,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:10.209Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21493-20055.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20055-large_default/pijama-tundosado-nino-invierno-azul.jpg",
+      "alt": "Pijama tundosado niño invierno Azul",
+      "sourceId": "20055",
+      "variantIds": [],
+      "sha256": "e3f9700ad9abbf63aa1a563bb6574d25189be77fd5637ef6468ae57ef976177a"
+    },
+    {
+      "path": "assets/21493-20056.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20056-large_default/pijama-tundosado-nino-invierno-azul.jpg",
+      "alt": "Pijama tundosado niño invierno Azul",
+      "sourceId": "20056",
+      "variantIds": [],
+      "sha256": "69b02b1d2b2918cd84a1be794859f844ad518f9c92639b80fe96105756bbaf25"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:10.353Z",
+  "issues": []
+}

@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "id": "20474",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/20474-camiseta-manga-larga-nino-azul-marino.html",
+  "name": "Camiseta manga larga niño Azul Marino",
+  "brand": "Mayoral",
+  "sku": "2502047",
+  "description": "Camiseta manga larga con cuello redondo. Serigrafiada.",
+  "details": "Composición: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 11.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94823",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:21.847Z"
+    },
+    {
+      "id": "94824",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:23.072Z"
+    },
+    {
+      "id": "94825",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:24.505Z"
+    },
+    {
+      "id": "94826",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:25.605Z"
+    },
+    {
+      "id": "94827",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:27.569Z"
+    },
+    {
+      "id": "94828",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:28.842Z"
+    },
+    {
+      "id": "94829",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502047",
+      "productSku": "2502047",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:30.177Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20474-19806.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19806-large_default/camiseta-manga-larga-nino-azul-marino.jpg",
+      "alt": "Camiseta manga larga niño Azul Marino",
+      "sourceId": "19806",
+      "variantIds": [],
+      "sha256": "f5fd29b03e65f1884739970b27a3f26c68e6ca12cad010be29fbdfe1322ae0b3"
+    },
+    {
+      "path": "assets/20474-19807.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19807-large_default/camiseta-manga-larga-nino-azul-marino.jpg",
+      "alt": "Camiseta manga larga niño Azul Marino",
+      "sourceId": "19807",
+      "variantIds": [],
+      "sha256": "a200467455d0ebcf24d10983354a62c6a6ccff37da15adf95ee0deba24eb6229"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:30.280Z",
+  "issues": []
+}

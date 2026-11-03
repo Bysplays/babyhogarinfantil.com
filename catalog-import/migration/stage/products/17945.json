@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "17945",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/17945-caqueton-nina-capucha-noche.html",
+  "name": "Caqueton niña capucha Noche",
+  "brand": "Mayoral",
+  "sku": "2402075",
+  "description": "\"Envuelve a tu princesa en la calidez y elegancia del Caquetón para niña de Noche. Con su brillante capucha, es la protección perfecta para el frío invernal. Diseñada para las pequeñas divas, su toque de sofisticación hará resaltar su inocencia y dulzura. Anorak es más que una prenda esencial, es un abrazo cálido y amoroso que tu niña merece. Ideal para alegrar cualquier vestimenta. Compra hoy y haz que cada capa cuente. Juega con estilo, abriga con amor.\"",
+  "details": "Calidez y Confort\n\nEl caquetón para niña de capucha noche es diseñado pensado en la comodidad y calidez de su princesa. Hecho de los materiales más delicados y resistentes, garantiza máxima protección contra el frio. Ideal para paseos nocturnos o días de invierno.\n\n\nDiseño Elegante y Moderno\n\nEl estilizado diseño de este caquetón no deja indiferente a nadie. Los cuidados confeccionados y los detalles en el diseño dan un toque de sofisticación y modernidad a la prenda. Porque calidad no está peleada con moda, su niña se verá siempre como una estrella.\n\n\nResistencia y Durabilidad\n\nEste caquetón es promesa de durabilidad y resistencia a largo plazo. Su calidad premium garantiza una vida útil prolongada, a pesar del uso diario intenso. Sus acabados son resistentes al desgaste del lavado frecuente, asegurando un producto que perdurará muchos inviernos.\n\n\n\n¡No esperes más! No pierdas la oportunidad de vestir a tu pequeña con lo mejor. ¡Agréga el caquetón para niña de capucha noche a tu carrito de compras ya!",
+  "sourceDescriptionHtml": "<h2>Calidez y Confort</h2>\n<p>El caquetón para niña de capucha noche es diseñado pensado en la comodidad y calidez de su princesa. Hecho de los materiales más delicados y resistentes, garantiza máxima protección contra el frio. Ideal para paseos nocturnos o días de invierno.</p>\n\n<h2>Diseño Elegante y Moderno</h2>\n<p>El estilizado diseño de este caquetón no deja indiferente a nadie. Los cuidados confeccionados y los detalles en el diseño dan un toque de sofisticación y modernidad a la prenda. Porque calidad no está peleada con moda, su niña se verá siempre como una estrella.</p>\n\n<h2>Resistencia y Durabilidad</h2>\n<p>Este caquetón es promesa de durabilidad y resistencia a largo plazo. Su calidad premium garantiza una vida útil prolongada, a pesar del uso diario intenso. Sus acabados son resistentes al desgaste del lavado frecuente, asegurando un producto que perdurará muchos inviernos.</p>\n<br>\n<p><strong>¡No esperes más! No pierdas la oportunidad de vestir a tu pequeña con lo mejor. ¡Agréga el caquetón para niña de capucha noche a tu carrito de compras ya!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Noche",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 49.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-22 23:54:38",
+  "sourceUpdatedAt": "2026-10-27 11:13:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85912",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2402075",
+      "productSku": "2402075",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:28.659Z"
+    },
+    {
+      "id": "85914",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2402075",
+      "productSku": "2402075",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:31.502Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17945-16482.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16482-large_default/caqueton-nina-capucha-noche.jpg",
+      "alt": "Caqueton niña capucha Noche",
+      "sourceId": "16482",
+      "variantIds": [],
+      "sha256": "f10866a751e92d0441a5d6556e2ce3b368231ece4de7f88dbeaee3b09f59a055"
+    },
+    {
+      "path": "assets/17945-16483.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16483-large_default/caqueton-nina-capucha-noche.jpg",
+      "alt": "Caqueton niña capucha Noche",
+      "sourceId": "16483",
+      "variantIds": [],
+      "sha256": "2213819d3ee20416295bcd9a9cd6122dac26bef9e647b7f781ee145ed52a4260"
+    },
+    {
+      "path": "assets/17945-16484.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16484-large_default/caqueton-nina-capucha-noche.jpg",
+      "alt": "Caqueton niña capucha Noche",
+      "sourceId": "16484",
+      "variantIds": [],
+      "sha256": "af0708d184fd106899baf3aabfc2aaa63bb31e9b1eeab0ac6f594a7526a6e560"
+    },
+    {
+      "path": "assets/17945-16485.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16485-large_default/caqueton-nina-capucha-noche.jpg",
+      "alt": "Caqueton niña capucha Noche",
+      "sourceId": "16485",
+      "variantIds": [],
+      "sha256": "38d56135547b28a11b252effe78847d6e600a9bbc005d92cb207d11e5cdb9145"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:31.717Z",
+  "issues": []
+}

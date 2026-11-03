@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9590",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/9590-camiseta-algodon-manga-corta-sea-azul.html",
+  "name": "Camiseta algodon manga corta SEA Azul",
+  "brand": "Zippy",
+  "sku": "2203107",
+  "description": "Adéntrate en un mundo de confort y estilo inigualable con la Camiseta de Algodón de Manga Corta SEA en color Azul. Perfecta para los niños amantes de la moda infantil, esta camiseta combina la suavidad del algodón de alta calidad con un diseño elegante y funcional. Los días de juego serán más divertidos gracias a su tejido transpirable que garantiza frescura durante horas. Además, su versátil tono azul mar se adapta a cualquier look, sea para una excursión escolar o una tarde en el parque. Deja que tu pequeño marque la diferencia en cada paso con esta camiseta que no puede faltar en su guardería.",
+  "details": "Suavidad Suprema\n\nDeleite a su pequeño con la suavidad superior de la Camiseta Algodón Manga Corta SEA Azul. Diseñada con amor, esta camiseta de algodón de alta calidad es cómoda y suave para la piel delicada de los niños. La textura del algodón es suave, lo que aporta un cómodo descanso y un sueño ininterrumpido a su joya. ¡Todas las mamás elegantes eligen esta camiseta para su bebé!\n\nEstilo y Confort en Un Solo Lugar\n\nEl diseño elegante y lindo de la Camiseta Algodón Manga Corta SEA Azul hará que su pequeño se destaque en cualquier ocasión. Perfecta para los días de verano, esta camiseta brinda comodidad durante todo el día manteniendo a su niño fresco y con estilo. Los tonos vibrantes de azul capturan la alegría y energía de la infancia, haciendo de cada día una celebración.\n\nVale la Pena la Inversión\n\nResistente al desgaste diario, la Camiseta Algodón Manga Corta SEA Azul ofrece una calidad inigualable sin comprometer la comodidad. Esta camiseta ha sido creada para durar, conservándose lavado tras lavado. Es una prenda de vestir que promete resistencia, lo que significa ahorro a largo plazo. ¡Por eso, es una inversión sensata para tu pequeño!\n\nNo esperes más y añade la Camiseta Algodón Manga Corta SEA Azul a tu carrito de compras hoy. Adaptada a la vida ajetreada de tu pequeño, esta camiseta mejora el armario de cualquier niño y le añade un toque de estilo y comodidad. CONFIANZA, CALMA y COMODIDAD, todo en un solo paquete. ¡Compra ahora!",
+  "sourceDescriptionHtml": "<h2>Suavidad Suprema</h2>\n<p>Deleite a su pequeño con la suavidad superior de la <strong>Camiseta Algodón Manga Corta SEA Azul</strong>. Diseñada con amor, esta camiseta de algodón de alta calidad es cómoda y suave para la piel delicada de los niños. La textura del algodón es suave, lo que aporta un cómodo descanso y un sueño ininterrumpido a su joya. ¡Todas las mamás elegantes eligen esta camiseta para su bebé!</p>\n<h2>Estilo y Confort en Un Solo Lugar</h2>\n<p>El diseño elegante y lindo de la <strong>Camiseta Algodón Manga Corta SEA Azul</strong> hará que su pequeño se destaque en cualquier ocasión. Perfecta para los días de verano, esta camiseta brinda comodidad durante todo el día manteniendo a su niño fresco y con estilo. Los tonos vibrantes de azul capturan la alegría y energía de la infancia, haciendo de cada día una celebración.</p>\n<h2>Vale la Pena la Inversión</h2>\n<p>Resistente al desgaste diario, la <strong>Camiseta Algodón Manga Corta SEA Azul</strong> ofrece una calidad inigualable sin comprometer la comodidad. Esta camiseta ha sido creada para durar, conservándose lavado tras lavado. Es una prenda de vestir que promete resistencia, lo que significa ahorro a largo plazo. ¡Por eso, es una inversión sensata para tu pequeño!</p>\n<p><em>No esperes más y añade la Camiseta Algodón Manga Corta SEA Azul a tu carrito de compras hoy. Adaptada a la vida ajetreada de tu pequeño, esta camiseta mejora el armario de cualquier niño y le añade un toque de estilo y comodidad. CONFIANZA, CALMA y COMODIDAD, todo en un solo paquete. ¡Compra ahora!</em></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 4,
+  "oldPrice": 7.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69618",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2203107",
+      "productSku": "2203107",
+      "taxRate": 21,
+      "price": 4,
+      "oldPrice": 7.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:38.212Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9590-12540.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12540-large_default/camiseta-algodon-manga-corta-sea-azul.jpg",
+      "alt": "Camiseta algodon manga corta SEA Azul",
+      "sourceId": "12540",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9590-8786.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8786-large_default/camiseta-algodon-manga-corta-sea-azul.jpg",
+      "alt": "Camiseta algodon manga corta SEA Azul",
+      "sourceId": "8786",
+      "variantIds": [],
+      "sha256": "1b5703d6da912a1b89b5efaa2577a9db0a61f2ccfac340325c9dab536c027ac2"
+    },
+    {
+      "path": "assets/9590-8787.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8787-large_default/camiseta-algodon-manga-corta-sea-azul.jpg",
+      "alt": "Camiseta algodon manga corta SEA Azul",
+      "sourceId": "8787",
+      "variantIds": [],
+      "sha256": "323b6190b1bb0501104a9d669c94ad3ad3e9f8943f2f70b8f3515293686cb093"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:38.351Z",
+  "issues": []
+}

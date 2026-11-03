@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "10105",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nina/10105-conjunto-sudadera-stay-wild-teja.html",
+  "name": "Conjunto sudadera stay wild Teja",
+  "brand": "Talaman",
+  "sku": "2208215",
+  "description": "¡Sumérgete en la comodidad aventurera con el Conjunto Sudadera Stay Wild Teja! Este conjunto combina un estilo moderno y diversión infantil, perfecto para que tu pequeña explore con total libertad. Suave al tacto y fácil de usar, está diseñado para aguantar todo el juego y la alegría que el día puede traer. Los vivos colores de teja evocan un espíritu salvaje, alentando a tu niña a soñar, jugar, y vivir cada momento al máximo. ¡Porque cada día es una nueva aventura, vístela con el Conjunto Sudadera Stay Wild Teja!",
+  "details": "Confort y Calidez Inigualables\n\nExperimenta una comodidad excepcional con el \\'Conjunto Sudadera Stay Wild Teja\\'. Este conjunto de sudadera, fabricado con máxima atención al detalle, proporciona una calidez incomparable para los más pequeños. Ideal para días fríos, este conjunto ofrece protección y comodidad superior.\n\nEstilo Esencial Para Los Pequeños\n\nMás que una pieza de ropa, la Sudadera \\'Stay Wild\\' Teja es un elemento esencial de estilo. Con su diseño contemporáneo y el lema \\'Stay Wild\\', este conjunto de sudadera invita a los niños a mostrar su personalidad. Es perfecta para ocasiones casuales y días de juego, garantizando que los más jóvenes estén chic y a la moda.\n\nCalidad Excepcional Para Los Pequeños Exploradores\n\nCada \\'Conjunto Sudadera Stay Wild Teja\\' es un testimonio de calidad y durabilidad. Hecho para resistir las múltiples aventuras y desventuras de los más pequeños, este conjunto de sudadera asegura larga duración y resistencia. Este conjunto no sólo es práctico, sino que su calidad tampoco se compromete, convirtiéndolo en el regalo perfecto.\n\nComposición:\n\n95% Algodón\n\n5% Elastano.\n\nAprovecha de nuestras ofertas especiales y descuentos. Haz que tus peques luzcan atractivos con el Conjunto Sudadera \\'Stay Wild\\' Teja. ¡No esperes más, añade al carrito y se parte de la experiencia \\'Stay Wild\\'!",
+  "sourceDescriptionHtml": "<h2>Confort y Calidez Inigualables</h2>\n<p>Experimenta una comodidad excepcional con el \\'Conjunto Sudadera Stay Wild Teja\\'. Este conjunto de sudadera, fabricado con máxima atención al detalle, proporciona una calidez incomparable para los más pequeños. Ideal para días fríos, este conjunto ofrece protección y comodidad superior.</p>\n<h2>Estilo Esencial Para Los Pequeños</h2>\n<p>Más que una pieza de ropa, la Sudadera \\'Stay Wild\\' Teja es un elemento esencial de estilo. Con su diseño contemporáneo y el lema \\'Stay Wild\\', este conjunto de sudadera invita a los niños a mostrar su personalidad. Es perfecta para ocasiones casuales y días de juego, garantizando que los más jóvenes estén chic y a la moda.</p>\n<h2>Calidad Excepcional Para Los Pequeños Exploradores</h2>\n<p>Cada \\'Conjunto Sudadera Stay Wild Teja\\' es un testimonio de calidad y durabilidad. Hecho para resistir las múltiples aventuras y desventuras de los más pequeños, este conjunto de sudadera asegura larga duración y resistencia. Este conjunto no sólo es práctico, sino que su calidad tampoco se compromete, convirtiéndolo en el regalo perfecto.</p>\n<p>Composición:</p>\n<p>95% Algodón</p>\n<p>5% Elastano.</p>\n<p class=\"call-action\">Aprovecha de nuestras ofertas especiales y descuentos. Haz que tus peques luzcan atractivos con el Conjunto Sudadera \\'Stay Wild\\' Teja. ¡No esperes más, añade al carrito y se parte de la experiencia \\'Stay Wild\\'!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Teja",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "755",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "755",
+  "sourceCategoryName": "Conjuntos Niña",
+  "price": 30.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:58",
+  "sourceUpdatedAt": "2026-10-27 11:12:07",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70884",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2208215",
+      "productSku": "2208215",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:45.977Z"
+    },
+    {
+      "id": "98391",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2208215",
+      "productSku": "2208215",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:47.407Z"
+    },
+    {
+      "id": "70887",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2208215",
+      "productSku": "2208215",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:48.568Z"
+    },
+    {
+      "id": "70888",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2208215",
+      "productSku": "2208215",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:50.198Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10105-8123.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8123-large_default/conjunto-sudadera-stay-wild-teja.jpg",
+      "alt": "Conjunto sudadera stay wild Teja",
+      "sourceId": "8123",
+      "variantIds": [],
+      "sha256": "1e8fe01e5a0f210bbad274350f7ca9dd865f7eb066c7f789050da4b44545505d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:50.266Z",
+  "issues": []
+}

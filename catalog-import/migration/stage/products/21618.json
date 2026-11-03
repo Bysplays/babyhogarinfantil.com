@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "21618",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-en-pack/21618-pack-3-calcetines-fantasia-ballena.html",
+  "name": "Pack 3 calcetines fantasía Ballena",
+  "brand": "Mayoral",
+  "sku": "2502259",
+  "description": "Pack de tres calcetines para niño.",
+  "details": "COMPOSICIÓN\n\nCalcetines:\n\n72% Algodón\n\n25% Poliamida\n\n3% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Calcetines:</strong></p>\n<p>72% Algodón</p>\n<p>25% Poliamida</p>\n<p>3% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Ballena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "796",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "796",
+  "sourceCategoryName": "Calcetines en pack",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-12-03 15:53:36",
+  "sourceUpdatedAt": "2026-10-27 11:14:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97804",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502259",
+      "productSku": "2502259",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:47.215Z"
+    },
+    {
+      "id": "97806",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502259",
+      "productSku": "2502259",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:50.508Z"
+    },
+    {
+      "id": "97803",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502259",
+      "productSku": "2502259",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:53.394Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21618-20205.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20205-large_default/pack-3-calcetines-fantasia-ballena.jpg",
+      "alt": "Pack 3 calcetines fantasía Ballena",
+      "sourceId": "20205",
+      "variantIds": [],
+      "sha256": "a2f1b3483a22425b2db5ff5fc29d267f44eb137b580e0f9ff025157c81dadc0b"
+    },
+    {
+      "path": "assets/21618-20206.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20206-large_default/pack-3-calcetines-fantasia-ballena.jpg",
+      "alt": "Pack 3 calcetines fantasía Ballena",
+      "sourceId": "20206",
+      "variantIds": [],
+      "sha256": "e2470a2e031a1bda43cc388ff1bd32ddc07a150d35a8198c7494ea81576fdf3e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:53.555Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6934",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nina/6934-sudadera-bebe-nina-con-cremallera-sweety-rosa.html",
+  "name": "Sudadera bebé niña con cremallera sweety Rosa",
+  "brand": "Chicco",
+  "sku": "1708018",
+  "description": "Sudadera con cremallera, para bebé niña. En color Rosa. Disponible en tres colores más. Con bolsillos, del que sale un simpático animalito estampado. Combínala con nuestras camisetas y pantalones de la firma CHICO.",
+  "details": "Composición:\n\n100% Algodón. \n\nNO USAR SECADORA. \n\nNO USAR LEJIAS.\n\nNO LAVAR EN SECO.",
+  "sourceDescriptionHtml": "<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">Composición:</span></p>\n<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">100% Algodón. </span></p>\n<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">NO USAR SECADORA. </span></p>\n<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">NO USAR LEJIAS.</span></p>\n<p><span style=\"line-height:107%;font-family:Verdana, sans-serif;font-size:7.5pt;\">NO LAVAR EN SECO.</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "727",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "727",
+  "sourceCategoryName": "Sudaderas y jerseys Bebé niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64722",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1708018",
+      "productSku": "1708018",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:34.796Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6934-4853.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4853-large_default/sudadera-bebe-nina-con-cremallera-sweety-rosa.jpg",
+      "alt": "Sudadera bebé niña con cremallera sweety Rosa",
+      "sourceId": "4853",
+      "variantIds": [],
+      "sha256": "835504afcaf058499bbcdfff0594f44d67d121f429d712add12b3b8ecc9076b7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:34.868Z",
+  "issues": []
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "7169",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/7169-vestido-ceremonia-encajes-rosa-maquillaje.html",
+  "name": "Vestido ceremonia encajes Rosa Maquillaje",
+  "brand": "Anavig",
+  "sku": "1803051",
+  "description": "Vestido de ceremonia color rosa empolvado con encaje en crudo. Cinturón de raso con flor. La flor tiene imperdible, por lo que se puede poner y quitar. Completamente forrado. Cierre trasero con cremallera invisible y lazada. HECHO EN ESPAÑA",
+  "details": "Vestido de ceremonia con cuello redondo y sin mangas. En color rosa palo, con encaje en crudo superpuesto. Completamente forrado en el interior. Cinturón de raso en el mismo tono, con cierre de gran lazada trasera. Como adorno, broche floral con imperdible, que puedes poner, quitar o cambiar de sitio. Cierre trasero con cremallera invisible y lazada. Escote trasero ligeramente pronunciado. El forro interior está rematado con volantes de organza, de forma que da volumen, vuelo y movimiento a la falda. Una prenda elegante y delicada, en tonos suaves, tejido vaporoso y ligero, ideal para eventos y ceremonias! Echa un ojito a nuestro calzado, calcetines de perlé, chaquetas y accesorios para el pelo y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nVestido: 95% poliéster, 5% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nNO LAVAR A MANO\n\nNO DEJAR EN REMOJO\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><strong>Vestido de ceremonia</strong> con cuello redondo y sin mangas. En color rosa palo, con encaje en crudo superpuesto. Completamente forrado en el interior. Cinturón de raso en el mismo tono, con cierre de gran lazada trasera. Como adorno, <strong>broche floral con imperdible</strong>, que puedes poner, quitar o cambiar de sitio. Cierre trasero con cremallera invisible y lazada. Escote trasero ligeramente pronunciado. El forro interior está rematado con <strong>volantes de organza</strong>, de forma que da volumen, vuelo y movimiento a la falda. Una prenda elegante y delicada, en tonos suaves, tejido vaporoso y ligero, ideal para <strong>eventos y ceremonias</strong>! Echa un ojito a nuestro <strong>calzado, calcetines de perlé, chaquetas y accesorios para el pelo</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Vestido: 95% poliéster, 5% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p>NO LAVAR A MANO</p>\n<p>NO DEJAR EN REMOJO</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa maquillaje",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823",
+    "729"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 32.48,
+  "oldPrice": 64.9528,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65169",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1803051",
+      "productSku": "1803051",
+      "taxRate": 21,
+      "price": 32.48,
+      "oldPrice": 64.9528,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:24.185Z"
+    },
+    {
+      "id": "65170",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1803051",
+      "productSku": "1803051",
+      "taxRate": 21,
+      "price": 32.48,
+      "oldPrice": 64.9528,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:26.402Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7169-10059.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10059-large_default/vestido-ceremonia-encajes-rosa-maquillaje.jpg",
+      "alt": "Vestido ceremonia encajes Rosa Maquillaje",
+      "sourceId": "10059",
+      "variantIds": [],
+      "sha256": "bf139a7cc2d25d4638a77c54341958035e3f69d772f2b4b7f14e75235753d484"
+    },
+    {
+      "path": "assets/7169-10060.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10060-large_default/vestido-ceremonia-encajes-rosa-maquillaje.jpg",
+      "alt": "Vestido ceremonia encajes Rosa Maquillaje",
+      "sourceId": "10060",
+      "variantIds": [],
+      "sha256": "bc5e0d21113930988604c5ced998d66fb1bf71121542a0b464baa05a0a07ed2e"
+    },
+    {
+      "path": "assets/7169-10058.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10058-large_default/vestido-ceremonia-encajes-rosa-maquillaje.jpg",
+      "alt": "Vestido ceremonia encajes Rosa Maquillaje",
+      "sourceId": "10058",
+      "variantIds": [],
+      "sha256": "0f535f867980db4177878f8a84f8d77816cb44007e8491cc210d169989ef1243"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:26.642Z",
+  "issues": []
+}

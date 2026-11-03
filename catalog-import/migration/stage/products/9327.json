@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "9327",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/9327-parka-estampada-bebe-nina-varios.html",
+  "name": "Parka estampada bebe niña Varios",
+  "brand": "Chicco",
+  "sku": "2201021",
+  "description": "Parka cortavientos con cierre de cremallera y capucha, en color blanco estampado con estrellas de colores. Forrada con algodón en el interior. Tiene bolsillos. Tallas bebé e infantil.",
+  "details": "Parka estilo cortavientos de CHICCO, una de nuestras firmas preferidas! Con cierre de cremallera oculta delantera. Tiene capucha y bolsillos. En color blanco estampado con estrellas multicolor. Acabado elástico en puños y cinturilla, para un mejor ajuste. Completamente forrado de algodón. Una prenda cómoda, ligera y perfecta para entretiempo! Echa un ojito a nuestra sección de ropa interior, calcetines y calzado y podrás completarla hasta el mínimo detalle!\n\nComposición y cuidados:\n\nParka: 100% poliéster\n\nForro: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR",
+  "sourceDescriptionHtml": "<p>Parka estilo cortavientos de <strong>CHICCO</strong>, una de nuestras firmas preferidas! Con cierre de cremallera oculta delantera. Tiene capucha y bolsillos. En color blanco estampado con estrellas multicolor. Acabado elástico en puños y cinturilla, para un mejor ajuste.<strong> Completamente forrado de algodón</strong>. Una prenda cómoda, ligera y perfecta para entretiempo! Echa un ojito a nuestra sección de <strong>ropa interior, calcetines y calzado</strong> y podrás completarla hasta el mínimo detalle!</p>\n<p>Composición y cuidados:</p>\n<p>Parka: 100% poliéster</p>\n<p>Forro: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>NO PLANCHAR </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "725",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "725",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68969",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2201021",
+      "productSku": "2201021",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:40.160Z"
+    },
+    {
+      "id": "68970",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2201021",
+      "productSku": "2201021",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:42.466Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9327-7570.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7570-large_default/parka-estampada-bebe-nina-varios.jpg",
+      "alt": "Parka estampada bebe niña Varios",
+      "sourceId": "7570",
+      "variantIds": [],
+      "sha256": "58ed7399d8be6beee5c317fcb67168bc369a336d315bea9b26879548dbcb9df0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:42.531Z",
+  "issues": []
+}

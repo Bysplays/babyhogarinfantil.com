@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "id": "6783",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/6783-gorro-plumeti-con-lazo-rojo.html",
+  "name": "Gorro plumeti con lazo Rojo",
+  "brand": "Niseret",
+  "sku": "1703150",
+  "description": "Gorro de plumeti, 100% ALGODÓN, con lazo de adorno en la parte delantera. Tiene goma en la parte trasera. Completamente forrado. La talla es el diámetro de la cabeza del bebé.",
+  "details": "Gorro de NISERET, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De plumeti con lacito en la parte delantera y goma en la parte trasera, para un mejor ajuste. Completamente forrado en el interior. Un complemento perfecto para darle el toque final a los vestidos y conjuntos de tu peque, además de protegerla del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. \n\nComposición y cuidados:\n\nGorro: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Gorro de <strong>NISERET</strong>, firma de una familia de larga tradición costurera, dedicada al diseño y fabricación artesanal, desde 1984. De plumeti con lacito en la parte delantera y goma en la parte trasera, para un mejor ajuste. <strong>Completamente forrado</strong> en el interior. Un complemento perfecto para darle el toque final a los vestidos y conjuntos de tu peque, además de <strong>protegerla del sol! LA TALLA ES EL DIÁMETRO DE LA CABEZA. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Gorro: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 15,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64335",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "3502XC10634",
+      "productSku": "1703150",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:35.262Z"
+    },
+    {
+      "id": "145331",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "3502XK10634",
+      "productSku": "1703150",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:38.354Z"
+    },
+    {
+      "id": "145332",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "3502XB10634",
+      "productSku": "1703150",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:40.359Z"
+    },
+    {
+      "id": "145333",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "3502XD10634",
+      "productSku": "1703150",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:43.275Z"
+    },
+    {
+      "id": "64337",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "3502XE10634",
+      "productSku": "1703150",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:46.373Z"
+    },
+    {
+      "id": "82492",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "3502XF10634",
+      "productSku": "1703150",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:49.519Z"
+    },
+    {
+      "id": "64339",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "3502XG10634",
+      "productSku": "1703150",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:52.003Z"
+    },
+    {
+      "id": "145334",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "3502XH10634",
+      "productSku": "1703150",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:53.906Z"
+    },
+    {
+      "id": "145335",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "3502XI10634",
+      "productSku": "1703150",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": -1,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:55.198Z"
+    },
+    {
+      "id": "145336",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "3502XJ10634",
+      "productSku": "1703150",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:56.439Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6783-9776.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9776-large_default/gorro-plumeti-con-lazo-rojo.jpg",
+      "alt": "Gorro plumeti con lazo Rojo",
+      "sourceId": "9776",
+      "variantIds": [],
+      "sha256": "7cb6b69f8bbcaeae7ba6940e7c55aaee466ff1bcd824e44df43506e79fca8f8e"
+    },
+    {
+      "path": "assets/6783-9775.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9775-large_default/gorro-plumeti-con-lazo-rojo.jpg",
+      "alt": "Gorro plumeti con lazo Rojo",
+      "sourceId": "9775",
+      "variantIds": [],
+      "sha256": "bfed3572d6538aa5af5f53f80fd86253b04aca0d4546d1df9c353113392cc869"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:56.559Z",
+  "issues": []
+}

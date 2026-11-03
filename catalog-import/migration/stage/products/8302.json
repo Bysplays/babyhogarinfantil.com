@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8302",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8302-lazo-mediano-con-coletero-rojo.html",
+  "name": "Lazo mediano con coletero Rojo",
+  "brand": "Siena",
+  "sku": "2007017",
+  "description": "Lazo grosgrain de 8 x 8 cm. aproximadamnete sobre clip pico-pato de 5,5 cm. aprox.\n\nHECHO EN ESPAÑA.\n\nHECHO A MANO.",
+  "details": "¡Maravillosamente Versátil! (Wonderfully Versatile!)\n\nEl Lazo mediano con coletero Rojo es un accesorio encantador e indispensable en el guardarropa de cualquier pequeña. Con su color vibrante y material de alta calidad, este lazo no sólo añade un toque de elegancia, sino que también es lo suficientemente duradero para soportar el enérgico juego de los niños.\n\n\nTu Toque Final Perfecto (Your Perfect Finishing Touch)\nMás que un simple accesorio, el Lazo mediano con coletero Rojo es el toque final perfecto para cualquier atuendo. Con su tamaño mediano, es lo suficientemente grande para ser notado, pero no abrumador. Así que, ya sea que tu pequeña esté vistiendo un vestido de fiesta o simplemente un conjunto casual, este lazo seguramente realzará su encanto infantil.\n\n\nSeguridad y Comodidad Primero (Safety and Comfort First)\nHecho pensando en los más pequeños, el Lazo mediano con coletero Rojo tiene un coletero suave y seguro, lo que significa que no tira del cabello ni causa incomodidad. Así, tus pequeños pueden continuar con sus actividades mientras lucen elegantes y adorables.\n\n\n¡Consigue hoy mismo el lazo mediano con coletero Rojo y da a tus pequeños un look impresionante cada vez! ¡No esperes más!",
+  "sourceDescriptionHtml": "<p>¡Maravillosamente Versátil! (Wonderfully Versatile!)\n</p><p>El Lazo mediano con coletero Rojo es un accesorio encantador e indispensable en el guardarropa de cualquier pequeña. Con su color vibrante y material de alta calidad, este lazo no sólo añade un toque de elegancia, sino que también es lo suficientemente duradero para soportar el enérgico juego de los niños.</p>\n\nTu Toque Final Perfecto (Your Perfect Finishing Touch)\n<p>Más que un simple accesorio, el Lazo mediano con coletero Rojo es el toque final perfecto para cualquier atuendo. Con su tamaño mediano, es lo suficientemente grande para ser notado, pero no abrumador. Así que, ya sea que tu pequeña esté vistiendo un vestido de fiesta o simplemente un conjunto casual, este lazo seguramente realzará su encanto infantil.</p>\n\nSeguridad y Comodidad Primero (Safety and Comfort First)\n<p>Hecho pensando en los más pequeños, el Lazo mediano con coletero Rojo tiene un coletero suave y seguro, lo que significa que no tira del cabello ni causa incomodidad. Así, tus pequeños pueden continuar con sus actividades mientras lucen elegantes y adorables.</p>\n\n<p>¡Consigue hoy mismo el lazo mediano con coletero Rojo y da a tus pequeños un look impresionante cada vez! ¡No esperes más!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146660",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8049XA12972",
+      "productSku": "2007017",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:35.318Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8302-6586.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6586-large_default/lazo-mediano-con-coletero-rojo.jpg",
+      "alt": "Lazo mediano con coletero Rojo",
+      "sourceId": "6586",
+      "variantIds": [],
+      "sha256": "54b2e4036e7f87e1163058a323c12e05c7a48ab81773a91d861992c007977039"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:35.400Z",
+  "issues": []
+}

@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "21457",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21457-pantalon-largo-felpa-con-bolsillo-azul-marino.html",
+  "name": "Pantalón largo felpa con bolsillo Azul Marino",
+  "brand": "Chicco",
+  "sku": "2502097",
+  "description": "Pantalón largo en algodón en color azul marino, con felpa interior para que sea cálido. Cintura de goma con cordón ajustable. Bolsillos funcionales en las piernas. Cómodo\n\ny práctico para todos los días.",
+  "details": "Composición:\n\nPantalón: 95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Pantalón</strong>: 95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96598",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2502097",
+      "productSku": "2502097",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:28.669Z"
+    },
+    {
+      "id": "96599",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502097",
+      "productSku": "2502097",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:31.258Z"
+    },
+    {
+      "id": "96600",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502097",
+      "productSku": "2502097",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:34.545Z"
+    },
+    {
+      "id": "96601",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502097",
+      "productSku": "2502097",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:37.843Z"
+    },
+    {
+      "id": "96603",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502097",
+      "productSku": "2502097",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:40.966Z"
+    },
+    {
+      "id": "96605",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502097",
+      "productSku": "2502097",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:43.926Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21457-19967.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19967-large_default/pantalon-largo-felpa-con-bolsillo-azul-marino.jpg",
+      "alt": "Pantalón largo felpa con bolsillo Azul Marino",
+      "sourceId": "19967",
+      "variantIds": [],
+      "sha256": "4b9a7c1225968913567e889b67a20289a1e7e185fbdeeeeb61796de76e4a0c1c"
+    },
+    {
+      "path": "assets/21457-19968.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19968-large_default/pantalon-largo-felpa-con-bolsillo-azul-marino.jpg",
+      "alt": "Pantalón largo felpa con bolsillo Azul Marino",
+      "sourceId": "19968",
+      "variantIds": [],
+      "sha256": "4fb091853be66a3403b15f4f3af73ffe8a4aa022f2f4a05b680d1eca538cc6f3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:44.036Z",
+  "issues": []
+}

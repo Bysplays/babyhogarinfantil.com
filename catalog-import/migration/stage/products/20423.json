@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": "20423",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/20423-abrigo-borreguito-unisex-camel.html",
+  "name": "Abrigo borreguito unisex Camel",
+  "brand": "Calamaro",
+  "sku": "2502011",
+  "description": "Trenka con capucha para niño o niña. Forrada de borreguito en el interior.\n\nHECHO EN ESPAÑA",
+  "details": "Composición y cuidados:\n\n100% poiéster.\n\nNO USAR LEJIAS\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>100% poiéster.</p>\n<p>NO USAR LEJIAS</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "769",
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 39.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94576",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502011",
+      "productSku": "2502011",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:49.754Z"
+    },
+    {
+      "id": "94577",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502011",
+      "productSku": "2502011",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:52.994Z"
+    },
+    {
+      "id": "94578",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502011",
+      "productSku": "2502011",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:57.412Z"
+    },
+    {
+      "id": "94579",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502011",
+      "productSku": "2502011",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:02.555Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20423-19635.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19635-large_default/abrigo-borreguito-unisex-camel.jpg",
+      "alt": "Abrigo borreguito unisex Camel",
+      "sourceId": "19635",
+      "variantIds": [],
+      "sha256": "a2aead03804fae68b6a500683b399c2b7138225d3817318739d4d1580892f8fa"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:02.629Z",
+  "issues": []
+}

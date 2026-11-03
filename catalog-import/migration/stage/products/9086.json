@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "9086",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/9086-ranita-cuadros-gris.html",
+  "name": "Ranita cuadros Gris",
+  "brand": "Calamaro",
+  "sku": "2108053",
+  "description": "¡La elección perfecta para tu pequeña joya! La Ranita cuadros gris no solo ofrece una comodidad suprema, sino también un estilo sin igual. Representando la perfección en moda infantil, combina la ternura de la niñez con un diseño de vanguardia. ¿Quién dijo que los bebés no pueden ser chic? Con su elegante patrón de cuadros en tonos grises, es el accesorio ideal para cualquier conjunto. Conviértela en la verdadera princesa que es, mientras mantienes esa sonrisa divertida en su rostro con Ranita cuadros gris. ¡No esperes más!",
+  "details": "Encanto Minimalista y Elegante\n\nDestaca en cualquier ocasión con la Ranita cuadros Gris. Este vestido cosido a la perfección se convertirá en una adición sofisticada para el guardarropa de tu pequeño. Hecho con un delicado enfoque en los detalles, combina una elegancia clásica y atemporal con un toque moderno y juvenil.\n\nConfort Que Se Siente, Calidad Que Se Ve\n\nEntendemos lo importante que es el confort para los más pequeños. Por eso, la Ranita cuadros Gris está diseñada con un tejido suave y transpirable que garantiza la máxima comodidad durante todo el día. No solo es agradable a la vista, sino que también es suave al tacto y resistente para resistir todas las aventuras de tu pequeño.\n\nDurabilidad y Comodidad Todo en Uno\n\nLa Ranita cuadros Gris es más que una elección estilística: es una inversión en calidad. Pensada para el uso diario, este vestido está hecho para durar, resistiendo lavados, manchas y el desgaste del tiempo. Su diseño con botones facilita ponerlo y quitarlo, asegurando que sea una pieza práctica y funcional para el guardarropa de cualquier niño.\n\n¿Quieres que tu pequeño se vea elegante y a la moda sin sacrificar su confort? Haz clic en ‘Añadir al carrito’ ahora mismo para hacer tuya la Ranita cuadros Gris.\n\nComposición y cuidados:\n\nRanita: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<h2>Encanto Minimalista y Elegante</h2>\n<p>Destaca en cualquier ocasión con la Ranita cuadros Gris. Este vestido cosido a la perfección se convertirá en una adición sofisticada para el guardarropa de tu pequeño. Hecho con un delicado enfoque en los detalles, combina una elegancia clásica y atemporal con un toque moderno y juvenil.</p>\n<h2>Confort Que Se Siente, Calidad Que Se Ve</h2>\n<p>Entendemos lo importante que es el confort para los más pequeños. Por eso, la Ranita cuadros Gris está diseñada con un tejido suave y transpirable que garantiza la máxima comodidad durante todo el día. No solo es agradable a la vista, sino que también es suave al tacto y resistente para resistir todas las aventuras de tu pequeño.</p>\n<h2>Durabilidad y Comodidad Todo en Uno</h2>\n<p>La Ranita cuadros Gris es más que una elección estilística: es una inversión en calidad. Pensada para el uso diario, este vestido está hecho para durar, resistiendo lavados, manchas y el desgaste del tiempo. Su diseño con botones facilita ponerlo y quitarlo, asegurando que sea una pieza práctica y funcional para el guardarropa de cualquier niño.</p>\n<p>¿Quieres que tu pequeño se vea elegante y a la moda sin sacrificar su confort? Haz clic en ‘Añadir al carrito’ ahora mismo para hacer tuya la Ranita cuadros Gris.</p>\n<p>Composición y cuidados:</p>\n<p>Ranita: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "892",
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:45",
+  "sourceUpdatedAt": "2026-10-27 11:11:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68500",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2108053",
+      "productSku": "2108053",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:33.686Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9086-7377.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7377-large_default/ranita-cuadros-gris.jpg",
+      "alt": "Ranita cuadros Gris",
+      "sourceId": "7377",
+      "variantIds": [],
+      "sha256": "62adb538aab252c1660f47d2eb720352d0a106bd5ebdc803510a363eff9adc4b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:33.752Z",
+  "issues": []
+}

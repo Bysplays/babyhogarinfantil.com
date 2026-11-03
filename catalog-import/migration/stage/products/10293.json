@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "10293",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/10293-vestido-bebe-nina-lino-y-tul-con-ranita-crudo.html",
+  "name": "Vestido bebé niña lino y tul con ranita Crudo",
+  "brand": "Mayoral",
+  "sku": "2301055",
+  "description": "¿Buscas algo único y adorable para tu pequeña princesa? Experimenta la excelencia de nuestro Vestido bebé niña lino y tul con ranita Crudo. Su estilo sofisticado y diseño encantador es perfecto para ocasiones especiales como un bautizo o simplemente para que luzca espectacular todos los días. Este vestido está confeccionado con el más fino lino y tul, un material ligero y transpirable adecuado para la delicada piel de tu bebé. El conjunto incluye una ranita a juego, que añade un estilo sin igual. Consíguela ahora con nuestro increíble descuento del 50% y viste a tu pequeña con lo mejor de la moda infantil. Tu pequeña estrella brillará como nunca antes.",
+  "details": "Encanto sin Fin\nViste a tu pequeña con la belleza indescriptible del Vestido bebé niña lino y tul con ranita Crudo. Diseñado con un amor excepcional por los detalles, y hecho de lino suave y tul elegante, este vestido añade un toque de magia y la promesa de momentos tiernos a cada día.\n\nCalidad Inigualable\nExperimenta la perfección en cada puntada, la resistencia en cada costura. Cada vestido está confeccionado con los más altos estándares de calidad para garantizar que sea tan duradero como hermoso. Combinando materiales suaves y cómodos con un diseño finamente elaborado, este vestido es seguro para la delicada piel del bebé y está hecho para durar.\n\n75% Poliéster, 14% Lino y 11% Algodón\n\nForro:\n\n100% Algodón.\n\nExperiencia Única\nDesde su corte adorable hasta su combinación de colores versátil, este vestido bebé niña lino captura los sueños de los más jóvenes y los convierte en realidad. Diseñado para ocasiones especiales y para el uso diario, es un regalo inolvidable para cualquier pequeñín en tu vida.\n\nSi deseas lo mejor para tu pequeña, este vestido es para ti. Añade este exquisito vestido a tu carrito. ¡Te prometemos que tu princesa brillará como nunca!",
+  "sourceDescriptionHtml": "<p><strong>Encanto sin Fin</strong><br />Viste a tu pequeña con la belleza indescriptible del Vestido bebé niña lino y tul con ranita Crudo. Diseñado con un amor excepcional por los detalles, y hecho de lino suave y tul elegante, este vestido añade un toque de magia y la promesa de momentos tiernos a cada día.</p>\n<p><strong>Calidad Inigualable</strong><br />Experimenta la perfección en cada puntada, la resistencia en cada costura. Cada vestido está confeccionado con los más altos estándares de calidad para garantizar que sea tan duradero como hermoso. Combinando materiales suaves y cómodos con un diseño finamente elaborado, este vestido es seguro para la delicada piel del bebé y está hecho para durar.</p>\n<p>75% Poliéster, 14% Lino y 11% Algodón</p>\n<p>Forro:</p>\n<p>100% Algodón.</p>\n<p><strong>Experiencia Única</strong><br />Desde su corte adorable hasta su combinación de colores versátil, este vestido bebé niña lino captura los sueños de los más jóvenes y los convierte en realidad. Diseñado para ocasiones especiales y para el uso diario, es un regalo inolvidable para cualquier pequeñín en tu vida.</p>\n<p>Si deseas lo mejor para tu pequeña, este vestido es para ti. Añade este exquisito vestido a tu carrito. ¡Te prometemos que tu princesa brillará como nunca!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 37.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71475",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2301055",
+      "productSku": "2301055",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:08.046Z"
+    },
+    {
+      "id": "71477",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301055",
+      "productSku": "2301055",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:10.183Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10293-13403.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13403-large_default/vestido-bebe-nina-lino-y-tul-con-ranita-crudo.jpg",
+      "alt": "Vestido bebé niña lino y tul con ranita Crudo",
+      "sourceId": "13403",
+      "variantIds": [],
+      "sha256": "057696eff3e7832e2705bf32baa9ee41e99f73af9ef87bb6f230842432a3ab34"
+    },
+    {
+      "path": "assets/10293-13404.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13404-large_default/vestido-bebe-nina-lino-y-tul-con-ranita-crudo.jpg",
+      "alt": "Vestido bebé niña lino y tul con ranita Crudo",
+      "sourceId": "13404",
+      "variantIds": [],
+      "sha256": "2ffe915249963c583aa2861f936e7d1a5b789083fd7108320d869a656c18065a"
+    },
+    {
+      "path": "assets/10293-13402.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13402-large_default/vestido-bebe-nina-lino-y-tul-con-ranita-crudo.jpg",
+      "alt": "Vestido bebé niña lino y tul con ranita Crudo",
+      "sourceId": "13402",
+      "variantIds": [],
+      "sha256": "9e3fef13e57212a0aca5ccbed2c07fc5f0f25b527115c47476dfa1538bbf0697"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:10.333Z",
+  "issues": []
+}

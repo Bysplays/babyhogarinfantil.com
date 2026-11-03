@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "id": "21461",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/21461-parka-impermeable-azul-marino.html",
+  "name": "Parka impermeable Azul Marino",
+  "brand": "Chicco",
+  "sku": "2502100",
+  "description": "Parka azul amrino o cortavientos impermeable para niño o niña. Tiene capucha y bolsillos funcionales. Con forro interior. Para esos días de entretiempo. Es muy ligera y\n\ncómoda.",
+  "details": "Composición:\n\nExterior: 100% poliéster.\n\nInterior: 65% poliéster, 35% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Exterior: 100% poliéster.</p>\n<p>Interior: 65% poliéster, 35% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "769",
+    "728"
+  ],
+  "sourceDefaultCategoryId": "769",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96623",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502100",
+      "productSku": "2502100",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:04.580Z"
+    },
+    {
+      "id": "96625",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502100",
+      "productSku": "2502100",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:05.740Z"
+    },
+    {
+      "id": "96626",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502100",
+      "productSku": "2502100",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:06.884Z"
+    },
+    {
+      "id": "96627",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502100",
+      "productSku": "2502100",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:07.937Z"
+    },
+    {
+      "id": "96628",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502100",
+      "productSku": "2502100",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:09.237Z"
+    },
+    {
+      "id": "96629",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502100",
+      "productSku": "2502100",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:10.525Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21461-19978.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19978-large_default/parka-impermeable-azul-marino.jpg",
+      "alt": "Parka impermeable Azul Marino",
+      "sourceId": "19978",
+      "variantIds": [],
+      "sha256": "cf0074ff01444c2eaef5c6683688e3ca94d14279e10badbe6b0a5649054af03b"
+    },
+    {
+      "path": "assets/21461-19979.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19979-large_default/parka-impermeable-azul-marino.jpg",
+      "alt": "Parka impermeable Azul Marino",
+      "sourceId": "19979",
+      "variantIds": [],
+      "sha256": "3be42e50c98474e5e68e70932c7c80392f893467fa64bd4e2a0781ea15e8e138"
+    },
+    {
+      "path": "assets/21461-19980.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19980-large_default/parka-impermeable-azul-marino.jpg",
+      "alt": "Parka impermeable Azul Marino",
+      "sourceId": "19980",
+      "variantIds": [],
+      "sha256": "17dd711b47f041a1cf67ae0f49cc635f4a765d06cb047aea483fac5e8cd75126"
+    },
+    {
+      "path": "assets/21461-19981.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19981-large_default/parka-impermeable-azul-marino.jpg",
+      "alt": "Parka impermeable Azul Marino",
+      "sourceId": "19981",
+      "variantIds": [],
+      "sha256": "cbc77f3aaa755f9158b24946ae926d18e5206cdce35e641d585cbc7bb13158c6"
+    },
+    {
+      "path": "assets/21461-19982.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19982-large_default/parka-impermeable-azul-marino.jpg",
+      "alt": "Parka impermeable Azul Marino",
+      "sourceId": "19982",
+      "variantIds": [],
+      "sha256": "3668051169c0fdb1e5214f7855e129d28aacba6166baec161cbdb6a7d47dff83"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:10.815Z",
+  "issues": []
+}

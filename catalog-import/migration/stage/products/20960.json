@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "20960",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nino/20960-chubasquero-bebe-nino-mostaza.html",
+  "name": "Chubasquero bebé niño Mostaza",
+  "brand": "Mayoral",
+  "sku": "2502042",
+  "description": "Chubasquero impermeable con forro polar de poliéster.",
+  "details": "COMPOSICION:\n\nChubasquero:\n\nExterior: 100% Poliéster\n\nForro: 100% Poliéster",
+  "sourceDescriptionHtml": "<p>COMPOSICION:</p>\n<p><strong>Chubasquero:</strong></p>\n<p>Exterior: 100% Poliéster</p>\n<p>Forro: 100% Poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mostaza",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "827"
+  ],
+  "sourceDefaultCategoryId": "827",
+  "sourceCategoryName": "Abrigos chaquetones bebé niño",
+  "price": 35.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-09-23 08:36:09",
+  "sourceUpdatedAt": "2026-10-27 11:14:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96478",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502042",
+      "productSku": "2502042",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:11.675Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20960-19908.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19908-large_default/chubasquero-bebe-nino-mostaza.jpg",
+      "alt": "Chubasquero bebé niño Mostaza",
+      "sourceId": "19908",
+      "variantIds": [],
+      "sha256": "eb6277b07a25cb200baa83fcd2f213cd9837565b2bfb93b7a59bbb5867dbcf64"
+    },
+    {
+      "path": "assets/20960-19909.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19909-large_default/chubasquero-bebe-nino-mostaza.jpg",
+      "alt": "Chubasquero bebé niño Mostaza",
+      "sourceId": "19909",
+      "variantIds": [],
+      "sha256": "4f53c9a0583e95e46ce28ffc912e0dc8533fb912a79542ad8d2faa660fb5cec4"
+    },
+    {
+      "path": "assets/20960-19910.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19910-large_default/chubasquero-bebe-nino-mostaza.jpg",
+      "alt": "Chubasquero bebé niño Mostaza",
+      "sourceId": "19910",
+      "variantIds": [],
+      "sha256": "4ecebe61d17fb98f565d93d44136320d045425c8030d172dbc76c656fce8d1dc"
+    },
+    {
+      "path": "assets/20960-19911.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19911-large_default/chubasquero-bebe-nino-mostaza.jpg",
+      "alt": "Chubasquero bebé niño Mostaza",
+      "sourceId": "19911",
+      "variantIds": [],
+      "sha256": "010f7b597a3b1ce8f764c55cfd151e560e9ad57178907c32bf43a1eef3a6794d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:11.858Z",
+  "issues": []
+}

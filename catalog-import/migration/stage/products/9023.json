@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "9023",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/9023-anorak-impermeable-granate-granate.html",
+  "name": "Anorak impermeable granate Granate",
+  "brand": "Chicco",
+  "sku": "2107098",
+  "description": "Envuélvete en el calor del Anorak Impermeable Granate. Este anorak no sólo resguarda de las inclemencias del tiempo, sino también añade una chispa de estilo al guardarropa de tu pequeño. Realzado por su color granate, brinda elegancia y un toque de aventura. Su innovador diseño impermeable hace que los días lluviosos sean una excusa perfecta para demostrar su personalidad vibrante y alegre. Ideal para resaltar entre la multitud, este anorak granate es la pieza perfecta para aquellos que se atreven a desafiar al clima.",
+  "details": "Composición:\n\nExterior: 100% poliéster.\n\nRelleno: 100% poliéster.\n\nForro: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Exterior: 100% poliéster.</p>\n<p>Relleno: 100% poliéster.</p>\n<p>Forro: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Granate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-27 11:11:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68369",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2107098",
+      "productSku": "2107098",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:23.268Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9023-11816.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11816-large_default/anorak-impermeable-granate-granate.jpg",
+      "alt": "Anorak impermeable granate Granate",
+      "sourceId": "11816",
+      "variantIds": [],
+      "sha256": "36fbf578c2ceb364623e035de20a41c4d52ea198325db49cfacfc651000cf9a2"
+    },
+    {
+      "path": "assets/9023-11815.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11815-large_default/anorak-impermeable-granate-granate.jpg",
+      "alt": "Anorak impermeable granate Granate",
+      "sourceId": "11815",
+      "variantIds": [],
+      "sha256": "0c9f0ad3d275eb59a88b939d39f34d17c0f192c0a6e718970b1d6d35a774e6c0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:23.442Z",
+  "issues": []
+}

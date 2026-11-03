@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10361",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/10361-chaqueta-nina-sin-costuras-calados-rojo.html",
+  "name": "Chaqueta niña sin costuras calados Rojo",
+  "brand": "Mac Ilusión",
+  "sku": "2301120",
+  "description": "Chaqueta corta ideal vestidos. SIn costuras.",
+  "details": "Chaqueta de la firma MAC ILUSION, hecha en acrílico DRALON. Ha sido confeccionada en una sola piez, sin costuras.\n\nHECHO EN ESPAÑA\n\n50% Algodón\n\n50% Acrílico.",
+  "sourceDescriptionHtml": "<p>Chaqueta de la firma MAC ILUSION, hecha en acrílico DRALON. Ha sido confeccionada en una sola piez, sin costuras.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>\n<p><strong>50% Algodón</strong></p>\n<p><strong>50% Acrílico.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71751",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2301120",
+      "productSku": "2301120",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:19.548Z"
+    },
+    {
+      "id": "71753",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2301120",
+      "productSku": "2301120",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:22.742Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10361-9266.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9266-large_default/chaqueta-nina-sin-costuras-calados-rojo.jpg",
+      "alt": "Chaqueta niña sin costuras calados Rojo",
+      "sourceId": "9266",
+      "variantIds": [],
+      "sha256": "adefd18fe77fea639959ce3b5cbe997c6ff91edae0e8ecfa8d110b34cf92766a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:22.815Z",
+  "issues": []
+}

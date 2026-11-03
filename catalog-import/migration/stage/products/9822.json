@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "9822",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9822-sudadera-marino-con-felpa-le-chalet-azul-marino.html",
+  "name": "Sudadera marino con felpa le chalet Azul Marino",
+  "brand": "Zippy",
+  "sku": "2207059",
+  "description": "Sumérgete en un safari acogedor con la Sudadera Marino con Felpa Le Chalet Azul Marino. Esta pieza de alta calidad, hecha para los más pequeños que buscan estilo y comodidad, ofrece una sensación suave al tacto y garantiza calidez en los días frescos. El encanto está en los detalles: el exclusivo color azul marino, las costuras delicadamente hechas y la felpa del chalet le añaden un toque adicional para todo niño amante de la aventura. Esta Sudadera Marino no es solo una prenda de vestir, es la elección perfecta para infundir alegría y confort en el guardarropa del pequeño",
+  "details": "Lujo en Cada Hilo\n\nLa Sudadera Marino con Felpa le Chalet Azul Marino es una representación de la artesanía fina y la calidad superior. Diseñado para brindar calidez y comodidad insuperables a su pequeño sin comprometer el estilo. El color azul naval profundamente saturado agrega un toque de sofisticación, perfecto para cualquier ocasión.\n\nComodidad que Dura\n\nNo hay nada más importante que la comodidad de su pequeño. Con una mezcla de materiales de alta calidad, esta sudadera azul marino garantiza un ajuste cómodo durante todo el día. La felpa suave en su interior mantiene a su hijo calientito, incluso en los días más fríos.\n\nResistencia y Durabilidad\n\nEsta sudadera es la elección perfecta para los pequeños aventureros gracias a su construcción robusta. Sea que su hijo esté jugando al aire libre o en un evento especial, esta sudadera de felpa azul marino puede manejarlo todo. Las costuras reforzadas aseguran que esta prenda conservará su forma y apariencia, incluso después de varias lavadas.\n\nComposición:\n\nSudadera: 80% algodón, 20% poliéster.\n\nCompre ahora la Sudadera Marino con Felpa le Chalet Azul Marino y deje que su pequeño experimente la comodidad y el estilo de primer nivel.",
+  "sourceDescriptionHtml": "<h2>Lujo en Cada Hilo</h2>\n<p>La Sudadera Marino con Felpa le Chalet Azul Marino es una representación de la artesanía fina y la calidad superior. Diseñado para brindar calidez y comodidad insuperables a su pequeño sin comprometer el estilo. El color azul naval profundamente saturado agrega un toque de sofisticación, perfecto para cualquier ocasión.</p>\n<h2>Comodidad que Dura</h2>\n<p>No hay nada más importante que la comodidad de su pequeño. Con una mezcla de materiales de alta calidad, esta sudadera azul marino garantiza un ajuste cómodo durante todo el día. La felpa suave en su interior mantiene a su hijo calientito, incluso en los días más fríos.</p>\n<h2>Resistencia y Durabilidad</h2>\n<p>Esta sudadera es la elección perfecta para los pequeños aventureros gracias a su construcción robusta. Sea que su hijo esté jugando al aire libre o en un evento especial, esta sudadera de felpa azul marino puede manejarlo todo. Las costuras reforzadas aseguran que esta prenda conservará su forma y apariencia, incluso después de varias lavadas.</p>\n<p>Composición:</p>\n<p>Sudadera: 80% algodón, 20% poliéster.</p>\n<p><a href=\"#\">Compre ahora la Sudadera Marino con Felpa le Chalet Azul Marino y deje que su pequeño experimente la comodidad y el estilo de primer nivel.</a></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70132",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2207059",
+      "productSku": "2207059",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:47.511Z"
+    },
+    {
+      "id": "70133",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2207059",
+      "productSku": "2207059",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:48.842Z"
+    },
+    {
+      "id": "70134",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2207059",
+      "productSku": "2207059",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:50.500Z"
+    },
+    {
+      "id": "70135",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2207059",
+      "productSku": "2207059",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:52.269Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9822-12818.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12818-large_default/sudadera-marino-con-felpa-le-chalet-azul-marino.jpg",
+      "alt": "Sudadera marino con felpa le chalet Azul Marino",
+      "sourceId": "12818",
+      "variantIds": [],
+      "sha256": "96e4001cbad59121e89e62853aa05847f7db66cba4ddcb0dce6faba924a53d7a"
+    },
+    {
+      "path": "assets/9822-12819.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12819-large_default/sudadera-marino-con-felpa-le-chalet-azul-marino.jpg",
+      "alt": "Sudadera marino con felpa le chalet Azul Marino",
+      "sourceId": "12819",
+      "variantIds": [],
+      "sha256": "f46486146dd710ac507862f87cf3a12fc11be25fe5c0661d73e3198ef8331dab"
+    },
+    {
+      "path": "assets/9822-7965.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7965-large_default/sudadera-marino-con-felpa-le-chalet-azul-marino.jpg",
+      "alt": "Sudadera marino con felpa le chalet Azul Marino",
+      "sourceId": "7965",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9822-9133.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9133-large_default/sudadera-marino-con-felpa-le-chalet-azul-marino.jpg",
+      "alt": "Sudadera marino con felpa le chalet Azul Marino",
+      "sourceId": "9133",
+      "variantIds": [],
+      "sha256": "4c54aacc1a1592e97c5492760634cda28185179fe39043a97d7092a5d1cf52e3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:52.703Z",
+  "issues": []
+}

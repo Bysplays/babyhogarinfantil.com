@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "6698",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/6698-botita-bebe-nina-velcro-con-flor-bh-charol-verde.html",
+  "name": "Botita bebé niña velcro con Flor BH Charol Verde",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1610029",
+  "description": "Botín de piel badana, acabado charol. Cierre con velcro. Sin suela. Disponibilidad de modelo con semisuela de preandante en la talla 19. Disponible en varios colores.",
+  "details": "Botín para bebé de piel badana de gran calidad, acabado charol. Cierre con velcro lateral, que aporta facilidad a la hora del calzado y gran sujeción. Sin suela. Disponibilidad del modelo con semisuela preandante en la talla 19, consúltanos! Un calzado cómodo, muy ligero y blandito! Atemporal y combinable con todo tipo de conjuntos y vestidos, unisex. Disponible en varios colores. \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><strong>Botín para bebé de piel</strong> badana de gran calidad, acabado charol. Cierre con velcro lateral, qu<strong>e aporta facilidad a la hora del calzado y gran sujeción. Sin suela. Disponibilidad del modelo con semisuela preandante en la talla 19</strong>, consúltanos! Un calzado cómodo, muy ligero y blandito! Atemporal y combinable con todo tipo de conjuntos y vestidos, unisex.<strong> Disponible en varios colores</strong>. </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charol Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-27 11:09:19",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "256",
+          "label": "15"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "259",
+          "label": "19con"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64144",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "1610029",
+      "productSku": "1610029",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:09.502Z"
+    },
+    {
+      "id": "64145",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "1610029",
+      "productSku": "1610029",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:11.875Z"
+    },
+    {
+      "id": "64147",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "259",
+          "group": "Tamaño",
+          "value": "19con"
+        }
+      ],
+      "sku": "1610029",
+      "productSku": "1610029",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:14.982Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6698-9729.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9729-large_default/botita-bebe-nina-velcro-con-flor-bh-charol-verde.jpg",
+      "alt": "Botita bebé niña velcro con Flor BH Charol Verde",
+      "sourceId": "9729",
+      "variantIds": [],
+      "sha256": "534af60db30046fccb3c0b43e800c629d9c24b3a3181df50321a936f56112252"
+    },
+    {
+      "path": "assets/6698-9728.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9728-large_default/botita-bebe-nina-velcro-con-flor-bh-charol-verde.jpg",
+      "alt": "Botita bebé niña velcro con Flor BH Charol Verde",
+      "sourceId": "9728",
+      "variantIds": [],
+      "sha256": "3fc9c9d186b1dbb1c386798194feb99c15215b50fbf86966a9912e182a1af1c8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:15.110Z",
+  "issues": []
+}

@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "9910",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9910-conjunto-dos-piezas-alaska-verde.html",
+  "name": "Conjunto dos piezas Alaska Verde",
+  "brand": "Yoedu",
+  "sku": "2208024",
+  "description": "Conjunto dos piezas Alaska Verde, un toque sublime para tu pequeño explorador. Suavidad infinita, calidad excepcional y un diseño exclusivo se unen en esta obra de amor. Transmite calidez, elegancia y estilo. No sólo añadirá confort al día a día de tu bebé, sino que al llevarlo, sentirá el máximo bienestar. Su color verde alegre iluminará cada momento y cada sonrisa que comparta. Deslumbra con cada detalle, brillando en la multitud. ¡Hágalo memorable con el Conjunto dos piezas Alaska Verde!",
+  "details": "El Encanto De Alaska\n\nEl Conjunto Dos Piezas Alaska Verde presenta una calidad superior y un diseño encantador. La elección de tonos verdes evoca la belleza y serenidad de Alaska, garantizando que los más pequeños sean el centro de atención. Perfecto para cualquier tipo de clima, este conjunto es la solución ideal para mantener a los bebés y niños cómodos y elegantes. \n\n\nCalidad y Comodidad\n\nCada conjunto ha sido confeccionado con los más altos estándares de calidad, garantizando una larga durabilidad. El material es suave al tacto y está diseñado para proporcionar el mayor confort a los más pequeños, incluso durante largos ratos de actividad. Además, su tejido permite una gran transpirabilidad, evitando incómodas sudoraciones y garantizando una sensación agradable al tacto.\n\n\nEstilo Versátil\n\nAdemás de ser extremadamente cómodo, el Conjunto Dos Piezas Alaska Verde ofrece un estilo inigualable. Su diseño clásico es perfecto para cualquier ocasión, sea una actividad cotidiana o un evento especial. Los pequeños se verán tan tiernos y elegantes que cosecharán elogios allá donde vayan. Los detalles de calidad y su innegable entereza hacen de este conjunto una elección excepcional.\n\nNo dejes pasar la oportunidad de ofrecer a los pequeños la comodidad y estilo que merecen. ¡Adquiere hoy el Conjunto Dos Piezas Alaska Verde y descubre el encanto de vestir a los más pequeños con prendas de calidad!",
+  "sourceDescriptionHtml": "<p></p><h2>El Encanto De Alaska</h2>\nEl Conjunto Dos Piezas Alaska Verde presenta una calidad superior y un diseño encantador. La elección de tonos verdes evoca la belleza y serenidad de Alaska, garantizando que los más pequeños sean el centro de atención. Perfecto para cualquier tipo de clima, este conjunto es la solución ideal para mantener a los bebés y niños cómodos y elegantes. \n\n<p></p><h2>Calidad y Comodidad</h2>\nCada conjunto ha sido confeccionado con los más altos estándares de calidad, garantizando una larga durabilidad. El material es suave al tacto y está diseñado para proporcionar el mayor confort a los más pequeños, incluso durante largos ratos de actividad. Además, su tejido permite una gran transpirabilidad, evitando incómodas sudoraciones y garantizando una sensación agradable al tacto.\n\n<p></p><h2>Estilo Versátil</h2>\nAdemás de ser extremadamente cómodo, el Conjunto Dos Piezas Alaska Verde ofrece un estilo inigualable. Su diseño clásico es perfecto para cualquier ocasión, sea una actividad cotidiana o un evento especial. Los pequeños se verán tan tiernos y elegantes que cosecharán elogios allá donde vayan. Los detalles de calidad y su innegable entereza hacen de este conjunto una elección excepcional.\n\n<p><b>No dejes pasar la oportunidad de ofrecer a los pequeños la comodidad y estilo que merecen. ¡Adquiere hoy el Conjunto Dos Piezas Alaska Verde y descubre el encanto de vestir a los más pequeños con prendas de calidad!</b></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 45.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70373",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2208024",
+      "productSku": "2208024",
+      "taxRate": 21,
+      "price": 45.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:00.296Z"
+    },
+    {
+      "id": "70374",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2208024",
+      "productSku": "2208024",
+      "taxRate": 21,
+      "price": 45.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:01.515Z"
+    },
+    {
+      "id": "70375",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2208024",
+      "productSku": "2208024",
+      "taxRate": 21,
+      "price": 45.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:02.713Z"
+    },
+    {
+      "id": "70377",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2208024",
+      "productSku": "2208024",
+      "taxRate": 21,
+      "price": 45.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:03.926Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9910-8035.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8035-large_default/conjunto-dos-piezas-alaska-verde.jpg",
+      "alt": "Conjunto dos piezas Alaska Verde",
+      "sourceId": "8035",
+      "variantIds": [],
+      "sha256": "8dc7dd15eb94e3a59b31a763246cef4caf0f65fe71e6909804f25be7943b89b1"
+    },
+    {
+      "path": "assets/9910-12936.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12936-large_default/conjunto-dos-piezas-alaska-verde.jpg",
+      "alt": "Conjunto dos piezas Alaska Verde",
+      "sourceId": "12936",
+      "variantIds": [],
+      "sha256": "483be22bbc408843c75db0e90b37786987b4060433a3c69f5aaf2570b2f8c878"
+    },
+    {
+      "path": "assets/9910-12937.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12937-large_default/conjunto-dos-piezas-alaska-verde.jpg",
+      "alt": "Conjunto dos piezas Alaska Verde",
+      "sourceId": "12937",
+      "variantIds": [],
+      "sha256": "8dc7dd15eb94e3a59b31a763246cef4caf0f65fe71e6909804f25be7943b89b1"
+    },
+    {
+      "path": "assets/9910-12935.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12935-large_default/conjunto-dos-piezas-alaska-verde.jpg",
+      "alt": "Conjunto dos piezas Alaska Verde",
+      "sourceId": "12935",
+      "variantIds": [],
+      "sha256": "db6c427a8394940b42aea7f2b8439d4066aaf406a85d51f5228f8cbd0c78a3ac"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:04.180Z",
+  "issues": []
+}

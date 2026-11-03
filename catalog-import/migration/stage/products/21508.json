@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "id": "21508",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21508-pantalon-felpa-algodon-con-bolsillos-verde-caqui.html",
+  "name": "Pantalón felpa algodón con bolsillos Verde Caqui",
+  "brand": "Babybol",
+  "sku": "2502145",
+  "description": "Pantalón básico gris con bolsillo slaterales. Tiene felpa interior par aque sea cálido. Cinturilla con goma y cordón ajustable. Bajos con elástico.",
+  "details": "Composición:\n\nPantalón: 88% algodón, 12% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Pantalón: </strong>88% algodón, 12% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde Caqui",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 17.05,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 12,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96862",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502145",
+      "productSku": "2502145",
+      "taxRate": 21,
+      "price": 17.05,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:29.797Z"
+    },
+    {
+      "id": "96864",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502145",
+      "productSku": "2502145",
+      "taxRate": 21,
+      "price": 17.05,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:33.338Z"
+    },
+    {
+      "id": "96865",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502145",
+      "productSku": "2502145",
+      "taxRate": 21,
+      "price": 17.05,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:36.548Z"
+    },
+    {
+      "id": "96866",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502145",
+      "productSku": "2502145",
+      "taxRate": 21,
+      "price": 17.05,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:39.175Z"
+    },
+    {
+      "id": "96867",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502145",
+      "productSku": "2502145",
+      "taxRate": 21,
+      "price": 17.05,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:42.285Z"
+    },
+    {
+      "id": "96868",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502145",
+      "productSku": "2502145",
+      "taxRate": 21,
+      "price": 17.05,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:44.980Z"
+    },
+    {
+      "id": "96869",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502145",
+      "productSku": "2502145",
+      "taxRate": 21,
+      "price": 17.05,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:46.866Z"
+    },
+    {
+      "id": "96870",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502145",
+      "productSku": "2502145",
+      "taxRate": 21,
+      "price": 17.05,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:48.700Z"
+    },
+    {
+      "id": "96871",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2502145",
+      "productSku": "2502145",
+      "taxRate": 21,
+      "price": 17.05,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:51.593Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21508-20097.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20097-large_default/pantalon-felpa-algodon-con-bolsillos-verde-caqui.jpg",
+      "alt": "Pantalón felpa algodón con bolsillos Verde Caqui",
+      "sourceId": "20097",
+      "variantIds": [],
+      "sha256": "357bd473fe1c014c3df76535235f38625b5be279445531d72ad43bd3241716df"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:51.668Z",
+  "issues": []
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "6790",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nino/6790-zapato-bebe-nino-denver-camel.html",
+  "name": "Zapato bebé niño \"Denver\" Camel",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1703185",
+  "description": "Sandalia de piel en color camel con la puntera en tono topo verdoso. Con suela de goma. Cierre con hebilla.",
+  "details": "Sandalia de piel en color camel con la puntera en tono topo verdoso. Con suela de goma que se extiende hasta la puntera y el tal&oacute;n, para mayor estabilidad y evitar resbalones. Cierre con hebilla met&aacute;lica. Piel con microperforaciones, para que el pie transpire. Un calzado c&oacute;modo, atemporal y en color neutro, perfectamente combinable con el resto de colores y distintos tipos de conjuntos! \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p><strong>Sandalia de piel&nbsp;</strong>en color camel con la puntera en tono topo verdoso. Con suela de goma que se extiende hasta la puntera y el tal&oacute;n, para mayor estabilidad y evitar resbalones. Cierre con hebilla met&aacute;lica. Piel con microperforaciones, para que el pie transpire. Un calzado c&oacute;modo, atemporal y en color neutro, perfectamente combinable con el resto de colores y distintos tipos de conjuntos!&nbsp;</p>\r\n<p><strong>FABRICADO EN ESPA&Ntilde;A</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "701"
+  ],
+  "sourceDefaultCategoryId": "701",
+  "sourceCategoryName": "Calzado Niño",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-27 11:09:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64345",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "1703185",
+      "productSku": "1703185",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:05.391Z"
+    },
+    {
+      "id": "64346",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "1703185",
+      "productSku": "1703185",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:07.869Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6790-4713.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4713-large_default/zapato-bebe-nino-denver-camel.jpg",
+      "alt": "Zapato bebé niño \"Denver\" Camel",
+      "sourceId": "4713",
+      "variantIds": [],
+      "sha256": "86a3f126bbaa151b018bc1d589b742ae5e605f0de7e4c62e637363d744970fa5"
+    },
+    {
+      "path": "assets/6790-9783.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9783-large_default/zapato-bebe-nino-denver-camel.jpg",
+      "alt": "Zapato bebé niño \"Denver\" Camel",
+      "sourceId": "9783",
+      "variantIds": [],
+      "sha256": "86a3f126bbaa151b018bc1d589b742ae5e605f0de7e4c62e637363d744970fa5"
+    },
+    {
+      "path": "assets/6790-9782.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9782-large_default/zapato-bebe-nino-denver-camel.jpg",
+      "alt": "Zapato bebé niño \"Denver\" Camel",
+      "sourceId": "9782",
+      "variantIds": [],
+      "sha256": "8a6525fd732e81bc312727adeffa9a8644d182b03cfc7f3557a2d3f50b0274ae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:08.047Z",
+  "issues": []
+}

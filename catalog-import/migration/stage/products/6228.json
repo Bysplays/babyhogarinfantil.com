@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "6228",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/6228-calcetin-calido-puno-calado-cava.html",
+  "name": "Calcetín cálido puño calado Cava",
+  "brand": "Condor",
+  "sku": "1016",
+  "description": "Calcetines cortos color CAVA, acrílicos con detalle calado en el puño. La textura es muy cálida y suave.",
+  "details": "Composici&oacute;n y cuidados:\n\r\n80% Acr&iacute;lico, 20% poliamida\n\r\nNO USAR LEJIAS.\n\r\nNO USAR SECADORA.\n\r\nNO LAVAR EN SECO.\n\r\nNO PLANCHAR.\n\r\nLAVAR A MAQUINA 40&ordm;.\n\r\nHECHO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n y cuidados:</p>\r\n<p>80% Acr&iacute;lico, 20% poliamida</p>\r\n<p>NO USAR LEJIAS.</p>\r\n<p>NO USAR SECADORA.</p>\r\n<p>NO LAVAR EN SECO.</p>\r\n<p>NO PLANCHAR.</p>\r\n<p>LAVAR A MAQUINA 40&ordm;.</p>\r\n<p><strong>HECHO EN ESPA&Ntilde;A</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cava",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 4.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62943",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1016",
+      "productSku": "1016",
+      "taxRate": 21,
+      "price": 4.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:36.090Z"
+    },
+    {
+      "id": "62944",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1016",
+      "productSku": "1016",
+      "taxRate": 21,
+      "price": 4.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:39.086Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6228-4147.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4147-large_default/calcetin-calido-puno-calado-cava.jpg",
+      "alt": "Calcetín cálido puño calado Cava",
+      "sourceId": "4147",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6228-9446.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9446-large_default/calcetin-calido-puno-calado-cava.jpg",
+      "alt": "Calcetín cálido puño calado Cava",
+      "sourceId": "9446",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6228-4146.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4146-large_default/calcetin-calido-puno-calado-cava.jpg",
+      "alt": "Calcetín cálido puño calado Cava",
+      "sourceId": "4146",
+      "variantIds": [],
+      "sha256": "f915f31a025179ada097a12454e0341bfde1c87350598f36c8e8719addf372fc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:39.297Z",
+  "issues": []
+}

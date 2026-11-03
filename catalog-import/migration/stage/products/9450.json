@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "9450",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/9450-chaqueta-nina-perle-espalda-calada-rojo.html",
+  "name": "Chaqueta niña perlé espalda calada Rojo",
+  "brand": "Mac Ilusión",
+  "sku": "2202096",
+  "description": "Chaqueta en perlé con espalda calada.",
+  "details": "De la firma española MAC ILUSION, chaqueta confeccionada en acrílico DRALON y sin costuras.\n\nHECHO EN ESPAÑA\n\n50% Algodón\n\n50% Acrílico.",
+  "sourceDescriptionHtml": "<p>De la firma española MAC ILUSION, chaqueta confeccionada en acrílico DRALON y sin costuras.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>\n<p><strong>50% Algodón</strong></p>\n<p><strong>50% Acrílico.</strong></p>\n<p><strong></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 12.48,
+  "oldPrice": 24.9502,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:49",
+  "sourceUpdatedAt": "2026-10-27 11:11:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69249",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2202096",
+      "productSku": "2202096",
+      "taxRate": 21,
+      "price": 12.48,
+      "oldPrice": 24.9502,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:40.517Z"
+    },
+    {
+      "id": "83218",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2202096",
+      "productSku": "2202096",
+      "taxRate": 21,
+      "price": 12.48,
+      "oldPrice": 24.9502,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:43.363Z"
+    },
+    {
+      "id": "69252",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2202096",
+      "productSku": "2202096",
+      "taxRate": 21,
+      "price": 12.48,
+      "oldPrice": 24.9502,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:46.370Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9450-7696.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7696-large_default/chaqueta-nina-perle-espalda-calada-rojo.jpg",
+      "alt": "Chaqueta niña perlé espalda calada Rojo",
+      "sourceId": "7696",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    },
+    {
+      "path": "assets/9450-7697.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7697-large_default/chaqueta-nina-perle-espalda-calada-rojo.jpg",
+      "alt": "Chaqueta niña perlé espalda calada Rojo",
+      "sourceId": "7697",
+      "variantIds": [],
+      "sha256": "0115cfc5ea6f62d6f5e47af822bd8803ce915971c09370ad234472d11e11e1ee"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:46.503Z",
+  "issues": []
+}

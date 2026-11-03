@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "7526",
+  "sourceUrl": "https://babyhogarinfantil.com/blusas-nina/7526-bluson-vaquero-azul.html",
+  "name": "Bluson Vaquero Azul",
+  "brand": "Zippy",
+  "sku": "1901083",
+  "description": "Perfecta para todas las ocasiones, la Blusa Vaquera Azul es imprescindible en el guardarropa de tu niña. Diseñada para destacar, ofrece una fina mezcla de comodidad y estilo. Esta pieza atemporal, hecha de materiales de alta calidad, hará que tu pequeña se sienta segura y a la moda. Su versatilidad la hace ideal tanto para un día en el parque como para ocasiones especiales. Añade un toque de frescura y distinción a cualquier conjunto. Adquiérela hoy e ilumina el día de tu pequeña.",
+  "details": "Fashion y Confort\n\n El Bluson Vaquero Azul es esencial en el armario de tus pequeños, brindándoles una sensación de comodidad sin sacrificar el estilo. Esta pieza de vestir es perfecta para todas las estaciones, sin margen de equivocación, es un clásico atemporal y adaptable a cualquier ambiente. \n\n\nSuavidad y Durabilidad\n\n Fabricado con materiales de alta calidad, el Bluson Vaquero Azul proporciona la suavidad que la delicada piel de tus pequeños necesita. Su resistencia garantiza durabilidad, permitiendo mantener su forma y color lavado tras lavado. Tus pequeños estarán a la moda mientras disfrutan de la comodidad y libertad de movimiento en todas sus aventuras. \n\n\nSeguridad y Cuidado del Medio Ambiente\n\n Nos importa la salud de tus hijos y nuestro planeta, por lo que el Bluson Vaquero Azul está fabricado con procesos eco amigables y tintes seguros. Tus niños pueden jugar, reír y explorar con completa libertad, sabiendo que su ropa está libre de químicos dañinos. \n\n\nCompra Ahora!",
+  "sourceDescriptionHtml": "<h2>Fashion y Confort</h2>\n<p> El Bluson Vaquero Azul es esencial en el armario de tus pequeños, brindándoles una sensación de comodidad sin sacrificar el estilo. Esta pieza de vestir es perfecta para todas las estaciones, sin margen de equivocación, es un clásico atemporal y adaptable a cualquier ambiente. </p>\n\n<h2>Suavidad y Durabilidad</h2>\n<p> Fabricado con materiales de alta calidad, el Bluson Vaquero Azul proporciona la suavidad que la delicada piel de tus pequeños necesita. Su resistencia garantiza durabilidad, permitiendo mantener su forma y color lavado tras lavado. Tus pequeños estarán a la moda mientras disfrutan de la comodidad y libertad de movimiento en todas sus aventuras. </p>\n\n<h2>Seguridad y Cuidado del Medio Ambiente</h2>\n<p> Nos importa la salud de tus hijos y nuestro planeta, por lo que el Bluson Vaquero Azul está fabricado con procesos eco amigables y tintes seguros. Tus niños pueden jugar, reír y explorar con completa libertad, sabiendo que su ropa está libre de químicos dañinos. </p>\n\n<p>Compra Ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "771"
+  ],
+  "sourceDefaultCategoryId": "771",
+  "sourceCategoryName": "Blusas Niña",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:25",
+  "sourceUpdatedAt": "2026-10-27 11:10:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65875",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1901083",
+      "productSku": "1901083",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:01.643Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7526-5464.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5464-large_default/bluson-vaquero-azul.jpg",
+      "alt": "Bluson Vaquero Azul",
+      "sourceId": "5464",
+      "variantIds": [],
+      "sha256": "08d9d50c7ce7902f527dd7b0cf991c4676760af510ca60d95976389b28db40b0"
+    },
+    {
+      "path": "assets/7526-10343.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10343-large_default/bluson-vaquero-azul.jpg",
+      "alt": "Bluson Vaquero Azul",
+      "sourceId": "10343",
+      "variantIds": [],
+      "sha256": "08d9d50c7ce7902f527dd7b0cf991c4676760af510ca60d95976389b28db40b0"
+    },
+    {
+      "path": "assets/7526-5463.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5463-large_default/bluson-vaquero-azul.jpg",
+      "alt": "Bluson Vaquero Azul",
+      "sourceId": "5463",
+      "variantIds": [],
+      "sha256": "b519ac2120b890f222091bf17d99a0b4b896da4eb120450924aa5f38df1ef1cf"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:01.850Z",
+  "issues": []
+}

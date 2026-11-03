@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "9434",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-nina/9434-camiseta-nina-verano-algodon-feel-good-rosa.html",
+  "name": "Camiseta niña verano algodon Feel good Rosa",
+  "brand": "Chicco",
+  "sku": "2202086",
+  "description": "¡Ilumine el verano de su niña con la Camiseta Niña Verano Algodón 'Feel Good' Rosa! Esta camiseta es atractiva y cómoda, perfecta para el calor veraniego. Fabricada en algodón puro, promete mantener a su niña fresca y libre durante todas sus aventuras. Su diseño rosa vibrante infunde alegría y optimismo, mientras que el lema 'Feel Good' inspira positividad. Esta camiseta no solo hará sentir a su niña especial, sino también segura. Ya sea para jugar en el parque, ir a la piscina o simplemente disfrutar de un helado, esta camiseta será su compañera ideal. ¡Llénese de alegría y 'Feel Good' este verano con nuestra Camiseta Niña Verano Algodón 'Feel Good' Rosa!",
+  "details": "Diseño Encantador y Moderno\n\n¿Por qué no hacer que tu pequeña se sienta especial con nuestra Camiseta niña verano algodón Feel good Rosa? Este top es colorido y divertido, perfecto para que tu niña divierta jugando durante los largos días de verano. Su diseño moderno y alegre es definitivamente un ganador, haciendo a cada niña lucir más linda y a la moda. Ofrece no solo estilo, sino también comodidad y libertad para moverse con facilidad.\n\nCalidad Superior para un Confort Óptimo\n\nHecha 95% de algodón y 5% elastano de alta calidad, esta camiseta es extremadamente suave y cómoda de usar. Su tela de algodón transpirable es perfecta para los días calurosos de verano, manteniendo a los niños frescos y cómodos en todo momento. Además, su durabilidad garantiza que pueda soportar el desgaste diario y seguir siendo tan buena como nueva después de varios lavados.\n\nUn Regalo Perfecto para las Pequeñas Princesas\n\n¿Estás buscando el regalo perfecto para una niña? No busques más. La Camiseta niña verano algodón Feel good Rosa es un regalo maravilloso, ya sea para un cumpleaños, un regreso a la escuela o simplemente como un regalo sorpresa. Sorprendentemente asequible y algo que se usa una y otra vez, es seguro que esta camiseta será un éxito sin importar la ocasión.\n\nCompra Ahora",
+  "sourceDescriptionHtml": "<h2>Diseño Encantador y Moderno</h2>\n<p>¿Por qué no hacer que tu pequeña se sienta especial con nuestra Camiseta niña verano algodón Feel good Rosa? Este top es colorido y divertido, perfecto para que tu niña divierta jugando durante los largos días de verano. Su diseño moderno y alegre es definitivamente un ganador, haciendo a cada niña lucir más linda y a la moda. Ofrece no solo estilo, sino también comodidad y libertad para moverse con facilidad.</p>\n<h2>Calidad Superior para un Confort Óptimo</h2>\n<p>Hecha 95% de algodón y 5% elastano de alta calidad, esta camiseta es extremadamente suave y cómoda de usar. Su tela de algodón transpirable es perfecta para los días calurosos de verano, manteniendo a los niños frescos y cómodos en todo momento. Además, su durabilidad garantiza que pueda soportar el desgaste diario y seguir siendo tan buena como nueva después de varios lavados.</p>\n<h2>Un Regalo Perfecto para las Pequeñas Princesas</h2>\n<p>¿Estás buscando el regalo perfecto para una niña? No busques más. La Camiseta niña verano algodón Feel good Rosa es un regalo maravilloso, ya sea para un cumpleaños, un regreso a la escuela o simplemente como un regalo sorpresa. Sorprendentemente asequible y algo que se usa una y otra vez, es seguro que esta camiseta será un éxito sin importar la ocasión.</p>\n<p><button>Compra Ahora</button></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "736",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "736",
+  "sourceCategoryName": "Camisetas niña",
+  "price": 5,
+  "oldPrice": 9.9946,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:49",
+  "sourceUpdatedAt": "2026-10-27 11:11:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69220",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2202086",
+      "productSku": "2202086",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:49.792Z"
+    },
+    {
+      "id": "69221",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2202086",
+      "productSku": "2202086",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:51.960Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9434-7667.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7667-large_default/camiseta-nina-verano-algodon-feel-good-rosa.jpg",
+      "alt": "Camiseta niña verano algodon Feel good Rosa",
+      "sourceId": "7667",
+      "variantIds": [],
+      "sha256": "2a49cd47fdd56e9af691e6e4792934b05edb1638a7b524437effdcf7438d9313"
+    },
+    {
+      "path": "assets/9434-7666.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7666-large_default/camiseta-nina-verano-algodon-feel-good-rosa.jpg",
+      "alt": "Camiseta niña verano algodon Feel good Rosa",
+      "sourceId": "7666",
+      "variantIds": [],
+      "sha256": "0621fe21ac55f46bb6648002e103f64c894d447d4a962524333c818a9c2a12d5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:52.099Z",
+  "issues": []
+}

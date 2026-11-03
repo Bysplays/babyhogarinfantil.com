@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "16469",
+  "sourceUrl": "https://babyhogarinfantil.com/sacos-silla-capazo-y-grupo-0/16469-saco-capazo-azul.html",
+  "name": "Saco capazo Azul",
+  "brand": "Mayoral",
+  "sku": "2307028",
+  "description": "Saco para capazo universal. Válido para casi todos los modelos.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "801"
+  ],
+  "sourceDefaultCategoryId": "801",
+  "sourceCategoryName": "Sacos silla capazo y grupo 0",
+  "price": 54.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-07-12 15:53:08",
+  "sourceUpdatedAt": "2026-10-27 11:12:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "148739",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11380XA17538",
+      "productSku": "2307028",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:01.655Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16469-14524.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14524-large_default/saco-capazo-azul.jpg",
+      "alt": "Saco capazo Azul",
+      "sourceId": "14524",
+      "variantIds": [],
+      "sha256": "86adf24e8153ad852b129913a9e4134217086bb60c3bdc83da13bcc644561b8f"
+    },
+    {
+      "path": "assets/16469-14525.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14525-large_default/saco-capazo-azul.jpg",
+      "alt": "Saco capazo Azul",
+      "sourceId": "14525",
+      "variantIds": [],
+      "sha256": "178a6deb8796f6f7f52cf6824e1682c59ad3af6dcda4e32b62009f166fba43b1"
+    },
+    {
+      "path": "assets/16469-14526.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14526-large_default/saco-capazo-azul.jpg",
+      "alt": "Saco capazo Azul",
+      "sourceId": "14526",
+      "variantIds": [],
+      "sha256": "04f3c78fc8a98d08562bf2d1619a390c7cc1a72662509a5c75f2e365f0b8dbb7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:02.066Z",
+  "issues": []
+}

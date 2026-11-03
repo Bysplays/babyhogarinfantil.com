@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7151",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nino/7151-zapato-piel-con-hebilla-charol-gris.html",
+  "name": "Zapato piel con hebilla Charol Gris",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1803008",
+  "description": "Zapato pepito de piel charol liso, con suela de goma. Cierre con hebilla metálica. Disponible en varios colores. FABRICADO EN ESPAÑA.",
+  "details": "Zapato pepito de piel napa lisa de gran calidad, con suela de goma, perfecta para evitar resbalones. Cierre con hebilla met&aacute;lica para una &oacute;ptima sujeci&oacute;n y comodidad en el pie. Un calzado cl&aacute;sico y atemporal, perfecto fondo de armario, combinable con todo tipo de conjuntos. Disponible en varios colores. \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p><strong>Zapato pepito de piel</strong> napa lisa de gran calidad, con suela de goma, perfecta para evitar resbalones. Cierre con hebilla met&aacute;lica para una &oacute;ptima sujeci&oacute;n y comodidad en el pie. Un calzado cl&aacute;sico y atemporal, perfecto fondo de armario, combinable con todo tipo de conjuntos. <strong>Disponible en varios colores.&nbsp;</strong></p>\r\n<p><strong>FABRICADO EN ESPA&Ntilde;A</strong></p>\r\n<p>&nbsp;</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charol Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "701"
+  ],
+  "sourceDefaultCategoryId": "701",
+  "sourceCategoryName": "Calzado Niño",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "279",
+          "label": "25"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65124",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "1803008",
+      "productSku": "1803008",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:25.903Z"
+    },
+    {
+      "id": "65125",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "279",
+          "group": "Tamaño",
+          "value": "25"
+        }
+      ],
+      "sku": "1803008",
+      "productSku": "1803008",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:28.455Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7151-10046.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10046-large_default/zapato-piel-con-hebilla-charol-gris.jpg",
+      "alt": "Zapato piel con hebilla Charol Gris",
+      "sourceId": "10046",
+      "variantIds": [],
+      "sha256": "b14c3715f105c1ef54f9677c3cf4d55e59395215039277ea867b9f642e4dad00"
+    },
+    {
+      "path": "assets/7151-10045.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10045-large_default/zapato-piel-con-hebilla-charol-gris.jpg",
+      "alt": "Zapato piel con hebilla Charol Gris",
+      "sourceId": "10045",
+      "variantIds": [],
+      "sha256": "09f2d544a29a8c6fe947ce54ad35ad5d34b74404e328accf498c4859ed452d1a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:28.605Z",
+  "issues": []
+}

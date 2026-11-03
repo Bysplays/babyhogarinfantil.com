@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10177",
+  "sourceUrl": "https://babyhogarinfantil.com/chandal-bebe-nino/10177-chandal-azul-con-felpa-nino-azul.html",
+  "name": "Chandal azul con felpa niño Azul",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2208311",
+  "description": "¡Ilumina el armario de tu pequeño con el Chandal azul con felpa para niño! Confeccionado en suave felpa, este chándal ofrece la máxima comodidad a tu pequeño aventurero. La intensidad del color azul crea una apariencia elegante, perfecta para cualquier ocasión. Ya sea para jugar, moverse o relajarse, este chándal es la elección perfecta. Con manga larga y un cómodo pantalón, tu bebé se mantendrá cálido durante todo el día. ¡Viste a tu niño con estilo y confort con nuestro Chándal azul con felpa!",
+  "details": "Estilo y Comodidad en Un Solo Lugar\n\nEl Chándal Azul con Felpa para Niño es más que una simple prenda de vestir. Es la combinación perfecta de estilo y comodidad que tu hijo necesita. Hecho de materiales de alta calidad, es duradero y resistente al desgaste diario. Pero eso no es todo, su material de felpa en el interior es increíblemente suave y cómodo, haciendo que tu niño se sienta acogido y protegido durante todo el día.\n\nDiseño Atractivo y Moderno\n\nEsta no es una prenda común y corriente. El Chándal Azul con Felpa para Niño es el resultado de una estética cuidadosamente seleccionada y puesta en práctica. Su tono azul vibrante es capaz de captar la atención de cualquiera en los alrededores. Además, su diseño atemporal hará que tu hijo se vea moderno y sofisticado en todo momento. Sin duda, es la opción ideal para aquellas mamás exigentes que buscan lo mejor para su hijo.\n\nLa Elección Inteligente\n\nSi buscas calidad, estilo y comodidad, estás en el lugar correcto. El Chándal Azul con Felpa para Niño es la compra más inteligente que puedes hacer. Es la inversión que necesitas para garantizar una experiencia única a tu hijo. No esperes más, es hora de darle a tu hijo la comodidad y estilo que se merece.\n\n¡No pierdas esta oportunidad! Adquiere el Chándal Azul con Felpa para Niño y descubre la alegría de ver a tu hijo cómodo y con estilo. ¡Haz clic en 'añadir al carrito' ahora!",
+  "sourceDescriptionHtml": "<h2>Estilo y Comodidad en Un Solo Lugar</h2>\n<p>El Chándal Azul con Felpa para Niño es más que una simple prenda de vestir. Es la combinación perfecta de estilo y comodidad que tu hijo necesita. Hecho de materiales de alta calidad, es duradero y resistente al desgaste diario. Pero eso no es todo, su material de felpa en el interior es increíblemente suave y cómodo, haciendo que tu niño se sienta acogido y protegido durante todo el día.</p>\n<h2>Diseño Atractivo y Moderno</h2>\n<p>Esta no es una prenda común y corriente. El Chándal Azul con Felpa para Niño es el resultado de una estética cuidadosamente seleccionada y puesta en práctica. Su tono azul vibrante es capaz de captar la atención de cualquiera en los alrededores. Además, su diseño atemporal hará que tu hijo se vea moderno y sofisticado en todo momento. Sin duda, es la opción ideal para aquellas mamás exigentes que buscan lo mejor para su hijo.</p>\n<h2>La Elección Inteligente</h2>\n<p>Si buscas calidad, estilo y comodidad, estás en el lugar correcto. El Chándal Azul con Felpa para Niño es la compra más inteligente que puedes hacer. Es la inversión que necesitas para garantizar una experiencia única a tu hijo. No esperes más, es hora de darle a tu hijo la comodidad y estilo que se merece.</p>\n<p><strong>¡No pierdas esta oportunidad! Adquiere el Chándal Azul con Felpa para Niño y descubre la alegría de ver a tu hijo cómodo y con estilo. ¡Haz clic en 'añadir al carrito' ahora!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "787",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "787",
+  "sourceCategoryName": "Chandal bebé niño",
+  "price": 29.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:58",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71150",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2208311",
+      "productSku": "2208311",
+      "taxRate": 21,
+      "price": 29.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:31.314Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10177-8175.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8175-large_default/chandal-azul-con-felpa-nino-azul.jpg",
+      "alt": "Chandal azul con felpa niño Azul",
+      "sourceId": "8175",
+      "variantIds": [],
+      "sha256": "8641e7cc94867e197a9e5a5f2576e639c1ac970698bceb107f51e712faea6e8b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:31.384Z",
+  "issues": []
+}

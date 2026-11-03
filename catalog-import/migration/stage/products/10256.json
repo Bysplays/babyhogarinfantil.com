@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "10256",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/10256-jesusin-familia-maya-coral.html",
+  "name": "Jesusin familia MAYA Coral",
+  "brand": "Yoedu",
+  "sku": "2301019",
+  "description": "Jesusito con ranita con estampado floral en tonos coral, con volantes en las mangas y nido de abeja en el pecho, cierre trasero con botones y forro interior. Disponible conjunto para bebé niño y vestido infantil a juego.",
+  "details": "Jesusito con ranita de la familia MAYA, de la firma YOEDU, firma de moda infantil que nace en 1994 con un estilo propio, elegante, funcional y alegre, que acompañe a los pequeños en su día a día. Estampado floral en tonos coral, nido de abeja en el pecho y volantes en las mangas. Cierre trasero con botones y forro interior. Incluye ranita con goma en cintura y perneras. Un conjunto de colores alegres, fresquito y cómodo, ideal para los días de primavera! Echa un ojito a nuestros calcetines calados, chaquetas de perlé y accesorios para el pelo y podrás completarlo como más te guste! Disponible conjunto para bebé niño y vestido infantil a juego. \n\nComposición y cuidados:\n\nJesusín: 97% algodón, 3% poliéster\n\nForro: 65% poliéster, 35% algodón\n\nRanita: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Jesusito con ranita de la familia <strong>MAYA</strong>, de la firma <strong>YOEDU</strong>, firma de moda infantil que nace en 1994 con un estilo propio, elegante, funcional y alegre, que acompañe a los pequeños en su día a día. Estampado floral en tonos <strong>coral</strong>, nido de abeja en el pecho y volantes en las mangas. Cierre trasero con botones y<strong> forro interior. Incluye ranita</strong> con goma en cintura y perneras. Un conjunto de colores alegres, fresquito y cómodo, ideal para los días de primavera! Echa un ojito a nuestros <strong>calcetines calados, chaquetas de perlé y accesorios para el pelo</strong> y podrás completarlo como más te guste! <strong>Disponible conjunto para bebé niño y vestido infantil a juego. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Jesusín: 97% algodón, 3% poliéster</p>\n<p>Forro: 65% poliéster, 35% algodón</p>\n<p>Ranita: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Coral",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 48.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:59",
+  "sourceUpdatedAt": "2026-10-27 11:12:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71307",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "10887XE16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:16.244Z"
+    },
+    {
+      "id": "148230",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "10887XA16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:19.617Z"
+    },
+    {
+      "id": "148231",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "10887XB16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:21.762Z"
+    },
+    {
+      "id": "148232",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "10887XC16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:23.959Z"
+    },
+    {
+      "id": "148233",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "10887XD16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:27.430Z"
+    },
+    {
+      "id": "148234",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "10887XF16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:30.522Z"
+    },
+    {
+      "id": "148235",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "10887XG16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:34.708Z"
+    },
+    {
+      "id": "71309",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "10887XH16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:38.197Z"
+    },
+    {
+      "id": "71310",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "10887XI16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:41.320Z"
+    },
+    {
+      "id": "148236",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "10887XJ16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:44.320Z"
+    },
+    {
+      "id": "148237",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "10887XK16890",
+      "productSku": "2301019",
+      "taxRate": 21,
+      "price": 48.94,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:47.220Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10256-8211.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8211-large_default/jesusin-familia-maya-coral.jpg",
+      "alt": "Jesusin familia MAYA Coral",
+      "sourceId": "8211",
+      "variantIds": [],
+      "sha256": "3a03748b91f584f6139d1ecdef951ed1441b63564ec2213a2f44f287ceaf23fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:47.283Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "20201",
+  "sourceUrl": "https://babyhogarinfantil.com/mantas-bebe/20201-set-manta-y-dou-dou-gris.html",
+  "name": "Set manta y Dou Dou Gris",
+  "brand": "Gamberritos",
+  "sku": "2502071",
+  "description": "Set ideal para regalo, que contiene una manta y un dou dou de puntitos en color GRIS, de la marca Gamberritos. \n\nTamaño manta: 80x110 cm.\n\nLa manta y el dou dou el regalo más vendidos para bebé. \n\nPresentación en caja, perfecta para regalo. \n\nTacto extra suave y agradable.\n\nPersonalizable con nombre bordado.",
+  "details": "Composición: 100% poliéster de microfibra.",
+  "sourceDescriptionHtml": "<p><span style=\"color:#212529;font-family:'-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';font-size:16px;background-color:#ffffff;\">Composición: 100% poliéster de microfibra.</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "765",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "765",
+  "sourceCategoryName": "Mantas Bebé",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-07-23 23:53:45",
+  "sourceUpdatedAt": "2026-10-27 11:14:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99996",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2502071",
+      "productSku": "2502071",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:48.706Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20201-19034.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19034-large_default/set-manta-y-dou-dou-gris.jpg",
+      "alt": "Set manta y Dou Dou Gris",
+      "sourceId": "19034",
+      "variantIds": [],
+      "sha256": "7a14c0218fee0ed929a0a0eaa7bbbef9d5a1dc09a7f54f42559d9b8d47f17850"
+    },
+    {
+      "path": "assets/20201-19035.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19035-large_default/set-manta-y-dou-dou-gris.jpg",
+      "alt": "Set manta y dou dou gris",
+      "sourceId": "19035",
+      "variantIds": [],
+      "sha256": "ad9c96916037d3e505df4c53720622bfc730517f8cf03537d75b629f060babcb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:48.826Z",
+  "issues": []
+}

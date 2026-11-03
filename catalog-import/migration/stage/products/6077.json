@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "6077",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/6077-camisita-bebe-manga-corta-beige.html",
+  "name": "Camisita bebé manga corta Beige",
+  "brand": "Yoedu",
+  "sku": "558",
+  "description": "Camisa batista beige con cuello bebé y piquillo en mismo tono. Abrocha con botones en la espalda.",
+  "details": "Composición y cuidados: \n\nCamisa: 65% poliéster, 35% algodón.\n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados: </p>\n<p>Camisa: 65% poliéster, 35% algodón.</p>\n<p><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><strong><span lang=\"es\" xml:lang=\"es\">HECHO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2016",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 6.73,
+  "oldPrice": 13.4552,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:14",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62348",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "558",
+      "productSku": "558",
+      "taxRate": 21,
+      "price": 6.73,
+      "oldPrice": 13.4552,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:47.579Z"
+    },
+    {
+      "id": "62350",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "558",
+      "productSku": "558",
+      "taxRate": 21,
+      "price": 6.73,
+      "oldPrice": 13.4552,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:49.913Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6077-3928.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3928-large_default/camisita-bebe-manga-corta-beige.jpg",
+      "alt": "Camisita bebé manga corta Beige",
+      "sourceId": "3928",
+      "variantIds": [],
+      "sha256": "8dc7dd15eb94e3a59b31a763246cef4caf0f65fe71e6909804f25be7943b89b1"
+    },
+    {
+      "path": "assets/6077-3927.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3927-large_default/camisita-bebe-manga-corta-beige.jpg",
+      "alt": "Camisita bebé manga corta Beige",
+      "sourceId": "3927",
+      "variantIds": [],
+      "sha256": "b545b74a6bf246007ca079dcb4a48cf7dc89d85ee50653901a5811d5bd8a6624"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:50.045Z",
+  "issues": []
+}

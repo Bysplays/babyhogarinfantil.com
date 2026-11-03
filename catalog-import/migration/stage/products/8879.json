@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8879",
+  "sourceUrl": "https://babyhogarinfantil.com/rodilleras-y-coderas/8879-rodillera-grande-pega-con-plancha-gris-claro.html",
+  "name": "Rodillera grande pega con plancha Gris claro",
+  "brand": "Santa Ana Mayor",
+  "sku": "2105022",
+  "description": "Pack de dos rodilleras o coderas termoadhesivas con plancha. Tamaño 16x10cm. Se pueden recortar.",
+  "details": "Como colocar las rodilleras o coderas:\n\n1-Colocar la pieza en el sitio adecuado.\n\n2- Interponga una tela entre la plancha y el tejido termadhesivo.\n\n3-Pasar laplancha por encima durante 30 segundos.\n\n4-Fijar la pieza y planchar del revés durante 30 segundos.\n\n5-No hacer uso de la pieza hasta que essté totalmente fria.\n\n6-Si no queda bien adherida de mas calor a su plancha.\n\n7-En el supuesto de que en unos días se levante, aplicó usted poco calor. Insista de nuevo.\n\n8-Recomendamos no lavar en seco-\n\n9-Se recomienda no planchar con vapor.\n\n10-Para quitar la pieza aplicar de nuevo calor.",
+  "sourceDescriptionHtml": "<p>Como colocar las rodilleras o coderas:</p>\n<p>1-Colocar la pieza en el sitio adecuado.</p>\n<p>2- Interponga una tela entre la plancha y el tejido termadhesivo.</p>\n<p>3-Pasar laplancha por encima durante 30 segundos.</p>\n<p>4-Fijar la pieza y planchar del revés durante 30 segundos.</p>\n<p>5-No hacer uso de la pieza hasta que essté totalmente fria.</p>\n<p>6-Si no queda bien adherida de mas calor a su plancha.</p>\n<p>7-En el supuesto de que en unos días se levante, aplicó usted poco calor. Insista de nuevo.</p>\n<p>8-Recomendamos no lavar en seco-</p>\n<p>9-Se recomienda no planchar con vapor.</p>\n<p>10-Para quitar la pieza aplicar de nuevo calor. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Claro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "808"
+  ],
+  "sourceDefaultCategoryId": "808",
+  "sourceCategoryName": "Rodilleras y coderas",
+  "price": 1.25,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:42",
+  "sourceUpdatedAt": "2026-10-27 11:11:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 21,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68164",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9076XA14379",
+      "productSku": "2105022",
+      "taxRate": 21,
+      "price": 1.25,
+      "oldPrice": null,
+      "quantity": 21,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:55.253Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8879-7187.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7187-large_default/rodillera-grande-pega-con-plancha-gris-claro.jpg",
+      "alt": "Rodillera grande pega con plancha Gris claro",
+      "sourceId": "7187",
+      "variantIds": [],
+      "sha256": "8bec70f0bc7e4050a3212059201b7e456b6aa6a8547529bbc2acfe41ece0606c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:55.301Z",
+  "issues": []
+}

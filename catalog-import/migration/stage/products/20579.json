@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "20579",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nina/20579-pijama-invierno-nina-blanco-gatitos-blanco.html",
+  "name": "Pijama invierno niña blanco gatitos Blanco",
+  "brand": "Zippy",
+  "sku": "2109220",
+  "description": "Pijama con tul.",
+  "details": "Disfruta de Noches Cálidas\nAbríguenla con el pijama invierno niña blanco gatitos Blanco, perfecto para las noches frías. Diseñado para proporcionar un calor agradable, este adorable pijama también ofrece el máximo confort, permitiendo un sueño tranquilo y reposado.\n\nConfort Superior\n\n\nCon sus materiales de alta calidad y su suave textura, este pijama les asegura un agradable descanso. Su tejido ligero y transpirable, y sus costuras cuidadosamente confeccionadas garantizan que no hay irritación. Un verdadero abrazo de confort.\n\nExquisito Diseño de Gatitos\nCon un exquisito diseño de gatitos, este pijama blanco se destaca por su atractivo visual. Los pequeños detalles de gatitos le añaden un toque de delicadeza, haciendo de la hora de dormir un momento especial.\n\nNo pierdas la oportunidad de abrigar a tu niña con la comodidad y suavidad que sólo este pijama puede ofrecer. ¡Haz su sueño aún más placentero hoy!\n\nComposición y cuidados:\n\npijama: 100% algodón.\n\nLAVAR A MÁQUINA MÁXIMO 30 ºC recomendado\n\nNO USAR LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC",
+  "sourceDescriptionHtml": "<p><strong>Disfruta de Noches Cálidas</strong><br />Abríguenla con el pijama invierno niña blanco gatitos Blanco, perfecto para las noches frías. Diseñado para proporcionar un calor agradable, este adorable pijama también ofrece el máximo confort, permitiendo un sueño tranquilo y reposado.</p>\n<p><strong>Confort Superior</strong></p>\n<p><br />Con sus materiales de alta calidad y su suave textura, este pijama les asegura un agradable descanso. Su tejido ligero y transpirable, y sus costuras cuidadosamente confeccionadas garantizan que no hay irritación. Un verdadero abrazo de confort.</p>\n<p><strong>Exquisito Diseño de Gatitos</strong><br />Con un exquisito diseño de gatitos, este pijama blanco se destaca por su atractivo visual. Los pequeños detalles de gatitos le añaden un toque de delicadeza, haciendo de la hora de dormir un momento especial.</p>\n<p>No pierdas la oportunidad de abrigar a tu niña con la comodidad y suavidad que sólo este pijama puede ofrecer. ¡Haz su sueño aún más placentero hoy!</p>\n<p>Composición y cuidados:</p>\n<p>pijama: 100% algodón.</p>\n<p>LAVAR A MÁQUINA MÁXIMO 30 ºC recomendado</p>\n<p>NO USAR LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776"
+  ],
+  "sourceDefaultCategoryId": "776",
+  "sourceCategoryName": "Pijamas niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-13 10:59:18",
+  "sourceUpdatedAt": "2026-10-27 11:11:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95196",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2109220",
+      "productSku": "2109220",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:29.955Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20579-19204.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19204-large_default/pijama-invierno-nina-blanco-gatitos-blanco.jpg",
+      "alt": "Pijama invierno niña blanco gatitos Blanco",
+      "sourceId": "19204",
+      "variantIds": [],
+      "sha256": "31fa7e155cdd7c0b8cae4b1d6ebe63b937d8299dbd34256f0d3c50102ea78e03"
+    },
+    {
+      "path": "assets/20579-19205.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19205-large_default/pijama-invierno-nina-blanco-gatitos-blanco.jpg",
+      "alt": "Pijama invierno niña blanco gatitos Blanco",
+      "sourceId": "19205",
+      "variantIds": [],
+      "sha256": "84d6be377a790905e918ee6c3810043514bebaedc27e302796dd6c0f45ce6bff"
+    },
+    {
+      "path": "assets/20579-19206.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19206-large_default/pijama-invierno-nina-blanco-gatitos-blanco.jpg",
+      "alt": "Pijama invierno niña blanco gatitos Blanco",
+      "sourceId": "19206",
+      "variantIds": [],
+      "sha256": "a642adc2ee4194b072c587767d75f2aca43f00fc3113302dde6c468cc13f6292"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:30.134Z",
+  "issues": []
+}

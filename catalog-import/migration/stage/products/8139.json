@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8139",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/8139-abrigo-ovejita-marron.html",
+  "name": "Abrigo Ovejita Marrón",
+  "brand": "Teresa Rodríguez",
+  "sku": "2002223",
+  "description": "El Abrigo Ovejita Marrón es un amuleto de ternura, ideal para acunar a sus pequeños con calor y amor. Esta acogedora prenda, especialmente diseñada para los fríos invernales, es un abrazo dulce y envolvente, como una segunda piel. Su material suave y lujoso ofrece la máxima comodidad asegurando dulces sueños en sus pequeños. La elegancia nunca sacrificada; la delicada tonalidad marrón es una adición chic a cualquier conjunto. Regálese la tranquilidad al saber que sus pequeños están seguros y cálidos.",
+  "details": "¿Por qué elegir Abrigo Ovejita Marrón?\n\nAbrigo Ovejita Marrón es un must-have para los armarios de tus pequeños esta temporada. Confeccionado con tejido suave y resistente, ofrece calor y protección contra el frío. Este abrigo no solo cumple con su objetivo funcional sino que, al tener un diseño lindo, también se convierte en la elección preferida de los niños. Les encantará tener a su amigo ovejita todo el tiempo con ellos.\n\nComposición y cuidados:\n\nAbrigo: 100% poliéster.\n\nForro: 100% poliéster.\n\nNO PLANCHAR\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<h2>¿Por qué elegir Abrigo Ovejita Marrón?</h2>\n<p>Abrigo Ovejita Marrón es un must-have para los armarios de tus pequeños esta temporada. Confeccionado con tejido suave y resistente, ofrece calor y protección contra el frío. Este abrigo no solo cumple con su objetivo funcional sino que, al tener un diseño lindo, también se convierte en la elección preferida de los niños. Les encantará tener a su amigo ovejita todo el tiempo con ellos.</p>\n<p style=\"font-size:11px;font-weight:400;\">Composición y cuidados:</p>\n<p style=\"font-size:11px;font-weight:400;\">Abrigo: 100% poliéster.</p>\n<p style=\"font-size:11px;font-weight:400;\">Forro: 100% poliéster.</p>\n<p style=\"font-size:11px;font-weight:400;\">NO PLANCHAR</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR LEJIAS</p>\n<p style=\"font-size:11px;font-weight:400;\">LAVAR A 30º RECOMENDADO</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marrón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 49.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:33",
+  "sourceUpdatedAt": "2026-10-27 11:10:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67106",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2002223",
+      "productSku": "2002223",
+      "taxRate": 21,
+      "price": 49.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:15.962Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8139-10908.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10908-large_default/abrigo-ovejita-marron.jpg",
+      "alt": "Abrigo Ovejita Marrón",
+      "sourceId": "10908",
+      "variantIds": [],
+      "sha256": "5960939e35e0988a79f1f6a6290ab459b21c314a0aaca3d03e116a0727c114e8"
+    },
+    {
+      "path": "assets/8139-10909.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10909-large_default/abrigo-ovejita-marron.jpg",
+      "alt": "Abrigo Ovejita Marrón",
+      "sourceId": "10909",
+      "variantIds": [],
+      "sha256": "31ec7fe14871a3c656a1daaa0c33ab9e8683ee95e2869bd0eea8479bd5137895"
+    },
+    {
+      "path": "assets/8139-10907.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10907-large_default/abrigo-ovejita-marron.jpg",
+      "alt": "Abrigo Ovejita Marrón",
+      "sourceId": "10907",
+      "variantIds": [],
+      "sha256": "d954974babd1f3805f08f3aab107b72ca14a38076daaed0796775d4efaa6dd7d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:16.184Z",
+  "issues": []
+}

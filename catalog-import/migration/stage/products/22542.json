@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "22542",
+  "sourceUrl": "https://babyhogarinfantil.com/dou-dou-y-peluches/22542-dou-dou-osito-azul-celeste.html",
+  "name": "Dou dou Osito Azul celeste",
+  "brand": "Interbaby",
+  "sku": "2006049",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "767",
+    "788",
+    "novedades"
+  ],
+  "sourceDefaultCategoryId": "767",
+  "sourceCategoryName": "Dou Dou y Peluches",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": true,
+  "sourceAddedAt": "2026-09-23 15:52:53",
+  "sourceUpdatedAt": "2026-10-27 11:10:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146646",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "7986XA13093",
+      "productSku": "2006049",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:04.958Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:04.958Z",
+  "issues": [
+    "No verified images"
+  ]
+}

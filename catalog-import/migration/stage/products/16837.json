@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16837",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/16837-conjunto-pololo-oslo-mint.html",
+  "name": "Conjunto pololo OSLO Mint",
+  "brand": "Calamaro",
+  "sku": "2307047",
+  "description": "Descubre el Conjunto Pololo OSLO Mint: elegancia y comodidad fusionadas en una pieza. Este conjunto impresiona por su suavidad y calidad incomparable, asegurando un confort absoluto para su bebé. Los tonos mint frescos y pacíficos transmiten una sensación de tranquilidad. Este conjunto es la elección perfecta para quienes valoran la moda y la funcionalidad. Elaborado en materiales de alta calidad, asegura la durabilidad y garantiza que tu pequeño luzca adorable en todo momento. ¡Haz que tu bebé se sienta mimado y a la moda con el Conjunto Pololo OSLO Mint!",
+  "details": "Sofisticación y Comodidad Inigualable\n\nEl Conjunto Pololo OSLO Mint es la joya de la corona en la ropa de bebé. Un verdadero ejemplo de confort, durabilidad y diseño elegante, combinando suavidad con estilo. Su tono Mint le brinda un toque fresco y refinado que eleva cualquier look infantil. Perfecto para juego o descanso, OSLO Mint es la elección premium para los padres que desean lo mejor para sus hijos.\n\n\nFabricación de Alto Estándar\n\nHecho con materiales de alta calidad, el Conjunto Pololo OSLO Mint garantiza confort para tu pequeño. El algodón suave al tacto no solo es cómodo, sino también duradero y fácil de lavar. Priorizando la comodidad de los niños, el acabado meticuloso y la resistencia superior lo diferencian de otros conjuntos disponibles en el mercado.\n\n\nEstilo Contemporáneo para los Más Pequeños\n\nEste conjunto no solo es cómodo, sino que también es elegantemente diseñado. El tono Mint aporta la cantidad justa de color y se puede combinar fácilmente con otras piezas. El detalle de los botones y el diseño minimalista ponen de relieve la belleza de la simplicidad. Con el Conjunto Pololo OSLO Mint, vestir a los más pequeños nunca ha sido tan fácil.\n\n\nDescubre el Conjunto Pololo OSLO Mint hoy y dale a tu pequeño la comodidad y elegancia que se merece. ¡Añade esta preciosa prenda a tu carrito de compra ahora!",
+  "sourceDescriptionHtml": "<h2>Sofisticación y Comodidad Inigualable</h2>\n<p>El Conjunto Pololo OSLO Mint es la joya de la corona en la ropa de bebé. Un verdadero ejemplo de confort, durabilidad y diseño elegante, combinando suavidad con estilo. Su tono Mint le brinda un toque fresco y refinado que eleva cualquier look infantil. Perfecto para juego o descanso, OSLO Mint es la elección premium para los padres que desean lo mejor para sus hijos.</p>\n\n<h2>Fabricación de Alto Estándar</h2>\n<p>Hecho con materiales de alta calidad, el Conjunto Pololo OSLO Mint garantiza confort para tu pequeño. El algodón suave al tacto no solo es cómodo, sino también duradero y fácil de lavar. Priorizando la comodidad de los niños, el acabado meticuloso y la resistencia superior lo diferencian de otros conjuntos disponibles en el mercado.</p>\n\n<h2>Estilo Contemporáneo para los Más Pequeños</h2>\n<p>Este conjunto no solo es cómodo, sino que también es elegantemente diseñado. El tono Mint aporta la cantidad justa de color y se puede combinar fácilmente con otras piezas. El detalle de los botones y el diseño minimalista ponen de relieve la belleza de la simplicidad. Con el Conjunto Pololo OSLO Mint, vestir a los más pequeños nunca ha sido tan fácil.</p>\n\n<p>Descubre el Conjunto Pololo OSLO Mint hoy y dale a tu pequeño la comodidad y elegancia que se merece. ¡Añade esta preciosa prenda a tu carrito de compra ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mint",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 31.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-09-21 15:52:59",
+  "sourceUpdatedAt": "2026-10-27 11:12:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "79548",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2307047",
+      "productSku": "2307047",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:28.383Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16837-14415.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14415-large_default/conjunto-pololo-oslo-mint.jpg",
+      "alt": "Conjunto pololo OSLO Mint",
+      "sourceId": "14415",
+      "variantIds": [],
+      "sha256": "280f5221bdcd50c2b0e6127a1bbdad51a3b0c7a3f4ccaef6f483c2bc42e5a8de"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:28.436Z",
+  "issues": []
+}

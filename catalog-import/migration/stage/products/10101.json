@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10101",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals-nino/10101-chandal-nino-1980-gris.html",
+  "name": "Chandal niño 1980 Gris",
+  "brand": "Talaman",
+  "sku": "2208210",
+  "description": "Redescubre la tendencia retro con el Chándal niño 1980 Gris. Hecho para pequeños campeones, este chándal combina comodidad y estilo inmejorable. Con su sutil tonalidad gris y corte clásico, es una prenda icónica que recuerda los años 80. Cada detalle, desde la tela suave hasta los acabados de calidad, ha sido pensado para el confort y durabilidad. Ideal tanto para jugar como para ocasiones informales. ¡Mantenga a su niño con estilo y comodidad que rivaliza con la de los adultos!",
+  "details": "Clásicos que brillan: Descubre el Chándal niño 1980 Gris, que lleva la moda deportiva retro chic a un nuevo nivel. Este chándal, con su diseño elegante y color gris discreto, es perfecto para el uso diario y combinable con cualquier estilo. Tiene una presencia inconfundible que evoca los felices años 80, pero con un toque moderno que atraerá a los niños más fashion.\n\nComodidad y calidad en cada puntada: Este chándal gris no solo tiene un aspecto fabuloso, sino que también se hizo con la comodidad y durabilidad en mente. Su tejido suave y respirable combina comodidad con resistencia dando un producto de alta calidad, ideal para que los niños disfruten al máximo sus días de juegos y aventuras.\n\nEl Mejor Regalo: Tu pequeño se merece lo mejor, y no hay regalo más práctico que un chándal que puede usar todo el año. Ya sea para un cumpleaños o simplemente porque sí, este chándal niño 1980 Gris es perfecto para el pequeño fashionista en tu vida. ¿Por qué no mimarlo un poco?\n\n¡Actúa ahora y lleva a casa este impresionante chándal niño 1980 antes de que se agote! No pierdas la oportunidad de tener en tus manos un clásico actualizado, haciendo clic en “añadir al carrito” de inmediato.\n\nComposición:\n\nSudadera: 95% algodón, 5% viscosa.\n\nPantalón:  60%algodón, 40% poliéster.\n\nHECHO EN BANGLADESH",
+  "sourceDescriptionHtml": "<div>\n<p><strong>Clásicos que brillan:</strong> Descubre el Chándal niño 1980 Gris, que lleva la moda deportiva retro chic a un nuevo nivel. Este chándal, con su diseño elegante y color gris discreto, es perfecto para el uso diario y combinable con cualquier estilo. Tiene una presencia inconfundible que evoca los felices años 80, pero con un toque moderno que atraerá a los niños más fashion.</p>\n<p><strong>Comodidad y calidad en cada puntada:</strong> Este chándal gris no solo tiene un aspecto fabuloso, sino que también se hizo con la comodidad y durabilidad en mente. Su tejido suave y respirable combina comodidad con resistencia dando un producto de alta calidad, ideal para que los niños disfruten al máximo sus días de juegos y aventuras.</p>\n<p><strong>El Mejor Regalo:</strong> Tu pequeño se merece lo mejor, y no hay regalo más práctico que un chándal que puede usar todo el año. Ya sea para un cumpleaños o simplemente porque sí, este chándal niño 1980 Gris es perfecto para el pequeño fashionista en tu vida. ¿Por qué no mimarlo un poco?</p>\n<p>¡Actúa ahora y lleva a casa este impresionante chándal niño 1980 antes de que se agote! No pierdas la oportunidad de tener en tus manos un clásico actualizado, haciendo clic en “añadir al carrito” de inmediato.</p>\n<p>Composición:</p>\n<p>Sudadera: 95% algodón, 5% viscosa.</p>\n<p>Pantalón:  60%algodón, 40% poliéster.</p>\n<p>HECHO EN BANGLADESH</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "798"
+  ],
+  "sourceDefaultCategoryId": "798",
+  "sourceCategoryName": "Chandals niño",
+  "price": 33.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70869",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2208210",
+      "productSku": "2208210",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:59.521Z"
+    },
+    {
+      "id": "70871",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2208210",
+      "productSku": "2208210",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:00.687Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10101-8120.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8120-large_default/chandal-nino-1980-gris.jpg",
+      "alt": "Chandal niño 1980 Gris",
+      "sourceId": "8120",
+      "variantIds": [],
+      "sha256": "4b83987240c262ce4ae8c728b7aa720a9399fd8f38a407ee9743a78e06a3b06f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:00.757Z",
+  "issues": []
+}

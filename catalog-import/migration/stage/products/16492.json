@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "16492",
+  "sourceUrl": "https://babyhogarinfantil.com/interiores-nina/16492-pack-braguitas-lisas-blanco.html",
+  "name": "Pack braguitas lisas Blanco",
+  "brand": "Ysabel Mora",
+  "sku": "2304075",
+  "description": "Pack de 2 braguitas liasa algodón.",
+  "details": "Composición y cuidados:\n\nBraguitas: 100% algodón.\n\nLAVAR A MÁQUINA MÁXIMO 30 ºC recomendado\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Braguitas: 100% algodón.</p>\n<p>LAVAR A MÁQUINA MÁXIMO 30 ºC recomendado</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "713"
+  ],
+  "sourceDefaultCategoryId": "713",
+  "sourceCategoryName": "Interiores niña",
+  "price": 4.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-07-18 15:53:02",
+  "sourceUpdatedAt": "2026-10-27 11:12:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "78083",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2304075",
+      "productSku": "2304075",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:59.195Z"
+    },
+    {
+      "id": "78084",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2304075",
+      "productSku": "2304075",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:01.682Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16492-14295.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14295-large_default/pack-braguitas-lisas-blanco.jpg",
+      "alt": "Pack braguitas lisas Blanco",
+      "sourceId": "14295",
+      "variantIds": [],
+      "sha256": "d359c43d418ba4fb24077012abdc1f92972bcc55d70d6a843664b0de7ec0c374"
+    },
+    {
+      "path": "assets/16492-14296.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14296-large_default/pack-braguitas-lisas-blanco.jpg",
+      "alt": "Pack braguitas lisas Blanco",
+      "sourceId": "14296",
+      "variantIds": [],
+      "sha256": "4c362df3204358747c3d996644e127c9f30af8ee8e673ef257d805e7aa60b0fb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:01.839Z",
+  "issues": []
+}

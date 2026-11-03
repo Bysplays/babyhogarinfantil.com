@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "7038",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-antideslizantes/7038-correpasillos-bambi-gris.html",
+  "name": "Correpasillos Bambi Gris",
+  "brand": "Sterntaler",
+  "sku": "1711022",
+  "description": "Calcetín antideslizante, correpasillos. Con suela de silicona que nunca se va.",
+  "details": "Composición: \n\n85% Algodón, 5% Elastan, 10% Poliamida (Nylon)\n\nNO PLANCHAR",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p style=\"margin:0cm 0cm 8pt;\"><span style=\"background:#FFFFFF;color:#373337;line-height:107%;font-family:Arial, sans-serif;font-size:10.5pt;\">85% Algodón, 5% Elastan, 10% Poliamida (Nylon)</span></p>\n<p>NO PLANCHAR</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "752",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "752",
+  "sourceCategoryName": "Calcetines Antideslizantes",
+  "price": 6.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:19",
+  "sourceUpdatedAt": "2026-10-27 11:09:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "297",
+          "label": "19/20"
+        },
+        {
+          "id": "314",
+          "label": "15/16"
+        },
+        {
+          "id": "315",
+          "label": "17/18"
+        },
+        {
+          "id": "316",
+          "label": "21/22"
+        },
+        {
+          "id": "317",
+          "label": "23/24"
+        },
+        {
+          "id": "318",
+          "label": "25/26"
+        },
+        {
+          "id": "319",
+          "label": "27/28"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64888",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "297",
+          "group": "Tamaño",
+          "value": "19/20"
+        }
+      ],
+      "sku": "4377XC7835",
+      "productSku": "1711022",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:02.708Z"
+    },
+    {
+      "id": "145566",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "314",
+          "group": "Tamaño",
+          "value": "15/16"
+        }
+      ],
+      "sku": "4377XA7835",
+      "productSku": "1711022",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:05.581Z"
+    },
+    {
+      "id": "145567",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "315",
+          "group": "Tamaño",
+          "value": "17/18"
+        }
+      ],
+      "sku": "4377XB7835",
+      "productSku": "1711022",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:08.002Z"
+    },
+    {
+      "id": "145568",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "316",
+          "group": "Tamaño",
+          "value": "21/22"
+        }
+      ],
+      "sku": "4377XD7835",
+      "productSku": "1711022",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:09.598Z"
+    },
+    {
+      "id": "145569",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "317",
+          "group": "Tamaño",
+          "value": "23/24"
+        }
+      ],
+      "sku": "4377XE7835",
+      "productSku": "1711022",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:11.353Z"
+    },
+    {
+      "id": "145570",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "318",
+          "group": "Tamaño",
+          "value": "25/26"
+        }
+      ],
+      "sku": "4377XF7835",
+      "productSku": "1711022",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:12.819Z"
+    },
+    {
+      "id": "145571",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "319",
+          "group": "Tamaño",
+          "value": "27/28"
+        }
+      ],
+      "sku": "4377XG7835",
+      "productSku": "1711022",
+      "taxRate": 21,
+      "price": 6.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:14.387Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7038-4930.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4930-large_default/correpasillos-bambi-gris.jpg",
+      "alt": "Correpasillos Bambi Gris",
+      "sourceId": "4930",
+      "variantIds": [],
+      "sha256": "da5d02c7bcf144af2e802263924e624d2f7c5b488d25f3734badd68480a906b2"
+    },
+    {
+      "path": "assets/7038-9896.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9896-large_default/correpasillos-bambi-gris.jpg",
+      "alt": "Correpasillos Bambi Gris",
+      "sourceId": "9896",
+      "variantIds": [],
+      "sha256": "da5d02c7bcf144af2e802263924e624d2f7c5b488d25f3734badd68480a906b2"
+    },
+    {
+      "path": "assets/7038-4929.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4929-large_default/correpasillos-bambi-gris.jpg",
+      "alt": "Correpasillos Bambi Gris",
+      "sourceId": "4929",
+      "variantIds": [],
+      "sha256": "e8b90f88b378be921e2936c51f310fd912dd86705333d099ea10bf5899cadc49"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:10:14.664Z",
+  "issues": []
+}

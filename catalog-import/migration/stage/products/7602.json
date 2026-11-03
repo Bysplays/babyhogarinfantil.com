@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "7602",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/7602-ranita-ochos-algodon-azul.html",
+  "name": "Ranita ochos algodón Azul",
+  "brand": "Pecesa",
+  "sku": "1902150",
+  "description": "Celebra la ternura y la comodidad con la Ranita Ochos Algodón Azul. Un imprescindible para tu bebé, confeccionado en algodón suave para acariciar su piel sensible. Este encantador cubrepañal en azul celeste es todo ternura y estilo, creando un look bebé inolvidable. Su diseño de ochos le da un toque de encanto vintage. Una prenda que empodera el día a día de tu pequeño. Una ranita práctica, adorable y cómoda. ¡Dale a tu pequeña lo mejor con la Ranita Ochos Algodón Azul!",
+  "details": "Diseños Exclusivos y Cómodos\n\nSu pequeño lucirá radiante y sentirá la máxima comodidad con la asombrosa Ranita ochos algodón Azul. Confeccionada con el más puro y suave algodón, esta prenda es la insignia de la delicadeza y durabilidad. Es ideal para uso cotidiano y también para ocasiones especiales.\n\n\nUn Toque de Color Vibrante\n\nEl cautivador tono azul de este mono imparte una esencia alegre y vibrante, garantizando que su pequeño se destaque en cualquier reunión. El color azul no solo es llamativo, sino que también transmite calmness y confianza, reflejando así la personalidad audaz de su hijo.\n\n\nDetalles Hechos con Amor\n\nEl diseño de ochos de la Ranita algodón Azul ofrece una estética única y a la moda. Cada detalle ha sido elaborado con amor y cuidado, lo que hace que esta prenda sea más que una simple pieza de ropa: es una muestra de amor destinada a abrazar a su pequeño en suavidad y comodidad.\n\n\n¡No esperes más! Haga que su pequeño brille con nuestro Ranita ochos algodón Azul. Creemos en la creación de recuerdos alegres a través de cada prenda. ¡Adquiera el suyo ahora!",
+  "sourceDescriptionHtml": "<h2>Diseños Exclusivos y Cómodos</h2>\n<p>Su pequeño lucirá radiante y sentirá la máxima comodidad con la asombrosa Ranita ochos algodón Azul. Confeccionada con el más puro y suave algodón, esta prenda es la insignia de la delicadeza y durabilidad. Es ideal para uso cotidiano y también para ocasiones especiales.</p>\n\n<h2>Un Toque de Color Vibrante</h2>\n<p>El cautivador tono azul de este mono imparte una esencia alegre y vibrante, garantizando que su pequeño se destaque en cualquier reunión. El color azul no solo es llamativo, sino que también transmite calmness y confianza, reflejando así la personalidad audaz de su hijo.</p>\n\n<h2>Detalles Hechos con Amor</h2>\n<p>El diseño de ochos de la Ranita algodón Azul ofrece una estética única y a la moda. Cada detalle ha sido elaborado con amor y cuidado, lo que hace que esta prenda sea más que una simple pieza de ropa: es una muestra de amor destinada a abrazar a su pequeño en suavidad y comodidad.</p>\n\n<p>¡No esperes más! Haga que su pequeño brille con nuestro Ranita ochos algodón Azul. Creemos en la creación de recuerdos alegres a través de cada prenda. ¡Adquiera el suyo ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2020",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "892",
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 4.98,
+  "oldPrice": 9.949999,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66023",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1902150",
+      "productSku": "1902150",
+      "taxRate": 21,
+      "price": 4.98,
+      "oldPrice": 9.949999,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:29.469Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7602-5583.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5583-large_default/ranita-ochos-algodon-azul.jpg",
+      "alt": "Ranita ochos algodón Azul",
+      "sourceId": "5583",
+      "variantIds": [],
+      "sha256": "8574827943058d107664d903f8e6b295fdcecfc0dfdb43878a5b8a3c24ea59cb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:29.511Z",
+  "issues": []
+}

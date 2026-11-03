@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "7329",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/7329-camisa-bebe-mariquitilla-blanco.html",
+  "name": "Camisa bebé mariquitilla Blanco",
+  "brand": "A&amp;J",
+  "sku": "1807231",
+  "description": "Convierte a tu princesa en el centro de todas las miradas con la Camisa bebé mariquitilla Blanco. Esta joya de la ropa para bebés se ha diseñado para resaltar la dulzura y encanto irresistible de tu pequeña. Cada detalle, desde su color blanco puro hasta su adorable diseño de mariquita, la hace perfecta para días especiales. Hecha con amor y tejidos de primera calidad para el confort de bebé. ¡Sorprenderá a todos con su elegancia y ternura!",
+  "details": "La Inocencia en Blanco\n\nComo una hoja de papel en blanco, logramos captar la inocencia y pureza en nuestra Camisa bebé mariquitilla blanca. Un inicio puro a la vida, con nuestra ropa que destila amor y atención por el detalle en cada hilo. Diseñada para ofrecer la mayor comodidad al bebé y llevar a cabo la protección esencial, nuestra camisa es tanto funcional como estilosa.\n\nComposición y cuidados: \n\nCamisa: 100% algodón\n\n LAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n HECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<div id=\"productDescription\">\n<h2>La Inocencia en Blanco</h2>\n<p>Como una hoja de papel en blanco, logramos captar la inocencia y pureza en nuestra Camisa bebé mariquitilla blanca. Un inicio puro a la vida, con nuestra ropa que destila amor y atención por el detalle en cada hilo. Diseñada para ofrecer la mayor comodidad al bebé y llevar a cabo la protección esencial, nuestra camisa es tanto funcional como estilosa.</p>\n<p style=\"font-size:11px;font-weight:400;\">Composición y cuidados: </p>\n<p style=\"font-size:11px;font-weight:400;\">Camisa: 100% algodón</p>\n<p style=\"font-size:11px;font-weight:400;\"> <span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\"> </span><strong><span lang=\"es\" xml:lang=\"es\">HECHO EN ESPAÑA</span></strong></p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 18.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:23",
+  "sourceUpdatedAt": "2026-10-27 11:10:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65570",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1807231",
+      "productSku": "1807231",
+      "taxRate": 21,
+      "price": 18.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:37.887Z"
+    },
+    {
+      "id": "65571",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1807231",
+      "productSku": "1807231",
+      "taxRate": 21,
+      "price": 18.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:41.144Z"
+    },
+    {
+      "id": "65572",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1807231",
+      "productSku": "1807231",
+      "taxRate": 21,
+      "price": 18.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:43.970Z"
+    },
+    {
+      "id": "65573",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "1807231",
+      "productSku": "1807231",
+      "taxRate": 21,
+      "price": 18.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:47.156Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7329-10197.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10197-large_default/camisa-bebe-mariquitilla-blanco.jpg",
+      "alt": "Camisa bebé mariquitilla Blanco",
+      "sourceId": "10197",
+      "variantIds": [],
+      "sha256": "7c7798ab826b8bae4d8bd1b39b78c96dee74fa23189ec21312d610857f497e38"
+    },
+    {
+      "path": "assets/7329-5304.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5304-large_default/camisa-bebe-mariquitilla-blanco.jpg",
+      "alt": "Camisa bebé mariquitilla Blanco",
+      "sourceId": "5304",
+      "variantIds": [],
+      "sha256": "748ac7a63abfad0d150b82ecf9634404a687863b6ed873a250b53bb24da788f8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:47.308Z",
+  "issues": []
+}

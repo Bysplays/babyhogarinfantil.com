@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "21304",
+  "sourceUrl": "https://babyhogarinfantil.com/sacos-silla-capazo-y-grupo-0/21304-saco-capazo-universal-mayoral-marron.html",
+  "name": "Saco capazo universal mayoral Marron",
+  "brand": "Mayoral",
+  "sku": "2202034",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marrón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "801"
+  ],
+  "sourceDefaultCategoryId": "801",
+  "sourceCategoryName": "Sacos silla capazo y grupo 0",
+  "price": 54.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-16 23:53:25",
+  "sourceUpdatedAt": "2026-10-27 11:11:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147433",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9934XA15540",
+      "productSku": "2202034",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:25.443Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:25.443Z",
+  "issues": [
+    "No verified images"
+  ]
+}

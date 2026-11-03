@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "21600",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/21600-conjunto-sudadera-leon-nino-beige.html",
+  "name": "Conjunto sudadera león niño Beige",
+  "brand": "Babybol",
+  "sku": "2502210",
+  "description": "Conjunto de pantaón algodón con felpa interior, y jersey. El pantalón tiene la cintura toda de goma con ajustable. No tiene cremallera. Bolsillos funcionales. Los botones del jersey son SOLO en las tallas bebñe. Estas tallas no tiene botón.",
+  "details": "Composición:\n\nPantalón: 100% algodón.\n\nJersey: 70% algodón, 30% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Pantalón</strong>: 100% algodón.</p>\n<p><strong>Jersey</strong>: 70% algodón, 30% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 31,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-20 15:54:16",
+  "sourceUpdatedAt": "2026-10-27 11:14:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97611",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502210",
+      "productSku": "2502210",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:53.538Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21600-20168.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20168-large_default/conjunto-sudadera-leon-nino-beige.jpg",
+      "alt": "Conjunto sudadera león niño Beige",
+      "sourceId": "20168",
+      "variantIds": [],
+      "sha256": "b7d422b64953fbcdf4dd05176e84a47d7ca88b37889ba39c11564a87d4f5fe7c"
+    },
+    {
+      "path": "assets/21600-20169.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20169-large_default/conjunto-sudadera-leon-nino-beige.jpg",
+      "alt": "Conjunto sudadera león niño Beige",
+      "sourceId": "20169",
+      "variantIds": [],
+      "sha256": "561dd03c8598078a0a5580b5b4d1f79447a7ff199175405a1f341ec8d0ba4c15"
+    },
+    {
+      "path": "assets/21600-20170.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20170-large_default/conjunto-sudadera-leon-nino-beige.jpg",
+      "alt": "Conjunto sudadera león niño Beige",
+      "sourceId": "20170",
+      "variantIds": [],
+      "sha256": "43e9f238115187282dd95364b00949d7c56ddfab2017e9ba9e02f0f1c84a4f56"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:53.713Z",
+  "issues": []
+}

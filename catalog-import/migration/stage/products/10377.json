@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "10377",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10377-conjunto-camisa-y-bombacho-tirantes-crudo.html",
+  "name": "Conjunto camisa y bombacho tirantes Crudo",
+  "brand": "Mac Ilusión",
+  "sku": "2301126",
+  "description": "Ilumina el día de tu pequeño con nuestro Conjunto Camisa y Bombacho Tirantes Crudo. Ideal para momentos únicos y especiales. Cada detalle ha sido cuidadosamente seleccionado, desde la suavidad del tejido hasta el esmero en cada costura. Este conjunto refleja elegancia y comodidad fusionadas en un solo atuendo. Sus tirantes ajustables permiten un ajuste perfecto, mientras que la delicada camisa añade un toque de sofisticación. Al vestir a tu bebé con este conjunto, no solo añades estilo a su armario, sino también comodidad sin límites para su día a día. Este Conjunto Camisa y Bombacho Tirantes Crudo es más que una prenda de vestir, es una elección perfecta para apreciar la alegría y la belleza de la infancia. Ideal ceremonia.  HECHO EN ESPAÑA",
+  "details": "Exclusividad y Estilo Inigualable\n\nExuda la elegancia de tu pequeño con nuestro Conjunto Camisa y Bombacho con Tirantes Crudo. Se ha diseñado pensando en el estilo inigualable y la comodidad que merece un niño. Hecho de material de alta calidad, es ideal para eventos especiales. ¡Deja que la ropa de tu hijo hable de su personalidad única!\n\n\n\nCalidad y Confort Todo el Día\n\nEste Conjunto de Camisa y Bombacho con Tirantes Crudo está confeccionado con tela de primera calidad. Es agradable al tacto, lo que significa que tu hijo se sentirá cómodo durante todo el día. Es lo suficientemente resistente para soportar el desgaste diario, al tiempo que garantiza una comodidad excepcional.\n\n\n\nFácil de Limpiar y Mantener\n\nCon este Conjunto de Camisa y Bombacho Crudo, no necesita preocuparse por las manchas o el descoloramiento. Construido para resistir las manchas y diseñado para ser fácil de limpiar, este elegante conjunto garantiza la durabilidad sin comprometer su apariencia fabulosa.\n\n\n\n¡No esperes más! Dale a tu pequeño esa apariencia elegante que se merece. Agrega este Conjunto de Camisa y Bombacho con Tirantes Crudo a tu carrito ahora. ¡Confía en nosotros, no te decepcionará!\n\n```",
+  "sourceDescriptionHtml": "<p><br /><!-- First Product Description section --></p>\n<h2>Exclusividad y Estilo Inigualable</h2>\n<p>Exuda la elegancia de tu pequeño con nuestro Conjunto Camisa y Bombacho con Tirantes Crudo. Se ha diseñado pensando en el estilo inigualable y la comodidad que merece un niño. Hecho de material de alta calidad, es ideal para eventos especiales. ¡Deja que la ropa de tu hijo hable de su personalidad única!</p>\n<p><!-- Second Product Description section --></p>\n<h2>Calidad y Confort Todo el Día</h2>\n<p>Este Conjunto de Camisa y Bombacho con Tirantes Crudo está confeccionado con tela de primera calidad. Es agradable al tacto, lo que significa que tu hijo se sentirá cómodo durante todo el día. Es lo suficientemente resistente para soportar el desgaste diario, al tiempo que garantiza una comodidad excepcional.</p>\n<p><!-- Third Product Description section --></p>\n<h2>Fácil de Limpiar y Mantener</h2>\n<p>Con este Conjunto de Camisa y Bombacho Crudo, no necesita preocuparse por las manchas o el descoloramiento. Construido para resistir las manchas y diseñado para ser fácil de limpiar, este elegante conjunto garantiza la durabilidad sin comprometer su apariencia fabulosa.</p>\n<p><!-- Call to action --></p>\n<p>¡No esperes más! Dale a tu pequeño esa apariencia elegante que se merece. Agrega este Conjunto de Camisa y Bombacho con Tirantes Crudo a tu carrito ahora. ¡Confía en nosotros, no te decepcionará!</p>\n<p>```</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 44.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71780",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2301126",
+      "productSku": "2301126",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:43.516Z"
+    },
+    {
+      "id": "71781",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301126",
+      "productSku": "2301126",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:45.334Z"
+    },
+    {
+      "id": "71783",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301126",
+      "productSku": "2301126",
+      "taxRate": 21,
+      "price": 44.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:47.000Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10377-13690.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13690-large_default/conjunto-camisa-y-bombacho-tirantes-crudo.jpg",
+      "alt": "Conjunto camisa y bombacho tirantes Crudo",
+      "sourceId": "13690",
+      "variantIds": [],
+      "sha256": "35e100f93dd4856ad3e4572db5d278313028cf1f860f9389b79ca412bf43256a"
+    },
+    {
+      "path": "assets/10377-15027.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15027-large_default/conjunto-camisa-y-bombacho-tirantes-crudo.jpg",
+      "alt": "Conjunto camisa y bombacho tirantes Crudo",
+      "sourceId": "15027",
+      "variantIds": [],
+      "sha256": "5a0668f940b663e7207f5a1ec329adc73c9459f1cef6653d3b4f09b491a1f5fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:47.098Z",
+  "issues": []
+}

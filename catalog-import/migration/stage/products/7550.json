@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "7550",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/7550-ranita-basica-pique-rosa.html",
+  "name": "Ranita básica piqué Rosa",
+  "brand": "Alber",
+  "sku": "1901132",
+  "description": "Ranita básica en piqué color ROSA con lazo de raso a tono. Para poner debajo de un vestidito, o a cuerpo con una camisa o camiseta.",
+  "details": "Ranita básica en piqué, con lazo de raso a juego. Con gomita en la cintura y en las piernas para mayor flexibilidad y comodidad. Una prenda básica, ideal para combinar con todo tipo de jesusitos o vestidos, o para llevar a cuerpo con una blusa o camiseta. Disponible en color beige, rosa, azul celeste y blanco. \n\nComposición: \n\nRanita: 98% algodón, 12% poliéster\n\n \n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nSE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Ranita básica en piqué, con lazo de raso a juego. Con gomita en la cintura y en las piernas para mayor flexibilidad y comodidad. Una prenda básica, ideal para combinar con todo tipo de jesusitos o vestidos, o para llevar a cuerpo con una blusa o camiseta. Disponible en color beige, rosa, azul celeste y blanco. </p>\n<p>Composición: </p>\n<p>Ranita: 98% algodón, 12% poliéster</p>\n<p> </p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">SE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65914",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1901132",
+      "productSku": "1901132",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:56.084Z"
+    },
+    {
+      "id": "89480",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1901132",
+      "productSku": "1901132",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:57.221Z"
+    },
+    {
+      "id": "65916",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1901132",
+      "productSku": "1901132",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:58.793Z"
+    },
+    {
+      "id": "65917",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "1901132",
+      "productSku": "1901132",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:00.287Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7550-5506.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5506-large_default/ranita-basica-pique-rosa.jpg",
+      "alt": "Ranita básica piqué Rosa",
+      "sourceId": "5506",
+      "variantIds": [],
+      "sha256": "492195e984a42ea292fb159fa1649903ab4502b62826466b79beaac1c5633875"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:00.366Z",
+  "issues": []
+}

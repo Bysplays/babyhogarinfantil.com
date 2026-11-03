@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "6551",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/6551-camisa-bebe-manga-corta-en-plumeti-crudo.html",
+  "name": "Camisa bebé manga corta en plumeti Crudo",
+  "brand": "Mac Ilusión",
+  "sku": "1601119",
+  "description": "Camisa manga corta. Se abre completamente por la espalda para facilitar la puesta.",
+  "details": "Composición y cuidados: \n\nCamisa: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n HECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados: </p>\n<p>Camisa: 100% algodón</p>\n<p><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\"> </span><strong><span lang=\"es\" xml:lang=\"es\">HECHO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 7.98,
+  "oldPrice": 15.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:13",
+  "sourceUpdatedAt": "2026-10-27 11:09:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63799",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1601119",
+      "productSku": "1601119",
+      "taxRate": 21,
+      "price": 7.98,
+      "oldPrice": 15.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:43.578Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6551-4514.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4514-large_default/camisa-bebe-manga-corta-en-plumeti-crudo.jpg",
+      "alt": "Camisa bebé manga corta en plumeti Crudo",
+      "sourceId": "4514",
+      "variantIds": [],
+      "sha256": "d4d6ff1737953694ebc5a2bab3e9d0402562fe06980fbbc0d80799afdc4d217e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:43.632Z",
+  "issues": []
+}

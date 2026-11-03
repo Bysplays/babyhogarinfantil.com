@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "10287",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/10287-vestido-bebe-estampado-verde.html",
+  "name": "Vestido bebé estampado Verde",
+  "brand": "Mayoral",
+  "sku": "2301049",
+  "description": "Sumérgete en un universo de encanto y ternura con el \"Vestido Bebé Estampado Verde\". Un deleite visual, este vestido resalta la inocencia y el adorable estilo de tu pequeña princesa. Con él, cada día será una nueva aventura llena de frescura y vitalidad. Su tejido suave y transpirable cuidará su piel delicada, mientras que el estampado verde añade un toque juguetón y divertido. Perfecto para una reunión familiar o un día de diversión en el parque. Ahora con un increíble descuento del 50%, ¡no esperes más! Haz que cada momento de tu pequeño sea memorable con esta joya de prenda. Tienda de ropa de bebé y niños. Vestidos y Jesusines Bebé Niña, Ropa Bebé Niña.",
+  "details": "Aires de Primavera\n\nDescubre el encanto irresistible del Vestido bebé estampado Verde. Un diseño exquisito que toma inspiración de los colores y la frescura de la primavera. Su tono verde vibrante evoca los días soleados y llenos de alegría. La calidad de la tela garantiza comodidad y resistencia en cada uso, cuidando siempre la delicada piel del bebé.\n\nPura Delicadeza\n\nEl Vestido bebé estampado Verde es una pieza única que aportará elegancia a cualquier ocasión. Su estampado delicado contribuye a un look sofisticado pero divertido, ideal para celebraciones y días especiales. Detalles hechos a mano completan el diseño, esto hace que cada vestido sea excepcional y reluce con un toque de amor y dedicación.\n\n100% Algodón.\n\nLa elección perfecta\n\nSi buscas el regalo perfecto, el Vestido bebé estampado Verde es la elección ideal. No importa si es para una fiesta, una foto memorable o simplemente para hacer del día a día algo especial, este vestido no decepcionará. La alegría de ver a una pequeña portando este elegante y cómodo vestido puede crear recuerdos inolvidables para todos.\n\nNo esperes más para vivir la experiencia del Vestido bebé estampado Verde. Agrega a tu carrito de compras este radiante vestido hoy mismo y llena de luz y color los días de esa persona especial.",
+  "sourceDescriptionHtml": "<h2>Aires de Primavera</h2>\n<p>Descubre el encanto irresistible del <strong>Vestido bebé estampado Verde</strong>. Un diseño exquisito que toma inspiración de los colores y la frescura de la primavera. Su tono verde vibrante evoca los días soleados y llenos de alegría. La calidad de la tela garantiza comodidad y resistencia en cada uso, cuidando siempre la delicada piel del bebé.</p>\n<h2>Pura Delicadeza</h2>\n<p>El <strong>Vestido bebé estampado Verde</strong> es una pieza única que aportará elegancia a cualquier ocasión. Su estampado delicado contribuye a un look sofisticado pero divertido, ideal para celebraciones y días especiales. Detalles hechos a mano completan el diseño, esto hace que cada vestido sea excepcional y reluce con un toque de amor y dedicación.</p>\n<p>100% Algodón.</p>\n<h2>La elección perfecta</h2>\n<p>Si buscas el regalo perfecto, el <strong>Vestido bebé estampado Verde</strong> es la elección ideal. No importa si es para una fiesta, una foto memorable o simplemente para hacer del día a día algo especial, este vestido no decepcionará. La alegría de ver a una pequeña portando este elegante y cómodo vestido puede crear recuerdos inolvidables para todos.</p>\n<p>No esperes más para vivir la experiencia del <strong>Vestido bebé estampado Verde</strong>. <a href=\"#\">Agrega a tu carrito de compras este radiante vestido hoy mismo</a> y llena de luz y color los días de esa persona especial.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 32.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "340",
+          "label": "2-4m"
+        },
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71449",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2301049",
+      "productSku": "2301049",
+      "taxRate": 21,
+      "price": 32.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:14.256Z"
+    },
+    {
+      "id": "71450",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2301049",
+      "productSku": "2301049",
+      "taxRate": 21,
+      "price": 32.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:17.331Z"
+    },
+    {
+      "id": "71452",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301049",
+      "productSku": "2301049",
+      "taxRate": 21,
+      "price": 32.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:19.642Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10287-13385.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13385-large_default/vestido-bebe-estampado-verde.jpg",
+      "alt": "Vestido bebé estampado Verde",
+      "sourceId": "13385",
+      "variantIds": [],
+      "sha256": "96681e1dea9152cdf7c86f15200c0e34a42451d2b1bd4860aa35de29ab5ba343"
+    },
+    {
+      "path": "assets/10287-13384.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13384-large_default/vestido-bebe-estampado-verde.jpg",
+      "alt": "Vestido bebé estampado Verde",
+      "sourceId": "13384",
+      "variantIds": [],
+      "sha256": "ce87c3321caa0ce3a9ee930a2de1655ba1283fbd5e4979b434ce2af23495fbce"
+    },
+    {
+      "path": "assets/10287-13383.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13383-large_default/vestido-bebe-estampado-verde.jpg",
+      "alt": "Vestido bebé estampado Verde",
+      "sourceId": "13383",
+      "variantIds": [],
+      "sha256": "da7ff8e51658b081eab4be6fee5b56d02a65e5bb1c09ae562b752f89ddf6a1bb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:19.877Z",
+  "issues": []
+}

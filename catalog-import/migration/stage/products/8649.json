@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8649",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/8649-chaqueta-larga-con-bolsillos-grano-arroz-rojo.html",
+  "name": "Chaqueta larga con bolsillos grano arroz Rojo",
+  "brand": "A&amp;J",
+  "sku": "2102044",
+  "description": "Chaqueta larga de perlé, punto grano de arroz, cuello redondo. Cierre con botones. Tiene bolsillos. Disponible en varios colores.",
+  "details": "Chaqueta larga de perlé, en punto de grano de arroz, en color rojo. Cuello redondo. Cierre con botones delanteros. Tiene bolsillos. Disponible en varios colores. Una prenda clásica y atemporal, un fondo de armario muy combinable y versátil. Tejido suave, fresco y ligero, perfecto para la estación de primavera y verano! Echa un ojito a nuestros calcetines y leotardos de perlé, bodies interiores y calzado y podrás completar tus conjuntos con todo lo que necesites!\n\nComposición y cuidados:\n\nChaqueta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nFABRICADO EN PORTUGAL",
+  "sourceDescriptionHtml": "<p>Chaqueta larga de perlé, en punto de grano de arroz, en color rojo. Cuello redondo. Cierre con botones delanteros. Tiene bolsillos. <strong>Disponible en varios colores</strong>. Una prenda clásica y atemporal, un fondo de armario muy combinable y versátil. Tejido suave, fresco y ligero, perfecto para la estación de primavera y verano! Echa un ojito a nuestros <strong>calcetines y leotardos de perlé, bodies interiores y calzado</strong> y podrás completar tus conjuntos con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p><strong>FABRICADO EN PORTUGAL</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 6.48,
+  "oldPrice": 12.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:39",
+  "sourceUpdatedAt": "2026-10-27 11:10:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67722",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2102044",
+      "productSku": "2102044",
+      "taxRate": 21,
+      "price": 6.48,
+      "oldPrice": 12.95,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:15.543Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8649-9023.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9023-large_default/chaqueta-larga-con-bolsillos-grano-arroz-rojo.jpg",
+      "alt": "Chaqueta larga con bolsillos grano arroz Rojo",
+      "sourceId": "9023",
+      "variantIds": [],
+      "sha256": "73626e26e36a5f801ba882b979c77c7d3c4e519b062ef08ebe671b70485bf1be"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:15.639Z",
+  "issues": []
+}

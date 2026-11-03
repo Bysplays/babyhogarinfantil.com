@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16332",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/16332-ranita-pololo-estampado-lilas-lila.html",
+  "name": "Ranita pololo estampado lilas Lila",
+  "brand": "Calamaro",
+  "sku": "2304045",
+  "description": "Ranita de verano en color blanco roto estampado con flores. Con volantes en la parte trasera. Elástico en cintura y perneras. 100% ALGODÓN\n\nHECHO EN ESPAÑA",
+  "details": "Composición y cuidados:\n\nRanita: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Ranita: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lila",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-27 23:52:53",
+  "sourceUpdatedAt": "2026-10-27 11:12:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "74159",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2304045",
+      "productSku": "2304045",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:06.926Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16332-14094.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14094-large_default/ranita-pololo-estampado-lilas-lila.jpg",
+      "alt": "Ranita pololo estampado lilas Lila",
+      "sourceId": "14094",
+      "variantIds": [],
+      "sha256": "13b0fe208913de744f8d64c868a4805d16890e1f2dbc9865a55352acd5a9cb10"
+    },
+    {
+      "path": "assets/16332-14095.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14095-large_default/ranita-pololo-estampado-lilas-lila.jpg",
+      "alt": "Ranita pololo estampado lilas Lila",
+      "sourceId": "14095",
+      "variantIds": [],
+      "sha256": "b578190e2f24637b0dc0f298ffe3e3d7122b7930932fc067754ca07f46544f04"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:07.043Z",
+  "issues": []
+}

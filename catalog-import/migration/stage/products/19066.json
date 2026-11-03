@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "19066",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/19066-calcetin-alto-mezcla-lana-nina-rosa-maquillaje.html",
+  "name": "Calcetín alto mezcla lana niña Rosa Maquillaje",
+  "brand": "Condor",
+  "sku": "2402275",
+  "description": "Calcetín alto fantasía con lana para niña.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\n45% Lana.\n\n45% Acrílico.\n\n9% Poliamida.\n\n1% Elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>45% Lana.</p>\n<p>45% Acrílico.</p>\n<p>9% Poliamida.</p>\n<p>1% Elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa maquillaje",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-11-14 08:34:12",
+  "sourceUpdatedAt": "2026-10-27 11:13:56",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88646",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "2402275",
+      "productSku": "2402275",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:14.531Z"
+    },
+    {
+      "id": "88647",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2402275",
+      "productSku": "2402275",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:18.749Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19066-17603.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17603-large_default/calcetin-alto-mezcla-lana-nina-rosa-maquillaje.jpg",
+      "alt": "Calcetín alto mezcla lana niña Rosa Maquillaje",
+      "sourceId": "17603",
+      "variantIds": [],
+      "sha256": "62968d446836fb10b98cfe961e260650a5da447b6783926692532d02c6c1ede6"
+    },
+    {
+      "path": "assets/19066-17604.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17604-large_default/calcetin-alto-mezcla-lana-nina-rosa-maquillaje.jpg",
+      "alt": "Calcetín alto mezcla lana niña Rosa Maquillaje",
+      "sourceId": "17604",
+      "variantIds": [],
+      "sha256": "aea3c4628b42fef9ea09c4dd7da7712e799994a42758c4e66b2d052b6057486d"
+    },
+    {
+      "path": "assets/19066-17605.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17605-large_default/calcetin-alto-mezcla-lana-nina-rosa-maquillaje.jpg",
+      "alt": "Calcein alto con lana para niña",
+      "sourceId": "17605",
+      "variantIds": [],
+      "sha256": "81f16299187593e20cac660f097c636ca07b5ab31026bc95d594ce38954704ff"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:18.981Z",
+  "issues": []
+}

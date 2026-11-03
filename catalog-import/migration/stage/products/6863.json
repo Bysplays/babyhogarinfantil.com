@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "6863",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/6863-abrigo-bebe-nina-punto-adele-orquidea.html",
+  "name": "Abrigo bebé niña punto Adele Orquidea",
+  "brand": "Mac Ilusión",
+  "sku": "1706011",
+  "description": "Abrigo de punto doble con capota a juego. Por fuera punto de arroz, por dentro punto liso. Detalles de pelo Victoria en puños cuello y capota...",
+  "details": "Composición:\n\nAbrigo: 100% Acrílico Dralon Bayer antialérgico.\n\nCapota: 100% Acrílico Dralon Bayer antialérgico.\n\nNo usar secadora.\n\nNo usar lejias.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Abrigo: 100% Acrílico Dralon Bayer antialérgico.</p>\n<p>Capota: 100% Acrílico Dralon Bayer antialérgico.</p>\n<p>No usar secadora.</p>\n<p>No usar lejias.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Orquidea",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 38.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:17",
+  "sourceUpdatedAt": "2026-10-27 11:09:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "83855",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1706011",
+      "productSku": "1706011",
+      "taxRate": 21,
+      "price": 38.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:39.816Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6863-4787.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4787-large_default/abrigo-bebe-nina-punto-adele-orquidea.jpg",
+      "alt": "Abrigo bebé niña punto Adele Orquidea",
+      "sourceId": "4787",
+      "variantIds": [],
+      "sha256": "0297eeed2a2c981019837fd4de9cd9fcb897fc77ed3873fbfcbeb40777b577be"
+    },
+    {
+      "path": "assets/6863-4788.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4788-large_default/abrigo-bebe-nina-punto-adele-orquidea.jpg",
+      "alt": "Abrigo bebé niña punto Adele Orquidea",
+      "sourceId": "4788",
+      "variantIds": [],
+      "sha256": "f924a1f930d68d927714761bf70a501572fd3fd7a3587022cf644f032e1cb68e"
+    },
+    {
+      "path": "assets/6863-4786.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4786-large_default/abrigo-bebe-nina-punto-adele-orquidea.jpg",
+      "alt": "Abrigo bebé niña punto Adele Orquidea",
+      "sourceId": "4786",
+      "variantIds": [],
+      "sha256": "d6dce7088af69449427da4a2b8e7050e8633f17e18757b39141297c4ceac7440"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:40.006Z",
+  "issues": []
+}

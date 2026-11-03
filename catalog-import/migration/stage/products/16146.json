@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16146",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16146-clip-velcro-lacito-fruncido-azul-marino.html",
+  "name": "Clip velcro lacito fruncido Azul marino",
+  "brand": "Siena",
+  "sku": "2104154",
+  "description": "Clip velcro lacito fruncido mini. Para el fino pele de la peque.\n\nLazo de 3 x 1.8 cm aproximadamente.\n\nHECHO EN ESPAÑA",
+  "details": "Experiencia Pura Comodidad\n\nSu pequeño se merece lo mejor y este clip de velcro lacito fruncido Azul marino es justo lo que necesita. Hecho de materiales suaves, este accesorio aportará una comodidad suprema sin comprometer el estilo de su pequeño.\n\n\nEstilo Encantador en un Instante\n\nActualize la apariencia de su pequeño con nuestro clip de velcro lacito fruncido. Con su diseño elegante y el color azul marino que aportará un toque de encanto extra a cualquier atuendo. Perfecto para añadir un toque chic, pero divertido, a sus atuendos de diario.\n\n\nFácil de Usar y Versátil\n\nAdemás de ser hermoso, este clip de velcro es increíblemente fácil de usar. El velcro significa que es fácil de poner y quitar, mientras mantiene el accesorio seguro. También puede agregarlo a una variedad de estilos de cabello, lo que lo hace versátil y perfecto para todas las ocasiones.\n\n\n¿Por qué esperar? Da el paso y transforma la apariencia de tu pequeño con este elegante y cómodo clip de velcro. ¡Añádelo a tu carrito de compras ahora y crea looks adorables con facilidad!",
+  "sourceDescriptionHtml": "<h2>Experiencia Pura Comodidad</h2>\n<p>Su pequeño se merece lo mejor y este clip de velcro lacito fruncido Azul marino es justo lo que necesita. Hecho de materiales suaves, este accesorio aportará una comodidad suprema sin comprometer el estilo de su pequeño.</p>\n\n<h2>Estilo Encantador en un Instante</h2>\n<p>Actualize la apariencia de su pequeño con nuestro clip de velcro lacito fruncido. Con su diseño elegante y el color azul marino que aportará un toque de encanto extra a cualquier atuendo. Perfecto para añadir un toque chic, pero divertido, a sus atuendos de diario.</p>\n\n<h2>Fácil de Usar y Versátil</h2>\n<p>Además de ser hermoso, este clip de velcro es increíblemente fácil de usar. El velcro significa que es fácil de poner y quitar, mientras mantiene el accesorio seguro. También puede agregarlo a una variedad de estilos de cabello, lo que lo hace versátil y perfecto para todas las ocasiones.</p>\n\n<p>¿Por qué esperar? Da el paso y transforma la apariencia de tu pequeño con este elegante y cómodo clip de velcro. ¡Añádelo a tu carrito de compras ahora y crea looks adorables con facilidad!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 1.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:21",
+  "sourceUpdatedAt": "2026-10-27 11:11:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147070",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9033XA14297",
+      "productSku": "2104154",
+      "taxRate": 21,
+      "price": 1.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:16.015Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16146-15723.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15723-large_default/clip-velcro-lacito-fruncido-azul-marino.jpg",
+      "alt": "Clip velcro lacito fruncido Azul marino",
+      "sourceId": "15723",
+      "variantIds": [],
+      "sha256": "125159d54c2c86c0eb7e48b749b51aa3b100c25258dfd3ef421ecf9d0029ec64"
+    },
+    {
+      "path": "assets/16146-15724.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15724-large_default/clip-velcro-lacito-fruncido-azul-marino.jpg",
+      "alt": "Clip velcro lacito fruncido Azul marino",
+      "sourceId": "15724",
+      "variantIds": [],
+      "sha256": "092aa96c4dfa32e243b50b2d3135cfbca974d1bb13869279f3077b62c65d3470"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:16.133Z",
+  "issues": []
+}

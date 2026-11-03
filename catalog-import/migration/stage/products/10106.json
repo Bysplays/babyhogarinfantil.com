@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10106",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals/10106-chandal-nina-estrellas-gris.html",
+  "name": "Chandal niña estrellas Gris",
+  "brand": "Talaman",
+  "sku": "2208216",
+  "description": "Ilumina cada día de tu pequeña con el Chándal Niña Estrellas Gris. Confeccionado en suave tejido y adornado con estrellas brillantes, este chándal fusiona la comodidad con el estilo. Ideal para el juego y la relajación, es la elección perfecta para las niñas a las que les encanta estar cómodas y lucir fabulosas. ¡Una prenda imprescindible para su guardarropa que apoya su espíritu alegre y juguetón! Haz que brille aún más con este chándal, porque cada niña es una estrella.",
+  "details": "Brillo en Cada Paso\n\nDescubre el confort de nuestro Chándal Niña Estrellas Gris. Hecho de material suave y respirable, es perfecto para días de juego, descanso o incluso para una salida casual. El patrón de estrellas brillantes es realmente encantador, haciendo a la pequeña duela de la vía láctea.\n\nEstilo Confortable\n\nMoldea su día llenándolo de diversión y confort con nuestro chándal gris. Diseñado pensando en su comodidad, su suave tela mantiene a las pequeñas cómodas y calentitas mientras se divierten explorando el mundo a su alrededor. Además, la cintura elástica asegura un ajuste perfecto.\n\nModa Divertida\n\nNuestro chandal niña estrellas gris no solo es cómodo sino también a la moda. El patrón de estrellas le agrega un toque de diversión a cualquier atuendo, mientras que el color gris neutro la hace fácil de combinar con sus piezas favoritas. Es un básico imprescindible para el guardarropas de cualquier niña.\n\nSi buscas lo último en estilo, comodidad y durabilidad, el chandal niña estrellas gris es la opción perfecta para agregar un poco de brillo a su día. No esperes más, ¡cómpralo hoy mismo!\n\nComposición:\n\n95% Algodón\n\n5% Elastano.",
+  "sourceDescriptionHtml": "<h2>Brillo en Cada Paso</h2>\n<p>Descubre el confort de nuestro Chándal Niña Estrellas Gris. Hecho de material suave y respirable, es perfecto para días de juego, descanso o incluso para una salida casual. El patrón de estrellas brillantes es realmente encantador, haciendo a la pequeña duela de la vía láctea.</p>\n<h2>Estilo Confortable</h2>\n<p>Moldea su día llenándolo de diversión y confort con nuestro chándal gris. Diseñado pensando en su comodidad, su suave tela mantiene a las pequeñas cómodas y calentitas mientras se divierten explorando el mundo a su alrededor. Además, la cintura elástica asegura un ajuste perfecto.</p>\n<h2>Moda Divertida</h2>\n<p>Nuestro chandal niña estrellas gris no solo es cómodo sino también a la moda. El patrón de estrellas le agrega un toque de diversión a cualquier atuendo, mientras que el color gris neutro la hace fácil de combinar con sus piezas favoritas. Es un básico imprescindible para el guardarropas de cualquier niña.</p>\n<p>Si buscas lo último en estilo, comodidad y durabilidad, el chandal niña estrellas gris es la opción perfecta para agregar un poco de brillo a su día. No esperes más, ¡cómpralo hoy mismo!</p>\n<p>Composición:</p>\n<p>95% Algodón</p>\n<p>5% Elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "803"
+  ],
+  "sourceDefaultCategoryId": "803",
+  "sourceCategoryName": "Chandals",
+  "price": 33.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:58",
+  "sourceUpdatedAt": "2026-10-27 11:12:07",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70893",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2208216",
+      "productSku": "2208216",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:03.589Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10106-8124.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8124-large_default/chandal-nina-estrellas-gris.jpg",
+      "alt": "Chandal niña estrellas Gris",
+      "sourceId": "8124",
+      "variantIds": [],
+      "sha256": "da372d4fba0c0d7acd6bf7aa24542f0dedab6e768e19f42b86cb9bc16c779e54"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:03.670Z",
+  "issues": []
+}

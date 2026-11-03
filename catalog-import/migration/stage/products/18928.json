@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "18928",
+  "sourceUrl": "https://babyhogarinfantil.com/anoraks-y-chalecos/18928-chaleco-reversible-capucha-nino-negro.html",
+  "name": "Chaleco reversible capucha niño Negro",
+  "brand": "Mayoral",
+  "sku": "2402191",
+  "description": "Este chaleco reversible do colores para niños en colores negro y beige combina versatilidad, comodidad y estilo. Perfecto para los días fríos, es una prenda esencial en el armario de cualquier niño. ¡No esperes más y añade este chaleco a tu carrito de compras hoy mismo!",
+  "details": "Versatilidad y Estilo en Dos Colores\n\nEste chaleco reversible con capucha es la prenda ideal para los niños que buscan versatilidad y estilo. Con un diseño reversible, ofrece dos opciones de color: negro y beige, permitiendo a los pequeños cambiar su look según la ocasión. Tejido de alta calidad asegura durabilidad y confort.\n\nComodidad y Funcionalidad\n\nEl chaleco reversible está diseñado pensando en la comodidad y la funcionalidad. Confeccionado en materiales suaves y resistentes, proporciona una sensación de calidez sin ser pesado. Los bolsillos laterales son perfectos para mantener las manos calientes o guardar pequeños objetos. Además, la cremallera frontal facilita el vestir y desvestir, haciendo que este chaleco sea práctico para el uso diario.\n\nEstilo Moderno y Práctico\n\nCada detalle de este chaleco reversible ha sido cuidadosamente pensado para ofrecer un estilo moderno y práctico. Los colores negro y beige son neutros y elegantes, fáciles de combinar con cualquier atuendo. Este chaleco es perfecto para actividades al aire libre, paseos familiares o simplemente para añadir una capa extra de calidez en los días fríos. Los niños se sentirán cómodos y a la moda en todo momento.\n\n\n\n\n\n\nComposición:\n\nChaleco: 100% poliéster.\n\nForro: 100% poliéster.\n\nHECHO EN MYANMAR",
+  "sourceDescriptionHtml": "<div class=\"content user-select-text\" style=\"font-size:medium;\">\n<div class=\"ac-container ac-adaptiveCard has-image\">\n<div class=\"ac-textBlock\">\n<h3>Versatilidad y Estilo en Dos Colores</h3>\n<p>Este <strong>chaleco reversible con capucha</strong> es la prenda ideal para los niños que buscan versatilidad y estilo. Con un diseño reversible, ofrece dos opciones de color: <strong>negro</strong> y <strong>beige</strong>, permitiendo a los pequeños cambiar su look según la ocasión. Tejido de alta calidad asegura durabilidad y confort.</p>\n<h3>Comodidad y Funcionalidad</h3>\n<p>El <strong>chaleco reversible</strong> está diseñado pensando en la comodidad y la funcionalidad. Confeccionado en materiales suaves y resistentes, proporciona una sensación de calidez sin ser pesado. Los bolsillos laterales son perfectos para mantener las manos calientes o guardar pequeños objetos. Además, la cremallera frontal facilita el vestir y desvestir, haciendo que este chaleco sea práctico para el uso diario.</p>\n<h3>Estilo Moderno y Práctico</h3>\n<p>Cada detalle de este <strong>chaleco reversible</strong> ha sido cuidadosamente pensado para ofrecer un estilo moderno y práctico. Los colores <strong>negro</strong> y <strong>beige</strong> son neutros y elegantes, fáciles de combinar con cualquier atuendo. Este chaleco es perfecto para actividades al aire libre, paseos familiares o simplemente para añadir una capa extra de calidez en los días fríos. Los niños se sentirán cómodos y a la moda en todo momento.</p>\n</div>\n</div>\n<div class=\"ad-container\">\n<p style=\"font-size:11px;\">Composición:</p>\n<p style=\"font-size:11px;\">Chaleco: 100% poliéster.</p>\n<p style=\"font-size:11px;\">Forro: 100% poliéster.</p>\n<p style=\"font-size:11px;\">HECHO EN MYANMAR</p>\n</div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "749",
+  "sourceCategoryName": "Anoraks y Chalecos",
+  "price": 42.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-08 15:54:14",
+  "sourceUpdatedAt": "2026-10-27 11:13:49",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87932",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2402191",
+      "productSku": "2402191",
+      "taxRate": 21,
+      "price": 42.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:39.967Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18928-17492.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17492-large_default/chaleco-reversible-capucha-nino-negro.jpg",
+      "alt": "Chaleco reversible capucha niño Negro",
+      "sourceId": "17492",
+      "variantIds": [],
+      "sha256": "f0f7472fa38adc585668c53decee6a2ceae7a498c7f022af6610d60acfbed86c"
+    },
+    {
+      "path": "assets/18928-17493.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17493-large_default/chaleco-reversible-capucha-nino-negro.jpg",
+      "alt": "chaleco reversible niño",
+      "sourceId": "17493",
+      "variantIds": [],
+      "sha256": "473a1a0f9890176a3774059b8431150c67a3f341a0296934e1871656d082d9d8"
+    },
+    {
+      "path": "assets/18928-17494.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17494-large_default/chaleco-reversible-capucha-nino-negro.jpg",
+      "alt": "Chaleco reversible capucha niño Negro",
+      "sourceId": "17494",
+      "variantIds": [],
+      "sha256": "0141e1219898e938d0144ec416b94c3910e17fc3f654477695ba98c439974101"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:40.107Z",
+  "issues": []
+}

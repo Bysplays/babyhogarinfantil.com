@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "id": "9402",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-antideslizantes/9402-calcetin-con-suela-rosa.html",
+  "name": "Calcetin con suela Rosa",
+  "brand": "Mayoral",
+  "sku": "2202038",
+  "description": "Calcetín con suela de goma tallas bebé.",
+  "details": "Corte y empeine\n\n70% Algodón\n\n \n27% Poliamida\n\n \n3% Elastano\n\n\n\n\nForro y plantilla\n\n79% Algodón\n\n \n19% Poliamida\n\n \n2% Elastano\n\n\n\n\nSuela\n\n100% Caucho Termoplástico",
+  "sourceDescriptionHtml": "<div class=\"CLin\" style=\"color:#6f7072;text-transform:none;text-indent:0px;letter-spacing:normal;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;word-spacing:0px;white-space:normal;background-color:#ffffff;\">\n<div class=\"Cuni_t\"><span style=\"color:#0172ea;\">Corte y empeine</span></div>\n<div class=\"Cuni\" style=\"color:#6f7072;\">70% Algodón</div>\n<span> </span>\n<div class=\"Cuni\" style=\"color:#6f7072;\">27% Poliamida</div>\n<span> </span>\n<div class=\"Cuni\" style=\"color:#6f7072;\">3% Elastano</div>\n</div>\n<div class=\"CLin\" style=\"color:#6f7072;text-transform:none;text-indent:0px;letter-spacing:normal;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;word-spacing:0px;white-space:normal;background-color:#ffffff;\">\n<div class=\"Cuni_t\"><span style=\"color:#0172ea;\">Forro y plantilla</span></div>\n<div class=\"Cuni\" style=\"color:#6f7072;\">79% Algodón</div>\n<span> </span>\n<div class=\"Cuni\" style=\"color:#6f7072;\">19% Poliamida</div>\n<span> </span>\n<div class=\"Cuni\" style=\"color:#6f7072;\">2% Elastano</div>\n</div>\n<div class=\"CLin\" style=\"color:#6f7072;text-transform:none;text-indent:0px;letter-spacing:normal;font-family:Branding, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;word-spacing:0px;white-space:normal;background-color:#ffffff;\">\n<div class=\"Cuni_t\"><span style=\"color:#0172ea;\">Suela</span></div>\n<div class=\"Cuni\" style=\"color:#6f7072;\">100% Caucho Termoplástico</div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "752",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "752",
+  "sourceCategoryName": "Calcetines Antideslizantes",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:49",
+  "sourceUpdatedAt": "2026-10-27 11:11:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69165",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "9938XI15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:42.242Z"
+    },
+    {
+      "id": "147438",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "9938XA15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:43.994Z"
+    },
+    {
+      "id": "147439",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "9938XB15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:46.193Z"
+    },
+    {
+      "id": "147440",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "9938XC15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:51.205Z"
+    },
+    {
+      "id": "147441",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "9938XD15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:54.929Z"
+    },
+    {
+      "id": "147442",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "9938XE15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:58.063Z"
+    },
+    {
+      "id": "147443",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "9938XF15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:01.340Z"
+    },
+    {
+      "id": "147444",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "9938XG15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:04.360Z"
+    },
+    {
+      "id": "147445",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "9938XH15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:08.723Z"
+    },
+    {
+      "id": "147446",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "9938XJ15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:12.016Z"
+    },
+    {
+      "id": "147447",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "9938XK15543",
+      "productSku": "2202038",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:14.496Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9402-12281.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12281-large_default/calcetin-con-suela-rosa.jpg",
+      "alt": "Calcetin con suela Rosa",
+      "sourceId": "12281",
+      "variantIds": [],
+      "sha256": "b483a0a752529b8b4bc1ffabc1996072b3167aa6fbb358816ccd46200a15a1be"
+    },
+    {
+      "path": "assets/9402-12282.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12282-large_default/calcetin-con-suela-rosa.jpg",
+      "alt": "Calcetin con suela Rosa",
+      "sourceId": "12282",
+      "variantIds": [],
+      "sha256": "3104ee65cfbd4e7178f9ec3a2c4d99db467738b0e30b072441cff4acc4c42475"
+    },
+    {
+      "path": "assets/9402-12280.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12280-large_default/calcetin-con-suela-rosa.jpg",
+      "alt": "Calcetin con suela Rosa",
+      "sourceId": "12280",
+      "variantIds": [],
+      "sha256": "12a04c5b6c95585e872246af69132d9db5f738dfc019c5dc45e2092a1131f2b2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:11:14.657Z",
+  "issues": []
+}

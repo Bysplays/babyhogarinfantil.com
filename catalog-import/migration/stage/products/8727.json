@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "8727",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/8727-sandalia-lona-con-volante-blanco.html",
+  "name": "Sandalia lona con volante Blanco",
+  "brand": "Chicco",
+  "sku": "2103088",
+  "description": "Sandalias de loneta en color blanco, con volante de tul, y cierre con velcro ajustable. SIN SUELA.",
+  "details": "Sandalias de CHICCO, una de nuestras firmas favoritas! De loneta, en color blanco, con la puntera abierta. Decorada con volante de tul. Cierre con tira de velcro ajustable, para mayor sujeción y confort. SIN SUELA. Un calzado ligero, flexible, cómodo, transpirable y muy combinable! Echa un ojito a nuestros gorritos y viseras para el sol, conjuntos y vestidos y podrás combinarlas como más te guste! \n\nComposición y cuidados:\n\nSandalias: 100% tela\n\nNO LAVAR A MÁQUINA \n\nELIMINAR LA SUCIEDAD CON UN PAÑO HÚMEDO Y DEJAR SECAR ALEJADO DE FUENTES DE CALOR\n\nNO USAR DISPOSITIVOS ELECTRÓNICOS DE SECADO",
+  "sourceDescriptionHtml": "<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">Sandalias de <strong>CHICCO</strong>, una de nuestras firmas favoritas! De loneta, en color blanco, con la puntera abierta. Decorada con <strong>volante de tul</strong>. Cierre con tira de velcro ajustable, para mayor sujeción y confort. <strong>SIN SUELA</strong>. Un calzado ligero, flexible, cómodo, transpirable y muy combinable! Echa un ojito a nuestros <strong>gorritos y viseras para el sol, conjuntos y vestidos</strong> y podrás combinarlas como más te guste! </span></span></p>\n<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">Composición y cuidados:</span></span></p>\n<p><span style=\"color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"font-size:16px;\">Sandalias: 100% tela</span></span></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><span style=\"margin:0px;padding:0px;color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"margin:0px;padding:0px;font-size:16px;\">NO LAVAR A MÁQUINA </span></span></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><span style=\"margin:0px;padding:0px;color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"margin:0px;padding:0px;font-size:16px;\">ELIMINAR LA SUCIEDAD CON UN PAÑO HÚMEDO Y DEJAR SECAR ALEJADO DE FUENTES DE CALOR</span></span></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><span style=\"margin:0px;padding:0px;color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"margin:0px;padding:0px;font-size:16px;\">NO USAR DISPOSITIVOS ELECTRÓNICOS DE SECADO</span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 18.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:40",
+  "sourceUpdatedAt": "2026-10-27 11:10:57",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67891",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "2103088",
+      "productSku": "2103088",
+      "taxRate": 21,
+      "price": 18.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:28.915Z"
+    },
+    {
+      "id": "98335",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "2103088",
+      "productSku": "2103088",
+      "taxRate": 21,
+      "price": 18.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:31.689Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8727-11482.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11482-large_default/sandalia-lona-con-volante-blanco.jpg",
+      "alt": "Sandalia lona con volante Blanco",
+      "sourceId": "11482",
+      "variantIds": [],
+      "sha256": "35331a7e7144fa5b12c83043432ea0e6e339ff9973e4ac394084afcb67d7c713"
+    },
+    {
+      "path": "assets/8727-11481.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11481-large_default/sandalia-lona-con-volante-blanco.jpg",
+      "alt": "Sandalia lona con volante Blanco",
+      "sourceId": "11481",
+      "variantIds": [],
+      "sha256": "09854bf2a7597e6a8528df766320be4dad5fe21686beac8cf82a1b4116ed172e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:31.864Z",
+  "issues": []
+}

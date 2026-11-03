@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16139",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16139-lazo-pequeno-coral.html",
+  "name": "Lazo pequeño Coral",
+  "brand": "Siena",
+  "sku": "2007020",
+  "description": "Lazo de 6 x 4 cm. aprox. sobre clip pico-pato de 4 cm. aprox.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Coral",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.2,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:15",
+  "sourceUpdatedAt": "2026-10-27 11:10:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67351",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2007020",
+      "productSku": "2007020",
+      "taxRate": 21,
+      "price": 2.2,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:16.136Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16139-13834.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13834-large_default/lazo-pequeno-coral.jpg",
+      "alt": "Lazo pequeño Coral",
+      "sourceId": "13834",
+      "variantIds": [],
+      "sha256": "bfa05fae1a89a0afd3632726a0faf29bbfdbaf867db14978b716b100bf2f8869"
+    },
+    {
+      "path": "assets/16139-13835.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13835-large_default/lazo-pequeno-coral.jpg",
+      "alt": "Lazo pequeño Coral",
+      "sourceId": "13835",
+      "variantIds": [],
+      "sha256": "b17d6a7b1339e14a80449d738d61358ef86cd20a6193deb0c92b00254769ef41"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:16.242Z",
+  "issues": []
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "20433",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/20433-jesusito-bebe-cefiro-manga-larga-nude.html",
+  "name": "Jesusito bebé Céfiro manga larga Nude",
+  "brand": "Calamaro",
+  "sku": "2502017",
+  "description": "Jesusito con ranita. Con volantes divertidos en cuello, espalda y en la ranita. Bontia apertura por detrás.\n\nBusca aquí los leotardos que mejor te combinen Leotardos Invierno\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nVestido: 95% algodón, 5% elastano.\n\nRanita: 95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Vestido: 95% algodón, 5% elastano.</p>\n<p>Ranita: 95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nude",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 34.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94632",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502017",
+      "productSku": "2502017",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:11.314Z"
+    },
+    {
+      "id": "94633",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502017",
+      "productSku": "2502017",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:12.917Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20433-19652.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19652-large_default/jesusito-bebe-cefiro-manga-larga-nude.jpg",
+      "alt": "Jesusito bebé Céfiro manga larga Nude",
+      "sourceId": "19652",
+      "variantIds": [],
+      "sha256": "bbceb7f3a66c93b7b19834a96869d383bb4ebf90f42568bb2a22814f7771fe40"
+    },
+    {
+      "path": "assets/20433-19653.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19653-large_default/jesusito-bebe-cefiro-manga-larga-nude.jpg",
+      "alt": "Jesusito bebé Céfiro manga larga Nude",
+      "sourceId": "19653",
+      "variantIds": [],
+      "sha256": "a386827629518ba7615b90916a20f206e0001c77f42aa91852dc5f8d7b710d74"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:13.069Z",
+  "issues": []
+}

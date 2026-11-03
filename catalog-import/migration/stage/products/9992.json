@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "9992",
+  "sourceUrl": "https://babyhogarinfantil.com/batas-bebe-nino/9992-bata-azul-rayas-coralina-azul.html",
+  "name": "Bata azul rayas coralina Azul",
+  "brand": "Babybol",
+  "sku": "2208126",
+  "description": "¡Escápate del frío con las dulces rayas de la Bata Azul Rayas Coralina! Hecha con amor para dar calor a su tesoro, perfecta para esas noches frescas de invierno. ¡Imagina a tu pequeña estrella luciendo adorable mientras disfruta de la comodidad! Esta creación aterciopelada garantiza suavidad y confort duraderos. ¡Despierta está experiencia mágica para tu niño! ¿Por qué resistirse a la ternura desbordante y el confort irresistible? ¡Detén el frío con encanto y abraza la calidez de la Bata Azul Rayas Coralina hoy!",
+  "details": "Confort Incomparable \n \n \nEnvuelve a tu pequeño en calidez y comodidad con el Bata azul rayas coralina Azul. Confeccionada con un tejido de coralina ultra suave al tacto, esta bata es perfecta para las noches frías o las mañanas perezosas. Los detalles de las rayas añaden un toque de estilo a la acogedora prenda de vestir.\n\n\n \n Estilo y Funcionalidad \n\n\nLa Bata azul rayas coralina Azul no solo es cómoda, también es increíblemente elegante. Su vibrante color azul y su atractivo patrón de rayas hacen que esta prenda sea tan encantadora como funcional. Independientemente de lo que el día le depare a tu pequeño, esta bata lo mantendrá abrigado y con estilo.\n\n\n\n Materiales de Alta Calidad \n\n\nUsamos solo los mejores materiales para nuestras batas infantiles. La Bata azul rayas coralina Azul está confeccionada con coralina premium, conocida por su calidez y suavidad. Esta prenda es tan suave y ligera como resistente, garantizando que se mantendrá hermosa y funcional lavado tras lavado. \n\n\n \n ¡Haga su compra hoy! \n\n\nTus pequeños merecen lo mejor, así que ¿por qué no mimarlos con la Bata azul rayas coralina Azul? Cada detalle de esta bata ha sido pensado para proporcionar la máxima comodidad y estilo. ¡No esperes más y comprala ya!",
+  "sourceDescriptionHtml": "<h2> Confort Incomparable </h2> \n<p> \nEnvuelve a tu pequeño en calidez y comodidad con el Bata azul rayas coralina Azul. Confeccionada con un tejido de coralina ultra suave al tacto, esta bata es perfecta para las noches frías o las mañanas perezosas. Los detalles de las rayas añaden un toque de estilo a la acogedora prenda de vestir.\n</p>\n \n<h2> Estilo y Funcionalidad </h2>\n<p>\nLa Bata azul rayas coralina Azul no solo es cómoda, también es increíblemente elegante. Su vibrante color azul y su atractivo patrón de rayas hacen que esta prenda sea tan encantadora como funcional. Independientemente de lo que el día le depare a tu pequeño, esta bata lo mantendrá abrigado y con estilo.\n</p>\n\n<h2> Materiales de Alta Calidad </h2>\n<p>\nUsamos solo los mejores materiales para nuestras batas infantiles. La Bata azul rayas coralina Azul está confeccionada con coralina premium, conocida por su calidez y suavidad. Esta prenda es tan suave y ligera como resistente, garantizando que se mantendrá hermosa y funcional lavado tras lavado. \n</p>\n \n<h2> ¡Haga su compra hoy! </h2>\n<p>\nTus pequeños merecen lo mejor, así que ¿por qué no mimarlos con la Bata azul rayas coralina Azul? Cada detalle de esta bata ha sido pensado para proporcionar la máxima comodidad y estilo. ¡No esperes más y comprala ya!\n</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "799"
+  ],
+  "sourceDefaultCategoryId": "799",
+  "sourceCategoryName": "Batas bebé niño",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:56",
+  "sourceUpdatedAt": "2026-10-27 11:12:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70605",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2208126",
+      "productSku": "2208126",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:10.338Z"
+    },
+    {
+      "id": "70606",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2208126",
+      "productSku": "2208126",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:12.235Z"
+    },
+    {
+      "id": "70607",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2208126",
+      "productSku": "2208126",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:14.171Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9992-8067.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8067-large_default/bata-azul-rayas-coralina-azul.jpg",
+      "alt": "Bata azul rayas coralina Azul",
+      "sourceId": "8067",
+      "variantIds": [],
+      "sha256": "44ac4c0fc8c12d414291ed6cec2aaa782254be09fc0196845a5137410f3f0691"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:14.245Z",
+  "issues": []
+}

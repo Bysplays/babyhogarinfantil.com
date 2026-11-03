@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "20674",
+  "sourceUrl": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/20674-juego-sabanas-cuna-ciguena-con-chupetero-beige.html",
+  "name": "Juego sábanas cuna cigüeña con chupetero Beige",
+  "brand": "Interbaby",
+  "sku": "2502116",
+  "description": "Juego de 3 piezas sábanas bordadas para cuna. Incluye un chupetero de regalo. Maximo confort y suavidad en este juego beige de 3 piezas con bajera ajustable, encimera y almohada. La medida es estandar para cuna con colchón de 60x120 cm.",
+  "details": "Composición:\n\nJuego:  100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Juego: </strong> 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "770"
+  ],
+  "sourceDefaultCategoryId": "770",
+  "sourceCategoryName": "Sabanas cuna minicuna y maxicuna",
+  "price": 20.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-21 15:54:09",
+  "sourceUpdatedAt": "2026-10-26 19:38:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95352",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2502116",
+      "productSku": "2502116",
+      "taxRate": 21,
+      "price": 20.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:31.585Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20674-20237.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20237-large_default/juego-sabanas-cuna-ciguena-con-chupetero-beige.jpg",
+      "alt": "Juego sábanas cuna cigüeña con chupetero Beige",
+      "sourceId": "20237",
+      "variantIds": [],
+      "sha256": "a427cc9de8ff77c5ee60907990b172f57703a1093bb87e128ff5aba07cf099dd"
+    },
+    {
+      "path": "assets/20674-20238.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20238-large_default/juego-sabanas-cuna-ciguena-con-chupetero-beige.jpg",
+      "alt": "Juego sábanas cuna cigüeña con chupetero Beige",
+      "sourceId": "20238",
+      "variantIds": [],
+      "sha256": "ed3456cdb1e5db51d39ad374f53babd36888af732d9cd01ccd6dabf14604fe95"
+    },
+    {
+      "path": "assets/20674-20239.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20239-large_default/juego-sabanas-cuna-ciguena-con-chupetero-beige.jpg",
+      "alt": "Juego sábanas cuna cigüeña con chupetero Beige",
+      "sourceId": "20239",
+      "variantIds": [],
+      "sha256": "5b8b5356e8c17b20087febbebcae90d1defc2af3304e0d14877cd245634a4067"
+    },
+    {
+      "path": "assets/20674-20240.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20240-large_default/juego-sabanas-cuna-ciguena-con-chupetero-beige.jpg",
+      "alt": "Juego sábanas cuna cigüeña con chupetero Beige",
+      "sourceId": "20240",
+      "variantIds": [],
+      "sha256": "283191a71a5aae113786594f107ab8f23c9f83fc349afdb5cee8e07d64f89447"
+    },
+    {
+      "path": "assets/20674-20241.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20241-large_default/juego-sabanas-cuna-ciguena-con-chupetero-beige.jpg",
+      "alt": "Juego sábanas cuna cigüeña con chupetero Beige",
+      "sourceId": "20241",
+      "variantIds": [],
+      "sha256": "1359489ef99b742b8f7bfa8792c25c8fa12448fdb494a15a1d77ed9b2901125a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:31.828Z",
+  "issues": []
+}

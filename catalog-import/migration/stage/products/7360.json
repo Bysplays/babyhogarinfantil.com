@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7360",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/7360-pantalon-nina-estrellas-gris.html",
+  "name": "Pantalón niña estrellas Gris",
+  "brand": "Chicco",
+  "sku": "1807265",
+  "description": "Pantalón con estrellas de brillantina. Tiene bolsillos y bajos con doblez.",
+  "details": "Composición:\n\nPantalón: 90% algodón, 10% viscosa\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pantalón: 90% algodón, 10% viscosa</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:23",
+  "sourceUpdatedAt": "2026-10-27 11:10:01",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65623",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1807265",
+      "productSku": "1807265",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:02.651Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7360-5326.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5326-large_default/pantalon-nina-estrellas-gris.jpg",
+      "alt": "Pantalón niña estrellas Gris",
+      "sourceId": "5326",
+      "variantIds": [],
+      "sha256": "9c2baa7e4a7a421551e98630ccada990380478c947a67705e2905bafcb0aaf78"
+    },
+    {
+      "path": "assets/7360-5325.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5325-large_default/pantalon-nina-estrellas-gris.jpg",
+      "alt": "Pantalón niña estrellas Gris",
+      "sourceId": "5325",
+      "variantIds": [],
+      "sha256": "d23afa3b2a5b8d321e5f112feae2ee9ce5fa12fd28bb3b8d265a368207454e3a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:02.797Z",
+  "issues": []
+}

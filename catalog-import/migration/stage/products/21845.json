@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "id": "21845",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/21845-baby-infantil-el-castro-san-miguel-azul.html",
+  "name": "Baby infantil El Castro-San Miguel Azul",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2601144",
+  "description": "Baby de infantil para los colegios El Castro y San Miguel de Vigo. Puedes personalizarlo con el nombre bordado del alumn@.",
+  "details": "Composicón baby:\n\n50% algodón, 50% poliéster.",
+  "sourceDescriptionHtml": "<p>Composicón baby:</p>\n<p>50% algodón, 50% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "893",
+    "894"
+  ],
+  "sourceDefaultCategoryId": "894",
+  "sourceCategoryName": "Colegio San Miguel Vigo",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-05 23:54:20",
+  "sourceUpdatedAt": "2026-10-27 11:15:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 102,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "129247",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2601144",
+      "productSku": "2601144",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 9,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:41.323Z"
+    },
+    {
+      "id": "129248",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2601144",
+      "productSku": "2601144",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 19,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:44.540Z"
+    },
+    {
+      "id": "129249",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2601144",
+      "productSku": "2601144",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 15,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:46.845Z"
+    },
+    {
+      "id": "129250",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2601144",
+      "productSku": "2601144",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 9,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:49.223Z"
+    },
+    {
+      "id": "129251",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601144",
+      "productSku": "2601144",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 20,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:53.048Z"
+    },
+    {
+      "id": "129252",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601144",
+      "productSku": "2601144",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 13,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:55.792Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21845-21263.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21263-large_default/baby-infantil-el-castro-san-miguel-azul.jpg",
+      "alt": "Mandilón cuadros azul",
+      "sourceId": "21263",
+      "variantIds": [],
+      "sha256": "7b47006bcb2156490f03ff43eb68b33ef3899832b96c30804f9d8c83bd231932"
+    },
+    {
+      "path": "assets/21845-21264.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21264-large_default/baby-infantil-el-castro-san-miguel-azul.jpg",
+      "alt": "Mandilón cuadros azul vista trasera",
+      "sourceId": "21264",
+      "variantIds": [],
+      "sha256": "ab63728ddbebc2f36be4f35aea9d87eb96d98687dc681319601c7735c5852aee"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:31:55.956Z",
+  "issues": []
+}

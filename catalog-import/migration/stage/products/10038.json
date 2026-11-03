@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10038",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/10038-chaqueta-punto-cuello-volante-bebe-nuez.html",
+  "name": "Chaqueta punto cuello volante bebe Nuez",
+  "brand": "Mac Ilusión",
+  "sku": "2208164",
+  "description": "Experiencia la dulzura de tu pequeña con la Chaqueta Punto Cuello Volante Bebé Nuez. Hecha a mano, esta chaqueta encapsula la ternura y la inocencia, manteniéndola abrigada y a la moda. Su cómodo ajuste y reluciente tonalidad, emana el cariño y la atención que se ha puesto en su diseño. Ideal para salidas invernales, aportará el toque de encanto que tu pequeña necesita. ¡Adorna su infancia con esta delicada elección de moda infantil!",
+  "details": "Comodidad y Calidez\n\nEsta exquisita chaqueta de punto para bebé garantiza la calidez y protección de los más pequeños en los días más frescos. Suavidad al tacto y confeccionada para proporcionar comodidad durante todo el día.\n\nEstilo Elegante e Inigualable\n\nLa chaqueta Nuez con cuello volante añade un toque de sofisticación y elegancia al vestuario de los pequeños. La delicadeza de los detalles en la confección y la modernidad en el diseño se unen para crear una prenda incomparable estilo.\n\nCalidad Suprema\n\nLa chaqueta de punto para bebé está fabricada con materiales de la más alta calidad, que garantizan su durabilidad y resistencia al desgaste del uso constante. Su pequeño se verá encantador y se sentirá aún mejor!\n\n\n¡No espere más! Descubre la elegancia y comodidad que brinda la chaqueta de punto para bebé con cuello volante Nuez. ¡Agregue esta preciosa prenda al armario de su pequeño hoy!\n\nComposición y cuidados:\n\nChaqueta: 100% acrílico.\n\nLAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO\n\nNO USAR SECADORA\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<!--Subtitles and keywords-enhanced paragraphs-->\n<h2>Comodidad y Calidez</h2>\n<p>Esta exquisita <strong>chaqueta de punto para bebé</strong> garantiza la calidez y protección de los más pequeños en los días más frescos. Suavidad al tacto y confeccionada para proporcionar comodidad durante todo el día.</p>\n<h2>Estilo Elegante e Inigualable</h2>\n<p>La <strong>chaqueta Nuez con cuello volante</strong> añade un toque de sofisticación y elegancia al vestuario de los pequeños. La delicadeza de los detalles en la confección y la modernidad en el diseño se unen para crear una prenda incomparable estilo.</p>\n<h2>Calidad Suprema</h2>\n<p>La <strong>chaqueta de punto para bebé</strong> está fabricada con materiales de la más alta calidad, que garantizan su durabilidad y resistencia al desgaste del uso constante. Su pequeño se verá encantador y se sentirá aún mejor!</p>\n<!--Call to action-->\n<p><strong>¡No espere más! Descubre la elegancia y comodidad que brinda la chaqueta de punto para bebé con cuello volante Nuez. ¡Agregue esta preciosa prenda al armario de su pequeño hoy!</strong></p>\n<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% acrílico.</p>\n<p>LAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO</p>\n<p>NO USAR SECADORA</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nuez",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70752",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2208164",
+      "productSku": "2208164",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:16.653Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10038-8095.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8095-large_default/chaqueta-punto-cuello-volante-bebe-nuez.jpg",
+      "alt": "Chaqueta punto cuello volante bebe Nuez",
+      "sourceId": "8095",
+      "variantIds": [],
+      "sha256": "055b282d15134ca0af543429927bbbba14c04be32775cc1c933aad5fbed76dcd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:16.704Z",
+  "issues": []
+}

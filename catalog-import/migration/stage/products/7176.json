@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "7176",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-pom-pom/7176-calcetin-alto-perle-con-borlas-blanco.html",
+  "name": "Calcetín alto perlé con borlas Blanco",
+  "brand": "Condor",
+  "sku": "1803052",
+  "description": "Calcetines altos en BLANCO para bebé fabricados en 100% algodón perlé, con pom-pom a tono.",
+  "details": "Composici&oacute;n:\n\r\n100% ALGODON.",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n:</p>\r\n<p>100% ALGODON.</p>\r\n<p>&nbsp;</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "686",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "686",
+  "sourceCategoryName": "Calcetines con pom-pom",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 24,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65186",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:28.541Z"
+    },
+    {
+      "id": "65187",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:31.229Z"
+    },
+    {
+      "id": "65188",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:33.655Z"
+    },
+    {
+      "id": "65189",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:36.507Z"
+    },
+    {
+      "id": "65190",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:39.043Z"
+    },
+    {
+      "id": "65191",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:41.866Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7176-5148.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5148-large_default/calcetin-alto-perle-con-borlas-blanco.jpg",
+      "alt": "Calcetín alto perlé con borlas Blanco",
+      "sourceId": "5148",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/7176-10066.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10066-large_default/calcetin-alto-perle-con-borlas-blanco.jpg",
+      "alt": "Calcetín alto perlé con borlas Blanco",
+      "sourceId": "10066",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/7176-5149.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5149-large_default/calcetin-alto-perle-con-borlas-blanco.jpg",
+      "alt": "Calcetín alto perlé con borlas Blanco",
+      "sourceId": "5149",
+      "variantIds": [],
+      "sha256": "b311e3dfaf9f3e0fa483a57576067d4ec472ac8db16f7ff99e0036f067eb07a7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:42.099Z",
+  "issues": []
+}

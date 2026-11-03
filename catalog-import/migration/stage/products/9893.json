@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "9893",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/9893-pack-dos-camisetas-bebe-manga-larga-varios.html",
+  "name": "Pack dos camisetas bebe manga larga Varios",
+  "brand": "Zippy",
+  "sku": "2208009",
+  "description": "Paquete de dos camisetas para bebé de manga larga, Varios colores Abraza la comodidad sin igual y la calidad excepcional con este paquete de dos camisetas de manga larga para bebés. Cada pieza está diseñada para proporcionar a su pequeño una experiencia de vestimenta suave y agradable gracias a su tejido de calidad superior. Estas camisetas de colores variados no solo agregan un toque vibrante al guardarropa de su bebé, sino que también son increíblemente versátiles, perfectas para cualquier ocasión. ¡Haz que tu pequeño se destaque con su estilo chic y adorable! Un regalo encantador, práctico y esencial que nunca pasará de moda. 100% ALGODON",
+  "details": "Adorables y Cómodas\n\nEnvuelve a tu pequeño en la dulzura y el confort con las \"Pack dos camisetas bebe manga larga Varios\". Hechas con el cariño y la atención al detalle que los niños merecen, estas dos camisetas de manga larga son perfectas para mantenerlos calientes y a la moda. Los diferentes colores y diseños aseguran que siempre haya algo que combine con cada estado de ánimo y ocasión.\n\n\n\nCalidad y Durabilidad\n\nNo existe nada más importante que la salud y la comodidad de tu bebé. Estas camisetas están hechas de un material suave y duradero que protegerá la delicada piel de tu hijo. Son fáciles de lavar, resistentes a las manchas y el desgaste regular, asegurando que mantengan su encanto incluso después de muchos usos y lavados.\n\n\n\nRegalo Perfecto\n\nSi estás buscando el regalo perfecto para un recién nacido, no busques más. Este pack de dos camisetas de manga larga es ideal para cualquier nueva madre o padre. Vienen con una gama de lindos y versátiles diseños que hacen que sean un regalo práctico y considerado para cualquier ocasión, sea un baby shower o una simple visita a los nuevos padres.\n\n\nNo pierdas la oportunidad de vestir a tu pequeño con estilo y confort. Ordene su \"Pack dos camisetas bebe manga larga Varios\" hoy mismo y vea la diferencia por usted mismo.",
+  "sourceDescriptionHtml": "\n<h2>Adorables y Cómodas</h2>\n<p>Envuelve a tu pequeño en la dulzura y el confort con las \"Pack dos camisetas bebe manga larga Varios\". Hechas con el cariño y la atención al detalle que los niños merecen, estas dos camisetas de manga larga son perfectas para mantenerlos calientes y a la moda. Los diferentes colores y diseños aseguran que siempre haya algo que combine con cada estado de ánimo y ocasión.</p>\n\n\n<h2>Calidad y Durabilidad</h2>\n<p>No existe nada más importante que la salud y la comodidad de tu bebé. Estas camisetas están hechas de un material suave y duradero que protegerá la delicada piel de tu hijo. Son fáciles de lavar, resistentes a las manchas y el desgaste regular, asegurando que mantengan su encanto incluso después de muchos usos y lavados.</p>\n\n\n<h2>Regalo Perfecto</h2>\n<p>Si estás buscando el regalo perfecto para un recién nacido, no busques más. Este pack de dos camisetas de manga larga es ideal para cualquier nueva madre o padre. Vienen con una gama de lindos y versátiles diseños que hacen que sean un regalo práctico y considerado para cualquier ocasión, sea un baby shower o una simple visita a los nuevos padres.</p>\n\n<p>No pierdas la oportunidad de vestir a tu pequeño con estilo y confort. Ordene su \"Pack dos camisetas bebe manga larga Varios\" hoy mismo y vea la diferencia por usted mismo.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 15.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70328",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2208009",
+      "productSku": "2208009",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:50.100Z"
+    },
+    {
+      "id": "70329",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2208009",
+      "productSku": "2208009",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:51.436Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9893-8735.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8735-large_default/pack-dos-camisetas-bebe-manga-larga-varios.jpg",
+      "alt": "Pack dos camisetas bebe manga larga Varios",
+      "sourceId": "8735",
+      "variantIds": [],
+      "sha256": "d20a7f6a2f76186cf98e3866a2c3b5b983efcbc21213e200a20c90a4d2497c35"
+    },
+    {
+      "path": "assets/9893-8736.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8736-large_default/pack-dos-camisetas-bebe-manga-larga-varios.jpg",
+      "alt": "Pack dos camisetas bebe manga larga Varios",
+      "sourceId": "8736",
+      "variantIds": [],
+      "sha256": "9da5f82c50251ec081c6617ca9067a28016a279f81a319e1b58300c83acf93c1"
+    },
+    {
+      "path": "assets/9893-8024.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8024-large_default/pack-dos-camisetas-bebe-manga-larga-varios.jpg",
+      "alt": "Pack dos camisetas bebe manga larga Varios",
+      "sourceId": "8024",
+      "variantIds": [],
+      "sha256": "08d9d50c7ce7902f527dd7b0cf991c4676760af510ca60d95976389b28db40b0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:51.658Z",
+  "issues": []
+}

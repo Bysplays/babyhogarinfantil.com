@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "21474",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nina/21474-cardigan-algodon-unicornio-love-azul.html",
+  "name": "Cardigan algodón unicornio love Azul",
+  "brand": "Chicco",
+  "sku": "2502109",
+  "description": "Sudadera, cardigan colección LOVE. Con felpa interior para que sea cálida.",
+  "details": "Composición:\n\nSudadera: 95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Sudadera</strong>: 95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "727",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "727",
+  "sourceCategoryName": "Sudaderas y jerseys Bebé niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96685",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502109",
+      "productSku": "2502109",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:19.696Z"
+    },
+    {
+      "id": "96686",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502109",
+      "productSku": "2502109",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:21.001Z"
+    },
+    {
+      "id": "96687",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502109",
+      "productSku": "2502109",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:22.460Z"
+    },
+    {
+      "id": "96688",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502109",
+      "productSku": "2502109",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:23.781Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21474-20013.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20013-large_default/cardigan-algodon-unicornio-love-azul.jpg",
+      "alt": "Cardigan algodón unicornio love Azul",
+      "sourceId": "20013",
+      "variantIds": [],
+      "sha256": "929fcdd16b73b7be707dec329a0ed84f2b727f0bc36325213b79972504036dda"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:23.851Z",
+  "issues": []
+}

@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "20477",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys/20477-pullover-cuello-volante-nina-tandoori.html",
+  "name": "Pullover cuello volante niña Tandoori",
+  "brand": "Mayoral",
+  "sku": "2502049",
+  "description": "Sudadera con cuello redondo con volante. Bajo y puños elásticos para mayor comodidad. Detalles bordados.",
+  "details": "Composición:\n\n98% Algodón\n\n2% Elastano",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>98% Algodón</p>\n<p>2% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Tandoori",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "772",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "772",
+  "sourceCategoryName": "Sudaderas y jerseys",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94844",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502049",
+      "productSku": "2502049",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:05.338Z"
+    },
+    {
+      "id": "94847",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502049",
+      "productSku": "2502049",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:07.274Z"
+    },
+    {
+      "id": "94848",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502049",
+      "productSku": "2502049",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:09.517Z"
+    },
+    {
+      "id": "94849",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502049",
+      "productSku": "2502049",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:11.355Z"
+    },
+    {
+      "id": "94850",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502049",
+      "productSku": "2502049",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:13.005Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20477-19821.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19821-large_default/pullover-cuello-volante-nina-tandoori.jpg",
+      "alt": "Pullover cuello volante niña Tandoori",
+      "sourceId": "19821",
+      "variantIds": [],
+      "sha256": "063c395c13c92754806d96c018b0a0b3d8a490bcfb5b8111eb9f17cc4b652c6e"
+    },
+    {
+      "path": "assets/20477-19822.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19822-large_default/pullover-cuello-volante-nina-tandoori.jpg",
+      "alt": "Pullover cuello volante niña Tandoori",
+      "sourceId": "19822",
+      "variantIds": [],
+      "sha256": "540c335c36a50ee41712b09817dfe8d153c4801a004ecce366a403062c0edff5"
+    },
+    {
+      "path": "assets/20477-19823.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19823-large_default/pullover-cuello-volante-nina-tandoori.jpg",
+      "alt": "Pullover cuello volante niña Tandoori",
+      "sourceId": "19823",
+      "variantIds": [],
+      "sha256": "e35f9ad2e1aa4f43647fe65e1ef5587b5d7f6dd0b08af95818f1a486ea970235"
+    },
+    {
+      "path": "assets/20477-19867.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19867-large_default/pullover-cuello-volante-nina-tandoori.jpg",
+      "alt": "Pullover cuello volante niña Tandoori",
+      "sourceId": "19867",
+      "variantIds": [],
+      "sha256": "f829494f0bf51477dc0f19ae9dbcd4d51109de60fe61c161c7bbe754284eb462"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:13.309Z",
+  "issues": []
+}

@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "9174",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/9174-pijama-dos-piezas-minnie-rojo.html",
+  "name": "Pijama dos piezas Minnie Rojo",
+  "brand": "Zippy",
+  "sku": "2109097",
+  "description": "Diseñado para brindar el máximo confort y dulces sueños, el Pijama dos piezas Minnie Rojo encantará a las pequeñas princesas cada noche. Este adorable conjunto, con su vívida tonalidad roja y preciosa estampa de Minnie Mouse, es todo lo que una niña podría desear. Fabricado en tejidos suaves y agradables, promete horas de sueño ininterrumpido. Cada detalle refleja el encanto y la ternura de su personaje favorito. Al comprar este pijama no solo ofreces una noche cálida y acogedora, también regalas sonrisas y felicidad. No hay nada como un sueño tranquilo con Minnie.",
+  "details": "Una Pequeña Maravilla de Disney: La dulce y encantadora pijama de dos piezas Minnie en tono rojo es un verdadero sueño para el pequeño fanático de Disney en la casa. Con sus impresionantes detalles y la encantadora imagen de Minnie, estas pijamas exudan encanto y alegría, haciendo que la hora de acostarse sea realmente emocionante.\n\nEl Confort que Merecen: Hecha de un suave y acogedor tejido, esta pijama hará que su pequeño se sienta cómodo y acogido al instante mientras juega por la casa o duerme plácidamente. Con su deslumbrante color rojo, esta ropa de dormir no sólo mantendrá a su niño caliente, también lo hará lucir absolutamente adorable.\n\nSueños Encantados: Permita que el encanto de Minnie haga que los sueños de su pequeño sean aún más mágicos. Con su diseño adorable y su fabricación de alta calidad, la pijama de dos piezas Minnie rojo será su pequeño secreto para garantizar noches de sueño placentero y dulces sueños cargados de aventuras con su personaje favorito de Disney.\n\nHaga clic aquí para comprar ahora y transforme cada noche en una aventura mágica para su pequeño con la pijama de dos piezas Minnie Rojo. Descubra el encanto de dormir a la moda de Disney.\n\nComposición y cuidados:\n\nPijama: 76% algodón, 24% poliéster.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p><strong>Una Pequeña Maravilla de Disney:</strong> La dulce y encantadora pijama de dos piezas Minnie en tono rojo es un verdadero sueño para el pequeño fanático de Disney en la casa. Con sus impresionantes detalles y la encantadora imagen de Minnie, estas pijamas exudan encanto y alegría, haciendo que la hora de acostarse sea realmente emocionante.</p>\n<p><strong>El Confort que Merecen:</strong> Hecha de un suave y acogedor tejido, esta pijama hará que su pequeño se sienta cómodo y acogido al instante mientras juega por la casa o duerme plácidamente. Con su deslumbrante color rojo, esta ropa de dormir no sólo mantendrá a su niño caliente, también lo hará lucir absolutamente adorable.</p>\n<p><strong>Sueños Encantados:</strong> Permita que el encanto de Minnie haga que los sueños de su pequeño sean aún más mágicos. Con su diseño adorable y su fabricación de alta calidad, la pijama de dos piezas Minnie rojo será su pequeño secreto para garantizar noches de sueño placentero y dulces sueños cargados de aventuras con su personaje favorito de Disney.</p>\n<p><em>Haga clic aquí para comprar ahora y transforme cada noche en una aventura mágica para su pequeño con la pijama de dos piezas Minnie Rojo. Descubra el encanto de dormir a la moda de Disney.</em></p>\n<p>Composición y cuidados:</p>\n<p>Pijama: 76% algodón, 24% poliéster.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777",
+    "880"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 15.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:46",
+  "sourceUpdatedAt": "2026-10-27 11:11:19",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68644",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2109097",
+      "productSku": "2109097",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:35.885Z"
+    },
+    {
+      "id": "89483",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2109097",
+      "productSku": "2109097",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:37.672Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9174-12001.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12001-large_default/pijama-dos-piezas-minnie-rojo.jpg",
+      "alt": "Pijama dos piezas Minnie Rojo",
+      "sourceId": "12001",
+      "variantIds": [],
+      "sha256": "b744b9b79c0639def431ab91fca392591e92fd3e65dc1c27b25cb408b19b9634"
+    },
+    {
+      "path": "assets/9174-12002.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12002-large_default/pijama-dos-piezas-minnie-rojo.jpg",
+      "alt": "Pijama dos piezas Minnie Rojo",
+      "sourceId": "12002",
+      "variantIds": [],
+      "sha256": "a0526b7a8471ac906c0979df1d32c3b2ceef77adb9e4a9b12f2cd2f46869d0cc"
+    },
+    {
+      "path": "assets/9174-8488.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8488-large_default/pijama-dos-piezas-minnie-rojo.jpg",
+      "alt": "Pijama dos piezas Minnie Rojo",
+      "sourceId": "8488",
+      "variantIds": [],
+      "sha256": "d5920d107f80b8fbac456b2d615afc1c8c1dfe5ad1842447778feff82d845988"
+    },
+    {
+      "path": "assets/9174-7438.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7438-large_default/pijama-dos-piezas-minnie-rojo.jpg",
+      "alt": "Pijama dos piezas Minnie Rojo",
+      "sourceId": "7438",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:37.919Z",
+  "issues": []
+}

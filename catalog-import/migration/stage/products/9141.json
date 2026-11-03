@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "9141",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/9141-pantalon-algodon-con-bolsillo-nina-azul-marino.html",
+  "name": "Pantalon algodon con bolsillo niña Azul marino",
+  "brand": "Zippy",
+  "sku": "2109041",
+  "description": "Pantalón largo de algodón en color azul marino. Cierre con corchete y cremallera. Tiene gomas interiores ajustables en la cintura. Felpado en el interior.",
+  "details": "Pantalón largo de ZIPPY, una de nuestras firmas estrella! En tejido de algodón, suave y elástico, con corte skinny. Color azul marino. Cierre con corchete y cremallera. Tiene gomas interiores ajustables en la cintura para adaptarlo mejor y trabillas para poder usar cinturón. Felpado en el interior, cálido para el invierno. Una prenda fondo de armario, combinable con todo tipo de partes de arriba, con la comodidad de un leggings pero la estética de un pantalón! Echa un ojito a nuestros jerséis, camisetas de manga larga y sudaderas y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nPantalón: 95% algodón, 5% elastano\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pantalón largo de <strong>ZIPPY</strong>, una de nuestras firmas estrella! En tejido de <strong>algodón</strong>, suave y elástico, con <strong>corte skinny</strong>. Color azul marino. Cierre con corchete y cremallera. Tiene <strong>gomas interiores ajustables</strong> en la cintura para adaptarlo mejor y trabillas para poder usar cinturón. <strong>Felpado</strong> en el interior, cálido para el invierno. Una prenda fondo de armario, combinable con todo tipo de partes de arriba, con la comodidad de un leggings pero la estética de un pantalón! Echa un ojito a nuestros <strong>jerséis, camisetas de manga larga y sudaderas</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 95% algodón, 5% elastano</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 15.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:46",
+  "sourceUpdatedAt": "2026-10-27 11:11:18",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68592",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2109041",
+      "productSku": "2109041",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:57.562Z"
+    },
+    {
+      "id": "68593",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2109041",
+      "productSku": "2109041",
+      "taxRate": 21,
+      "price": 15.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:58.804Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9141-11955.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11955-large_default/pantalon-algodon-con-bolsillo-nina-azul-marino.jpg",
+      "alt": "Pantalon algodon con bolsillo niña Azul marino",
+      "sourceId": "11955",
+      "variantIds": [],
+      "sha256": "bfa5f1b986b50e6396b621de13783e31c3ab38289900adb51535994802429556"
+    },
+    {
+      "path": "assets/9141-11956.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11956-large_default/pantalon-algodon-con-bolsillo-nina-azul-marino.jpg",
+      "alt": "Pantalon algodon con bolsillo niña Azul marino",
+      "sourceId": "11956",
+      "variantIds": [],
+      "sha256": "fc6c268c9d389d785afb1e9a2469d68b40e75873511f2fb0c98c2e104c9275d3"
+    },
+    {
+      "path": "assets/9141-11957.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11957-large_default/pantalon-algodon-con-bolsillo-nina-azul-marino.jpg",
+      "alt": "Pantalon algodon con bolsillo niña Azul marino",
+      "sourceId": "11957",
+      "variantIds": [],
+      "sha256": "08d9d50c7ce7902f527dd7b0cf991c4676760af510ca60d95976389b28db40b0"
+    },
+    {
+      "path": "assets/9141-11954.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11954-large_default/pantalon-algodon-con-bolsillo-nina-azul-marino.jpg",
+      "alt": "Pantalon algodon con bolsillo niña Azul marino",
+      "sourceId": "11954",
+      "variantIds": [],
+      "sha256": "8f8db15741a90a7484874ee01f8b2eb34473343e88aa8f235ce41cbcc7162ff7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:58.994Z",
+  "issues": []
+}

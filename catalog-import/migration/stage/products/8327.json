@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8327",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8327-lazo-mediano-con-pinza-rosa.html",
+  "name": "Lazo mediano con pinza Rosa",
+  "brand": "Siena",
+  "sku": "2007019",
+  "description": "Lazo de 8 x 5,5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox.\n\nHECHO A MANO.\n\nHECHO EN ESPAÑA.",
+  "details": "\"Belleza Incomparable\"\n\n Dele a la pequeña princesa en su vida un toque de encanto con el Lazo mediano con pinza en color Rosa. Con su hermoso tono rosado, esta elegante lazada transformará cualquier atuendo mediocre en algo espectacular. Perfecto para cualquier ocasión, desde una simple salida al parque hasta ocasiones especiales.\n\n\n\n\n\n \"Detalles de Calidad\"\n\n No solo es atractivo para la vista, sino que el Lazo mediano con pinza Rosa ha sido creado con calidad en mente. Fabricado con materiales de alta durabilidad y una robusta pinza, este lazo no solo resistirá el desgaste diario, sino que también se mantendrá en su lugar sin importar cuán activa sea la pequeña.\n\n\n\n\n\n \"Más que solo un Accesorio\"\n\n Este lazo rosa es mucho más que un simple accesorio; es una forma de expresión. La pequeña en tu vida lucirá con confianza y se destacará entre la multitud. Perfecto para todas las estaciones y estilos, el lazo rosa es el regalo ideal si buscas algo único y especial.\n\n\n\n\n\n Destáquese con estilo y calidad. No deje pasar la oportunidad de adquirir el Lazo mediano con pinza Rosa. ¡Adquiéralo ahora y vea la felicidad en su rostro al usarlo!",
+  "sourceDescriptionHtml": "<div>\n <h2>\"Belleza Incomparable\"</h2>\n <p>Dele a la pequeña princesa en su vida un toque de encanto con el Lazo mediano con pinza en color Rosa. Con su hermoso tono rosado, esta elegante lazada transformará cualquier atuendo mediocre en algo espectacular. Perfecto para cualquier ocasión, desde una simple salida al parque hasta ocasiones especiales.</p>\n</div>\n\n<div>\n <h2>\"Detalles de Calidad\"</h2>\n <p>No solo es atractivo para la vista, sino que el Lazo mediano con pinza Rosa ha sido creado con calidad en mente. Fabricado con materiales de alta durabilidad y una robusta pinza, este lazo no solo resistirá el desgaste diario, sino que también se mantendrá en su lugar sin importar cuán activa sea la pequeña.</p>\n</div>\n\n<div>\n <h2>\"Más que solo un Accesorio\"</h2>\n <p>Este lazo rosa es mucho más que un simple accesorio; es una forma de expresión. La pequeña en tu vida lucirá con confianza y se destacará entre la multitud. Perfecto para todas las estaciones y estilos, el lazo rosa es el regalo ideal si buscas algo único y especial.</p>\n</div>\n\n<div>\n <p style=\"text-align: center;\"><em>Destáquese con estilo y calidad. No deje pasar la oportunidad de adquirir el Lazo mediano con pinza Rosa. ¡Adquiéralo ahora y vea la felicidad en su rostro al usarlo!</em></p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84927",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8051XA12986",
+      "productSku": "2007019",
+      "taxRate": 21,
+      "price": 2.9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:59.635Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8327-6624.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6624-large_default/lazo-mediano-con-pinza-rosa.jpg",
+      "alt": "Lazo mediano con pinza Rosa",
+      "sourceId": "6624",
+      "variantIds": [],
+      "sha256": "dd0b85d20966964385271d3a0ca6dddfdaa7d1c8f7c8497b295960110bac5e1b"
+    },
+    {
+      "path": "assets/8327-6625.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6625-large_default/lazo-mediano-con-pinza-rosa.jpg",
+      "alt": "Lazo mediano con pinza Rosa",
+      "sourceId": "6625",
+      "variantIds": [],
+      "sha256": "7d12c3084b669e0f02d459d6cbfb7a13ab95f4d5f6596d9c911b15409878b5bc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:59.752Z",
+  "issues": []
+}

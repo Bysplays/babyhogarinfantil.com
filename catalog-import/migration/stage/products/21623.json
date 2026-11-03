@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "id": "21623",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21623-pantalon-felpa-basico-punos-niebla.html",
+  "name": "Pantalón felpa básico puños Niebla",
+  "brand": "Mayoral",
+  "sku": "2502040",
+  "description": "Pantalón largo básico deportivo para niño, con felpa interior.  Tiene la cinturilla elástica con cordón ajustable. En las piernas rodilleras reforzadas en el interior para evitar el desgaste y ofrecer mayor resistencia. El bajo con elástico para un mejor ajuste. Bolsillos funcionales en los laterales. Una prenda esencial en su armario para completar cualquier look.",
+  "details": "COMPOSICIÓN\n\nPantalón:\n\n58% Algodón\n\n38% Poliéster\n\n4% Elastano",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\">COMPOSICIÓN</p>\n<p class=\"MsoNormal\"><b>Pantalón:</b></p>\n<p class=\"MsoNormal\">58% Algodón</p>\n<p class=\"MsoNormal\">38% Poliéster</p>\n<p class=\"MsoNormal\">4% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Niebla",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-12-04 23:54:28",
+  "sourceUpdatedAt": "2026-10-27 11:14:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 14,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97872",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:34.826Z"
+    },
+    {
+      "id": "97873",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:38.045Z"
+    },
+    {
+      "id": "97874",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:41.031Z"
+    },
+    {
+      "id": "97875",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:43.922Z"
+    },
+    {
+      "id": "97876",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:45.740Z"
+    },
+    {
+      "id": "97877",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:47.446Z"
+    },
+    {
+      "id": "97879",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:49.808Z"
+    },
+    {
+      "id": "97880",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:52.077Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21623-20277.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20277-large_default/pantalon-felpa-basico-punos-niebla.jpg",
+      "alt": "Pantalón felpa básico puños Niebla",
+      "sourceId": "20277",
+      "variantIds": [],
+      "sha256": "261ccfc17f1a5458998df7a2db6f25f6f7b5edbf2412e90d426849a83c451c0b"
+    },
+    {
+      "path": "assets/21623-20278.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20278-large_default/pantalon-felpa-basico-punos-niebla.jpg",
+      "alt": "Pantalón felpa básico puños Niebla",
+      "sourceId": "20278",
+      "variantIds": [],
+      "sha256": "138826c8a71cf4c8d6b70927c61985d20d782c28ce2d3e48a183b4867dc451ab"
+    },
+    {
+      "path": "assets/21623-20279.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20279-large_default/pantalon-felpa-basico-punos-niebla.jpg",
+      "alt": "Pantalón felpa básico puños Niebla",
+      "sourceId": "20279",
+      "variantIds": [],
+      "sha256": "73e806f807341d48e41693a140aa5e3da1f66b74cad80d4dcac7c5ef0a779b11"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:52.271Z",
+  "issues": []
+}

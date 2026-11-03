@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "10214",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/10214-bota-serraje-desert-gris-oscuro.html",
+  "name": "Bota serraje desert Gris Oscuro",
+  "brand": "Mayoral",
+  "sku": "2208352",
+  "description": "Botines para recién nacido. Un zapato práctico y abrigado para los días más fríos. Suela ligera y antideslizante. Cierre con cordones.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Oscuro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:59",
+  "sourceUpdatedAt": "2026-10-27 11:12:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71200",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "2208352",
+      "productSku": "2208352",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:10.330Z"
+    },
+    {
+      "id": "71202",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "2208352",
+      "productSku": "2208352",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:11.864Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10214-13331.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13331-large_default/bota-serraje-desert-gris-oscuro.jpg",
+      "alt": "Bota serraje desert Gris Oscuro",
+      "sourceId": "13331",
+      "variantIds": [],
+      "sha256": "569ec7703999ec5c972e182f95ac088b45eea12988ab275dec1e92b63bef37f9"
+    },
+    {
+      "path": "assets/10214-13332.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13332-large_default/bota-serraje-desert-gris-oscuro.jpg",
+      "alt": "Bota serraje desert Gris Oscuro",
+      "sourceId": "13332",
+      "variantIds": [],
+      "sha256": "084e56ae0c3e6978457e6dce8d011c18a792f3a98b73c8008e74510ef67e5aad"
+    },
+    {
+      "path": "assets/10214-13330.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13330-large_default/bota-serraje-desert-gris-oscuro.jpg",
+      "alt": "Bota serraje desert Gris Oscuro",
+      "sourceId": "13330",
+      "variantIds": [],
+      "sha256": "9ea7eed2721e3b579e07ae87e4a866bc5d58bd00d0a4ee9e0a16fddbf97e51f7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:12.058Z",
+  "issues": []
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "10391",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/10391-parka-nino-dinosaurios-verde.html",
+  "name": "Parka niño dinosaurios Verde",
+  "brand": "Chicco",
+  "sku": "2301140",
+  "description": "Envuelve a tu pequeño aventurero en el cálido y cómodo 'Parka niño dinosaurios Verde'. Con su diseño creativo, lleno de dinosaurios estampados, convertirá cada día frío en una aventura salvaje prehistórica. Fabricado en materiales de alta calidad, es el abrigo perfecto para resguardar a tu pequeño del clima invernal. Los fuertes estampados de dinosaurios captarán la imaginación de tu hijo, fomentando su amor por la naturaleza y la exploración. Y no es solo estilo: este parka tiene un forro interior que retiene el calor, garantizando calor y confort en los días más gélidos. Una elección fuera de serie para mantener a tu pequeño valiente abrigado y a la moda.",
+  "details": "Diseño único con dinosaurios\n\n¡Es el sueño de cualquier aventurero joven! Este Parka de niño con estampado de dinosaurios en un hermoso tono verde se convertirá en la prenda favorita de su pequeño. Los dinosaurios detallados y los vibrantes colores verdosos invitan a una aventura de juegos imaginativos.\n\nConfort inigualable\n\nConfeccionada pensando en el confort de los más pequeños, esta chaqueta no solo es elegante, sino que proporciona la cantidad de calor óptima para esos días de frío. El resistente material exterior garantiza durabilidad, mientras que el interior suave es suave contra la piel del niño y mantiene el calor dentro.\n\nSeguridad y practicidad\n\nSabemos que los niños pueden ser impredecibles y es por eso que este parka de niño dinosaurios verde cuenta con una capucha para proteger a su pequeño de las inclemencias del tiempo y ofrece bolsillos grandes para guardar pequeños tesoros. Y porque valoramos la facilidad de cuidado, el Parka es fácil de lavar y resistente a las manchas.\n\n¡Compra ahora!\n\nNo pierda esta oportunidad de proporcionar un regalo emocionante y útil para su niño. ¡Dotado de dinosaurios sensacionales y comodidad excepcional, este Parka niño dinosaurios Verde seguramente será una adición valorada al guardarropa de su hijo! ¡Haz clic en \"Agregar al carrito\" hoy y deje que la diversión de dinosaurios comience!\n\nComposición:\n\nCazadora: 100% poliéster.\n\nForro: 100% poléster\n\nHECHO EN Mayanmar",
+  "sourceDescriptionHtml": "<h2>Diseño único con dinosaurios</h2>\n<p>¡Es el sueño de cualquier aventurero joven! Este Parka de niño con estampado de dinosaurios en un hermoso tono verde se convertirá en la prenda favorita de su pequeño. Los dinosaurios detallados y los vibrantes colores verdosos invitan a una aventura de juegos imaginativos.</p>\n<h2>Confort inigualable</h2>\n<p>Confeccionada pensando en el confort de los más pequeños, esta chaqueta no solo es elegante, sino que proporciona la cantidad de calor óptima para esos días de frío. El resistente material exterior garantiza durabilidad, mientras que el interior suave es suave contra la piel del niño y mantiene el calor dentro.</p>\n<h2>Seguridad y practicidad</h2>\n<p>Sabemos que los niños pueden ser impredecibles y es por eso que este parka de niño dinosaurios verde cuenta con una capucha para proteger a su pequeño de las inclemencias del tiempo y ofrece bolsillos grandes para guardar pequeños tesoros. Y porque valoramos la facilidad de cuidado, el Parka es fácil de lavar y resistente a las manchas.</p>\n<h2>¡Compra ahora!</h2>\n<p>No pierda esta oportunidad de proporcionar un regalo emocionante y útil para su niño. ¡Dotado de dinosaurios sensacionales y comodidad excepcional, este Parka niño dinosaurios Verde seguramente será una adición valorada al guardarropa de su hijo! ¡Haz clic en \"Agregar al carrito\" hoy y deje que la diversión de dinosaurios comience!</p>\n<p>Composición:</p>\n<p>Cazadora: 100% poliéster.</p>\n<p>Forro: 100% poléster</p>\n<p>HECHO EN Mayanmar</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "769"
+  ],
+  "sourceDefaultCategoryId": "769",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71848",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2301140",
+      "productSku": "2301140",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:04.983Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10391-8812.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8812-large_default/parka-nino-dinosaurios-verde.jpg",
+      "alt": "Parka niño dinosaurios Verde",
+      "sourceId": "8812",
+      "variantIds": [],
+      "sha256": "99545f716b8b593280abd2a6a5514b6cb7214a016733dfc5c415b5baa2dadd3e"
+    },
+    {
+      "path": "assets/10391-8813.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8813-large_default/parka-nino-dinosaurios-verde.jpg",
+      "alt": "Parka niño dinosaurios Verde",
+      "sourceId": "8813",
+      "variantIds": [],
+      "sha256": "20c492b9e8184efa2025090921fbecbbfea8c06b9f443865a11a7e1c4e61a47b"
+    },
+    {
+      "path": "assets/10391-8814.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8814-large_default/parka-nino-dinosaurios-verde.jpg",
+      "alt": "Parka niño dinosaurios Verde",
+      "sourceId": "8814",
+      "variantIds": [],
+      "sha256": "53362a2f3c75e34f63e76c2b3fad4cf756d26a177dc4429086ecc78cfc13dd23"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:05.153Z",
+  "issues": []
+}

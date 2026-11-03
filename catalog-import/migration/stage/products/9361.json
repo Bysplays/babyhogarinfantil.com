@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "9361",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/9361-pijama-bebe-nina-entero-verano-mariposas-rosa.html",
+  "name": "Pijama bebe niña entero verano mariposas Rosa",
+  "brand": "Zippy",
+  "sku": "2201054",
+  "description": "Pijama entero 100% algodón. Se abre completamente por delante con corchetes para facilitar la puesta. ES UNA SOLA UNIDAD.",
+  "details": "Composición:\n\nPijama: 100% algodón.\n\nHECHO EN UE",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pijama: 100% algodón.</p>\n<p>HECHO EN UE</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 6,
+  "oldPrice": 12.0032,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69074",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2201054",
+      "productSku": "2201054",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:41.397Z"
+    },
+    {
+      "id": "69075",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2201054",
+      "productSku": "2201054",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:43.986Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9361-8475.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8475-large_default/pijama-bebe-nina-entero-verano-mariposas-rosa.jpg",
+      "alt": "Pijama bebe niña entero verano mariposas Rosa",
+      "sourceId": "8475",
+      "variantIds": [],
+      "sha256": "1cf07f7dfbe2b3e312dc4b11c2d527b28234005783131c4fd338c40eedef0f97"
+    },
+    {
+      "path": "assets/9361-8476.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8476-large_default/pijama-bebe-nina-entero-verano-mariposas-rosa.jpg",
+      "alt": "Pijama bebe niña entero verano mariposas Rosa",
+      "sourceId": "8476",
+      "variantIds": [],
+      "sha256": "5d75804cd02292437f2bb216b90ac00053427c570235a8ac05e309bae2a4589a"
+    },
+    {
+      "path": "assets/9361-7611.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7611-large_default/pijama-bebe-nina-entero-verano-mariposas-rosa.jpg",
+      "alt": "Pijama bebe niña entero verano mariposas Rosa",
+      "sourceId": "7611",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:44.180Z",
+  "issues": []
+}

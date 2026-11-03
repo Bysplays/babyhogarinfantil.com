@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9300",
+  "sourceUrl": "https://babyhogarinfantil.com/mantas-bebe/9300-mantitas-topos-gamberritos-80x110-rosa.html",
+  "name": "Mantitas topos gamberritos 80x110 Rosa",
+  "brand": "Gamberritos",
+  "sku": "2111115",
+  "description": "Manta muy suave y calentita de la firma GAMBERRITOS. Tamaño 80cm x 110cm",
+  "details": "Composición:\n\n100% Poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>100% Poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "765",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "765",
+  "sourceCategoryName": "Mantas Bebé",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99993",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9834XA15414",
+      "productSku": "2111115",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:14.241Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9300-7539.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7539-large_default/mantitas-topos-gamberritos-80x110-rosa.jpg",
+      "alt": "Mantitas topos gamberritos 80x110 Rosa",
+      "sourceId": "7539",
+      "variantIds": [],
+      "sha256": "4724a582a2b912e821854eebb6f3a0c9775148bb39d59fbdc8f304e8a2649eab"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:14.313Z",
+  "issues": []
+}

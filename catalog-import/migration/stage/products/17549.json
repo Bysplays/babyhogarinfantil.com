@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "17549",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/17549-albornoz-liso-azul.html",
+  "name": "Albornoz liso Azul",
+  "brand": "Rizo Basic",
+  "sku": "2205069",
+  "description": "Adéntrate en la calidez y el confort del Albornoz liso Azul. Perfecto para las noches frías de invierno, este Albornoz mima la piel del niño delicadamente. Su vibrante tono azul evoca serenidad y seguridad. Un imprescindible que hará de cada noche un momento encantador. Ideal para esos días en los que juguetón su niño se aferra al confort antes de un dulce sueño. ¡Cuide a su pequeño con el cariño que sólo el Albornoz liso Azul puede ofrecer!",
+  "details": "Suavidad y Calidad Incomparable\n\nAbraza a tu pequeño con el Albornoz liso azul, un manto de pura ternura y confort. Confeccionado con delicadeza, garantizando la suavidad para la piel sensible de tu niño. La absorción es incomparable, secando rápidamente a tu pequeño después de un alegre baño o día de natación.\n\nDiseño Azul Encantador\n\nEl diseño del Albornoz liso Azul no es solo funcional sino también estéticamente atractivo. El color azul alegre y tranquilo envuelve a tu niño en calma y felicidad. Perfecto para usar después de bañarse, nadar o simplemente para apegarse durante esas noches frescas.\n\nCómodo y de Largo Uso\n\nEl Albornoz liso Azul es ligero pero acogedor, brindando una sensación incomparable de relax a tu pequeño. La tela de alta calidad garantiza que seguirá siendo suave y absorbente incluso después de numerosos lavados. ¡Un regalo práctico y adorable para tu pequeño que seguro les encantará!\n\n¡No esperes más! Dale a tu niño la comodidad y ternura que se merece con el Albornoz liso Azul. ¡Agregalo a tu cesta de compras ahora!\n\nComposición:\n\nAlbornoz: 100% algodón.",
+  "sourceDescriptionHtml": "<h2>Suavidad y Calidad Incomparable</h2>\n<p>Abraza a tu pequeño con el Albornoz liso azul, un manto de pura ternura y confort. Confeccionado con delicadeza, garantizando la suavidad para la piel sensible de tu niño. La absorción es incomparable, secando rápidamente a tu pequeño después de un alegre baño o día de natación.</p>\n<h2>Diseño Azul Encantador</h2>\n<p>El diseño del Albornoz liso Azul no es solo funcional sino también estéticamente atractivo. El color azul alegre y tranquilo envuelve a tu niño en calma y felicidad. Perfecto para usar después de bañarse, nadar o simplemente para apegarse durante esas noches frescas.</p>\n<h2>Cómodo y de Largo Uso</h2>\n<p>El Albornoz liso Azul es ligero pero acogedor, brindando una sensación incomparable de relax a tu pequeño. La tela de alta calidad garantiza que seguirá siendo suave y absorbente incluso después de numerosos lavados. ¡Un regalo práctico y adorable para tu pequeño que seguro les encantará!</p>\n<p>¡No esperes más! Dale a tu niño la comodidad y ternura que se merece con el Albornoz liso Azul. ¡Agregalo a tu cesta de compras ahora!</p>\n<p>Composición:</p>\n<p>Albornoz: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-05-02 15:54:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "333",
+          "label": "2-4"
+        },
+        {
+          "id": "455",
+          "label": "6-8"
+        },
+        {
+          "id": "468",
+          "label": "4-6"
+        },
+        {
+          "id": "469",
+          "label": "10-12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "101727",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "333",
+          "group": "Tamaño",
+          "value": "2-4"
+        }
+      ],
+      "sku": "10351XA18571",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:37.161Z"
+    },
+    {
+      "id": "101728",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "455",
+          "group": "Tamaño",
+          "value": "6-8"
+        }
+      ],
+      "sku": "10351XC18571",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:39.090Z"
+    },
+    {
+      "id": "147690",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "468",
+          "group": "Tamaño",
+          "value": "4-6"
+        }
+      ],
+      "sku": "10351XB18571",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:41.334Z"
+    },
+    {
+      "id": "147691",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "469",
+          "group": "Tamaño",
+          "value": "10-12"
+        }
+      ],
+      "sku": "10351XD18571",
+      "productSku": "2205069",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:42.986Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17549-17060.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17060-large_default/albornoz-liso-azul.jpg",
+      "alt": "Albornoz liso Azul",
+      "sourceId": "17060",
+      "variantIds": [],
+      "sha256": "9ae202e980073fc289dd375ed3e328b3ea62027808db1fd0d3b5dbe82a61abd4"
+    },
+    {
+      "path": "assets/17549-17061.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17061-large_default/albornoz-liso-azul.jpg",
+      "alt": "Albornoz liso Azul",
+      "sourceId": "17061",
+      "variantIds": [],
+      "sha256": "1f6eba66da452ce47200249ffc18c44533fc71392117da669d1c47f27fa66794"
+    },
+    {
+      "path": "assets/17549-17062.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17062-large_default/albornoz-liso-azul.jpg",
+      "alt": "Albornoz liso Azul",
+      "sourceId": "17062",
+      "variantIds": [],
+      "sha256": "9f61294770728b306db8482f2c8f8b3c6b4be0f53236ac24a15394559f1ac4fc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:43.141Z",
+  "issues": []
+}

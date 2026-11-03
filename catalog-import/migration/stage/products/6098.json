@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "6098",
+  "sourceUrl": "https://babyhogarinfantil.com/polainas-bebe-nina/6098-polaina-lisa-perle-natural.html",
+  "name": "Polaina lisa perlé Natural",
+  "brand": "Mac Ilusión",
+  "sku": "621",
+  "description": "Polaina lisa SIN COSTURAS. En punto, perlé. Para combinar con jubones y camisitas.",
+  "details": "Composición y cuidados:\n\nPolaina: 50% algodón, 50% Acrílico Dralon.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS QUE LA LIAS.\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Polaina: 50% algodón, 50% Acrílico Dralon.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS QUE LA LIAS.</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Natural",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "672"
+  ],
+  "sourceDefaultCategoryId": "672",
+  "sourceCategoryName": "Polainas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62417",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:41.280Z"
+    },
+    {
+      "id": "62418",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:43.875Z"
+    },
+    {
+      "id": "62419",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:46.953Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6098-3959.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3959-large_default/polaina-lisa-perle-natural.jpg",
+      "alt": "Polaina lisa perlé Natural",
+      "sourceId": "3959",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    },
+    {
+      "path": "assets/6098-3958.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3958-large_default/polaina-lisa-perle-natural.jpg",
+      "alt": "Polaina lisa perlé Natural",
+      "sourceId": "3958",
+      "variantIds": [],
+      "sha256": "bcc7b8225563d3fc9f1027b54af3e1398c226e1fc109c033889830a732dfc9e2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:47.120Z",
+  "issues": []
+}

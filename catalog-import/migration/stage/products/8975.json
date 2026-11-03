@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "8975",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/8975-pepito-polipiel-rojo.html",
+  "name": "Pepito polipiel Rojo",
+  "brand": "Mayoral",
+  "sku": "2107045",
+  "description": "Zapatos badana roja de tipo pepito SIN SUELA. Calzado con forro interior y plantilla de algodón transpirable. Cierre con hebilla metálica ajustable para asegurar una adecuada sujeción del calzado.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 13.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:43",
+  "sourceUpdatedAt": "2026-10-27 11:11:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "257",
+          "label": "17"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68276",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "2107045",
+      "productSku": "2107045",
+      "taxRate": 21,
+      "price": 13.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:01.682Z"
+    },
+    {
+      "id": "81539",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "2107045",
+      "productSku": "2107045",
+      "taxRate": 21,
+      "price": 13.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:04.170Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8975-11742.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11742-large_default/pepito-polipiel-rojo.jpg",
+      "alt": "Pepito polipiel Rojo",
+      "sourceId": "11742",
+      "variantIds": [],
+      "sha256": "07197b4f43f4a7a2ca6b6a9b567fa42d94cb8831f69f5f009282760811092489"
+    },
+    {
+      "path": "assets/8975-11743.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11743-large_default/pepito-polipiel-rojo.jpg",
+      "alt": "Pepito polipiel Rojo",
+      "sourceId": "11743",
+      "variantIds": [],
+      "sha256": "b5f7ffdd921c92b048416e2fbcc0da3772dbc551c75250bf6483940deeddfba7"
+    },
+    {
+      "path": "assets/8975-11741.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11741-large_default/pepito-polipiel-rojo.jpg",
+      "alt": "Pepito polipiel Rojo",
+      "sourceId": "11741",
+      "variantIds": [],
+      "sha256": "8ccd0878159b4d738ff0eea335c7735861448c28dfa6899fc4e7ddfabe916d0c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:04.368Z",
+  "issues": []
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "21563",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/21563-jesusito-cuadros-con-lazo-rojo.html",
+  "name": "Jesusito cuadros con lazo Rojo",
+  "brand": "Baby-Ferr",
+  "sku": "2502183",
+  "description": "Jesusito de cuadros con braguita a juego. Está forrado en el interior, y se abre completamente con botones por la espalda. Puedes combinarlo con el vestido o con el\n\ntrajecito de niño.\n\nBusca aquí los leotardos que mejor te combinen Leotardos Invierno\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nJesusito:  45% poliéster, 40% algodón, 15% viscosa.\n\nForro: 67% poliéster, 33% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Jesusito: </strong> 45% poliéster, 40% algodón, 15% viscosa.</p>\n<p><strong>Forro</strong>: 67% poliéster, 33% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 39.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-05 15:53:13",
+  "sourceUpdatedAt": "2026-10-27 11:14:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97229",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502183",
+      "productSku": "2502183",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:35.121Z"
+    },
+    {
+      "id": "97230",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502183",
+      "productSku": "2502183",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:37.870Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21563-20124.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20124-large_default/jesusito-cuadros-con-lazo-rojo.jpg",
+      "alt": "Jesusito cuadros con lazo Rojo",
+      "sourceId": "20124",
+      "variantIds": [],
+      "sha256": "beae3cf64201de38ce3aa9ce6e48874e65d2e20cc4088bc7269bc541ac815897"
+    },
+    {
+      "path": "assets/21563-20125.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20125-large_default/jesusito-cuadros-con-lazo-rojo.jpg",
+      "alt": "Jesusito cuadros con lazo Rojo",
+      "sourceId": "20125",
+      "variantIds": [],
+      "sha256": "145c7a4b0132f359b8b353541e838df21ab4b527ca344198b7d97229abf34c7d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:38.063Z",
+  "issues": []
+}

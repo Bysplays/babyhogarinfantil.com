@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8305",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8305-lazo-mediano-con-coletero-gris-claro.html",
+  "name": "Lazo mediano con coletero Gris claro",
+  "brand": "Siena",
+  "sku": "2007017",
+  "description": "Lazo grosgrain de 8 x 8 cm. aproximadamnete sobre clip pico-pato de 5,5 cm. aprox.\n\nHECHO EN ESPAÑA.\n\nHECHO A MANO.",
+  "details": "La Belleza en la Simplicidad\n\nEste Lazo mediano con coletero en color Gris claro aporta la elegancia sutil y la sofisticación a la vestimenta de tu niño(a). Hecho con materiales de alta calidad, este accesorio se destaca por su diseño sobrio y minimalista, perfecto para cualquier ocasión.\n\n\nComodidad y Versatilidad\n\n El Lazo con coletero Gris claro no solo añade un toque elegante, también garantiza una sujeción firme y segura. Asegura el cabello delicadamente, permitiendo su uso durante largas horas sin causar molestias o marcas. Puede usarse para múltiples peinados y se adapta con facilidad a distintos largos y tipos de cabello.\n\n\nUn Detalle Lleno de Encanto\n\n Cada detalle cuenta cuando se trata del estilo de tus pequeños. Este Lazo mediano con coletero en Gris claro es un accesorio imprescindible que añade ese toque final perfecto al atuendo de cualquier niño(a). Es la combinación perfecta de funcionalidad y estilo, entregando siempre un aspecto pulcro y adorable.\n\n\nAtrapa este hermoso y práctico Lazo con coletero Gris claro, ¡y déjalo realzar la inocente belleza y el encanto de tus pequeños de la manera más simple y perfecta!",
+  "sourceDescriptionHtml": "<h2>La Belleza en la Simplicidad</h2>\n<p>Este Lazo mediano con coletero en color Gris claro aporta la elegancia sutil y la sofisticación a la vestimenta de tu niño(a). Hecho con materiales de alta calidad, este accesorio se destaca por su diseño sobrio y minimalista, perfecto para cualquier ocasión.</p>\n\n<h2>Comodidad y Versatilidad</h2>\n<p> El Lazo con coletero Gris claro no solo añade un toque elegante, también garantiza una sujeción firme y segura. Asegura el cabello delicadamente, permitiendo su uso durante largas horas sin causar molestias o marcas. Puede usarse para múltiples peinados y se adapta con facilidad a distintos largos y tipos de cabello.</p>\n\n<h2>Un Detalle Lleno de Encanto</h2>\n<p> Cada detalle cuenta cuando se trata del estilo de tus pequeños. Este Lazo mediano con coletero en Gris claro es un accesorio imprescindible que añade ese toque final perfecto al atuendo de cualquier niño(a). Es la combinación perfecta de funcionalidad y estilo, entregando siempre un aspecto pulcro y adorable.</p>\n\n<p><b>Atrapa este hermoso y práctico Lazo con coletero Gris claro, ¡y déjalo realzar la inocente belleza y el encanto de tus pequeños de la manera más simple y perfecta!</b></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Claro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67320",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8049XA14307",
+      "productSku": "2007017",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:37.632Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8305-8232.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8232-large_default/lazo-mediano-con-coletero-gris-claro.jpg",
+      "alt": "Lazo mediano con coletero Gris claro",
+      "sourceId": "8232",
+      "variantIds": [],
+      "sha256": "e2c445bb442c9cec96ef960100b0387f55a1eecd20503ec9852235d64611b335"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:37.712Z",
+  "issues": []
+}

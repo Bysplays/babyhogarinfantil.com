@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "9314",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nina/9314-pijama-nina-rayado-con-corazones-azul.html",
+  "name": "Pijama niña rayado con corazones Azul",
+  "brand": "Zippy",
+  "sku": "2201011",
+  "description": "Pijama de dos piezas, de manga corta y pierna corta, 100% ALGODÓN, estampado de listas celestes y corazones en marino y volantes en los acabados.",
+  "details": "Pijama de dos piezas de ZIPPY, una de nuestras firmas predilectas! 100% ALGODÓN, compuesto por camiseta de manga corta y pantalón corto, estampado de listas azul celeste y blancas con pequeños corazones azul marino. Volantes en el acabado de las mangas y perneras del pantalón, el cual tiene goma en la cintura. Un pijama fresquito, cómodo y coqueto, ideal para las noches de verano! Echa un ojito a nuestra sección de ropa interior, batas y zapatillas de casa y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nPijama corto: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pijama de dos piezas de <strong>ZIPPY</strong>, una de nuestras firmas predilectas! <strong>100% ALGODÓN</strong>, compuesto por camiseta de manga corta y pantalón corto, estampado de listas azul celeste y blancas con pequeños corazones azul marino. <strong>Volantes en el acabado</strong> de las mangas y perneras del pantalón, el cual tiene goma en la cintura. Un pijama fresquito, cómodo y coqueto, ideal para las noches de verano! Echa un ojito a nuestra sección de <strong>ropa interior, batas y zapatillas de casa</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Pijama corto: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776"
+  ],
+  "sourceDefaultCategoryId": "776",
+  "sourceCategoryName": "Pijamas niña",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68911",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2201011",
+      "productSku": "2201011",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:36.206Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9314-7555.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7555-large_default/pijama-nina-rayado-con-corazones-azul.jpg",
+      "alt": "Pijama niña rayado con corazones Azul",
+      "sourceId": "7555",
+      "variantIds": [],
+      "sha256": "1fef668da773faf15b702ef9b061cfaa9c44c374f31034c157e35eb2b5dd4570"
+    },
+    {
+      "path": "assets/9314-7556.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7556-large_default/pijama-nina-rayado-con-corazones-azul.jpg",
+      "alt": "Pijama niña rayado con corazones Azul",
+      "sourceId": "7556",
+      "variantIds": [],
+      "sha256": "08d9d50c7ce7902f527dd7b0cf991c4676760af510ca60d95976389b28db40b0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:36.314Z",
+  "issues": []
+}

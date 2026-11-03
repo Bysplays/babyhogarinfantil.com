@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "17746",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/17746-conjunto-pololo-segre-mint.html",
+  "name": "Conjunto pololo Segre Mint",
+  "brand": "Calamaro",
+  "sku": "2402014",
+  "description": "Descubre el Conjunto Pololo Segre Mint, un atuendo ideal diseñado para bebés y niños. Este conjunto de ropa de sport combina elegancia con comodidad, perfecto para sus pequeños aventureros. Su suave tela mantiene a tu bebé cómodo mientras juega. De un vibrante tono mint que hará destacar a tu pequeño en cualquier lugar. Este conjunto sport no solo te garantiza estilo, sino también calidad e durabilidad. ¡Haz clic ahora y viste a tu pequeño con el mejor estilo!",
+  "details": "Exclusividad y Comodidad: Segre Mint Pololo Set\n\nDestaca en cada evento con el Conjunto Pololo Segre Mint. Este set refleja elegancia y exclusividad, fabricado con un diseño contemporáneo que fusiona sofisticación y comodidad. Le otorgará a tu pequeño un estilo distintivo, realzando su encanto y personalidad.\n\n\nCalidad que perdura: Materiales Durables\n\nEl Conjunto Pololo Segre Mint está confeccionado con telas de alta calidad. La durabilidad y la resistencia son los pilares de este conjunto, garantizando que se mantenga intacto en el tiempo, incluso después de múltiples lavados. Su textura suave y confortante protegerá la delicada piel de tu hijo, brindándole comodidad insuperable.\n\n\nEstilo sin Esfuerzo: Conjunto Versátil\n\nEste conjunto brinda la combinación perfecta de estilo y funcionalidad. Con su color de menta fresca, el Conjunto Pololo Segre Mint es increíblemente versátil, fácil de combinar con una variedad de piezas. Ya sea que lo uses para una ocasión especial o para un día normal en el parque, este conjunto asegura que tu pequeño luzca siempre a la moda.\n\n\n¡No esperes más! Añade el Conjunto Pololo Segre Mint a tu carrito de compras ahora y da un toque de estilo único a tu pequeño.",
+  "sourceDescriptionHtml": "<h2>Exclusividad y Comodidad: Segre Mint Pololo Set</h2>\n<p>Destaca en cada evento con el Conjunto Pololo Segre Mint. Este set refleja elegancia y exclusividad, fabricado con un diseño contemporáneo que fusiona sofisticación y comodidad. Le otorgará a tu pequeño un estilo distintivo, realzando su encanto y personalidad.</p>\n\n<h2>Calidad que perdura: Materiales Durables</h2>\n<p>El Conjunto Pololo Segre Mint está confeccionado con telas de alta calidad. La durabilidad y la resistencia son los pilares de este conjunto, garantizando que se mantenga intacto en el tiempo, incluso después de múltiples lavados. Su textura suave y confortante protegerá la delicada piel de tu hijo, brindándole comodidad insuperable.</p>\n\n<h2>Estilo sin Esfuerzo: Conjunto Versátil</h2>\n<p>Este conjunto brinda la combinación perfecta de estilo y funcionalidad. Con su color de menta fresca, el Conjunto Pololo Segre Mint es increíblemente versátil, fácil de combinar con una variedad de piezas. Ya sea que lo uses para una ocasión especial o para un día normal en el parque, este conjunto asegura que tu pequeño luzca siempre a la moda.</p>\n\n<a href=\"/comprar\">¡No esperes más! Añade el Conjunto Pololo Segre Mint a tu carrito de compras ahora y da un toque de estilo único a tu pequeño.</a>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mint",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-08 23:53:16",
+  "sourceUpdatedAt": "2026-10-27 11:13:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85332",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2402014",
+      "productSku": "2402014",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:24.512Z"
+    },
+    {
+      "id": "85335",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2402014",
+      "productSku": "2402014",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:25.547Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17746-15932.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15932-large_default/conjunto-pololo-segre-mint.jpg",
+      "alt": "Conjunto pololo Segre Mint",
+      "sourceId": "15932",
+      "variantIds": [],
+      "sha256": "a38d08d19f8e308304bb1ce074305d7648f2d0455400f34e5d7dbb0ccded023b"
+    },
+    {
+      "path": "assets/17746-15933.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15933-large_default/conjunto-pololo-segre-mint.jpg",
+      "alt": "CONJUNTO POLOLO CUADROS NEGRO INVIERNO BEBE NIÑO",
+      "sourceId": "15933",
+      "variantIds": [],
+      "sha256": "6bf138b0a43f8dc908c9447e1a37c25e30e796b3e5dad9f66f24a1ca2b5f7e76"
+    },
+    {
+      "path": "assets/17746-15934.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15934-large_default/conjunto-pololo-segre-mint.jpg",
+      "alt": "Conjunto pololo Segre Mint",
+      "sourceId": "15934",
+      "variantIds": [],
+      "sha256": "781bf31bc41ae86c8c4352a7da5085e1b9cbcf400823a49a406b8c336c05281d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:25.764Z",
+  "issues": []
+}

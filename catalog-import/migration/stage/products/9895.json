@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "9895",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nina/9895-jersey-marino-papa-noel-azul-marino.html",
+  "name": "Jersey marino papa noel Azul Marino",
+  "brand": "Zippy",
+  "sku": "2208012",
+  "description": "¿Quieres sorprender a toda la familia en Navidad? Descubre el Jersey Marino Papa Noel Azul Marino. Su suave tejido mantendrá el frío alejado de tu pequeña mientras te llena de estilo festivo. Con su diseño exclusivo y detalle de Papá Noel, te cautivará con su encanto navideño. ¡No dejes escapar esta prenda única que te hará lucir increíblemente elegante durante estas fiestas!Jersey en punto para niña. Con botones en el cuello y volantes en la cenefa.",
+  "details": "Increíble Jersey Marino Papa Noel\n\nEstilo y Comodidad para tu Pequeño\n\nEste Jersey marino papa noel Azul Marino es el regalo perfecto para vestir a tu pequeña con estilo durante la temporada navideña. Sus colores vivos y el diseño clásico de Papá Noel harán que tu niño luzca adorable y festivo.\n\nCalidez en el Frío\n\nHecho con materiales de alta calidad, este jersey marino mantendrá a tu pequeña abrigada y cómoda en los días más fríos del invierno. Su suave tejido proporciona una sensación acogedora, mientras que su diseño de manga larga y cuello alto ofrece una protección adicional contra el viento y el frío.\n\nDuradero y Fácil de Cuidar\n\nEste jersey marino está diseñado para soportar el uso diario de los niños en movimiento. Su resistencia a los lavados y su durabilidad aseguran que este jersey seguirá luciendo y sintiéndose como nuevo incluso después de múltiples lavadas. Además, es fácil de lavar a máquina, lo que te ahorrará tiempo y esfuerzo.\n\nNo esperes más y dale a tu niño el regalo perfecto para esta Navidad. Compra nuestro hermoso Jersey marino papa noel Azul Marino hoy mismo y sorprende a tu pequeño con un atuendo festivo y a la moda.",
+  "sourceDescriptionHtml": "<h2>Increíble Jersey Marino Papa Noel</h2>\n<h3>Estilo y Comodidad para tu Pequeño</h3>\n<p>Este Jersey marino papa noel Azul Marino es el regalo perfecto para vestir a tu pequeña con estilo durante la temporada navideña. Sus colores vivos y el diseño clásico de Papá Noel harán que tu niño luzca adorable y festivo.</p>\n<h3>Calidez en el Frío</h3>\n<p>Hecho con materiales de alta calidad, este jersey marino mantendrá a tu pequeña abrigada y cómoda en los días más fríos del invierno. Su suave tejido proporciona una sensación acogedora, mientras que su diseño de manga larga y cuello alto ofrece una protección adicional contra el viento y el frío.</p>\n<h3>Duradero y Fácil de Cuidar</h3>\n<p>Este jersey marino está diseñado para soportar el uso diario de los niños en movimiento. Su resistencia a los lavados y su durabilidad aseguran que este jersey seguirá luciendo y sintiéndose como nuevo incluso después de múltiples lavadas. Además, es fácil de lavar a máquina, lo que te ahorrará tiempo y esfuerzo.</p>\n<p><strong>No esperes más y dale a tu niño el regalo perfecto para esta Navidad.</strong> Compra nuestro hermoso Jersey marino papa noel Azul Marino hoy mismo y sorprende a tu pequeño con un atuendo festivo y a la moda.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "727",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "727",
+  "sourceCategoryName": "Sudaderas y jerseys Bebé niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70334",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2208012",
+      "productSku": "2208012",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:25.959Z"
+    },
+    {
+      "id": "70335",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2208012",
+      "productSku": "2208012",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:27.728Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9895-12902.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12902-large_default/jersey-marino-papa-noel-azul-marino.jpg",
+      "alt": "Jersey marino papa noel Azul Marino",
+      "sourceId": "12902",
+      "variantIds": [],
+      "sha256": "8ed49ba232c9cdd36fe650a4ebfe9cf837053faf5b34a5cec1df733faf6f8a25"
+    },
+    {
+      "path": "assets/9895-12903.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12903-large_default/jersey-marino-papa-noel-azul-marino.jpg",
+      "alt": "Jersey marino papa noel Azul Marino",
+      "sourceId": "12903",
+      "variantIds": [],
+      "sha256": "9d8f44155b9373252f5cab829f139fb92e018448e213c032302b5d31b4ad426f"
+    },
+    {
+      "path": "assets/9895-12904.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12904-large_default/jersey-marino-papa-noel-azul-marino.jpg",
+      "alt": "Jersey marino papa noel Azul Marino",
+      "sourceId": "12904",
+      "variantIds": [],
+      "sha256": "fe7f1f8ec9c3d30905da0abdf877bca18c5d6d0ba04d2fd115a9351661e54c64"
+    },
+    {
+      "path": "assets/9895-12901.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12901-large_default/jersey-marino-papa-noel-azul-marino.jpg",
+      "alt": "Jersey marino papa noel Azul Marino",
+      "sourceId": "12901",
+      "variantIds": [],
+      "sha256": "641ef41ae3be481096800f0b374c619311a617ed043fc915db5f2cd41ddeb347"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:28.008Z",
+  "issues": []
+}

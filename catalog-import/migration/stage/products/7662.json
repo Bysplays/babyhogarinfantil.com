@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "7662",
+  "sourceUrl": "https://babyhogarinfantil.com/camisas-bebe-nino/7662-camisa-bebe-oxford-blanco.html",
+  "name": "Camisa bebé oxford Blanco",
+  "brand": "DR.Kid",
+  "sku": "1902246",
+  "description": "Camisa blanca de vestir para bebé, tipo OXFORD, con botones en el cuello y en los puños. Disponible en tallas grandes. HECHA EN PORTUGAL",
+  "details": "De la marca DR. KID, una de nuestras preferidas, camisa blanca de vestir, tipo OXFORD, con botones en el cuello y en los puños. Las puntas del cuello van abotonadas a la camisa. Tiene bolsillo en un lateral del pecho. Con un tejido ligero y lustroso, es una camisa perfecta para tener como fondo de armario, combinable de diversas maneras, especialmente para ir un poco más arregladito. Combínala con nuestros pantalones, cortos o algos y americanas. Disponible en tallas grandes.\n\nComposición:\n\nCamisa: 70% algodón, 30% poliéster\n\n \n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nSE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\nSECAR EN HORIZONTAL Y A LA SOMBRA",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">De la marca <strong style=\"margin:0px;padding:0px;\">DR. KID</strong>, una de nuestras preferidas, camisa blanca de vestir, tipo OXFORD, con botones en el cuello y en los puños. Las puntas del cuello van abotonadas a la camisa. Tiene bolsillo en un lateral del pecho. Con un tejido ligero y lustroso, es una camisa perfecta para tener como fondo de armario, combinable de diversas maneras, especialmente para ir un poco más arregladito. Combínala con nuestros pantalones, cortos o algos y americanas. Disponible en tallas grandes.</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición:</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Camisa: 70% algodón, 30% poliéster</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"> </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS NI BLANQUEANTES</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO SECAR EN SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">SE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">SECAR EN HORIZONTAL Y A LA SOMBRA</p>\n<p> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "677",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "677",
+  "sourceCategoryName": "Camisas Bebé niño",
+  "price": 9.98,
+  "oldPrice": 19.9529,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "82659",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1902246",
+      "productSku": "1902246",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.9529,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:22.744Z"
+    },
+    {
+      "id": "92348",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1902246",
+      "productSku": "1902246",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.9529,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:23.910Z"
+    },
+    {
+      "id": "92349",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1902246",
+      "productSku": "1902246",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.9529,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:24.970Z"
+    },
+    {
+      "id": "92350",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1902246",
+      "productSku": "1902246",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.9529,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:25.978Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7662-5663.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5663-large_default/camisa-bebe-oxford-blanco.jpg",
+      "alt": "Camisa bebé oxford Blanco",
+      "sourceId": "5663",
+      "variantIds": [],
+      "sha256": "ce145d4ad5a9212c5b0870fcded201df89b7526d46bc3ba95a485546ec50a639"
+    },
+    {
+      "path": "assets/7662-5662.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5662-large_default/camisa-bebe-oxford-blanco.jpg",
+      "alt": "Camisa bebé oxford Blanco",
+      "sourceId": "5662",
+      "variantIds": [],
+      "sha256": "e53a1af8aab7f3a37561ab06a177f9040332749f570cf449a2fc0c90363e739f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:26.131Z",
+  "issues": []
+}

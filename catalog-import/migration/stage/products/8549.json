@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8549",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/8549-pijama-terciopelo-nino-52-gris.html",
+  "name": "Pijama terciopelo niño 52 Gris",
+  "brand": "Tobogan",
+  "sku": "2011031",
+  "description": "¡Deleita a tu pequeño con el Pijama Terciopelo Niño 52 Gris! Fabricado en terciopelo suave y de lujo, esta prenda proporciona calidez y comodidad incomparables durante esas noches frías de invierno. La discreta tonalidad gris pega con todo, haciendo que este pijama sea versátil y elegante. ¡Ideal para dormir toda la noche, acurrucarse durante una peli o solo pasar un rato relajado! Mímate y haz feliz a tu pequeño - ¡compra el Pijama Terciopelo Niño 52 Gris hoy!",
+  "details": "Calidez Incomparable\n\nEl pijama de terciopelo para niños en gris, ofrece una comodidad y calidez inigualable. Este suave y cómodo atuendo es perfecto para esos días de invierno, permitiendo que tu pequeño se sienta cómodo mientras juega o descansa. Su textura aterciopelada, aporta una sensación de delicadeza única y alta calidad.\n\n\n\nDiseño Elegante y Atemporal\n\nEste pijama en color gris está diseñado con un gusto sofisticado y elegante, ideal para cualquier ocasión. Su tono neutro y atemporal, se adapta perfectamente a la personalidad de cada niño, añadiendo un toque de estilo a su armario. El pijama se mantiene siempre fresco y nuevo gracias a su resistencia al lavado, una pieza esencial que no puede faltar en el guardarropa de tu hijo.\n\n\n\nComodidad que Envuelve\n\nEl pijama terciopelo niño está fabricado cuidadosamente con materiales de alta calidad que brindan una comodidad extrema en cada pieza. Su suave terciopelo no sólo mima la piel de tu pequeño, sino que también garantiza un ajuste perfecto y transpirabilidad, para un sueño tranquilo y reparador. Este pijama es el acompañante perfecto para noches de sueño o días de jugar en casa.\n\n\n\nExiste una infinidad de opciones en el mercado, pero este pijama terciopelo niño 52 Gris, supera las expectativas en términos de calidad, durabilidad y confort. No pierdas más tiempo, dale a tu pequeño el regalo del confort supremo, haz clic en \"Agregar al carrito\" hoy mismo.",
+  "sourceDescriptionHtml": "<p><strong>Calidez Incomparable</strong><br>\nEl pijama de terciopelo para niños en gris, ofrece una comodidad y calidez inigualable. Este suave y cómodo atuendo es perfecto para esos días de invierno, permitiendo que tu pequeño se sienta cómodo mientras juega o descansa. Su textura aterciopelada, aporta una sensación de delicadeza única y alta calidad.</p><br>\n\n<p><strong>Diseño Elegante y Atemporal</strong><br>\nEste pijama en color gris está diseñado con un gusto sofisticado y elegante, ideal para cualquier ocasión. Su tono neutro y atemporal, se adapta perfectamente a la personalidad de cada niño, añadiendo un toque de estilo a su armario. El pijama se mantiene siempre fresco y nuevo gracias a su resistencia al lavado, una pieza esencial que no puede faltar en el guardarropa de tu hijo.</p><br>\n\n<p><strong>Comodidad que Envuelve</strong><br>\nEl pijama terciopelo niño está fabricado cuidadosamente con materiales de alta calidad que brindan una comodidad extrema en cada pieza. Su suave terciopelo no sólo mima la piel de tu pequeño, sino que también garantiza un ajuste perfecto y transpirabilidad, para un sueño tranquilo y reparador. Este pijama es el acompañante perfecto para noches de sueño o días de jugar en casa.</p><br>\n\n<p>Existe una infinidad de opciones en el mercado, pero este pijama terciopelo niño 52 Gris, supera las expectativas en términos de calidad, durabilidad y confort. <strong>No pierdas más tiempo, dale a tu pequeño el regalo del confort supremo, haz clic en \"Agregar al carrito\" hoy mismo.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 19.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:38",
+  "sourceUpdatedAt": "2026-10-27 11:10:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67590",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2011031",
+      "productSku": "2011031",
+      "taxRate": 21,
+      "price": 19.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:14.455Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8549-9059.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9059-large_default/pijama-terciopelo-nino-52-gris.jpg",
+      "alt": "Pijama terciopelo niño 52 Gris",
+      "sourceId": "9059",
+      "variantIds": [],
+      "sha256": "927db9d0644414a32253fc60f8a9299ad58f74ee2f8233988a3fd58ca327b71a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:14.507Z",
+  "issues": []
+}

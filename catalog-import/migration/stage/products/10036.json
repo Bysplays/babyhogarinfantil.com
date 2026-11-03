@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10036",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/10036-chaqueta-punto-volante-nina-cascanueces-granate.html",
+  "name": "Chaqueta punto volante niña cascanueces Granate",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2208163",
+  "description": "Elegancia y moda se unen en la Chaqueta Punto Volante Niña Cascanueces Granate. Con su vibrante color granate y su voluminoso volante, será la aliada perfecta para los outfits más sofisticados de tu pequeña princesa. Su cálido y lujoso tejido de punto la mantiene abrigada mientras su diseño chic le permite destacar.Única y elegante, esta prenda es el toque final para cualquier ocasión. Tenerla en el armario no es una opción, es una necesidad. ¡Irradia estilo con la Chaqueta Punto Volante Niña Cascanueces Granate!",
+  "details": "Increíble Calidad\n\nLa Chaqueta punto volante niña cascanueces Granate se caracteriza por una calidad inigualable. Fabricada con materiales de alta calidad y duraderos, esta chaqueta garantiza resistencia y durabilidad. Es la prenda de vestir perfecta para proteger a los niños del frío sin sacrificar el estilo y la elegancia.\n\n100% Acrílico\n\n\nDiseño Hermoso\n\nCon un color granate vibrante y un diseño de cascanueces actual, la Chaqueta punto volante niña cascanueces Granate es más que una simple prenda de vestir. Es una declaración de estilo. Los volantes sutiles en los extremos le añaden un toque de ternura y feminidad. Ideal para cualquier ocasión, esta chaqueta con seguridad captará muchas miradas de admiración.\n\n\nMáximo Confort\n\nLa comodidad es integral para cualquier producto para niños, y la Chaqueta punto volante niña cascanueces Granate no es la excepción. Fabricada con un tejido grueso, esta chaqueta es tan cómoda como acogedora. Con su interior suave y lujoso, su pequeña princesa estará calentita y a gusto incluso en los días más fríos del invierno.\n\n\n¡Haz Feliz a Tu Princesa!\n\n¿Por qué esperar? Compra la Chaqueta punto volante niña cascanueces Granate hoy y dale a tu princesa una chaqueta de alta calidad, elegantemente diseñada y súper cómoda. ¡Porque tu princesa merece lo mejor!",
+  "sourceDescriptionHtml": "<h2>Increíble Calidad</h2>\n<p>La <em>Chaqueta punto volante niña cascanueces Granate</em> se caracteriza por una calidad inigualable. Fabricada con materiales de alta calidad y duraderos, esta chaqueta garantiza resistencia y durabilidad. Es la prenda de vestir perfecta para proteger a los niños del frío sin sacrificar el estilo y la elegancia.</p>\n<p>100% Acrílico</p>\n<!-- Section 2: Beautiful Design -->\n<h2>Diseño Hermoso</h2>\n<p>Con un color granate vibrante y un diseño de cascanueces actual, la <em>Chaqueta punto volante niña cascanueces Granate</em> es más que una simple prenda de vestir. Es una declaración de estilo. Los volantes sutiles en los extremos le añaden un toque de ternura y feminidad. Ideal para cualquier ocasión, esta chaqueta con seguridad captará muchas miradas de admiración.</p>\n<!-- Section 3: Comfort -->\n<h2>Máximo Confort</h2>\n<p>La comodidad es integral para cualquier producto para niños, y la <em>Chaqueta punto volante niña cascanueces Granate</em> no es la excepción. Fabricada con un tejido grueso, esta chaqueta es tan cómoda como acogedora. Con su interior suave y lujoso, su pequeña princesa estará calentita y a gusto incluso en los días más fríos del invierno.</p>\n<!-- Call to Action -->\n<h2>¡Haz Feliz a Tu Princesa!</h2>\n<p>¿Por qué esperar? Compra la <em>Chaqueta punto volante niña cascanueces Granate</em> hoy y dale a tu princesa una chaqueta de alta calidad, elegantemente diseñada y súper cómoda. ¡Porque tu princesa merece lo mejor!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Granate",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70746",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2208163",
+      "productSku": "2208163",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:59.162Z"
+    },
+    {
+      "id": "70748",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2208163",
+      "productSku": "2208163",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:02.304Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10036-8093.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8093-large_default/chaqueta-punto-volante-nina-cascanueces-granate.jpg",
+      "alt": "Chaqueta punto volante niña cascanueces Granate",
+      "sourceId": "8093",
+      "variantIds": [],
+      "sha256": "edfb90b93cb22fd5b7ef1032b588890669e5be051301b2fb8c1efbaa9a54fcf1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:02.382Z",
+  "issues": []
+}

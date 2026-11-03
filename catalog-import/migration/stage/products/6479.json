@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "id": "6479",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/6479-pantalon-colegial-corto-gomas-de-4-a-10-gris-oscuro.html",
+  "name": "Pantalón colegial CORTO gomas de 4 a 10 Gris Oscuro",
+  "brand": "Ayapunt",
+  "sku": "1561929",
+  "description": "Pantalón colegial corto SIN BOTONES. Cintura ajustable con goma. Con tratamiento repelente al agua y a la grasa.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\n65% Poliester, 35% Viscosa.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>65% Poliester, 35% Viscosa.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Oscuro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "705",
+    "759",
+    "684",
+    "888",
+    "868",
+    "871",
+    "890"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:13",
+  "sourceUpdatedAt": "2026-10-27 11:08:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "143762",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1561929",
+      "productSku": "1561929",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:47.843Z"
+    },
+    {
+      "id": "143763",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1561929",
+      "productSku": "1561929",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:49.971Z"
+    },
+    {
+      "id": "143764",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1561929",
+      "productSku": "1561929",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:52.305Z"
+    },
+    {
+      "id": "143765",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1561929",
+      "productSku": "1561929",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:54.818Z"
+    },
+    {
+      "id": "143766",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1561929",
+      "productSku": "1561929",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:57.236Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6479-4443.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4443-large_default/pantalon-colegial-corto-gomas-de-4-a-10-gris-oscuro.jpg",
+      "alt": "Pantalón colegial CORTO gomas de 4 a 10 Gris Oscuro",
+      "sourceId": "4443",
+      "variantIds": [],
+      "sha256": "cb4b54ab6d45ecfbc426f39565fd741ee056f4ecc585de8313a868e0c20a13c5"
+    },
+    {
+      "path": "assets/6479-9615.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9615-large_default/pantalon-colegial-corto-gomas-de-4-a-10-gris-oscuro.jpg",
+      "alt": "Pantalón colegial CORTO gomas de 4 a 10 Gris Oscuro",
+      "sourceId": "9615",
+      "variantIds": [],
+      "sha256": "cefc39ed4ace8f5879359452095bdecf5e2daf6a72dfc8224557e53ecf04c062"
+    },
+    {
+      "path": "assets/6479-4441.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4441-large_default/pantalon-colegial-corto-gomas-de-4-a-10-gris-oscuro.jpg",
+      "alt": "Pantalón colegial CORTO gomas de 4 a 10 Gris Oscuro",
+      "sourceId": "4441",
+      "variantIds": [],
+      "sha256": "ae225ba5121ad1d83993e531022432cb2991d72b4a445a69816af931b13c4ede"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:57.486Z",
+  "issues": []
+}

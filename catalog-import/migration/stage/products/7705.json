@@ -1,0 +1,384 @@
+{
+  "schemaVersion": 1,
+  "id": "7705",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-bautizo/7705-vestido-ceremonia-plumeti-beige.html",
+  "name": "Vestido ceremonia plumeti Beige",
+  "brand": "Charo",
+  "sku": "1903073",
+  "description": "Vestido de ceremonia, con corte en la cintura. Topitos bordados en la falda y detalles de puntilla en mangas, cinturón y bajos. Cierre trasero con botones hasta media espalda y lazo ancho de organza. Tiene forro interior.",
+  "details": "Vestido de ceremonias de CREACIONES CHARO, una de nuestras firmas más especiales! De corte en la cintura, en color beige. Manga corta acabada con puntilla, al igual que los bajos de la falda y el cinturón. El pecho está decorado con finos bordados y la falda con topitos en el mismo tono. Cierre trasero con botones hasta media espalda y lazada ancha de organza. Tiene forro interior, acabado en volante y tull, lo cual ofrece mucho volumen y vuelo al vestido. Una prenda elegante y coqueta, perfecta para ocasiones especiales, eventos y ceremonias como el bautizo. Recuerda que disponemos de las velas y pañitos bordados personalizados para tal ocasión! \n\n\nComposición y cuidados:\n\nVestido: 67% algodón, 33% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Vestido de ceremonias de <strong>CREACIONES CHARO</strong>, una de nuestras firmas más especiales! De corte en la cintura, en color beige. Manga corta acabada con puntilla, al igual que los bajos de la falda y el cinturón. El pecho está decorado con finos bordados y la falda con topitos en el mismo tono. Cierre trasero con botones hasta media espalda y lazada ancha de organza. Tiene forro interior, acabado en volante y tull, lo cual ofrece mucho volumen y vuelo al vestido. Una prenda elegante y coqueta, perfecta para ocasiones especiales, eventos y ceremonias como el <strong>bautizo</strong>. <strong>Recuerda que disponemos de las velas y pañitos bordados personalizados para tal ocasión! </strong></p>\n<p><strong><br /></strong>Composición y cuidados:</p>\n<p>Vestido: 67% algodón, 33% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "814",
+    "720",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "720",
+  "sourceCategoryName": "Vestidos Bautizo",
+  "price": 39.98,
+  "oldPrice": 79.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:19",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66188",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "6321XE10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.98,
+      "oldPrice": 79.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:56.359Z"
+    },
+    {
+      "id": "146163",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "6321XA10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.97,
+      "oldPrice": 79.9447,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:58.104Z"
+    },
+    {
+      "id": "146164",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "6321XB10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.97,
+      "oldPrice": 79.9447,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:59.423Z"
+    },
+    {
+      "id": "146165",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "6321XC10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.97,
+      "oldPrice": 79.9447,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:01.207Z"
+    },
+    {
+      "id": "146166",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "6321XD10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.97,
+      "oldPrice": 79.9447,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:02.704Z"
+    },
+    {
+      "id": "146167",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "6321XF10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.97,
+      "oldPrice": 79.9447,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:04.245Z"
+    },
+    {
+      "id": "146168",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "6321XG10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.97,
+      "oldPrice": 79.9447,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:06.233Z"
+    },
+    {
+      "id": "146169",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "6321XH10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.97,
+      "oldPrice": 79.9447,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:09.143Z"
+    },
+    {
+      "id": "146170",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "6321XI10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.97,
+      "oldPrice": 79.9447,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:11.238Z"
+    },
+    {
+      "id": "146171",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "6321XJ10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.97,
+      "oldPrice": 79.9447,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:12.753Z"
+    },
+    {
+      "id": "146172",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "6321XK10631",
+      "productSku": "1903073",
+      "taxRate": 21,
+      "price": 39.97,
+      "oldPrice": 79.9447,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:14.437Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7705-10473.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10473-large_default/vestido-ceremonia-plumeti-beige.jpg",
+      "alt": "Vestido ceremonia plumeti Beige",
+      "sourceId": "10473",
+      "variantIds": [],
+      "sha256": "2e2d1feb90629e690aafedb431bcefc4a1686d88b69ec88606c99b2f2abbd93c"
+    },
+    {
+      "path": "assets/7705-10474.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10474-large_default/vestido-ceremonia-plumeti-beige.jpg",
+      "alt": "Vestido ceremonia plumeti Beige",
+      "sourceId": "10474",
+      "variantIds": [],
+      "sha256": "2545d0f96900e8e8ffdf9b05d428cb4847a0c5ed1239283406a9a6a988eaeb54"
+    },
+    {
+      "path": "assets/7705-8641.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8641-large_default/vestido-ceremonia-plumeti-beige.jpg",
+      "alt": "Vestido ceremonia plumeti Beige",
+      "sourceId": "8641",
+      "variantIds": [],
+      "sha256": "f0b06cb66bbf90b3fac762272087d03edfb7dbeb11889be39d39f179ec50644f"
+    },
+    {
+      "path": "assets/7705-8642.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8642-large_default/vestido-ceremonia-plumeti-beige.jpg",
+      "alt": "Vestido ceremonia plumeti Beige",
+      "sourceId": "8642",
+      "variantIds": [],
+      "sha256": "d2850d473d285a818520e3de2403005bd28a158f8263052738ec449861114d15"
+    },
+    {
+      "path": "assets/7705-8643.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8643-large_default/vestido-ceremonia-plumeti-beige.jpg",
+      "alt": "Vestido ceremonia plumeti Beige",
+      "sourceId": "8643",
+      "variantIds": [],
+      "sha256": "28ae52411fbdd9b9244bb3b26ca63ae70933db303e83ba28f6b186ba7a4ce116"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:14.763Z",
+  "issues": []
+}

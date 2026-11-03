@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "10315",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10315-conjunto-estampado-marinero-rojo.html",
+  "name": "Conjunto estampado marinero Rojo",
+  "brand": "Baby-Ferr",
+  "sku": "2301077",
+  "description": "'Conjunto Estampado Marinero Rojo' es la elección perfecta para ese pequeño gran héroe en casa. Imagina a tu bebé enumerando sus proezas en este adorable conjunto, evocando la brisa marítima y la aventura con su vibrante color rojo y estampado marítimo. Este conjunto no solo es increíblemente chic, sino también extremadamente cómodo, ideal para las actividades cotidianas o incluso para ocasiones especiales. ¿Por qué no permitir que tu pequeño conquiste sus propios mares con este fantástico atuendo? Fabricado con los mejores materiales para ofrecer calidad y durabilidad, este conjunto asegurará que tu bebé esté siempre listo para su próximo gran viaje. 'Conjunto Estampado Marinero Rojo': emoción y estilo, enfundado en comodidad.  HECHO EN ESPAÑA",
+  "details": "Vive la Aventura con el Conjunto Estampado Marinero Rojo\n\nExperimente la diversión del verano y las brisas marinas con nuestro encantador conjunto estampado marinero rojo. Este alegre conjunto irradia vibrantes tonalidades de rojo, con un llamativo patrón náutico que evoca inmediatamente la diversión estival y las emocionantes aventuras en la arena. Compra en línea para un verano lleno de diversión y aventuras!\n\nDiseño Cómodo y Chic\n\nSiente la frescura, la comodidad y el estilo con nuestro Conjunto estampado marinero rojo. Diseñada pensando en los pequeños, esta prenda incorpora un diseño cómodo y flexible que permite la libertad total de movimiento. Los detalles del conjunto crean un look chic y actual, perfecto para los momentos de diversión bajo el sol. Aprovecha ofertas en línea y suma estilo a su guardarropa con nuestro encantador conjunto marino!\n\nCalidad que Inspira Confianza\n\nCalidad y durabilidad son las claves de nuestro Conjunto estampado marinero Rojo. Fabricado con telas de alta calidad, garantizando una resistencia excepcional al desgaste, y manteniendo al mismo tiempo la delicada piel de los niños cómoda y fresca. Se pueden realizar pedidos en línea para disfrutar de prendas de algodón suave, respirable y amigable con la piel.\n\nExplora la colección hoy y sorprenda a los pequeños aventureros con el Conjunto Estampado Marinero Rojo que les encantará. ¡Comienza la aventura hoy!",
+  "sourceDescriptionHtml": "<h2>Vive la Aventura con el Conjunto Estampado Marinero Rojo</h2>\n<p>Experimente la diversión del verano y las brisas marinas con nuestro encantador conjunto estampado marinero rojo. Este alegre conjunto irradia vibrantes tonalidades de rojo, con un llamativo patrón náutico que evoca inmediatamente la diversión estival y las emocionantes aventuras en la arena. Compra en línea para un verano lleno de diversión y aventuras!</p>\n<h2>Diseño Cómodo y Chic</h2>\n<p>Siente la frescura, la comodidad y el estilo con nuestro Conjunto estampado marinero rojo. Diseñada pensando en los pequeños, esta prenda incorpora un diseño cómodo y flexible que permite la libertad total de movimiento. Los detalles del conjunto crean un look chic y actual, perfecto para los momentos de diversión bajo el sol. Aprovecha ofertas en línea y suma estilo a su guardarropa con nuestro encantador conjunto marino!</p>\n<h2>Calidad que Inspira Confianza</h2>\n<p>Calidad y durabilidad son las claves de nuestro Conjunto estampado marinero Rojo. Fabricado con telas de alta calidad, garantizando una resistencia excepcional al desgaste, y manteniendo al mismo tiempo la delicada piel de los niños cómoda y fresca. Se pueden realizar pedidos en línea para disfrutar de prendas de algodón suave, respirable y amigable con la piel.</p>\n<p><strong>Explora la colección hoy y sorprenda a los pequeños aventureros con el Conjunto Estampado Marinero Rojo que les encantará. ¡Comienza la aventura hoy!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 31.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:18",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71579",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301077",
+      "productSku": "2301077",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:49.516Z"
+    },
+    {
+      "id": "91784",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301077",
+      "productSku": "2301077",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:50.870Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10315-13450.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13450-large_default/conjunto-estampado-marinero-rojo.jpg",
+      "alt": "Conjunto estampado marinero Rojo",
+      "sourceId": "13450",
+      "variantIds": [],
+      "sha256": "3c3d9dba6d7441ef4bd6e3a9ba8fa20bd778c7348fd2b06e21026fa3e9ac093e"
+    },
+    {
+      "path": "assets/10315-13451.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13451-large_default/conjunto-estampado-marinero-rojo.jpg",
+      "alt": "Conjunto estampado marinero Rojo",
+      "sourceId": "13451",
+      "variantIds": [],
+      "sha256": "5f0be1c6c7d47d746946c101448ad7a66bd6382a1485c39f851cef54bf7d6fb8"
+    },
+    {
+      "path": "assets/10315-13449.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13449-large_default/conjunto-estampado-marinero-rojo.jpg",
+      "alt": "Conjunto estampado marinero Rojo",
+      "sourceId": "13449",
+      "variantIds": [],
+      "sha256": "5f2ebf1225829ca47646b1e7b4c32fbc1c5ed30b349e329977c0ac42450b6246"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:51.056Z",
+  "issues": []
+}

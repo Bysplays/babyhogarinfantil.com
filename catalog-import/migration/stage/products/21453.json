@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "id": "21453",
+  "sourceUrl": "https://babyhogarinfantil.com/anoraks-y-chalecos/21453-impermeable-ligero-nino-azul-marino.html",
+  "name": "Impermeable ligero niño Azul Marino",
+  "brand": "Chicco",
+  "sku": "2502094",
+  "description": "Impermeable ligero para niño. Ideal para uniformes escolares. Es muy ligero pero a la vez abriga.",
+  "details": "Composición:\n\nExterior: 100% poliéster.\n\nInterior: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Exterior: 100% poliéster.</p>\n<p>Interior: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "749",
+  "sourceCategoryName": "Anoraks y Chalecos",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96576",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502094",
+      "productSku": "2502094",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:33.990Z"
+    },
+    {
+      "id": "96577",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502094",
+      "productSku": "2502094",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:38.554Z"
+    },
+    {
+      "id": "96578",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502094",
+      "productSku": "2502094",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:42.185Z"
+    },
+    {
+      "id": "96579",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502094",
+      "productSku": "2502094",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:45.758Z"
+    },
+    {
+      "id": "96580",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502094",
+      "productSku": "2502094",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:50.045Z"
+    },
+    {
+      "id": "96581",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502094",
+      "productSku": "2502094",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:54.667Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21453-19950.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19950-large_default/impermeable-ligero-nino-azul-marino.jpg",
+      "alt": "Impermeable ligero niño Azul Marino",
+      "sourceId": "19950",
+      "variantIds": [],
+      "sha256": "36f16950eeabb569f43301510bd2ca0d554ac6cf6eb223fb690da0b57dd06424"
+    },
+    {
+      "path": "assets/21453-19951.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19951-large_default/impermeable-ligero-nino-azul-marino.jpg",
+      "alt": "Impermeable ligero niño Azul Marino",
+      "sourceId": "19951",
+      "variantIds": [],
+      "sha256": "ad027ffc2f63589043745f9a8f1c6e77e34c7b4dad93f9c2885b65b03a52d7e0"
+    },
+    {
+      "path": "assets/21453-19952.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19952-large_default/impermeable-ligero-nino-azul-marino.jpg",
+      "alt": "Impermeable ligero niño Azul Marino",
+      "sourceId": "19952",
+      "variantIds": [],
+      "sha256": "12ab9f11d04a0afdb5e8cc8c19fec0b9e987c7c5a21e584ddf1599cbaed675b1"
+    },
+    {
+      "path": "assets/21453-19953.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19953-large_default/impermeable-ligero-nino-azul-marino.jpg",
+      "alt": "Impermeable ligero niño Azul Marino",
+      "sourceId": "19953",
+      "variantIds": [],
+      "sha256": "30b1d2837a32dbe2f2e264eacae531c61e4b95343ba74d1daa16d88622574a45"
+    },
+    {
+      "path": "assets/21453-19954.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19954-large_default/impermeable-ligero-nino-azul-marino.jpg",
+      "alt": "Impermeable ligero niño Azul Marino",
+      "sourceId": "19954",
+      "variantIds": [],
+      "sha256": "37dbb56dbcbe9221910ce48c1279407e4c60ed8ec9e563f6c2b079fb5b1d0021"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:55.011Z",
+  "issues": []
+}

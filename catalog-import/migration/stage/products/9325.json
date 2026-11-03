@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "9325",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/9325-parka-nina-verano-rosa.html",
+  "name": "Parka niña verano Rosa",
+  "brand": "Chicco",
+  "sku": "2201019",
+  "description": "Parka cortavientos con cierre de cremallera y capucha, en color rosa. Forrada con algodón en el interior. Tiene bolsillos. Tallas bebé e infantil.",
+  "details": "Parka estilo cortavientos de la firma CHICCO. Con cierre de cremallera oculta delantera. Tiene capucha y bolsillos. En color rojo. Acabado elástico en puños y cinturilla, para un mejor ajuste. Completamente forrado de 100% algodón, exterior 100% Poliéster, en color gris a contraste. Una prenda cómoda, ligera y perfecta para entretiempo! Echa un ojito a nuestra sección de ropa interior, calcetines y calzado y podrás completarla hasta el mínimo detalle!",
+  "sourceDescriptionHtml": "<p>Parka estilo cortavientos de la firma <strong>CHICCO.</strong> Con cierre de cremallera oculta delantera. Tiene capucha y bolsillos. En color rojo. Acabado elástico en puños y cinturilla, para un mejor ajuste.<strong> Completamente forrado de 100% algodón, exterior 100% Poliéster,</strong> en color gris a contraste. Una prenda cómoda, ligera y perfecta para entretiempo! Echa un ojito a nuestra sección de <strong>ropa interior, calcetines y calzado</strong> y podrás completarla hasta el mínimo detalle!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "728"
+  ],
+  "sourceDefaultCategoryId": "728",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68959",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2201019",
+      "productSku": "2201019",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:36.682Z"
+    },
+    {
+      "id": "68966",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2201019",
+      "productSku": "2201019",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:38.395Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9325-7568.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7568-large_default/parka-nina-verano-rosa.jpg",
+      "alt": "Parka niña verano Rosa",
+      "sourceId": "7568",
+      "variantIds": [],
+      "sha256": "5eea1acd3f5c5a93ffd35779b36454a80449d1293a86dbdf99044c96b3185b1f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:38.468Z",
+  "issues": []
+}

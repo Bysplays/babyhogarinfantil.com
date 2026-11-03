@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16916",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nina/16916-conjunto-sudadera-corazones-y-leggin-gris.html",
+  "name": "Conjunto sudadera corazones y leggin Gris",
+  "brand": "Talaman",
+  "sku": "2309151",
+  "description": "Conjunto de leggins y sudadera afelpada con capucha.",
+  "details": "Composición:\n\nSudadera: 73% Algodón, 20% Poliéster, 5% Elastano y 2% Viscosa\n\nLegging: 75% Algodón, 20% Poliéster y 5% Elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Sudadera: 73% Algodón, 20% Poliéster, 5% Elastano y 2% Viscosa</p>\n<p>Legging: 75% Algodón, 20% Poliéster y 5% Elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "755",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "755",
+  "sourceCategoryName": "Conjuntos Niña",
+  "price": 31.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-10-10 15:53:07",
+  "sourceUpdatedAt": "2026-10-27 11:13:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "80212",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2309151",
+      "productSku": "2309151",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:42.836Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16916-14579.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14579-large_default/conjunto-sudadera-corazones-y-leggin-gris.jpg",
+      "alt": "Conjunto sudadera corazones y leggin Gris",
+      "sourceId": "14579",
+      "variantIds": [],
+      "sha256": "9249e5a84c64067969799dcc6da5f4344b8a6684dff6a3a0fa452300cc68fb09"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:42.886Z",
+  "issues": []
+}

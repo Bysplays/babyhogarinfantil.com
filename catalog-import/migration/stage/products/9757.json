@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "9757",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/9757-conjunto-pololo-sinus-azul.html",
+  "name": "Conjunto pololo sinus Azul",
+  "brand": "Calamaro",
+  "sku": "2207001",
+  "description": "Experimenta la alegría de vestir a la pequeña princesa con el encantador y atractivo Conjunto Pololo Sinus Azul. Este conjunto de alta calidad mezcla estilo y confort, ofreciendo un atractivo visual sin comprometer la comodidad. Su niña lucirá adorable, recibiendo complacidos elogios donde quiera que vaya. La tela suave al tacto y amigable con la piel protege la delicadeza de su piel mientras proporciona flexibilidad para juegos y movimientos. Luzca este Conjunto Pololo Sinus Azul, un toque de magia en cada uso.",
+  "details": "El Encanto del Color Azul\n\nEl Conjunto Pololo Sinus Azul irradia el encanto y la tranquilidad del color azul. Transforma cualquier día en uno mágico con ese tono azul tan adorado por todos. El conjunto es una opción perfecta para sumar alegría a su armario. Cada prenda del conjunto ha sido cuidadosamente diseñada para garantizar su durabilidad y resistencia, mientras le da a tu pequeño un aspecto elegante pero juguetón.\n\nComodidad que Su Bebé Merece\n\nEl conjunto Pololo Sinus Azul no sólo es hermoso a la vista, sino también increíblemente cómodo. Se ha fabricado con materiales de alta calidad que son suaves al tacto, asegurando la máxima comodidad para el bebé. Este conjunto pololo es perfecto para días calurosos o para eventos especiales, proporcionando a su pequeño la libertad de moverse con facilidad sin comprometer su comodidad.\n\nElegancia sin Esfuerzo\n\n¿Quién dijo que la elegancia y el estilo están reservados para los adultos? El Conjunto Pololo Sinus Azul es una prueba de que se puede ser elegante a cualquier edad. Con detalles sencillos pero llamativos, este conjunto ofrece una fórmula infalible para mantener a su pequeño a la última moda, sin sacrificar su comodidad.\n\nNo deje escapar esta oportunidad. Vuele la imaginación de su niño con este maravilloso Conjunto Pololo Sinus Azul. ¡Haga su pedido hoy mismo!\n\nComposición y cuidados:\n\nJersey: 80% algodón, 20% poliéster.\n\nRanita: 100% algodón.\n\nNO USAR SECADORA\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<h2>El Encanto del Color Azul</h2>\n<p>El Conjunto Pololo Sinus Azul irradia el encanto y la tranquilidad del color azul. Transforma cualquier día en uno mágico con ese tono azul tan adorado por todos. El conjunto es una opción perfecta para sumar alegría a su armario. Cada prenda del conjunto ha sido cuidadosamente diseñada para garantizar su durabilidad y resistencia, mientras le da a tu pequeño un aspecto elegante pero juguetón.</p>\n<h2>Comodidad que Su Bebé Merece</h2>\n<p>El conjunto Pololo Sinus Azul no sólo es hermoso a la vista, sino también increíblemente cómodo. Se ha fabricado con materiales de alta calidad que son suaves al tacto, asegurando la máxima comodidad para el bebé. Este conjunto pololo es perfecto para días calurosos o para eventos especiales, proporcionando a su pequeño la libertad de moverse con facilidad sin comprometer su comodidad.</p>\n<h2>Elegancia sin Esfuerzo</h2>\n<p>¿Quién dijo que la elegancia y el estilo están reservados para los adultos? El Conjunto Pololo Sinus Azul es una prueba de que se puede ser elegante a cualquier edad. Con detalles sencillos pero llamativos, este conjunto ofrece una fórmula infalible para mantener a su pequeño a la última moda, sin sacrificar su comodidad.</p>\n<p>No deje escapar esta oportunidad. Vuele la imaginación de su niño con este maravilloso Conjunto Pololo Sinus Azul. ¡Haga su pedido hoy mismo!</p>\n<p>Composición y cuidados:</p>\n<p>Jersey: 80% algodón, 20% poliéster.</p>\n<p>Ranita: 100% algodón.</p>\n<p>NO USAR SECADORA</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69922",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2207001",
+      "productSku": "2207001",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:49.578Z"
+    },
+    {
+      "id": "69924",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2207001",
+      "productSku": "2207001",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:53.183Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9757-7935.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7935-large_default/conjunto-pololo-sinus-azul.jpg",
+      "alt": "Conjunto pololo sinus Azul",
+      "sourceId": "7935",
+      "variantIds": [],
+      "sha256": "3661ae0b57e0c2fa6f946ca58761eee226d39d78d9d3357b18fedfa061f34817"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:53.261Z",
+  "issues": []
+}

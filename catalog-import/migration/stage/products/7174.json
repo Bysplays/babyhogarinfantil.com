@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "7174",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-pom-pom/7174-calcetin-alto-perle-con-borlas-nata.html",
+  "name": "Calcetín alto perlé con borlas Nata",
+  "brand": "Condor",
+  "sku": "1803052",
+  "description": "Calcetines altos en color NATA (blanco roto) para bebé fabricados en 100% algodón perlé, con pom-pom a tono.",
+  "details": "Composici&oacute;n:\n\r\n100% ALGODON.",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n:</p>\r\n<p>100% ALGODON.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nata",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "686",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "686",
+  "sourceCategoryName": "Calcetines con pom-pom",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-27 11:09:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65184",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "1803052",
+      "productSku": "1803052",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:29.865Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7174-5144.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5144-large_default/calcetin-alto-perle-con-borlas-nata.jpg",
+      "alt": "Calcetín alto perlé con borlas Nata",
+      "sourceId": "5144",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/7174-10064.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10064-large_default/calcetin-alto-perle-con-borlas-nata.jpg",
+      "alt": "Calcetín alto perlé con borlas Nata",
+      "sourceId": "10064",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/7174-5145.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5145-large_default/calcetin-alto-perle-con-borlas-nata.jpg",
+      "alt": "Calcetín alto perlé con borlas Nata",
+      "sourceId": "5145",
+      "variantIds": [],
+      "sha256": "ab26da61375ccfea3c44cc57edff9410c6728468ef0dbbcf4ecbaecb9eadee86"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:29.999Z",
+  "issues": []
+}

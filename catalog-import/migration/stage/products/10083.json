@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "10083",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/10083-cardigan-pelo-con-capucha-bebe-arena.html",
+  "name": "Cardigan pelo con capucha bebe Arena",
+  "brand": "Chicco",
+  "sku": "2208196",
+  "description": "Envuelva a su pequeño en la cálida comodidad del Cardigan Pelo con Capucha Bebé Arena. Este acogedor cardigan de alta calidad, especialmente diseñado para nuestra tienda de ropa para bebé y niños, se convierte en la opción ideal para el frescor del otoño. Tejida con amor y atención al detalle, esta prenda ofrece calor incomparable. Su elegante color arena agrega sutileza y estilo a los armarios infantiles. Imagina esos pequeños paseos iluminados por la sonrisa de tu bebé, contento y abrigado. ¡No esperes más! Añade este cardigan a tu cesta de compra.",
+  "details": "Comodidad y Calidez Inigualable\n\nEl Cardigan pelo con capucha bebé Arena ofrece a su pequeño una comodidad sin igual, enriquecida con forro polar suave que añade una adorabilidad infinita a la apariencia de cualquier bebé. Ideal para preservar la calidez de su pequeño durante la temporada de invierno.\n\nEstilo y Funcionalidad\n\nEl color Arena del cardigan lo convierte en una opción de vestimenta versátil que puede combinarse con diferentes conjuntos. Esta prenda imprescindible brinda estilo y funcionalidad con su capucha incorporada, protegiendo a tu bebé de los vientos fríos al mismo tiempo.\n\nCalidad Durable y Asequible\n\nFabricado con materiales de alta calidad, el Cardigan pelo con capucha bebé Arena es a la par durable y asequible. Esta prenda sigue siendo esponjosa y cómoda después de sucesivos lavados, garantizando que su pequeño estará siempre cómodo y abrigado.\n\n¡No pierdas la oportunidad de adquirir este Cardigan pelo con capucha bebé Arena! Su pequeño merece lo mejor, y esta prenda es sin duda una adquisición excelente que brinda comodidad y calidez en los días fríos. Haz clic aquí para hacer su pedido hoy mismo.\n\nComposición:\n\nCardigan: 100% poliéster..\n\nForro: 100% poliéster.\n\nNo usar secadora.\n\nNo usar lejias.",
+  "sourceDescriptionHtml": "<h2>Comodidad y Calidez Inigualable</h2>\n<p>El Cardigan pelo con capucha bebé Arena ofrece a su pequeño una comodidad sin igual, enriquecida con forro polar suave que añade una adorabilidad infinita a la apariencia de cualquier bebé. Ideal para preservar la calidez de su pequeño durante la temporada de invierno.</p>\n<h2>Estilo y Funcionalidad</h2>\n<p>El color Arena del cardigan lo convierte en una opción de vestimenta versátil que puede combinarse con diferentes conjuntos. Esta prenda imprescindible brinda estilo y funcionalidad con su capucha incorporada, protegiendo a tu bebé de los vientos fríos al mismo tiempo.</p>\n<h2>Calidad Durable y Asequible</h2>\n<p>Fabricado con materiales de alta calidad, el Cardigan pelo con capucha bebé Arena es a la par durable y asequible. Esta prenda sigue siendo esponjosa y cómoda después de sucesivos lavados, garantizando que su pequeño estará siempre cómodo y abrigado.</p>\n<p><strong>¡No pierdas la oportunidad de adquirir este Cardigan pelo con capucha bebé Arena! Su pequeño merece lo mejor, y esta prenda es sin duda una adquisición excelente que brinda comodidad y calidez en los días fríos. <a href=\"#\">Haz clic aquí</a> para hacer su pedido hoy mismo.</strong></p>\n<p>Composición:</p>\n<p>Cardigan: 100% poliéster..</p>\n<p>Forro: 100% poliéster.</p>\n<p>No usar secadora.</p>\n<p>No usar lejias.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Arena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 32.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70841",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2208196",
+      "productSku": "2208196",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:21.092Z"
+    },
+    {
+      "id": "70842",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2208196",
+      "productSku": "2208196",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:24.182Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10083-13228.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13228-large_default/cardigan-pelo-con-capucha-bebe-arena.jpg",
+      "alt": "Cardigan pelo con capucha bebe Arena",
+      "sourceId": "13228",
+      "variantIds": [],
+      "sha256": "bf796b8942cac356fb9f6bcf29c21ce10a8d51e183f5fa62b8f33a98d5cada23"
+    },
+    {
+      "path": "assets/10083-13227.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13227-large_default/cardigan-pelo-con-capucha-bebe-arena.jpg",
+      "alt": "Cardigan pelo con capucha bebe Arena",
+      "sourceId": "13227",
+      "variantIds": [],
+      "sha256": "3622e23468a7c8c2f253e8b313f0801fbfb6c323ca27cbc61f4fbcbdce956c4c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:24.362Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10022",
+  "sourceUrl": "https://babyhogarinfantil.com/sacos-silla-capazo-y-grupo-0/10022-saco-arrullo-pelo-nuez.html",
+  "name": "Saco arrullo pelo Nuez",
+  "brand": "Mac Ilusión",
+  "sku": "2208155",
+  "description": "Descubre el encanto irresistible del Saco arrullo pelo Nuez, la forma más sofisticada y acogedora de mantener a tu pequeño abrigado. Confeccionado con la máxima atención al detalle, este saco no solo ofrece un calor insuperable, sino también un diseño elegante que atrae todas las miradas. Su suave revestimiento de pelo proporciona una maravillosa sensación de confort, convirtiéndolo en una elección ideal para los paseos otoñales o invernales. Este saco tiene la capacidad de evocar momentos de alegría compartidos. No hay nada comparable a ver a tu pequeño descansando tranquilo y seguro en este nido de amor y calidez. Deja que el Saco arrullo pelo Nuez añada un toque de elegancia a tu cochecito de bebé mientras brinda a tu pequeño el descanso que se merece.",
+  "details": "Envuelve a tu pequeño en suavidad\n\nDescubre la belleza y la comodidad del Saco arrullo pelo Nuez. Confeccionado con los materiales más suaves, este saco proporciona un abrazo cálido y cómodo para tu bebé. Su elegante color nuez se integra perfectamente en cualquier habitación, otorgándole un toque refinado y acogedor. El sueño agradable de tu bebé está a solo un arrullo de distancia.\n\nCalidad excepcional que satisface\n\nEl Saco arrullo pelo Nuez es la definición de la calidad superior. Usamos solo los tejidos más delicados cuidadosamente seleccionados pensando en la piel sensible del bebé. Fabricado con atención hasta el último detalle, este saco se mantiene suave y atractivo incluso después de repetidas lavadas. Proporciona a tu bebé seguridad y comodidad con este saco de arrullo de excelente calidad.\n\nComodidad y estilo, todo en uno\n\nEl diseño innovador del Saco arrullo pelo Nuez garantiza que tu bebé se mantenga confortable toda la noche. El interior acogedor abraza a tu bebé manteniéndolo cálido, mientras que el exterior elegante se asegura de que tu pequeño siempre luzca lo mejor posible. Comodidad y estilo, el Saco arrullo pelo Nuez te lo da todo.\n\nEnvuelve a tu bebé en comodidad hoy mismo. Haz clic en \"Agregar al carrito\" y proporciona a tu bebé la suavidad que se merece con el Saco arrullo pelo Nuez.",
+  "sourceDescriptionHtml": "<h2>Envuelve a tu pequeño en suavidad</h2>\n<p>Descubre la belleza y la comodidad del Saco arrullo pelo Nuez. Confeccionado con los materiales más suaves, este saco proporciona un abrazo cálido y cómodo para tu bebé. Su elegante color nuez se integra perfectamente en cualquier habitación, otorgándole un toque refinado y acogedor. El sueño agradable de tu bebé está a solo un arrullo de distancia.</p>\n<h2>Calidad excepcional que satisface</h2>\n<p>El Saco arrullo pelo Nuez es la definición de la calidad superior. Usamos solo los tejidos más delicados cuidadosamente seleccionados pensando en la piel sensible del bebé. Fabricado con atención hasta el último detalle, este saco se mantiene suave y atractivo incluso después de repetidas lavadas. Proporciona a tu bebé seguridad y comodidad con este saco de arrullo de excelente calidad.</p>\n<h2>Comodidad y estilo, todo en uno</h2>\n<p>El diseño innovador del Saco arrullo pelo Nuez garantiza que tu bebé se mantenga confortable toda la noche. El interior acogedor abraza a tu bebé manteniéndolo cálido, mientras que el exterior elegante se asegura de que tu pequeño siempre luzca lo mejor posible. Comodidad y estilo, el Saco arrullo pelo Nuez te lo da todo.</p>\n<p>Envuelve a tu bebé en comodidad hoy mismo. Haz clic en \"Agregar al carrito\" y proporciona a tu bebé la suavidad que se merece con el Saco arrullo pelo Nuez.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nuez",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "801"
+  ],
+  "sourceDefaultCategoryId": "801",
+  "sourceCategoryName": "Sacos silla capazo y grupo 0",
+  "price": 52.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:56",
+  "sourceUpdatedAt": "2026-10-27 11:12:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70722",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10641XA16508",
+      "productSku": "2208155",
+      "taxRate": 21,
+      "price": 52.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:11.478Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10022-8082.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8082-large_default/saco-arrullo-pelo-nuez.jpg",
+      "alt": "Saco arruyo pelo Nuez",
+      "sourceId": "8082",
+      "variantIds": [],
+      "sha256": "5af2c283ac8712e60dd8695800b801c493fe36849df16becfed1c502e8c82b3a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:11.521Z",
+  "issues": []
+}

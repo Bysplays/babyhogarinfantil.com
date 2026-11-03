@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": "10068",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/10068-trenka-punto-con-forro-gris.html",
+  "name": "Trenka punto con forro Gris",
+  "brand": "Mayoral",
+  "sku": "2208179",
+  "description": "Elige la calidad y la calidez con este elegante Trenka punto con forro Gris, una prenda indispensable para el invierno. Diseñado en detalle, esta chaqueta brinda perfecta comodidad a los peques, sin que sientan ningún impedimento en sus juguetones movimientos. El color neutro la hará a juego con cualquier atuendo, mientras la suave textura cuida la delicada piel de los niños. ¡Regala el amor tangible a través de esta prenda, y observa las sonrisas florecer bajo el cálido abrigo gris! Moda y cuidado, todo junto en esta chaqueta.",
+  "details": "`\nEstilo Sofisticado\n \n El Trenka punto con forro gris no es simplemente una prenda para abrigarse, es el toque sofisticado perfecto para el armario de cualquier niño. Este abrigo, confeccionado con materiales de alta calidad y lo último en moda infantil, añade un toque de elegancia a cualquier conjunto invernal. \n\n\nConfort sin igual\n\n Con su suave forro, este Trenka punto asegura una comodidad excepcional para los pequeños, incluso en los días más frescos. El diseño considerado hace que poner y quitar el abrigo sea fácil y rápido, permitiendo más tiempo para la diversión en los días invernales. \n\n\n Durabilidad demostrada \n\n La durabilidad es siempre una consideración importante en la ropa de los niños, y este Trenka punto cumple esa necesidad. Este abrigo está confeccionado para resistir las aventuras de los más pequeños, ofreciendo una durabilidad excepcional sin sacrificar la apariencia ni la comodidad.\n\n\n No espere más, dele a su pequeño el regalo del estilo y el calor este invierno con este impresionante Trenka punto con forro Gris. ¡Compre ahora!\n`",
+  "sourceDescriptionHtml": "<p></p><p>`</p><h2>Estilo Sofisticado</h2> \n <p> El Trenka punto con forro gris no es simplemente una prenda para abrigarse, es el toque sofisticado perfecto para el armario de cualquier niño. Este abrigo, confeccionado con materiales de alta calidad y lo último en moda infantil, añade un toque de elegancia a cualquier conjunto invernal. </p>\n\n<h2>Confort sin igual</h2>\n <p> Con su suave forro, este Trenka punto asegura una comodidad excepcional para los pequeños, incluso en los días más frescos. El diseño considerado hace que poner y quitar el abrigo sea fácil y rápido, permitiendo más tiempo para la diversión en los días invernales. </p>\n\n<h2> Durabilidad demostrada </h2>\n <p> La durabilidad es siempre una consideración importante en la ropa de los niños, y este Trenka punto cumple esa necesidad. Este abrigo está confeccionado para resistir las aventuras de los más pequeños, ofreciendo una durabilidad excepcional sin sacrificar la apariencia ni la comodidad.</p>\n\n<p> No espere más, dele a su pequeño el regalo del estilo y el calor este invierno con este impresionante Trenka punto con forro Gris. ¡Compre ahora!</p>`",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70794",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2208179",
+      "productSku": "2208179",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:17.901Z"
+    },
+    {
+      "id": "70795",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2208179",
+      "productSku": "2208179",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:20.684Z"
+    },
+    {
+      "id": "70797",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2208179",
+      "productSku": "2208179",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:22.964Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10068-13193.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13193-large_default/trenka-punto-con-forro-gris.jpg",
+      "alt": "Trenka punto con forro Gris",
+      "sourceId": "13193",
+      "variantIds": [],
+      "sha256": "b9f3f9e43750edbfc51bfa2bece4546e23e61810a3107a8979d7f21cd8105904"
+    },
+    {
+      "path": "assets/10068-13194.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13194-large_default/trenka-punto-con-forro-gris.jpg",
+      "alt": "Trenka punto con forro Gris",
+      "sourceId": "13194",
+      "variantIds": [],
+      "sha256": "6ef1a55a2a169ada2ec966fad4a22be7581afc9968a24acca37672cab30537e7"
+    },
+    {
+      "path": "assets/10068-8951.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8951-large_default/trenka-punto-con-forro-gris.jpg",
+      "alt": "Trenka punto con forro Gris",
+      "sourceId": "8951",
+      "variantIds": [],
+      "sha256": "5cd221ad9a1aa4944d52bd31652145945891a4c62a2090103672da25a8eb8aef"
+    },
+    {
+      "path": "assets/10068-8952.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8952-large_default/trenka-punto-con-forro-gris.jpg",
+      "alt": "Trenka punto con forro Gris",
+      "sourceId": "8952",
+      "variantIds": [],
+      "sha256": "10617afa1bdc38bd144c80a5069344316af150da1e8acc6dc300f84c6330cbe5"
+    },
+    {
+      "path": "assets/10068-8953.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8953-large_default/trenka-punto-con-forro-gris.jpg",
+      "alt": "Trenka punto con forro Gris",
+      "sourceId": "8953",
+      "variantIds": [],
+      "sha256": "0ab7063e34460ae660c28f3b22cf8f6f41f8445355d5f2957c1e2dbd8e835af2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:23.253Z",
+  "issues": []
+}

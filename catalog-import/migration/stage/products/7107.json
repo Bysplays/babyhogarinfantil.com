@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "7107",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/7107-chaqueta-bebe-punto-fino-larga-rojo.html",
+  "name": "Chaqueta bebé punto fino larga Rojo",
+  "brand": "Mac Ilusión",
+  "sku": "1802113",
+  "description": "Chaqueta larga en perlé para veranito. Con manga larga menguada, y punto lis (punto del revés). Con un solo botón.",
+  "details": "Composición:\n\nChaqueta: 100% acrílico Dralon BAYER antialérgico.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS QUE LA LIAS.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 100% acrílico Dralon BAYER antialérgico.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS QUE LA LIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 9.48,
+  "oldPrice": 18.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65031",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1802113",
+      "productSku": "1802113",
+      "taxRate": 21,
+      "price": 9.48,
+      "oldPrice": 18.95,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:43.972Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7107-9979.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9979-large_default/chaqueta-bebe-punto-fino-larga-rojo.jpg",
+      "alt": "Chaqueta bebé punto fino larga Rojo",
+      "sourceId": "9979",
+      "variantIds": [],
+      "sha256": "a795a4b46f73481d3146e99aecd1ae8f552cba9d0e037a2a7cb9a093d2026b42"
+    },
+    {
+      "path": "assets/7107-9980.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9980-large_default/chaqueta-bebe-punto-fino-larga-rojo.jpg",
+      "alt": "Chaqueta bebé punto fino larga Rojo",
+      "sourceId": "9980",
+      "variantIds": [],
+      "sha256": "f2b8c7af3e855e986767a0be07648403f2f7f32f26a9e4f41cd213f84f692423"
+    },
+    {
+      "path": "assets/7107-9981.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9981-large_default/chaqueta-bebe-punto-fino-larga-rojo.jpg",
+      "alt": "Chaqueta bebé punto fino larga Rojo",
+      "sourceId": "9981",
+      "variantIds": [],
+      "sha256": "f573e003f128e22be90ab77a0f49ae2b69133fc43b9bdf6378fe01a34b1c4760"
+    },
+    {
+      "path": "assets/7107-5027.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5027-large_default/chaqueta-bebe-punto-fino-larga-rojo.jpg",
+      "alt": "Chaqueta bebé punto fino larga Rojo",
+      "sourceId": "5027",
+      "variantIds": [],
+      "sha256": "b6d4e9dcd6274e1eec9beaeeb0431c2ff6b3966e890fbe89ffcf1b7bd28f77b1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:44.243Z",
+  "issues": []
+}

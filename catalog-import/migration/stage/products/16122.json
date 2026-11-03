@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "16122",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/16122-pantalon-colegial-corto-todo-goma-2-a-12-gris-oscuro.html",
+  "name": "Pantalón colegial CORTO todo goma 2 a 12 Gris Oscuro",
+  "brand": "Taracido",
+  "sku": "1005",
+  "description": "Pantalón escolar corto, cintura toda de goma, sin botón, y dobladillo en el bajo.\n\nComposición:\n\nPantalón: 65% poliéster 35% viscosa.\n\nHECHO EN ESPAÑA",
+  "details": "Composición y cuidados:\n\nPantalón: 65% poliéster, 35% viscosa\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)\n\nFABRICADO EN GALICIA\n\nFEITO EN GALIZA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pantalón: 65% poliéster, 35% viscosa</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)</p>\n<p><strong>FABRICADO EN GALICIA</strong></p>\n<p><strong>FEITO EN GALIZA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Oscuro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "705",
+    "684",
+    "888",
+    "878",
+    "871"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 26.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:28:44",
+  "sourceUpdatedAt": "2026-10-27 11:08:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 9,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62924",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1005",
+      "productSku": "1005",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:53.397Z"
+    },
+    {
+      "id": "83545",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1005",
+      "productSku": "1005",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:55.314Z"
+    },
+    {
+      "id": "84086",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1005",
+      "productSku": "1005",
+      "taxRate": 21,
+      "price": 26.5,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:57.520Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16122-18493.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18493-large_default/pantalon-colegial-corto-todo-goma-2-a-12-gris-oscuro.jpg",
+      "alt": "Pantalón colegial CORTO todo goma 2 a 12 Gris Oscuro",
+      "sourceId": "18493",
+      "variantIds": [],
+      "sha256": "0ea1165c6a917654e1d8afad73b543d0cddcff140e15014b610646a896f578e1"
+    },
+    {
+      "path": "assets/16122-18494.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18494-large_default/pantalon-colegial-corto-todo-goma-2-a-12-gris-oscuro.jpg",
+      "alt": "Pantalón colegial CORTO todo goma 2 a 12 Gris Oscuro",
+      "sourceId": "18494",
+      "variantIds": [],
+      "sha256": "f55fc8456f509fa86f39d7f02157c73548f00ed48d739c23e9f04b53f8b0093b"
+    },
+    {
+      "path": "assets/16122-18495.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18495-large_default/pantalon-colegial-corto-todo-goma-2-a-12-gris-oscuro.jpg",
+      "alt": "Pantalón colegial CORTO todo goma 2 a 12 Gris Oscuro",
+      "sourceId": "18495",
+      "variantIds": [],
+      "sha256": "f5cfba4b6c7964c9a2de9527718b0de4b97364cada0ad9646c5bb32d5f3cc032"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:33:57.740Z",
+  "issues": []
+}

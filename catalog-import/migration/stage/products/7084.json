@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "7084",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/7084-vestido-ceremonia-tull-rosa.html",
+  "name": "Vestido ceremonia tull Rosa",
+  "brand": "Anavig",
+  "sku": "1802000",
+  "description": "Vestido de ceremonia en color rosa palo con tul en crudo con topitos superpuesto y detalles de puntilla. Cinturón beige con lazada trasera. Detalle floral con imperdible. Cierre trasero con botones. HECHO EN ESPAÑA",
+  "details": "Vestido de ceremonia con escote cuadrado y asas anchas, en color rosa palo con fina capa de tul con pequeños topitos en crudo superpuesta. Detalles de puntilla en beige en el pecho, asas y bajos. Cinturón con lazada trasera y adorno floral, el cual tiene imperdible por lo que se puede poner, quitar o cambiar de sitio. Escote de la espalda ligeramente pronunciado. Cierre trasero con botones. Completamente forrado en el interior. El forro está rematado con volantes de organza que otorgan mayor volumen, vuelo y movimiento a la falda. Una prenda elegante y delicada, en tonos suaves, tejido ligero, con cuerpo y caída, ideal para eventos y ceremonias! Echa un ojito a nuestro calzado, chaquetas de perlé y calcetines y acceosorios para el pelo y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nVestido. 56% poliéster, 44% algodón\n\nNO LAVAR A MANO\n\nNO DEJAR EN REMOJO \n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Vestido de <strong>ceremonia</strong> con escote cuadrado y asas anchas, en color rosa palo con fina capa de<strong> tul con pequeños topitos en crudo</strong> superpuesta. Detalles de puntilla en beige en el pecho, asas y bajos. Cinturón con lazada trasera y<strong> adorno floral</strong>, el cual tiene imperdible por lo que se puede poner, quitar o cambiar de sitio. Escote de la espalda ligeramente pronunciado. Cierre trasero con botones. Completamente forrado en el interior. El forro está rematado con volantes de organza que otorgan mayor volumen, vuelo y movimiento a la falda. Una prenda elegante y delicada, en tonos suaves, tejido ligero, con cuerpo y caída, ideal para eventos y ceremonias! Echa un ojito a nuestro <strong>calzado, chaquetas de perlé y calcetines y acceosorios para el pelo</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Vestido. 56% poliéster, 44% algodón</p>\n<p>NO LAVAR A MANO</p>\n<p>NO DEJAR EN REMOJO </p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2018",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823",
+    "729"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 32.48,
+  "oldPrice": 64.9528,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64968",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1802000",
+      "productSku": "1802000",
+      "taxRate": 21,
+      "price": 32.48,
+      "oldPrice": 64.9528,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:24.071Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7084-9952.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9952-large_default/vestido-ceremonia-tull-rosa.jpg",
+      "alt": "Vestido ceremonia tull Rosa",
+      "sourceId": "9952",
+      "variantIds": [],
+      "sha256": "5bb5cc41ec0c1f7239c4235bf783dbba81629d731a651989f2e47ff8fc686ce2"
+    },
+    {
+      "path": "assets/7084-9951.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9951-large_default/vestido-ceremonia-tull-rosa.jpg",
+      "alt": "Vestido ceremonia tull Rosa",
+      "sourceId": "9951",
+      "variantIds": [],
+      "sha256": "dbcd3c0e7a2480cdb4727f98a52f8291d24c0787509d519a9620fe64631fc5c1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:24.198Z",
+  "issues": []
+}

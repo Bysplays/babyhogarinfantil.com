@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "9308",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9308-conjunto-camiseta-corto-golden-week-amarillo.html",
+  "name": "Conjunto camiseta corto golden week Amarillo",
+  "brand": "Zippy",
+  "sku": "2201005",
+  "description": "Conjunto de dos piezas de algodón, compuesto por camiseta de manga corta y cuello redondo con corchetes en el hombro, y pantalón corto.",
+  "details": "Conjunto de dos piezas de ZIPPY, una de nuestras firmas favoritas! Compuesto por camiseta de manga corta y cuello redondo con corchetes en el hombro, para facilitar la puesta, en color amarillo con estampado en el pecho. Como parte de abajo, pantalón corto de algodón gris, con goma en la cintura y cordón ajustable. Tiene bolsillos laterales. Un conjunto cómodo y fresquito, ideal para los días de verano y para la playa! Echa un ojito a nuestros bodies interiores, sudaderas y calzado y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nPantalón: 95% algodón, 5% viscosa\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas de <strong>ZIPPY</strong>, una de nuestras firmas favoritas! Compuesto por camiseta de manga corta y cuello redondo con <strong>corchetes en el hombro</strong>, para facilitar la puesta, en color amarillo con estampado en el pecho. Como parte de abajo, pantalón corto de algodón gris, con goma en la cintura y <strong>cordón ajustable</strong>. Tiene bolsillos laterales. Un conjunto cómodo y fresquito, ideal para los días de verano y para la playa! Echa un ojito a nuestros <strong>bodies interiores, sudaderas y calzado</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón</p>\n<p>Pantalón: 95% algodón, 5% viscosa</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 8,
+  "oldPrice": 15.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68898",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2201005",
+      "productSku": "2201005",
+      "taxRate": 21,
+      "price": 8,
+      "oldPrice": 15.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:27.318Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9308-12189.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12189-large_default/conjunto-camiseta-corto-golden-week-amarillo.jpg",
+      "alt": "Conjunto camiseta corto golden week Amarillo",
+      "sourceId": "12189",
+      "variantIds": [],
+      "sha256": "5fe25073e82ec6cca2b8d930501832e22c38390ba25603ee462bca9d3cdb6a89"
+    },
+    {
+      "path": "assets/9308-12190.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12190-large_default/conjunto-camiseta-corto-golden-week-amarillo.jpg",
+      "alt": "Conjunto camiseta corto golden week Amarillo",
+      "sourceId": "12190",
+      "variantIds": [],
+      "sha256": "f047be2e898ef85d2d77fc8daaaee5525a6824cc15461b629c94165c38ef3a39"
+    },
+    {
+      "path": "assets/9308-12191.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12191-large_default/conjunto-camiseta-corto-golden-week-amarillo.jpg",
+      "alt": "Conjunto camiseta corto golden week Amarillo",
+      "sourceId": "12191",
+      "variantIds": [],
+      "sha256": "bfbcb4f81591ec0ed1401117dff20bdae92b1127f7c9a3eddeb17af5f4ee4e3f"
+    },
+    {
+      "path": "assets/9308-12192.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12192-large_default/conjunto-camiseta-corto-golden-week-amarillo.jpg",
+      "alt": "Conjunto camiseta corto golden week Amarillo",
+      "sourceId": "12192",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:27.517Z",
+  "issues": []
+}

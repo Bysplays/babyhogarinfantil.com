@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "6766",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-lazo/6766-calcetin-alto-perle-calado-con-lazo-azul-marino.html",
+  "name": "Calcetín alto perlé calado con lazo Azul marino",
+  "brand": "Condor",
+  "sku": "1703022",
+  "description": "Calcetín alto todo calado en 100% perlé algodón, con lazo grosgrain en el lateral.",
+  "details": "Composici&oacute;n y cuidados:\n\r\nCalcet&iacute;n alto: 100% algod&oacute;n.\n\r\nNO USAR SECADORA.\n\r\nNO USAR LEJIAS.\n\r\nNO PLANCHAR.",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n y cuidados:</p>\r\n<p>Calcet&iacute;n alto: 100% algod&oacute;n.</p>\r\n<p>NO USAR SECADORA.</p>\r\n<p>NO USAR LEJIAS.</p>\r\n<p>NO PLANCHAR.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "710",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "710",
+  "sourceCategoryName": "Calcetines con lazo",
+  "price": 8.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64282",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1703022",
+      "productSku": "1703022",
+      "taxRate": 21,
+      "price": 8.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:26.447Z"
+    },
+    {
+      "id": "100603",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1703022",
+      "productSku": "1703022",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:23:29.661Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6766-4698.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4698-large_default/calcetin-alto-perle-calado-con-lazo-azul-marino.jpg",
+      "alt": "Calcetín alto perlé calado con lazo Azul marino",
+      "sourceId": "4698",
+      "variantIds": [],
+      "sha256": "1df69f1d5116e17dfd95536853561da27283a1ca8b86b0b4b2e776d5478c5df2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:23:29.769Z",
+  "issues": []
+}

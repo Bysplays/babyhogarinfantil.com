@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "19677",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/19677-short-basico-felpa-zanahoria.html",
+  "name": "Short básico felpa Zanahoria",
+  "brand": "Mayoral",
+  "sku": "2501120",
+  "description": "Sumérgete en la ternura de los Short Básico Felpa Zanahoria. Un básico imprescindible, estos shorts brillan con encanto especial para los pequeños aventureros. Suaves, ligeros y acogedores, prometen máximo confort durante sus travesuras. ¡Un colorido guiño a la diversión! Su tono zanahoria audaz y vibrante invita al juego y a la imaginación. ¿Lista para ver a tu peque deslumbrar con estilo y comodidad? Es hora de añadir al guardarropa del tesoro de la casa este básico, ¡que definitivamente no es básico!",
+  "details": "Comodidad al Máximo\n\nEl Short básico felpa Zanahoria es la combinación perfecta de estilo y comodidad pensado para el bienestar de los más pequeños. Fabricado con felpa de alta calidad, este short garantiza una suavidad óptima y una comodidad sin igual. Sus niños querrán vestir estos shorts todo el día.\n\nDiseño Atractivo\n\nNo hay nada más adorable que un niño bien vestido. Este atractivo short de felpa de color zanahoria se convertirá en la prenda favorita de sus pequeños en poco tiempo. Su vibrante color aporta un toque de alegría y diversión a cualquier guardarropa.\n\nEl Regalo Perfecto\n\nQuieres hacer un regalo que impresione? Los Short básicos felpa Zanahoria son justamente lo que estás buscando. Son el regalo perfecto para cualquier ocasión, ya sea un cumpleaños, un baby shower o simplemente un mimo a tus hijos.\n\nComposición:\n\n95% Algodón\n\n5% Elastano.\n\n\n\n¡No esperes más! Haz que tus pequeños luzcan increíbles, sin comprometer su comodidad con el Short básico felpa Zanahoria. ¡Adquiérelo ya!",
+  "sourceDescriptionHtml": "<h2>Comodidad al Máximo</h2>\n<p>El <b>Short básico felpa Zanahoria</b> es la combinación perfecta de estilo y comodidad pensado para el bienestar de los más pequeños. Fabricado con felpa de alta calidad, este short garantiza una suavidad óptima y una comodidad sin igual. Sus niños querrán vestir estos shorts todo el día.</p>\n<h2>Diseño Atractivo</h2>\n<p>No hay nada más adorable que un niño bien vestido. Este atractivo short de felpa de color zanahoria se convertirá en la prenda favorita de sus pequeños en poco tiempo. Su vibrante color aporta un toque de alegría y diversión a cualquier guardarropa.</p>\n<h2>El Regalo Perfecto</h2>\n<p>Quieres hacer un regalo que impresione? Los <b>Short básicos felpa Zanahoria</b> son justamente lo que estás buscando. Son el regalo perfecto para cualquier ocasión, ya sea un cumpleaños, un baby shower o simplemente un mimo a tus hijos.</p>\n<p>Composición:</p>\n<p>95% Algodón</p>\n<p>5% Elastano.</p>\n<p></p>\n<p><b><i>¡No esperes más! Haz que tus pequeños luzcan increíbles, sin comprometer su comodidad con el Short básico felpa Zanahoria. ¡Adquiérelo ya!</i></b></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2025",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Zanahoria",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-03-17 23:54:06",
+  "sourceUpdatedAt": "2026-10-27 11:14:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "91445",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2501120",
+      "productSku": "2501120",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:39.958Z"
+    },
+    {
+      "id": "91446",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2501120",
+      "productSku": "2501120",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:41.825Z"
+    },
+    {
+      "id": "91447",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2501120",
+      "productSku": "2501120",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:43.376Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19677-18333.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18333-large_default/short-basico-felpa-zanahoria.jpg",
+      "alt": "Short básico felpa Zanahoria",
+      "sourceId": "18333",
+      "variantIds": [],
+      "sha256": "47afb09fc68570b29943a987ac117314cedf552fdbbdd7646f8b37cf9db9b750"
+    },
+    {
+      "path": "assets/19677-18334.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18334-large_default/short-basico-felpa-zanahoria.jpg",
+      "alt": "Short básico felpa Zanahoria",
+      "sourceId": "18334",
+      "variantIds": [],
+      "sha256": "cb0017be93fed1a023362c38713616b38333090282f0a67606a0e5382db6b63f"
+    },
+    {
+      "path": "assets/19677-18335.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18335-large_default/short-basico-felpa-zanahoria.jpg",
+      "alt": "Short básico felpa Zanahoria",
+      "sourceId": "18335",
+      "variantIds": [],
+      "sha256": "547e086206bea69970724e6757d53198008172babbb1d4767d1cc837ccac9b7d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:43.554Z",
+  "issues": []
+}

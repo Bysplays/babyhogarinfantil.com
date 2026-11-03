@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "19395",
+  "sourceUrl": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/19395-juego-sabanas-coralina-estampada-cuna-varios.html",
+  "name": "Juego sábanas coralina estampada cuna Varios",
+  "brand": "Interbaby",
+  "sku": "2402326",
+  "description": "Tamaño Cuna 3 piezas:\n\nBajera: 60x120 cm.\n\nEncimera: 100x150 cm.\n\nAlmohada: 30x50",
+  "details": "Composición:\n\n3 piezas: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>3 piezas: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "770"
+  ],
+  "sourceDefaultCategoryId": "770",
+  "sourceCategoryName": "Sabanas cuna minicuna y maxicuna",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-01-27 15:53:52",
+  "sourceUpdatedAt": "2026-10-26 19:38:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "89661",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2402326",
+      "productSku": "2402326",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:23.741Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19395-19025.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19025-large_default/juego-sabanas-coralina-estampada-cuna-varios.jpg",
+      "alt": "Juego sábanas coralina estampada cuna Varios",
+      "sourceId": "19025",
+      "variantIds": [],
+      "sha256": "c24ce20c9543fd9af2f9db072f3ec67c4c02be75ac61b30200c9f145d4701acb"
+    },
+    {
+      "path": "assets/19395-19026.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19026-large_default/juego-sabanas-coralina-estampada-cuna-varios.jpg",
+      "alt": "Juego sábanas coralina estampada cuna Varios",
+      "sourceId": "19026",
+      "variantIds": [],
+      "sha256": "5adf85464cea7a0d4b31617ca66629efbbdbfd6d17af5cdd6b8638e0dee5b3ad"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:23.840Z",
+  "issues": []
+}

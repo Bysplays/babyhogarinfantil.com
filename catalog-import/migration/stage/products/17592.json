@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "id": "17592",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/17592-pantalon-colegial-largo-pinza-12-a-26-azul-marino.html",
+  "name": "Pantalón colegial LARGO pinza 12 a 26 Azul Marino",
+  "brand": "Taracido",
+  "sku": "236",
+  "description": "Pantalón largo colegial azul marino.",
+  "details": "Composición:\n\nPantalón: 65% poliéster, 35% viscosa.\n\nHECHO EN ESPAÑA.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pantalón: 65% poliéster, 35% viscosa.</p>\n<p><strong>HECHO EN ESPAÑA.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "783"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 32,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-05-22 08:33:50",
+  "sourceUpdatedAt": "2026-10-27 11:08:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 14,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "251",
+          "label": "24"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84606",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "236",
+      "productSku": "236",
+      "taxRate": 21,
+      "price": 32,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:51.056Z"
+    },
+    {
+      "id": "84609",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "236",
+      "productSku": "236",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:53.798Z"
+    },
+    {
+      "id": "84610",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "236",
+      "productSku": "236",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:56.749Z"
+    },
+    {
+      "id": "84611",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "236",
+      "productSku": "236",
+      "taxRate": 21,
+      "price": 36,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:59.496Z"
+    },
+    {
+      "id": "84612",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "236",
+      "productSku": "236",
+      "taxRate": 21,
+      "price": 36,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:01.663Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17592-18483.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18483-large_default/pantalon-colegial-largo-pinza-12-a-26-azul-marino.jpg",
+      "alt": "Pantalón colegial LARGO pinza 12 a 26 Azul Marino",
+      "sourceId": "18483",
+      "variantIds": [],
+      "sha256": "ab555bc0e0f7cc8c8deb2a88bb16328a598364ef91c935fe2d911dbb6ac20f64"
+    },
+    {
+      "path": "assets/17592-18491.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18491-large_default/pantalon-colegial-largo-pinza-12-a-26-azul-marino.jpg",
+      "alt": "Pantalón colegial LARGO pinza 12 a 26 Azul Marino",
+      "sourceId": "18491",
+      "variantIds": [],
+      "sha256": "49f490c081119901b2c79f14ec86c28ae5906109d3a87f8bb9d237b60a2a961f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:33:04.598Z",
+  "issues": []
+}

@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "22024",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas/22024-cazadora-vaquera-nino-denim-babybol-azul.html",
+  "name": "Cazadora vaquera niño denim Babybol Azul",
+  "brand": "Babybol",
+  "sku": "2601254",
+  "description": "Cazadora vaquera para niño en tejido denim. Versátil, cómoda y perfecta para completar cualquier look.",
+  "details": "La cazadora vaquera de niño es una prenda imprescindible para entretiempo y verano.\n\n\nConfeccionada en tejido denim, presenta un diseño clásico con cierre de botones, bolsillos frontales y acabado moderno. Su estilo atemporal la convierte en una opción perfecta para combinar con cualquier conjunto.\n\n\nDisponible en tallas de bebé e infantil, es ideal para crear looks cómodos y actuales en cualquier ocasión.\n\n\nComposición: 76% algodón, 22% poliéster, 2% elastano.\n\n\n\nCazadora vaquera para niño\n\n\nColor denim azul\n\n\nCierre con botones\n\n\nBolsillos frontales\n\n\nTejido cómodo y flexible\n\n\n\nPerfecta para entretiempo, verano o completar looks casual.",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\">La <b>cazadora vaquera de niño</b> es una prenda imprescindible para entretiempo y verano.</p><p></p>\n<p class=\"MsoNormal\">Confeccionada en <b>tejido denim</b>, presenta un diseño clásico con <b>cierre de botones, bolsillos frontales</b> y acabado moderno. Su estilo atemporal la convierte en una opción perfecta para combinar con cualquier conjunto.</p><p></p>\n<p class=\"MsoNormal\">Disponible en <b>tallas de bebé e infantil</b>, es ideal para crear looks cómodos y actuales en cualquier ocasión.</p><p></p>\n<p class=\"MsoNormal\">Composición: <b>76% algodón, 22% poliéster, 2% elastano</b>.</p><p></p>\n<ul style=\"margin-top:0cm;\" type=\"disc\">\n<li class=\"MsoNormal\">Cazadora vaquera para niño<p></p></li>\n<li class=\"MsoNormal\">Color denim azul<p></p></li>\n<li class=\"MsoNormal\">Cierre con botones<p></p></li>\n<li class=\"MsoNormal\">Bolsillos frontales<p></p></li>\n<li class=\"MsoNormal\">Tejido cómodo y flexible<p></p></li>\n</ul>\n<p class=\"MsoNormal\">Perfecta para <b>entretiempo, verano o completar looks casual</b>.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "769"
+  ],
+  "sourceDefaultCategoryId": "769",
+  "sourceCategoryName": "Cazadoras y parkas",
+  "price": 34,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-04-29 23:56:27",
+  "sourceUpdatedAt": "2026-10-27 11:15:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "101455",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2601254",
+      "productSku": "2601254",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:46.471Z"
+    },
+    {
+      "id": "101457",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601254",
+      "productSku": "2601254",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:48.428Z"
+    },
+    {
+      "id": "101459",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601254",
+      "productSku": "2601254",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:50.207Z"
+    },
+    {
+      "id": "101460",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2601254",
+      "productSku": "2601254",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:51.993Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/22024-21217.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21217-large_default/cazadora-vaquera-nino-denim-babybol-azul.jpg",
+      "alt": "Cazadora denim niño parte trasera",
+      "sourceId": "21217",
+      "variantIds": [],
+      "sha256": "d1f46122b5963eb9b18d7f17c83293a511f9f32b5e3c54779e85f50b7e41d943"
+    },
+    {
+      "path": "assets/22024-21218.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21218-large_default/cazadora-vaquera-nino-denim-babybol-azul.jpg",
+      "alt": "Cazadora vaquera niño denim Babybol",
+      "sourceId": "21218",
+      "variantIds": [],
+      "sha256": "37f1fbd77127c80a6d3322e8f1fa92d9edf620aebcf01783d3f71597743fce82"
+    },
+    {
+      "path": "assets/22024-21219.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21219-large_default/cazadora-vaquera-nino-denim-babybol-azul.jpg",
+      "alt": "Cazadora vaquera niño con bolsillos",
+      "sourceId": "21219",
+      "variantIds": [],
+      "sha256": "e74de597e3ebc5a3ca5280f73f4d694757bb7191730df1b0d2a137e6113234c9"
+    },
+    {
+      "path": "assets/22024-21220.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21220-large_default/cazadora-vaquera-nino-denim-babybol-azul.jpg",
+      "alt": "Detalle botones cazadora vaquera niño",
+      "sourceId": "21220",
+      "variantIds": [],
+      "sha256": "886a6cc3f7ec1b94e19c8c4f660d6fe73efe1378469a9a1c3f7faf18b54f75e1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:52.262Z",
+  "issues": []
+}

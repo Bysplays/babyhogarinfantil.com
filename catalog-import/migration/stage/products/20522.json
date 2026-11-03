@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "20522",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/20522-conjunto-sport-nino-petroleo.html",
+  "name": "Conjunto sport niño Petroleo",
+  "brand": "Babybol",
+  "sku": "2502091",
+  "description": "Conjunto sport para niño. Sudadera con cuello redondo y felpa interior para que sea cálida. Pantalón largo con cinturillas de goma y bajos elásticos. También con felpa\n\ninterior.",
+  "details": "Composición: \n\nConjunto: 95% algodón, 5% elastano.\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p><strong>Conjunto: </strong>95% algodón, 5% elastano.</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Petroleo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 33.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95113",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502091",
+      "productSku": "2502091",
+      "taxRate": 21,
+      "price": 33.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:08.083Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20522-19310.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19310-large_default/conjunto-sport-nino-petroleo.jpg",
+      "alt": "Conjunto sport niño Petroleo",
+      "sourceId": "19310",
+      "variantIds": [],
+      "sha256": "c643583f0b9ec25bbc9d0b1afdfb9d78f26a6c3d705068d55fae209b514edeb0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:08.152Z",
+  "issues": []
+}

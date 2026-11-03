@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "10066",
+  "sourceUrl": "https://babyhogarinfantil.com/peleles-bebe-nina/10066-pelele-tricot-punto-rosa-vigore-rosa.html",
+  "name": "Pelele tricot punto rosa vigore Rosa",
+  "brand": "Mayoral",
+  "sku": "2208177",
+  "description": "Pelele Tricot Punto Rosa Vigore\n\nDeja que su sonrisa brille aún más con este encantador pelele tricot en delicado rosa vigore. Este vestido de punto es la elección perfecta para los momentos especiales, ofreciendo comodidad excepcional y un estilo chic. El patrón tejido agrega un toque de elegancia atemporal, luciéndose en cualquier ocasión. Su tierna piel se sentirá mimada por la suavidad del tricot, mientras que su diseño fácil de usar facilitará el cambio de pañal. Es la elección perfecta para hacer a tu pequeña princesa sentir especial. Haz hoy mismo suyo este vestido esencial.",
+  "details": "Romanticismo y confort en un solo Pelele\n\n\nDescubre la elegancia y la dulzura personificada en nuestra pieza Pelele tricot punto rosa vigore Rosa. Tejido delicado que acentúa el encanto inocente y tierno de los más pequeños. Los tonos rosados llevan un toque de alegría y calidez, manteniendo a los pequeños cómodos y contentos durante todo el día.\n\n\n\nCalidad excepcional, diseñada para durar\n\n\nLa calidad superior de nuestro Pelele tricot punto rosa vigore Rosa promete brindar durabilidad y resistencia. Tecnología de tejido avanzado en punto de tricot, suman puntos a su favor por su resistencia a la tensión y a las lavadas, lo que garantiza larga vida al pelele. La calidad es nuestra prioridad, ofreciendo prendas que resisten el tiempo y el uso diario.\n\n\n\nAmbientes ideales para el Rosa Vigore\n\n\nAnímate a vestir a los más pequeños con nuestro Pelele tricot punto rosa vigore Rosa y deja que su estilo destaque en cualquier ambiente. Ideal para un día relajado en casa, reuniones familiares o incluso para sesiones de fotos profesionales. Donde sea que vayan, deslumbrarán con su encanto y gracia.\n\n\n\nOrdena ahora tu Pelele tricot punto rosa vigore Rosa y añade un toque de romanticismo y confort al guardarropa de los más pequeños. ¡No esperes mas, haz tu pedido hoy!",
+  "sourceDescriptionHtml": "<div>\n<h2>Romanticismo y confort en un solo Pelele</h2>\n<p>\nDescubre la elegancia y la dulzura personificada en nuestra pieza Pelele tricot punto rosa vigore Rosa. Tejido delicado que acentúa el encanto inocente y tierno de los más pequeños. Los tonos rosados llevan un toque de alegría y calidez, manteniendo a los pequeños cómodos y contentos durante todo el día.\n</p>\n\n<h2>Calidad excepcional, diseñada para durar</h2>\n<p>\nLa calidad superior de nuestro Pelele tricot punto rosa vigore Rosa promete brindar durabilidad y resistencia. Tecnología de tejido avanzado en punto de tricot, suman puntos a su favor por su resistencia a la tensión y a las lavadas, lo que garantiza larga vida al pelele. La calidad es nuestra prioridad, ofreciendo prendas que resisten el tiempo y el uso diario.\n</p>\n\n<h2>Ambientes ideales para el Rosa Vigore</h2>\n<p>\nAnímate a vestir a los más pequeños con nuestro Pelele tricot punto rosa vigore Rosa y deja que su estilo destaque en cualquier ambiente. Ideal para un día relajado en casa, reuniones familiares o incluso para sesiones de fotos profesionales. Donde sea que vayan, deslumbrarán con su encanto y gracia.\n</p>\n<p style=\"text-align:center;\">\n<a href=\"#\" target=\"_blank\">Ordena ahora tu Pelele tricot punto rosa vigore Rosa y añade un toque de romanticismo y confort al guardarropa de los más pequeños. ¡No esperes mas, haz tu pedido hoy!</a>\n</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "773"
+  ],
+  "sourceDefaultCategoryId": "773",
+  "sourceCategoryName": "Peleles Bebé Niña",
+  "price": 32.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70789",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2208177",
+      "productSku": "2208177",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:19.276Z"
+    },
+    {
+      "id": "70790",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2208177",
+      "productSku": "2208177",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:22.170Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10066-13187.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13187-large_default/pelele-tricot-punto-rosa-vigore-rosa.jpg",
+      "alt": "Pelele tricot punto rosa vigore Rosa",
+      "sourceId": "13187",
+      "variantIds": [],
+      "sha256": "5689a8ef88cec306d35d05de4a9aaf741d8a23917cf794d82acf9a595e5955e6"
+    },
+    {
+      "path": "assets/10066-8466.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8466-large_default/pelele-tricot-punto-rosa-vigore-rosa.jpg",
+      "alt": "Pelele tricot punto rosa vigore Rosa",
+      "sourceId": "8466",
+      "variantIds": [],
+      "sha256": "6110beb157bc16952ebaf8bf56d302bcffb3e0a072826654bb9adfff969b7150"
+    },
+    {
+      "path": "assets/10066-8467.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8467-large_default/pelele-tricot-punto-rosa-vigore-rosa.jpg",
+      "alt": "Pelele tricot punto rosa vigore Rosa",
+      "sourceId": "8467",
+      "variantIds": [],
+      "sha256": "07746c7155ab855d05c6cdc37fd07f1b23cb28458e3590bf30f720dfb5512768"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:22.393Z",
+  "issues": []
+}

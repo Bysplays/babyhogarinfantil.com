@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "8200",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/8200-pijama-rosa-estampado-rosa.html",
+  "name": "Pijama rosa estampado Rosa",
+  "brand": "FS Baby",
+  "sku": "2005032",
+  "description": "Envolviendo a los pequeños en un mundo de comodidad con el Pijama Rosa Estampado Rosa. Este suave y acogedor pijama asegura noches de dulces sueños. Su adorable estampado rosa es puro encanto. ¡Los momentos de acurrucarse nunca han sido tan dulces! Hecho para comodidad durante todo el año, este pijama es esencial para su pequeño ángel. La ropa de bebé ideal que acerca la felicidad a las noches de verano. ¡Haz que las noches sean mágicas con este pijama rosa!",
+  "details": "Irresistibles Pijamas para Niños\n\nDescubre el encantador pijama rosa estampado Rosa, diseñado específicamente para ofrecer a tus pequeños la máxima comodidad y un sueño reparador. Este conjunto es tan increíblemente suave y acogedor que los niños estarán ansiosos por ir a la cama. Los vibrantes patrones florales adornan este pijama, añadiendo un toque de alegría y diversión a la hora de dormir.\n\n\nCalidad Superior para los Más Pequeños\n\nHecho de telas de alta calidad, nuestro pijama rosa estampado Rosa, es no sólo adorablemente lindo, sino también extremadamente duradero. Manteniendo a los pequeños calientes, suaves y cómodos durante toda la noche. Nuestros pijamas están diseñados para resistir lavados regulares sin perder su color brillante y su ajuste cómodo. Regala a tus hijos un conjunto de este pijama encantador y dale un retoque de lujo a su rutina de dormir.\n\n\nRegalos Perfectos para Tus Queridos Pequeños\n\nNuestro pijama rosa estampado Rosa es la elección perfecta para un regalo. Muestra tu amor y cuidado hacia los pequeños con estos pijamas de alta calidad, dulces y cómodos. Ya sea un cumpleaños, un festival o una ocasión especial, estos pijamas seguramente harán sonreír a los niños.\n\n\n¡No esperes más para hacer feliz a tu niño y cómpralo ahora!",
+  "sourceDescriptionHtml": "<p><strong>Irresistibles Pijamas para Niños</strong><br>\nDescubre el encantador pijama rosa estampado Rosa, diseñado específicamente para ofrecer a tus pequeños la máxima comodidad y un sueño reparador. Este conjunto es tan increíblemente suave y acogedor que los niños estarán ansiosos por ir a la cama. Los vibrantes patrones florales adornan este pijama, añadiendo un toque de alegría y diversión a la hora de dormir.</p>\n\n<p><strong>Calidad Superior para los Más Pequeños</strong><br>\nHecho de telas de alta calidad, nuestro pijama rosa estampado Rosa, es no sólo adorablemente lindo, sino también extremadamente duradero. Manteniendo a los pequeños calientes, suaves y cómodos durante toda la noche. Nuestros pijamas están diseñados para resistir lavados regulares sin perder su color brillante y su ajuste cómodo. Regala a tus hijos un conjunto de este pijama encantador y dale un retoque de lujo a su rutina de dormir.</p>\n\n<p><strong>Regalos Perfectos para Tus Queridos Pequeños</strong><br>\nNuestro pijama rosa estampado Rosa es la elección perfecta para un regalo. Muestra tu amor y cuidado hacia los pequeños con estos pijamas de alta calidad, dulces y cómodos. Ya sea un cumpleaños, un festival o una ocasión especial, estos pijamas seguramente harán sonreír a los niños.</p>\n\n<p><strong>¡No esperes más para hacer feliz a tu niño y cómpralo ahora!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2020",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 8.5,
+  "oldPrice": 16.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:34",
+  "sourceUpdatedAt": "2026-10-27 11:10:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67202",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2005032",
+      "productSku": "2005032",
+      "taxRate": 21,
+      "price": 8.5,
+      "oldPrice": 16.99,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:18.496Z"
+    },
+    {
+      "id": "67203",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2005032",
+      "productSku": "2005032",
+      "taxRate": 21,
+      "price": 8.5,
+      "oldPrice": 16.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:21.649Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8200-6465.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6465-large_default/pijama-rosa-estampado-rosa.jpg",
+      "alt": "Pijama rosa estampado Rosa",
+      "sourceId": "6465",
+      "variantIds": [],
+      "sha256": "2428a3590dda3b5b4c822c898dbf79399312f05a6d678631b08f92e8c459931f"
+    },
+    {
+      "path": "assets/8200-10962.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10962-large_default/pijama-rosa-estampado-rosa.jpg",
+      "alt": "Pijama rosa estampado Rosa",
+      "sourceId": "10962",
+      "variantIds": [],
+      "sha256": "a2e357580b8c5a6cf242e372ee64d8a97eb6ee638759cf61e1ef11f866111cf0"
+    },
+    {
+      "path": "assets/8200-6464.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6464-large_default/pijama-rosa-estampado-rosa.jpg",
+      "alt": "Pijama rosa estampado Rosa",
+      "sourceId": "6464",
+      "variantIds": [],
+      "sha256": "4c157b3e6838baaadc1bf6902f66ee355ef3be816287b2aa705dde61bc04e13f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:21.827Z",
+  "issues": []
+}

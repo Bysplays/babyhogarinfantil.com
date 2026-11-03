@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "18218",
+  "sourceUrl": "https://babyhogarinfantil.com/cositas-monas/18218-juego-bebe-3-piezas-liso-azul.html",
+  "name": "Juego bebe 3 piezas liso Azul",
+  "brand": "Gamberritos",
+  "sku": "2402112",
+  "description": "Conjunto 3 piezas, patuco gorrito y mitón. 100% Algodón.",
+  "details": "Composición:\n\nTodo el conjunto: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Todo el conjunto: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "865"
+  ],
+  "sourceDefaultCategoryId": "865",
+  "sourceCategoryName": "Cositas Monas",
+  "price": 8.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-08 23:53:58",
+  "sourceUpdatedAt": "2026-10-27 11:13:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "86462",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12242XA18756",
+      "productSku": "2402112",
+      "taxRate": 21,
+      "price": 8.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:37.038Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18218-17175.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17175-large_default/juego-bebe-3-piezas-liso-azul.jpg",
+      "alt": "Juego bebe 3 piezas liso Azul",
+      "sourceId": "17175",
+      "variantIds": [],
+      "sha256": "de594cf233d006e4b2c24164c985a8041edf4747446fd524322a47e539d5efc6"
+    },
+    {
+      "path": "assets/18218-17176.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17176-large_default/juego-bebe-3-piezas-liso-azul.jpg",
+      "alt": "Juego bebe 3 piezas liso Azul",
+      "sourceId": "17176",
+      "variantIds": [],
+      "sha256": "3d804731fe8b21531295fa7d581592b7735b4f33a09aa94e39cc6110759866e7"
+    },
+    {
+      "path": "assets/18218-17177.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17177-large_default/juego-bebe-3-piezas-liso-azul.jpg",
+      "alt": "Juego bebe 3 piezas liso Azul",
+      "sourceId": "17177",
+      "variantIds": [],
+      "sha256": "387048888db14a9a307ea8996be454fd275077999f407f49fe84294b7928f0ef"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:37.259Z",
+  "issues": []
+}

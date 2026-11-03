@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "21693",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/21693-camiseta-bebe-tortuga-natural.html",
+  "name": "Camiseta bebé tortuga Natural",
+  "brand": "Chicco",
+  "sku": "2601019",
+  "description": "Camiseta manga corta, tallas bebé, con botones en el cuello para facilitar la puesta. Disponible la sudadera a juego.",
+  "details": "Composición:\n\nCamiseta: 100% algodón",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Camiseta: 100% algodón</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Natural",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "726",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-04 12:24:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:57",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "98957",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2601019",
+      "productSku": "2601019",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:37.968Z"
+    },
+    {
+      "id": "98958",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2601019",
+      "productSku": "2601019",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:39.324Z"
+    },
+    {
+      "id": "98959",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2601019",
+      "productSku": "2601019",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:40.652Z"
+    },
+    {
+      "id": "98960",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2601019",
+      "productSku": "2601019",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:41.835Z"
+    },
+    {
+      "id": "98961",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2601019",
+      "productSku": "2601019",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:43.102Z"
+    },
+    {
+      "id": "98962",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2601019",
+      "productSku": "2601019",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:44.470Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21693-20337.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20337-large_default/camiseta-bebe-tortuga-natural.jpg",
+      "alt": "Camiseta bebé tortuga Natural",
+      "sourceId": "20337",
+      "variantIds": [],
+      "sha256": "4fa5df0acaeef13846947b7cba2044908d110f6cf716d6db7fd78df4cdeca454"
+    },
+    {
+      "path": "assets/21693-20338.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20338-large_default/camiseta-bebe-tortuga-natural.jpg",
+      "alt": "Camiseta bebé tortuga Natural",
+      "sourceId": "20338",
+      "variantIds": [],
+      "sha256": "1e8903c579ed0815c2e8059da85d300816f4609ad870401c52eb966e78a10b89"
+    },
+    {
+      "path": "assets/21693-20339.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20339-large_default/camiseta-bebe-tortuga-natural.jpg",
+      "alt": "Camiseta bebé tortuga Natural",
+      "sourceId": "20339",
+      "variantIds": [],
+      "sha256": "11596bb869ff122dabcea210e9b451e1a9010f7ea1ef4b72def5c24192dc637d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:44.653Z",
+  "issues": []
+}

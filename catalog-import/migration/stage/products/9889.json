@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "9889",
+  "sourceUrl": "https://babyhogarinfantil.com/anoraks-y-chalecos/9889-chaleco-nino-marino-con-capucha-azul-marino.html",
+  "name": "Chaleco niño marino con capucha Azul Marino",
+  "brand": "Zippy",
+  "sku": "2207112",
+  "description": "Chaleco básico con capucha y forro interior de polar.",
+  "details": "Composición:\n\nChaleco: 100% poliéster.\n\nForro: 100% poliéster.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaleco: 100% poliéster.</p>\n<p>Forro: 100% poliéster.</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "749",
+  "sourceCategoryName": "Anoraks y Chalecos",
+  "price": 30.01,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70307",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2207112",
+      "productSku": "2207112",
+      "taxRate": 21,
+      "price": 30.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:42.297Z"
+    },
+    {
+      "id": "70308",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2207112",
+      "productSku": "2207112",
+      "taxRate": 21,
+      "price": 30.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:46.161Z"
+    },
+    {
+      "id": "70311",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2207112",
+      "productSku": "2207112",
+      "taxRate": 21,
+      "price": 30.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:50.475Z"
+    },
+    {
+      "id": "70312",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2207112",
+      "productSku": "2207112",
+      "taxRate": 21,
+      "price": 30.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:55.200Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9889-12879.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12879-large_default/chaleco-nino-marino-con-capucha-azul-marino.jpg",
+      "alt": "Chaleco nino marino con capucha Azul Marino",
+      "sourceId": "12879",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9889-8906.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8906-large_default/chaleco-nino-marino-con-capucha-azul-marino.jpg",
+      "alt": "Chaleco niño marino con capucha Azul Marino",
+      "sourceId": "8906",
+      "variantIds": [],
+      "sha256": "96818071596aad25e0b01184e6a82ff2204645a54bf6685babcb6e227fa98960"
+    },
+    {
+      "path": "assets/9889-8907.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8907-large_default/chaleco-nino-marino-con-capucha-azul-marino.jpg",
+      "alt": "Chaleco niño marino con capucha Azul Marino",
+      "sourceId": "8907",
+      "variantIds": [],
+      "sha256": "6fb57cb14217b526d13cac49f6b68d095a9afb8874f3a8742edb2d49948a6946"
+    },
+    {
+      "path": "assets/9889-8908.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8908-large_default/chaleco-nino-marino-con-capucha-azul-marino.jpg",
+      "alt": "Chaleco niño marino con capucha Azul Marino",
+      "sourceId": "8908",
+      "variantIds": [],
+      "sha256": "f9ecd04641f1f00d655aa1b6ad00bc46c0de27baf0da9a2554e2313d7a19066e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:55.434Z",
+  "issues": []
+}

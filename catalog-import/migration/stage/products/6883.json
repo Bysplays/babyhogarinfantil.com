@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "id": "6883",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-angel-de-la-guarda-nigran/6883-mandilon-sin-botones-azul.html",
+  "name": "Mandilón sin botones Azul",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1706031",
+  "description": "Babi tipo saco, sin botones. Con bolsillo central. Puños y cuello con goma. Consulta medidas en la imagen. HECHO EN GALICIA",
+  "details": "Composición:\n\nBabi: 33% algodón, 67% poliéster.\n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Babi: 33% algodón, 67% poliéster.</p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>\n<p> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "679",
+    "812",
+    "705"
+  ],
+  "sourceDefaultCategoryId": "705",
+  "sourceCategoryName": "Colegio Angel de la Guarda Nigran",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:17",
+  "sourceUpdatedAt": "2026-10-27 11:09:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 31,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "143695",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1706031",
+      "productSku": "1706031",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:21.979Z"
+    },
+    {
+      "id": "64619",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "1706031",
+      "productSku": "1706031",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:25.906Z"
+    },
+    {
+      "id": "64620",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1706031",
+      "productSku": "1706031",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:28.514Z"
+    },
+    {
+      "id": "96938",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1706031",
+      "productSku": "1706031",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:31.218Z"
+    },
+    {
+      "id": "64622",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1706031",
+      "productSku": "1706031",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:34.286Z"
+    },
+    {
+      "id": "64623",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1706031",
+      "productSku": "1706031",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:37.044Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6883-4798.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4798-large_default/mandilon-sin-botones-azul.jpg",
+      "alt": "Mandilón sin botones Azul",
+      "sourceId": "4798",
+      "variantIds": [],
+      "sha256": "0b1c923bccc1e172bdec575648ffca6a0b50a5803ec5732c22433c48612f9a1e"
+    },
+    {
+      "path": "assets/6883-4797.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4797-large_default/mandilon-sin-botones-azul.jpg",
+      "alt": "Mandilón sin botones Azul",
+      "sourceId": "4797",
+      "variantIds": [],
+      "sha256": "640445912b697476bb994b332d029d8a463db2554eb6e8ec27709a9e1497d5df"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:31:37.172Z",
+  "issues": []
+}

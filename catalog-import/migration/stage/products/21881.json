@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "21881",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nina/21881-conjunto-nina-verano-mayoral-2-leggings-petalo.html",
+  "name": "Conjunto niña verano mayoral 2 leggings Petalo",
+  "brand": "Mayoral",
+  "sku": "2601075",
+  "description": "Conjunto de niña con camiseta de manga corta y 2 leggings rosa y pétalo, cómodo y versátil, ideal para verano.",
+  "details": "Práctico conjunto para niña compuesto por camiseta de manga corta y leggings, ideal para los días de verano.\n\nLa camiseta blanca destaca por su diseño con estampado de corazones y detalles en las mangas, aportando un toque divertido y actual. Se combina con leggings en tonos rosa, cómodos y fáciles de llevar en el día a día.\n\nEste conjunto de verano para niña está confeccionado en tejidos suaves y elásticos, ofreciendo libertad de movimiento y confort durante todo el día.\n\nCaracterísticas:\n\n\nConjunto de camiseta y leggings\n\nCamiseta de manga corta con diseño estampado\n\nLeggings cómodos y elásticos\n\nIncluye varios colores de leggings\n\nIdeal para uso diario y actividades\n\nComposición camiseta: 100% algodón\n\nComposicón leggings: 95% algodón, 5% elastano.\n\n\nUna opción práctica, cómoda y fácil de combinar para el armario de verano de tu niña.",
+  "sourceDescriptionHtml": "<p>Práctico <strong>conjunto para niña</strong> compuesto por camiseta de manga corta y leggings, ideal para los días de verano.</p>\n<p>La camiseta blanca destaca por su diseño con estampado de corazones y detalles en las mangas, aportando un toque divertido y actual. Se combina con leggings en tonos rosa, cómodos y fáciles de llevar en el día a día.</p>\n<p>Este <strong>conjunto de verano para niña</strong> está confeccionado en tejidos suaves y elásticos, ofreciendo libertad de movimiento y confort durante todo el día.</p>\n<p><strong>Características:</strong></p>\n<ul>\n<li>Conjunto de camiseta y leggings</li>\n<li>Camiseta de manga corta con diseño estampado</li>\n<li>Leggings cómodos y elásticos</li>\n<li>Incluye varios colores de leggings</li>\n<li>Ideal para uso diario y actividades</li>\n<li>Composición camiseta: <strong>100% algodón</strong></li>\n<li>Composicón leggings: <strong>95% algodón, 5% elastano.</strong></li>\n</ul>\n<p>Una opción práctica, cómoda y fácil de combinar para el armario de verano de tu niña.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Pétalo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "755",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "755",
+  "sourceCategoryName": "Conjuntos Niña",
+  "price": 32.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-17 15:56:58",
+  "sourceUpdatedAt": "2026-10-27 11:15:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100195",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601075",
+      "productSku": "2601075",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:19.858Z"
+    },
+    {
+      "id": "100196",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601075",
+      "productSku": "2601075",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:21.789Z"
+    },
+    {
+      "id": "100198",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2601075",
+      "productSku": "2601075",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:24.244Z"
+    },
+    {
+      "id": "100199",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2601075",
+      "productSku": "2601075",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:26.685Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21881-20745.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20745-large_default/conjunto-nina-verano-mayoral-2-leggings-petalo.jpg",
+      "alt": "Conjunto niña camiseta con pack leggings rosa",
+      "sourceId": "20745",
+      "variantIds": [],
+      "sha256": "520dcc8da49b8f05bacdd81a0ecd6399394f066f6b509185416f53f51b0c4390"
+    },
+    {
+      "path": "assets/21881-20746.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20746-large_default/conjunto-nina-verano-mayoral-2-leggings-petalo.jpg",
+      "alt": "Conjunto niña camiseta blanca y leggings rosa verano puesto",
+      "sourceId": "20746",
+      "variantIds": [],
+      "sha256": "3ef98147f3ca3b9a358e44593976eb830a34e7fb99a2b2cee4613064ce50c9ca"
+    },
+    {
+      "path": "assets/21881-20747.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20747-large_default/conjunto-nina-verano-mayoral-2-leggings-petalo.jpg",
+      "alt": "Camiseta niña blanca estampado corazones conjunto",
+      "sourceId": "20747",
+      "variantIds": [],
+      "sha256": "37e808e30603759ab7e2d8ea687942b653adcfafe89f2f89e4a73c30d5c3b2e6"
+    },
+    {
+      "path": "assets/21881-20748.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20748-large_default/conjunto-nina-verano-mayoral-2-leggings-petalo.jpg",
+      "alt": "Leggings niña rosa verano conjunto",
+      "sourceId": "20748",
+      "variantIds": [],
+      "sha256": "a2177915381a985d218204c092645256e42fd484551b6bb4d09abed52ca8fee2"
+    },
+    {
+      "path": "assets/21881-20749.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20749-large_default/conjunto-nina-verano-mayoral-2-leggings-petalo.jpg",
+      "alt": "Detalle tejido leggings niña rosa algodón",
+      "sourceId": "20749",
+      "variantIds": [],
+      "sha256": "897f4fe0dff688dad13ebcc7c5bdb8783c894e6234f58663569aa64a686ab760"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:26.981Z",
+  "issues": []
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "6097",
+  "sourceUrl": "https://babyhogarinfantil.com/polainas-bebe-nina/6097-polaina-lisa-perle-camel.html",
+  "name": "Polaina lisa perlé Camel",
+  "brand": "Mac Ilusión",
+  "sku": "621",
+  "description": "Polaina lisa SIN COSTURAS. En punto, perlé camel. Para combinar con jubones y camisitas.",
+  "details": "Composición y cuidados:\n\nPolaina: 50% Algodón, 50% acrílico Dralon.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS QUE LA LIAS.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Polaina: 50% Algodón, 50% acrílico Dralon.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS QUE LA LIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "672"
+  ],
+  "sourceDefaultCategoryId": "672",
+  "sourceCategoryName": "Polainas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62413",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:39.492Z"
+    },
+    {
+      "id": "98215",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:42.374Z"
+    },
+    {
+      "id": "62416",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "621",
+      "productSku": "621",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:44.969Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6097-3957.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3957-large_default/polaina-lisa-perle-camel.jpg",
+      "alt": "Polaina lisa perlé Camel",
+      "sourceId": "3957",
+      "variantIds": [],
+      "sha256": "f573e003f128e22be90ab77a0f49ae2b69133fc43b9bdf6378fe01a34b1c4760"
+    },
+    {
+      "path": "assets/6097-3956.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3956-large_default/polaina-lisa-perle-camel.jpg",
+      "alt": "Polaina lisa perlé Camel",
+      "sourceId": "3956",
+      "variantIds": [],
+      "sha256": "46e3ad87db97a18ce02241fbeca80f14534431f0afc3969bb7b7638a10f0207b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:45.122Z",
+  "issues": []
+}

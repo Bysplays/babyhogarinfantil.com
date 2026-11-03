@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "8425",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/8425-pantalon-basico-algodon-zy-azul-marino.html",
+  "name": "Pantalón básico algodón ZY Azul marino",
+  "brand": "Zippy",
+  "sku": "2008016",
+  "description": "¿Buscas una combinación de estilo y confort para tu pequeño? Los Pantalones Básicos de Algodón ZY Azul Marino son la elección perfecta. Fabricados con algodón de primera calidad, estos pantalones proporcionan una comodidad sin igual, permitiendo a los niños moverse con facilidad. El color azul marino vibrante aporta un toque elegante y versátil, perfecto para cualquier ocasión. ¡Viste a tus hijos con elegancia y comodidad con los Pantalones Básicos de Algodón ZY Azul Marino!",
+  "details": "Lujo Asequible\n\n \n Descubra el lujo asequible con el \"Pantalón básico algodón ZY Azul marino\". Este pantalón no solo ofrece elegancia y estilo, sino también confort increíble gracias a su construcción de algodón suave. Regale a tus hijos el regocijo de la moda con nuestra gama de pantalones. \n \n\n Construido para Confort\n\n \n Nuestro \"Pantalón básico algodón ZY Azul marino\" ha sido diseñado pensando en la facilidad diaria. El algodón proporciona una comodidad inigualable que permite a sus pequeños moverse con facilidad durante todo el día. Estos pantalones son ideales para días de juegos, aventuras al aire libre y ocasiones casuales. \n \n\n Estilo de Declaración de la Moda\n\n \n Estos pantalones marcan un alto estándar en la moda infantil. El elegante tono azul marino añade una dosis de sofisticación que hará que sus niños pequeños se destaquen en la multitud. Márcate completamente en este mundo de la moda con nuestro \"Pantalón básico algodón ZY Azul marino\". \n \n\n ¡Cómpralo hoy!\n\n \n No esperes, añade el \"Pantalón básico algodón ZY Azul marino\" a tu carrito hoy mismo y ofrece a tus preferidos la oportunidad de lucir elegantes y sofisticados. ¡Apresúrate antes de que se agoten las existencias!",
+  "sourceDescriptionHtml": "<h2>Lujo Asequible</h2>\n <p>\n Descubra el lujo asequible con el \"Pantalón básico algodón ZY Azul marino\". Este pantalón no solo ofrece elegancia y estilo, sino también confort increíble gracias a su construcción de algodón suave. Regale a tus hijos el regocijo de la moda con nuestra gama de pantalones. \n </p>\n <h2>Construido para Confort</h2>\n <p>\n Nuestro \"Pantalón básico algodón ZY Azul marino\" ha sido diseñado pensando en la facilidad diaria. El algodón proporciona una comodidad inigualable que permite a sus pequeños moverse con facilidad durante todo el día. Estos pantalones son ideales para días de juegos, aventuras al aire libre y ocasiones casuales. \n </p>\n <h2>Estilo de Declaración de la Moda</h2>\n <p>\n Estos pantalones marcan un alto estándar en la moda infantil. El elegante tono azul marino añade una dosis de sofisticación que hará que sus niños pequeños se destaquen en la multitud. Márcate completamente en este mundo de la moda con nuestro \"Pantalón básico algodón ZY Azul marino\". \n </p>\n <h2>¡Cómpralo hoy!</h2>\n <p>\n No esperes, añade el \"Pantalón básico algodón ZY Azul marino\" a tu carrito hoy mismo y ofrece a tus preferidos la oportunidad de lucir elegantes y sofisticados. ¡Apresúrate antes de que se agoten las existencias!\n </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:37",
+  "sourceUpdatedAt": "2026-10-27 11:10:49",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67450",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2008016",
+      "productSku": "2008016",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:06.433Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8425-11178.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11178-large_default/pantalon-basico-algodon-zy-azul-marino.jpg",
+      "alt": "Pantalón básico algodón ZY Azul marino",
+      "sourceId": "11178",
+      "variantIds": [],
+      "sha256": "67c42a57467442cfba5b5414bb2bee71d892162146b3dd1eb970798e84348d28"
+    },
+    {
+      "path": "assets/8425-11179.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11179-large_default/pantalon-basico-algodon-zy-azul-marino.jpg",
+      "alt": "Pantalón básico algodón ZY Azul marino",
+      "sourceId": "11179",
+      "variantIds": [],
+      "sha256": "5d5182293bee232349c7e95fa8edaf05e8fe9a60a9a91c69ea3cf2d3a30d9fa3"
+    },
+    {
+      "path": "assets/8425-11180.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11180-large_default/pantalon-basico-algodon-zy-azul-marino.jpg",
+      "alt": "Pantalón básico algodón ZY Azul marino",
+      "sourceId": "11180",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/8425-6740.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6740-large_default/pantalon-basico-algodon-zy-azul-marino.jpg",
+      "alt": "Pantalón básico algodón ZY Azul marino",
+      "sourceId": "6740",
+      "variantIds": [],
+      "sha256": "3f21227b6ff27d121c0d7606cb1f8be4855b66397d689923d05a5952b2beca80"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:06.657Z",
+  "issues": []
+}

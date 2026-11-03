@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7960",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/7960-pijama-osito-rosa-maquillaje.html",
+  "name": "Pijama osito Rosa maquillaje",
+  "brand": "Zippy",
+  "sku": "1911055",
+  "description": "Envuélvete de ternura y calidez con el Pijama Osito Rosa Maquillaje. Conjunto ideal para mantener a las pequeñas cálidas y cómodas durante las noches frías de invierno. Su tejido suave promete dulces sueños y su encantador diseño de osito irradia una linda inocencia. Un rosa deslumbrante que inspira alegría y diversión, perfecto para llenar de risas cada momento en casa. ¡Un regalo lleno de amor y comodidad para las niñas que iluminan tu vida!",
+  "details": "Un Toque de Comodidad y Estilo\n\n\nEl Pijama osito Rosa Maquillaje, con su adorable diseño y color rosa vibrante, aportará calidez y ternura a las noches de los más pequeños. El exclusivo corte y la utilización de materiales de alta calidad aseguran una comodidad excelente, permitiendo a los niños dormir cómodamente y soñar con dulzura.\n\n\nSuavidad Incomparable\n\n\nLa suavidad del Pijama osito Rosa Maquillaje es insuperable. Fabricado con tejidos de primera calidad, este pijama ofrece una sensación de suavidad inigualable, causando cosquillas en la piel con una caricia delicada en cada uso. Además, los materiales son resistentes y duraderos, garantizando que este imprescindible pijama dure mucho tiempo sin perder su encanto y comodidad.\n\n\nSeguridad en Todas Las Noches\n\n\nLa seguridad de los pequeños es una prioridad y el Pijama osito Rosa Maquillaje no escatima en esto. Con su cálido y suave forro interno, este pijama asegura que los niños estén protegidos y abrigados durante toda la noche, evitando resfriados por cambios de temperatura. Además, es fácil de lavar y de mantener higiénico, ideal para los padres que buscan practicidad y funcionalidad.\n\n\nEs hora de mimar a los pequeños de la casa con el Pijama osito Rosa Maquillaje. Haga clic para comprar ahora y regalarles noches llenas de dulces sueños y calidez. ¡No esperes más, los pequeños lo merecen!",
+  "sourceDescriptionHtml": "<h2>Un Toque de Comodidad y Estilo</h2>\n\n<p>El Pijama osito Rosa Maquillaje, con su adorable diseño y color rosa vibrante, aportará calidez y ternura a las noches de los más pequeños. El exclusivo corte y la utilización de materiales de alta calidad aseguran una comodidad excelente, permitiendo a los niños dormir cómodamente y soñar con dulzura.</p>\n\n<h2>Suavidad Incomparable</h2>\n\n<p>La suavidad del Pijama osito Rosa Maquillaje es insuperable. Fabricado con tejidos de primera calidad, este pijama ofrece una sensación de suavidad inigualable, causando cosquillas en la piel con una caricia delicada en cada uso. Además, los materiales son resistentes y duraderos, garantizando que este imprescindible pijama dure mucho tiempo sin perder su encanto y comodidad.</p>\n\n<h2>Seguridad en Todas Las Noches</h2>\n\n<p>La seguridad de los pequeños es una prioridad y el Pijama osito Rosa Maquillaje no escatima en esto. Con su cálido y suave forro interno, este pijama asegura que los niños estén protegidos y abrigados durante toda la noche, evitando resfriados por cambios de temperatura. Además, es fácil de lavar y de mantener higiénico, ideal para los padres que buscan practicidad y funcionalidad.</p>\n\n<p>Es hora de mimar a los pequeños de la casa con el Pijama osito Rosa Maquillaje. Haga clic para comprar ahora y regalarles noches llenas de dulces sueños y calidez. ¡No esperes más, los pequeños lo merecen!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa maquillaje",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-27 11:10:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96420",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1911055",
+      "productSku": "1911055",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:13.068Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7960-6064.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6064-large_default/pijama-osito-rosa-maquillaje.jpg",
+      "alt": "Pijama osito Rosa maquillaje",
+      "sourceId": "6064",
+      "variantIds": [],
+      "sha256": "4115b4ea820e328414b2427917e0b270848c39b36bfd5c909aa1edadf75b0dde"
+    },
+    {
+      "path": "assets/7960-6063.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6063-large_default/pijama-osito-rosa-maquillaje.jpg",
+      "alt": "Pijama osito Rosa maquillaje",
+      "sourceId": "6063",
+      "variantIds": [],
+      "sha256": "3a00062e9d15e00e1f6f3c4da3f1fb9c50b33da516b43f236470190ecb847fe3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:13.181Z",
+  "issues": []
+}

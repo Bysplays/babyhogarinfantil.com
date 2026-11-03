@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "8076",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nino/8076-sudadera-bebe-new-york-azul-azul.html",
+  "name": "Sudadera bebé New York azul Azul",
+  "brand": "Zippy",
+  "sku": "2001138",
+  "description": "Sudadera de algodón para bebé. Tiene corchetes en el cuello para facilitar la puesta. Perchada en el interior, para que sea cálida en el invierno.",
+  "details": "Composición y cuidados:\n\nSudadera: 95% algodón, 5% elastano.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Sudadera: 95% algodón, 5% elastano.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "741"
+  ],
+  "sourceDefaultCategoryId": "741",
+  "sourceCategoryName": "Sudaderas y jerseys bebé niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:32",
+  "sourceUpdatedAt": "2026-10-27 11:10:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66911",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2001138",
+      "productSku": "2001138",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:12.152Z"
+    },
+    {
+      "id": "66912",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2001138",
+      "productSku": "2001138",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:13.716Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8076-10860.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10860-large_default/sudadera-bebe-new-york-azul-azul.jpg",
+      "alt": "Sudadera bebé New York azul Azul",
+      "sourceId": "10860",
+      "variantIds": [],
+      "sha256": "c5382709671aa2a8fddf30d2d2cce13c2050a1c09e0b2472bc661bf890913ce5"
+    },
+    {
+      "path": "assets/8076-6290.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6290-large_default/sudadera-bebe-new-york-azul-azul.jpg",
+      "alt": "Sudadera bebé New York azul Azul",
+      "sourceId": "6290",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/8076-6289.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6289-large_default/sudadera-bebe-new-york-azul-azul.jpg",
+      "alt": "Sudadera bebé New York azul Azul",
+      "sourceId": "6289",
+      "variantIds": [],
+      "sha256": "338414b1743075edd861be96e9c0f6adf50a9ae1ee2db88d0ff97ff80b00668e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:13.915Z",
+  "issues": []
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "18686",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/18686-pantalon-felpa-basico-guinda.html",
+  "name": "Pantalón felpa basico Guinda",
+  "brand": "Mayoral",
+  "sku": "2208063",
+  "description": "Descubre el Pantalón felpa básico Guinda, la perfección para los más pequeños. Su comodidad y flexibilidad permiten a los niños correr y jugar sin restricciones. Hecho de felpa suave, garantiza un ajuste perfecto y acogedor. Desde el primer uso, este pantalón se convertirá en la elección favorita tanto de padres como de niños. Este color guinda vibrante añade un toque moderno a cualquier outfit. ¡Es la mezcla perfecta de comodidad y estilo, diseñada pensando en los niños! ¡Dale color y vida al guardarropa de tus hijos con estos irresistibles pantalones!",
+  "details": "Comodidad en cada paso\n\nEl Pantalón de felpa básico Guinda está diseñado pensando en la comodidad y la libertad de movimiento de los más pequeños. Su suave tela de felpa abraza la delicada piel del bebé y promete una sensación de confort durante todo el día. Nunca había sido tan fácil que los peques estén cómodos y a la moda al mismo tiempo.\n\nSofisticación y estilo\n\nEste pantalón de felpa en un tono guinda no solo aporta comodidad sino también aporta un toque de sofisticación y estilo al guardarropa de los pequeños. Ideal para cualquier ocasión, desde un paseo en el parque hasta una celebración con la familia, este pantalón puede ser el acento perfecto para cualquier atuendo.\n\nFácil de cuidar\n\nAdemás de ser sinónimo de confort y estilo, el Pantalón de felpa básico Guinda es fácil de cuidar. Su felpa de alta calidad conserva su suavidad y su color profundo aún después de numerosos lavados, asegurando que siempre luzca su mejor aspecto. Es el equilibrio perfecto entre durabilidad y estilo.\n\nDecídete por el Pantalón de felpa básico Guinda. Transforma el guardarropa de los pequeños y equípalo con prendas que se ven y se sienten bien. Haz clic en \"Añadir a la cesta\" ahora y proporciona una comodidad inigualable a los más pequeños.\n\nComposición:\n\n95% Algodón\n\n5% Elastano.",
+  "sourceDescriptionHtml": "<div>\n<h2>Comodidad en cada paso</h2>\n<p>El Pantalón de felpa básico Guinda está diseñado pensando en la comodidad y la libertad de movimiento de los más pequeños. Su suave tela de felpa abraza la delicada piel del bebé y promete una sensación de confort durante todo el día. Nunca había sido tan fácil que los peques estén cómodos y a la moda al mismo tiempo.</p>\n<h2>Sofisticación y estilo</h2>\n<p>Este pantalón de felpa en un tono guinda no solo aporta comodidad sino también aporta un toque de sofisticación y estilo al guardarropa de los pequeños. Ideal para cualquier ocasión, desde un paseo en el parque hasta una celebración con la familia, este pantalón puede ser el acento perfecto para cualquier atuendo.</p>\n<h2>Fácil de cuidar</h2>\n<p>Además de ser sinónimo de confort y estilo, el Pantalón de felpa básico Guinda es fácil de cuidar. Su felpa de alta calidad conserva su suavidad y su color profundo aún después de numerosos lavados, asegurando que siempre luzca su mejor aspecto. Es el equilibrio perfecto entre durabilidad y estilo.</p>\n<p>Decídete por el Pantalón de felpa básico Guinda. Transforma el guardarropa de los pequeños y equípalo con prendas que se ven y se sienten bien. Haz clic en \"Añadir a la cesta\" ahora y proporciona una comodidad inigualable a los más pequeños.</p>\n<p>Composición:</p>\n<p>95% Algodón</p>\n<p>5% Elastano.</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Guinda",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-09-06 23:53:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87260",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2208063",
+      "productSku": "2208063",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:42.182Z"
+    },
+    {
+      "id": "87267",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2208063",
+      "productSku": "2208063",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:43.754Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18686-17207.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17207-large_default/pantalon-felpa-basico-guinda.jpg",
+      "alt": "Pantalón felpa basico Guinda",
+      "sourceId": "17207",
+      "variantIds": [],
+      "sha256": "b82c57be67ac858fb826d8d947d715b97fb53ece21c3f788511fd3dc3f423f20"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:43.814Z",
+  "issues": []
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8321",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8321-lazo-grande-con-pinza-marron.html",
+  "name": "Lazo grande con pinza Marrón",
+  "brand": "Siena",
+  "sku": "2007018",
+  "description": "Envuelve a tu pequeño en elegancia con el Lazo Grande con Pinza Marrón. Este accesorio espectacular de alta calidad, un gran lazo de terciopelo marrón oscuro, no es solo una elección de moda, sino una declaración de estilo. Ideal para complementar cualquier atuendo, añade un toque de sofisticación que hará que tu niña se destaque en cualquier evento. Su pinza robusta asegura un agarre perfecto sin dañar el cabello delicado. Perfecto para momentos especiales o para añadir encanto a la moda diaria. Convierte cada día en una ocasión especial con este Lazo Grande con Pinza Marrón.\n\nLazo de 8x8 cm. aprox. HECHO EN ESPAÑA. HECHO A MANO.",
+  "details": "Encanto Clásico y Durabilidad\n\nEsta pieza majestuosa de moda, el \"Lazo grande con pinza Marrón\", es un clásico intemporal. Diseñado con un color marrón rico que exhala elegancia, este lazo aporta un punto sofisticado a cualquier atuendo. Fabricado con un material de alta calidad, promete durabilidad y larga vida demonstàndose como el complemento perfecto para esos momentos especiales.\n\nIdeal Para Todas las Ocasiones\n\nSin importar la ocasión, la \"Lazo grande con pinza Marrón\" se une perfectamente a cualquier atuendo. Este complemento dulce y elegante puede ser la elección perfecta para las sesiones de fotos de los niños, cumpleaños, ceremonias, o incluso para el uso diario. El pinza mantiene la lazo en su lugar, garantizando la comodidad durante todo el día.\n\nOfrece un Estilo Versátil\n\nLa \"Lazo grande con pinza Marrón\" no es solo un accesorio, es una declaración de estilo. Se adapta a cualquier peinado: coletas, semi-recogidos, trenzas o simplemente dejándolo suelto. La pinza permite una fácil colocación y retiro sin dañar el cabello, aportando un toque de glamour con facilidad.\n\nNo pierda la oportunidad de adquirir este hermoso accesorio, que agrega un toque de encanto y elegancia a la apariencia de su pequeño. ¡Añada el \"Lazo grande con pinza Marrón\" a su cesta de la compra hoy!",
+  "sourceDescriptionHtml": "<h2>Encanto Clásico y Durabilidad</h2>\n<p>Esta pieza majestuosa de moda, el \"Lazo grande con pinza Marrón\", es un clásico intemporal. Diseñado con un color marrón rico que exhala elegancia, este lazo aporta un punto sofisticado a cualquier atuendo. Fabricado con un material de alta calidad, promete durabilidad y larga vida demonstàndose como el complemento perfecto para esos momentos especiales.</p>\n<h2>Ideal Para Todas las Ocasiones</h2>\n<p>Sin importar la ocasión, la \"Lazo grande con pinza Marrón\" se une perfectamente a cualquier atuendo. Este complemento dulce y elegante puede ser la elección perfecta para las sesiones de fotos de los niños, cumpleaños, ceremonias, o incluso para el uso diario. El pinza mantiene la lazo en su lugar, garantizando la comodidad durante todo el día.</p>\n<h2>Ofrece un Estilo Versátil</h2>\n<p>La \"Lazo grande con pinza Marrón\" no es solo un accesorio, es una declaración de estilo. Se adapta a cualquier peinado: coletas, semi-recogidos, trenzas o simplemente dejándolo suelto. La pinza permite una fácil colocación y retiro sin dañar el cabello, aportando un toque de glamour con facilidad.</p>\n<p>No pierda la oportunidad de adquirir este hermoso accesorio, que agrega un toque de encanto y elegancia a la apariencia de su pequeño. ¡Añada el \"Lazo grande con pinza Marrón\" a su cesta de la compra hoy!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marrón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 3.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84981",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2007018",
+      "productSku": "2007018",
+      "taxRate": 21,
+      "price": 3.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:28.396Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8321-6613.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6613-large_default/lazo-grande-con-pinza-marron.jpg",
+      "alt": "Lazo grande con pinza Marrón",
+      "sourceId": "6613",
+      "variantIds": [],
+      "sha256": "8fd44e431837dc37716fb6f93c5cca04c045323b7877afa1616b215941bc32b4"
+    },
+    {
+      "path": "assets/8321-15561.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15561-large_default/lazo-grande-con-pinza-marron.jpg",
+      "alt": "Lazo grande con pinza Marrón",
+      "sourceId": "15561",
+      "variantIds": [],
+      "sha256": "a7d3934aa3baaa5cc314d8450ab4d1ab45a1029f0a9dbfd390f1d3408d978ae0"
+    },
+    {
+      "path": "assets/8321-15562.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15562-large_default/lazo-grande-con-pinza-marron.jpg",
+      "alt": "Lazo grande con pinza Marrón",
+      "sourceId": "15562",
+      "variantIds": [],
+      "sha256": "05ce228d31130e08be6ccae37ffbad58e35a0a133ff5eccf2581f4bec9e151ab"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:28.571Z",
+  "issues": []
+}

@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "21982",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21982-conjunto-bebe-nino-algodon-dinos-azul.html",
+  "name": "Conjunto bebé niño algodon dinos Azul",
+  "brand": "Baby Happy",
+  "sku": "2601244",
+  "description": "Conjunto para bebé niño BABYBOL con camiseta estampada de dinosaurios y short liso. Confeccionado en 100% algodón, ideal para verano. La camiseta se abre con corchetes en el hombro para facilitar la puesta.",
+  "details": "El conjunto de bebé niño BABYBOL es perfecto para los días de verano, combinando comodidad y un diseño divertido que encanta a los más pequeños.\n\nLa camiseta de manga corta, confeccionada en 100% algodón, presenta un original estampado de dinosaurios y detalle frontal \"Dinosaur\". Además, incluye botones en el hombro para facilitar el cambio.\n\nEl short liso en tono neutro, también en algodón, es cómodo y ligero, ideal para el día a día. Su diseño sencillo permite combinar fácilmente con otras prendas.\n\n\nMarca: BABYBOL\n\nConjunto de 2 piezas: camiseta + short\n\nTejido: 100% algodón\n\nCamiseta con botones en el hombro\n\nColor: blanco, azul y beige\n\n\nIdeal para el día a día, guardería o paseos de verano, con un estilo cómodo y divertido.",
+  "sourceDescriptionHtml": "<p>El <strong>conjunto de bebé niño BABYBOL</strong> es perfecto para los días de verano, combinando comodidad y un diseño divertido que encanta a los más pequeños.</p>\n<p>La <strong>camiseta de manga corta</strong>, confeccionada en <strong>100% algodón</strong>, presenta un original <strong>estampado de dinosaurios</strong> y detalle frontal \"Dinosaur\". Además, incluye <strong>botones en el hombro</strong> para facilitar el cambio.</p>\n<p>El <strong>short liso</strong> en tono neutro, también en <strong>algodón</strong>, es cómodo y ligero, ideal para el día a día. Su diseño sencillo permite combinar fácilmente con otras prendas.</p>\n<ul>\n<li>Marca: <strong>BABYBOL</strong></li>\n<li>Conjunto de 2 piezas: camiseta + short</li>\n<li>Tejido: 100% algodón</li>\n<li>Camiseta con botones en el hombro</li>\n<li>Color: blanco, azul y beige</li>\n</ul>\n<p>Ideal para el <strong>día a día, guardería o paseos de verano</strong>, con un estilo cómodo y divertido.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 20,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-04-15 23:53:31",
+  "sourceUpdatedAt": "2026-10-27 11:15:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "101118",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2601244",
+      "productSku": "2601244",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:51.870Z"
+    },
+    {
+      "id": "101119",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2601244",
+      "productSku": "2601244",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:52.664Z"
+    },
+    {
+      "id": "101120",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2601244",
+      "productSku": "2601244",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:53.591Z"
+    },
+    {
+      "id": "101121",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2601244",
+      "productSku": "2601244",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:54.354Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21982-21036.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21036-large_default/conjunto-bebe-nino-algodon-dinos-azul.jpg",
+      "alt": "Conjunto bebé niño BABYBOL dinosaurios camiseta y short",
+      "sourceId": "21036",
+      "variantIds": [],
+      "sha256": "c23532d9f03ee4f9a355f3572e0d1a321673c84e5baf8ea87218e3aaba6e9af8"
+    },
+    {
+      "path": "assets/21982-21037.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21037-large_default/conjunto-bebe-nino-algodon-dinos-azul.jpg",
+      "alt": "Trasera Conjunto bebé niño BABYBOL dinosaurios camiseta y short",
+      "sourceId": "21037",
+      "variantIds": [],
+      "sha256": "700af4cf32c78ca843383d98cfcc2e1ef9a6d25271928e8dc3ba0c3b46acaf8a"
+    },
+    {
+      "path": "assets/21982-21038.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21038-large_default/conjunto-bebe-nino-algodon-dinos-azul.jpg",
+      "alt": "Detalle estampado dinosaurios BABYBOL",
+      "sourceId": "21038",
+      "variantIds": [],
+      "sha256": "e54f80ddb53a475c4845e0139f8709db838ee7d1b5a443b73334fd6d9274a353"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:51:54.526Z",
+  "issues": []
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "7675",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/7675-body-perle-asas-blanco.html",
+  "name": "Body perlé asas Blanco",
+  "brand": "Mac Ilusión",
+  "sku": "1903009",
+  "description": "Body de asas en perlé color BLANCO. Se abre con botones en la entrepierna para facilitar la puesta y el cambio de pañal. Ideal para ceremonia.",
+  "details": "Recuerda que disponemos de todo lo necesario para el bautizo, desde el faldón o vestido y el traje hasta todos los complementos para el bautizo, como las toquillas, la vela para el padrino, y los paños bautismales que puedes personalizar con nombre y fecha. Consúltalo todo en nuestras secciones de bautizo, y no dudes en llamarnos para cualquier aclaración a nuestros teléfono 886 166 179 o por WSP 695 251 402\n\nComposición:\n\nBody de asas blanco: 100% acrílico DRALON BAYER ANTIALERGICO.",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\"><span style=\"font-size:10pt;line-height:107%;font-family:robotoregular;color:#777777;\">Recuerda que disponemos de todo lo necesario para el bautizo, desde el faldón o vestido y el traje hasta todos los complementos para el bautizo, como las<strong> toquillas</strong>, la<strong> vela para el padrino</strong>, y los <strong>paños bautismales</strong> que puedes personalizar con nombre y fecha. Consúltalo todo en nuestras secciones de bautizo, y no dudes en llamarnos para cualquier aclaración a nuestros teléfono <strong>886 166 179</strong> o por WSP <strong>695 251 402</strong></span></p>\n<p>Composición:</p>\n<p>Body de asas blanco: 100% acrílico DRALON BAYER ANTIALERGICO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "668",
+    "818",
+    "815"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 17.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66130",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1903009",
+      "productSku": "1903009",
+      "taxRate": 21,
+      "price": 17.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:33.009Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7675-5682.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5682-large_default/body-perle-asas-blanco.jpg",
+      "alt": "Body perlé asas Blanco",
+      "sourceId": "5682",
+      "variantIds": [],
+      "sha256": "463ed94e1a4474a23e80a9ead468b4cbefc54aa47c065c81d6103476ba243faf"
+    },
+    {
+      "path": "assets/7675-10455.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10455-large_default/body-perle-asas-blanco.jpg",
+      "alt": "Body perlé asas Blanco",
+      "sourceId": "10455",
+      "variantIds": [],
+      "sha256": "f573e003f128e22be90ab77a0f49ae2b69133fc43b9bdf6378fe01a34b1c4760"
+    },
+    {
+      "path": "assets/7675-5681.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5681-large_default/body-perle-asas-blanco.jpg",
+      "alt": "Body perlé asas Blanco",
+      "sourceId": "5681",
+      "variantIds": [],
+      "sha256": "d5b679235d508c0a7408aa4664e042bcf76fa9cee1b6edeb6a239d64a2ef8d9f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:33.227Z",
+  "issues": []
+}

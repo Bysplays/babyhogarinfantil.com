@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "21473",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nina/21473-cardigan-algodon-unicornio-love-rosa.html",
+  "name": "Cardigan algodón unicornio love Rosa",
+  "brand": "Chicco",
+  "sku": "2502109",
+  "description": "Cardigan, sudadera en algodón con unicornio estampado. En la espalda detalles de alas estampadas. Tiene felpa interior para que sea cálida.",
+  "details": "Composición:\n\nSudadera: 95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Sudadera</strong>: 95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "727",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "727",
+  "sourceCategoryName": "Sudaderas y jerseys Bebé niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96681",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502109",
+      "productSku": "2502109",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:21.719Z"
+    },
+    {
+      "id": "96682",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502109",
+      "productSku": "2502109",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:23.043Z"
+    },
+    {
+      "id": "96683",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502109",
+      "productSku": "2502109",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:24.350Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21473-20010.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20010-large_default/cardigan-algodon-unicornio-love-rosa.jpg",
+      "alt": "Cardigan algodón unicornio love Rosa",
+      "sourceId": "20010",
+      "variantIds": [],
+      "sha256": "56ec1a4f241fd774c027a748c50acf8e9fb5fbb614bb7350420fc9165bf1f77a"
+    },
+    {
+      "path": "assets/21473-20011.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20011-large_default/cardigan-algodon-unicornio-love-rosa.jpg",
+      "alt": "Cardigan algodón unicornio love Rosa",
+      "sourceId": "20011",
+      "variantIds": [],
+      "sha256": "d51fc30fbcacd88a5bd5079ff7949e6d2c4ad2ed039559e986604d32c59f6634"
+    },
+    {
+      "path": "assets/21473-20012.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20012-large_default/cardigan-algodon-unicornio-love-rosa.jpg",
+      "alt": "Cardigan algodón unicornio love Rosa",
+      "sourceId": "20012",
+      "variantIds": [],
+      "sha256": "46abb04df81e2ea58bd5fa578fdf731f161dbffdf63b9fef7c2a7cd75ba7f77c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:24.583Z",
+  "issues": []
+}

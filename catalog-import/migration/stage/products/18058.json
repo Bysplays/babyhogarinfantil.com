@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "18058",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys/18058-jersey-nina-jacquard-guinda.html",
+  "name": "Jersey niña jacquard Guinda",
+  "brand": "Mayoral",
+  "sku": "2402074",
+  "description": "",
+  "details": "Composición:\n\n40% Poliéster\n\n35% Acrílico\n\n20% Poliamida\n\n5% Lana.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>40% Poliéster</p>\n<p>35% Acrílico</p>\n<p>20% Poliamida</p>\n<p>5% Lana.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Guinda",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "772",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "772",
+  "sourceCategoryName": "Sudaderas y jerseys",
+  "price": 27.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-31 15:53:59",
+  "sourceUpdatedAt": "2026-10-27 11:13:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "86112",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2402074",
+      "productSku": "2402074",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:11.811Z"
+    },
+    {
+      "id": "86113",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2402074",
+      "productSku": "2402074",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:13.433Z"
+    },
+    {
+      "id": "86114",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2402074",
+      "productSku": "2402074",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:15.013Z"
+    },
+    {
+      "id": "86115",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2402074",
+      "productSku": "2402074",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:16.590Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18058-16502.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16502-large_default/jersey-nina-jacquard-guinda.jpg",
+      "alt": "Jersey niña jacquard Guinda",
+      "sourceId": "16502",
+      "variantIds": [],
+      "sha256": "3767ba36ccbfe7342c1e5d5c2a856998d60984581cdd8bf7c2b17041dd2fbf56"
+    },
+    {
+      "path": "assets/18058-16503.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16503-large_default/jersey-nina-jacquard-guinda.jpg",
+      "alt": "Jersey niña jacquard Guinda",
+      "sourceId": "16503",
+      "variantIds": [],
+      "sha256": "a3bf728d6fda486df869b822cf461642475767015fbcd8463510a07c25a6fcde"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:16.778Z",
+  "issues": []
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "21480",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/21480-pantalon-algodon-erizos-natural.html",
+  "name": "pantalón algodón erizos Natural",
+  "brand": "Chicco",
+  "sku": "2502114",
+  "description": "Pantalón largo estampada con simpático erizo. Tiene felpa interior para que sea calentita en el invierno. Tiene botones decorativos. Cintura de goma. Disponible la\n\n\nsudadera a juego para hacer un divertido conjunto.",
+  "details": "Composición:\n\nPantalón: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Pantalón:</strong> 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Natural",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96716",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502114",
+      "productSku": "2502114",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:53.283Z"
+    },
+    {
+      "id": "96718",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502114",
+      "productSku": "2502114",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:54.466Z"
+    },
+    {
+      "id": "96717",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502114",
+      "productSku": "2502114",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:55.579Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21480-20027.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20027-large_default/pantalon-algodon-erizos-natural.jpg",
+      "alt": "pantalón algodón erizos Natural",
+      "sourceId": "20027",
+      "variantIds": [],
+      "sha256": "da3e4d07f791d2e31d4b8e1cd504f7a47233093c4b8cd139482083784da98664"
+    },
+    {
+      "path": "assets/21480-20028.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20028-large_default/pantalon-algodon-erizos-natural.jpg",
+      "alt": "pantalón algodón erizos Natural",
+      "sourceId": "20028",
+      "variantIds": [],
+      "sha256": "ef1e402361002c4652698eab114d5056eb51df688c6a417be8951a658672d179"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:55.721Z",
+  "issues": []
+}

@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "17891",
+  "sourceUrl": "https://babyhogarinfantil.com/babis-escolares/17891-mandilon-combinado-verde.html",
+  "name": "Mandilón combinado Verde",
+  "brand": "Segurlain",
+  "sku": "2402063",
+  "description": "Sorprenda a su pequeño con el Mandilón Combinado Verde, la elección perfecta para esos momentos especiales en la escuela. Este colorido atuendo aúna estilo y funcionalidad, fabricado con materiales de alta calidad que garantizan la comodidad y durabilidad deseadas. La versatilidad de su tono verde hace que sea fácil de combinar, y su diseño original encantará a los niños. ¡Permita que su personita favorita asista a clase con confianza y alegría, luciendo el mejor uniforme escolar con nuestro Mandilón Combinado Verde!",
+  "details": "Comodidad Inigualable\n\nEl Mandilón Combinado Verde es la mejor opción para mantener a los pequeños cómodos y a la moda. Su diseño versátil y lujoso asegura una vestimenta suave y duradera. Este hermoso mandilón verde añade un toque distintivo a cualquier conjunto, ideal para ocasiones especiales o para el día a día.\n\nCalidad Suprema\n\nCon su acogedor y fino material, la calidad del Mandilón Combinado Verde es insuperable. La delicadeza de su textura cuidará la piel de los pequeños evitando irritaciones, además de proporcionarles calidez y confort durante todo el día. Esta pieza única es resistente al lavado y diseñada para perdurar, manteniendo su encanto y frescura a pesar del uso intenso.\n\nElegancia y Versatilidad\n\nEl Mandilón Combinado Verde marca tendencia con su diseño elegante y versátil. Este exclusivo mandilón es la elección perfecta para añadir un toque chispeante a la vestimenta de los niños. Con su tonalidad vibrante y estimulante, este encantador mandilón enfatizará el carisma y la alegría de cualquier pequeño.\n\nNo pierdas la oportunidad de adquirir esta pieza esencial que ofrecerá a los pequeños la comodidad y la elegancia que necesitan. ¡Haz clic ahora para añadir el Mandilón Combinado Verde a tu cesta y dale un mimo lleno de confort y estilo a tus pequeños!\n\nComposición:\n\nBaby: 67% poliéster, 33% algodón.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<h2>Comodidad Inigualable</h2>\n<p>El Mandilón Combinado Verde es la mejor opción para mantener a los pequeños cómodos y a la moda. Su diseño versátil y lujoso asegura una vestimenta suave y duradera. Este hermoso mandilón verde añade un toque distintivo a cualquier conjunto, ideal para ocasiones especiales o para el día a día.</p>\n<h3>Calidad Suprema</h3>\n<p>Con su acogedor y fino material, la calidad del Mandilón Combinado Verde es insuperable. La delicadeza de su textura cuidará la piel de los pequeños evitando irritaciones, además de proporcionarles calidez y confort durante todo el día. Esta pieza única es resistente al lavado y diseñada para perdurar, manteniendo su encanto y frescura a pesar del uso intenso.</p>\n<h4>Elegancia y Versatilidad</h4>\n<p>El Mandilón Combinado Verde marca tendencia con su diseño elegante y versátil. Este exclusivo mandilón es la elección perfecta para añadir un toque chispeante a la vestimenta de los niños. Con su tonalidad vibrante y estimulante, este encantador mandilón enfatizará el carisma y la alegría de cualquier pequeño.</p>\n<p>No pierdas la oportunidad de adquirir esta pieza esencial que ofrecerá a los pequeños la comodidad y la elegancia que necesitan. ¡Haz clic ahora para añadir el Mandilón Combinado Verde a tu cesta y dale un mimo lleno de confort y estilo a tus pequeños!</p>\n<p>Composición:</p>\n<p>Baby: 67% poliéster, 33% algodón.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "679",
+    "812",
+    "871"
+  ],
+  "sourceDefaultCategoryId": "679",
+  "sourceCategoryName": "Babis escolares",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-18 23:53:56",
+  "sourceUpdatedAt": "2026-10-27 11:13:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 18,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85822",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2402063",
+      "productSku": "2402063",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:34.407Z"
+    },
+    {
+      "id": "85823",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2402063",
+      "productSku": "2402063",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:37.414Z"
+    },
+    {
+      "id": "85824",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2402063",
+      "productSku": "2402063",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:39.964Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17891-16037.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16037-large_default/mandilon-combinado-verde.jpg",
+      "alt": "Mandilón combinado Verde",
+      "sourceId": "16037",
+      "variantIds": [],
+      "sha256": "07f753734b08a258166356a8dc2c304c83959a577a9a3dba7e082aa4c61b689d"
+    },
+    {
+      "path": "assets/17891-16038.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16038-large_default/mandilon-combinado-verde.jpg",
+      "alt": "Mandilón combinado Verde",
+      "sourceId": "16038",
+      "variantIds": [],
+      "sha256": "c8bd308aed5f8fc459bd00f84b5e9fef86cd4c258e483e6fade441ebf9a95a70"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:30:40.155Z",
+  "issues": []
+}

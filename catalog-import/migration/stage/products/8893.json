@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "8893",
+  "sourceUrl": "https://babyhogarinfantil.com/dou-dou-y-peluches/8893-peluche-manta-unicornio-crudo.html",
+  "name": "Peluche manta Unicornio Crudo",
+  "brand": "Atmosphera",
+  "sku": "2105032",
+  "description": "Peluche UNICORNIO con mantita de estrellas beige. Medidas manta 80x110 cm.",
+  "details": "Composicón:\n\nPeluche y manta: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composicón:</p>\n<p>Peluche y manta: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "767",
+    "788",
+    "865"
+  ],
+  "sourceDefaultCategoryId": "767",
+  "sourceCategoryName": "Dou Dou y Peluches",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:42",
+  "sourceUpdatedAt": "2026-10-27 11:11:07",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "100002",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9086XA14391",
+      "productSku": "2105032",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:48.343Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8893-7200.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7200-large_default/peluche-manta-unicornio-crudo.jpg",
+      "alt": "Peluche de Unicornio con manta de 80x110 en color Crudo",
+      "sourceId": "7200",
+      "variantIds": [],
+      "sha256": "b98d6fc64806189a906b980a6faee3bc2ccc0a17c7115728fc73a8967ecb14cc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:48.480Z",
+  "issues": []
+}

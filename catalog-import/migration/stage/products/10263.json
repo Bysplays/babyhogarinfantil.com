@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "10263",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/10263-vestido-lino-bebe-lino.html",
+  "name": "Vestido lino bebé Lino",
+  "brand": "Alber",
+  "sku": "2301027",
+  "description": "Sumérgete en un mundo de dulce elegancia con nuestro Vestido Lino Bebé Lino. Al confeccionar en un tejido de lino suave y ligero, garantiza la máxima comodidad para tu pequeño ángel durante todo el día. Su diseño sencillo pero sofisticado con pequeños detalles de encanto añade un atractivo extra. Una elección perfecta para celebraciones especiales, fiestas o simplemente para un día divertido en el parque. Este vestido no es solo ropa, sino un abrazo amoroso que envuelve a tu niña en cariño, confort y estilo. Uno nunca puede estar demasiado joven para estar a la moda, ¡Invierte en su elegancia desde joven con el Vestido Lino Bebé Lino!",
+  "details": "Encanto de Lino Puro\n\nRefinado y minuciosamente elaborado, el Vestido Lino Bebé Lino es un clásico atemporal que rezuma encanto. Hecho de lino puro, este vestido proporciona la máxima transpirabilidad y comodidad, incluso en los días más calurosos de verano. Cada puntada y dobladillo se ha hecho con sumo cuidado, asegurando un acabado de alta calidad que se mantiene a lo largo del tiempo.\n\n54% Viscosa, 28% Algodón, 18% Lino\n\nForro:\n\n65% Poliéster\n\n35% Algodón\n\nElegancia y Comodidad en Cada Ocasión\n\nEl Vestido Lino Bebé Lino presenta un diseño versátil que es perfecto para todo tipo de ocasiones. Tanto si se trata de un día de campo informal como de una fiesta de cumpleaños elegante, este vestido garantiza que su pequeña esté siempre cómoda y con estilo. Con su corte clásico y su tela de lino súper suave, este vestido es un verdadero ejemplo de elegancia infantil.\n\nHecho para Durar\n\nLa durabilidad es una característica clave de este vestido. Gracias a su composición en lino puro, es increíblemente resistente y mantiene su forma y color, lavado tras lavado. Además, con su diseño neutral y atemporal, el Vestido Lino Bebé Lino puede pasar fácilmente de ser una prenda de día a día a convertirse en un recuerdo preciado.\n\n¡No espere más, compre ahora el Vestido Lino Bebé Lino y haga que su pequeña se sienta especial! ¡Haga clic aquí para comprar ahora!",
+  "sourceDescriptionHtml": "<h2>Encanto de Lino Puro</h2>\n<p>Refinado y minuciosamente elaborado, el Vestido Lino Bebé Lino es un clásico atemporal que rezuma encanto. Hecho de lino puro, este vestido proporciona la máxima transpirabilidad y comodidad, incluso en los días más calurosos de verano. Cada puntada y dobladillo se ha hecho con sumo cuidado, asegurando un acabado de alta calidad que se mantiene a lo largo del tiempo.</p>\n<p>54% Viscosa, 28% Algodón, 18% Lino</p>\n<p>Forro:</p>\n<p>65% Poliéster</p>\n<p>35% Algodón</p>\n<h2>Elegancia y Comodidad en Cada Ocasión</h2>\n<p>El Vestido Lino Bebé Lino presenta un diseño versátil que es perfecto para todo tipo de ocasiones. Tanto si se trata de un día de campo informal como de una fiesta de cumpleaños elegante, este vestido garantiza que su pequeña esté siempre cómoda y con estilo. Con su corte clásico y su tela de lino súper suave, este vestido es un verdadero ejemplo de elegancia infantil.</p>\n<h2>Hecho para Durar</h2>\n<p>La durabilidad es una característica clave de este vestido. Gracias a su composición en lino puro, es increíblemente resistente y mantiene su forma y color, lavado tras lavado. Además, con su diseño neutral y atemporal, el Vestido Lino Bebé Lino puede pasar fácilmente de ser una prenda de día a día a convertirse en un recuerdo preciado.</p>\n<p><a href=\"#\" class=\"cta\">¡No espere más, compre ahora el Vestido Lino Bebé Lino y haga que su pequeña se sienta especial! ¡Haga clic aquí para comprar ahora!</a></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 37.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71345",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301027",
+      "productSku": "2301027",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:15.089Z"
+    },
+    {
+      "id": "71347",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301027",
+      "productSku": "2301027",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:17.599Z"
+    },
+    {
+      "id": "71348",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2301027",
+      "productSku": "2301027",
+      "taxRate": 21,
+      "price": 37.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:19.701Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10263-8218.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8218-large_default/vestido-lino-bebe-lino.jpg",
+      "alt": "Vestido lino bebé Lino",
+      "sourceId": "8218",
+      "variantIds": [],
+      "sha256": "dd2afc18ae0db94d5668acc05e120c2974c011e7f53cb3106628cc9d1969b22b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:19.766Z",
+  "issues": []
+}

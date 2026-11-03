@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9962",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9962-conjunto-peto-cuadros-rojo.html",
+  "name": "Conjunto peto cuadros Rojo",
+  "brand": "Baby-Ferr",
+  "sku": "2208088",
+  "description": "Adéntrate en el mundo de la moda de niños con el Conjunto Peto Cuadros Rojo, perfecto para su pequeño aventurero. Este conjunto ofrece un equilibrio único entre comodidad y estilo, gracias a su diseño de cuadros en vivo rojo y la suavidad al tacto de su tejido. Finalmente encontraste la outfit que se equipara con su energía y su espíritu juguetón. Ideal para cualquier ocasión, definitivamente robará los elogios de todos. Sorprenda a su niño hoy, y déjelo ser el pequeño modelo que realmente es.",
+  "details": "El Encanto del Escocés\n\n\n\nLlena de encanto y elegancia, la confección del Conjunto peto cuadros Rojo asegura una combinación perfecta de estética y comodidad. Ideal para cualquier ocasión, desde eventos familiares hasta salidas casuales. Sin duda alguna, conquistarán corazones a su paso.\n\n\n\nComodidad sin Sacrificar la Elegancia\n\n\n\nEl conjunto está diseñado teniendo en cuenta la comodidad del niño. Fabricado con materiales suaves y duraderos, garantiza que los niños se mantengan cómodos, sin importar cuánto tiempo lo usen. Con el Conjunto peto cuadros Rojo, los pequeños pueden jugar, correr y explorar con total libertad de movimiento.\n\n\n\nDiseño Unisex Encantador\n\n\n\nCon su diseño a cuadros rojos, este conjunto presenta una opción perfecta para ambos géneros. Su versatilidad y diseño atemporal aseguran que el Conjunto peto cuadros Rojo sea un clásico en el guardarropa de cualquier niño. Cada detalle está pensado para resaltar la inocencia y la ternura que solo los niños pueden llevar.\n\n\n\n\n\n¡No esperes más! Realza la adorable personalidad de tu pequeño con nuestro Conjunto peto cuadros Rojo. ¡Añade este hermoso conjunto a tu carrito de compras ahora!",
+  "sourceDescriptionHtml": "<h2>El Encanto del Escocés</h2>\n\n<p>\nLlena de encanto y elegancia, la confección del Conjunto peto cuadros Rojo asegura una combinación perfecta de estética y comodidad. Ideal para cualquier ocasión, desde eventos familiares hasta salidas casuales. Sin duda alguna, conquistarán corazones a su paso.\n</p>\n\n<h2>Comodidad sin Sacrificar la Elegancia</h2>\n\n<p>\nEl conjunto está diseñado teniendo en cuenta la comodidad del niño. Fabricado con materiales suaves y duraderos, garantiza que los niños se mantengan cómodos, sin importar cuánto tiempo lo usen. Con el Conjunto peto cuadros Rojo, los pequeños pueden jugar, correr y explorar con total libertad de movimiento.\n</p>\n\n<h2>Diseño Unisex Encantador</h2>\n\n<p>\nCon su diseño a cuadros rojos, este conjunto presenta una opción perfecta para ambos géneros. Su versatilidad y diseño atemporal aseguran que el Conjunto peto cuadros Rojo sea un clásico en el guardarropa de cualquier niño. Cada detalle está pensado para resaltar la inocencia y la ternura que solo los niños pueden llevar.\n</p>\n\n\n<p style=\"font-weight:bold;text-align:center;\">\n¡No esperes más! Realza la adorable personalidad de tu pequeño con nuestro Conjunto peto cuadros Rojo. ¡Añade este hermoso conjunto a tu carrito de compras ahora!\n</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 31.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:56",
+  "sourceUpdatedAt": "2026-10-27 11:11:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70522",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2208088",
+      "productSku": "2208088",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:00.440Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9962-13073.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13073-large_default/conjunto-peto-cuadros-rojo.jpg",
+      "alt": "Conjunto peto cuadros Rojo",
+      "sourceId": "13073",
+      "variantIds": [],
+      "sha256": "c1b0106c9891205e14583234d3043efb026a800ac6944838e93f4baac8e18c8f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:00.486Z",
+  "issues": []
+}

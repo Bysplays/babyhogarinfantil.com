@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "7690",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/7690-deportiva-bebe-ovik-blanco.html",
+  "name": "Deportiva bebé Ovik Blanco",
+  "brand": "Chicco",
+  "sku": "1903041",
+  "description": "Deportiva loneta BLANCA. SIN SUELA. Los cordones son de goma, no se atan. DISPONIBLE EN COLOR FUCSIA.",
+  "details": "Deportiva de CHICCO, una de nuestras firmas favoritas! De loneta, en color blanco con detalles bordados de florecillas en el mismo tono. Los cordones son el&aacute;sticos, no se atan, dan mucha flexibilidad y apertura, a la hora del calzado. Est&aacute;n decorados con sutiles brillos plateados. Suela acolchada. Un calzado ligero y muy confortable, ideal para los beb&eacute;s. DISPONIBLE EN COLOR FUCSIA. \n\r\nComposici&oacute;n y cuidados:\n\r\nDeportiva: 60% algod&oacute;n, 40% poliuretano",
+  "sourceDescriptionHtml": "<p>Deportiva de <strong>CHICCO</strong>, una de nuestras firmas favoritas! De loneta, en color blanco con detalles bordados de florecillas en el mismo tono. Los cordones son el&aacute;sticos, no se atan, dan mucha flexibilidad y apertura, a la hora del calzado. Est&aacute;n decorados con sutiles brillos plateados. Suela acolchada. Un calzado ligero y muy confortable, ideal para los beb&eacute;s. DISPONIBLE EN COLOR FUCSIA.&nbsp;</p>\r\n<p>Composici&oacute;n y cuidados:</p>\r\n<p>Deportiva: 60% algod&oacute;n, 40% poliuretano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 0,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [],
+  "variants": [
+    {
+      "id": "66154",
+      "attributes": [],
+      "sku": "1903041",
+      "productSku": "1903041",
+      "taxRate": 21,
+      "price": 0,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:41.067Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7690-5703.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5703-large_default/deportiva-bebe-ovik-blanco.jpg",
+      "alt": "Deportiva bebé Ovik Blanco",
+      "sourceId": "5703",
+      "variantIds": [],
+      "sha256": "3bfe7b3e9ac93b09e573bbf8daa5ac5f2458b8cdd1d0dfa497886aacc5276d61"
+    },
+    {
+      "path": "assets/7690-10463.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10463-large_default/deportiva-bebe-ovik-blanco.jpg",
+      "alt": "Deportiva bebé Ovik Blanco",
+      "sourceId": "10463",
+      "variantIds": [],
+      "sha256": "3bfe7b3e9ac93b09e573bbf8daa5ac5f2458b8cdd1d0dfa497886aacc5276d61"
+    },
+    {
+      "path": "assets/7690-5702.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5702-large_default/deportiva-bebe-ovik-blanco.jpg",
+      "alt": "Deportiva bebé Ovik Blanco",
+      "sourceId": "5702",
+      "variantIds": [],
+      "sha256": "cd5afa59ae8e53723f2ddff0da78c199ee21f5645032a2070c34b4324b5bfe8d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:41.249Z",
+  "issues": []
+}

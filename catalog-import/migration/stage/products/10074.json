@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "10074",
+  "sourceUrl": "https://babyhogarinfantil.com/peleles-bebe-nino/10074-pelele-tricot-punto-azul-azul.html",
+  "name": "Pelele tricot punto azul Azul",
+  "brand": "Mayoral",
+  "sku": "2208187",
+  "description": "Envuelve a tu pequeño en el mágico abrazo del Pelele tricot punto azul Azul, finamente tejido para brindar una comodidad insuperable. Este tierno atuendo se convertirá en el favorito de tu bebé, proporcionando calor y confort durante todo el día. Tejido con amor, este pelele presenta un encanto clásico con un toque de modernidad. Con un color azul encantador, resonará con la inocencia y dulzura de tu pequeño. Deja que tu bebé descubra el mundo con estilo y comodidad. Cada detalle de este pelele se ha diseñado pensando en el amor que sientes por tu pequeño. Es más que una prenda de vestir, es un abrazo lleno de amor para tu bebé.",
+  "details": "Clásico con Carácter\n\nEnvolvente y acogedor, el Pelele Tricot punto azul atrae con su diseño clásico y su tono azul único. La confección de punto de alta calidad ofrece una suavidad envolvente que a los pequeños les encanta, sin renunciar a una resistencia duradera para soportar su energía desbordante. Asegure a su niño en su primera aventura con este cálido tricot azul.\n\nExcelencia en Cada Punto\n\nEl Pelele Tricot punto azul exuda una artesanía refinada. Cada punto es hábilmente cosido para destacar sus magníficos detalles y asegurarse de que es tan divertido de usar como de observar. Este excepcional detalle hace que este pelele sea una elección impecable para cualquier ocasión especial o simplemente para el placer cotidiano de vestir a los más pequeños con estilo.\n\nComodidad sin Compromisos\n\nCon su diseño fácil de poner y de quitar, este cómodo pelele permite que las tareas de vestir sean un paseo en el parque. Su peso ligero añade una comodidad extra a los movimientos del bebé, permitiendo a su pequeño moverse con facilidad mientras se ve elegante en todo momento. Una adición invaluable que promete comodidad sin compromisos en ninguna aventura de su pequeño.\n\nDescubra lo que nuestro Pelele tricot punto azul puede ofrecer a su pequeño hoy mismo. ¡Solo se necesita un clic para hacer un cambio increíble en su armario! Hazte con el tuyo ahora.\n\nComposición y cuidados:\n\nPelele: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<h2>Clásico con Carácter</h2>\n<p>Envolvente y acogedor, el Pelele Tricot punto azul atrae con su diseño clásico y su tono azul único. La confección de punto de alta calidad ofrece una suavidad envolvente que a los pequeños les encanta, sin renunciar a una resistencia duradera para soportar su energía desbordante. Asegure a su niño en su primera aventura con este cálido tricot azul.</p>\n<h2>Excelencia en Cada Punto</h2>\n<p>El Pelele Tricot punto azul exuda una artesanía refinada. Cada punto es hábilmente cosido para destacar sus magníficos detalles y asegurarse de que es tan divertido de usar como de observar. Este excepcional detalle hace que este pelele sea una elección impecable para cualquier ocasión especial o simplemente para el placer cotidiano de vestir a los más pequeños con estilo.</p>\n<h2>Comodidad sin Compromisos</h2>\n<p>Con su diseño fácil de poner y de quitar, este cómodo pelele permite que las tareas de vestir sean un paseo en el parque. Su peso ligero añade una comodidad extra a los movimientos del bebé, permitiendo a su pequeño moverse con facilidad mientras se ve elegante en todo momento. Una adición invaluable que promete comodidad sin compromisos en ninguna aventura de su pequeño.</p>\n<p>Descubra lo que nuestro Pelele tricot punto azul puede ofrecer a su pequeño hoy mismo. ¡Solo se necesita un clic para hacer un cambio increíble en su armario! Hazte con el tuyo ahora.</p>\n<p>Composición y cuidados:</p>\n<p>Pelele: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "756"
+  ],
+  "sourceDefaultCategoryId": "756",
+  "sourceCategoryName": "Peleles Bebé Niño",
+  "price": 32.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70814",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2208187",
+      "productSku": "2208187",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:19.549Z"
+    },
+    {
+      "id": "70815",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2208187",
+      "productSku": "2208187",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:21.235Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10074-13206.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13206-large_default/pelele-tricot-punto-azul-azul.jpg",
+      "alt": "Pelele tricot punto azul Azul",
+      "sourceId": "13206",
+      "variantIds": [],
+      "sha256": "7d1939f599d57c5ad25040ee04680f29e89b7cf5bfe0f90eb65b6e0501427b74"
+    },
+    {
+      "path": "assets/10074-13207.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13207-large_default/pelele-tricot-punto-azul-azul.jpg",
+      "alt": "Pelele tricot punto azul Azul",
+      "sourceId": "13207",
+      "variantIds": [],
+      "sha256": "84b1cab86521b1f62ab4473acdb37b31d16671ebc81a86bc5979afe7df79ebb8"
+    },
+    {
+      "path": "assets/10074-13208.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13208-large_default/pelele-tricot-punto-azul-azul.jpg",
+      "alt": "Pelele tricot punto azul Azul",
+      "sourceId": "13208",
+      "variantIds": [],
+      "sha256": "da3ee3d170a4f160cf36af02ea9e327a563a41601cb66ee3e293da149106d0ae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:21.453Z",
+  "issues": []
+}

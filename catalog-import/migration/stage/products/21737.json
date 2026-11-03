@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "21737",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/21737-leggin-algodon-bebe-menta.html",
+  "name": "Leggin algodón bebé Menta",
+  "brand": "Mayoral",
+  "sku": "2601037",
+  "description": "Leggins de bebé Mayoral confeccionados en algodón suave y elástico, perfectos para ofrecer comodidad y libertad de movimiento a los más pequeños. Su diseño en color verde suave es fácil de combinar con camisetas, sudaderas o conjuntos de bebé, convirtiéndose en una prenda práctica y versátil para el día a día. SE VENDE POR SEPARADO. PRECIO DE 1 UNIDAD.",
+  "details": "Estos leggins de bebé Mayoral están confeccionados en algodón suave y elástico, ofreciendo una gran comodidad y adaptabilidad para acompañar al bebé en todos sus movimientos. Su tejido ligero y agradable al tacto es ideal para el uso diario, garantizando confort durante todo el día. El diseño en color verde suave aporta un estilo dulce y fácil de combinar con diferentes prendas de la colección de bebé, como camisetas, sudaderas o chaquetas. Gracias a su cintura elástica, estos leggins de algodón para bebé se ajustan perfectamente sin apretar, proporcionando una sensación de comodidad constante. La calidad de la marca Mayoral garantiza una prenda resistente y pensada para el bienestar del bebé, ideal tanto para el día a día como para completar conjuntos cómodos y actuales. Características:\n\n\nLeggins bebé marca Mayoral\n\nTejido de algodón suave y transpirable\n\nCintura elástica cómoda\n\nColor verde suave fácil de combinar\n\nPrenda ligera y flexible\n\nIdeal para uso diario\n\nComposición: 97% algodón, 3% elastano.",
+  "sourceDescriptionHtml": "<p>Estos <strong>leggins de bebé Mayoral</strong> están confeccionados en <strong>algodón suave y elástico</strong>, ofreciendo una gran comodidad y adaptabilidad para acompañar al bebé en todos sus movimientos. Su tejido ligero y agradable al tacto es ideal para el uso diario, garantizando confort durante todo el día. El diseño en <strong>color verde suave</strong> aporta un estilo dulce y fácil de combinar con diferentes prendas de la colección de bebé, como camisetas, sudaderas o chaquetas. Gracias a su <strong>cintura elástica</strong>, estos <strong>leggins de algodón para bebé</strong> se ajustan perfectamente sin apretar, proporcionando una sensación de comodidad constante. La calidad de la marca <strong>Mayoral</strong> garantiza una prenda resistente y pensada para el bienestar del bebé, ideal tanto para el día a día como para completar conjuntos cómodos y actuales. <strong>Características:</strong></p>\n<ul>\n<li>Leggins bebé marca Mayoral</li>\n<li>Tejido de algodón suave y transpirable</li>\n<li>Cintura elástica cómoda</li>\n<li>Color verde suave fácil de combinar</li>\n<li>Prenda ligera y flexible</li>\n<li>Ideal para uso diario</li>\n<li>Composición: <strong>97% algodón, 3% elastano.</strong></li>\n</ul>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Menta",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-12 08:34:13",
+  "sourceUpdatedAt": "2026-10-27 11:14:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "340",
+          "label": "2-4m"
+        },
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99702",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2601037",
+      "productSku": "2601037",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:54.857Z"
+    },
+    {
+      "id": "99703",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2601037",
+      "productSku": "2601037",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:57.179Z"
+    },
+    {
+      "id": "99704",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2601037",
+      "productSku": "2601037",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:59.471Z"
+    },
+    {
+      "id": "99705",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2601037",
+      "productSku": "2601037",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:02.235Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21737-20667.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20667-large_default/leggin-algodon-bebe-menta.jpg",
+      "alt": "Leggins bebé algodón verde Mayoral",
+      "sourceId": "20667",
+      "variantIds": [],
+      "sha256": "c13619119cf71f128bc684ceaa5a67c86f4db930952d92e46769a9e2820eb5f2"
+    },
+    {
+      "path": "assets/21737-20668.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20668-large_default/leggin-algodon-bebe-menta.jpg",
+      "alt": "Pantalón leggins bebé verde suave Mayoral detalle cintura",
+      "sourceId": "20668",
+      "variantIds": [],
+      "sha256": "915848842066b6e607db26bfeb4d50621094170c71ee632989c3613a3a252fbb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:02.355Z",
+  "issues": []
+}

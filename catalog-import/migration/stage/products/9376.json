@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9376",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/9376-pijama-entero-bebe-nino-verano-vaquita-azul.html",
+  "name": "Pijama entero bebe niño verano Vaquita Azul",
+  "brand": "Babybol",
+  "sku": "2202009",
+  "description": "Pijama 100% algodón. Abre por la espalda con corchetes.",
+  "details": "Composición y cuidados:\n\nPijama: 100% algodón.\n\nNO USAR SECADORA\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pijama: 100% algodón.</p>\n<p>NO USAR SECADORA</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 7,
+  "oldPrice": 13.989999,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69118",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2202009",
+      "productSku": "2202009",
+      "taxRate": 21,
+      "price": 7,
+      "oldPrice": 13.989999,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:42.286Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9376-7632.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7632-large_default/pijama-entero-bebe-nino-verano-vaquita-azul.jpg",
+      "alt": "Pijama entero bebe niño verano Vaquita Azul",
+      "sourceId": "7632",
+      "variantIds": [],
+      "sha256": "bd396f4cbe14c61fc6fbba15d1456664690517365730bb62acce94bb2ac7b52d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:42.353Z",
+  "issues": []
+}

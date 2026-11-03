@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "16346",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-montesol/16346-sudadera-infantil-verde.html",
+  "name": "Sudadera infantil Verde",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2304033",
+  "description": "Sudadera en felpa perchada para el chandal de infantil del colegio Montesol de Vigo.",
+  "details": "Sudadera para el uniforme de infantíl del colegio MONTESO de Vigo. Disponemos del pantalón y la camiseta, asi como de mandilones, calzado y calcetines escolares.\n\nComposición: 50% algodón, 50% poliéster.\n\nHACHA EN GALICIA",
+  "sourceDescriptionHtml": "<p>Sudadera para el uniforme de infantíl del colegio MONTESO de Vigo. Disponemos del pantalón y la camiseta, asi como de mandilones, calzado y calcetines escolares.</p>\n<p>Composición: 50% algodón, 50% poliéster.</p>\n<p><strong>HACHA EN GALICIA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "850"
+  ],
+  "sourceDefaultCategoryId": "850",
+  "sourceCategoryName": "Colegio Montesol",
+  "price": 30.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-31 14:32:49",
+  "sourceUpdatedAt": "2026-10-27 11:12:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 56,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95954",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "11307XC17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:25.332Z"
+    },
+    {
+      "id": "148647",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "11307XA17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:27.519Z"
+    },
+    {
+      "id": "148648",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "11307XB17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:30.180Z"
+    },
+    {
+      "id": "97437",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "11307XD17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 9,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:32.467Z"
+    },
+    {
+      "id": "97329",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "11307XE17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 12,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:35.306Z"
+    },
+    {
+      "id": "148649",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "11307XF17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:37.335Z"
+    },
+    {
+      "id": "97330",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "11307XG17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 15,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:39.547Z"
+    },
+    {
+      "id": "148650",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "11307XH17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:41.815Z"
+    },
+    {
+      "id": "87534",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "11307XI17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:44.710Z"
+    },
+    {
+      "id": "78239",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "11307XJ17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:47.072Z"
+    },
+    {
+      "id": "148651",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "11307XK17423",
+      "productSku": "2304033",
+      "taxRate": 21,
+      "price": 30.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:49.789Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16346-14109.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14109-large_default/sudadera-infantil-verde.jpg",
+      "alt": "Sudadera infantil Verde",
+      "sourceId": "14109",
+      "variantIds": [],
+      "sha256": "83fc0023c1b17fdcb619d093b0b761a5058759009a64fa915da0cbb5d0b3dab0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:33:49.866Z",
+  "issues": []
+}

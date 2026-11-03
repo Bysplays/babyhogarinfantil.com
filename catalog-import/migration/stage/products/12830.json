@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "12830",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/12830-conjunto-bebe-barquito-marino.html",
+  "name": "Conjunto bebe barquito Marino",
+  "brand": "Talaman",
+  "sku": "2301343",
+  "description": "Conjunto de dos piezas, compuesto por camiseta de manga corta en color blanco con barquito bordado y pantalón corto de listas",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-30 00:36:56",
+  "sourceUpdatedAt": "2026-10-27 11:12:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72383",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301343",
+      "productSku": "2301343",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:29.764Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12830-13761.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13761-large_default/conjunto-bebe-barquito-marino.jpg",
+      "alt": "Conjunto bebe barquito Marino",
+      "sourceId": "13761",
+      "variantIds": [],
+      "sha256": "9c7f8c6c8c0a6ab6c223785251006780381215e4b3232731a487b0dadd00f606"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:29.806Z",
+  "issues": []
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "18812",
+  "sourceUrl": "https://babyhogarinfantil.com/gorros-y-bufandas-bebe-y-nina/18812-cuello-ter-nude.html",
+  "name": "Cuello Ter Nude",
+  "brand": "Calamaro",
+  "sku": "2402153",
+  "description": "Cuello, braga en punto para niña. Con borreguito. Talla única.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nCuello: 86% poliéster, 10% viscosa, 4% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Cuello: 86% poliéster, 10% viscosa, 4% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nude",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "764"
+  ],
+  "sourceDefaultCategoryId": "764",
+  "sourceCategoryName": "Gorros y bufandas bebé y niña",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-09-25 23:54:24",
+  "sourceUpdatedAt": "2026-10-27 11:13:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87642",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12283XA18810",
+      "productSku": "2402153",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:44.874Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18812-17518.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17518-large_default/cuello-ter-nude.jpg",
+      "alt": "Cuello Ter Nude",
+      "sourceId": "17518",
+      "variantIds": [],
+      "sha256": "356543eba9a41363639402e30f2a055ddb5a6039b5f3f9bddea74581eba6222b"
+    },
+    {
+      "path": "assets/18812-17519.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17519-large_default/cuello-ter-nude.jpg",
+      "alt": "Cuello Ter Nude",
+      "sourceId": "17519",
+      "variantIds": [],
+      "sha256": "635184a44af4ffd0d3cfc7d8f07f5e5f31d4fb9e063dca36b453dd01bb94cf94"
+    },
+    {
+      "path": "assets/18812-17520.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17520-large_default/cuello-ter-nude.jpg",
+      "alt": "Cuello Ter Nude",
+      "sourceId": "17520",
+      "variantIds": [],
+      "sha256": "17ac24872e920c41f595322f7baa2e391d154651d65fb761c55b35708e3c2361"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:45.063Z",
+  "issues": []
+}

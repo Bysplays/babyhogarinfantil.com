@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "9443",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/9443-chaqueta-punto-bebe-larga-perle-rojo.html",
+  "name": "Chaqueta punto bebe larga perlé Rojo",
+  "brand": "Mac Ilusión",
+  "sku": "2202093",
+  "description": "Envuelve a tu pequeño en lujo con la Chaqueta punto bebe larga perlé en color Rojo. El algodón suave acaricia la piel sensible del bebé mientras que el diseño perlé revela una artesanía meticulosa. Con la longitud ideal para cubrir y calentar, esta chaqueta se convertirá en una lamina de ternura para el pequeño y un deleite visual para los admiradores. No sólo es la elección perfecta para los paseos de verano, sino también una joya para los eventos especiales. Permita que su hijo robe la atención y haga que cada momento cuente con esta encantadora chaqueta. ¡Porque tu pequeño merece solo lo mejor! HECHA EN ESPAÑA",
+  "details": "Tu pequeño merece lo mejor\n\nLa chaqueta punto bebe larga perlé rojo es el elemento de moda de lujo que tu pequeño necesita. Brillando en un vibrante y optimista tono rojo, esta chaqueta está diseñada para mantener a tu niño calientito y con estilo en los días más fríos. Dejar cada mini aventurero liderando el camino en cualquier reunión familiar.\n\nComodidad se encuentra con estilo\n\nTejiendo con perlé de la más alta calidad, esta chaqueta larga ofrece un confort supremo para el bebé. La textura suave garantiza una experiencia de uso agradable y a la vez la entrega un toque más agradable a la moda infantil. ¡Deja que tu pequeño disfrute de la comodidad con mucho estilo!\n\nDiseñado con amor\n\nLa bonita chaqueta punto bebé está hecha pensando en los más pequeños. La atención al detalle es evidente en cada puntada, cada dobladillo y cada botón. Este es un magnifico artículo de ropa que tu bebé puede llevar con orgullo, y seguro de que está vestido con amor y cariño en cada momento.\n\n¡No te lo pierdas!\n\n¡No esperes más! Proporciona a tu pequeño la perfecta combinación de comodidad y estilo. Haz click en comprar ahora y viste a tu bebé con la preciosa chaqueta punto larga perlé rojo. El estilo y la felicidad de tu pequeño te lo agradecerán. ¡Convierte a tu pequeño en el centro de atracción en cada outing!",
+  "sourceDescriptionHtml": "<h2>Tu pequeño merece lo mejor</h2>\n<p>La chaqueta punto bebe larga perlé rojo es el elemento de moda de lujo que tu pequeño necesita. Brillando en un vibrante y optimista tono rojo, esta chaqueta está diseñada para mantener a tu niño calientito y con estilo en los días más fríos. Dejar cada mini aventurero liderando el camino en cualquier reunión familiar.</p>\n<h2>Comodidad se encuentra con estilo</h2>\n<p>Tejiendo con perlé de la más alta calidad, esta chaqueta larga ofrece un confort supremo para el bebé. La textura suave garantiza una experiencia de uso agradable y a la vez la entrega un toque más agradable a la moda infantil. ¡Deja que tu pequeño disfrute de la comodidad con mucho estilo!</p>\n<h2>Diseñado con amor</h2>\n<p>La bonita chaqueta punto bebé está hecha pensando en los más pequeños. La atención al detalle es evidente en cada puntada, cada dobladillo y cada botón. Este es un magnifico artículo de ropa que tu bebé puede llevar con orgullo, y seguro de que está vestido con amor y cariño en cada momento.</p>\n<h3>¡No te lo pierdas!</h3>\n<p>¡No esperes más! Proporciona a tu pequeño la perfecta combinación de comodidad y estilo. Haz click en comprar ahora y viste a tu bebé con la preciosa chaqueta punto larga perlé rojo. El estilo y la felicidad de tu pequeño te lo agradecerán. ¡Convierte a tu pequeño en el centro de atracción en cada outing!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 9.48,
+  "oldPrice": 18.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:49",
+  "sourceUpdatedAt": "2026-10-27 11:11:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69234",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2202093",
+      "productSku": "2202093",
+      "taxRate": 21,
+      "price": 9.48,
+      "oldPrice": 18.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:44.787Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9443-7682.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7682-large_default/chaqueta-punto-bebe-larga-perle-rojo.jpg",
+      "alt": "Chaqueta punto bebe larga perlé Rojo",
+      "sourceId": "7682",
+      "variantIds": [],
+      "sha256": "8ebc76a1681bbda8b675b1491e9b0a0b16e92b422a8452102dd60d01b99f25fe"
+    },
+    {
+      "path": "assets/9443-7683.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7683-large_default/chaqueta-punto-bebe-larga-perle-rojo.jpg",
+      "alt": "Chaqueta punto bebe larga perlé Rojo",
+      "sourceId": "7683",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:44.866Z",
+  "issues": []
+}

@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "21735",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/21735-bodie-manga-corta-mayoral-algodon-arcilla.html",
+  "name": "Bodie manga corta Mayoral algodón Arcilla",
+  "brand": "Mayoral",
+  "sku": "2601036",
+  "description": "Body de manga corta para bebé color arcilla confeccionado en 100% algodón. Suave, cómodo y perfecto para el uso diario desde los primeros meses.",
+  "details": "El body de bebé Mayoral de manga corta es una prenda básica e imprescindible para el día a día.\n\nEstá confeccionado en 100% algodón, un tejido suave, transpirable y agradable al contacto con la piel del bebé. Su diseño liso en color crudo incorpora un discreto motivo decorativo en la parte delantera, aportando un toque original sin perder la sencillez.\n\nCuenta con cierre de corchetes en la entrepierna, facilitando el cambio de pañal y proporcionando un ajuste cómodo durante todo el día.\n\n\nBody de manga corta para bebé\n\nColor arcilla\n\nTejido 100% algodón\n\nCierre con corchetes en la entrepierna\n\nSuave, transpirable y cómodo\n\n\nIdeal para combinar con cualquier conjunto y utilizar tanto en verano como durante todo el año.",
+  "sourceDescriptionHtml": "<p>El <strong>body de bebé Mayoral</strong> de manga corta es una prenda básica e imprescindible para el día a día.</p>\n<p>Está confeccionado en <strong>100% algodón</strong>, un tejido suave, transpirable y agradable al contacto con la piel del bebé. Su diseño liso en color crudo incorpora un discreto motivo decorativo en la parte delantera, aportando un toque original sin perder la sencillez.</p>\n<p>Cuenta con <strong>cierre de corchetes en la entrepierna</strong>, facilitando el cambio de pañal y proporcionando un ajuste cómodo durante todo el día.</p>\n<ul>\n<li>Body de manga corta para bebé</li>\n<li>Color arcilla</li>\n<li>Tejido 100% algodón</li>\n<li>Cierre con corchetes en la entrepierna</li>\n<li>Suave, transpirable y cómodo</li>\n</ul>\n<p>Ideal para combinar con cualquier conjunto y utilizar tanto en verano como durante todo el año.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Arcilla",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "896",
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-12 08:34:13",
+  "sourceUpdatedAt": "2026-10-27 11:14:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 9,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "338",
+          "label": "0-1m"
+        },
+        {
+          "id": "339",
+          "label": "1-2m"
+        },
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99674",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "338",
+          "group": "Tamaño",
+          "value": "0-1m"
+        }
+      ],
+      "sku": "2601036",
+      "productSku": "2601036",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:20.398Z"
+    },
+    {
+      "id": "99675",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "339",
+          "group": "Tamaño",
+          "value": "1-2m"
+        }
+      ],
+      "sku": "2601036",
+      "productSku": "2601036",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:22.668Z"
+    },
+    {
+      "id": "99677",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2601036",
+      "productSku": "2601036",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:25.176Z"
+    },
+    {
+      "id": "99678",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2601036",
+      "productSku": "2601036",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:27.924Z"
+    },
+    {
+      "id": "99679",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2601036",
+      "productSku": "2601036",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:30.419Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21735-21299.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21299-large_default/bodie-manga-corta-mayoral-algodon-arcilla.jpg",
+      "alt": "Detalle body bebé 100% algodón Mayoral",
+      "sourceId": "21299",
+      "variantIds": [],
+      "sha256": "92ffffd8ff8227f5b43cc8f6d704676269087f21eab556313fd99f8b52918838"
+    },
+    {
+      "path": "assets/21735-21300.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21300-large_default/bodie-manga-corta-mayoral-algodon-arcilla.jpg",
+      "alt": "Body bebé color arcilla de manga corta",
+      "sourceId": "21300",
+      "variantIds": [],
+      "sha256": "ad408050952b5346ea17770995745a1b0678725af0ce830e3289d084d597fe92"
+    },
+    {
+      "path": "assets/21735-21301.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21301-large_default/bodie-manga-corta-mayoral-algodon-arcilla.jpg",
+      "alt": "Parte trasera body bebé Mayoral",
+      "sourceId": "21301",
+      "variantIds": [],
+      "sha256": "81b9d07f7a8c4ca66cc0d8452981dc971ee0ab61f7ae34fa86794f4247dc535c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:30.580Z",
+  "issues": []
+}

@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "6142",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/6142-calcetin-corto-perle-detalle-calado-petalo.html",
+  "name": "Calcetín corto perlé detalle calado Pétalo",
+  "brand": "Condor",
+  "sku": "686",
+  "description": "Calcetines cortos de algodón perlé, con calado diagonal y puño de fantasía. DISPONIBLE EN VARIOS COLORES.",
+  "details": "Calcetines cortos de CONDOR, una de nuestras firmas preferidas! De algodón perlé, perfectos para verano. Con pequeño calado diagonal en el tobillo y puño de fantasía. Un complemento perfecto para combinar con diferentes estilos de calzado, con un tejido suave, flexible y transpirable! Echa un ojito a nuestros leotardos y medias para elegir el que mejor se adapte a lo que buscas!\n\nComposición y cuidados:\n\nCalcetines: 80% algodón 20% poliamida \n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Calcetines cortos de <strong>CONDOR</strong>, una de nuestras firmas preferidas! De algodón perlé, perfectos para verano. Con pequeño calado diagonal en el tobillo y puño de fantasía. Un complemento perfecto para combinar con diferentes estilos de calzado, con un tejido suave, flexible y transpirable! Echa un ojito a nuestros <strong>leotardos y medias</strong> para elegir el que mejor se adapte a lo que buscas!</span></p>\n<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Composición y cuidados:</span></p>\n<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Calcetines: </span><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">80% algodón 20% poliamida </span></p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>NO PLANCHAR</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Pétalo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "846"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 5.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62613",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:46.925Z"
+    },
+    {
+      "id": "62614",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:50.133Z"
+    },
+    {
+      "id": "62615",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.45,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:53.220Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6142-4033.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4033-large_default/calcetin-corto-perle-detalle-calado-petalo.jpg",
+      "alt": "Calcetín corto perlé detalle calado Pétalo",
+      "sourceId": "4033",
+      "variantIds": [],
+      "sha256": "74d3fbec346c13c97ac9a7b3981bc1e69d74e3512466235e871c96d7736b48c2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:53.292Z",
+  "issues": []
+}

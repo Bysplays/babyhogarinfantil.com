@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "19764",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/19764-bolero-tricot-basico-blanco.html",
+  "name": "Bolero tricot básico Blanco",
+  "brand": "Mayoral",
+  "sku": "2501215",
+  "description": "Convierte a tu pequeña en la estrella del estilo con la glamurosa Bolero Tricot Básico Blanco. Diseñada meticulosamente con suaves hilos de tricot, este Bolero de ensueño ofrece calidez sin sacrificar la elegancia. Su color blanco universal realza cualquier atuendo, garantizando un aspecto sofisticado y atemporal. Perfecto para ocasiones especiales o simplemente para elevar su vestuario diario con un toque de encanto chic. Compra ahora y viste a tu niña con la belleza y gracia del Bolero Tricot Básico Blanco.",
+  "details": "Calidez y Comodidad En Un Solo Abrigo\n\nEl Bolero tricot básico Blanco es una pieza perfecta para cualquier conjunto de tu pequeño. Hecho con amor y pensado para proporcionar la máxima comodidad y calidez, este abrigo es perfecto para esos días de otoño e invierno. Su sutileza de color y diseño lo hacen una opción versátil que se combina con cualquier ropa.\n\nCalidad que Hace la Diferencia\n\nLa calidad del tejido es superior a la del mercado. Elegimos únicamente materiales de alta calidad para garantizar que tu pequeño esté a gusto y calentito. La suavidad del tejido no solo proporciona comodidad, sino que también evita cualquier tipo de irritación en la delicada piel del bebé. Si buscas un abrigo cómodo y de alta calidad, el Bolero tricot básico Blanco es la opción perfecta para ti.\n\nLa Elegancia en su Máxima Expresión\n\nEste bolero tricot queda bien en cualquier ocasión. Con una simpleza elegante, este abrigo blanco realza cualquier atuendo, sea de diario o para esa ocasión especial. Su diseño sofisticado muestra un look chic y moderno. Los pequeños pueden lucir elegantes y a la moda con este atuendo.\n\nComposición:\n\n53% Viscosa\n\n47% Algodón\n\nCompra ahora el Bolero tricot básico Blanco y haz que tu pequeño sea el más elegante y cómodo en cualquier evento. ¡No esperes más, agrega este abrigo imprescindible a tu carrito de compras hoy mismo!",
+  "sourceDescriptionHtml": "<h2>Calidez y Comodidad En Un Solo Abrigo</h2>\n<p>El <strong>Bolero tricot básico Blanco</strong> es una pieza perfecta para cualquier conjunto de tu pequeño. Hecho con amor y pensado para proporcionar la máxima comodidad y calidez, este abrigo es perfecto para esos días de otoño e invierno. Su sutileza de color y diseño lo hacen una opción versátil que se combina con cualquier ropa.</p>\n<h2>Calidad que Hace la Diferencia</h2>\n<p>La calidad del tejido es superior a la del mercado. Elegimos únicamente materiales de alta calidad para garantizar que tu pequeño esté a gusto y calentito. La suavidad del tejido no solo proporciona comodidad, sino que también evita cualquier tipo de irritación en la delicada piel del bebé. Si buscas un abrigo cómodo y de alta calidad, el Bolero tricot básico Blanco es la opción perfecta para ti.</p>\n<h2>La Elegancia en su Máxima Expresión</h2>\n<p>Este bolero tricot queda bien en cualquier ocasión. Con una simpleza elegante, este abrigo blanco realza cualquier atuendo, sea de diario o para esa ocasión especial. Su diseño sofisticado muestra un look chic y moderno. Los pequeños pueden lucir elegantes y a la moda con este atuendo.</p>\n<p>Composición:</p>\n<p>53% Viscosa</p>\n<p>47% Algodón</p>\n<p>Compra ahora el Bolero tricot básico Blanco y haz que tu pequeño sea el más elegante y cómodo en cualquier evento. ¡No esperes más, agrega este abrigo imprescindible a tu carrito de compras hoy mismo!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2025",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-04-09 08:53:18",
+  "sourceUpdatedAt": "2026-10-27 11:14:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92070",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2501215",
+      "productSku": "2501215",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:21.998Z"
+    },
+    {
+      "id": "92072",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2501215",
+      "productSku": "2501215",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:24.125Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19764-18529.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18529-large_default/bolero-tricot-basico-blanco.jpg",
+      "alt": "Bolero tricot básico Blanco",
+      "sourceId": "18529",
+      "variantIds": [],
+      "sha256": "dde6c2388cb89ae3d1d9072bd4f446749d76fcfccd25968eabf64f954bb5c3dc"
+    },
+    {
+      "path": "assets/19764-18530.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18530-large_default/bolero-tricot-basico-blanco.jpg",
+      "alt": "Bolero tricot básico Blanco",
+      "sourceId": "18530",
+      "variantIds": [],
+      "sha256": "30349725f56bb54f5ff872b4bfd9e165e38b68954aa906db87bebd29aff0c9d9"
+    },
+    {
+      "path": "assets/19764-18531.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18531-large_default/bolero-tricot-basico-blanco.jpg",
+      "alt": "Bolero tricot básico Blanco",
+      "sourceId": "18531",
+      "variantIds": [],
+      "sha256": "2b629ba6dece88b0434c163dae779de03c5c288b8ff9b9e49ef80740826444d7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:24.256Z",
+  "issues": []
+}

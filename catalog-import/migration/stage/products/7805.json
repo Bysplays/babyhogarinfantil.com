@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "7805",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nino/7805-chaqueta-punto-grueso-alpino-nino-nuez.html",
+  "name": "Chaqueta punto grueso Alpino niño Nuez",
+  "brand": "Mac Ilusión",
+  "sku": "1907103",
+  "description": "Chaqueta Punto Grueso Alpino Niño Nuez, es la prenda perfecta para mantener a su niño cálido y cómodo mientras explora el mundo. Hecha de materiales de alta calidad, esta chaqueta agrega estilo a cualquier atuendo infantil. Sus acabados detallados y su color nuez audaz le harán destacar en cualquier lugar. Ideal para actividades al aire libre en climas fríos. Mantenga a su hijo actualizado con esta prenda versátil y moderna. ¡Compra ahora!",
+  "details": "Una Prenda Esencial para Invierno\n\nLa Chaqueta punto grueso Alpino es una necesidad absoluta para tu pequeño este invierno. Confeccionada con lana de alta calidad, esta chaqueta es la unión perfecta de comodidad y durabilidad. Su existencia garantiza que tu niño estará protegido del frío y al mismo tiempo se verá con estilo.\n\nDiseño Inspirado en los Alpes\n\nEl diseño audaz y elegante de la chaqueta Alpino está inspirado en las escenas de invierno de los Alpes. Los detalles de punto grueso añaden un sentido de elegancia y lujo, mientras que la atrevida tonalidad de nuez aporta un toque moderno que seguramente atraerá a tu pequeño.\n\nMáximo Confort y Calidez\n\nLa calidad superior de la lana utilizada en esta chaqueta garantiza el máximo confort y calidez para tu niño. Este suave y cálido abrigo permite a tu hijo moverse libremente y pasar sus días de invierno en la más cálida comodidad. Su calidad garantizada asegura la duración de la chaqueta, incluso en las condiciones más duras.\n\nSorprende a tu pequeño con esta elegante prenda justo a tiempo para la temporada de invierno. Haz click en \\'añadir al carrito\\' ahora y asegúrate de que tu niño esté listo para su próximo invierno con estilo y comodidad.\n\nComposición:\n\nChaqueta: 100% acrílico.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<h2>Una Prenda Esencial para Invierno</h2>\n<p>La Chaqueta punto grueso Alpino es una necesidad absoluta para tu pequeño este invierno. Confeccionada con lana de alta calidad, esta chaqueta es la unión perfecta de comodidad y durabilidad. Su existencia garantiza que tu niño estará protegido del frío y al mismo tiempo se verá con estilo.</p>\n<h2>Diseño Inspirado en los Alpes</h2>\n<p>El diseño audaz y elegante de la chaqueta Alpino está inspirado en las escenas de invierno de los Alpes. Los detalles de punto grueso añaden un sentido de elegancia y lujo, mientras que la atrevida tonalidad de nuez aporta un toque moderno que seguramente atraerá a tu pequeño.</p>\n<h2>Máximo Confort y Calidez</h2>\n<p>La calidad superior de la lana utilizada en esta chaqueta garantiza el máximo confort y calidez para tu niño. Este suave y cálido abrigo permite a tu hijo moverse libremente y pasar sus días de invierno en la más cálida comodidad. Su calidad garantizada asegura la duración de la chaqueta, incluso en las condiciones más duras.</p>\n<p>Sorprende a tu pequeño con esta elegante prenda justo a tiempo para la temporada de invierno. Haz click en \\'añadir al carrito\\' ahora y asegúrate de que tu niño esté listo para su próximo invierno con estilo y comodidad.</p>\n<p>Composición:</p>\n<p>Chaqueta: 100% acrílico.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nuez",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "738"
+  ],
+  "sourceDefaultCategoryId": "738",
+  "sourceCategoryName": "Chaquetas Niño",
+  "price": 24.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:29",
+  "sourceUpdatedAt": "2026-10-27 11:10:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66431",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1907103",
+      "productSku": "1907103",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:10.653Z"
+    },
+    {
+      "id": "66432",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1907103",
+      "productSku": "1907103",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:12.184Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7805-5880.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5880-large_default/chaqueta-punto-grueso-alpino-nino-nuez.jpg",
+      "alt": "Chaqueta punto grueso Alpino niño Nuez",
+      "sourceId": "5880",
+      "variantIds": [],
+      "sha256": "90410c7022feb0b7e04d70986567303adfc658483a5617834a3a5ca005c9789c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:12.253Z",
+  "issues": []
+}

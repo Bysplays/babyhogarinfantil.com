@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "17079",
+  "sourceUrl": "https://babyhogarinfantil.com/mantas-bebe/17079-manta-saco-baby-sac-osito-rosa.html",
+  "name": "Manta saco BABY-SAC osito Rosa",
+  "brand": "Interbaby",
+  "sku": "2309241",
+  "description": "¡El Manta saco BABY-SAC osito Rosa es un regalo celestial y acogedor para su pequeña princesa! Concebido con amor, su tejido suave y premium, abraza a su bebé en un cálido abrazo, asegurando un sueño confortable y tranquilo. Su delicado color rosa refleja inocencia y ternura. El diseño adorable del osito eleva sus niveles de ternura e invita a sonrisas llenas de dulzura. Tanto práctico como elegante, el Manta saco BABY-SAC osito Rosa es esencial para que su bebé brille con gracia y permanezca a salvo del frío. ¡Permítale a su bebé disfrutar de un abrazo cálido y acogedor esta noche!",
+  "details": "Calidez y Confort\n\nEnvuelve a tu pequeña en delicado calor y mimo con el Manta saco BABY-SAC osito Rosa. Este saco para bebés es absolutamente encantador, proporcionando a los más pequeños no sólo protección contra el frío, sino también la suavidad de un oso de peluche. Están elaborado con tejidos de alta calidad, garantizando suavidad y comodidad para la piel sensible de tu bebé.\n\nEstilo y Elegancia\n\nLa Manta saco BABY-SAC osito Rosa es la elección perfecta para los padres que valoran tanto la funcionalidad como la estética. Con un toque de color rosa femenino, el diseño encantador añade una dulzura imprescindible a todo el conjunto. Sus detalles cuidadosamente elaborados resaltan el esfuerzo y la dedicación con los que se confecciona cada saco manta.\n\nPracticidad sin Compromiso\n\nEl Manta saco BABY-SAC osito Rosa está diseñado con la idea de facilitar su uso. El cierre seguro garantiza que tu bebé permanezca envuelto y cálido, sin riesgo de resfriado. Además, su diseño portátil lo hace ideal para llevar en cochecitos, carritos o incluso de viaje, brindándote tranquilidad sin importar dónde estés.\n\nNo dejes pasar la oportunidad de proporcionar a tu bebé la comodidad y calidez que el Manta saco BABY-SAC osito Rosa puede ofrecer. Haz clic en \"Añadir al carrito\" ahora y haz feliz a tu pequeña princesa.",
+  "sourceDescriptionHtml": "<h2>Calidez y Confort</h2>\n<p>Envuelve a tu pequeña en delicado calor y mimo con el Manta saco BABY-SAC osito Rosa. Este saco para bebés es absolutamente encantador, proporcionando a los más pequeños no sólo protección contra el frío, sino también la suavidad de un oso de peluche. Están elaborado con tejidos de alta calidad, garantizando suavidad y comodidad para la piel sensible de tu bebé.</p>\n<h2>Estilo y Elegancia</h2>\n<p>La Manta saco BABY-SAC osito Rosa es la elección perfecta para los padres que valoran tanto la funcionalidad como la estética. Con un toque de color rosa femenino, el diseño encantador añade una dulzura imprescindible a todo el conjunto. Sus detalles cuidadosamente elaborados resaltan el esfuerzo y la dedicación con los que se confecciona cada saco manta.</p>\n<h2>Practicidad sin Compromiso</h2>\n<p>El Manta saco BABY-SAC osito Rosa está diseñado con la idea de facilitar su uso. El cierre seguro garantiza que tu bebé permanezca envuelto y cálido, sin riesgo de resfriado. Además, su diseño portátil lo hace ideal para llevar en cochecitos, carritos o incluso de viaje, brindándote tranquilidad sin importar dónde estés.</p>\n<p>No dejes pasar la oportunidad de proporcionar a tu bebé la comodidad y calidez que el Manta saco BABY-SAC osito Rosa puede ofrecer. Haz clic en \"Añadir al carrito\" ahora y haz feliz a tu pequeña princesa.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "765",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "765",
+  "sourceCategoryName": "Mantas Bebé",
+  "price": 22,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-12-28 15:55:03",
+  "sourceUpdatedAt": "2026-10-27 11:13:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "148976",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11796XA18140",
+      "productSku": "2309241",
+      "taxRate": 21,
+      "price": 22,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:57.221Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17079-15097.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15097-large_default/manta-saco-baby-sac-osito-rosa.jpg",
+      "alt": "saco manta rosa",
+      "sourceId": "15097",
+      "variantIds": [],
+      "sha256": "756dcf8bd7c5da6f3420535445b0bffabc6e278adafc47e923da22bdf68d2728"
+    },
+    {
+      "path": "assets/17079-15098.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15098-large_default/manta-saco-baby-sac-osito-rosa.jpg",
+      "alt": "saco manta rosa detalle",
+      "sourceId": "15098",
+      "variantIds": [],
+      "sha256": "613ddde48626b9283ab156aac89963d373a6d4ce5820240f311a4d9b62bae6b7"
+    },
+    {
+      "path": "assets/17079-15099.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15099-large_default/manta-saco-baby-sac-osito-rosa.jpg",
+      "alt": "saco manta rosa dibujo luna",
+      "sourceId": "15099",
+      "variantIds": [],
+      "sha256": "426bdb644636565b9f3b4292403170f4efe9687f50005e38e36bb1922be4038d"
+    },
+    {
+      "path": "assets/17079-15100.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15100-large_default/manta-saco-baby-sac-osito-rosa.jpg",
+      "alt": "saco manta rosa para bebé",
+      "sourceId": "15100",
+      "variantIds": [],
+      "sha256": "edf4dc876e2cb15b490987fce42c2fccf7e0fa81fc0b933cf8e6977ebf07cefd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:57.442Z",
+  "issues": []
+}

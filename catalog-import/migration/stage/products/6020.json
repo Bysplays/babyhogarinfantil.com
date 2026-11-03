@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "id": "6020",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6020-leotardo-invierno-calado-lateral-blanco.html",
+  "name": "Leotardo INVIERNO calado lateral Blanco",
+  "brand": "Condor",
+  "sku": "387",
+  "description": "Leotardo BLANCO de algodón cálido con calado en el lateral. Tallas para bebé hasta 6 años. Disponible en varios colores.",
+  "details": "Delicadeza Invernal\n\n\nEl Leotardo INVIERNO calado lateral Blanco ofrece una calidez y suavidad excepcionales para los días más fríos del año. Hecho de materiales de alta calidad, resistente al desgaste y al lavado, es la prenda ideal para mantener a los más pequeños abrigados mientras disfrutan del aire libre en invierno.\n\n\nEstilo Atemporal\n\n\nCon un diseño de calado a los lados, este leotardo blanco evoca la belleza atemporal de los días de invierno. El blanco puro del leotardo hace un tributo a la elegancia clásica, mientras que su diseño detallado añade un toque contemporáneo que se adapta a cualquier outfit.\n\n\nConfort Total\n\n\nAdemás de ser estiloso y cálido, el Leotardo INVIERNO calado lateral Blanco se ha diseñado pensando en la total comodidad de los más pequeños. Su tejido es suave, delicado y elástico, lo que permite moverse libremente sin restricciones, y es lo suficientemente grueso para proporcionar calidez sin sacrificar la comodidad y la transpirabilidad.\n\n\n¿A qué esperas? Ofrece a los pequeños la combinación perfecta de estilo, calidez y confort con el Leotardo INVIERNO calado lateral Blanco. ¡Haz click abajo para comprarlo!",
+  "sourceDescriptionHtml": "<h2>Delicadeza Invernal</h2>\n\n<p>El Leotardo INVIERNO calado lateral Blanco ofrece una calidez y suavidad excepcionales para los días más fríos del año. Hecho de materiales de alta calidad, resistente al desgaste y al lavado, es la prenda ideal para mantener a los más pequeños abrigados mientras disfrutan del aire libre en invierno.</p>\n\n<h2>Estilo Atemporal</h2>\n\n<p>Con un diseño de calado a los lados, este leotardo blanco evoca la belleza atemporal de los días de invierno. El blanco puro del leotardo hace un tributo a la elegancia clásica, mientras que su diseño detallado añade un toque contemporáneo que se adapta a cualquier outfit.</p>\n\n<h2>Confort Total</h2>\n\n<p>Además de ser estiloso y cálido, el Leotardo INVIERNO calado lateral Blanco se ha diseñado pensando en la total comodidad de los más pequeños. Su tejido es suave, delicado y elástico, lo que permite moverse libremente sin restricciones, y es lo suficientemente grueso para proporcionar calidez sin sacrificar la comodidad y la transpirabilidad.</p>\n\n<p>¿A qué esperas? Ofrece a los pequeños la combinación perfecta de estilo, calidez y confort con el Leotardo INVIERNO calado lateral Blanco. ¡Haz click abajo para comprarlo!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 17,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:07",
+  "sourceUpdatedAt": "2026-10-27 11:08:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62235",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "296XF510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:54.456Z"
+    },
+    {
+      "id": "96280",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "296XA510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:57.998Z"
+    },
+    {
+      "id": "144030",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "296XB510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:01.782Z"
+    },
+    {
+      "id": "88596",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "296XC510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:04.280Z"
+    },
+    {
+      "id": "96282",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "296XD510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:06.420Z"
+    },
+    {
+      "id": "144031",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "296XE510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:08.505Z"
+    },
+    {
+      "id": "144032",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "296XG510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:11.503Z"
+    },
+    {
+      "id": "144033",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "296XH510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:14.593Z"
+    },
+    {
+      "id": "144034",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "296XI510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:17.383Z"
+    },
+    {
+      "id": "144035",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "296XJ510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:21.408Z"
+    },
+    {
+      "id": "144036",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "296XK510",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:24.846Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6020-3868.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3868-large_default/leotardo-invierno-calado-lateral-blanco.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Blanco",
+      "sourceId": "3868",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6020-9286.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9286-large_default/leotardo-invierno-calado-lateral-blanco.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Blanco",
+      "sourceId": "9286",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6020-3867.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3867-large_default/leotardo-invierno-calado-lateral-blanco.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Blanco",
+      "sourceId": "3867",
+      "variantIds": [],
+      "sha256": "feb340e3f34ac922376a50b80858ccf7b41facf02c8ca00e76bf2a43492396c8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:25:25.040Z",
+  "issues": []
+}

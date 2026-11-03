@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "21774",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/21774-conjunto-corto-2-camisetas-nino-bambu.html",
+  "name": "Conjunto corto 2 camisetas niño Bambú",
+  "brand": "Mayoral",
+  "sku": "2601073",
+  "description": "Conjunto Mayoral infantil de verano de 3 piezas con dos camisetas estampadas y bermuda naranja, cómodo, ligero y perfecto para looks casuales y divertidos.",
+  "details": "Conjunto infantil de 3 piezas para verano compuesto por dos camisetas de manga corta, una blanca con estampado tropical y otra verde con divertidos dibujos, junto a una bermuda naranja de cintura elástica. Diseñado para ofrecer comodidad, frescura y libertad de movimiento, este conjunto es ideal para el uso diario, vacaciones y actividades al aire libre, gracias a sus tejidos suaves y transpirables y su estilo moderno y colorido pensado para niños activos.\n\nCOMPOSICIÓN:\n\nCamisetas: 100% Algodón.\n\nBermuda: 99% Algodón 1% Elastano",
+  "sourceDescriptionHtml": "<p>Conjunto infantil de 3 piezas para verano compuesto por dos camisetas de manga corta, una blanca con estampado tropical y otra verde con divertidos dibujos, junto a una bermuda naranja de cintura elástica. Diseñado para ofrecer comodidad, frescura y libertad de movimiento, este conjunto es ideal para el uso diario, vacaciones y actividades al aire libre, gracias a sus tejidos suaves y transpirables y su estilo moderno y colorido pensado para niños activos.</p>\n<p><strong>COMPOSICIÓN:</strong></p>\n<p><strong>Camisetas: 100% Algodón.</strong></p>\n<p><strong>Bermuda: 99% Algodón 1% Elastano</strong></p>\n<div class=\"Cuni\" style=\"font-family:fontBranding, 'fontBranding Fallback', Inter, 'Inter Fallback';font-size:15px;line-height:22px;color:#101012;background-color:#ffffff;\"></div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Bambu",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-13 15:53:34",
+  "sourceUpdatedAt": "2026-10-27 11:15:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99395",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601073",
+      "productSku": "2601073",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:00.537Z"
+    },
+    {
+      "id": "99397",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601073",
+      "productSku": "2601073",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:03.959Z"
+    },
+    {
+      "id": "99399",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2601073",
+      "productSku": "2601073",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:07.283Z"
+    },
+    {
+      "id": "99400",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2601073",
+      "productSku": "2601073",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:10.562Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21774-20589.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20589-large_default/conjunto-corto-2-camisetas-nino-bambu.jpg",
+      "alt": "Conjunto de Mayoral infantil de 3 piezas con dos camisetas estampadas y bermuda naranja, ideal para verano.",
+      "sourceId": "20589",
+      "variantIds": [],
+      "sha256": "adf40c88c7b1b9fa4713c3cd4f8a291b1b8b46e695fe6381f1eb99d842f7c43e"
+    },
+    {
+      "path": "assets/21774-20590.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20590-large_default/conjunto-corto-2-camisetas-nino-bambu.jpg",
+      "alt": "Bermuda naranja con cintura elástica y bolsillo trasero, práctica y fresca para el día a día.",
+      "sourceId": "20590",
+      "variantIds": [],
+      "sha256": "215cf0ace7ef224ed6b2b476ea8b84eee14659c42a57b219dc4fd26cd9f3da91"
+    },
+    {
+      "path": "assets/21774-20591.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20591-large_default/conjunto-corto-2-camisetas-nino-bambu.jpg",
+      "alt": "Detalle de la camiseta blanca con ilustración tropical y animales, diseño original y colorido.",
+      "sourceId": "20591",
+      "variantIds": [],
+      "sha256": "c7d525162e6b9a64684814a825ddbf11d82e21658ba03253ec432d801030f6e4"
+    },
+    {
+      "path": "assets/21774-20592.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20592-large_default/conjunto-corto-2-camisetas-nino-bambu.jpg",
+      "alt": "Camiseta verde de manga corta con estampado divertido y veraniego, cómoda y ligera.",
+      "sourceId": "20592",
+      "variantIds": [],
+      "sha256": "c1318a51a5f98b61ce21f0a3a8f96086309dcedd3ed6a5c0942a243bdbd37030"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:10.795Z",
+  "issues": []
+}

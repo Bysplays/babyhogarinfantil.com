@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "21617",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-en-pack/21617-pack-3-calcetines-fantasia-abeto.html",
+  "name": "Pack 3 calcetines fantasía Abeto",
+  "brand": "Mayoral",
+  "sku": "2502258",
+  "description": "Pack de tres calcetines para ninño.",
+  "details": "COMPOSICIÓN\n\nCalcetines:\n\n72% Algodón\n\n25% Poliamida\n\n3% Elastano",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\">COMPOSICIÓN</p>\n<p class=\"MsoNormal\"><b>Calcetines:</b></p>\n<p class=\"MsoNormal\">72% Algodón</p>\n<p class=\"MsoNormal\">25% Poliamida</p>\n<p class=\"MsoNormal\">3% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Abeto",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "796",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "796",
+  "sourceCategoryName": "Calcetines en pack",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-12-03 15:53:36",
+  "sourceUpdatedAt": "2026-10-27 11:14:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97792",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502258",
+      "productSku": "2502258",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:46.599Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21617-20207.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20207-large_default/pack-3-calcetines-fantasia-abeto.jpg",
+      "alt": "Pack 3 calcetines fantasía Abeto",
+      "sourceId": "20207",
+      "variantIds": [],
+      "sha256": "87881b35ea5d9206b5364af60f2e28fb37f876c43718e69b6ad276bfa9e1808c"
+    },
+    {
+      "path": "assets/21617-20208.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20208-large_default/pack-3-calcetines-fantasia-abeto.jpg",
+      "alt": "Pack 3 calcetines fantasía Abeto",
+      "sourceId": "20208",
+      "variantIds": [],
+      "sha256": "bca810ee2f20e75b084b108b934e8a24331417a75062f042b9908c5d9bafad1b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:46.745Z",
+  "issues": []
+}

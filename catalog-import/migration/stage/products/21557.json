@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "21557",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/21557-jesusito-ovejas-beige.html",
+  "name": "Jesusito ovejas Beige",
+  "brand": "Baby-Ferr",
+  "sku": "2502177",
+  "description": "Jesusito manga larga para niña con tres piezas. Incluye caopta y ranita a juego. Puedes disponer del conjunto a juego para el niño.\n\nBusca aquí el leotardo que mejor te convine Leotardos Invierno",
+  "details": "Composición:\n\nJesusito: 100% algodón. \n\nForro: 33% algodón, 67%, poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Jesusito: </strong>100% algodón. </p>\n<p>Forro: 33% algodón, 67%, poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Beige",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 37,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-05 15:53:13",
+  "sourceUpdatedAt": "2026-10-27 11:14:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97202",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502177",
+      "productSku": "2502177",
+      "taxRate": 21,
+      "price": 37,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:23.752Z"
+    },
+    {
+      "id": "97203",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502177",
+      "productSku": "2502177",
+      "taxRate": 21,
+      "price": 37,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:26.404Z"
+    },
+    {
+      "id": "97204",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502177",
+      "productSku": "2502177",
+      "taxRate": 21,
+      "price": 37,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:29.217Z"
+    },
+    {
+      "id": "97206",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2502177",
+      "productSku": "2502177",
+      "taxRate": 21,
+      "price": 37,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:31.668Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21557-20151.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20151-large_default/jesusito-ovejas-beige.jpg",
+      "alt": "Jesusito ovejas Beige",
+      "sourceId": "20151",
+      "variantIds": [],
+      "sha256": "46663db84c3a0632a6dad1ee245ccbeffef57c46c412b1f2d44230c56a9094e9"
+    },
+    {
+      "path": "assets/21557-20152.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20152-large_default/jesusito-ovejas-beige.jpg",
+      "alt": "Jesusito ovejas Beige",
+      "sourceId": "20152",
+      "variantIds": [],
+      "sha256": "316d7bb0c690dcc68b916888970f587e505288021ef5644365c8f7306e229620"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:31.921Z",
+  "issues": []
+}

@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "id": "8400",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/8400-deportivo-run-del-29-al-34-blanco.html",
+  "name": "Deportivo RUN del 29 al 34 Blanco",
+  "brand": "Gorila",
+  "sku": "2007106",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "893",
+    "894"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 41.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "282",
+          "label": "29"
+        },
+        {
+          "id": "283",
+          "label": "30"
+        },
+        {
+          "id": "284",
+          "label": "31"
+        },
+        {
+          "id": "285",
+          "label": "32"
+        },
+        {
+          "id": "286",
+          "label": "33"
+        },
+        {
+          "id": "287",
+          "label": "34"
+        },
+        {
+          "id": "288",
+          "label": "35"
+        },
+        {
+          "id": "289",
+          "label": "36"
+        },
+        {
+          "id": "290",
+          "label": "37"
+        },
+        {
+          "id": "291",
+          "label": "38"
+        },
+        {
+          "id": "292",
+          "label": "39"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99628",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "282",
+          "group": "Tamaño",
+          "value": "29"
+        }
+      ],
+      "sku": "8138XA13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:56.961Z"
+    },
+    {
+      "id": "146733",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "283",
+          "group": "Tamaño",
+          "value": "30"
+        }
+      ],
+      "sku": "8138XB13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:59.367Z"
+    },
+    {
+      "id": "146734",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "284",
+          "group": "Tamaño",
+          "value": "31"
+        }
+      ],
+      "sku": "8138XC13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:01.776Z"
+    },
+    {
+      "id": "146735",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "285",
+          "group": "Tamaño",
+          "value": "32"
+        }
+      ],
+      "sku": "8138XD13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:04.436Z"
+    },
+    {
+      "id": "146736",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "286",
+          "group": "Tamaño",
+          "value": "33"
+        }
+      ],
+      "sku": "8138XE13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:06.947Z"
+    },
+    {
+      "id": "146737",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "287",
+          "group": "Tamaño",
+          "value": "34"
+        }
+      ],
+      "sku": "8138XF13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:09.357Z"
+    },
+    {
+      "id": "146738",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "288",
+          "group": "Tamaño",
+          "value": "35"
+        }
+      ],
+      "sku": "8138XG13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:12.315Z"
+    },
+    {
+      "id": "146739",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "289",
+          "group": "Tamaño",
+          "value": "36"
+        }
+      ],
+      "sku": "8138XH13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:14.596Z"
+    },
+    {
+      "id": "146740",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "290",
+          "group": "Tamaño",
+          "value": "37"
+        }
+      ],
+      "sku": "8138XI13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:18.778Z"
+    },
+    {
+      "id": "146741",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "291",
+          "group": "Tamaño",
+          "value": "38"
+        }
+      ],
+      "sku": "8138XJ13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:20.887Z"
+    },
+    {
+      "id": "146742",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "292",
+          "group": "Tamaño",
+          "value": "39"
+        }
+      ],
+      "sku": "8138XK13125",
+      "productSku": "2007106",
+      "taxRate": 21,
+      "price": 41.95,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:23.119Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8400-13696.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13696-large_default/deportivo-run-del-29-al-34-blanco.jpg",
+      "alt": "Deportivo RUN del 29 al 34 Blanco",
+      "sourceId": "13696",
+      "variantIds": [],
+      "sha256": "69855b1042d12c8993c1da24d6545f0b76f2ab26fe654c0d7a2c811a602530a8"
+    },
+    {
+      "path": "assets/8400-13694.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13694-large_default/deportivo-run-del-29-al-34-blanco.jpg",
+      "alt": "Deportivo RUN del 29 al 34 Blanco",
+      "sourceId": "13694",
+      "variantIds": [],
+      "sha256": "27d95dde69120e8bab2000dceb9f4c48e2424ea4919496c9788890423bcd5d29"
+    },
+    {
+      "path": "assets/8400-13697.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13697-large_default/deportivo-run-del-29-al-34-blanco.jpg",
+      "alt": "Deportivo RUN del 29 al 34 Blanco",
+      "sourceId": "13697",
+      "variantIds": [],
+      "sha256": "45f64309b1aa42595fede1dfc336a139f1d7c2cab368ca75b996dbedc435ccbe"
+    },
+    {
+      "path": "assets/8400-13695.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13695-large_default/deportivo-run-del-29-al-34-blanco.jpg",
+      "alt": "Deportivo RUN del 29 al 34 Blanco",
+      "sourceId": "13695",
+      "variantIds": [],
+      "sha256": "a678a9527b9d29ecdf2fd7f9a327660f7d13495e161f511280ce89445ce40669"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:23.334Z",
+  "issues": []
+}

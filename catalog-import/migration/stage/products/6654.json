@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "6654",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/6654-chaqueta-nina-bordada-en-espalda-angora.html",
+  "name": "Chaqueta niña bordada en espalda Angora",
+  "brand": "Mac Ilusión",
+  "sku": "1607189",
+  "description": "Chaqueta color ANGORA de punto, bolero con botón para poner con vestidos. Tiene la espalda con un detalle calado. Temporada Invierno.",
+  "details": "Composición y cuidados:\n\nChaqueta angora: 100% Acrílico DRALON BAYER antialérgico.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nEL PUNTO LAVALO SIEMPRE DEL REVES, 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chaqueta angora: 100% Acrílico DRALON BAYER antialérgico.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>EL PUNTO LAVALO SIEMPRE DEL REVES, 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2016-17",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Angora",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 22.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-26 19:38:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64008",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1607189",
+      "productSku": "1607189",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:29.880Z"
+    },
+    {
+      "id": "64011",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1607189",
+      "productSku": "1607189",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:32.292Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6654-4605.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4605-large_default/chaqueta-nina-bordada-en-espalda-angora.jpg",
+      "alt": "Chaqueta niña bordada en espalda Angora",
+      "sourceId": "4605",
+      "variantIds": [],
+      "sha256": "ead28339bbac40fdb72cadc83a2e83f290853e48615433a2c8c3d6d6adf8b1c7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:32.376Z",
+  "issues": []
+}

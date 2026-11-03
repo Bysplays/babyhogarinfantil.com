@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "6304",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-cortos-lisos/6304-calcetin-basico-punto-liso-negro.html",
+  "name": "Calcetín básico punto liso Negro",
+  "brand": "Condor",
+  "sku": "1032",
+  "description": "Calcetines cortos NEGROS básicos de algodón en punto liso.",
+  "details": "COMPOSICI&Oacute;N :\n\r\n\nCalcet&iacute;n granate: 75% ALGODON 22% POLIAMIDA 3% ELASTANO\n\r\nHECHO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p>COMPOSICI&Oacute;N :</p>\r\n<p><br />Calcet&iacute;n granate: 75% ALGODON 22% POLIAMIDA 3% ELASTANO</p>\r\n<p><strong>HECHO EN ESPA&Ntilde;A</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "687",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "687",
+  "sourceCategoryName": "Calcetines cortos lisos",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 14,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "83938",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:43.163Z"
+    },
+    {
+      "id": "63265",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:45.684Z"
+    },
+    {
+      "id": "63267",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "1032",
+      "productSku": "1032",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:49.060Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6304-4294.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4294-large_default/calcetin-basico-punto-liso-negro.jpg",
+      "alt": "Calcetín básico punto liso Negro",
+      "sourceId": "4294",
+      "variantIds": [],
+      "sha256": "f8727a169d303af79b3b03542a028282f724199621f2b86d09f226a8c1f1c139"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:49.125Z",
+  "issues": []
+}

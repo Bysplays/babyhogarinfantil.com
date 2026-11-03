@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "7844",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/7844-bota-alta-sin-suela-orchidea-azul.html",
+  "name": "Bota alta sin suela ORCHIDEA Azul",
+  "brand": "Chicco",
+  "sku": "1907146",
+  "description": "Bota alta de tela, SIN SUELA, se abre con velcro por un lateral.",
+  "details": "Botita alta de CHICCO, una de nuestras firmas favoritas. En un tejido aterciopelado extra suave y de color azul marino. Cierra con velcro por un lateral, para facilitar el calzado. En el otro lateral, unas florecillas en relieve adornan la bota. Un complemento perfecto para los más peques que todavía no caminan. Ligera, flexible, calentita y combinable con tus vestidos y conjuntos! Echa un ojito a nuestros leotardos y calcetines y podrás crear el look completo perfecto! Disponible en rojo y rosa.",
+  "sourceDescriptionHtml": "<p>Botita alta de <strong>CHICCO</strong>, una de nuestras firmas favoritas. En un tejido aterciopelado extra suave y de color azul marino. Cierra con velcro por un lateral, para facilitar el calzado. En el otro lateral, unas florecillas en relieve adornan la bota. Un complemento perfecto para los más peques que todavía no caminan. Ligera, flexible, calentita y combinable con tus vestidos y conjuntos! Echa un ojito a nuestros leotardos y calcetines y podrás crear el look completo perfecto! Disponible en rojo y rosa. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:29",
+  "sourceUpdatedAt": "2026-10-27 11:10:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "256",
+          "label": "15"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66513",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "1907146",
+      "productSku": "1907146",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:21.853Z"
+    },
+    {
+      "id": "66514",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "1907146",
+      "productSku": "1907146",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:24.156Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7844-5943.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5943-large_default/bota-alta-sin-suela-orchidea-azul.jpg",
+      "alt": "Bota alta sin suela ORCHIDEA Azul",
+      "sourceId": "5943",
+      "variantIds": [],
+      "sha256": "d76c558e7f5b40f612f406f66de9ccab1d707b3248fdd3d816ea6a5f46c93561"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:24.226Z",
+  "issues": []
+}

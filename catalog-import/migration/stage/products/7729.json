@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "7729",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/7729-deportivo-de-piel-40-blanco.html",
+  "name": "Deportivo de piel 40 Blanco",
+  "brand": "Gorila",
+  "sku": "1904074",
+  "description": "Deportivo de piel con velcro. Suela resistente de caucho natural antideslizante. Transpirable. Plantilla extraíble.",
+  "details": "Máxima calidad y resistencia. Elaborado con un material desarrollado tecnológicamente y caracterizado por su durabilidad y confort. Con forro totalmente transpirable hecho con material textil.",
+  "sourceDescriptionHtml": "<p><span style=\"text-align:justify;color:#575756;text-transform:none;line-height:1.5;text-indent:0px;letter-spacing:normal;font-family:'Open Sans', sans-serif;font-size:12.8px;font-style:normal;font-weight:400;word-spacing:0px;white-space:normal;background-color:#ffffff;\"><span>Máxima calidad y resistencia.<span> </span></span><span>Elaborado con un material desarrollado tecnológicamente y caracterizado por su durabilidad y confort. Con forro totalmente transpirable hecho con material textil.</span></span></p>\n<p><span style=\"text-align:justify;color:#575756;text-transform:none;line-height:1.5;text-indent:0px;letter-spacing:normal;font-family:'Open Sans', sans-serif;font-size:12.8px;font-style:normal;font-weight:400;word-spacing:0px;white-space:normal;background-color:#ffffff;\"><span> </span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "705",
+    "759",
+    "783",
+    "684",
+    "844",
+    "850",
+    "888",
+    "878",
+    "871",
+    "893",
+    "894"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 58.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "294",
+          "label": "41"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "295",
+          "label": "43"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "80831",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "6420XA10770",
+      "productSku": "1904074",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:46.179Z"
+    },
+    {
+      "id": "95845",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "294",
+          "group": "Tamaño",
+          "value": "41"
+        }
+      ],
+      "sku": "6420XB10770",
+      "productSku": "1904074",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:47.966Z"
+    },
+    {
+      "id": "146218",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "6420XC10770",
+      "productSku": "1904074",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:49.463Z"
+    },
+    {
+      "id": "146219",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "295",
+          "group": "Tamaño",
+          "value": "43"
+        }
+      ],
+      "sku": "6420XD10770",
+      "productSku": "1904074",
+      "taxRate": 21,
+      "price": 58.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:51.156Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7729-5769.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5769-large_default/deportivo-de-piel-40-blanco.jpg",
+      "alt": "Deportivo de piel 40 Blanco",
+      "sourceId": "5769",
+      "variantIds": [],
+      "sha256": "6fca84d7c791897df4b6f06a0154860a9a95ffcf29689f2e163fe17f667cb1e7"
+    },
+    {
+      "path": "assets/7729-10514.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10514-large_default/deportivo-de-piel-40-blanco.jpg",
+      "alt": "Deportivo de piel 40 Blanco",
+      "sourceId": "10514",
+      "variantIds": [],
+      "sha256": "c86343177066c10f765feb7b91b2e1d4caf3f03163f721e20743a91b3a098dc0"
+    },
+    {
+      "path": "assets/7729-10515.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10515-large_default/deportivo-de-piel-40-blanco.jpg",
+      "alt": "Deportivo de piel 40 Blanco",
+      "sourceId": "10515",
+      "variantIds": [],
+      "sha256": "fa45c84a298aef5f2750a1e8bd06f39eb84b6f20cf1ecafab3419ac70911acee"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:51.315Z",
+  "issues": []
+}

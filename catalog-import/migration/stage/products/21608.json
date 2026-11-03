@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "21608",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/21608-conjunto-pantalon-largo-tricot-rojo.html",
+  "name": "Conjunto pantalón largo tricot Rojo",
+  "brand": "Mayoral",
+  "sku": "2502218",
+  "description": "Este conjunto es ideal para Navidad está compuesto de; jersey de manga larga para bebé con cuello redondo y cierre de botones en la espalda para facilitar la puesta. Hecho en cómodo tejido de punto con un tacto muy suave. Y, pantalón largo de punto para bebé con la cinturilla elástica y bajos con elásticos.",
+  "details": "COMPOSICIÓN\n\nJersey:\n\n47% Viscosa\n\n30% Poliamida\n\n23% Poliéster\n\nPantalón largo:\n\n47% Viscosa\n\n30% Poliamida\n\n23% Poliéster",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Jersey:</strong></p>\n<p>47% Viscosa</p>\n<p>30% Poliamida</p>\n<p>23% Poliéster</p>\n<p><strong>Pantalón largo:</strong></p>\n<p>47% Viscosa</p>\n<p>30% Poliamida</p>\n<p>23% Poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 36.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-20 15:54:16",
+  "sourceUpdatedAt": "2026-10-27 11:14:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97636",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502218",
+      "productSku": "2502218",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:18.399Z"
+    },
+    {
+      "id": "97637",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502218",
+      "productSku": "2502218",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:20.967Z"
+    },
+    {
+      "id": "97638",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502218",
+      "productSku": "2502218",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:23.176Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21608-20153.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20153-large_default/conjunto-pantalon-largo-tricot-rojo.jpg",
+      "alt": "Conjunto pantalón largo tricot Rojo",
+      "sourceId": "20153",
+      "variantIds": [],
+      "sha256": "bc8bed5f38a4f7c17d75f09ce8d36ce55942ba86c92e1f3b92c7226096734969"
+    },
+    {
+      "path": "assets/21608-20154.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20154-large_default/conjunto-pantalon-largo-tricot-rojo.jpg",
+      "alt": "Conjunto pantalón largo tricot Rojo",
+      "sourceId": "20154",
+      "variantIds": [],
+      "sha256": "fca234bb8869a3d27e2f03ceb4a407cededd7350c9307c60c49856fd643287d7"
+    },
+    {
+      "path": "assets/21608-20155.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20155-large_default/conjunto-pantalon-largo-tricot-rojo.jpg",
+      "alt": "Conjunto pantalón largo tricot Rojo",
+      "sourceId": "20155",
+      "variantIds": [],
+      "sha256": "d326ef01cff2681552a57817900f0952b72c9e23a63c3f9ecd2158209a75ea2b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:23.371Z",
+  "issues": []
+}

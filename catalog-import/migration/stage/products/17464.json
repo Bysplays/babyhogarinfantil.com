@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "17464",
+  "sourceUrl": "https://babyhogarinfantil.com/muselinas-y-gasas/17464-pack-3-muselinas-bambu-55x70-jungla-rosa.html",
+  "name": "Pack 3 muselinas BAMBU 55x70 Jungla Rosa",
+  "brand": "Interbaby",
+  "sku": "2401131",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "797",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "797",
+  "sourceCategoryName": "Muselinas y gasas",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-03-20 23:54:54",
+  "sourceUpdatedAt": "2026-10-27 11:13:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149010",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11931XA18320",
+      "productSku": "2401131",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:20.200Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17464-18266.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18266-large_default/pack-3-muselinas-bambu-55x70-jungla-rosa.jpg",
+      "alt": "Pack 3 muselinas BAMBU 55x70 Jungla Rosa",
+      "sourceId": "18266",
+      "variantIds": [],
+      "sha256": "307f51dca3b05be89e216de09e79b04a112a5a28daed2040493cf8bb4e13fd6a"
+    },
+    {
+      "path": "assets/17464-18267.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18267-large_default/pack-3-muselinas-bambu-55x70-jungla-rosa.jpg",
+      "alt": "Pack 3 muselinas BAMBU 55x70 Jungla Rosa",
+      "sourceId": "18267",
+      "variantIds": [],
+      "sha256": "88f62c6b8194e61c75cdfcbecbc5f2e07fdfb7787a5857f2517f2a9c8eb7eb8d"
+    },
+    {
+      "path": "assets/17464-18268.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18268-large_default/pack-3-muselinas-bambu-55x70-jungla-rosa.jpg",
+      "alt": "Pack 3 muselinas BAMBU 55x70 Jungla Rosa",
+      "sourceId": "18268",
+      "variantIds": [],
+      "sha256": "a37e703e587ef763aba95a5fcfaa1ab949c1abd6b04fc7fdc1346204b2c09761"
+    },
+    {
+      "path": "assets/17464-18269.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18269-large_default/pack-3-muselinas-bambu-55x70-jungla-rosa.jpg",
+      "alt": "Pack 3 muselinas BAMBU 55x70 Jungla Rosa",
+      "sourceId": "18269",
+      "variantIds": [],
+      "sha256": "bc631ee0d035d56df718162d8b0eae736205ff41da12cac02468928327cd043f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:20.365Z",
+  "issues": []
+}

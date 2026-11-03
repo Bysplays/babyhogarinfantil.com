@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "18209",
+  "sourceUrl": "https://babyhogarinfantil.com/mantas-bebe/18209-manta-infantil-80x110-nido-de-abeja-rosa.html",
+  "name": "Manta infantil 80x110 nido de abeja Rosa",
+  "brand": "Interbaby",
+  "sku": "2402109",
+  "description": "Envuelve a tu angelito en la delicadez y suavidad que ofrece la Manta infantil 80x110 nido de abeja Rosa. Un detalle de cariño que aporta calor y confort en todos los momentos especiales. Su tejido de nido de abeja garantiza una transpiración óptima, haciendo que sea la elección perfecta para cualquier estación del año. Delicadamente diseñada en un tono rosa encaramado, aprendiendo la esencia de la ternura. Añade una pequeña dosis de amor a su pequeño planeta cotidiano.",
+  "details": "Deliciosa Comodidad\n\nExperimenta lo increíblemente suave que es la manta infantil 80x110 con diseño de nido de abeja en color rosa. Fabricada con tela de la más alta calidad, mantiene a los más pequeños calentitos en todo momento, siendo la opción perfecta para los sueños más dulces.\n\nEncanto Estético\n\nEste elegante diseño imita el patrón geométrico de un nido de abeja, aportando un toque dulce y minimalista a cualquier habitación. Su delicado tono rosa envuelve a los bebés en una sensación de cariño y ternura, sumándose a la creación de un ambiente tranquilo y relajante.\n\nLa Elección Perfecta\n\nLa manta infantil nido de abeja Rosa no es solo una manta, es una declaración de estilo, calidez y confort. Hecha con la durabilidad en mente, resistirá el uso diario mientras mantiene su belleza y suavidad. Dile adiós a las mantas aburridas y dale la bienvenida a este bello accesorio lleno de personalidad.\n\n¡Haz clic aquí para hacer feliz a tu pequeño con esta manta hoy!\n\nComposición: 100% poliéster",
+  "sourceDescriptionHtml": "<h2>Deliciosa Comodidad</h2>\n<p>Experimenta lo increíblemente suave que es la <strong>manta infantil 80x110</strong> con diseño de nido de abeja en color rosa. Fabricada con tela de la más alta calidad, mantiene a los más pequeños calentitos en todo momento, siendo la opción perfecta para los sueños más dulces.</p>\n<h2>Encanto Estético</h2>\n<p>Este elegante diseño imita el patrón geométrico de un nido de abeja, aportando un toque dulce y minimalista a cualquier habitación. Su delicado tono rosa envuelve a los bebés en una sensación de cariño y ternura, sumándose a la creación de un ambiente tranquilo y relajante.</p>\n<h2>La Elección Perfecta</h2>\n<p>La manta infantil nido de abeja Rosa no es solo una manta, es una declaración de estilo, calidez y confort. Hecha con la durabilidad en mente, resistirá el uso diario mientras mantiene su belleza y suavidad. Dile adiós a las mantas aburridas y dale la bienvenida a este bello accesorio lleno de personalidad.</p>\n<p><a href=\"#\" class=\"btn btn-primary\">¡Haz clic aquí para hacer feliz a tu pequeño con esta manta hoy!</a></p>\n<p>Composición: 100% poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "765",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "765",
+  "sourceCategoryName": "Mantas Bebé",
+  "price": 18.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-08 23:53:58",
+  "sourceUpdatedAt": "2026-10-27 11:13:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149138",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12239XA18747",
+      "productSku": "2402109",
+      "taxRate": 21,
+      "price": 18.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:50.732Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18209-17030.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17030-large_default/manta-infantil-80x110-nido-de-abeja-rosa.jpg",
+      "alt": "Manta infantil 80x110 nido de abeja Rosa",
+      "sourceId": "17030",
+      "variantIds": [],
+      "sha256": "972ac188184fe4315aa06df7c9b04f0811ce99785bfcd396051d944c58d2949f"
+    },
+    {
+      "path": "assets/18209-17031.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17031-large_default/manta-infantil-80x110-nido-de-abeja-rosa.jpg",
+      "alt": "Manta infantil 80x110 nido de abeja Rosa",
+      "sourceId": "17031",
+      "variantIds": [],
+      "sha256": "ce115aa70ae0102a6cab2f92b2d8e5677ad2a9b10a9b97f8d44213ec75d942fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:50.873Z",
+  "issues": []
+}

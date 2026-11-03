@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "id": "17587",
+  "sourceUrl": "https://babyhogarinfantil.com/faldas-escolares/17587-falda-colegial-botones-con-tirantes-gris-oscuro.html",
+  "name": "Falda colegial botones con tirantes Gris oscuro",
+  "brand": "Mayoral",
+  "sku": "2208033",
+  "description": "Falda colegial con tirantes y botones.\n\ncomposición:\n\nFalda: 100% poliéster.",
+  "details": "composición:\n\nFalda: 100% poliéster.\n\nHECHO EN CHINA",
+  "sourceDescriptionHtml": "<p>composición:</p>\n<p>Falda: 100% poliéster.</p>\n<p>HECHO EN CHINA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Oscuro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "809",
+    "705",
+    "878"
+  ],
+  "sourceDefaultCategoryId": "809",
+  "sourceCategoryName": "Faldas escolares",
+  "price": 27.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-05-16 23:55:00",
+  "sourceUpdatedAt": "2026-10-27 11:11:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87414",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "10519XC16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:49.502Z"
+    },
+    {
+      "id": "147986",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "10519XA16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:52.039Z"
+    },
+    {
+      "id": "147987",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "10519XB16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:54.513Z"
+    },
+    {
+      "id": "100582",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "10519XD16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:57.034Z"
+    },
+    {
+      "id": "84520",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "10519XE16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:59.780Z"
+    },
+    {
+      "id": "94183",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "10519XF16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:02.432Z"
+    },
+    {
+      "id": "147988",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "10519XG16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:05.750Z"
+    },
+    {
+      "id": "147989",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "10519XH16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:08.941Z"
+    },
+    {
+      "id": "147990",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "10519XI16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:13.602Z"
+    },
+    {
+      "id": "147991",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "10519XJ16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:18.674Z"
+    },
+    {
+      "id": "147992",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "10519XK16362",
+      "productSku": "2208033",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:21.703Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17587-16657.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16657-large_default/falda-colegial-botones-con-tirantes-gris-oscuro.jpg",
+      "alt": "Falda colegial botones con tirantes Gris oscuro",
+      "sourceId": "16657",
+      "variantIds": [],
+      "sha256": "0deca4025c171441d1c130477d324f673cbd022b681e2ad2ef674c273ca091a9"
+    },
+    {
+      "path": "assets/17587-16658.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16658-large_default/falda-colegial-botones-con-tirantes-gris-oscuro.jpg",
+      "alt": "falda colegial con tirantes gris mayoral",
+      "sourceId": "16658",
+      "variantIds": [],
+      "sha256": "2636ffa38801e78136bbe6c7675a168fee0eccda2ed7c6ad73cbb95c0c20a5da"
+    },
+    {
+      "path": "assets/17587-16659.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16659-large_default/falda-colegial-botones-con-tirantes-gris-oscuro.jpg",
+      "alt": "Falda colegial botones con tirantes Gris oscuro",
+      "sourceId": "16659",
+      "variantIds": [],
+      "sha256": "5408f06dde3778fc0b95f160b0c64583c00557bb0ef7d0f474c2d5188d0936ed"
+    },
+    {
+      "path": "assets/17587-16660.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16660-large_default/falda-colegial-botones-con-tirantes-gris-oscuro.jpg",
+      "alt": "Falda colegial botones con tirantes Gris oscuro",
+      "sourceId": "16660",
+      "variantIds": [],
+      "sha256": "2f4464a6cd3144f52b8c999f6686a7994c878af50e2ad7bc8e6e3979d9151932"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:33:25.333Z",
+  "issues": []
+}

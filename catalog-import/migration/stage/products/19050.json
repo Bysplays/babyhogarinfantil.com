@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "19050",
+  "sourceUrl": "https://babyhogarinfantil.com/baberos/19050-pack-2-baberos-bamboo-animalitos-gris.html",
+  "name": "Pack 2 baberos bamboo animalitos Gris",
+  "brand": "Interbaby",
+  "sku": "2402253",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "800",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "800",
+  "sourceCategoryName": "Baberos",
+  "price": 4.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-31 15:54:17",
+  "sourceUpdatedAt": "2026-10-27 11:13:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149254",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12383XA18935",
+      "productSku": "2402253",
+      "taxRate": 21,
+      "price": 4.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:08.462Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19050-18457.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18457-large_default/pack-2-baberos-bamboo-animalitos-gris.jpg",
+      "alt": "Pack 2 baberos bamboo animalitos Gris",
+      "sourceId": "18457",
+      "variantIds": [],
+      "sha256": "f7eb3d9aeee37b53f6ca3b658d94ac7477eefd76b4ea14b8ba5df7eda206d9d0"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:08.513Z",
+  "issues": []
+}

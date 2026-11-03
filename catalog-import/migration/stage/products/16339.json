@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "id": "16339",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-montesol/16339-camiseta-deporte-s-a-xl-blanco.html",
+  "name": "Camiseta deporte S a XL Blanco",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2304041",
+  "description": "Camiseta manga corta para deporte, cursos primaria y ESO del colegio Montesol de Vigo.",
+  "details": "Composición:\n\nCamiseta: 50% algodón, 50% poliéster.\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO.\n\nHECHA EN GALICIA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Camiseta: 50% algodón, 50% poliéster.</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p><strong>HECHA EN GALICIA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "850"
+  ],
+  "sourceDefaultCategoryId": "850",
+  "sourceCategoryName": "Colegio Montesol",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-29 23:52:37",
+  "sourceUpdatedAt": "2026-10-27 11:12:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 26,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "274",
+          "label": "S"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        },
+        {
+          "id": "278",
+          "label": "XXL"
+        },
+        {
+          "id": "330",
+          "label": "XXXL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96501",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "274",
+          "group": "Tamaño",
+          "value": "S"
+        }
+      ],
+      "sku": "11315XA17431",
+      "productSku": "2304041",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:39.218Z"
+    },
+    {
+      "id": "96037",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "11315XB17431",
+      "productSku": "2304041",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:41.667Z"
+    },
+    {
+      "id": "83090",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "11315XC17431",
+      "productSku": "2304041",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:44.529Z"
+    },
+    {
+      "id": "130124",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "11315XD17431",
+      "productSku": "2304041",
+      "taxRate": 21,
+      "price": 17.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:46.946Z"
+    },
+    {
+      "id": "130125",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "278",
+          "group": "Tamaño",
+          "value": "XXL"
+        }
+      ],
+      "sku": "11315XE17431",
+      "productSku": "2304041",
+      "taxRate": 21,
+      "price": 20.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:49.555Z"
+    },
+    {
+      "id": "148671",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "330",
+          "group": "Tamaño",
+          "value": "XXXL"
+        }
+      ],
+      "sku": "11315XF17431",
+      "productSku": "2304041",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:51.975Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16339-14101.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14101-large_default/camiseta-deporte-s-a-xl-blanco.jpg",
+      "alt": "Camiseta deporte S a XL Blanco",
+      "sourceId": "14101",
+      "variantIds": [],
+      "sha256": "8a5e8f2c57fc74364162434a6b5db674d1964d4c97a89bf2f39a6a32e7b3f23c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:33:52.046Z",
+  "issues": []
+}

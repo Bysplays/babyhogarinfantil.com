@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9429",
+  "sourceUrl": "https://babyhogarinfantil.com/cazadoras-y-parkas-bebe-nino/9429-parka-bebe-nino-verano-piraguas-gris.html",
+  "name": "Parka bebe niño verano piraguas Gris",
+  "brand": "Chicco",
+  "sku": "2202081",
+  "description": "Parka cortavientos estampada y forrada con capucha. Disponible tallas grandes.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "724"
+  ],
+  "sourceDefaultCategoryId": "724",
+  "sourceCategoryName": "Cazadoras y parkas bebé niño",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:49",
+  "sourceUpdatedAt": "2026-10-27 11:11:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69203",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2202081",
+      "productSku": "2202081",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:44.791Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9429-7661.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7661-large_default/parka-bebe-nino-verano-piraguas-gris.jpg",
+      "alt": "Parka bebe niño verano piraguas Gris",
+      "sourceId": "7661",
+      "variantIds": [],
+      "sha256": "2a49cd47fdd56e9af691e6e4792934b05edb1638a7b524437effdcf7438d9313"
+    },
+    {
+      "path": "assets/9429-12325.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12325-large_default/parka-bebe-nino-verano-piraguas-gris.jpg",
+      "alt": "Parka bebe niño verano piraguas Gris",
+      "sourceId": "12325",
+      "variantIds": [],
+      "sha256": "2a49cd47fdd56e9af691e6e4792934b05edb1638a7b524437effdcf7438d9313"
+    },
+    {
+      "path": "assets/9429-8752.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8752-large_default/parka-bebe-nino-verano-piraguas-gris.jpg",
+      "alt": "Parka bebe niño verano piraguas Gris",
+      "sourceId": "8752",
+      "variantIds": [],
+      "sha256": "438d3b3f31281c8d0e7bbe65a6c4eb72857190e1e4c2d09bb1620b3b08673de8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:44.941Z",
+  "issues": []
+}

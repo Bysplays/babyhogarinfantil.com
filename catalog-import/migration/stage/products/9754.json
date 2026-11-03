@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "9754",
+  "sourceUrl": "https://babyhogarinfantil.com/complementos/9754-collar-mordedor-azul.html",
+  "name": "Collar Mordedor Azul",
+  "brand": "Mami me mima",
+  "sku": "2205085",
+  "description": "Collar de lactancia mordedor, de silicona alimentaria antibacteriana libre de BPA, ayuda a aliviar los dolores de encía del bebé en la etapa de dentición. Cumple las normas Europeas EN 71-1:2014 y EN 71-2:211 + A1:2014",
+  "details": "Collar de uso para adulto, no ponerselo al bebé.\n\nLavar con agua y jabón, apto para lavavajillas.\n\nAyuda a desarrollar la sicomotricidad final del bebé gracias a su textura y colores.",
+  "sourceDescriptionHtml": "<p>Collar de uso para adulto, no ponerselo al bebé.</p>\n<p>Lavar con agua y jabón, apto para lavavajillas.</p>\n<p>Ayuda a desarrollar la sicomotricidad final del bebé gracias a su textura y colores.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "813",
+    "865"
+  ],
+  "sourceDefaultCategoryId": "788",
+  "sourceCategoryName": "Complementos",
+  "price": 15.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69920",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10367XA16167",
+      "productSku": "2205085",
+      "taxRate": 21,
+      "price": 15.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:08.218Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9754-12683.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12683-large_default/collar-mordedor-azul.jpg",
+      "alt": "Collar Mordedor Azul",
+      "sourceId": "12683",
+      "variantIds": [],
+      "sha256": "d5e8f2dc470598cb97e5b94300f1401f2edc589e4dba5405d9daa69f55f27e23"
+    },
+    {
+      "path": "assets/9754-8247.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8247-large_default/collar-mordedor-azul.jpg",
+      "alt": "Collar Mordedor Azul",
+      "sourceId": "8247",
+      "variantIds": [],
+      "sha256": "58476e6b1743dcdb4ee529d55e6bc883cdbc39a903231d166f781c7750577e00"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:08.335Z",
+  "issues": []
+}

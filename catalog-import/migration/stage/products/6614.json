@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "6614",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/6614-ranita-micropana-lisa-azul-celeste.html",
+  "name": "Ranita micropana lisa Azul Celeste",
+  "brand": "Calamaro",
+  "sku": "1606038",
+  "description": "Ranita básica micro pana para invierno. 100% ALGODON\n\nHECHA EN ESPAÑA",
+  "details": "Composición y cuidados:\n\nRanita: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Ranita: 100% algodón.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2016-17",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "892",
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-27 11:09:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "80097",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1606038",
+      "productSku": "1606038",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:39.332Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6614-4567.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4567-large_default/ranita-micropana-lisa-azul-celeste.jpg",
+      "alt": "Ranita micropana lisa Azul Celeste",
+      "sourceId": "4567",
+      "variantIds": [],
+      "sha256": "eb1112ab5269adde6464a92ba98994d98139cb40d3922bf6ece53b8b87686703"
+    },
+    {
+      "path": "assets/6614-9666.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9666-large_default/ranita-micropana-lisa-azul-celeste.jpg",
+      "alt": "Ranita micropana lisa Azul Celeste",
+      "sourceId": "9666",
+      "variantIds": [],
+      "sha256": "9083b9c5dc807ff7ddd5bfdf4a740255c80e788db1bb776093b4f4c5b93c01ec"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:39.439Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9716",
+  "sourceUrl": "https://babyhogarinfantil.com/primera-puesta-bebe/9716-conjunto-polaina-algodon-bebe-nina-fucsia.html",
+  "name": "Conjunto polaina algodon bebé niña Fucsia",
+  "brand": "Talaman",
+  "sku": "2205042",
+  "description": "Conjunto de primera puesta 100% ALGODÓN, compuesto por camiseta de manga larga con corchetes en toda la espalda para facilitar la puesta y polaina estampada con suave elástico en la cintura.",
+  "details": "Conjunto de dos piezas para primera puesta de TALAMAN, firma nacida en 1985 experta en diseño, producción y comercialización de moda infantil. 100% ALGODÓN, compuesto por camiseta de manga larga y cuello redondo, con cierre de corchetes en toda la espalda para facilitar la puesta. En color rosa con fresita estampada en el pecho. Como parte de abajo, polaina con pie en color blanco estampada con topitos. Con suave goma en la cintura para una mejor sujeción. Un conjunto cómodo, fresquito y muy ligero, perfecto para las bebés. Echa un ojito a nuestros bodies interiores, toquillas de perlé y accesorios de primera puesta y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nConjunto: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas para primera puesta de <strong>TALAMAN</strong>, firma nacida en 1985 experta en diseño, producción y comercialización de moda infantil. <strong>100% ALGODÓN</strong>, compuesto por camiseta de manga larga y cuello redondo, con <strong>cierre de corchetes</strong> en toda la espalda para facilitar la puesta. En color rosa con fresita estampada en el pecho. Como parte de abajo, polaina con pie en color blanco estampada con topitos. Con suave <strong>goma en la cintura</strong> para una mejor sujeción. Un conjunto cómodo, fresquito y muy ligero, perfecto para las bebés. Echa un ojito a nuestros <strong>bodies interiores, toquillas de perlé y accesorios de primera puesta</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Conjunto: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC) </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "792",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "792",
+  "sourceCategoryName": "Primera puesta 0 a 3 meses",
+  "price": 7.5,
+  "oldPrice": 14.9919,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69889",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2205042",
+      "productSku": "2205042",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:05.504Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9716-7898.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7898-large_default/conjunto-polaina-algodon-bebe-nina-fucsia.jpg",
+      "alt": "Conjunto polaina algodon bebé niña Fucsia",
+      "sourceId": "7898",
+      "variantIds": [],
+      "sha256": "3120bfd8d3587d0f9e087b9c0971ea51ad16039ca54bc5fa3bd5f01fc522af40"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:05.549Z",
+  "issues": []
+}

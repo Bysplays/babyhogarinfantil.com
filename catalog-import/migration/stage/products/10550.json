@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10550",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10550-conjunto-basico-con-ranita-bebe-nino-celeste.html",
+  "name": "Conjunto básico con ranita bebe niño Celeste",
+  "brand": "Calamaro",
+  "sku": "2301288",
+  "description": "Conjunto de dos piezas en algodón, con ranita",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 21.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-21 16:21:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72246",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2301288",
+      "productSku": "2301288",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:31.341Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10550-13659.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13659-large_default/conjunto-basico-con-ranita-bebe-nino-celeste.jpg",
+      "alt": "Conjunto básico con ranita bebe niño Celeste",
+      "sourceId": "13659",
+      "variantIds": [],
+      "sha256": "b64fc1c33ee7dd4de1f16962cdbca41e3feec14e05b68a2b31394c78627173b3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:31.383Z",
+  "issues": []
+}

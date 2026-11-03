@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8310",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8310-lazo-grande-con-pinza-blanco.html",
+  "name": "Lazo grande con pinza Blanco",
+  "brand": "Siena",
+  "sku": "2007018",
+  "description": "Descubre la belleza de este Lazo grande con pinza Blanco. Atractivo, elegante y sumamente versátil, es el toque final perfecto para cualquier conjunto infantil. Su diseño clásico y suave color blanco realzan la inocencia y dulzura de tu pequeño, añadiendo un toque de encanto a cada atuendo. Hecho con amor y atención al detalle, garantiza un ajuste cómodo y seguro en cualquier tipo de cabello. Su versatilidad hace que sea la elección ideal para cualquier ocasión especial o para el día a día. No dejes pasar la oportunidad de adquirir este encantador lazo. Embellece el día de tu pequeño con un gesto de amor.\n\nLazo de 8x8 cm. aprox. HECHO EN ESPAÑA. HECHO A MANO.",
+  "details": "Magia y Elegancia en un Lazo\n\nSeduzca cada instante con nuestra llegada del lazo grande con pinza blanco. Hecho con materiales de alta calidad que garantizan larga durabilidad y resistencia. Perfecto para hacer que cualquier peinado brille con un toque de elegancia insuperable.\n\nDestaque en Cada Momento\n\nAñada un elemento de distinción a cualquier peinado con nuestro lazo grande con pinza blanco. Perfecto para fiestas, ocasiones especiales o incluso para añadir un toque atractivo a la ropa de todos los días. Con nuestra combinación única de calidad y elegancia, cada momento se convierte en una oportunidad para brillar.\n\nRegale Belleza y Diversión\n\nHaz que la alegría se expanda con la belleza de nuestro lazo grande. Elegante, resistente y de un blanco radiante, es el complemento perfecto para cualquier ropa de niños. Sorpréndeles en su cumpleaños, un premio escolar u otro evento importante. Con nuestro lazo, estarán preparados para brillar en cualquier momento.\n\nNo te pierdas la oportunidad de añadir nuestro lazo grande con pinza blanco a tu colección. ¡Obtén el tuyo ahora y empieza a destacar!",
+  "sourceDescriptionHtml": "<div>\n<h2>Magia y Elegancia en un Lazo</h2>\n<p>Seduzca cada instante con nuestra llegada del lazo grande con pinza blanco. Hecho con materiales de alta calidad que garantizan larga durabilidad y resistencia. Perfecto para hacer que cualquier peinado brille con un toque de elegancia insuperable.</p>\n<h2>Destaque en Cada Momento</h2>\n<p>Añada un elemento de distinción a cualquier peinado con nuestro lazo grande con pinza blanco. Perfecto para fiestas, ocasiones especiales o incluso para añadir un toque atractivo a la ropa de todos los días. Con nuestra combinación única de calidad y elegancia, cada momento se convierte en una oportunidad para brillar.</p>\n<h2>Regale Belleza y Diversión</h2>\n<p>Haz que la alegría se expanda con la belleza de nuestro lazo grande. Elegante, resistente y de un blanco radiante, es el complemento perfecto para cualquier ropa de niños. Sorpréndeles en su cumpleaños, un premio escolar u otro evento importante. Con nuestro lazo, estarán preparados para brillar en cualquier momento.</p>\n<p><strong>No te pierdas la oportunidad de añadir nuestro lazo grande con pinza blanco a tu colección. ¡Obtén el tuyo ahora y empieza a destacar!</strong></p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 3.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146663",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8050XA12974",
+      "productSku": "2007018",
+      "taxRate": 21,
+      "price": 3.5,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:20.232Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8310-6593.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6593-large_default/lazo-grande-con-pinza-blanco.jpg",
+      "alt": "Lazo grande con pinza Blanco",
+      "sourceId": "6593",
+      "variantIds": [],
+      "sha256": "ac52d2200a47ae39bf8f1a0d295473782a248aa0c320b1de64c04284e38eecf9"
+    },
+    {
+      "path": "assets/8310-6592.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6592-large_default/lazo-grande-con-pinza-blanco.jpg",
+      "alt": "Lazo grande con pinza Blanco",
+      "sourceId": "6592",
+      "variantIds": [],
+      "sha256": "3fe0ba7a35ab9e1328aa6bed29c4e1a745959b4f0ec513c76ad672b2b248a6ff"
+    },
+    {
+      "path": "assets/8310-15542.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15542-large_default/lazo-grande-con-pinza-blanco.jpg",
+      "alt": "Lazo grande con pinza Blanco",
+      "sourceId": "15542",
+      "variantIds": [],
+      "sha256": "05ce228d31130e08be6ccae37ffbad58e35a0a133ff5eccf2581f4bec9e151ab"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:20.415Z",
+  "issues": []
+}

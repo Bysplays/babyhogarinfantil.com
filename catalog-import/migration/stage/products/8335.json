@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8335",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8335-lazo-mediano-con-pinza-azul-francia.html",
+  "name": "Lazo mediano con pinza Azul francia",
+  "brand": "Siena",
+  "sku": "2007019",
+  "description": "Lazo de 8 x 5,5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox. \n\nHECHO A MANO.\n\nHECHO EN ESPAÑA.",
+  "details": "Encanto y elegancia\n\nEl Lazo mediano con pinza Azul francia es el complemento ideal para la ropa de tus pequeños. Este lazo añade un detalle de encanto y elegancia a cualquier peinado. Además, con su magnífico color Azul francia es la opción perfecta para cualquier ocasión especial. Añade este lazo a su guardarropa y realza la belleza y la dulzura de tu pequeño.\n\n\nCalidad y comodidad\n\nFabricado con materiales de alta calidad, este lazo azul es tanto elegante como duradero. La pinza está diseñada para asegurar firmemente el lazo al cabello de tu pequeño, sin causar ninguna molestia. Este lazo nos ofrece la combinación perfecta de estilo y comodidad, siendo un accesorio esencial para la ropa de tus hijos.\n\n\nUn regalo perfecto\n\nNi siquiera necesitas una ocasión especial para celebrar a tu pequeño con este lazo hermoso. Es un regalo perfecto, para un cumpleaños, un aniversario, o incluso \\'porque sí\\'. Agrega un extra de alegría y color a las ocasiones más especiales con el Lazo mediano con pinza Azul francia. Es el detalle que hace toda la diferencia.\n\n\nAtrévete a darle a tu pequeño un toque de estilo con este hermoso lazo. ¡Añádalo a tu carrito ahora!",
+  "sourceDescriptionHtml": "<p><strong>Encanto y elegancia</strong></p>\n<p>El Lazo mediano con pinza Azul francia es el complemento ideal para la ropa de tus pequeños. Este lazo añade un detalle de encanto y elegancia a cualquier peinado. Además, con su magnífico color Azul francia es la opción perfecta para cualquier ocasión especial. Añade este lazo a su guardarropa y realza la belleza y la dulzura de tu pequeño.</p>\n\n<p><strong>Calidad y comodidad</strong></p>\n<p>Fabricado con materiales de alta calidad, este lazo azul es tanto elegante como duradero. La pinza está diseñada para asegurar firmemente el lazo al cabello de tu pequeño, sin causar ninguna molestia. Este lazo nos ofrece la combinación perfecta de estilo y comodidad, siendo un accesorio esencial para la ropa de tus hijos.</p>\n\n<p><strong>Un regalo perfecto</strong></p>\n<p>Ni siquiera necesitas una ocasión especial para celebrar a tu pequeño con este lazo hermoso. Es un regalo perfecto, para un cumpleaños, un aniversario, o incluso \\'porque sí\\'. Agrega un extra de alegría y color a las ocasiones más especiales con el Lazo mediano con pinza Azul francia. Es el detalle que hace toda la diferencia.</p>\n\n<p style=\"color:#FF0000;margin-top:20px;\">Atrévete a darle a tu pequeño un toque de estilo con este hermoso lazo. ¡Añádalo a tu carrito ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Francia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84933",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8051XA14314",
+      "productSku": "2007019",
+      "taxRate": 21,
+      "price": 2.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:44.129Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8335-11085.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11085-large_default/lazo-mediano-con-pinza-azul-francia.jpg",
+      "alt": "Lazo mediano con pinza Azul francia",
+      "sourceId": "11085",
+      "variantIds": [],
+      "sha256": "dd0b85d20966964385271d3a0ca6dddfdaa7d1c8f7c8497b295960110bac5e1b"
+    },
+    {
+      "path": "assets/8335-6637.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6637-large_default/lazo-mediano-con-pinza-azul-francia.jpg",
+      "alt": "Lazo mediano con pinza Azul francia",
+      "sourceId": "6637",
+      "variantIds": [],
+      "sha256": "17c69944785182c81b6fa0970e0dc3104f4dc6a6190cf6d2528be54f5852d44a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:44.273Z",
+  "issues": []
+}

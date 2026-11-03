@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "9008",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/9008-chaqueta-larga-link-unisex-gris.html",
+  "name": "Chaqueta larga link unisex Gris",
+  "brand": "Mac Ilusión",
+  "sku": "2107072",
+  "description": "Introduciendo la Chaqueta Larga Link Unisex en Gris, una elección de vestimenta esencial para los pequeños exploradores modernos. Hecha con amor, calidez y estilo, esta pieza añade una sofisticación casual a cualquier outfit de niños. Siéntete seguro al saber que tu pequeño estará cómodo y animado en climas fríos. ¿Quieres un aspecto elegante sin sacrificar la comodidad y la movilidad de tu pequeño? No busques más. Con su tono gris neutro, se combina fácilmente y su diseño unisex maximiza su funcionalidad. ¡Ideal para todas las estaciones y aventuras!",
+  "details": "Una Prenda Clásica que No Pasa de Moda\n\nUna prenda infaltable en el ropero de cada niño y niña es la Chaqueta larga link unisex Gris. Elegante, versátil y atemporal, esta chaqueta abriga durante los meses más fríos y complementa cualquier estilo. Fabricada con materiales de alta calidad, asegura comodidad y durabilidad incluso en las aventuras más intensas que los pequeños puedan tener.\n\nAbrigo, Estilo y Confort en Un Solo Producto\n\nLa Chaqueta larga link unisex Gris está diseñada para ofrecer abrigo sin sacrificar la movilidad de los niños y niñas. Su corte largo proporciona una cobertura adicional, haciendo de esta chaqueta una opción ideal para el juego al aire libre. El diseño unisex garantiza que esta prenda pueda ser usada por cualquier niño, acentuando su delicadeza y personalidad sin importar el género.\n\nUna Inversión Duradera para el Guardaropa de los Pequeños\n\nInvestir en una Chaqueta larga link unisex Gris es garantizar la comodidad y el estilo de los pequeños durante muchos inviernos. Su tejido resistente a la intemperie y su\n\ncierre reforzado prometen durabilidad, mientras que la suave textura interna evita la irritación de la piel y provee una sensación agradable al tacto. Una chaqueta que sin dudas resistirá el paso del tiempo y las travesuras.\n\n100% Acrílico \n\n¡Añade la Chaqueta Larga Link Unisex Gris a tu carrito de compras ahora mismo!",
+  "sourceDescriptionHtml": "<h2>Una Prenda Clásica que No Pasa de Moda</h2>\n<p>Una prenda infaltable en el ropero de cada niño y niña es la <strong>Chaqueta larga link unisex Gris</strong>. Elegante, versátil y atemporal, esta chaqueta abriga durante los meses más fríos y complementa cualquier estilo. Fabricada con materiales de alta calidad, asegura comodidad y durabilidad incluso en las aventuras más intensas que los pequeños puedan tener.</p>\n<h2>Abrigo, Estilo y Confort en Un Solo Producto</h2>\n<p>La <strong>Chaqueta larga link unisex Gris</strong> está diseñada para ofrecer abrigo sin sacrificar la movilidad de los niños y niñas. Su corte largo proporciona una cobertura adicional, haciendo de esta chaqueta una opción ideal para el juego al aire libre. El diseño unisex garantiza que esta prenda pueda ser usada por cualquier niño, acentuando su delicadeza y personalidad sin importar el género.</p>\n<h2>Una Inversión Duradera para el Guardaropa de los Pequeños</h2>\n<p>Investir en una <strong>Chaqueta larga link unisex Gris</strong> es garantizar la comodidad y el estilo de los pequeños durante muchos inviernos. Su tejido resistente a la intemperie y su</p>\n<p>cierre reforzado prometen durabilidad, mientras que la suave textura interna evita la irritación de la piel y provee una sensación agradable al tacto. Una chaqueta que sin dudas resistirá el paso del tiempo y las travesuras.</p>\n<p>100% Acrílico </p>\n<p><a class=\"btn btn-primary\" href=\"#\">¡Añade la Chaqueta Larga Link Unisex Gris a tu carrito de compras ahora mismo!</a></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-27 11:11:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68331",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2107072",
+      "productSku": "2107072",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:20.645Z"
+    },
+    {
+      "id": "68332",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2107072",
+      "productSku": "2107072",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:23.278Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9008-7324.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7324-large_default/chaqueta-larga-link-unisex-gris.jpg",
+      "alt": "Chaqueta larga link unisex Gris",
+      "sourceId": "7324",
+      "variantIds": [],
+      "sha256": "be653c6f1b895658be0967927b93979283c787973cbb7a599dd71c58932d43fb"
+    },
+    {
+      "path": "assets/9008-11792.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11792-large_default/chaqueta-larga-link-unisex-gris.jpg",
+      "alt": "Chaqueta larga link unisex Gris",
+      "sourceId": "11792",
+      "variantIds": [],
+      "sha256": "be653c6f1b895658be0967927b93979283c787973cbb7a599dd71c58932d43fb"
+    },
+    {
+      "path": "assets/9008-7323.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7323-large_default/chaqueta-larga-link-unisex-gris.jpg",
+      "alt": "Chaqueta larga link unisex Gris",
+      "sourceId": "7323",
+      "variantIds": [],
+      "sha256": "74cc2408a4e2302d602b6293ac563b9e580ba371978aa1307b51e5a777e58829"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:23.449Z",
+  "issues": []
+}

@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "id": "6419",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/6419-body-cuello-puntilla-manga-corta-blanco.html",
+  "name": "Body cuello puntilla Manga Corta Blanco",
+  "brand": "Calamaro",
+  "sku": "1531684",
+  "description": "Body 100% algodón, de manga corta y cuello redondo con volante de puntilla. Color blanco. Cierre trasero con corchetes hasta media espalda y entrepierna. DISPONIBLE EN ROSA, CELESTE Y CRUDO.",
+  "details": "Body de CALAMARO, una de nuestra firmas preferidas! 100% algodón, de manga corta y cuello redondo con volante de puntilla. Color blanco. Cierre trasero con corchetes hasta media espalda y entrepierna, para facilitar la puesta y el cambio de pañal. Una prenda clásica y atemporal, tejido suave, fresco y agradable al tacto así como respetuoso con la piel. Echa un ojito a nuestros conjuntos de perlé y ranitas o petos y podrás combinarlo como más te guste! DISPONIBLE EN COLOR BLANCO CON ROSA, BLANCO CON CELESTE Y CRUDO. \n\nComposición y cuidados:\n\nBody: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Body de <strong>CALAMARO</strong>, una de nuestra firmas preferidas! <strong>100% algodón</strong>, de manga corta y cuello redondo con <strong>volante de puntilla</strong>. Color blanco. Cierre trasero con corchetes hasta media espalda y entrepierna, para facilitar la puesta y el cambio de pañal. Una prenda clásica y atemporal, tejido suave, fresco y agradable al tacto así como respetuoso con la piel. Echa un ojito a nuestros <strong>conjuntos de perlé y ranitas o petos</strong> y podrás combinarlo como más te guste! <strong>DISPONIBLE EN COLOR BLANCO CON ROSA, BLANCO CON CELESTE Y CRUDO. </strong></p>\n<p>Composición y cuidados:</p>\n<p>Body: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "896",
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 14,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "144714",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1584XA2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:45.035Z"
+    },
+    {
+      "id": "144715",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1584XB2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:46.728Z"
+    },
+    {
+      "id": "144716",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "1584XC2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:48.003Z"
+    },
+    {
+      "id": "144717",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1584XD2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:50.903Z"
+    },
+    {
+      "id": "92730",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1584XE2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:54.500Z"
+    },
+    {
+      "id": "144718",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1584XF2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:56.196Z"
+    },
+    {
+      "id": "144719",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1584XG2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:57.716Z"
+    },
+    {
+      "id": "63524",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1584XH2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:59.021Z"
+    },
+    {
+      "id": "63525",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "1584XI2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:01.390Z"
+    },
+    {
+      "id": "144720",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "1584XJ2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:03.316Z"
+    },
+    {
+      "id": "144721",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "1584XK2860",
+      "productSku": "1531684",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:05.605Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6419-9585.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9585-large_default/body-cuello-puntilla-manga-corta-blanco.jpg",
+      "alt": "Body cuello puntilla Manga Corta Blanco",
+      "sourceId": "9585",
+      "variantIds": [],
+      "sha256": "4af5766cf4d866f329ec7d19eb4fe0f1e1f4b3ca1c769f5bc5ffd46942f8907e"
+    },
+    {
+      "path": "assets/6419-8658.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8658-large_default/body-cuello-puntilla-manga-corta-blanco.jpg",
+      "alt": "bodi cuello manga corta blanco",
+      "sourceId": "8658",
+      "variantIds": [],
+      "sha256": "cab314a8c7bc2c228a208b978b63857496ba8c43a780cf3e8a3f4a200502f17a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:05.824Z",
+  "issues": []
+}

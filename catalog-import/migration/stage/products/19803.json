@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "19803",
+  "sourceUrl": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/19803-mochila-cambiador-peonia.html",
+  "name": "Mochila cambiador Peonia",
+  "brand": "Mayoral",
+  "sku": "2402375",
+  "description": "",
+  "details": "Mochila y cambiador 100% poliéster",
+  "sourceDescriptionHtml": "<p>Mochila y cambiador 100% poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Peonia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "691",
+    "704",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "704",
+  "sourceCategoryName": "Mochilas y bolsas merienda",
+  "price": 65.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-05-06 23:58:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "92687",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12600XA19260",
+      "productSku": "2402375",
+      "taxRate": 21,
+      "price": 65.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:12.096Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19803-18467.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18467-large_default/mochila-cambiador-peonia.jpg",
+      "alt": "Mochila cambiador Peonia",
+      "sourceId": "18467",
+      "variantIds": [],
+      "sha256": "b19f7f4da5c87aaf4f26eeb17f38edf857c0e8bbe0883e68aa7299343a35d524"
+    },
+    {
+      "path": "assets/19803-18468.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18468-large_default/mochila-cambiador-peonia.jpg",
+      "alt": "Mochila cambiador Peonia",
+      "sourceId": "18468",
+      "variantIds": [],
+      "sha256": "7ef4dda7a70aac5fae12223a0dc672fc47d9837298fb6aa0594d689652a56bff"
+    },
+    {
+      "path": "assets/19803-18469.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18469-large_default/mochila-cambiador-peonia.jpg",
+      "alt": "Mochila cambiador Peonia",
+      "sourceId": "18469",
+      "variantIds": [],
+      "sha256": "75ab868ef7b041000808eaaf3c308c07a939360fa82ae190809a57e66a0a7602"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:12.233Z",
+  "issues": []
+}

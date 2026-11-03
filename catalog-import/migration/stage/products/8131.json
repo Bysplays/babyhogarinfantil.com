@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "id": "8131",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-lazo/8131-calcetin-corto-perle-calado-lazo-blanco.html",
+  "name": "Calcetín corto perlé calado lazo Blanco",
+  "brand": "Condor",
+  "sku": "2002122",
+  "description": "Calcetines calados BLANCOS de algodón en perlé con lazo lateral en gross-grain.",
+  "details": "Composición:\n\nTallas 000 (0-3 meses) y 00 (3-6 meses): 80% algodón 20% poliamida \n\nTalla 0 (6-12 meses) a 6 años: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><span style=\"text-align:left;color:#5d5d5d;text-transform:none;line-height:inherit;text-indent:0px;letter-spacing:normal;font-family:inherit;font-size:100%;font-style:inherit;font-variant:inherit;font-weight:inherit;text-decoration:none;word-spacing:0px;float:none;white-space:normal;background-color:#ffffff;\">Tallas 000 (0-3 meses) y 00 (3-6 meses): 80% algodón 20% poliamida </span></p>\n<p><span style=\"text-align:left;color:#5d5d5d;text-transform:none;line-height:inherit;text-indent:0px;letter-spacing:normal;font-family:inherit;font-size:100%;font-style:inherit;font-variant:inherit;font-weight:inherit;text-decoration:none;word-spacing:0px;float:none;white-space:normal;background-color:#ffffff;\">Talla 0 (6-12 meses) a 6 años: 100% algodón.</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "710",
+    "840",
+    "846",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "710",
+  "sourceCategoryName": "Calcetines con lazo",
+  "price": 7.3,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:33",
+  "sourceUpdatedAt": "2026-10-27 11:10:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 16,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67090",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2002122",
+      "productSku": "2002122",
+      "taxRate": 21,
+      "price": 7.3,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:07.319Z"
+    },
+    {
+      "id": "83332",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "2002122",
+      "productSku": "2002122",
+      "taxRate": 21,
+      "price": 7.3,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:10.636Z"
+    },
+    {
+      "id": "83334",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2002122",
+      "productSku": "2002122",
+      "taxRate": 21,
+      "price": 7.3,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:13.417Z"
+    },
+    {
+      "id": "67091",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2002122",
+      "productSku": "2002122",
+      "taxRate": 21,
+      "price": 7.3,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:17.517Z"
+    },
+    {
+      "id": "67092",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2002122",
+      "productSku": "2002122",
+      "taxRate": 21,
+      "price": 7.59,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:20.752Z"
+    },
+    {
+      "id": "67093",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2002122",
+      "productSku": "2002122",
+      "taxRate": 21,
+      "price": 7.59,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:23.848Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8131-6376.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6376-large_default/calcetin-corto-perle-calado-lazo-blanco.jpg",
+      "alt": "Calcetín corto perlé calado lazo Blanco",
+      "sourceId": "6376",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/8131-6375.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6375-large_default/calcetin-corto-perle-calado-lazo-blanco.jpg",
+      "alt": "Calcetín corto perlé calado lazo Blanco",
+      "sourceId": "6375",
+      "variantIds": [],
+      "sha256": "17c82371b95c8612c16af819b90654129de3d19332001500513176f7aa760ce4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:23.967Z",
+  "issues": []
+}

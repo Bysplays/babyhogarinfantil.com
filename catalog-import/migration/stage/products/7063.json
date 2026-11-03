@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "7063",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/7063-abrigo-pano-azulon.html",
+  "name": "Abrigo paño Azulón",
+  "brand": "Taracido",
+  "sku": "1712028PRT",
+  "description": "Abrigo paño con cuello y puños de pelo.",
+  "details": "Composición y cuidados:\n\nAbrigo: 83% poliéster, 18% CV, 1% EA\n\nForro: 100% poliéster.\n\nLavar a 30º recomendado\n\nPlanchar a baja temperatura.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Abrigo: 83% poliéster, 18% CV, 1% EA</p>\n<p>Forro: 100% poliéster.</p>\n<p>Lavar a 30º recomendado</p>\n<p>Planchar a baja temperatura.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azulón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 58.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:20",
+  "sourceUpdatedAt": "2026-10-27 11:09:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64945",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1712028PRT",
+      "productSku": "1712028PRT",
+      "taxRate": 21,
+      "price": 58.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:35.770Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7063-4955.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4955-large_default/abrigo-pano-azulon.jpg",
+      "alt": "Abrigo paño Azulón",
+      "sourceId": "4955",
+      "variantIds": [],
+      "sha256": "0231d9bae3e4b6fe9267267d35f88a2dc3dfc23f09e2385d758fd433a5ef50cc"
+    },
+    {
+      "path": "assets/7063-4956.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4956-large_default/abrigo-pano-azulon.jpg",
+      "alt": "Abrigo paño Azulón",
+      "sourceId": "4956",
+      "variantIds": [],
+      "sha256": "1b0162c628e0bc2b0fbbce77f31a9f0c26a0ca7148c37f331047a556d881ad71"
+    },
+    {
+      "path": "assets/7063-4954.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4954-large_default/abrigo-pano-azulon.jpg",
+      "alt": "Abrigo paño Azulón",
+      "sourceId": "4954",
+      "variantIds": [],
+      "sha256": "77eddc97c4c1a80a33afd1488a8336ea6ab4b2eecb8caf6fed1736012c5b20c6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:35.962Z",
+  "issues": []
+}

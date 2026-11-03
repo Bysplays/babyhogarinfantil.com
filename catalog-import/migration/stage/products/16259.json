@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "16259",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/16259-calcetin-corto-perle-calado-azul-bebe.html",
+  "name": "Calcetín corto perlé calado Azul Bebé",
+  "brand": "Condor",
+  "sku": "684",
+  "description": "Calcetín de perlé con calados",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul bebé",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "846",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 4.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-06 00:30:21",
+  "sourceUpdatedAt": "2026-10-27 11:08:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 28,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72798",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 9,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:05.689Z"
+    },
+    {
+      "id": "72799",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:07.941Z"
+    },
+    {
+      "id": "72800",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:10.043Z"
+    },
+    {
+      "id": "72802",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 5.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:11.813Z"
+    },
+    {
+      "id": "72803",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "684",
+      "productSku": "684",
+      "taxRate": 21,
+      "price": 5.5,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:13.956Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16259-14006.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14006-large_default/calcetin-corto-perle-calado-azul-bebe.jpg",
+      "alt": "Calcetín corto perlé calado Azul Bebé",
+      "sourceId": "14006",
+      "variantIds": [],
+      "sha256": "44a7c60c30013694fe4c74c31b755ec5191e18664c4647fcd410512500d3d814"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:30:14.010Z",
+  "issues": []
+}

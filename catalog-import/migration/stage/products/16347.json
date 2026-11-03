@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "id": "16347",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-montesol/16347-pantalon-chandal-infantil-azul-marino.html",
+  "name": "Pantalón chandal infantil Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2304034",
+  "description": "Pantalón largo chandal infantíl en felpa perchada.",
+  "details": "Pantalón largo para el uniforme de infantíl del colegio MONTESOL de Vigo. Disponemos de la sudadera y la camiseta, asi como de mandilones, calzado y calcetines escolares.\n\nComposición: 50% algodón, 50% poliéster.\n\nHACHO EN GALICIA",
+  "sourceDescriptionHtml": "<p>Pantalón largo para el uniforme de infantíl del colegio MONTESOL de Vigo. Disponemos de la sudadera y la camiseta, asi como de mandilones, calzado y calcetines escolares.</p>\n<p>Composición: 50% algodón, 50% poliéster.</p>\n<p><strong>HACHO EN GALICIA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "850"
+  ],
+  "sourceDefaultCategoryId": "850",
+  "sourceCategoryName": "Colegio Montesol",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-31 14:32:49",
+  "sourceUpdatedAt": "2026-10-27 11:12:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 27,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "79963",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2304034",
+      "productSku": "2304034",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:26.166Z"
+    },
+    {
+      "id": "97438",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2304034",
+      "productSku": "2304034",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:29.091Z"
+    },
+    {
+      "id": "98230",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2304034",
+      "productSku": "2304034",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:31.739Z"
+    },
+    {
+      "id": "97779",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2304034",
+      "productSku": "2304034",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:33.960Z"
+    },
+    {
+      "id": "77623",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2304034",
+      "productSku": "2304034",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:36.055Z"
+    },
+    {
+      "id": "77624",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2304034",
+      "productSku": "2304034",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:37.978Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16347-14110.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14110-large_default/pantalon-chandal-infantil-azul-marino.jpg",
+      "alt": "Pantalón chandal infantil Azul Marino",
+      "sourceId": "14110",
+      "variantIds": [],
+      "sha256": "ba1bb2b6ba8fd62b86fe31072ac2c1d8646dca3773060f2c848dc186ffa5c623"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:33:38.060Z",
+  "issues": []
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "7742",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nina/7742-sandalia-flor-blanco.html",
+  "name": "Sandalia Flor Blanco",
+  "brand": "Caminito",
+  "sku": "1904186",
+  "description": "Sandalia piel BLANCA con hebilla. Decorada con detalle de flor en la misma piel.",
+  "details": "Garantizamos que para la fabricación de estos zapatos se han empleado materiales de primera calidad en todos sus componentes.",
+  "sourceDescriptionHtml": "<p>Garantizamos que para la fabricación de estos zapatos se han empleado materiales de primera calidad en todos sus componentes.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "695"
+  ],
+  "sourceDefaultCategoryId": "695",
+  "sourceCategoryName": "Calzado Niña",
+  "price": 38.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "237",
+          "label": "18"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66273",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "1904186",
+      "productSku": "1904186",
+      "taxRate": 21,
+      "price": 38.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:48.775Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7742-5797.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5797-large_default/sandalia-flor-blanco.jpg",
+      "alt": "Sandalia Flor Blanco",
+      "sourceId": "5797",
+      "variantIds": [],
+      "sha256": "3d3af430a464027e523e2ddeb02853e145f8f501ec2d67e9f2e5b59cb360b646"
+    },
+    {
+      "path": "assets/7742-5798.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5798-large_default/sandalia-flor-blanco.jpg",
+      "alt": "Sandalia Flor Blanco",
+      "sourceId": "5798",
+      "variantIds": [],
+      "sha256": "a2b3ba797675d9478f7d5b500c1a37c03442f8bf426ed1d74547fbe09b074006"
+    },
+    {
+      "path": "assets/7742-10530.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10530-large_default/sandalia-flor-blanco.jpg",
+      "alt": "Sandalia Flor Blanco",
+      "sourceId": "10530",
+      "variantIds": [],
+      "sha256": "3d3af430a464027e523e2ddeb02853e145f8f501ec2d67e9f2e5b59cb360b646"
+    },
+    {
+      "path": "assets/7742-10531.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10531-large_default/sandalia-flor-blanco.jpg",
+      "alt": "Sandalia Flor Blanco",
+      "sourceId": "10531",
+      "variantIds": [],
+      "sha256": "a2b3ba797675d9478f7d5b500c1a37c03442f8bf426ed1d74547fbe09b074006"
+    },
+    {
+      "path": "assets/7742-5796.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5796-large_default/sandalia-flor-blanco.jpg",
+      "alt": "Sandalia Flor Blanco",
+      "sourceId": "5796",
+      "variantIds": [],
+      "sha256": "c4cee23511bea958f7c8b43aed37f7f327f4accf823c693f37c61cbbab421059"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:49.084Z",
+  "issues": []
+}

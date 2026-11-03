@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "8530",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/8530-pijama-bebe-terciopelo-minnie-rojo.html",
+  "name": "Pijama bebe terciopelo MINNIE Rojo",
+  "brand": "Zippy",
+  "sku": "2010091",
+  "description": "Adéntrate en un mundo de ternura con este Pijama de bebe terciopelo MINNIE Rojo. Confeccionado para abrazar pequeños cuerpos con suavidad de terciopelo, manteniendo a los más pequeños calentitos durante las frías noches de invierno. Además, incluye el auténtico diseño de Minnie que dará un toque encantador a la hora de dormir. Permita a su bebé experimentar comodidad y dulzura, rodeado de los colores vivos y alegres de este pijama. ¡Es el regalo perfecto para hacer que el invierno de su pequeño sea un poco más mágico!",
+  "details": "Calidez que envuelve\n\nAl caer la noche, envuelve a tu pequeño en este hermoso pijama de terciopelo Minnie en color rojo. Suave como una caricia, este tejido premium emana calidez y comodidad, proporcionando un sueño tranquilo, incluso en las noches más frías.\n\nEl encanto de clásicos atemporales\n\nMuestra el encanto de los personajes clásicos de Disney con este pijama con la figura de Minnie. Este adorable diseño de Minnie llevará a tu pequeño a un mundo de dulces sueños y encantadoras aventuras de la mano de uno de los personajes más amados de Disney.\n\nSeguridad y confort\n\nEste pijama no solo es bonito, también es seguro y práctico. Con su fácil apertura permite cambios rápidos durante la noche cuando es necesario. Además, su tela suave evita irritaciones, asegurando que tu pequeño se sienta cómodo toda la noche.\n\n¡No esperes más! Envolviéndolos en este pijama de terciopelo Minnie en rojo les estarás proporcionando noches de sueño cómodo y seguro, mientras ellos disfrutan de sus personajes favoritos. ¡No dejes que te lo cuenten!\n\n\n\nComposición y cuidados:\n\nPijama: 76% algodón, 24% poliéster.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p></p>\n<h2>Calidez que envuelve</h2>\n<p>Al caer la noche, envuelve a tu pequeño en este hermoso pijama de terciopelo Minnie en color rojo. Suave como una caricia, este tejido premium emana calidez y comodidad, proporcionando un sueño tranquilo, incluso en las noches más frías.</p>\n<h2>El encanto de clásicos atemporales</h2>\n<p>Muestra el encanto de los personajes clásicos de Disney con este pijama con la figura de Minnie. Este adorable diseño de Minnie llevará a tu pequeño a un mundo de dulces sueños y encantadoras aventuras de la mano de uno de los personajes más amados de Disney.</p>\n<h2>Seguridad y confort</h2>\n<p>Este pijama no solo es bonito, también es seguro y práctico. Con su fácil apertura permite cambios rápidos durante la noche cuando es necesario. Además, su tela suave evita irritaciones, asegurando que tu pequeño se sienta cómodo toda la noche.</p>\n<p><strong>¡No esperes más! Envolviéndolos en este pijama de terciopelo Minnie en rojo les estarás proporcionando noches de sueño cómodo y seguro, mientras ellos disfrutan de sus personajes favoritos. ¡No dejes que te lo cuenten!</strong></p>\n<p></p>\n<p>Composición y cuidados:</p>\n<p>Pijama: 76% algodón, 24% poliéster.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777",
+    "880",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 11.24,
+  "oldPrice": 14.9919,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:38",
+  "sourceUpdatedAt": "2026-10-27 11:10:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67547",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2010091",
+      "productSku": "2010091",
+      "taxRate": 21,
+      "price": 11.24,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:20.341Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8530-6843.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6843-large_default/pijama-bebe-terciopelo-minnie-rojo.jpg",
+      "alt": "Pijama bebe terciopelo MINNIE Rojo",
+      "sourceId": "6843",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/8530-11262.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11262-large_default/pijama-bebe-terciopelo-minnie-rojo.jpg",
+      "alt": "Pijama bebe terciopelo MINNIE Rojo",
+      "sourceId": "11262",
+      "variantIds": [],
+      "sha256": "de4c64b9e4c0eb0f518faa4e28e2687d73baa0912b60fd074f3d9f33e95a692b"
+    },
+    {
+      "path": "assets/8530-6842.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6842-large_default/pijama-bebe-terciopelo-minnie-rojo.jpg",
+      "alt": "Pijama bebe terciopelo MINNIE Rojo",
+      "sourceId": "6842",
+      "variantIds": [],
+      "sha256": "c5d891e24a1188a242c0307b2bd7ad7801ffee2cee9ebefbee72043302b99777"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:20.538Z",
+  "issues": []
+}

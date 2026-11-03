@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "16249",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/16249-pantalon-corto-nino-sarga-rojo.html",
+  "name": "Pantalón corto niño Sarga Rojo",
+  "brand": "Katuco",
+  "sku": "1703136",
+  "description": "Pantalón corto sarga elástico.",
+  "details": "Composición:\n\nPantalón: 98% algodón, 2% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pantalón: 98% algodón, 2% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2017",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 9.99,
+  "oldPrice": 16.9521,
+  "new": false,
+  "sourceAddedAt": "2023-05-04 00:24:25",
+  "sourceUpdatedAt": "2026-10-27 11:09:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72755",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "1703136",
+      "productSku": "1703136",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": 16.9521,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:02.630Z"
+    },
+    {
+      "id": "92658",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1703136",
+      "productSku": "1703136",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": 16.9521,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:05.426Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16249-13988.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13988-large_default/pantalon-corto-nino-sarga-rojo.jpg",
+      "alt": "Pantalón corto niño Sarga Rojo",
+      "sourceId": "13988",
+      "variantIds": [],
+      "sha256": "d9c819d14e2982c0f5edb747f6252805b2a79002f25755b71439170767190f77"
+    },
+    {
+      "path": "assets/16249-13989.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13989-large_default/pantalon-corto-nino-sarga-rojo.jpg",
+      "alt": "Pantalón corto niño Sarga Rojo",
+      "sourceId": "13989",
+      "variantIds": [],
+      "sha256": "b6c52763ff3ddd5961fe2f62162d1171505c37761a895bd104312e2798e1c772"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:05.554Z",
+  "issues": []
+}

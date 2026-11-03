@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "20424",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/20424-chaqueta-larga-nina-alisia-negro.html",
+  "name": "Chaqueta larga niña Alisia Negro",
+  "brand": "Calamaro",
+  "sku": "2502012",
+  "description": "Chaqueta para combinar con el conjunto sugerido (ref: 250009 SE VENDE POR SEPARADO).\n\nHECHO EN ESPAÑA",
+  "details": "Composición: \n\nChaqueta: 66% poliéster, 29% algodón, 5% hilo metálico.",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p>Chaqueta: 66% poliéster, 29% algodón, 5% hilo metálico.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 34.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94581",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502012",
+      "productSku": "2502012",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:16.577Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20424-19636.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19636-large_default/chaqueta-larga-nina-alisia-negro.jpg",
+      "alt": "Chaqueta larga niña Alisia Negro",
+      "sourceId": "19636",
+      "variantIds": [],
+      "sha256": "a8873dc4babeccda4ede9802ef1b9633daf01f4a9bf35f2dc1f5a916a069e68f"
+    },
+    {
+      "path": "assets/20424-19643.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19643-large_default/chaqueta-larga-nina-alisia-negro.jpg",
+      "alt": "Chaqueta larga niña Alisia Negro",
+      "sourceId": "19643",
+      "variantIds": [],
+      "sha256": "6a7cfe5873eaebbc1ea55940cf4f5623df7c6952f718a2569bc9e901bc019254"
+    },
+    {
+      "path": "assets/20424-19644.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19644-large_default/chaqueta-larga-nina-alisia-negro.jpg",
+      "alt": "Chaqueta larga niña Alisia Negro",
+      "sourceId": "19644",
+      "variantIds": [],
+      "sha256": "efb39e57b466fc1170bbb5f9e3979b92b454b674fe9b7972af723071e0ecbc9a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:16.767Z",
+  "issues": []
+}

@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "21595",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/21595-camiseta-manga-larga-dino-verde.html",
+  "name": "Camiseta manga larga DINO Verde",
+  "brand": "Mayoral",
+  "sku": "2502119",
+  "description": "Camiseta en algodón, manga larga con cuello redondo y estampado de dinosaurio.",
+  "details": "Composición:\n\nCamiseta:  100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Camiseta: </strong> 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-20 08:34:18",
+  "sourceUpdatedAt": "2026-10-27 11:14:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97582",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502119",
+      "productSku": "2502119",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:14.423Z"
+    },
+    {
+      "id": "97583",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502119",
+      "productSku": "2502119",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:15.652Z"
+    },
+    {
+      "id": "97584",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502119",
+      "productSku": "2502119",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:16.856Z"
+    },
+    {
+      "id": "97586",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502119",
+      "productSku": "2502119",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:17.965Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21595-20234.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20234-large_default/camiseta-manga-larga-dino-verde.jpg",
+      "alt": "Camiseta manga larga DINO Verde",
+      "sourceId": "20234",
+      "variantIds": [],
+      "sha256": "795ec3ad49adc0041e87a3a3ee6b7da7646d11b262022b9914f44f45a6a64343"
+    },
+    {
+      "path": "assets/21595-20235.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20235-large_default/camiseta-manga-larga-dino-verde.jpg",
+      "alt": "Camiseta manga larga DINO Verde",
+      "sourceId": "20235",
+      "variantIds": [],
+      "sha256": "ddbfb458687baa82257de431c2b88aded98e1423989d81abcc7928e86b620d58"
+    },
+    {
+      "path": "assets/21595-20236.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20236-large_default/camiseta-manga-larga-dino-verde.jpg",
+      "alt": "Camiseta manga larga DINO Verde",
+      "sourceId": "20236",
+      "variantIds": [],
+      "sha256": "2cb3f6a836f8b722d4494ac324d00040051af663b97eb9895e35d4725bf6a470"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:18.186Z",
+  "issues": []
+}

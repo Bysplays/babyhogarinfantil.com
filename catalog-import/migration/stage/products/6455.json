@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "id": "6455",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/6455-gorro-loneta-con-ala-rosa.html",
+  "name": "Gorro loneta con ala Rosa",
+  "brand": "Niseret",
+  "sku": "1531813",
+  "description": "Gorra con forro interior, lazo en el frente y goma en la parte de atrás para un mejor ajuste.\n\nHECHO EN ESPAÑA.",
+  "details": "Composición:\n\nGorro: 62% algodón, 38% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Gorro: 62% algodón, 38% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 15,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-26 19:38:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        },
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        },
+        {
+          "id": "269",
+          "label": "48"
+        },
+        {
+          "id": "270",
+          "label": "50"
+        },
+        {
+          "id": "271",
+          "label": "52"
+        },
+        {
+          "id": "272",
+          "label": "54"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63598",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "1713XC4871",
+      "productSku": "1531813",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:51.360Z"
+    },
+    {
+      "id": "144841",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "1713XK4871",
+      "productSku": "1531813",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:53.814Z"
+    },
+    {
+      "id": "144842",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "1713XB4871",
+      "productSku": "1531813",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:55.765Z"
+    },
+    {
+      "id": "144843",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "1713XD4871",
+      "productSku": "1531813",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:57.706Z"
+    },
+    {
+      "id": "144844",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "1713XE4871",
+      "productSku": "1531813",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:59.722Z"
+    },
+    {
+      "id": "63600",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "269",
+          "group": "Tamaño",
+          "value": "48"
+        }
+      ],
+      "sku": "1713XF4871",
+      "productSku": "1531813",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:01.683Z"
+    },
+    {
+      "id": "144845",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "270",
+          "group": "Tamaño",
+          "value": "50"
+        }
+      ],
+      "sku": "1713XG4871",
+      "productSku": "1531813",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:03.537Z"
+    },
+    {
+      "id": "144846",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "271",
+          "group": "Tamaño",
+          "value": "52"
+        }
+      ],
+      "sku": "1713XH4871",
+      "productSku": "1531813",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:06.445Z"
+    },
+    {
+      "id": "63603",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "272",
+          "group": "Tamaño",
+          "value": "54"
+        }
+      ],
+      "sku": "1713XI4871",
+      "productSku": "1531813",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:08.755Z"
+    },
+    {
+      "id": "144847",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "1713XJ4871",
+      "productSku": "1531813",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:10.957Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6455-9606.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9606-large_default/gorro-loneta-con-ala-rosa.jpg",
+      "alt": "Gorro loneta con ala Rosa",
+      "sourceId": "9606",
+      "variantIds": [],
+      "sha256": "7d1e02dcd50ee27a6bcfce50b8a076cd48e8528fcb51740ead71f29d39c6c01b"
+    },
+    {
+      "path": "assets/6455-9605.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9605-large_default/gorro-loneta-con-ala-rosa.jpg",
+      "alt": "Gorro loneta con ala Rosa",
+      "sourceId": "9605",
+      "variantIds": [],
+      "sha256": "d7ee55fb2af3a11d5f2aeede3a039cfbc1b125c6a27a4e2014d9243e2de35be2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:11.069Z",
+  "issues": []
+}

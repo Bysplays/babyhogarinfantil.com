@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6584",
+  "sourceUrl": "https://babyhogarinfantil.com/bragas-bebe-nina/6584-braguita-bebe-perle-volante-puntilla-rojo.html",
+  "name": "Braguita bebé perlé volante puntilla Rojo",
+  "brand": "Mac Ilusión",
+  "sku": "1602070",
+  "description": "Braguita en perlé 100% acrílico Dralón Bayer antialérgico. Detalle de puntilla en blanco en el culete.",
+  "details": "Ideal para poner con vestidos cortos o jesusines.\n\nLos lazos son ajustables a la pierna.\n\nComposición:\n\nBraguita: 100% acrílico Dralon Bayer.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Ideal para poner con vestidos cortos o jesusines.</p>\n<p>Los lazos son ajustables a la pierna.</p>\n<p>Composición:</p>\n<p>Braguita: 100% acrílico Dralon Bayer.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "678"
+  ],
+  "sourceDefaultCategoryId": "678",
+  "sourceCategoryName": "Bragas Bebé niña",
+  "price": 10.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-27 11:09:06",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63833",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1602070",
+      "productSku": "1602070",
+      "taxRate": 21,
+      "price": 10.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:54.250Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6584-4533.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4533-large_default/braguita-bebe-perle-volante-puntilla-rojo.jpg",
+      "alt": "Braguita bebé perlé volante puntilla Rojo",
+      "sourceId": "4533",
+      "variantIds": [],
+      "sha256": "30f945be8badd34256d79f4719486fb7088369253b155310205db65b2cab26da"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:54.297Z",
+  "issues": []
+}

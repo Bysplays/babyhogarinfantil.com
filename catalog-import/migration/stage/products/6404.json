@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "id": "6404",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bautizo/6404-merceditas-en-piel-con-velcro-crudo.html",
+  "name": "Merceditas en piel con velcro Crudo",
+  "brand": "Caminito",
+  "sku": "1449",
+  "description": "Merceditas en piel badana, acabado mate, en color crudo. Cierre con velcro. Sin suela.",
+  "details": "Merceditas en piel de gran calidad, acabado mate. Cierre con velcro que proporciona sujeción al pie y facilidad a la hora del calzado. Los acabados del empeine dibujan pequeñas ondas que le dan un toque muy original. Sin suela. Disponibilidad del modelo con semisuela en la talla 19, consúltanos! Disponible en varios colores y distintos acabados. Un calzado actualizado y atemporal, un fondo de armario básico para combinar con cualquier conjunto o vestido. Un zapato muy ligero y cómodo. \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><strong style=\"margin:0px;padding:0px;\">Merceditas en piel</strong> de gran calidad, acabado mate. Cierre con velcro que proporciona sujeción al pie y facilidad a la hora del calzado. Los acabados del empeine dibujan pequeñas ondas que le dan un toque muy original. Sin suela. <strong style=\"margin:0px;padding:0px;\">Disponibilidad del modelo con semisuela en la talla </strong><strong style=\"margin:0px;padding:0px;\">19, consúltanos! Disponible en varios colores y distintos acabados.</strong> Un calzado actualizado y atemporal, un fondo de armario básico para combinar con cualquier conjunto o vestido. Un zapato muy ligero y cómodo. </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><strong style=\"margin:0px;padding:0px;\">FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "814",
+    "693"
+  ],
+  "sourceDefaultCategoryId": "693",
+  "sourceCategoryName": "Calzado Bautizo",
+  "price": 25,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "256",
+          "label": "15"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "259",
+          "label": "19con"
+        },
+        {
+          "id": "258",
+          "label": "19sin"
+        },
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "260",
+          "label": "21"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63485",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "258",
+          "group": "Tamaño",
+          "value": "19sin"
+        }
+      ],
+      "sku": "1348XF2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:00.370Z"
+    },
+    {
+      "id": "144690",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1348XA2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:01.711Z"
+    },
+    {
+      "id": "144691",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "1348XB2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:03.765Z"
+    },
+    {
+      "id": "144692",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "1348XC2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:05.895Z"
+    },
+    {
+      "id": "144693",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "1348XD2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:08.347Z"
+    },
+    {
+      "id": "144694",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "1348XE2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:10.280Z"
+    },
+    {
+      "id": "144695",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "259",
+          "group": "Tamaño",
+          "value": "19con"
+        }
+      ],
+      "sku": "1348XG2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:11.697Z"
+    },
+    {
+      "id": "144696",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "1348XH2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:13.203Z"
+    },
+    {
+      "id": "144697",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "260",
+          "group": "Tamaño",
+          "value": "21"
+        }
+      ],
+      "sku": "1348XI2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:14.997Z"
+    },
+    {
+      "id": "144698",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "1348XJ2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:16.946Z"
+    },
+    {
+      "id": "144699",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "1348XK2452",
+      "productSku": "1449",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:18.103Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6404-4392.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4392-large_default/merceditas-en-piel-con-velcro-crudo.jpg",
+      "alt": "Merceditas en piel con velcro Crudo",
+      "sourceId": "4392",
+      "variantIds": [],
+      "sha256": "9fa4a5a2bfd0e630a4d7e480d54f4336d85d05cd3dbf39000977b8a4241d50e0"
+    },
+    {
+      "path": "assets/6404-9582.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9582-large_default/merceditas-en-piel-con-velcro-crudo.jpg",
+      "alt": "Merceditas en piel con velcro Crudo",
+      "sourceId": "9582",
+      "variantIds": [],
+      "sha256": "9fa4a5a2bfd0e630a4d7e480d54f4336d85d05cd3dbf39000977b8a4241d50e0"
+    },
+    {
+      "path": "assets/6404-4391.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4391-large_default/merceditas-en-piel-con-velcro-crudo.jpg",
+      "alt": "Merceditas en piel con velcro Crudo",
+      "sourceId": "4391",
+      "variantIds": [],
+      "sha256": "f61ecd8eb9e246ba9c4ac9e00940f89c586d0c20638705589f9151d273ce385c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:18.311Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8301",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8301-lazo-mediano-con-coletero-azul-marino.html",
+  "name": "Lazo mediano con coletero Azul marino",
+  "brand": "Siena",
+  "sku": "2007017",
+  "description": "Lazo grosgrain de 8 x 8 cm. aproximadamnete sobre clip pico-pato de 5,5 cm. aprox.\n\nHECHO EN ESPAÑA.\n\nHECHO A MANO.",
+  "details": "Estilo Innegable\n\nEl Lazo mediano con coletero Azul marino deslumbra con su color rico y sensual. Creado para acentuar la belleza natural de tu pequeña y mezclarse maravillosamente con su guardarropa. Este llamativo accesorio difumina la línea entre la funcionalidad y la moda, asegurando que se destaque entre la multitud.\n\n\nConfort Exceptional\n\nComodidad que perdura todo el día. Con su goma suave y resistente que no jala ni tira, este lazo mediano con coletero Azul marino está diseñado para el máximo confort. Se puede ajustar a cualquier tamaño de coleta o moño sin causar molestias. Sin duda, es el accesorio que tu niña merece.\n\n\nCalidad Inigualable\n\nHecho con telas cualitativas, este lazo mediano con coletero Azul marino no sólo es atractivo sino que también es duradero. No importa cuánta ajetreo y bullicio su pequeña pueda tener durante el día, este lazo promete soportarlo todo. Meticulosamente creado para garantizar que no se deshilache ni pierda su color.\n\n\nAdorna el adorable cabello de tu pequeña con este elegante lazo. Añade el Lazo mediano con coletero Azul marino al carro de compras ahora y descubre cómo puede hacer brillar su dulzura con este accesorio celestial.",
+  "sourceDescriptionHtml": "<h2>Estilo Innegable</h2>\n<p>El <strong>Lazo mediano con coletero Azul marino</strong> deslumbra con su color rico y sensual. Creado para acentuar la belleza natural de tu pequeña y mezclarse maravillosamente con su guardarropa. Este llamativo accesorio difumina la línea entre la funcionalidad y la moda, asegurando que se destaque entre la multitud.</p>\n\n<h2>Confort Exceptional</h2>\n<p>Comodidad que perdura todo el día. Con su goma suave y resistente que no jala ni tira, este lazo mediano con coletero Azul marino está diseñado para el máximo confort. Se puede ajustar a cualquier tamaño de coleta o moño sin causar molestias. Sin duda, es el accesorio que tu niña merece.</p>\n\n<h2>Calidad Inigualable</h2>\n<p>Hecho con telas cualitativas, este lazo mediano con coletero Azul marino no sólo es atractivo sino que también es duradero. No importa cuánta ajetreo y bullicio su pequeña pueda tener durante el día, este lazo promete soportarlo todo. Meticulosamente creado para garantizar que no se deshilache ni pierda su color.</p>\n\n<p>Adorna el adorable cabello de tu pequeña con este elegante lazo. Añade el <strong>Lazo mediano con coletero Azul marino</strong> al carro de compras ahora y descubre cómo puede hacer brillar su dulzura con este accesorio celestial.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146659",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8049XA12971",
+      "productSku": "2007017",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:33.081Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8301-6585.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6585-large_default/lazo-mediano-con-coletero-azul-marino.jpg",
+      "alt": "Lazo mediano con coletero Azul marino",
+      "sourceId": "6585",
+      "variantIds": [],
+      "sha256": "c56970077574ee40e9d0d591e55f6b995e71354f2b9c2d1d2ec7ec7ca52c2a8e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:33.159Z",
+  "issues": []
+}

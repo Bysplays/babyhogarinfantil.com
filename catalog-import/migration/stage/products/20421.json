@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "20421",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nina/20421-conjunto-falda-nina-alisio-negro.html",
+  "name": "Conjunto falda niña Alisio Negro",
+  "brand": "Calamaro",
+  "sku": "2502009",
+  "description": "Conjunto 2 piezas con blusa y short. Disponible a juego, chaqueta bolso y boina (se venden por separado). El precio es de blusa y short.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nBlusa: 100% algodón.\n\nShort: 66% poliéster, 29% algodón, 5% hilo metálico.\n\nChaqueta: 66% poliéster, 29% algodón, 5% hilo metálico.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Blusa: 100% algodón.</p>\n<p>Short: 66% poliéster, 29% algodón, 5% hilo metálico.</p>\n<p>Chaqueta: 66% poliéster, 29% algodón, 5% hilo metálico.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "755",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "755",
+  "sourceCategoryName": "Conjuntos Niña",
+  "price": 49.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94568",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2502009",
+      "productSku": "2502009",
+      "taxRate": 21,
+      "price": 49.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:36.097Z"
+    },
+    {
+      "id": "94571",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502009",
+      "productSku": "2502009",
+      "taxRate": 21,
+      "price": 49.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:38.153Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20421-19632.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19632-large_default/conjunto-falda-nina-alisio-negro.jpg",
+      "alt": "Conjunto falda niña Alisio Negro",
+      "sourceId": "19632",
+      "variantIds": [],
+      "sha256": "efb39e57b466fc1170bbb5f9e3979b92b454b674fe9b7972af723071e0ecbc9a"
+    },
+    {
+      "path": "assets/20421-19633.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19633-large_default/conjunto-falda-nina-alisio-negro.jpg",
+      "alt": "Conjunto falda niña Alisio Negro",
+      "sourceId": "19633",
+      "variantIds": [],
+      "sha256": "6a7cfe5873eaebbc1ea55940cf4f5623df7c6952f718a2569bc9e901bc019254"
+    },
+    {
+      "path": "assets/20421-19645.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19645-large_default/conjunto-falda-nina-alisio-negro.jpg",
+      "alt": "Conjunto falda niña Alisio Negro",
+      "sourceId": "19645",
+      "variantIds": [],
+      "sha256": "7427f897086a4de3e2f3bd85d09fe2186ac161961ef51708253dd8af1bfa1799"
+    },
+    {
+      "path": "assets/20421-19646.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19646-large_default/conjunto-falda-nina-alisio-negro.jpg",
+      "alt": "Conjunto falda niña Alisio Negro",
+      "sourceId": "19646",
+      "variantIds": [],
+      "sha256": "ea7d804306f885fbb7c547fb4e5c409a31815ca69f70e81885a7072aeebbcdf7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:38.460Z",
+  "issues": []
+}

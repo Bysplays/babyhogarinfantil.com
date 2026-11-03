@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6735",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/6735-chaqueta-nina-larga-sin-costiras-link-camel.html",
+  "name": "Chaqueta niña larga sin costiras link Camel",
+  "brand": "Mac Ilusión",
+  "sku": "1701060",
+  "description": "Chaqueta larga de punto, sin costuras, en color camel. Ideal para conjuntos y vestidos. Temporada primavera-verano.",
+  "details": "Chaqueta larga de punto, sin costuras, en color camel, de la firma MAC ILUSIÓN, fabricada en ESPAÑA. \n\nComposición:\n\n50% Algodón\n\n50% Poliéster",
+  "sourceDescriptionHtml": "<p>Chaqueta larga de punto, sin costuras, en color camel, de la firma <strong>MAC ILUSIÓN</strong>, fabricada en <strong>ESPAÑA</strong>. </p>\n<p>Composición:</p>\n<p>50% Algodón</p>\n<p>50% Poliéster </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2017",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 9.98,
+  "oldPrice": 19.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64247",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1701060",
+      "productSku": "1701060",
+      "taxRate": 21,
+      "price": 9.98,
+      "oldPrice": 19.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:31.765Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6735-4677.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4677-large_default/chaqueta-nina-larga-sin-costiras-link-camel.jpg",
+      "alt": "Chaqueta niña larga sin costiras link Camel",
+      "sourceId": "4677",
+      "variantIds": [],
+      "sha256": "ea538a93434fe712bf573753a38edca159db9a15f0565eeede9943b175cd322f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:31.810Z",
+  "issues": []
+}

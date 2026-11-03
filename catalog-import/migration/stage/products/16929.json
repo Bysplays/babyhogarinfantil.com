@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16929",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/16929-comjunto-3-piezas-reversible-nube.html",
+  "name": "Comjunto 3 piezas reversible Nube",
+  "brand": "Babybol",
+  "sku": "2307106",
+  "description": "Invade los sueños de tu pequeno angel con el Comjunto 3 piezas reversible Nube. Diseñado meticulosamente para una comodidad celestial, esta prenda hace sentir a tu bebé como si estuviera acurrucado en las nubes. El vibrante diseño reversible le da una versatilidad fantástica y el tejido suave garantiza comodidad durante todo el día. Perfecto para días casuales y aventuras al aire libre, este conjunto sport representa la unión perfecta entre estilo y comodidad. ¿Por qué conformarse con menos cuando tu hijo merece lo mejor?",
+  "details": "Confort Inigualable\n\nCon el Comjunto 3 piezas reversible Nube, permitirás a tu pequeño disfrutar de un confort inigualable. Este set incluye tres piezas hechas con los materiales más suaves y livianos, hechos para abrazar la delicada piel del bebé y proporcionar la máxima comodidad durante todo el día.\n\n\nModa y Versatilidad\n\nEste conjunto no solo ofrece confort sino también estilo y versatilidad. Con su diseño reversible, tendrás dos trajes adorables en uno, permitiéndote mezclar y combinar para crear looks totalmente nuevos todos los días. Un diseño único \\'Nube\\' agrega un toque de inocencia y diversión a este conjunto, reflejando la alegría y la energía de tu niño.\n\n\nDurabilidad y Calidad\n\nEl Comjunto 3 piezas reversible Nube no es solo sobre comodidad y estilo, también resiste la prueba del tiempo. Fabricado con artesanía y materiales de calidad superior, este conjunto resistirá innumerables lavados, garantizando que tu prueba de amor y cuidado para tu hijo perdure.\n\n\n¡No dejes pasar esta oportunidad de darle a tu niño la comodidad, el estilo y la calidad que se merece! ¡Compra el Comjunto 3 piezas reversible Nube ahora y haz que cada día sea un matrimonio de diversión y comodidad para tu pequeño!",
+  "sourceDescriptionHtml": "<h2>Confort Inigualable</h2>\n<p>Con el Comjunto 3 piezas reversible Nube, permitirás a tu pequeño disfrutar de un confort inigualable. Este set incluye tres piezas hechas con los materiales más suaves y livianos, hechos para abrazar la delicada piel del bebé y proporcionar la máxima comodidad durante todo el día.</p>\n\n<h2>Moda y Versatilidad</h2>\n<p>Este conjunto no solo ofrece confort sino también estilo y versatilidad. Con su diseño reversible, tendrás dos trajes adorables en uno, permitiéndote mezclar y combinar para crear looks totalmente nuevos todos los días. Un diseño único \\'Nube\\' agrega un toque de inocencia y diversión a este conjunto, reflejando la alegría y la energía de tu niño.</p>\n\n<h2>Durabilidad y Calidad</h2>\n<p>El Comjunto 3 piezas reversible Nube no es solo sobre comodidad y estilo, también resiste la prueba del tiempo. Fabricado con artesanía y materiales de calidad superior, este conjunto resistirá innumerables lavados, garantizando que tu prueba de amor y cuidado para tu hijo perdure.</p>\n\n<p>¡No dejes pasar esta oportunidad de darle a tu niño la comodidad, el estilo y la calidad que se merece! ¡Compra el Comjunto 3 piezas reversible Nube ahora y haz que cada día sea un matrimonio de diversión y comodidad para tu pequeño!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nube",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-10-19 15:53:03",
+  "sourceUpdatedAt": "2026-10-27 11:12:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "80384",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2307106",
+      "productSku": "2307106",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:27.327Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16929-14516.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14516-large_default/comjunto-3-piezas-reversible-nube.jpg",
+      "alt": "Comjunto 3 piezas reversible Nube",
+      "sourceId": "14516",
+      "variantIds": [],
+      "sha256": "2b17388ac49f56fc79bc61c26207810816dd839eb70c285b2a67d0eaec99dee6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:27.381Z",
+  "issues": []
+}

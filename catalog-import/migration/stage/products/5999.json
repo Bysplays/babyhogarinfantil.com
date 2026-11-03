@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "id": "5999",
+  "sourceUrl": "https://babyhogarinfantil.com/polainas-bebe-nina/5999-polaina-punto-liso-sin-costuras-camel.html",
+  "name": "Polaina punto liso sin costuras Camel",
+  "brand": "Mac Ilusión",
+  "sku": "185",
+  "description": "Polaina sin costuras 100% Acrílico DRALON BAYER ANTIALERGICO.\n\nHECHO EN ESPAÑA",
+  "details": "Suavidad en su Punto\n\nJuegue sin preocupaciones o duerma con dulces sueños. La Polaina punto liso sin costuras Camel les dará una comodidad sin igual mientras su piel delicada queda protegida por la suavidad y la ausencia de molestias costuras. Su textura lisa y suaves puntos la convertirán en su prenda favorita para vestir a sus pequeños. \n \n\nEstilo y Funcionalidad\n\nLa vestimenta de los niños debe ser duradera, cómoda y con un toque especial de estilo. La Polaina punto liso sin costuras Camel cumple con todos estos requisitos. Con un elegante color camel que es perfecto para cualquier temporada y un diseño atemporal, esta polaina es una adición esencial al guardarropa de sus pequeños. \n\n\nMáxima Calidad\n\nLa Polaina punto liso sin costuras Camel es sinónimo de calidad. Desde los hilos meticulosamente tejidos hasta la ausencia de costuras que podrían irritar la piel delicada de los más pequeños, cada detalle ha sido planeado con la máxima atención. La satisfacción y el confort de sus pequeños están garantizados.\n\n\nNunca antes había tenido tan fácil, añadir una pieza con tanta calidad a su colección. ¡No espere más! Haga click aquí y añada la Polaina punto liso sin costuras Camel al carrito de compras.",
+  "sourceDescriptionHtml": "<h2>Suavidad en su Punto</h2>\n<p>Juegue sin preocupaciones o duerma con dulces sueños. La Polaina punto liso sin costuras Camel les dará una comodidad sin igual mientras su piel delicada queda protegida por la suavidad y la ausencia de molestias costuras. Su textura lisa y suaves puntos la convertirán en su prenda favorita para vestir a sus pequeños. </p> \n\n<h2>Estilo y Funcionalidad</h2>\n<p>La vestimenta de los niños debe ser duradera, cómoda y con un toque especial de estilo. La Polaina punto liso sin costuras Camel cumple con todos estos requisitos. Con un elegante color camel que es perfecto para cualquier temporada y un diseño atemporal, esta polaina es una adición esencial al guardarropa de sus pequeños. </p>\n\n<h2>Máxima Calidad</h2>\n<p>La Polaina punto liso sin costuras Camel es sinónimo de calidad. Desde los hilos meticulosamente tejidos hasta la ausencia de costuras que podrían irritar la piel delicada de los más pequeños, cada detalle ha sido planeado con la máxima atención. La satisfacción y el confort de sus pequeños están garantizados.</p>\n\n<p>Nunca antes había tenido tan fácil, añadir una pieza con tanta calidad a su colección. ¡No espere más! Haga click aquí y añada la Polaina punto liso sin costuras Camel al carrito de compras.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "672"
+  ],
+  "sourceDefaultCategoryId": "672",
+  "sourceCategoryName": "Polainas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:07",
+  "sourceUpdatedAt": "2026-10-27 11:08:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62159",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "90XB170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:20.940Z"
+    },
+    {
+      "id": "143976",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "90XA170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:24.249Z"
+    },
+    {
+      "id": "143977",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "90XC170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:27.361Z"
+    },
+    {
+      "id": "143978",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "90XD170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:30.898Z"
+    },
+    {
+      "id": "143979",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "90XE170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:33.703Z"
+    },
+    {
+      "id": "143980",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "90XF170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:36.273Z"
+    },
+    {
+      "id": "143981",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "90XG170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:39.333Z"
+    },
+    {
+      "id": "143982",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "90XH170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:42.221Z"
+    },
+    {
+      "id": "143983",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "90XI170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:44.805Z"
+    },
+    {
+      "id": "143984",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "90XJ170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:48.334Z"
+    },
+    {
+      "id": "143985",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "90XK170",
+      "productSku": "185",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:50.871Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/5999-3844.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3844-large_default/polaina-punto-liso-sin-costuras-camel.jpg",
+      "alt": "Polaina punto liso sin costuras Camel",
+      "sourceId": "3844",
+      "variantIds": [],
+      "sha256": "45388d3f4649fe9f78f7e55ccd5cf9daf340a1e27f7e74df340a6c530db12f0d"
+    },
+    {
+      "path": "assets/5999-9273.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9273-large_default/polaina-punto-liso-sin-costuras-camel.jpg",
+      "alt": "Polaina punto liso sin costuras Camel",
+      "sourceId": "9273",
+      "variantIds": [],
+      "sha256": "751775c47070ca3340b16e2c45ab886c8f7a74fdfa274a52bf34349fd1645676"
+    },
+    {
+      "path": "assets/5999-3843.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3843-large_default/polaina-punto-liso-sin-costuras-camel.jpg",
+      "alt": "Polaina punto liso sin costuras Camel",
+      "sourceId": "3843",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:51.098Z",
+  "issues": []
+}

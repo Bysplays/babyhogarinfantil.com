@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "9279",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/9279-camiseta-oso-panda-bebe-nina-verano-amarillo.html",
+  "name": "Camiseta oso panda bebe niña verano Amarillo",
+  "brand": "Zippy",
+  "sku": "2111078",
+  "description": "Camiseta 100% algodón en color amarillo con estampado de oso panda, manga corta y cierre trasero en forma de lágrima.",
+  "details": "Camiseta de ZIPPY, una de nuestras firmas preferidas! 100% ALGODÓN, en color amarillo estampado con osito panda. Cuello redondo con cierre trasero en forma de lágrima. Una prenda cómoda, fresquita, con un estampado muy tierno! Echa un ojito a nuestros bodies interiores, pantalones y calzado y podrás completarla como más te guste!\n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Camiseta de <strong>ZIPPY</strong>, una de nuestras firmas preferidas! <strong>100% ALGODÓN</strong>, en color amarillo estampado con <strong>osito panda</strong>. Cuello redondo con cierre trasero en forma de lágrima. Una prenda cómoda, fresquita, con un estampado muy tierno! Echa un ojito a nuestros <strong>bodies interiores, pantalones y calzado</strong> y podrás completarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 3,
+  "oldPrice": 5.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68862",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2111078",
+      "productSku": "2111078",
+      "taxRate": 21,
+      "price": 3,
+      "oldPrice": 5.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:05.838Z"
+    },
+    {
+      "id": "93616",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2111078",
+      "productSku": "2111078",
+      "taxRate": 21,
+      "price": 3,
+      "oldPrice": 5.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:08.108Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9279-7525.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7525-large_default/camiseta-oso-panda-bebe-nina-verano-amarillo.jpg",
+      "alt": "Camiseta oso panda bebe niña verano Amarillo",
+      "sourceId": "7525",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9279-7524.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7524-large_default/camiseta-oso-panda-bebe-nina-verano-amarillo.jpg",
+      "alt": "Camiseta oso panda bebe niña verano Amarillo",
+      "sourceId": "7524",
+      "variantIds": [],
+      "sha256": "0f00e46bfbe78624f858deecb409dbcb489548c345beec8c0035673c99caa529"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:08.268Z",
+  "issues": []
+}

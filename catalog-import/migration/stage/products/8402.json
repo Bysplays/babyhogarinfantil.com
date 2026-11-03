@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "8402",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/8402-mocasin-del-40-al-44-negro.html",
+  "name": "Mocasín del 40 al 44 Negro",
+  "brand": "Gorila",
+  "sku": "2007108",
+  "description": "Paso a paso, los Mocasines Negros del 40 al 44 son la elección perfecta para esos pequeños pies en crecimiento. Con su diseño elegante, adaptado para la comodidad diaria y la durabilidad, estos mocasines aseguran que cada paso sea tan seguro como estilizado. Perfectos para el uso escolar o para el jugar en el parque, son tan versátiles como duraderos. ¿Pero sabe qué es lo mejor? Son zapatos que crecen con su niño, disponibles de la talla 40 a 44, ¡garantizando un ajuste perfecto para cada edad y tamaño! Diga adiós a las compras constantes de calzado y déle la bienvenida a la comodidad y a la durabilidad. Los Mocasines Negros del 40 al 44 son la opción práctica y atractiva que sus hijos merecen.",
+  "details": "Diseño Sofisticado\n\nLujo y elegancia se unen en el Mocasín Negro del 40 al 44. Cada par resalta la destreza y la dedicación detrás de su confección, excusado en cuero vegano suave y duradero. Los sutiles detalles de costura y el emblemático detalle del lazo añaden un toque de sofisticación al diseño.\n\nConfort Excepcional\n\nUn paso cómodo es tan importante como un buen aspecto. Estos mocasines aseguran ambas cosas. Están construidos con una amortiguación acolchada y tienen un forro de tela suave para una máxima comodidad durante todo el día. Además, su diseño sin cordones permite un fácil calzado y descalzado.\n\nVersatilidad Elegante\n\nYa sea para una reunión importante, una fiesta casual o un paseo por el parque, estos mocasines se adaptan a cualquier evento. Su color negro atemporal y su elegante estilo lo hacen versátil para combinar con cualquier atuendo, desde los jeans más casuales hasta los trajes más formales.\n\nDescubre el lujo de un calzado de calidad y haz tuya la elegancia con estos Mocasines del 40 al 44. No esperes más y dale un toque de estilo y comodidad a tu outfit. ¡Cómpralo ahora!",
+  "sourceDescriptionHtml": "<h2>Diseño Sofisticado</h2>\n<p>Lujo y elegancia se unen en el Mocasín Negro del 40 al 44. Cada par resalta la destreza y la dedicación detrás de su confección, excusado en cuero vegano suave y duradero. Los sutiles detalles de costura y el emblemático detalle del lazo añaden un toque de sofisticación al diseño.</p>\n<h2>Confort Excepcional</h2>\n<p>Un paso cómodo es tan importante como un buen aspecto. Estos mocasines aseguran ambas cosas. Están construidos con una amortiguación acolchada y tienen un forro de tela suave para una máxima comodidad durante todo el día. Además, su diseño sin cordones permite un fácil calzado y descalzado.</p>\n<h2>Versatilidad Elegante</h2>\n<p>Ya sea para una reunión importante, una fiesta casual o un paseo por el parque, estos mocasines se adaptan a cualquier evento. Su color negro atemporal y su elegante estilo lo hacen versátil para combinar con cualquier atuendo, desde los jeans más casuales hasta los trajes más formales.</p>\n<p>Descubre el lujo de un calzado de calidad y haz tuya la elegancia con estos Mocasines del 40 al 44. No esperes más y dale un toque de estilo y comodidad a tu outfit. ¡Cómpralo ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "705",
+    "759",
+    "888",
+    "868",
+    "878",
+    "871",
+    "890"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 59.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "266",
+          "label": "42"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67411",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "2007108",
+      "productSku": "2007108",
+      "taxRate": 21,
+      "price": 59.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:01.516Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8402-15593.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15593-large_default/mocasin-del-40-al-44-negro.jpg",
+      "alt": "Mocasín del 40 al 44 Negro",
+      "sourceId": "15593",
+      "variantIds": [],
+      "sha256": "d6e107595ed4223d5119730340e71265eac8804314d8dbfe8d539d35cdfc7ca3"
+    },
+    {
+      "path": "assets/8402-15594.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15594-large_default/mocasin-del-40-al-44-negro.jpg",
+      "alt": "Mocasín del 40 al 44 Negro",
+      "sourceId": "15594",
+      "variantIds": [],
+      "sha256": "4365a3dda709204a66edfdf13dfaa5475f0f37784889b9593dee1592a1fa07ec"
+    },
+    {
+      "path": "assets/8402-15595.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15595-large_default/mocasin-del-40-al-44-negro.jpg",
+      "alt": "Mocasín del 40 al 44 Negro",
+      "sourceId": "15595",
+      "variantIds": [],
+      "sha256": "584fd30e64297d4c6df0ed36959b6b7f1e4c5af8d7e281dbf9add9f04d6392c1"
+    },
+    {
+      "path": "assets/8402-15596.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15596-large_default/mocasin-del-40-al-44-negro.jpg",
+      "alt": "Mocasín del 40 al 44 Negro",
+      "sourceId": "15596",
+      "variantIds": [],
+      "sha256": "076b5b70f5c67c9d0c5d7d072c1ba95b227ec5710c03e9c6ef2c48c630a737ac"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:10:01.737Z",
+  "issues": []
+}

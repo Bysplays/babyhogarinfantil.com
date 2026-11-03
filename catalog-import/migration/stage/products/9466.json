@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "9466",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/9466-peto-bebe-cuadros-verde.html",
+  "name": "Peto bebe cuadros Verde",
+  "brand": "Mac Ilusión",
+  "sku": "2202107",
+  "description": "Peto de cuadros vichy en color verde agua y blanco, 100% ALGODÓN. Cierre con botones en la entrepierna y en los tirantes. Tiene goma en la sisa.",
+  "details": "Peto de MAC ILUSIÓN, creadores de ropa de punto artesanal con gran mimo y dedicación desde hace más de 50 años, diseños novedosos y exclusivos. 100% ALGODÓN, estampado en cuadro vichy grande en color blanco y verde agua. Cierre con botones estilo madera en los tirantes y entrepierna, para facilitar la puesta y el cambio de pañal sin necesidad de desvestir. Tiene goma en la sisa buscando un óptimo ajuste. Una prenda cómoda, divertida y desenfadada, en un color súper alegre para el verano! Echa un ojito a nuestras camisas o camisetas básicas, calcetines y calzado y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nPeto: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Peto de <strong>MAC ILUSIÓN</strong>, creadores de ropa de punto artesanal con gran mimo y dedicación desde hace más de 50 años, diseños novedosos y exclusivos. <strong>100% ALGODÓN</strong>, estampado en <strong>cuadro vichy</strong> grande en color blanco y verde agua. Cierre con botones estilo madera en los tirantes y entrepierna, para facilitar la puesta y el cambio de pañal sin necesidad de desvestir. Tiene <strong>goma en la sisa</strong> buscando un óptimo ajuste. Una prenda cómoda, divertida y desenfadada, en un color súper alegre para el verano! Echa un ojito a nuestras <strong>camisas o camisetas básicas, calcetines y calzado</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Peto: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 15,
+  "oldPrice": 29.9959,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69283",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2202107",
+      "productSku": "2202107",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": 29.9959,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:46.346Z"
+    },
+    {
+      "id": "69284",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2202107",
+      "productSku": "2202107",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": 29.9959,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:47.610Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9466-7724.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7724-large_default/peto-bebe-cuadros-verde.jpg",
+      "alt": "Peto bebe cuadros Verde",
+      "sourceId": "7724",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    },
+    {
+      "path": "assets/9466-7723.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7723-large_default/peto-bebe-cuadros-verde.jpg",
+      "alt": "Peto bebe cuadros Verde",
+      "sourceId": "7723",
+      "variantIds": [],
+      "sha256": "26e48699974c4ea930931b7871075b44029c1ee61e06f019bbe29e6827efca89"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:47.772Z",
+  "issues": []
+}

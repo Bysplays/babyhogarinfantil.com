@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "6673",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/6673-merceditas-con-hebilla-bh-piedra.html",
+  "name": "Merceditas con hebilla BH Piedra",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1607196",
+  "description": "Merceditas en piel badana, acabado mate. Cierre con hebilla. Sin suela. Disponible talla 19 con semi suela pre andante.",
+  "details": "Merceditas en piel badana de gran calidad, acabado mate. Cierre con hebilla que proporciona sujeci&oacute;n al pie y facilidad a la hora del calzado. Los acabados del empeine dibujan peque&ntilde;as ondas que le dan un toque muy original. Sin suela. Disponibilidad del modelo con semisuela en la talla 19, cons&uacute;ltanos! Disponible en varios colores y distintos acabados. Un calzado actualizado y atemporal, un fondo de armario b&aacute;sico para combinar con cualquier conjunto o vestido. Un zapato muy ligero y c&oacute;modo. \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none; user-select: text; color: #777777; font-family: robotoregular; font-size: 14px;\"><strong style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none;\">Merceditas en piel badana</strong>&nbsp;de gran calidad, acabado mate. Cierre con hebilla que proporciona sujeci&oacute;n al pie y facilidad a la hora del calzado. Los acabados del empeine dibujan peque&ntilde;as ondas que le dan un toque muy original. Sin suela.&nbsp;<strong style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none;\">Disponibilidad del modelo con semisuela en la talla&nbsp;</strong><strong style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none;\">19, cons&uacute;ltanos! Disponible en varios colores y distintos acabados.</strong>&nbsp;Un calzado actualizado y atemporal, un fondo de armario b&aacute;sico para combinar con cualquier conjunto o vestido. Un zapato muy ligero y c&oacute;modo.&nbsp;</p>\r\n<p style=\"margin: 15px 0px 0px; padding: 0px; box-sizing: border-box; outline: none; user-select: text; color: #777777; font-family: robotoregular; font-size: 14px;\"><strong style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: none;\">FABRICADO EN ESPA&Ntilde;A</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Piedra",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 25.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-27 11:09:16",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "256",
+          "label": "15"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64077",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "1607196",
+      "productSku": "1607196",
+      "taxRate": 21,
+      "price": 25.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:59.397Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6673-9705.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9705-large_default/merceditas-con-hebilla-bh-piedra.jpg",
+      "alt": "Merceditas con hebilla BH Piedra",
+      "sourceId": "9705",
+      "variantIds": [],
+      "sha256": "51dade66804b211b9d006bc2f9a2ccf4e0d194088d10c900e50640d9db264f75"
+    },
+    {
+      "path": "assets/6673-9704.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9704-large_default/merceditas-con-hebilla-bh-piedra.jpg",
+      "alt": "Merceditas con hebilla BH Piedra",
+      "sourceId": "9704",
+      "variantIds": [],
+      "sha256": "093c5921ad7a8abc5c58e8a6fb84840c5fafd817e9c7c749c675e33c51e4a85b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:59.511Z",
+  "issues": []
+}

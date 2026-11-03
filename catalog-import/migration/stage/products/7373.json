@@ -1,0 +1,387 @@
+{
+  "schemaVersion": 1,
+  "id": "7373",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/7373-merceditas-puntera-reforzada-29-al-39-azul-marino.html",
+  "name": "Merceditas puntera reforzada 29 al 39 Azul Marino",
+  "brand": "Gorila",
+  "sku": "1807308",
+  "description": "Merceditas con pulsera de velcro. Hecha con máxima calidad y resistencia. Fabricada con piel que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. Forro transpirable",
+  "details": "Cuidados:\n\nNutre y cuida la piel. Para su limpieza se recomienda la crema natural de Callaghan.",
+  "sourceDescriptionHtml": "<p>Cuidados:</p>\n<p><span style=\"text-align:justify;color:#575756;text-transform:none;line-height:1.5;text-indent:0px;letter-spacing:normal;font-family:'Open Sans', sans-serif;font-size:12.8px;font-style:normal;font-weight:400;word-spacing:0px;white-space:normal;background-color:#ffffff;\"><span>Nutre y cuida la piel.<span> </span></span><span>Para su limpieza se recomienda la crema natural de Callaghan.</span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "705",
+    "783",
+    "684",
+    "850",
+    "879"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 59.96,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:23",
+  "sourceUpdatedAt": "2026-10-27 11:10:01",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 11,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "282",
+          "label": "29"
+        },
+        {
+          "id": "283",
+          "label": "30"
+        },
+        {
+          "id": "284",
+          "label": "31"
+        },
+        {
+          "id": "285",
+          "label": "32"
+        },
+        {
+          "id": "286",
+          "label": "33"
+        },
+        {
+          "id": "287",
+          "label": "34"
+        },
+        {
+          "id": "288",
+          "label": "35"
+        },
+        {
+          "id": "289",
+          "label": "36"
+        },
+        {
+          "id": "290",
+          "label": "37"
+        },
+        {
+          "id": "291",
+          "label": "38"
+        },
+        {
+          "id": "292",
+          "label": "39"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65638",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "282",
+          "group": "Tamaño",
+          "value": "29"
+        }
+      ],
+      "sku": "5505XA9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.96,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:31.613Z"
+    },
+    {
+      "id": "145724",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "283",
+          "group": "Tamaño",
+          "value": "30"
+        }
+      ],
+      "sku": "5505XB9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:34.479Z"
+    },
+    {
+      "id": "93610",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "284",
+          "group": "Tamaño",
+          "value": "31"
+        }
+      ],
+      "sku": "5505XC9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:37.279Z"
+    },
+    {
+      "id": "93611",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "285",
+          "group": "Tamaño",
+          "value": "32"
+        }
+      ],
+      "sku": "5505XD9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:39.116Z"
+    },
+    {
+      "id": "145725",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "286",
+          "group": "Tamaño",
+          "value": "33"
+        }
+      ],
+      "sku": "5505XE9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:41.906Z"
+    },
+    {
+      "id": "85181",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "287",
+          "group": "Tamaño",
+          "value": "34"
+        }
+      ],
+      "sku": "5505XF9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:44.290Z"
+    },
+    {
+      "id": "65641",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "288",
+          "group": "Tamaño",
+          "value": "35"
+        }
+      ],
+      "sku": "5505XG9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.97,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:46.482Z"
+    },
+    {
+      "id": "94169",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "289",
+          "group": "Tamaño",
+          "value": "36"
+        }
+      ],
+      "sku": "5505XH9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.96,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:48.340Z"
+    },
+    {
+      "id": "85183",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "290",
+          "group": "Tamaño",
+          "value": "37"
+        }
+      ],
+      "sku": "5505XI9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:50.594Z"
+    },
+    {
+      "id": "145726",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "291",
+          "group": "Tamaño",
+          "value": "38"
+        }
+      ],
+      "sku": "5505XJ9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:52.387Z"
+    },
+    {
+      "id": "65644",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "292",
+          "group": "Tamaño",
+          "value": "39"
+        }
+      ],
+      "sku": "5505XK9429",
+      "productSku": "1807308",
+      "taxRate": 21,
+      "price": 59.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:53.945Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7373-5338.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5338-large_default/merceditas-puntera-reforzada-29-al-39-azul-marino.jpg",
+      "alt": "Merceditas puntera reforzada 29 al 39 Azul Marino",
+      "sourceId": "5338",
+      "variantIds": [],
+      "sha256": "19b323ed08184821f35df0695a511feca0e192c30d56e2b0cf8343c0e8d18d9c"
+    },
+    {
+      "path": "assets/7373-5339.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5339-large_default/merceditas-puntera-reforzada-29-al-39-azul-marino.jpg",
+      "alt": "Merceditas puntera reforzada 29 al 39 Azul Marino",
+      "sourceId": "5339",
+      "variantIds": [],
+      "sha256": "c5d9f67b96481c4f2f568c077579fa56e3b8a99ec68f63c7f5908703ec30a50e"
+    },
+    {
+      "path": "assets/7373-10230.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10230-large_default/merceditas-puntera-reforzada-29-al-39-azul-marino.jpg",
+      "alt": "Merceditas puntera reforzada 29 al 39 Azul Marino",
+      "sourceId": "10230",
+      "variantIds": [],
+      "sha256": "fa45c84a298aef5f2750a1e8bd06f39eb84b6f20cf1ecafab3419ac70911acee"
+    },
+    {
+      "path": "assets/7373-5337.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5337-large_default/merceditas-puntera-reforzada-29-al-39-azul-marino.jpg",
+      "alt": "Merceditas puntera reforzada 29 al 39 Azul Marino",
+      "sourceId": "5337",
+      "variantIds": [],
+      "sha256": "bae4bef20a4061fd6e43526a650339573faef0daea4c504649f26376880750c5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:54.192Z",
+  "issues": []
+}

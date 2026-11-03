@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8334",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8334-lazo-mediano-con-pinza-marron.html",
+  "name": "Lazo mediano con pinza Marrón",
+  "brand": "Siena",
+  "sku": "2007019",
+  "description": "Lazo de 8 x 5,5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox.\n\nHECHO A MANO.\n\nHECHO EN ESPAÑA.",
+  "details": "Encanto Clásico\n\nEl Lazo Mediano con Pinza Marrón agrega un toque de elegancia atemporal a cualquier atuendo. Hecho de materiales de alta calidad, este delicado accesorio está diseñado para resistir el juego más enérgico, manteniendo intacta su belleza. Ideal para ocasiones especiales o para realzar la vestimenta diaria.\n\nVersatilidad y Comodidad\n\nCon su pinza resistente y fácil de usar, el Lazo Mediano con Pinza Marrón se puede colocar fácilmente en cualquier tipo de cabello. Ya sea que esté adornando un peinado recogido o simplemente agregándolo como un toque final a cabellos sueltos, este lazo marrón siempre se mantiene en su lugar proporcionando una comodidad inigualable.\n\nEstilo con Valor\n\nEl Lazo Mediano con Pinza Marrón no es solo un accesorio, es una inversión en estilo. Este lazo agrega un valor increíble al guardarropa de los pequeños, elevando cualquier conjunto con su presencia refinada. Un regalo perfecto para cualquier temporada, y una necesidad para cualquier niño amante de la moda.\n\n¡Haz Click Aquí Para Agregar Este Encantador Acento a Tu Colección Hoy Mismo!",
+  "sourceDescriptionHtml": "<h2>Encanto Clásico</h2>\n<p>El Lazo Mediano con Pinza Marrón agrega un toque de elegancia atemporal a cualquier atuendo. Hecho de materiales de alta calidad, este delicado accesorio está diseñado para resistir el juego más enérgico, manteniendo intacta su belleza. Ideal para ocasiones especiales o para realzar la vestimenta diaria.</p>\n<h2>Versatilidad y Comodidad</h2>\n<p>Con su pinza resistente y fácil de usar, el Lazo Mediano con Pinza Marrón se puede colocar fácilmente en cualquier tipo de cabello. Ya sea que esté adornando un peinado recogido o simplemente agregándolo como un toque final a cabellos sueltos, este lazo marrón siempre se mantiene en su lugar proporcionando una comodidad inigualable.</p>\n<h2>Estilo con Valor</h2>\n<p>El Lazo Mediano con Pinza Marrón no es solo un accesorio, es una inversión en estilo. Este lazo agrega un valor increíble al guardarropa de los pequeños, elevando cualquier conjunto con su presencia refinada. Un regalo perfecto para cualquier temporada, y una necesidad para cualquier niño amante de la moda.</p>\n<h3><a href=\"comprar-lazo-mediano-con-pinza-marron.html\">¡Haz Click Aquí Para Agregar Este Encantador Acento a Tu Colección Hoy Mismo!</a></h3>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marrón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:36",
+  "sourceUpdatedAt": "2026-10-27 11:10:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84932",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2007019",
+      "productSku": "2007019",
+      "taxRate": 21,
+      "price": 2.9,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:55.894Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8334-6636.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6636-large_default/lazo-mediano-con-pinza-marron.jpg",
+      "alt": "Lazo mediano con pinza Marrón",
+      "sourceId": "6636",
+      "variantIds": [],
+      "sha256": "dd0b85d20966964385271d3a0ca6dddfdaa7d1c8f7c8497b295960110bac5e1b"
+    },
+    {
+      "path": "assets/8334-6635.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6635-large_default/lazo-mediano-con-pinza-marron.jpg",
+      "alt": "Lazo mediano con pinza Marrón",
+      "sourceId": "6635",
+      "variantIds": [],
+      "sha256": "a231b0ef76350b9d02c4a5ccc07ef95565b1748dea44ddff68f8b025d5248853"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:55.989Z",
+  "issues": []
+}

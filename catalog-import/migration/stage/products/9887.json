@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "9887",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9887-sudadera-spiderman-azul-marino.html",
+  "name": "Sudadera Spiderman Azul Marino",
+  "brand": "Zippy",
+  "sku": "2207107",
+  "description": "Sudadera en color azul marino con estampado en relieve de SPIDERMAN, acabado de canalé elástico en cuello, puños y cinturilla, completamente felpada, cálida y muy suave. 100% ALGODÓN.",
+  "details": "Sudadera de ZIPPY, firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. En color azul marino con estampado en relieve de SPIDERMAN y arañita verde como detalle en la espalda. Acabado de canalé elástico en cuello, puños y cinturilla. Completamente felpada, cálida y de tacto muy suave. Una prenda cómoda, práctica, calentita y con un estampado muy molón! Echa un ojito a nuestros pantalones de chándal o vaqueros, camisetas y calzado y podrás completarla con todo lo que necesites!\n\nComposición y cuidados:\n\nSudadera: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Sudadera de <strong>ZIPPY</strong>, firma europea con más de 20 años de experiencia, fundada en 1996 en Portugal. En color azul marino con estampado en relieve de <strong>SPIDERMAN</strong> y arañita verde como detalle en la espalda. Acabado de canalé elástico en cuello, puños y cinturilla. <strong>Completamente felpada, cálida y de tacto muy suave</strong>. Una prenda cómoda, práctica, calentita y con un estampado muy molón! Echa un ojito a nuestros <strong>pantalones de chándal o vaqueros, camisetas y calzado</strong> y podrás completarla con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Sudadera: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70300",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2207107",
+      "productSku": "2207107",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:48.794Z"
+    },
+    {
+      "id": "98389",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2207107",
+      "productSku": "2207107",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:50.484Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9887-12869.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12869-large_default/sudadera-spiderman-azul-marino.jpg",
+      "alt": "Sudadera Spiderman Azul Marino",
+      "sourceId": "12869",
+      "variantIds": [],
+      "sha256": "fab7ecd526f4d5e20759aaa1b80a084adfa69f3dca319968fa1a4aa1314811ad"
+    },
+    {
+      "path": "assets/9887-12870.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12870-large_default/sudadera-spiderman-azul-marino.jpg",
+      "alt": "Sudadera Spiderman Azul Marino",
+      "sourceId": "12870",
+      "variantIds": [],
+      "sha256": "5a1e790ef535899253258a0d9ede21ee76af78b01305875b0e96a857d75fdcb4"
+    },
+    {
+      "path": "assets/9887-8018.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8018-large_default/sudadera-spiderman-azul-marino.jpg",
+      "alt": "Sudadera Spiderman Azul Marino",
+      "sourceId": "8018",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9887-9140.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9140-large_default/sudadera-spiderman-azul-marino.jpg",
+      "alt": "Sudadera Spiderman Azul Marino",
+      "sourceId": "9140",
+      "variantIds": [],
+      "sha256": "5da83b485d6aabcf928c9197e9e42d908354242021e19391011058a5a36bf559"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:50.727Z",
+  "issues": []
+}

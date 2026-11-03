@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "9788",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/9788-camisa-plumeti-manga-larga-crudo.html",
+  "name": "Camisa plumeti manga larga Crudo",
+  "brand": "Calamaro",
+  "sku": "2207029",
+  "description": "Camisa 100% algodón, de PLUMETI manga larga con cuello volante y cierre trasero con botones en toda la espalda. Color crudo suave.",
+  "details": "Camisa de CALAMARO, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. 100% ALGODÓN, en color blanco. En PLUMETI, de manga larga y cuello volante, con cierre trasero de botones en toda la espalda. Una prenda atemporal, un fondo de armario ideal para combinar con ranitas, debajo de jubones, con petos o pichis, opciones infinitas! Echa un ojito a nuestros calcetines, calzado y ropita interior y podrás completarla como más te guste!\n\nComposición y cuidados:\n\nCamisa: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Camisa de <strong>CALAMARO</strong>, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. <strong>100% ALGODÓN</strong>, en color blanco. En PLUMETI, de manga larga y cuello volante, con cierre trasero de botones en toda la espalda. Una prenda atemporal, un fondo de armario ideal para combinar con <strong>ranitas, debajo de jubones, con petos o pichis</strong>, opciones infinitas! Echa un ojito a nuestros <strong>calcetines, calzado y ropita interior</strong> y podrás completarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camisa: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 14.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70008",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2207029",
+      "productSku": "2207029",
+      "taxRate": 21,
+      "price": 14.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:31.847Z"
+    },
+    {
+      "id": "70009",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2207029",
+      "productSku": "2207029",
+      "taxRate": 21,
+      "price": 14.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:34.269Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9788-8255.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8255-large_default/camisa-plumeti-manga-larga-crudo.jpg",
+      "alt": "Camisa plumeti manga larga Crudo",
+      "sourceId": "8255",
+      "variantIds": [],
+      "sha256": "539f00bd78d4242340229965eadbcbfcec24fef49484ddedea688683ec835cae"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:34.345Z",
+  "issues": []
+}

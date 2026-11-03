@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9565",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/9565-mono-nina-verano-corto-estampado-flores-azul.html",
+  "name": "Mono niña verano corto estampado flores Azul",
+  "brand": "Babybol",
+  "sku": "2203079",
+  "description": "Mono entero corto, es ligero y fresco para el buen tiempo.\n\n100% Liocel",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 15,
+  "oldPrice": 29.9959,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69540",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2203079",
+      "productSku": "2203079",
+      "taxRate": 21,
+      "price": 15,
+      "oldPrice": 29.9959,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:16.925Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9565-7786.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7786-large_default/mono-nina-verano-corto-estampado-flores-azul.jpg",
+      "alt": "Mono niña verano corto estampado flores Azul",
+      "sourceId": "7786",
+      "variantIds": [],
+      "sha256": "648dd586d50797fe718ba3a913f0fdf306766a46d42528b9bb2d70fac922c17b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:16.966Z",
+  "issues": []
+}

@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "8981",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/8981-rebeca-tricot-basica-rosa.html",
+  "name": "Rebeca tricot básica Rosa",
+  "brand": "Mayoral",
+  "sku": "2107048",
+  "description": "Chaqueta tricot 100% algodón orgánico.",
+  "details": "Composición y cuidados:\n\nChaqueta: 100% algodón orgánico.\n\nLAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% algodón orgánico.</p>\n<p>LAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 9.5,
+  "oldPrice": 18.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "339",
+          "label": "1-2m"
+        },
+        {
+          "id": "340",
+          "label": "2-4m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72989",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "339",
+          "group": "Tamaño",
+          "value": "1-2m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:28.499Z"
+    },
+    {
+      "id": "72990",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:30.676Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8981-11755.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11755-large_default/rebeca-tricot-basica-rosa.jpg",
+      "alt": "Rebeca tricot básica Rosa",
+      "sourceId": "11755",
+      "variantIds": [],
+      "sha256": "3f2a6dc83146b9db3676bda4b4030d6f3a5766912a8171859f25b310fb8cb912"
+    },
+    {
+      "path": "assets/8981-11758.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11758-large_default/rebeca-tricot-basica-rosa.jpg",
+      "alt": "Rebeca tricot básica Rosa",
+      "sourceId": "11758",
+      "variantIds": [],
+      "sha256": "212b571e1ffd83c4a1fb85a9fbace2095d27e22be3db36611d2cec8265bbdc66"
+    },
+    {
+      "path": "assets/8981-11756.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11756-large_default/rebeca-tricot-basica-rosa.jpg",
+      "alt": "Rebeca tricot básica Rosa",
+      "sourceId": "11756",
+      "variantIds": [],
+      "sha256": "7a2cca71b41099f024d6cd463f449bd544050020d3c2dba1d60596c5e26c3057"
+    },
+    {
+      "path": "assets/8981-11757.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11757-large_default/rebeca-tricot-basica-rosa.jpg",
+      "alt": "Rebeca tricot básica Rosa",
+      "sourceId": "11757",
+      "variantIds": [],
+      "sha256": "e96c72ec5be92cb6944f784d233c87273d99793bb805bfb7ab0fab0faa73fa21"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:30.899Z",
+  "issues": []
+}

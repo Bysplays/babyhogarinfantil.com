@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "20267",
+  "sourceUrl": "https://babyhogarinfantil.com/toquillas-tocas-arrullos/20267-toquilla-toca-dulzura-rosa.html",
+  "name": "Toquilla toca DULZURA Rosa",
+  "brand": "Mac Ilusión",
+  "sku": "2307011",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "785"
+  ],
+  "sourceDefaultCategoryId": "785",
+  "sourceCategoryName": "Toquillas Tocas Arrullos",
+  "price": 35.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-07-30 15:54:04",
+  "sourceUpdatedAt": "2026-10-27 11:12:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "148713",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11363XA17508",
+      "productSku": "2307011",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:27.800Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:27.800Z",
+  "issues": [
+    "No verified images"
+  ]
+}

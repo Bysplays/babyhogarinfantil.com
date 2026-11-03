@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16147",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16147-clip-velcro-lacito-fruncido-coral.html",
+  "name": "Clip velcro lacito fruncido Coral",
+  "brand": "Siena",
+  "sku": "2104154",
+  "description": "Clip velcro lacito fruncido mini. Para el fino pele de la peque.\n\nLazo de 3 x 1.8 cm aproximadamente.\n\nHECHO EN ESPAÑA",
+  "details": "La Belleza y Elegancia que Haces Brillar \n\n El Clip Velcro Lacito Fruncido Coral representa una mezcla perfecta de funcionalidad y estilo. Este pequeño pero poderoso accesorio de moda es un aliado para añadir un toque de elegancia y encanto a tu look diario. Desde peinados sencillos hasta los más elaborados, añade un toque especial con este clip.\n\n\n Comodidad y Durabilidad Garantizadas \n\n Este clip no sólo es bonito, sino que está diseñado para ofrecer una comodidad excepcional y una vida útil prolongada. El velcro de alta calidad asegura que el clip se mantenga en su lugar, sin importar cuán activo sea el día. El lacito fruncido agrega un detalle alegre y vibrante, mientras que el color coral se convierte en un acento fresco y radiante en cualquier atuendo.\n\n\n De Pequeños Detalles Nacen Grandes Historias \n\n El Clip Velcro Lacito Fruncido Coral es más que un simple accesorio. Es la historia de cómo los pequeños detalles pueden transformar un look ordinario en algo verdaderamente especial. Ya sea para una ocasión especial o para potenciar la belleza diaria, este clip es el compañero perfecto. \n\n\n Descubre cómo este pequeño clip puede hacer una gran diferencia en tu estilo. No esperes más, click aquí para comprar el tuyo ahora y empieza a crear tu propia historia.",
+  "sourceDescriptionHtml": "<h2> La Belleza y Elegancia que Haces Brillar </h2>\n<p> El <strong> Clip Velcro Lacito Fruncido Coral </strong> representa una mezcla perfecta de funcionalidad y estilo. Este pequeño pero poderoso accesorio de moda es un aliado para añadir un toque de elegancia y encanto a tu look diario. Desde peinados sencillos hasta los más elaborados, añade un toque especial con este clip.</p>\n\n<h2> Comodidad y Durabilidad Garantizadas </h2>\n<p> Este clip no sólo es bonito, sino que está diseñado para ofrecer una comodidad excepcional y una vida útil prolongada. El velcro de alta calidad asegura que el clip se mantenga en su lugar, sin importar cuán activo sea el día. El lacito fruncido agrega un detalle alegre y vibrante, mientras que el color coral se convierte en un acento fresco y radiante en cualquier atuendo.</p>\n\n<h2> De Pequeños Detalles Nacen Grandes Historias </h2>\n<p> El <strong> Clip Velcro Lacito Fruncido Coral </strong> es más que un simple accesorio. Es la historia de cómo los pequeños detalles pueden transformar un look ordinario en algo verdaderamente especial. Ya sea para una ocasión especial o para potenciar la belleza diaria, este clip es el compañero perfecto. </p>\n\n<p> Descubre cómo este pequeño clip puede hacer una gran diferencia en tu estilo. No esperes más, <a href=\"#buy-now\"> click aquí </a> para comprar el tuyo ahora y empieza a crear tu propia historia. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Coral",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 1.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:21",
+  "sourceUpdatedAt": "2026-10-27 11:11:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147071",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9033XA14298",
+      "productSku": "2104154",
+      "taxRate": 21,
+      "price": 1.98,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:11.638Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16147-15725.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15725-large_default/clip-velcro-lacito-fruncido-coral.jpg",
+      "alt": "Clip velcro lacito fruncido Coral",
+      "sourceId": "15725",
+      "variantIds": [],
+      "sha256": "dcd1333275428c90625bf067c9605bde93f8e03be8322bb03f12209f1b80f074"
+    },
+    {
+      "path": "assets/16147-15726.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15726-large_default/clip-velcro-lacito-fruncido-coral.jpg",
+      "alt": "Clip velcro lacito fruncido Coral",
+      "sourceId": "15726",
+      "variantIds": [],
+      "sha256": "092aa96c4dfa32e243b50b2d3135cfbca974d1bb13869279f3077b62c65d3470"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:11.751Z",
+  "issues": []
+}

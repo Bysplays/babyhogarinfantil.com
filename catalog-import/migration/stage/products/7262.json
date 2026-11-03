@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "7262",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/7262-merceditas-nina-piel-velcro-29-al-39-negro.html",
+  "name": "Merceditas niña piel velcro 29 al 39 Negro",
+  "brand": "Gorila",
+  "sku": "1807050",
+  "description": ";erceditas con pulsera de velcro, en piel. COLOR NEGRO. Forro transpirable. Consultanos si no encuentras el número que necesitas. Plantilla extraíble.",
+  "details": "TECNOLOGÍA ADAPTACTION:  Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) PRODUCTO DE PIEL:  Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. CREMA DE LIMPIEZA:  Para su limpieza se recomienda la crema natural de Callaghan.",
+  "sourceDescriptionHtml": "<p><span style=\"margin:0px;padding:0px;text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"margin:0px;padding:0px;font-weight:bolder;\">TECNOLOGÍA ADAPTACTION:  </span><span style=\"margin:0px;padding:0px;\">Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) </span><br style=\"margin:0px;padding:0px;\" /></span><span style=\"margin:0px;padding:0px;text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"margin:0px;padding:0px;font-weight:bolder;\">PRODUCTO DE PIEL:  </span><span style=\"margin:0px;padding:0px;\">Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. </span><br style=\"margin:0px;padding:0px;\" /></span><span style=\"margin:0px;padding:0px;text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"margin:0px;padding:0px;font-weight:bolder;\">CREMA DE LIMPIEZA:  </span><span style=\"margin:0px;padding:0px;\">Para su limpieza se recomienda la crema natural de Callaghan. </span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "705",
+    "888",
+    "868",
+    "878",
+    "871",
+    "890"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 59.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:22",
+  "sourceUpdatedAt": "2026-10-27 11:09:57",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "291",
+          "label": "38"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65462",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "291",
+          "group": "Tamaño",
+          "value": "38"
+        }
+      ],
+      "sku": "1807050",
+      "productSku": "1807050",
+      "taxRate": 21,
+      "price": 59.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:29.642Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7262-15625.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15625-large_default/merceditas-nina-piel-velcro-29-al-39-negro.jpg",
+      "alt": "Merceditas niña piel velcro 29 al 39 Negro",
+      "sourceId": "15625",
+      "variantIds": [],
+      "sha256": "544168345cbcb546877dbe0bdd990dad66ebfb048884f7f967a2d274aed1b967"
+    },
+    {
+      "path": "assets/7262-15626.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15626-large_default/merceditas-nina-piel-velcro-29-al-39-negro.jpg",
+      "alt": "Merceditas niña piel velcro 29 al 39 Negro",
+      "sourceId": "15626",
+      "variantIds": [],
+      "sha256": "67fbde4478ff6e7aa2959d85f7b04758e3df8861065cc2c9396ece2d18769e5d"
+    },
+    {
+      "path": "assets/7262-15627.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15627-large_default/merceditas-nina-piel-velcro-29-al-39-negro.jpg",
+      "alt": "Merceditas niña piel velcro 29 al 39 Negro",
+      "sourceId": "15627",
+      "variantIds": [],
+      "sha256": "4f098bf4dc923e2b3fcf7cedb34c714da66a28e235e8035645d8fb3a5af2e1f2"
+    },
+    {
+      "path": "assets/7262-15628.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15628-large_default/merceditas-nina-piel-velcro-29-al-39-negro.jpg",
+      "alt": "Merceditas niña piel velcro 29 al 39 Negro",
+      "sourceId": "15628",
+      "variantIds": [],
+      "sha256": "d6e107595ed4223d5119730340e71265eac8804314d8dbfe8d539d35cdfc7ca3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:29.860Z",
+  "issues": []
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "8930",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/8930-sudadera-con-capucha-roarr-azul-marino.html",
+  "name": "Sudadera con capucha Roarr Azul marino",
+  "brand": "Zippy",
+  "sku": "2106000",
+  "description": "Sudadera con capucha, en color azul marino con detalles en rojo y blanco. Tiene bolsillos. Sin felpa interior. Para todo tiempo.",
+  "details": "Sudadera de ZIPPY, una de nuestras firmas preferidas! En color azul marino, con detalles serigrafiados en el pecho en color blanco y rojo. Tiene capucha y bolsillos. Los puños de las mangas y la cinturilla están acabados en canalé elástico. Sin felpa interior, por lo que es adecuada para cualquier época del año! Una prenda cómoda, ligera y de tacto suave y agradable. Echa un ojito a nuestras camisetas, pantalones y calzado y podrás combinarla como más te guste!\n\nComposición y cuidados:\n\nSudadera: 79% algodón, 21% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Sudadera de<strong> ZIPPY,</strong> una de nuestras firmas preferidas! En color azul marino, con detalles serigrafiados en el pecho en color blanco y rojo. Tiene <strong>capucha y bolsillos</strong>. Los puños de las mangas y la cinturilla están acabados en canalé elástico. Sin felpa interior, por lo que es adecuada para cualquier época del año! Una prenda cómoda, ligera y de tacto suave y agradable. Echa un ojito a nuestras <strong>camisetas, pantalones y calzado</strong> y podrás combinarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Sudadera: 79% algodón, 21% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 7.5,
+  "oldPrice": 14.9919,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:43",
+  "sourceUpdatedAt": "2026-10-27 11:11:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68209",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2106000",
+      "productSku": "2106000",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:15.895Z"
+    },
+    {
+      "id": "68210",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2106000",
+      "productSku": "2106000",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": 14.9919,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:17.157Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8930-7230.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7230-large_default/sudadera-con-capucha-roarr-azul-marino.jpg",
+      "alt": "Sudadera con capucha Roarr Azul marino",
+      "sourceId": "7230",
+      "variantIds": [],
+      "sha256": "d035eba872e0e5649a490b410646b5fc5fbad36d17a5093d8edb2e218302e138"
+    },
+    {
+      "path": "assets/8930-11658.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11658-large_default/sudadera-con-capucha-roarr-azul-marino.jpg",
+      "alt": "Sudadera con capucha Roarr Azul marino",
+      "sourceId": "11658",
+      "variantIds": [],
+      "sha256": "65e038923c020bc1843e1c64bd6bae1c39df47ccea1dd3fe4725c1e511a76426"
+    },
+    {
+      "path": "assets/8930-11659.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11659-large_default/sudadera-con-capucha-roarr-azul-marino.jpg",
+      "alt": "Sudadera con capucha Roarr Azul marino",
+      "sourceId": "11659",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/8930-7229.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7229-large_default/sudadera-con-capucha-roarr-azul-marino.jpg",
+      "alt": "Sudadera con capucha Roarr Azul marino",
+      "sourceId": "7229",
+      "variantIds": [],
+      "sha256": "625cbd43a59341867a9b236e8e9cfbcdcf5443841fdef383f4174a83df81ff17"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:17.419Z",
+  "issues": []
+}

@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "id": "19812",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-san-jose-de-cluny-vigo/19812-chaqueta-chandal-cluny-azul-marino.html",
+  "name": "Chaqueta chandal Cluny Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2501252",
+  "description": "Chaqueta del chandal en micropana para el colegio Cluny de Vigo",
+  "details": "Composición:\n\nChaqueta: 100% poliéster.\n\nLavar siempre del revés.\n\nNO LAVAR A MANO.\n\nNO USAR SECADORA.\n\nHECHA EN GALICIA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 100% poliéster.</p>\n<p>Lavar siempre del revés.</p>\n<p>NO LAVAR A MANO.</p>\n<p>NO USAR SECADORA.</p>\n<p><strong>HECHA EN GALICIA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "888"
+  ],
+  "sourceDefaultCategoryId": "888",
+  "sourceCategoryName": "Colegio San José de Cluny Vigo",
+  "price": 31,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-05-12 15:55:06",
+  "sourceUpdatedAt": "2026-10-27 11:14:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 24,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "313",
+          "label": "16(S)"
+        },
+        {
+          "id": "275",
+          "label": "M"
+        },
+        {
+          "id": "276",
+          "label": "L"
+        },
+        {
+          "id": "277",
+          "label": "XL"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94021",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "12758XC19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:36.886Z"
+    },
+    {
+      "id": "150246",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "12758XA19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:39.260Z"
+    },
+    {
+      "id": "150247",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "12758XB19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:41.731Z"
+    },
+    {
+      "id": "94022",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "12758XD19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 32,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:45.649Z"
+    },
+    {
+      "id": "150248",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "12758XE19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:48.607Z"
+    },
+    {
+      "id": "150249",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "12758XF19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:51.588Z"
+    },
+    {
+      "id": "150250",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "12758XG19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:54.262Z"
+    },
+    {
+      "id": "94026",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "313",
+          "group": "Tamaño",
+          "value": "16(S)"
+        }
+      ],
+      "sku": "12758XH19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 33,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:57.050Z"
+    },
+    {
+      "id": "150251",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "275",
+          "group": "Tamaño",
+          "value": "M"
+        }
+      ],
+      "sku": "12758XI19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:00.128Z"
+    },
+    {
+      "id": "150252",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "276",
+          "group": "Tamaño",
+          "value": "L"
+        }
+      ],
+      "sku": "12758XJ19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:02.986Z"
+    },
+    {
+      "id": "150253",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "277",
+          "group": "Tamaño",
+          "value": "XL"
+        }
+      ],
+      "sku": "12758XK19478",
+      "productSku": "2501252",
+      "taxRate": 21,
+      "price": 31,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:05.945Z"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:33:05.946Z",
+  "issues": [
+    "No verified images"
+  ]
+}

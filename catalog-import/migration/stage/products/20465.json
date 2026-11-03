@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "20465",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/20465-conjunto-leggin-3-piezas-arena.html",
+  "name": "Conjunto leggin 3 piezas Arena",
+  "brand": "Mayoral",
+  "sku": "2502039",
+  "description": "Conjunto de leggin con camiseta de mnaga larag. La chaqueta abroca con botones. El tacto es muy suave al llevar viscosa en su composición.",
+  "details": "COMPOSICIÓN\n\nChaqueta:\n\n55% Poliéster\n\n30% Viscosa\n\n13% Poliamida\n\n2% Elastano\n\nForro\n\n100% Algodón\n\nCamiseta manga larga:\n\n95% Algodón\n\n5% Elastano\n\nLeggings:\n\n95% Algodón\n\n5% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Chaqueta:</strong></p>\n<p>55% Poliéster</p>\n<p>30% Viscosa</p>\n<p>13% Poliamida</p>\n<p>2% Elastano</p>\n<p>Forro</p>\n<p>100% Algodón</p>\n<p><strong>Camiseta manga larga:</strong></p>\n<p>95% Algodón</p>\n<p>5% Elastano</p>\n<p><strong>Leggings:</strong></p>\n<p>95% Algodón</p>\n<p>5% Elastano</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Arena",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94768",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2502039",
+      "productSku": "2502039",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:40.854Z"
+    },
+    {
+      "id": "94769",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502039",
+      "productSku": "2502039",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:43.060Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20465-19775.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19775-large_default/conjunto-leggin-3-piezas-arena.jpg",
+      "alt": "Conjunto leggin 3 piezas Arena",
+      "sourceId": "19775",
+      "variantIds": [],
+      "sha256": "c4797ddc26d955880ee90a260e82ccc447f921c89b42fa11a38b5244295f997b"
+    },
+    {
+      "path": "assets/20465-19776.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19776-large_default/conjunto-leggin-3-piezas-arena.jpg",
+      "alt": "Conjunto leggin 3 piezas Arena",
+      "sourceId": "19776",
+      "variantIds": [],
+      "sha256": "d762755e93be9bd8e6581b1ad8a81e43d4077b97f54e82590eb8211697b94b9e"
+    },
+    {
+      "path": "assets/20465-19777.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19777-large_default/conjunto-leggin-3-piezas-arena.jpg",
+      "alt": "Conjunto leggin 3 piezas Arena",
+      "sourceId": "19777",
+      "variantIds": [],
+      "sha256": "f8424279270b5d383606f495044bbadcbebdfd195598dd91cf8d9e91079917ba"
+    },
+    {
+      "path": "assets/20465-19778.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19778-large_default/conjunto-leggin-3-piezas-arena.jpg",
+      "alt": "Conjunto leggin 3 piezas Arena",
+      "sourceId": "19778",
+      "variantIds": [],
+      "sha256": "b88479701dc25f47a58b55ebfc3355a7ac3dbc4d22bb3e92942a3c29e1f90e4e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:43.340Z",
+  "issues": []
+}

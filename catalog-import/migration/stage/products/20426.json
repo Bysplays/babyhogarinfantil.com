@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "20426",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/20426-chaqueta-larga-bebe-nino-azul-marino.html",
+  "name": "Chaqueta larga bebe niño Azul Marino",
+  "brand": "Calamaro",
+  "sku": "2502013",
+  "description": "Chaqueta de punto, abrocha con botones.",
+  "details": "Composición:\n\nChaqueta: 86 Poliéster, 10% viscosa, 4% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 86 Poliéster, 10% viscosa, 4% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 18.76,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94586",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:13.414Z"
+    },
+    {
+      "id": "94587",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:14.698Z"
+    },
+    {
+      "id": "94588",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:15.746Z"
+    },
+    {
+      "id": "94589",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:17.003Z"
+    },
+    {
+      "id": "94590",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:18.459Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20426-19638.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19638-large_default/chaqueta-larga-bebe-nino-azul-marino.jpg",
+      "alt": "Chaqueta larga bebe niño Azul Marino",
+      "sourceId": "19638",
+      "variantIds": [],
+      "sha256": "56a6d7c942eaad483231fb1fe5671109ab0520abe00531800d4f07ac5d411530"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:18.500Z",
+  "issues": []
+}

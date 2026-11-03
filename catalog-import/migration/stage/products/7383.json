@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7383",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nino/7383-chaqueta-larga-manga-rangla-trenzas-nino-nuez.html",
+  "name": "Chaqueta larga manga rangla trenzas niño Nuez",
+  "brand": "Mac Ilusión",
+  "sku": "1807351",
+  "description": "Envuelve a tu pequeño en el acogedor abrazo de la Chaqueta larga manga rangla trenzas niño Nuez. Creada con amor, esta chaqueta exuda calidez inigualable, protegiéndolos del frío sin sacrifiicar estilo. Gracias a las trenzas tejidas a mano, cada pieza es única, al igual que tu tesoro. Con su diseño elegante, garantiza que los niños estarán a la moda, independientemente de la estación. Esta chaqueta encantadora es una bendición para los días fríos, pero más que eso, es un regalo de amor para conservar la sonrisa en los rostros de los más pequeños.",
+  "details": "Exquisito Diseño de Trenzas\n\nSorprende a tu pequeño con esta chaqueta larga Rangla de manga larga Nuez, perfectamente trabajada. Con su diseño de trenzas intrincado y creativo, es una elección de moda que no solo abriga, sino que también adorna. Los delicados detalles de las trenzas añaden un toque de elegancia y sofisticación, garantizando que tu pequeño siempre esté a la última moda.\n\nCalidez y Comodidad\n\nHecha cuidadosamente para brindar la máxima comodidad con su suave tejido, esta chaqueta garantiza calor y protección. El material de alta calidad garantiza que su niño permanezca abrigado durante el clima fresco, proporcionando una suavidad inigualable contra su delicada piel. ¡No habrá nubarrones con esta chaqueta a la moda!\n\nPerfil Perfecto para Cualquier Ocasión\n\nLa versatilidad de esta chaqueta hace que sea una elección maravillosa para diversas ocasiones. Es el complemento perfecto para la ropa casual de todos los días, pero también tiene la elegancia para eventos más formales. ¡Haga que su hijo se destaque en la multitud con esta chaqueta única en su armario!\n\nDescubre el encanto de la moda infantil con esta hermosa chaqueta. Agrega la Chaqueta larga manga rangla trenzas niño Nuez a tu cesta hoy mismo y transforma el armario de tu hijo con un toque de sofisticación. ¡No esperes más!\n\nComposición:\n\nChaqueta: 100% acrílico.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><strong>Exquisito Diseño de Trenzas</strong></p>\n<p>Sorprende a tu pequeño con esta chaqueta larga Rangla de manga larga Nuez, perfectamente trabajada. Con su diseño de trenzas intrincado y creativo, es una elección de moda que no solo abriga, sino que también adorna. Los delicados detalles de las trenzas añaden un toque de elegancia y sofisticación, garantizando que tu pequeño siempre esté a la última moda.</p>\n<p><strong>Calidez y Comodidad</strong></p>\n<p>Hecha cuidadosamente para brindar la máxima comodidad con su suave tejido, esta chaqueta garantiza calor y protección. El material de alta calidad garantiza que su niño permanezca abrigado durante el clima fresco, proporcionando una suavidad inigualable contra su delicada piel. ¡No habrá nubarrones con esta chaqueta a la moda!</p>\n<p><strong>Perfil Perfecto para Cualquier Ocasión</strong></p>\n<p>La versatilidad de esta chaqueta hace que sea una elección maravillosa para diversas ocasiones. Es el complemento perfecto para la ropa casual de todos los días, pero también tiene la elegancia para eventos más formales. ¡Haga que su hijo se destaque en la multitud con esta chaqueta única en su armario!</p>\n<p><em>Descubre el encanto de la moda infantil con esta hermosa chaqueta. Agrega la Chaqueta larga manga rangla trenzas niño Nuez a tu cesta hoy mismo y transforma el armario de tu hijo con un toque de sofisticación. ¡No esperes más!</em></p>\n<p>Composición:</p>\n<p>Chaqueta: 100% acrílico.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>\n<p><strong></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nuez",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "738"
+  ],
+  "sourceDefaultCategoryId": "738",
+  "sourceCategoryName": "Chaquetas Niño",
+  "price": 19.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:24",
+  "sourceUpdatedAt": "2026-10-27 11:10:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65647",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1807351",
+      "productSku": "1807351",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:58.781Z"
+    },
+    {
+      "id": "65648",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1807351",
+      "productSku": "1807351",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:00.245Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7383-5344.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5344-large_default/chaqueta-larga-manga-rangla-trenzas-nino-nuez.jpg",
+      "alt": "Chaqueta larga manga rangla trenzas niño Nuez",
+      "sourceId": "5344",
+      "variantIds": [],
+      "sha256": "be653c6f1b895658be0967927b93979283c787973cbb7a599dd71c58932d43fb"
+    },
+    {
+      "path": "assets/7383-5343.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5343-large_default/chaqueta-larga-manga-rangla-trenzas-nino-nuez.jpg",
+      "alt": "Chaqueta larga manga rangla trenzas niño Nuez",
+      "sourceId": "5343",
+      "variantIds": [],
+      "sha256": "fc6afbf82c2dc4919ee40eda8c80a54ddc5d6d71b0421b0e577f2be26d264329"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:00.390Z",
+  "issues": []
+}

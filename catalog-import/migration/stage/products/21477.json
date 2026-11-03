@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "21477",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/21477-sudadera-algodon-nino-natural.html",
+  "name": "Sudadera algodón niño Natural",
+  "brand": "Chicco",
+  "sku": "2502112",
+  "description": "Sudadera con capucha para niño. Tiene felpa interior, lo que hace que sea cálida para el invierno. Con cremallera en el cuello para facilitar la puesta.",
+  "details": "Composición:\n\nSudadera: 95% algodón, 5% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Sudadera:</strong> 95% algodón, 5% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Natural",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96699",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:08.646Z"
+    },
+    {
+      "id": "96700",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:09.952Z"
+    },
+    {
+      "id": "96701",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:11.380Z"
+    },
+    {
+      "id": "96702",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:12.867Z"
+    },
+    {
+      "id": "96703",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:14.478Z"
+    },
+    {
+      "id": "96705",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502112",
+      "productSku": "2502112",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:16.186Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21477-20021.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20021-large_default/sudadera-algodon-nino-natural.jpg",
+      "alt": "Sudadera algodón niño Natural",
+      "sourceId": "20021",
+      "variantIds": [],
+      "sha256": "720e178fb95ea52492ca35284a51545a1acdfb438f6a687137b97c0d92a248db"
+    },
+    {
+      "path": "assets/21477-20022.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20022-large_default/sudadera-algodon-nino-natural.jpg",
+      "alt": "Sudadera algodón niño Natural",
+      "sourceId": "20022",
+      "variantIds": [],
+      "sha256": "2ebb24bea83257cd9d0d2e940500571c390a17825873d7ba93dd9bd098578403"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:16.337Z",
+  "issues": []
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "6446",
+  "sourceUrl": "https://babyhogarinfantil.com/bragas-bebe-nina/6446-braguita-algodon-con-puntilla-rosa.html",
+  "name": "Braguita algodón con puntilla Rosa",
+  "brand": "Calamaro",
+  "sku": "1531802",
+  "description": "Braguita cubre pañal con puntilla trasera, en color ROSA. Es de tiro alto, por lo que la puedes poner perfectamente con el pañal. 100% ALGODÓN.",
+  "details": "Braguitas cubre pa&ntilde;al de CALAMARO, una de nuestras firmas preferidas! 100% algod&oacute;n, en color rosa, con volantes de puntilla en la parte trasera. Con el tiro alto, para poder utilizar sobre el pa&ntilde;al c&oacute;modamente. Ideal para utilizar debajo de los vestidos cortos o jesusines o con blusas. Echa un ojito a nuestro calzado, calcetines y chaquetas y podr&aacute;s combinarla como m&aacute;s te guste! DISPONIBLE EN VARIOS COLORES.\n\r\nComposici&oacute;n y cuidados:\n\r\nBraguita: 100% algod&oacute;n\n\r\nLAVAR A M&Aacute;QUINA (M&Aacute;XIMO 30 &ordm;C)\n\r\nNO USAR LEJ&Iacute;AS\n\r\nNO USAR SECADORA\n\r\nPLANCHAR A BAJA TEMPERATURA (M&Aacute;XIMO 110 &ordm;C)\n\r\n \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p><span style=\"color: #626262; font-family: Baloo 2, sans-serif; font-size: 16px;\">Braguitas cubre pa&ntilde;al&nbsp; de <strong>CALAMARO</strong>, una de nuestras firmas preferidas! <strong>100% algod&oacute;n</strong>, en color rosa, con volantes de puntilla en la parte trasera. Con el tiro alto, para poder utilizar sobre el pa&ntilde;al c&oacute;modamente. Ideal para utilizar debajo de los vestidos cortos o jesusines o con blusas. Echa un ojito a nuestro <strong>calzado, calcetines y chaquetas</strong> y podr&aacute;s combinarla como m&aacute;s te guste! <strong>DISPONIBLE EN VARIOS COLORES</strong>.</span></p>\r\n<p><span style=\"color: #626262; font-family: Baloo 2, sans-serif; font-size: 16px;\">Composici&oacute;n y cuidados:</span></p>\r\n<p><span style=\"color: #626262; font-family: Baloo 2, sans-serif; font-size: 16px;\">Braguita: 100% algod&oacute;n</span></p>\r\n<p><span style=\"color: #626262; font-family: Baloo 2, sans-serif; font-size: 16px;\">LAVAR A M&Aacute;QUINA (M&Aacute;XIMO 30 &ordm;C)</span></p>\r\n<p><span style=\"color: #626262; font-family: Baloo 2, sans-serif; font-size: 16px;\">NO USAR LEJ&Iacute;AS</span></p>\r\n<p><span style=\"color: #626262; font-family: Baloo 2, sans-serif; font-size: 16px;\">NO USAR SECADORA</span></p>\r\n<p><span style=\"color: #626262; font-family: Baloo 2, sans-serif; font-size: 16px;\">PLANCHAR A BAJA TEMPERATURA (M&Aacute;XIMO 110 &ordm;C)</span></p>\r\n<p><span style=\"color: #626262; font-family: Baloo 2, sans-serif; font-size: 16px;\">&nbsp;</span></p>\r\n<p><strong><span style=\"color: #626262; font-family: Baloo 2, sans-serif; font-size: 16px;\">FABRICADO EN ESPA&Ntilde;A</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "678"
+  ],
+  "sourceDefaultCategoryId": "678",
+  "sourceCategoryName": "Bragas Bebé niña",
+  "price": 4.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:56",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63580",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1531802",
+      "productSku": "1531802",
+      "taxRate": 21,
+      "price": 4.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:48.205Z"
+    },
+    {
+      "id": "63581",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1531802",
+      "productSku": "1531802",
+      "taxRate": 21,
+      "price": 4.5,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:50.585Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6446-4420.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4420-large_default/braguita-algodon-con-puntilla-rosa.jpg",
+      "alt": "Braguita algodón con puntilla Rosa",
+      "sourceId": "4420",
+      "variantIds": [],
+      "sha256": "2aa0dbc7494e7ffceeff1fecb6f54992d858f2f6f421770d22d314c1275d3ae9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:50.664Z",
+  "issues": []
+}

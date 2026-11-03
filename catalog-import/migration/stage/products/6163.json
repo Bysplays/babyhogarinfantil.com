@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "id": "6163",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/6163-calcetin-corto-algodon-puno-labrado-nata.html",
+  "name": "Calcetín corto algodón puño labrado Nata",
+  "brand": "Condor",
+  "sku": "687",
+  "description": "Calcetines cortos NATA con el puño labrado de primavera para bebé y niñ@s hasta talla 6. Ver guía de tallas en las imágenes. HECHO EN ESPAÑA",
+  "details": "Composición:\n\n70% ALGODON, 30% POLIAMIDA.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>70% ALGODON, 30% POLIAMIDA.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>\n<p> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nata",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "846",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 4.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 24,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62703",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:26.117Z"
+    },
+    {
+      "id": "83313",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:28.906Z"
+    },
+    {
+      "id": "62705",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:31.730Z"
+    },
+    {
+      "id": "62706",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:34.718Z"
+    },
+    {
+      "id": "62707",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "687",
+      "productSku": "687",
+      "taxRate": 21,
+      "price": 4.9,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:38.154Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6163-4069.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4069-large_default/calcetin-corto-algodon-puno-labrado-nata.jpg",
+      "alt": "Calcetín corto algodón puño labrado Nata",
+      "sourceId": "4069",
+      "variantIds": [],
+      "sha256": "36a839a0ac02755f92f373c03d055f8741a450ecefd16db07c85fcd788336467"
+    },
+    {
+      "path": "assets/6163-4068.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4068-large_default/calcetin-corto-algodon-puno-labrado-nata.jpg",
+      "alt": "Calcetín corto algodón puño labrado Nata",
+      "sourceId": "4068",
+      "variantIds": [],
+      "sha256": "b640decc9ef0420c62f7fbd390983e096603007c4fcf7cc79c3c55fd7e1d93cd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:38.278Z",
+  "issues": []
+}

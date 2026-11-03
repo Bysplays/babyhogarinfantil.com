@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "id": "7261",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/7261-merceditas-nina-piel-velcro-29-al-39-azul-marino.html",
+  "name": "Merceditas niña piel velcro 29 al 39 Azul Marino",
+  "brand": "Gorila",
+  "sku": "1807050",
+  "description": "Merceditas en piel con pulsera de velcro para abrochar. Plantilla extraíble.",
+  "details": "TECNOLOGÍA ADAPTACTION:  Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) \n\nPRODUCTO DE PIEL:  Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. \n\nCREMA DE LIMPIEZA:  Para su limpieza se recomienda la crema natural de Callaghan.",
+  "sourceDescriptionHtml": "<p>TECNOLOGÍA ADAPTACTION:  Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) </p>\n<p>PRODUCTO DE PIEL:  Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. </p>\n<p>CREMA DE LIMPIEZA:  Para su limpieza se recomienda la crema natural de Callaghan. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "705",
+    "783",
+    "684",
+    "850",
+    "879"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 59.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:22",
+  "sourceUpdatedAt": "2026-10-27 11:09:57",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "282",
+          "label": "29"
+        },
+        {
+          "id": "283",
+          "label": "30"
+        },
+        {
+          "id": "284",
+          "label": "31"
+        },
+        {
+          "id": "291",
+          "label": "38"
+        },
+        {
+          "id": "292",
+          "label": "39"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65457",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "291",
+          "group": "Tamaño",
+          "value": "38"
+        }
+      ],
+      "sku": "1807050",
+      "productSku": "1807050",
+      "taxRate": 21,
+      "price": 59.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:28.648Z"
+    },
+    {
+      "id": "84851",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "282",
+          "group": "Tamaño",
+          "value": "29"
+        }
+      ],
+      "sku": "1807050",
+      "productSku": "1807050",
+      "taxRate": 21,
+      "price": 55.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:31.022Z"
+    },
+    {
+      "id": "94318",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "283",
+          "group": "Tamaño",
+          "value": "30"
+        }
+      ],
+      "sku": "1807050",
+      "productSku": "1807050",
+      "taxRate": 21,
+      "price": 55.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:33.804Z"
+    },
+    {
+      "id": "84853",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "284",
+          "group": "Tamaño",
+          "value": "31"
+        }
+      ],
+      "sku": "1807050",
+      "productSku": "1807050",
+      "taxRate": 21,
+      "price": 57.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:36.861Z"
+    },
+    {
+      "id": "65458",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "292",
+          "group": "Tamaño",
+          "value": "39"
+        }
+      ],
+      "sku": "1807050",
+      "productSku": "1807050",
+      "taxRate": 21,
+      "price": 59.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:38.945Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7261-15621.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15621-large_default/merceditas-nina-piel-velcro-29-al-39-azul-marino.jpg",
+      "alt": "Merceditas niña piel velcro 29 al 39 Azul Marino",
+      "sourceId": "15621",
+      "variantIds": [],
+      "sha256": "88c6afccd87aae5761fb3b6eceb2cdf729980314d121d21a8c5fb5779b24cdd0"
+    },
+    {
+      "path": "assets/7261-15622.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15622-large_default/merceditas-nina-piel-velcro-29-al-39-azul-marino.jpg",
+      "alt": "Merceditas niña piel velcro 29 al 39 Azul Marino",
+      "sourceId": "15622",
+      "variantIds": [],
+      "sha256": "0408d208feea59d2639a5449769647998bc67b30709745e6d987f1654a3d82ff"
+    },
+    {
+      "path": "assets/7261-15623.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15623-large_default/merceditas-nina-piel-velcro-29-al-39-azul-marino.jpg",
+      "alt": "Merceditas niña piel velcro 29 al 39 Azul Marino",
+      "sourceId": "15623",
+      "variantIds": [],
+      "sha256": "9171ab58f45c925c1f1459212d4dec91639e57ba71bff5ba6602ec12ebe46e6d"
+    },
+    {
+      "path": "assets/7261-15624.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15624-large_default/merceditas-nina-piel-velcro-29-al-39-azul-marino.jpg",
+      "alt": "Merceditas niña piel velcro 29 al 39 Azul Marino",
+      "sourceId": "15624",
+      "variantIds": [],
+      "sha256": "d6e107595ed4223d5119730340e71265eac8804314d8dbfe8d539d35cdfc7ca3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:39.178Z",
+  "issues": []
+}

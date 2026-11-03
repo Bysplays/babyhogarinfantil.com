@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16419",
+  "sourceUrl": "https://babyhogarinfantil.com/patucos/16419-patucos-pompom-azafata.html",
+  "name": "Patucos pompom Azafata",
+  "brand": "Mac Ilusión",
+  "sku": "2307009",
+  "description": "Patucos de punto con pompom de pelo. HECHOS EN ESPAÑA",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azafata",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "779"
+  ],
+  "sourceDefaultCategoryId": "779",
+  "sourceCategoryName": "Patucos",
+  "price": 11.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-07-11 15:52:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87631",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11361XA17491",
+      "productSku": "2307009",
+      "taxRate": 21,
+      "price": 11.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:46.868Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16419-14234.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14234-large_default/patucos-pompom-azafata.jpg",
+      "alt": "Patucos pompom Azafata",
+      "sourceId": "14234",
+      "variantIds": [],
+      "sha256": "400d71a4fc12bdfb6546eb441eb18ce82fc55c8755143707ebfdfe2558c94826"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:47.003Z",
+  "issues": []
+}

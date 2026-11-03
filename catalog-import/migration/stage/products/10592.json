@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10592",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10592-conjunto-cuadros-con-tirantes-verde.html",
+  "name": "Conjunto cuadros con tirantes Verde",
+  "brand": "Baby-Ferr",
+  "sku": "2301308",
+  "description": "Conjunto de dos piezas, compuesto por camisa blanca de manga corta y ranita con tirantes estampada con cuadros verde empolvado. Disponible jesusito y vestido a juego",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 31.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-22 16:19:32",
+  "sourceUpdatedAt": "2026-10-27 11:12:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72320",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2301308",
+      "productSku": "2301308",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:29.892Z"
+    },
+    {
+      "id": "78225",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2301308",
+      "productSku": "2301308",
+      "taxRate": 21,
+      "price": 31.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:31.038Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10592-13708.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13708-large_default/conjunto-cuadros-con-tirantes-verde.jpg",
+      "alt": "Conjunto cuadros con tirantes Verde",
+      "sourceId": "13708",
+      "variantIds": [],
+      "sha256": "9988cbb8e615df05f3ca5746c05ae8b951c8b6b19c31fce8e8e734f9aca45289"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:31.122Z",
+  "issues": []
+}

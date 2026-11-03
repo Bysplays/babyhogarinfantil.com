@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "20434",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/20434-jesusito-bebe-simun-manga-larga-verde.html",
+  "name": "Jesusito bebé Simún manga larga Verde",
+  "brand": "Calamaro",
+  "sku": "2502018",
+  "description": "Jesusito con ranita. Estampodao del bosque y ranita y volantes de cuadros. Disponible con el conjunto de niño para combinar a los dos. (se venden por separado)\n\nBusca aquí los leotardos que mejor te combinen Leotardos Invierno\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nVestido: 100% algodón.\n\nRanita: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Vestido: 100% algodón.</p>\n<p>Ranita: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 34.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94636",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502018",
+      "productSku": "2502018",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:11.933Z"
+    },
+    {
+      "id": "94637",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502018",
+      "productSku": "2502018",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:14.564Z"
+    },
+    {
+      "id": "94638",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502018",
+      "productSku": "2502018",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:16.518Z"
+    },
+    {
+      "id": "94639",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502018",
+      "productSku": "2502018",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:18.519Z"
+    },
+    {
+      "id": "94641",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2502018",
+      "productSku": "2502018",
+      "taxRate": 21,
+      "price": 34.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:21.023Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20434-19654.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19654-large_default/jesusito-bebe-simun-manga-larga-verde.jpg",
+      "alt": "Jesusito bebé Simún manga larga Verde",
+      "sourceId": "19654",
+      "variantIds": [],
+      "sha256": "21a5476a919619bc450dcd355ff11ebb8775a2244cc1231765ff92f1a97546c9"
+    },
+    {
+      "path": "assets/20434-19655.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19655-large_default/jesusito-bebe-simun-manga-larga-verde.jpg",
+      "alt": "Jesusito bebé Simún manga larga Verde",
+      "sourceId": "19655",
+      "variantIds": [],
+      "sha256": "6277609c6ea5580f1ca46369803074a5322576649112816a8f5e62bcc199e05e"
+    },
+    {
+      "path": "assets/20434-19656.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19656-large_default/jesusito-bebe-simun-manga-larga-verde.jpg",
+      "alt": "Jesusito bebé Simún manga larga Verde",
+      "sourceId": "19656",
+      "variantIds": [],
+      "sha256": "0655616254b2723aede59cb8b97489193677d47dfa0dc3c6668793a51f0fb700"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:21.262Z",
+  "issues": []
+}

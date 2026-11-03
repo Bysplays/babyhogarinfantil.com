@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "21603",
+  "sourceUrl": "https://babyhogarinfantil.com/chandals-nino/21603-chandal-3-piezas-nino-gris.html",
+  "name": "Chandal 3 piezas niño Gris",
+  "brand": "Babybol",
+  "sku": "2502215",
+  "description": "Conjunto chandal 3 piezas. Incluye camiseta manga larga. Chaqueta con capucha y cremallera, tiene bolsillos funcionales, con felpa interior. Pantalón con cintura todo de goma y cordón ajustable, bolsillo funcionales, con felpa interior.",
+  "details": "Composición:\n\nPantalón:  88% algodón 12% poliéster.\n\nChaqueta: 98% algodón, 2% poliéster.\n\nCamiseta:  100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Pantalón: </strong> 88% algodón 12% poliéster.</p>\n<p><strong>Chaqueta: </strong>98% algodón, 2% poliéster.</p>\n<p><strong>Camiseta: </strong> 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "798"
+  ],
+  "sourceDefaultCategoryId": "798",
+  "sourceCategoryName": "Chandals niño",
+  "price": 40,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-20 15:54:16",
+  "sourceUpdatedAt": "2026-10-27 11:14:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97625",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502215",
+      "productSku": "2502215",
+      "taxRate": 21,
+      "price": 40,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:03.880Z"
+    },
+    {
+      "id": "97626",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502215",
+      "productSku": "2502215",
+      "taxRate": 21,
+      "price": 40,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:05.058Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21603-20177.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20177-large_default/chandal-3-piezas-nino-gris.jpg",
+      "alt": "Chandal 3 piezas niño Gris",
+      "sourceId": "20177",
+      "variantIds": [],
+      "sha256": "c766402b6aa3cd4556fc176263ebb22c93eb73ebb4ee5ef108ba81e84bfbde1a"
+    },
+    {
+      "path": "assets/21603-20178.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20178-large_default/chandal-3-piezas-nino-gris.jpg",
+      "alt": "Chandal 3 piezas niño Gris",
+      "sourceId": "20178",
+      "variantIds": [],
+      "sha256": "6604408c74fefffaedda04d1b4ab12d5bbb19304d69d05687572bb9fee128890"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:05.218Z",
+  "issues": []
+}

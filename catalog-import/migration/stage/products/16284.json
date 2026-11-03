@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16284",
+  "sourceUrl": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/16284-protector-colchon-minicuna-impermeable-blanco.html",
+  "name": "Protector colchon minicuna impermeable Blanco",
+  "brand": "Zorba",
+  "sku": "2109082",
+  "description": "Protector ajustable liso para colchón de mini cuna 40 x 80 cm.",
+  "details": "Protector liso con superficie en algodón.",
+  "sourceDescriptionHtml": "<p>Protector liso con superficie en algodón. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "770"
+  ],
+  "sourceDefaultCategoryId": "770",
+  "sourceCategoryName": "Sabanas cuna minicuna y maxicuna",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-10 16:10:34",
+  "sourceUpdatedAt": "2026-10-27 11:11:19",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147316",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9528XA14987",
+      "productSku": "2109082",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:57.953Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16284-14135.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14135-large_default/protector-colchon-minicuna-impermeable-blanco.jpg",
+      "alt": "Protector colchon minicuna impermeable Blanco",
+      "sourceId": "14135",
+      "variantIds": [],
+      "sha256": "c24e07f7752e0a5da343560c5d9d4064e5ed2084c805469bd836e67c96cc6e10"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:58.028Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8329",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8329-lazo-mediano-con-pinza-gris.html",
+  "name": "Lazo mediano con pinza Gris",
+  "brand": "Siena",
+  "sku": "2007019",
+  "description": "Lazo de 8 x 5,5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox.\n\nHECHO A MANO.\n\nHECHO EN ESPAÑA.",
+  "details": "Encanto Sofisticado: Nuestro \\'Lazo Mediano con Pinza Gris\\' exuda una elegancia sencilla. Creado con la idea de aportar un toque de distinción a cualquier atuendo, este lazo de tamaño medio mejorará la apariencia cotidiana con un entramado de sutileza y estilo. Incorporarlo en el peinado lleva el juego de la moda a otro nivel. \n\nUn Toque de Elegancia: Este complemento, a pesar de su simplicidad, tiene la potencia para hacer un statement de estilo sin esfuerzo. El gris es un color en tendencia que realmente genera un impacto. Este Lazo Gris proporciona una dosis de encanto understated pero clásico, perfecto para pequeños eventos formales o para una sofisticación diaria. \n\nCalidad Que Resalta: A diferencia de los lazos comunes, el \\'Lazo Mediano con Pinza Gris\\' se ha fabricado a mano con materiales de alta calidad. La pinza garantiza un ajuste firme, lo que significa que la colocación será segura y duradera. Así, permite a los pequeños y a los no tan pequeños moverse libremente sin preocuparse por su peinado.\n\nEs hora de hacer una elección inteligente. Aporta a tu pequeño/a ese toque de elegancia añadiendo este \\'Lazo Mediano con Pinza Gris\\' a tu carrito de compras. ¡Házte con él ahora!",
+  "sourceDescriptionHtml": "<p><strong>Encanto Sofisticado</strong>: Nuestro \\'Lazo Mediano con Pinza Gris\\' exuda una elegancia sencilla. Creado con la idea de aportar un toque de distinción a cualquier atuendo, este lazo de tamaño medio mejorará la apariencia cotidiana con un entramado de sutileza y estilo. Incorporarlo en el peinado lleva el juego de la moda a otro nivel. </p>\n<p><strong>Un Toque de Elegancia</strong>: Este complemento, a pesar de su simplicidad, tiene la potencia para hacer un statement de estilo sin esfuerzo. El gris es un color en tendencia que realmente genera un impacto. Este Lazo Gris proporciona una dosis de encanto understated pero clásico, perfecto para pequeños eventos formales o para una sofisticación diaria. </p>\n<p><strong>Calidad Que Resalta</strong>: A diferencia de los lazos comunes, el \\'Lazo Mediano con Pinza Gris\\' se ha fabricado a mano con materiales de alta calidad. La pinza garantiza un ajuste firme, lo que significa que la colocación será segura y duradera. Así, permite a los pequeños y a los no tan pequeños moverse libremente sin preocuparse por su peinado.</p>\n<p>Es hora de hacer una elección inteligente. Aporta a tu pequeño/a ese toque de elegancia añadiendo este \\'Lazo Mediano con Pinza Gris\\' a tu carrito de compras. ¡Házte con él ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84929",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8051XA12988",
+      "productSku": "2007019",
+      "taxRate": 21,
+      "price": 2.9,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:55.822Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8329-6628.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6628-large_default/lazo-mediano-con-pinza-gris.jpg",
+      "alt": "Lazo mediano con pinza Gris",
+      "sourceId": "6628",
+      "variantIds": [],
+      "sha256": "dd0b85d20966964385271d3a0ca6dddfdaa7d1c8f7c8497b295960110bac5e1b"
+    },
+    {
+      "path": "assets/8329-6629.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6629-large_default/lazo-mediano-con-pinza-gris.jpg",
+      "alt": "Lazo mediano con pinza Gris",
+      "sourceId": "6629",
+      "variantIds": [],
+      "sha256": "d9fbb05d0a9d23a904dc0481f7940e3637e767b445c7a73a3d11d53283733cb7"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:55.948Z",
+  "issues": []
+}

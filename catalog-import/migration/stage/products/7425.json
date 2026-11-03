@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7425",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nino/7425-jersey-cuadrados-azul.html",
+  "name": "Jersey cuadrados Azul",
+  "brand": "DR.Kid",
+  "sku": "1809083",
+  "description": "Presentamos el fabuloso \\'Jersey cuadrados Azul\\' para los pequeños modernos. Esta prenda de vestir trae un toque de dulzura y comodidad a cualquier conjunto. Su suave material garantiza la comodidad de su pequeño durante todo el día. El vibrante azul se complementa con un diseño de cuadros percibido como la moda infantil atemporal y elegante. ¡No solo mantendrá a su pequeño abrigado, sino que añadirá estilo a su guardarropa! Los días fríos ya no serán una preocupación con este abrigo tierno y chic. ¡Compre ahora!",
+  "details": "Cómodo y Estiloso\n\n Este Jersey Cuadrados Azul, hecho de tejido suave al tacto, brinda la máxima comodidad y ajuste perfecto para tu pequeño. Con su divertido diseño de cuadrados y vibrante color azul, añadirá un toque de encanto a cualquier atuendo del día.\n\n\nCalidad Premium\n\n El Jersey Cuadrados Azul se ha elaborado con materiales de alta calidad, asegurando durabilidad y resistencia al lavado. La atención a los detalles y la mano de obra experta garantizan un jersey que mantendrá su forma y color incluso después de muchos usos.\n\n\nRegalo Perfecto\n\n Ya sea para un regalo de cumpleaños o simplemente como una prenda especial para el guardarropa de tu pequeño, este Jersey Cuadrados Azul es un regalo encantador que seguramente será apreciado. Su estilo único y alegre hace que sea un regalo verdaderamente memorable.\n\n\n¡Haz que tu pequeño se destaque con el Jersey Cuadrados Azul! Añádelo a tu cesta de la compra ahora mismo y da un paso hacia un estilo infantil más elegante y cómodo.",
+  "sourceDescriptionHtml": "<h2>Cómodo y Estiloso</h2>\n <p>Este Jersey Cuadrados Azul, hecho de tejido suave al tacto, brinda la máxima comodidad y ajuste perfecto para tu pequeño. Con su divertido diseño de cuadrados y vibrante color azul, añadirá un toque de encanto a cualquier atuendo del día.</p>\n\n<h2>Calidad Premium</h2>\n <p>El Jersey Cuadrados Azul se ha elaborado con materiales de alta calidad, asegurando durabilidad y resistencia al lavado. La atención a los detalles y la mano de obra experta garantizan un jersey que mantendrá su forma y color incluso después de muchos usos.</p>\n\n<h2>Regalo Perfecto</h2>\n <p>Ya sea para un regalo de cumpleaños o simplemente como una prenda especial para el guardarropa de tu pequeño, este Jersey Cuadrados Azul es un regalo encantador que seguramente será apreciado. Su estilo único y alegre hace que sea un regalo verdaderamente memorable.</p>\n\n<p>¡Haz que tu pequeño se destaque con el Jersey Cuadrados Azul! Añádelo a tu cesta de la compra ahora mismo y da un paso hacia un estilo infantil más elegante y cómodo.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "741"
+  ],
+  "sourceDefaultCategoryId": "741",
+  "sourceCategoryName": "Sudaderas y jerseys bebé niño",
+  "price": 24.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:24",
+  "sourceUpdatedAt": "2026-10-27 11:10:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65748",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1809083",
+      "productSku": "1809083",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:48.727Z"
+    },
+    {
+      "id": "65749",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1809083",
+      "productSku": "1809083",
+      "taxRate": 21,
+      "price": 24.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:50.146Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7425-10282.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10282-large_default/jersey-cuadrados-azul.jpg",
+      "alt": "Jersey cuadrados Azul",
+      "sourceId": "10282",
+      "variantIds": [],
+      "sha256": "7073def814f0defb2b07d99bf0986707c4f18ec001f159982df6fa55148aed19"
+    },
+    {
+      "path": "assets/7425-10281.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10281-large_default/jersey-cuadrados-azul.jpg",
+      "alt": "Jersey cuadrados Azul",
+      "sourceId": "10281",
+      "variantIds": [],
+      "sha256": "925f4d640fe4b4dff3f87f0417a0108e18ececf57fb02cdfce27b8c1d476b88b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:50.263Z",
+  "issues": []
+}

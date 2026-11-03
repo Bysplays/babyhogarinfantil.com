@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9075",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9075-conjunto-poliana-agodon-perrito-gris.html",
+  "name": "Conjunto poliana agodón Perrito Gris",
+  "brand": "Calamaro",
+  "sku": "2108039",
+  "description": "Conjunto de dos piezas 100% ALGODÓN, compuesto por camiseta de manga larga con corchetes en toda la espalda, en color crudo con perrito bordado en el pecho y puños de cuadros, y polaina gris con goma en la cintura.",
+  "details": "Conjunto de dos piezas de CALAMARO, una de nuestras firmas más dulces! 100% ALGODÓN y fabricado en ESPAÑA. Compuesto por dos piezas, camiseta de manga larga y cuello redondo, con corchetes en toda la espalda para facilitar la puesta. En color crudo, con perrete bordado en el pecho y puños de cuadros grises y azules. Como parte de abajo, polaina con pie gris oscura, con goma en la cintura. Un conjunto dulce, cómodo, de tacto suave y respetuoso con la piel. Echa un ojito a nuestros bodies interiores, muselinas y mantas y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nConjunto: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas de<strong> CALAMARO</strong>, una de nuestras firmas más dulces!<strong> 100% ALGODÓN</strong> y fabricado en<strong> ESPAÑA</strong>. Compuesto por dos piezas, camiseta de manga larga y cuello redondo, con corchetes en toda la espalda para facilitar la puesta. En color crudo, con perrete bordado en el pecho y puños de cuadros grises y azules. Como parte de abajo, polaina con pie gris oscura, con goma en la cintura. Un conjunto dulce, cómodo, de tacto suave y respetuoso con la piel. Echa un ojito a nuestros <strong>bodies interiores, muselinas y mantas</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Conjunto: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 19.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:45",
+  "sourceUpdatedAt": "2026-10-27 11:11:14",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68466",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2108039",
+      "productSku": "2108039",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:28.943Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9075-7371.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7371-large_default/conjunto-poliana-agodon-perrito-gris.jpg",
+      "alt": "Conjunto poliana agodón Perrito Gris",
+      "sourceId": "7371",
+      "variantIds": [],
+      "sha256": "ca176553642b7a9f71fe3d65b02f81845995a33b39f539852581a4527f9cf724"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:29.014Z",
+  "issues": []
+}

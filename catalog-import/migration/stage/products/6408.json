@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "id": "6408",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-deportivos/6408-calcetin-deportivo-rizo-blanco.html",
+  "name": "Calcetín deportivo rizo Blanco",
+  "brand": "Condor",
+  "sku": "1521528",
+  "description": "Calcetines deportivos BLANCO liso de la firma CONDOR , algodón con puño en canalé. Con rizo interior en la suela. Especial colegios.",
+  "details": "Composición:\n\nCalcetín: 80% algodón, 18% poliamida, 2% elastano.\n\nNO USAR SECADORA\n\nNO USAR LEJIAS QUE LA LIAS.\n\nNO PLANCHAR\n\nLAVAR A 30º RECOMENDADO\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Calcetín: 80% algodón, 18% poliamida, 2% elastano.</p>\n<p>NO USAR SECADORA</p>\n<p>NO USAR LEJIAS QUE LA LIAS.</p>\n<p>NO PLANCHAR</p>\n<p>LAVAR A 30º RECOMENDADO</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "694",
+    "840",
+    "705",
+    "759",
+    "783",
+    "707",
+    "684",
+    "844",
+    "850",
+    "888",
+    "868",
+    "878",
+    "871",
+    "879",
+    "890",
+    "893",
+    "894",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "694",
+  "sourceCategoryName": "Calcetines deportivos",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 96,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "130132",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1521528",
+      "productSku": "1521528",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 12,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:08.367Z"
+    },
+    {
+      "id": "97530",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1521528",
+      "productSku": "1521528",
+      "taxRate": 21,
+      "price": 6.25,
+      "oldPrice": null,
+      "quantity": 32,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:12.337Z"
+    },
+    {
+      "id": "93180",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1521528",
+      "productSku": "1521528",
+      "taxRate": 21,
+      "price": 6.25,
+      "oldPrice": null,
+      "quantity": 35,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:15.322Z"
+    },
+    {
+      "id": "63495",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1521528",
+      "productSku": "1521528",
+      "taxRate": 21,
+      "price": 6.25,
+      "oldPrice": null,
+      "quantity": 14,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:19.739Z"
+    },
+    {
+      "id": "63496",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1521528",
+      "productSku": "1521528",
+      "taxRate": 21,
+      "price": 6.25,
+      "oldPrice": null,
+      "quantity": 14,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:22.985Z"
+    },
+    {
+      "id": "63497",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "1521528",
+      "productSku": "1521528",
+      "taxRate": 21,
+      "price": 6.25,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:25.495Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6408-15597.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15597-large_default/calcetin-deportivo-rizo-blanco.jpg",
+      "alt": "Calcetín deportivo rizo Blanco",
+      "sourceId": "15597",
+      "variantIds": [],
+      "sha256": "62968d446836fb10b98cfe961e260650a5da447b6783926692532d02c6c1ede6"
+    },
+    {
+      "path": "assets/6408-18505.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18505-large_default/calcetin-deportivo-rizo-blanco.jpg",
+      "alt": "Calcetín deportivo rizo Blanco",
+      "sourceId": "18505",
+      "variantIds": [],
+      "sha256": "837383465075b3d853fa0aead447ddff7e5a60966444e17bb0d229239153747f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:25.613Z",
+  "issues": []
+}

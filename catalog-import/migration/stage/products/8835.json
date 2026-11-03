@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "8835",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/8835-pantalon-corto-naranja-naranja.html",
+  "name": "Pantalón corto naranja Naranja",
+  "brand": "Newness",
+  "sku": "2104114",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Naranja",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 6.48,
+  "oldPrice": 12.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:42",
+  "sourceUpdatedAt": "2026-10-27 11:11:03",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68064",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2104114",
+      "productSku": "2104114",
+      "taxRate": 21,
+      "price": 6.48,
+      "oldPrice": 12.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:08.806Z"
+    },
+    {
+      "id": "68065",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2104114",
+      "productSku": "2104114",
+      "taxRate": 21,
+      "price": 6.48,
+      "oldPrice": 12.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:11.375Z"
+    },
+    {
+      "id": "68066",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2104114",
+      "productSku": "2104114",
+      "taxRate": 21,
+      "price": 6.48,
+      "oldPrice": 12.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:14.209Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8835-11594.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11594-large_default/pantalon-corto-naranja-naranja.jpg",
+      "alt": "Pantalón corto naranja Naranja",
+      "sourceId": "11594",
+      "variantIds": [],
+      "sha256": "ef9cd8ea0fe3b80060e22e73cad7b8a192f9d637a43f508da3f2d7666c6069fb"
+    },
+    {
+      "path": "assets/8835-9021.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9021-large_default/pantalon-corto-naranja-naranja.jpg",
+      "alt": "Pantalón corto naranja Naranja",
+      "sourceId": "9021",
+      "variantIds": [],
+      "sha256": "db79d3e16d045f75a9e33fc9d9edb69c8dd2d3d581e8cb3953eab4bc1148afd3"
+    },
+    {
+      "path": "assets/8835-9022.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9022-large_default/pantalon-corto-naranja-naranja.jpg",
+      "alt": "Pantalón corto naranja Naranja",
+      "sourceId": "9022",
+      "variantIds": [],
+      "sha256": "c506fa98c034dc22c77c54c807ab1e12f5f21713516823a8f8fc304ad6b0cdc5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:14.371Z",
+  "issues": []
+}

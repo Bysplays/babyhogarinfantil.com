@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "21455",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/21455-impermeable-ligero-fantasia-nina-rosa.html",
+  "name": "Impermeable ligero fantasia niña Rosa",
+  "brand": "Chicco",
+  "sku": "2502096",
+  "description": "Chubasquero impermeable con capucha para niña, colorido, combina con casi todo. Es muy ligero pero a la vez abriga.",
+  "details": "Composición:\n\nInterior: 100% poliéster.\n\nExterior: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Interior: 100% poliéster.</p>\n<p>Exterior: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96587",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502096",
+      "productSku": "2502096",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:07.010Z"
+    },
+    {
+      "id": "96588",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502096",
+      "productSku": "2502096",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:09.742Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21455-19960.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19960-large_default/impermeable-ligero-fantasia-nina-rosa.jpg",
+      "alt": "Impermeable ligero fantasia niña Rosa",
+      "sourceId": "19960",
+      "variantIds": [],
+      "sha256": "e7d098a701c398436313c88b005b179a3f1027e459a0425b14409892e2654160"
+    },
+    {
+      "path": "assets/21455-19961.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19961-large_default/impermeable-ligero-fantasia-nina-rosa.jpg",
+      "alt": "Impermeable-ligero-fantasia-nina-Rosa-chicco",
+      "sourceId": "19961",
+      "variantIds": [],
+      "sha256": "bf6fd646346f830c2dfac4e97d2a25c9ccaaf204163df1e7dc9ea9bcec29f6f7"
+    },
+    {
+      "path": "assets/21455-19962.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19962-large_default/impermeable-ligero-fantasia-nina-rosa.jpg",
+      "alt": "Impermeable ligero fantasia niña Rosa",
+      "sourceId": "19962",
+      "variantIds": [],
+      "sha256": "e57d3ab64d035ab2375144e60c275f2b7ae5b5c1c0fae817917e5360d2d7f965"
+    },
+    {
+      "path": "assets/21455-19963.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19963-large_default/impermeable-ligero-fantasia-nina-rosa.jpg",
+      "alt": "Impermeable ligero fantasia niña Rosa",
+      "sourceId": "19963",
+      "variantIds": [],
+      "sha256": "9e91e6ccdf480f9ac0c6a1a9a0d4d8e94816aa78c7023f646b0936f6ce0321d9"
+    },
+    {
+      "path": "assets/21455-19964.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19964-large_default/impermeable-ligero-fantasia-nina-rosa.jpg",
+      "alt": "Impermeable ligero fantasia niña Rosa",
+      "sourceId": "19964",
+      "variantIds": [],
+      "sha256": "33d608f46e4985f7b8df5a495735bb5dcb2eca479e925e497e69e5a776e33f34"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:10.038Z",
+  "issues": []
+}

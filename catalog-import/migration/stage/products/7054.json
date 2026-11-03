@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "7054",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/7054-camiseta-bebe-nina-mia-mamma-rojo.html",
+  "name": "Camiseta bebé niña Mia mamma Rojo",
+  "brand": "IDO",
+  "sku": "1712010",
+  "description": "Camiseta roja de manga larga. 100% ALGODON. Se abre por la espalda con corchetes para facilitar la puesta.",
+  "details": "De la firma Italida IDO.\n\nComposisicón:\n\nCamiseta niña: 100% Algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>De la firma Italida IDO.</p>\n<p>Composisicón:</p>\n<p>Camiseta niña: 100% Algodón.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 12.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:19",
+  "sourceUpdatedAt": "2026-10-27 11:09:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64929",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1712010",
+      "productSku": "1712010",
+      "taxRate": 21,
+      "price": 12.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:21.232Z"
+    },
+    {
+      "id": "64930",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1712010",
+      "productSku": "1712010",
+      "taxRate": 21,
+      "price": 12.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:22.846Z"
+    },
+    {
+      "id": "64931",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1712010",
+      "productSku": "1712010",
+      "taxRate": 21,
+      "price": 12.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:24.839Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7054-9908.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9908-large_default/camiseta-bebe-nina-mia-mamma-rojo.jpg",
+      "alt": "Camiseta bebé niña Mia mamma Rojo",
+      "sourceId": "9908",
+      "variantIds": [],
+      "sha256": "4b3c081fd0bdd9bb436a8341235e428959e98518fdf6d4e633b9791e0cef87be"
+    },
+    {
+      "path": "assets/7054-9907.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9907-large_default/camiseta-bebe-nina-mia-mamma-rojo.jpg",
+      "alt": "Camiseta bebé niña Mia mamma Rojo",
+      "sourceId": "9907",
+      "variantIds": [],
+      "sha256": "9bf48dbb99865a4d9398d73167b415fd7b06d0145eb3cdcd8d934b34588d94cb"
+    },
+    {
+      "path": "assets/7054-4946.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4946-large_default/camiseta-bebe-nina-mia-mamma-rojo.jpg",
+      "alt": "Camiseta bebé niña Mia mamma Rojo",
+      "sourceId": "4946",
+      "variantIds": [],
+      "sha256": "d7fcd5bcb805ce3dd79419025a51c9bdd1b2519e7598e1fbbeb5ad7cec156fea"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:25.076Z",
+  "issues": []
+}

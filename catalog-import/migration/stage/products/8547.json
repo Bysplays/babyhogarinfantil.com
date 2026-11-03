@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8547",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/8547-bata-corel-nino-the-best-varios.html",
+  "name": "Bata corel niño THE BEST Varios",
+  "brand": "Tobogan",
+  "sku": "2011028",
+  "description": "Bata Corel Niño THE BEST Varios: ¡El Regalo Perfecto para los Pequeños!\n\n¡Eleva el estilo del invierno de tus hijos con la Bata Corel Niño THE BEST en varios colores! Hecho para mantenerlos cálidos y adorables, esta bata se convertirá en su favorito de la temporada. Los detalles de calidad hacen que sea suave al tacto, con suficiente resistencia para el día a día. Imagina su risa y felicidad al abrir este regalo perfecto. ¡No puedes permitirte perder esta increíble oferta! ¡Haz tu compra hoy y trae una sonrisa al rostro de tu pequeño!",
+  "details": "Calidad y Estilo en un solo lugar\n\n La marca Bata presenta un diseño perfecto para los más pequeños, los Corel Niño Varios. Sus delicadas costuras y resistente material dan un balance perfecto entre durabilidad y comodidad. Estos zapatos son ideales para niños activos y enérgicos, gracias a su diseño vibrante y a la vez moderno.\n\n\n \n Seguridad en cada Paso\n\n Cada par de zapatos Bata Corel Niño asegura el soporte y protección necesarios. El agarre del suelo es excepcional por la suela de goma antideslizante, asegurándose de que tu pequeño esté seguro mientras disfruta de sus juegos. En otras palabras, seguridad y libertad de movimiento son combinadas de manera excelente en este calzado.\n\n\n \n Perfectos para Cualquier Ocasión\n\n Los Bata Corel Niño son versátiles, perfectos para cualquier ocasión, ya sea para jugar en el parque o para asistir a un evento especial. Descubre cómo estos zapatos pueden transformar cualquier outfit de niño en un conjunto de moda. Su estilo permite que se adapten con cualquier ropa infantil, añadiendo siempre un toque chic y casual.\n\n\n \n ¡No esperes más!\n\n No dejes que tu pequeño se pierda de la comodidad y estilo que los zapatos Bata Corel Niño le pueden ofrecer. Son la inversión perfecta para su crecimiento y desarrollo. ¡Haz que su infancia sea memorable con el calzado que realmente merece! ¡Haz clic en \\'Agregar al Carrito\\' ya!",
+  "sourceDescriptionHtml": "<!-- Section One -->\n <h2>Calidad y Estilo en un solo lugar</h2>\n <p>La marca Bata presenta un diseño perfecto para los más pequeños, los Corel Niño Varios. Sus delicadas costuras y resistente material dan un balance perfecto entre durabilidad y comodidad. Estos zapatos son ideales para niños activos y enérgicos, gracias a su diseño vibrante y a la vez moderno.</p>\n\n <!-- Section Two -->\n <h2>Seguridad en cada Paso</h2>\n <p>Cada par de zapatos Bata Corel Niño asegura el soporte y protección necesarios. El agarre del suelo es excepcional por la suela de goma antideslizante, asegurándose de que tu pequeño esté seguro mientras disfruta de sus juegos. En otras palabras, seguridad y libertad de movimiento son combinadas de manera excelente en este calzado.</p>\n\n <!-- Section Three -->\n <h2>Perfectos para Cualquier Ocasión</h2>\n <p>Los Bata Corel Niño son versátiles, perfectos para cualquier ocasión, ya sea para jugar en el parque o para asistir a un evento especial. Descubre cómo estos zapatos pueden transformar cualquier outfit de niño en un conjunto de moda. Su estilo permite que se adapten con cualquier ropa infantil, añadiendo siempre un toque chic y casual.</p>\n\n <!-- Call to Action -->\n <h2>¡No esperes más!</h2>\n <p>No dejes que tu pequeño se pierda de la comodidad y estilo que los zapatos Bata Corel Niño le pueden ofrecer. Son la inversión perfecta para su crecimiento y desarrollo. ¡Haz que su infancia sea memorable con el calzado que realmente merece! ¡Haz clic en \\'Agregar al Carrito\\' ya!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 19.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:38",
+  "sourceUpdatedAt": "2026-10-27 11:10:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67588",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2011028",
+      "productSku": "2011028",
+      "taxRate": 21,
+      "price": 19.9,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:14.432Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8547-6871.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6871-large_default/bata-corel-nino-the-best-varios.jpg",
+      "alt": "Bata corel niño THE BEST Varios",
+      "sourceId": "6871",
+      "variantIds": [],
+      "sha256": "5638386bb64b1de1ed877903269e0a0fc32d13409c44cd7db5829abcde660fff"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:14.478Z",
+  "issues": []
+}

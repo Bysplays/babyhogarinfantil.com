@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "21562",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21562-conjunto-nino-3-piezas-rojo.html",
+  "name": "Conjunto niño 3 piezas Rojo",
+  "brand": "Baby-Ferr",
+  "sku": "2502182",
+  "description": "Conjunto de 3 piezas compuesto de pantalóncito, jersey y camisa. Pantalón con cintura toda de goma y forrado en el interior. El jersey de punto, tiene 3 botones en el\n\ncuello para facilitar la puesta. La camisa es blanca, con cuello bebé y se abre completamente por la espalda con botones, es un básico al que le puedes sacar mucho\n\nprobecho. \n\nBusca aquí los leotardos que mejor te combinen Leotardos Invierno\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nPantalón: 45% poliéster, 40% algodón, 15% viscosa.\n\nJersey:  100% acrílico.\n\nCamisa: 67% poliéster, 33% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Pantalón: </strong>45% poliéster, 40% algodón, 15% viscosa.</p>\n<p><strong>Jersey: </strong> 100% acrílico.</p>\n<p><strong>Camisa: </strong>67% poliéster, 33% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 39.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-05 15:53:13",
+  "sourceUpdatedAt": "2026-10-27 11:14:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97224",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502182",
+      "productSku": "2502182",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:55.772Z"
+    },
+    {
+      "id": "97225",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502182",
+      "productSku": "2502182",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:56.547Z"
+    },
+    {
+      "id": "97228",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2502182",
+      "productSku": "2502182",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:57.372Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21562-20120.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20120-large_default/conjunto-nino-3-piezas-rojo.jpg",
+      "alt": "Conjunto niño 3 piezas Rojo",
+      "sourceId": "20120",
+      "variantIds": [],
+      "sha256": "c9bff66ce9dcb0677a5a3c4eed5fe065056f2ffc29d32f465e50727a717b206a"
+    },
+    {
+      "path": "assets/21562-20121.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20121-large_default/conjunto-nino-3-piezas-rojo.jpg",
+      "alt": "Conjunto niño 3 piezas Rojo",
+      "sourceId": "20121",
+      "variantIds": [],
+      "sha256": "52d214b2b59f7f85af817899da823612c8ff019b9b184831d51e08b07a73976a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:51:57.498Z",
+  "issues": []
+}

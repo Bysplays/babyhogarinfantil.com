@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "7589",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nina/7589-pijama-corto-delfin-rosa.html",
+  "name": "Pijama corto Delfin Rosa",
+  "brand": "Babybol",
+  "sku": "1902143",
+  "description": "Pijama corto de Verano. 100% ALGODON.",
+  "details": "Pijama de verano de dos piezas, de niña. Como parte de arriba, camiseta de manga corta, con cuello redondo. Con fondo fucsia y en la parte delantera el dibujo de un simpático caballito de mar en tonos azules y rosas, con detalles en purpurina. Como parte de abajo, un pantalón corto con goma en la cintura. Fondo blanco y estampado con motivos marinos de estrellas de mar en tonos azul marino, fucsia y verde agua. Un pijama corto, fresquito, en algodón, ideal para las noches de verano y para estar cómoda por casa.\n\nComposición y cuidados:\n\nPijama: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nSE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pijama de verano de dos piezas, de niña. Como parte de arriba, camiseta de manga corta, con cuello redondo. Con fondo fucsia y en la parte delantera el dibujo de un simpático caballito de mar en tonos azules y rosas, con detalles en purpurina. Como parte de abajo, un pantalón corto con goma en la cintura. Fondo blanco y estampado con motivos marinos de estrellas de mar en tonos azul marino, fucsia y verde agua. Un pijama corto, fresquito, en algodón, ideal para las noches de verano y para estar cómoda por casa.</p>\n<p>Composición y cuidados:</p>\n<p>Pijama: 100% algodón</p>\n<p><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">SE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776"
+  ],
+  "sourceDefaultCategoryId": "776",
+  "sourceCategoryName": "Pijamas niña",
+  "price": 6.48,
+  "oldPrice": 12.95,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65960",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1902143",
+      "productSku": "1902143",
+      "taxRate": 21,
+      "price": 6.48,
+      "oldPrice": 12.95,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:02.070Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7589-5558.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5558-large_default/pijama-corto-delfin-rosa.jpg",
+      "alt": "Pijama corto Delfin Rosa",
+      "sourceId": "5558",
+      "variantIds": [],
+      "sha256": "5d51ea65f0ebefa1e1772ab585b78ffcc6b8c64fbfef022b32c4e94f50ec5818"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:02.137Z",
+  "issues": []
+}

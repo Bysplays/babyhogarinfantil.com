@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8331",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8331-lazo-mediano-con-pinza-camel.html",
+  "name": "Lazo mediano con pinza Camel",
+  "brand": "Siena",
+  "sku": "2007019",
+  "description": "Lazo de 8 x 5,5 cm. aprox. sobre clip pico-pato de 4,5 cm. aprox. \n\nHECHO A MANO.\n\nHECHO EN ESPAÑA.",
+  "details": "Un Toque de Elegancia\n\nTe presentamos el lazo mediano con pinza Camel, el detalle perfecto para realzar cualquier peinado de tu pequeño. Este complemento, gracias a su tono neutro y versátil, se adapta a cualquier estilo y ocasión. Para un peinado casual, un evento especial o simplemente una tarde de juegos, este lazo es el toque final que proporcionará una apariencia sofisticada y encantadora.\n\n\nCalidad sin Compromisos\n\nFabricado con cuidado y precisión, el lazo mediano con pinza Camel garantiza durabilidad y confort. No importa cuán activo sea tu pequeño, esta pinza mantendrá el lazo en su lugar durante todo el día. Además, posee una suavidad única que evita cualquier molestia o irritación, incluso en los cueros cabelludos más delicados. Una pieza indispensable en el guardarropa de cualquier niño gracias a su resistencia y calidad.\n\n\nPara Cualquier Peinado\n\nCon su diseño ingenioso, el lazo mediano con pinza Camel se puede utilizar de múltiples formas. Puede engancharse en una coleta, adornar una trenza o simplemente sujetar un mechón de pelo. Su tamaño mediano es ideal para cualquier largo de cabello, ofreciendo flexibilidad y adaptabilidad para todas las necesidades. Dale vida y un toque especial a cualquier peinado con este complemento imprescindible.\n\n\n Haz que cada día sea especial con el lazo mediano con pinza Camel. Su versatilidad, calidad y elegancia lo hacen una opción irresistible. ¡No esperes más y añade este lazo maravilloso a tu carrito de compras ahora!",
+  "sourceDescriptionHtml": "<h2>Un Toque de Elegancia</h2>\n<p>Te presentamos el lazo mediano con pinza Camel, el detalle perfecto para realzar cualquier peinado de tu pequeño. Este complemento, gracias a su tono neutro y versátil, se adapta a cualquier estilo y ocasión. Para un peinado casual, un evento especial o simplemente una tarde de juegos, este lazo es el toque final que proporcionará una apariencia sofisticada y encantadora.</p>\n\n<h2>Calidad sin Compromisos</h2>\n<p>Fabricado con cuidado y precisión, el lazo mediano con pinza Camel garantiza durabilidad y confort. No importa cuán activo sea tu pequeño, esta pinza mantendrá el lazo en su lugar durante todo el día. Además, posee una suavidad única que evita cualquier molestia o irritación, incluso en los cueros cabelludos más delicados. Una pieza indispensable en el guardarropa de cualquier niño gracias a su resistencia y calidad.</p>\n\n<h2>Para Cualquier Peinado</h2>\n<p>Con su diseño ingenioso, el lazo mediano con pinza Camel se puede utilizar de múltiples formas. Puede engancharse en una coleta, adornar una trenza o simplemente sujetar un mechón de pelo. Su tamaño mediano es ideal para cualquier largo de cabello, ofreciendo flexibilidad y adaptabilidad para todas las necesidades. Dale vida y un toque especial a cualquier peinado con este complemento imprescindible.</p>\n\n<p> Haz que cada día sea especial con el lazo mediano con pinza Camel. Su versatilidad, calidad y elegancia lo hacen una opción irresistible. <strong>¡No esperes más y añade este lazo maravilloso a tu carrito de compras ahora!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Camel",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146675",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8051XA12990",
+      "productSku": "2007019",
+      "taxRate": 21,
+      "price": 2.9,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:35.933Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8331-6631.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6631-large_default/lazo-mediano-con-pinza-camel.jpg",
+      "alt": "Lazo mediano con pinza Camel",
+      "sourceId": "6631",
+      "variantIds": [],
+      "sha256": "dd0b85d20966964385271d3a0ca6dddfdaa7d1c8f7c8497b295960110bac5e1b"
+    },
+    {
+      "path": "assets/8331-11081.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11081-large_default/lazo-mediano-con-pinza-camel.jpg",
+      "alt": "Lazo mediano con pinza Camel",
+      "sourceId": "11081",
+      "variantIds": [],
+      "sha256": "aa5aba4117abce445b5cd1322ec826e74226616546aa153be5d4401fe23fa897"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:36.048Z",
+  "issues": []
+}

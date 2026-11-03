@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "16233",
+  "sourceUrl": "https://babyhogarinfantil.com/bano-nina/16233-culetin-bano-nina-verde.html",
+  "name": "Culetin baño niña Verde",
+  "brand": "Mayoral",
+  "sku": "2304008",
+  "description": "Braguita de bikini",
+  "details": "Composición y cuidados:\n\nCuletín: 85% poliéster, 15% elastano\n\nLAVAR A MANO\n\nNO USAR LEJÍAS\n\nNO PLANCHAR\n\nNO LAVAR EN SECO",
+  "sourceDescriptionHtml": "<p style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;margin:0px;font-size:16px;font-weight:bold;\"><strong>Composición y cuidados:</strong></p>\n<p style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;margin:0px;font-size:16px;font-weight:bold;\"><strong>Culetín: 85% poliéster, 15% elastano</strong></p>\n<p style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;margin:0px;font-size:16px;font-weight:bold;\"><strong>LAVAR A MANO</strong></p>\n<p style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;margin:0px;font-size:16px;font-weight:bold;\"><strong>NO USAR LEJÍAS</strong></p>\n<p style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;margin:0px;font-size:16px;font-weight:bold;\"><strong>NO PLANCHAR</strong></p>\n<p style=\"color:#6f7072;font-family:Branding, Helvetica, Arial, sans-serif;margin:0px;font-size:16px;font-weight:bold;\"><strong>NO LAVAR EN SECO</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "804"
+  ],
+  "sourceDefaultCategoryId": "804",
+  "sourceCategoryName": "Baño niña",
+  "price": 0,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-26 16:02:49",
+  "sourceUpdatedAt": "2026-10-27 11:12:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [],
+  "variants": [
+    {
+      "id": "72716",
+      "attributes": [],
+      "sku": "2304008",
+      "productSku": "2304008",
+      "taxRate": 21,
+      "price": 0,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:33.025Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16233-13981.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13981-large_default/culetin-bano-nina-verde.jpg",
+      "alt": "Culetin baño niña Verde",
+      "sourceId": "13981",
+      "variantIds": [],
+      "sha256": "29752e4c75ae44a51d19c7e464638e6a508b74752abee81150120a4d3a748fe3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:33.080Z",
+  "issues": []
+}

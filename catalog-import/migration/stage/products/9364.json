@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "9364",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nina/9364-camiseta-bebe-nina-verano-indias-rosa.html",
+  "name": "Camiseta bebe niña verano indias Rosa",
+  "brand": "Zippy",
+  "sku": "2201057",
+  "description": "Camiseta 100% algodón, de manga corta y cuello redondo con cierre trasero en forma de lágrima. Color rosa maquillaje con estampado de chicas indias en el pecho. Volantito de adorno en la cinturilla.",
+  "details": "Camiseta de ZIPPY, una de nuestras firmas preferidas! 100% ALGODÓN, de manga corta y cuello redondo con cierre trasero en forma de lágrima. En color rosa maquillaje con estampado de chicas indias en el pecho. Como detalle, volantito en la cinturilla. Una prenda suelta y fresquita, perfecta para la época de calor! Echa un ojito a nuestros shorts, bodies interiores y calzado y podrás combinarla como más te guste!\n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Camiseta de <strong>ZIPPY</strong>, una de nuestras firmas preferidas! <strong>100% ALGODÓN</strong>, de manga corta y cuello redondo con cierre trasero en forma de lágrima. En color rosa maquillaje con estampado de chicas indias en el pecho. Como detalle, <strong>volantito</strong> en la cinturilla. Una prenda suelta y fresquita, perfecta para la época de calor! Echa un ojito a nuestros <strong>shorts, bodies interiores y calzado</strong> y podrás combinarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "726",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "726",
+  "sourceCategoryName": "Camisetas bebé niña",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69081",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2201057",
+      "productSku": "2201057",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:03.324Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9364-7616.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7616-large_default/camiseta-bebe-nina-verano-indias-rosa.jpg",
+      "alt": "Camiseta bebe niña verano indias Rosa",
+      "sourceId": "7616",
+      "variantIds": [],
+      "sha256": "975af7e447069528edcbf5ef3bfc06a9ed1a0f5dc1886ac42cce8bc679831a12"
+    },
+    {
+      "path": "assets/9364-7617.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7617-large_default/camiseta-bebe-nina-verano-indias-rosa.jpg",
+      "alt": "Camiseta bebe niña verano indias Rosa",
+      "sourceId": "7617",
+      "variantIds": [],
+      "sha256": "9c6748f5b9e9a1277c721caba9ea3b329bae792c7d265c66a5dc0023752be51a"
+    },
+    {
+      "path": "assets/9364-7618.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7618-large_default/camiseta-bebe-nina-verano-indias-rosa.jpg",
+      "alt": "Camiseta bebe niña verano indias Rosa",
+      "sourceId": "7618",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9364-7615.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7615-large_default/camiseta-bebe-nina-verano-indias-rosa.jpg",
+      "alt": "Camiseta bebe niña verano indias Rosa",
+      "sourceId": "7615",
+      "variantIds": [],
+      "sha256": "6df71f3fbbdfbac3a160dc0a35b2cd981e6f4dfad3cf0ad00a864d19db0a5285"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:03.538Z",
+  "issues": []
+}

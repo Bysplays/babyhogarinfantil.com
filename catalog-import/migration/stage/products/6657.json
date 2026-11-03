@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "6657",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/6657-zapato-pepito-bebe-con-hebilla-rojo.html",
+  "name": "Zapato pepito Bebé con hebilla Rojo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1607195",
+  "description": "Zapato pepito de bebé ROJO, piel badana sin suela. El numero 19 puede estar disponible con o sin suela.",
+  "details": "Los zapatos pepito de bebe son de piel, blandos y suaves, no causan rozaduras. Son tipo badana sin suela para cuando empiezan a apoyer el pié. Estos zapatos pepito de bebé abrochan con hebilla. Dispones de varios colores a elegir.\n\nEl número 19 puede estar disponible con suela de preandante, CONSULTANOS.\n\nFABRICADOS EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Los <strong>zapatos pepito de bebe</strong> son de piel, blandos y suaves, no causan rozaduras. Son tipo badana sin suela para cuando empiezan a apoyer el pié. Estos <strong>zapatos pepito de bebé</strong> abrochan con hebilla. Dispones de varios colores a elegir.</p>\n<p>El número 19 puede estar disponible con suela de preandante, CONSULTANOS.</p>\n<p><strong>FABRICADOS EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 25.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:15",
+  "sourceUpdatedAt": "2026-10-27 11:09:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 7,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "256",
+          "label": "15"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64025",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "1607195",
+      "productSku": "1607195",
+      "taxRate": 21,
+      "price": 25.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:36.815Z"
+    },
+    {
+      "id": "98264",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "1607195",
+      "productSku": "1607195",
+      "taxRate": 21,
+      "price": 25.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:39.610Z"
+    },
+    {
+      "id": "64027",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "1607195",
+      "productSku": "1607195",
+      "taxRate": 21,
+      "price": 25.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:41.707Z"
+    },
+    {
+      "id": "64028",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "1607195",
+      "productSku": "1607195",
+      "taxRate": 21,
+      "price": 25.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:44.553Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6657-4610.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4610-large_default/zapato-pepito-bebe-con-hebilla-rojo.jpg",
+      "alt": "Zapato pepito Bebé con hebilla Rojo",
+      "sourceId": "4610",
+      "variantIds": [],
+      "sha256": "b20b184a7ce2c27b6a75e8e3a3e098047252b0664cecfb9a4fe0d6fc8c708fff"
+    },
+    {
+      "path": "assets/6657-4611.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4611-large_default/zapato-pepito-bebe-con-hebilla-rojo.jpg",
+      "alt": "Zapato pepito Bebé con hebilla Rojo",
+      "sourceId": "4611",
+      "variantIds": [],
+      "sha256": "8b819653639d6caac564a16c2d557d53c3f45ece82b3afbf3e71555ca0f06722"
+    },
+    {
+      "path": "assets/6657-4609.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4609-large_default/zapato-pepito-bebe-con-hebilla-rojo.jpg",
+      "alt": "Zapato pepito Bebé con hebilla Rojo",
+      "sourceId": "4609",
+      "variantIds": [],
+      "sha256": "4d519d7ee4fc6e589bb4e46a520c5c972f7af435a5c8721dc17d50f8446f55dc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:44.741Z",
+  "issues": []
+}

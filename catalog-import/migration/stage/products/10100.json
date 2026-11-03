@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "10100",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/10100-pijama-algodon-tundosado-blanco.html",
+  "name": "Pijama algodón tundosado Blanco",
+  "brand": "Ellepi",
+  "sku": "2208206",
+  "description": "Sumérgete en la dulzura del Pijama algodón tundosado Blanco. Una elección perfecta para las noches frescas, proporcionando a tu pequeño calor y comodidad. El tejido de algodón puro es suave sobre la piel, preveniendo irritaciones y garantizando un sueño sin interrupciones. Este pijama de diseño delicado es increíblemente lindo y vistoso. Ahora tus noches serán llenas de sonrisas, sueños agradables y un descanso de calidad. ¡Descubre hoy la magia del algodón tundosado blanco, tu bebé se lo merece!",
+  "details": "Comodidad Suprema\n\nSuave como una nube y ligero como un pluma, este pijama de algodón tundosado blanco ofrece una comodidad inigualable. Ideal para noches de sueño placentero, su textura suave abraza la piel, promoviendo un perfecto descanso.\n\nCalidad Incomparable\n\nFabricado con algodón tundosado de la más alta calidad, este pijama destaca por su resistencia y durabilidad. Cada costura, cada detalle, ha sido cuidadosamente diseñado para garantizar un producto que durará años.\n\nDiseño Atemporal\n\nCon su diseño clásico y atemporal, este pijama de algodón tundosado blanco es un indispensable en el guardarropa de cada niño. Su color blanco puro evoca una sensación de pureza y tranquilidad, ideal para un sueño reparador.\n\nConsigue ahora este pijama de algodón tundosado blanco y garantiza un sueño placentero y confortable para los pequeños. Su alta calidad y su diseño clásico lo convierten en la mejor opción para las noches de descanso.\n\nComposición y cuidados:\n\nPijama: 76% algodón, 24% poliéster.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<h2>Comodidad Suprema</h2>\n<p>Suave como una nube y ligero como un pluma, este pijama de algodón tundosado blanco ofrece una comodidad inigualable. Ideal para noches de sueño placentero, su textura suave abraza la piel, promoviendo un perfecto descanso.</p>\n<h2>Calidad Incomparable</h2>\n<p>Fabricado con algodón tundosado de la más alta calidad, este pijama destaca por su resistencia y durabilidad. Cada costura, cada detalle, ha sido cuidadosamente diseñado para garantizar un producto que durará años.</p>\n<h2>Diseño Atemporal</h2>\n<p>Con su diseño clásico y atemporal, este pijama de algodón tundosado blanco es un indispensable en el guardarropa de cada niño. Su color blanco puro evoca una sensación de pureza y tranquilidad, ideal para un sueño reparador.</p>\n<p>Consigue ahora este pijama de algodón tundosado blanco y garantiza un sueño placentero y confortable para los pequeños. Su alta calidad y su diseño clásico lo convierten en la mejor opción para las noches de descanso.</p>\n<p>Composición y cuidados:</p>\n<p>Pijama: 76% algodón, 24% poliéster.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:57",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70865",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2208206",
+      "productSku": "2208206",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:21.888Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10100-8119.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8119-large_default/pijama-algodon-tundosado-blanco.jpg",
+      "alt": "Pijama algodón tundosado Blanco",
+      "sourceId": "8119",
+      "variantIds": [],
+      "sha256": "05b26bf488a4e1fb7796ed886e66d7724afd7b257b49433317f19aeff0793118"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:21.960Z",
+  "issues": []
+}

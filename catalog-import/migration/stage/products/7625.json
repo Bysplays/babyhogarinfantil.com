@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7625",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/7625-pijama-2-pz-coches-rojo.html",
+  "name": "Pijama 2 pz coches Rojo",
+  "brand": "Zippy",
+  "sku": "1902184",
+  "description": "Pijama corto de dos piezas en 100% ALGODON.",
+  "details": "Pijama de ZIPPY de verano, para niño. Se compone de la parte de arriba, una camiseta de manga corta, con corchetes en un lateral del cuello para mayor comodidad, en color blanco con un dibujo en el pecho a juego con el pantalón corto, en color rojo y blanco, con gomita en la cintura. Ideal para las noches calurosas. \n\nComposición y cuidados:\n\nPijama: 100% algodón.\n\nNO USAR SECADORA\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Pijama de <strong>ZIPPY </strong>de verano, para niño. Se compone de la parte de arriba, una camiseta de manga corta, con corchetes en un lateral del cuello para mayor comodidad, en color blanco con un dibujo en el pecho a juego con el pantalón corto, en color rojo y blanco, con gomita en la cintura. Ideal para las noches calurosas. </p>\n<p style=\"font-size:11px;font-weight:400;\">Composición y cuidados:</p>\n<p style=\"font-size:11px;font-weight:400;\">Pijama: 100% algodón.</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR SECADORA</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR LEJIAS</p>\n<p style=\"font-size:11px;font-weight:400;\">LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:14",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66061",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1902184",
+      "productSku": "1902184",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:53.417Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7625-5609.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5609-large_default/pijama-2-pz-coches-rojo.jpg",
+      "alt": "Pijama 2 pz coches Rojo",
+      "sourceId": "5609",
+      "variantIds": [],
+      "sha256": "0adb7d227e7312e0ed9aeecfb433e26c86c4a175eb9acb8aa267bff69ffd0a2c"
+    },
+    {
+      "path": "assets/7625-5608.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5608-large_default/pijama-2-pz-coches-rojo.jpg",
+      "alt": "Pijama 2 pz coches Rojo",
+      "sourceId": "5608",
+      "variantIds": [],
+      "sha256": "56c298bcdd18b1e880b9755605558de55a67cde0a6bfee189dd2472811c1cd7f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:53.524Z",
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "18962",
+  "sourceUrl": "https://babyhogarinfantil.com/sabanas-cuna-minicuna-y-maxicuna/18962-bajera-ajustable-minicuna-blanco.html",
+  "name": "Bajera ajustable minicuna Blanco",
+  "brand": "Mar Revert",
+  "sku": "2309234",
+  "description": "Sábana bajera ajustable para mini cuna estandar de 50x80 cm.\n\nComfeccionada en algodón de 144 hilos.\n\nHECHA EN ESPAÑA",
+  "details": "Composición y cuidados:\n\nBajera: 100% algodón\n\nNO USAR SECADORA\n\nNO USAR LEJIAS",
+  "sourceDescriptionHtml": "<p style=\"font-size:medium;\">Composición y cuidados:</p>\n<p style=\"font-size:medium;\">Bajera: 100% algodón</p>\n<p style=\"font-size:medium;\">NO USAR SECADORA</p>\n<p style=\"font-size:medium;\">NO USAR LEJIAS</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "770"
+  ],
+  "sourceDefaultCategoryId": "770",
+  "sourceCategoryName": "Sabanas cuna minicuna y maxicuna",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-20 15:53:55",
+  "sourceUpdatedAt": "2026-10-27 11:13:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88050",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11789XA18127",
+      "productSku": "2309234",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:34.758Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18962-17432.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17432-large_default/bajera-ajustable-minicuna-blanco.jpg",
+      "alt": "Bajera ajustable minicuna Blanco",
+      "sourceId": "17432",
+      "variantIds": [],
+      "sha256": "fc1e8ea0086c075e9eb8adea4523fc342bcafaae634cd8493700f8059413b647"
+    },
+    {
+      "path": "assets/18962-17433.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17433-large_default/bajera-ajustable-minicuna-blanco.jpg",
+      "alt": "Bajera ajustable minicuna Blanco",
+      "sourceId": "17433",
+      "variantIds": [],
+      "sha256": "156cf99114c27b7d7ef8bec314aceb672c8cfd9d7e7fc0d8cd48fac58df9a3f8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:34.871Z",
+  "issues": []
+}

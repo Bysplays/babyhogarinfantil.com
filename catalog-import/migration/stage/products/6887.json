@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "id": "6887",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6887-panty-microfibra-40-den-verde-botella.html",
+  "name": "Panty microfibra 40 DEN Verde Botella",
+  "brand": "Condor",
+  "sku": "1707019",
+  "description": "Panty VERDE BOTELLA de micro fibra de 40 dinniers de grosor.",
+  "details": "Composición y cuidados:\n\n96% poliamida 4% elastano.\n\nNO USAR SECADORA.\n\nNO PLANCHAR.\n\nNO USAR LEJIAS.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>96% poliamida 4% elastano.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO PLANCHAR.</p>\n<p>NO USAR LEJIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde botella",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "759",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 7.02,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64626",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "3850XJ6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.02,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:27.721Z"
+    },
+    {
+      "id": "145394",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "3850XA6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.01,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:29.844Z"
+    },
+    {
+      "id": "145395",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "3850XB6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.01,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:32.657Z"
+    },
+    {
+      "id": "145396",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "3850XC6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.01,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:34.927Z"
+    },
+    {
+      "id": "145397",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "3850XD6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.01,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:37.125Z"
+    },
+    {
+      "id": "145398",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "3850XE6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.01,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:39.402Z"
+    },
+    {
+      "id": "145399",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "3850XF6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.01,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:41.722Z"
+    },
+    {
+      "id": "145400",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "3850XG6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.01,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:44.732Z"
+    },
+    {
+      "id": "145401",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "3850XH6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.01,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:48.017Z"
+    },
+    {
+      "id": "145402",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "3850XI6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.01,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:51.460Z"
+    },
+    {
+      "id": "64627",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "3850XK6986",
+      "productSku": "1707019",
+      "taxRate": 21,
+      "price": 7.02,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:29:55.524Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6887-4804.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4804-large_default/panty-microfibra-40-den-verde-botella.jpg",
+      "alt": "Panty microfibra 40 DEN Verde Botella",
+      "sourceId": "4804",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6887-9809.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9809-large_default/panty-microfibra-40-den-verde-botella.jpg",
+      "alt": "Panty microfibra 40 DEN Verde Botella",
+      "sourceId": "9809",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6887-4803.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4803-large_default/panty-microfibra-40-den-verde-botella.jpg",
+      "alt": "Panty microfibra 40 DEN Verde Botella",
+      "sourceId": "4803",
+      "variantIds": [],
+      "sha256": "607f5e43345febaea0c64f7a86be846f005c29634ff33562363078d9f238606a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:29:59.839Z",
+  "issues": []
+}

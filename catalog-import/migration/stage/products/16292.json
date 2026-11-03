@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "16292",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nino/16292-gorra-pique-teo-blanco.html",
+  "name": "Gorra piqué TEO Blanco",
+  "brand": "Marco Polo",
+  "sku": "2304026",
+  "description": "Transforma a tu pequeño en la estrella del parque con la Gorra piqué TEO Blanco. Hecha con la textura única del piqué, esta gorra combina la moda y la funcionalidad, protegiendo a su estrella en ciernes contra el sol. El diseño blanco fresco y puro emana un aire de elegancia y simplicidad, perfecto para complementar cualquier estilo. Ideal para los días bajo el sol, esta gorra es un tesoro que toda mamá y papá deberían considerar. Por su bienestar, su felicidad, su estilo, ¡la Gorra piqué TEO Blanco no puede faltar!",
+  "details": "La Elegancia en Cada Detalle\n\nLa Gorra piqué TEO Blanco es más que un simple accesorio, es una declaración de estilo. Cada hilo, cada puntada y cada detalle han sido meticulosamente seleccionados y diseñados para brindarle una gorra de alta calidad que es sofisticada y elegante. Este gorra puede transformar cualquier conjunto de ropas de niños o bebes en un look que despierta envidia.\n\nCalidad Incomparable\n\nLa resistencia y durabilidad son tan impresionantes como su apariencia. La Gorra piqué TEO Blanco ha sido fabricada utilizandó piqué de alta calidad que garantiza que la gorra no solo sea suave al tacto sino que también pueda resistir la prueba del tiempo. Esta gorra es ideal para niños y bebes activos, pues puede resistir desde una tarde de juegos hasta una salida familiar.\n\nCómodo para Todo el Día\n\nEntendemos que la comodidad es primordial, especialmente cuando se trata de ropa para niños y bebes. Eso es exactamente lo que ofrece la Gorra piqué TEO Blanco. Su diseño ligero y el forro suave garantizan que la gorra sea cómoda para ser usada todo el día, sin causar irritación ni incomodidad.\n\n¡Invierta en la Gorra piqué TEO Blanco Hoy!\n\n¿Por qué esperar? ¡Haga su pedido ahora de la Gorra piqué TEO Blanco y de a sus niños una adición elegante a su guardarropa! Permítales a sus pequeños marcar una fuerte declaración de estilo desde temprana edad. La calidad, la elegancia y la comodidad están a solo un clic de distancia.\n\nComposición:\n\nExterior: 65% algodón, 35% poliéster.\n\nForro: 100% algodón.",
+  "sourceDescriptionHtml": "<p></p>\n<h2>La Elegancia en Cada Detalle</h2>\n<p>La Gorra piqué TEO Blanco es más que un simple accesorio, es una declaración de estilo. Cada hilo, cada puntada y cada detalle han sido meticulosamente seleccionados y diseñados para brindarle una gorra de alta calidad que es sofisticada y elegante. Este gorra puede transformar cualquier conjunto de ropas de niños o bebes en un look que despierta envidia.</p>\n<h2>Calidad Incomparable</h2>\n<p>La resistencia y durabilidad son tan impresionantes como su apariencia. La Gorra piqué TEO Blanco ha sido fabricada utilizandó piqué de alta calidad que garantiza que la gorra no solo sea suave al tacto sino que también pueda resistir la prueba del tiempo. Esta gorra es ideal para niños y bebes activos, pues puede resistir desde una tarde de juegos hasta una salida familiar.</p>\n<h2>Cómodo para Todo el Día</h2>\n<p>Entendemos que la comodidad es primordial, especialmente cuando se trata de ropa para niños y bebes. Eso es exactamente lo que ofrece la Gorra piqué TEO Blanco. Su diseño ligero y el forro suave garantizan que la gorra sea cómoda para ser usada todo el día, sin causar irritación ni incomodidad.</p>\n<h2>¡Invierta en la Gorra piqué TEO Blanco Hoy!</h2>\n<p>¿Por qué esperar? ¡Haga su pedido ahora de la Gorra piqué TEO Blanco y de a sus niños una adición elegante a su guardarropa! Permítales a sus pequeños marcar una fuerte declaración de estilo desde temprana edad. La calidad, la elegancia y la comodidad están a solo un clic de distancia.</p>\n<p>Composición:</p>\n<p>Exterior: 65% algodón, 35% poliéster.</p>\n<p>Forro: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "680",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "680",
+  "sourceCategoryName": "Gorras y viseras bebé y niño",
+  "price": 16,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-05-10 16:10:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "273",
+          "label": "56"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72901",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "2304026",
+      "productSku": "2304026",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:51.512Z"
+    },
+    {
+      "id": "72908",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "273",
+          "group": "Tamaño",
+          "value": "56"
+        }
+      ],
+      "sku": "2304026",
+      "productSku": "2304026",
+      "taxRate": 21,
+      "price": 16,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:53.562Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16292-14054.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14054-large_default/gorra-pique-teo-blanco.jpg",
+      "alt": "Gorra piqué TEO Blanco",
+      "sourceId": "14054",
+      "variantIds": [],
+      "sha256": "40db5b99c857a59b7fef8634aee9cb7fcaa756810ef8437501dc54ff0d9eb47b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:11:53.640Z",
+  "issues": []
+}

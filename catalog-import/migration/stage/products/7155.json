@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "7155",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nina/7155-merceditas-nina-con-hebilla-rojo.html",
+  "name": "Merceditas niña con hebilla Rojo",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1803009",
+  "description": "Merceditas de piel, en color rojo, acabado mate, cierre con hebilla y suela de goma.",
+  "details": "Merceditas de piel, en color rojo, acabado mate. Cierre con hebilla. Suela de goma, resistente y dura pero flexible, perfecta para no resbalar. Disponible en m&aacute;s colores.\n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p>Merceditas de <strong>piel</strong>, en color rojo, acabado mate. Cierre con hebilla. Suela de goma, resistente y dura pero flexible, perfecta para no resbalar. <strong>Disponible en m&aacute;s colores.</strong></p>\r\n<p><strong>FABRICADO EN ESPA&Ntilde;A</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "695"
+  ],
+  "sourceDefaultCategoryId": "695",
+  "sourceCategoryName": "Calzado Niña",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:21",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "262",
+          "label": "19"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65131",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "1803009",
+      "productSku": "1803009",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:27.307Z"
+    },
+    {
+      "id": "65133",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "1803009",
+      "productSku": "1803009",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:30.281Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7155-5123.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5123-large_default/merceditas-nina-con-hebilla-rojo.jpg",
+      "alt": "Merceditas niña con hebilla Rojo",
+      "sourceId": "5123",
+      "variantIds": [],
+      "sha256": "8271890e3c0bd6f07ce93758f66b44b68306316b432b395f3ba25f21182088bd"
+    },
+    {
+      "path": "assets/7155-10052.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10052-large_default/merceditas-nina-con-hebilla-rojo.jpg",
+      "alt": "Merceditas niña con hebilla Rojo",
+      "sourceId": "10052",
+      "variantIds": [],
+      "sha256": "8271890e3c0bd6f07ce93758f66b44b68306316b432b395f3ba25f21182088bd"
+    },
+    {
+      "path": "assets/7155-5122.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5122-large_default/merceditas-nina-con-hebilla-rojo.jpg",
+      "alt": "Merceditas niña con hebilla Rojo",
+      "sourceId": "5122",
+      "variantIds": [],
+      "sha256": "04988929d937549877f1f4d058b3f6cb375ce89ad37aa806705c27f69410c3c2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:30.481Z",
+  "issues": []
+}

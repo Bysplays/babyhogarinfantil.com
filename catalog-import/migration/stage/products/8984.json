@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "8984",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/8984-rebeca-tricot-basica-coral.html",
+  "name": "Rebeca tricot básica Coral",
+  "brand": "Mayoral",
+  "sku": "2107048",
+  "description": "Chaqueta tricot 100% algodón orgánico.",
+  "details": "Composición y cuidados:\n\nChaqueta: 100% algodón orgánico.\n\nLAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% algodón orgánico.</p>\n<p>LAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Coral",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 9.5,
+  "oldPrice": 18.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "340",
+          "label": "2-4m"
+        },
+        {
+          "id": "343",
+          "label": "4-6m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72994",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:30.051Z"
+    },
+    {
+      "id": "100462",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:32.228Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8984-11767.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11767-large_default/rebeca-tricot-basica-coral.jpg",
+      "alt": "Rebeca tricot básica Coral",
+      "sourceId": "11767",
+      "variantIds": [],
+      "sha256": "c7c96031cea1fb3336b5565e016aacbeda43a27a51c11fe2aae89910e4bf6dd5"
+    },
+    {
+      "path": "assets/8984-11768.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11768-large_default/rebeca-tricot-basica-coral.jpg",
+      "alt": "Rebeca tricot básica Coral",
+      "sourceId": "11768",
+      "variantIds": [],
+      "sha256": "63f856e9d579466525bbdf6f1beaf2d3851f275ac1941fa4865313c831079c8b"
+    },
+    {
+      "path": "assets/8984-11769.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11769-large_default/rebeca-tricot-basica-coral.jpg",
+      "alt": "Rebeca tricot básica Coral",
+      "sourceId": "11769",
+      "variantIds": [],
+      "sha256": "76c96fb27f02e54b4d4d48c010c97c88b3f21397f0f6b0bacbdf99fc6c3b150b"
+    },
+    {
+      "path": "assets/8984-11770.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11770-large_default/rebeca-tricot-basica-coral.jpg",
+      "alt": "Rebeca tricot básica Coral",
+      "sourceId": "11770",
+      "variantIds": [],
+      "sha256": "212b571e1ffd83c4a1fb85a9fbace2095d27e22be3db36611d2cec8265bbdc66"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:32.457Z",
+  "issues": []
+}

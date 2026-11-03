@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8456",
+  "sourceUrl": "https://babyhogarinfantil.com/sacos-silla-capazo-y-grupo-0/8456-saco-silla-universal-rojo.html",
+  "name": "Saco silla universal Rojo",
+  "brand": "Interbaby",
+  "sku": "2008052",
+  "description": "Saco impermeable con cremallera central e interior forrado en polar. Medidas 46 x 90cm.",
+  "details": "Composición saco: 100% poliester.",
+  "sourceDescriptionHtml": "<p>Composición saco: 100% poliester.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "801"
+  ],
+  "sourceDefaultCategoryId": "801",
+  "sourceCategoryName": "Sacos silla capazo y grupo 0",
+  "price": 46.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:37",
+  "sourceUpdatedAt": "2026-10-27 11:10:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146782",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8227XA13440",
+      "productSku": "2008052",
+      "taxRate": 21,
+      "price": 46.98,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:10:03.363Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8456-11196.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11196-large_default/saco-silla-universal-rojo.jpg",
+      "alt": "Saco silla universal Rojo",
+      "sourceId": "11196",
+      "variantIds": [],
+      "sha256": "cd51865a16701feb80c9475e97bf66d2c15dfc1349568f8b17f90170bd23422e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:10:03.436Z",
+  "issues": []
+}

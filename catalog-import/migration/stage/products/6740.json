@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6740",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/6740-ranita-basica-verano-azul-celeste.html",
+  "name": "Ranita básica verano Azul Celeste",
+  "brand": "Calamaro",
+  "sku": "1702106",
+  "description": "Ranita básica, 100% Algodón.",
+  "details": "Ranita básica de CALAMARO, 100% algodón. Sin forro, y con gomitas finas y suaves, tanto en la cintura como en las piernitas. Esta ranita es ideal para combinar con cualquier modelito, ya sea con un vestido, jubón o jesusito. Disponible en azul, rosa, blanco y gris clarito. \n\nComposición:\n\nRanita: 100% algodón\n\nLAVAR A MÁQUINA (TEMPERATURA MÁXIMA 40 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA \n\nSE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Ranita básica de <strong>CALAMARO</strong>, 100% algodón. Sin forro, y con gomitas finas y suaves, tanto en la cintura como en las piernitas. Esta ranita es ideal para combinar con cualquier modelito, ya sea con un vestido, jubón o jesusito. Disponible en azul, rosa, blanco y gris clarito. </p>\n<p>Composición:</p>\n<p>Ranita: 100% algodón</p>\n<p>LAVAR A MÁQUINA (TEMPERATURA MÁXIMA 40 ºC)</p>\n<p>NO USAR LEJÍAS NI BLANQUEANTES</p>\n<p>NO SECAR EN SECADORA </p>\n<p>SE PUEDE LAVAR EN SECO (TODOS EXCEPTO TRICLOROETILENO)</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 7.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:16",
+  "sourceUpdatedAt": "2026-10-27 11:09:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64252",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1702106",
+      "productSku": "1702106",
+      "taxRate": 21,
+      "price": 7.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:23.706Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6740-4679.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4679-large_default/ranita-basica-verano-azul-celeste.jpg",
+      "alt": "Ranita básica verano Azul Celeste",
+      "sourceId": "4679",
+      "variantIds": [],
+      "sha256": "b22fd34caef8cb0da423db3bc669833d76e4a82e1f29b89b405ff1d803c5a837"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:23.778Z",
+  "issues": []
+}

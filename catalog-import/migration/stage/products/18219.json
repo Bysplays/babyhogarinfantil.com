@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "18219",
+  "sourceUrl": "https://babyhogarinfantil.com/cositas-monas/18219-juego-bebe-3-piezas-liso-rosa.html",
+  "name": "Juego bebe 3 piezas liso Rosa",
+  "brand": "Gamberritos",
+  "sku": "2402112",
+  "description": "Conjunto 3 piezas, patuco gorrito y mitón. 100% algodón.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "865"
+  ],
+  "sourceDefaultCategoryId": "865",
+  "sourceCategoryName": "Cositas Monas",
+  "price": 8.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-08 23:53:58",
+  "sourceUpdatedAt": "2026-10-27 11:13:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149146",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12242XA18757",
+      "productSku": "2402112",
+      "taxRate": 21,
+      "price": 8.49,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:51.031Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18219-17181.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17181-large_default/juego-bebe-3-piezas-liso-rosa.jpg",
+      "alt": "Juego bebe 3 piezas liso Rosa",
+      "sourceId": "17181",
+      "variantIds": [],
+      "sha256": "e287f8e39576b646d9f131d3b630bcfaeed2eda2ff3e5603702ecd4c773df026"
+    },
+    {
+      "path": "assets/18219-17182.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17182-large_default/juego-bebe-3-piezas-liso-rosa.jpg",
+      "alt": "Juego bebe 3 piezas liso Rosa",
+      "sourceId": "17182",
+      "variantIds": [],
+      "sha256": "b29e1dac0021c0b6bd8cec949d80f8c6a2d67827437fd5ab960433a29b12ca1b"
+    },
+    {
+      "path": "assets/18219-17183.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17183-large_default/juego-bebe-3-piezas-liso-rosa.jpg",
+      "alt": "Juego bebe 3 piezas liso Rosa",
+      "sourceId": "17183",
+      "variantIds": [],
+      "sha256": "02264817d66cc5eaf201bac071a2a1c959ac2dc15e193d5b66fe79a9082291fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:51.254Z",
+  "issues": []
+}

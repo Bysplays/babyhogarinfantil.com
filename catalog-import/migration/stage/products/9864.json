@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "9864",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/9864-pijama-entero-bebe-ositos-rosa.html",
+  "name": "Pijama entero bebe ositos Rosa",
+  "brand": "Chicco",
+  "sku": "2207085",
+  "description": "Descubre el dulce descanso con el pijama entero de bebé ositos rosa. Cuide de los sueños de su pequeño con la máxima comodidad y calidez. Este adorable atuendo es perfecto para apapachar a su bebé durante las noches frías de invierno. Confeccionado con el amor y delicadeza que su pequeño merece, este pijama es la prenda ideal para mantener a su bebé acogedor y feliz. Transmite amor y cuidado con cada detalle, desde el adorable diseño de ositos hasta el suave y confortable material. Haga que cada noche sea tan dulce como un sueño con el pijama entero de bebé ositos rosa. ¡No esperes más, y haz que las noches de tu niña sean más mágicas!",
+  "details": "Suavidad que Enamora\n\nEnvuelve a tu pequeño en la comodidad lujosa del Pijama Entero Bebé Ositos Rosa. Su tejido suave al tacto y de alta calidad no sólo proporciona calor durante las noches frías, sino que también permite una transpirabilidad máxima, asegurando que tu angelito duerma placenteramente.\n\nDiseño Adorable\n\nDestaca entre la multitud con este encantador Pijama Entero Bebé Ositos Rosa. Este adorable diseño de ositos evoca una sensación cálida y reconfortante, haciendo que tu pequeño se vea aún más adorable. Además, su brillante color rosa demuestra vivacidad y felicidad, ofreciendo un aspecto tierno que seguramente atraerá miradas de amor.\n\nDurabilidad y Facilidad de Uso\n\nHecho para resistir las actividades cotidianas de los más pequeños, el Pijama Entero Bebé Ositos Rosa está diseñado para durar. Su ajuste fácil y cierre seguro garantizan que vestir a tu bebé nunca será una tarea tediosa. Además, su tela resistente al lavado se mantiene igual después de múltiples lavados, asegurando que tu pequeño pueda disfrutar de su pijama preferido durante más tiempo.\n\n¡Hazte con la mejor ropa de cuna para tu angelito hoy!\n\nComposición y cuidados:\n\nPijama: 95% algodón, 5% elastan.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p></p>\n<h2>Suavidad que Enamora</h2>\n<p>Envuelve a tu pequeño en la comodidad lujosa del <strong>Pijama Entero Bebé Ositos Rosa</strong>. Su tejido suave al tacto y de alta calidad no sólo proporciona calor durante las noches frías, sino que también permite una transpirabilidad máxima, asegurando que tu angelito duerma placenteramente.</p>\n<h2>Diseño Adorable</h2>\n<p>Destaca entre la multitud con este encantador <strong>Pijama Entero Bebé Ositos Rosa</strong>. Este adorable diseño de ositos evoca una sensación cálida y reconfortante, haciendo que tu pequeño se vea aún más adorable. Además, su brillante color rosa demuestra vivacidad y felicidad, ofreciendo un aspecto tierno que seguramente atraerá miradas de amor.</p>\n<h2>Durabilidad y Facilidad de Uso</h2>\n<p>Hecho para resistir las actividades cotidianas de los más pequeños, el <strong>Pijama Entero Bebé Ositos Rosa</strong> está diseñado para durar. Su ajuste fácil y cierre seguro garantizan que vestir a tu bebé nunca será una tarea tediosa. Además, su tela resistente al lavado se mantiene igual después de múltiples lavados, asegurando que tu pequeño pueda disfrutar de su pijama preferido durante más tiempo.</p>\n<p>¡Hazte con la mejor ropa de cuna para tu angelito hoy!</p>\n<p>Composición y cuidados:</p>\n<p>Pijama: 95% algodón, 5% elastan.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 15.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:54",
+  "sourceUpdatedAt": "2026-10-27 11:11:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70240",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2207085",
+      "productSku": "2207085",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:01.766Z"
+    },
+    {
+      "id": "70241",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2207085",
+      "productSku": "2207085",
+      "taxRate": 21,
+      "price": 15.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:05.016Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9864-12847.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12847-large_default/pijama-entero-bebe-ositos-rosa.jpg",
+      "alt": "Pijama entero bebe ositos Rosa",
+      "sourceId": "12847",
+      "variantIds": [],
+      "sha256": "9d4f01c52739961e8665aa41d6a623d50d7be749628f8a572cb37563dd2af420"
+    },
+    {
+      "path": "assets/9864-8000.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8000-large_default/pijama-entero-bebe-ositos-rosa.jpg",
+      "alt": "Pijama entero bebe ositos Rosa",
+      "sourceId": "8000",
+      "variantIds": [],
+      "sha256": "5b8af406ae9ec796b68dc0dd24e611858688edb30e92e288754fd703bc86284a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:05.156Z",
+  "issues": []
+}

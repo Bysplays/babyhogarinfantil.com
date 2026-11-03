@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "id": "6892",
+  "sourceUrl": "https://babyhogarinfantil.com/babis-escolares/6892-babi-mandilon-bata-payaso-verde.html",
+  "name": "Babi Mandilón bata Payaso Verde",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1707029",
+  "description": "Mandilón payaso de cuadros para guardería y colegio. Cierre con botones grandes de colores. Dispones de la bolsa de la merienda a juego, ambos artículos personalizables con el bordado que desees. Las prendas personalizadas tienen un plazo de entrega de 10 días.  LAS BOLSAS SE VENDEN POR SEPARADO. Puedes encontrarla aquí:\n\nMochilas y bolsas merienda (babyhogarinfantil.com)",
+  "details": "Mandilón PAYASO de cuadro vichy para guardería y colegio. Con goma en el puño para sujetar la manga. Cierre con botones grandes indicados para que los peques aprendan a usarlo de forma fácil y cómoda. A la hora de elegir la talla, has de tener en cuenta que es una prenda amplia que talla grande. \n\nGuia de tallas, ver imagen arriba.\n\nEl color de los botones puede diferir ligeramente del de la imagen.\n\nLas prendas personalizadas tienen un plazo de entrega de 10 días.\n\n\n\nComposición: 67% poliéster, 33% algodón.\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><strong>Mandilón PAYASO</strong> de cuadro vichy para guardería y colegio. Con goma en el puño para sujetar la manga. Cierre con <strong>botones grandes</strong> indicados para que los peques aprendan a usarlo de forma fácil y cómoda. A la hora de elegir la talla, has de tener en cuenta que es una prenda amplia que talla grande. </p>\n<p>Guia de tallas, ver imagen arriba.</p>\n<p>El color de los botones puede diferir ligeramente del de la imagen.</p>\n<p><strong>Las prendas personalizadas tienen un plazo de entrega de 10 días<strong>.</strong><br /></strong></p>\n<p><strong><strong><br /></strong></strong><strong>Composición: </strong>67% poliéster, 33% algodón.</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "679",
+    "812"
+  ],
+  "sourceDefaultCategoryId": "679",
+  "sourceCategoryName": "Babis escolares",
+  "price": 14.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 23,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "300",
+          "label": "40/0"
+        },
+        {
+          "id": "301",
+          "label": "45/1"
+        },
+        {
+          "id": "302",
+          "label": "50/2"
+        },
+        {
+          "id": "303",
+          "label": "55/3"
+        },
+        {
+          "id": "304",
+          "label": "60/4"
+        },
+        {
+          "id": "305",
+          "label": "65/5"
+        },
+        {
+          "id": "306",
+          "label": "70/6"
+        },
+        {
+          "id": "307",
+          "label": "75/8"
+        },
+        {
+          "id": "308",
+          "label": "80/10"
+        },
+        {
+          "id": "309",
+          "label": "85/12"
+        },
+        {
+          "id": "310",
+          "label": "90/14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "143710",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "300",
+          "group": "Tamaño",
+          "value": "40/0"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 14.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:44.620Z"
+    },
+    {
+      "id": "143711",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "301",
+          "group": "Tamaño",
+          "value": "45/1"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 14.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:48.381Z"
+    },
+    {
+      "id": "143712",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "302",
+          "group": "Tamaño",
+          "value": "50/2"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 14.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:51.793Z"
+    },
+    {
+      "id": "143713",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "303",
+          "group": "Tamaño",
+          "value": "55/3"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 14.5,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:56.286Z"
+    },
+    {
+      "id": "143714",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "304",
+          "group": "Tamaño",
+          "value": "60/4"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 15.5,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:30:59.815Z"
+    },
+    {
+      "id": "143715",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "305",
+          "group": "Tamaño",
+          "value": "65/5"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 15.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:03.132Z"
+    },
+    {
+      "id": "143716",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "306",
+          "group": "Tamaño",
+          "value": "70/6"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 15.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:06.457Z"
+    },
+    {
+      "id": "143717",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "307",
+          "group": "Tamaño",
+          "value": "75/8"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 18.5,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:09.584Z"
+    },
+    {
+      "id": "143718",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "308",
+          "group": "Tamaño",
+          "value": "80/10"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:12.069Z"
+    },
+    {
+      "id": "143719",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "309",
+          "group": "Tamaño",
+          "value": "85/12"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:14.495Z"
+    },
+    {
+      "id": "150280",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "310",
+          "group": "Tamaño",
+          "value": "90/14"
+        }
+      ],
+      "sku": "1707029",
+      "productSku": "1707029",
+      "taxRate": 21,
+      "price": 25,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:17.672Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6892-4810.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4810-large_default/babi-mandilon-bata-payaso-verde.jpg",
+      "alt": "Babi Mandilón bata Payaso Verde",
+      "sourceId": "4810",
+      "variantIds": [],
+      "sha256": "05e00de494b10443b2d64cbebf20b7bea8a81291e6be44bfae723b5ffbbc4f97"
+    },
+    {
+      "path": "assets/6892-15396.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15396-large_default/babi-mandilon-bata-payaso-verde.jpg",
+      "alt": "Babi Mandilón bata Payaso Verde",
+      "sourceId": "15396",
+      "variantIds": [],
+      "sha256": "d68a8abaeb10df8dfa042ec9760807bb4aeffedccc04c0f197ed910806862af4"
+    },
+    {
+      "path": "assets/6892-15428.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15428-large_default/babi-mandilon-bata-payaso-verde.jpg",
+      "alt": "Babi Mandilón bata Payaso Verde",
+      "sourceId": "15428",
+      "variantIds": [],
+      "sha256": "3d35dd7e2225265e3ad1cb47c9dac46b6ec7eb9c678992411cd8534592dce238"
+    },
+    {
+      "path": "assets/6892-15429.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15429-large_default/babi-mandilon-bata-payaso-verde.jpg",
+      "alt": "Babi Mandilón bata Payaso Verde",
+      "sourceId": "15429",
+      "variantIds": [],
+      "sha256": "0e836d978bd55fd43579f6f5a48a6456ddffa4d4a2fed6c1b096befafcc3ebdf"
+    },
+    {
+      "path": "assets/6892-15796.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15796-large_default/babi-mandilon-bata-payaso-verde.jpg",
+      "alt": "Babi Mandilón bata Payaso Verde",
+      "sourceId": "15796",
+      "variantIds": [],
+      "sha256": "c7cdb003ebedc36fd8aac2f7fa4b016925c9bf0ac89d52703ebfd989d3e49864"
+    },
+    {
+      "path": "assets/6892-15795.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15795-large_default/babi-mandilon-bata-payaso-verde.jpg",
+      "alt": "Babi Mandilón bata Payaso Verde",
+      "sourceId": "15795",
+      "variantIds": [],
+      "sha256": "134dfb82a580259f768ab508800feba7c494b25c20fbb4318b131c9d707408b4"
+    },
+    {
+      "path": "assets/6892-15390.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15390-large_default/babi-mandilon-bata-payaso-verde.jpg",
+      "alt": "Babi Mandilón bata Payaso Verde",
+      "sourceId": "15390",
+      "variantIds": [],
+      "sha256": "ebe49904fade75ba90aa83fe57f62318ffeed244ecf667967790ffa81ce98bf4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:31:18.269Z",
+  "issues": []
+}

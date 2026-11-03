@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "21672",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-y-polos-nino/21672-camiseta-manga-corta-dinos-blanco.html",
+  "name": "Camiseta manga corta dinos Blanco",
+  "brand": "Chicco",
+  "sku": "2601000",
+  "description": "Camiseta de niño Chicco en color blanco, de manga corta y confeccionada en algodón suave. Cómoda y fresca, con divertido estampado de dinosaurios, ideal para primavera y verano.",
+  "details": "Esta camiseta de niño Chicco es una prenda cómoda y divertida, perfecta para el día a día durante la temporada de primavera y verano. Confeccionada en algodón suave, ofrece una sensación agradable al tacto y una excelente transpirabilidad, ideal para los días más cálidos.\n\nSu diseño en color blanco, fácil de combinar, incorpora manga corta y cuello redondo, con un estampado frontal de dinosaurios que aporta un toque alegre y desenfadado al look infantil. El corte es cómodo y funcional, pensado para acompañar al niño en todas sus actividades.\n\nUna camiseta versátil, perfecta para combinar con pantalones cortos, bermudas o vaqueros y crear looks casuales llenos de estilo.\n\nCaracterísticas destacadas:\n\n\n\nCamiseta para niño\n\n\n\n\nManga corta\n\n\n\n\nAlgodón suave y confortable\n\n\n\n\nIdeal para primavera y verano\n\n\n\n\nColor blanco, fácil de combinar\n\n\n\n\nEstampado de dinosaurios\n\n\n\n\nCuello redondo\n\n\n\n\nCorte cómodo para uso diario\n\n\n\n\nMarca Chicco\n\n\n\n\nComposición: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Esta <strong>camiseta de niño Chicco</strong> es una prenda cómoda y divertida, perfecta para el día a día durante la <strong>temporada de primavera y verano</strong>. Confeccionada en <strong>algodón suave</strong>, ofrece una sensación agradable al tacto y una excelente transpirabilidad, ideal para los días más cálidos.</p>\n<p>Su <strong>diseño en color blanco</strong>, fácil de combinar, incorpora <strong>manga corta</strong> y <strong>cuello redondo</strong>, con un <strong>estampado frontal de dinosaurios</strong> que aporta un toque alegre y desenfadado al look infantil. El corte es cómodo y funcional, pensado para acompañar al niño en todas sus actividades.</p>\n<p>Una camiseta versátil, perfecta para combinar con pantalones cortos, bermudas o vaqueros y crear looks casuales llenos de estilo.</p>\n<p><strong>Características destacadas:</strong></p>\n<ul>\n<li>\n<p>Camiseta para <strong>niño</strong></p>\n</li>\n<li>\n<p>Manga corta</p>\n</li>\n<li>\n<p>Algodón suave y confortable</p>\n</li>\n<li>\n<p>Ideal para primavera y verano</p>\n</li>\n<li>\n<p>Color blanco, fácil de combinar</p>\n</li>\n<li>\n<p>Estampado de dinosaurios</p>\n</li>\n<li>\n<p>Cuello redondo</p>\n</li>\n<li>\n<p>Corte cómodo para uso diario</p>\n</li>\n<li>\n<p>Marca Chicco</p>\n</li>\n</ul>\n<p>Composición: 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "730",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "730",
+  "sourceCategoryName": "Camisetas y polos niño",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-03 15:53:53",
+  "sourceUpdatedAt": "2026-10-27 11:14:54",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "98845",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2601000",
+      "productSku": "2601000",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:14.743Z"
+    },
+    {
+      "id": "99564",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2601000",
+      "productSku": "2601000",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:15.936Z"
+    },
+    {
+      "id": "99666",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601000",
+      "productSku": "2601000",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:17.444Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21672-20418.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20418-large_default/camiseta-manga-corta-dinos-blanco.jpg",
+      "alt": "Camiseta manga corta dinos Blanco",
+      "sourceId": "20418",
+      "variantIds": [],
+      "sha256": "8806cea19675a70638c61f04382da482734628efb0bdc1c6c3f7adf7c3dc56ce"
+    },
+    {
+      "path": "assets/21672-20419.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20419-large_default/camiseta-manga-corta-dinos-blanco.jpg",
+      "alt": "Camiseta manga corta dinos Blanco",
+      "sourceId": "20419",
+      "variantIds": [],
+      "sha256": "1baf06c07b109a61939a8b382341f92dc2b3c5c09c1ea4c8b9e6d05561558041"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:17.552Z",
+  "issues": []
+}

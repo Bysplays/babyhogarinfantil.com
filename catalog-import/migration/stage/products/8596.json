@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "8596",
+  "sourceUrl": "https://babyhogarinfantil.com/baberos/8596-pack-3-baberos-minnie-20x20-varios.html",
+  "name": "Pack 3 baberos Minnie 20x20 Varios",
+  "brand": "Interbaby",
+  "sku": "2101073",
+  "description": "Pack de tres baberos, forma redonda, rizo por delante, plastificado por detrás. Medidas 20X20 cm. 100% Algodón. Estampado MINNIE MOUSE.",
+  "details": "Pack de tres baberos de MINNIE MOUSE, nuestra ratoncita preferida! Forma redondo, rizo por delante, plastificado por detrás. Cierre con lazada. Estampados variados de DISNEY. Disponible versión de MICKEY MOUSE. \n\nComposición y cuidados:\n\nBabero: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Pack de tres baberos de <strong>MINNIE MOUSE</strong>, nuestra ratoncita preferida! Forma redondo, rizo por delante, plastificado por detrás. Cierre con lazada. Estampados variados de <strong>DISNEY</strong>. Disponible versión de <strong>MICKEY MOUSE</strong>. </p>\n<p>Composición y cuidados:</p>\n<p>Babero: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "800",
+    "880",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "800",
+  "sourceCategoryName": "Baberos",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:39",
+  "sourceUpdatedAt": "2026-10-27 11:10:53",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88352",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8548XA13705",
+      "productSku": "2101073",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:07.251Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8596-6926.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6926-large_default/pack-3-baberos-minnie-20x20-varios.jpg",
+      "alt": "Pack 3 baberos Minnie 20x20 Varios",
+      "sourceId": "6926",
+      "variantIds": [],
+      "sha256": "6d6b4933f1d5791482799f439dad5a0d522167f429c6625d57cbab182897d801"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:07.326Z",
+  "issues": []
+}

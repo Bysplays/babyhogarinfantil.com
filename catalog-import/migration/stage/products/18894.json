@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "18894",
+  "sourceUrl": "https://babyhogarinfantil.com/sacos-silla-capazo-y-grupo-0/18894-saco-silla-universal-verde.html",
+  "name": "Saco silla universal Verde",
+  "brand": "Interbaby",
+  "sku": "2008052",
+  "description": "Saco impermeable silla paseo UNIVERSAL, con cremallera central y forro con polar en el interior.",
+  "details": "Composición: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "801"
+  ],
+  "sourceDefaultCategoryId": "801",
+  "sourceCategoryName": "Sacos silla capazo y grupo 0",
+  "price": 46.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-08 15:53:07",
+  "sourceUpdatedAt": "2026-10-27 11:10:50",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146783",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8227XA18856",
+      "productSku": "2008052",
+      "taxRate": 21,
+      "price": 46.98,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:31.843Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18894-20267.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20267-large_default/saco-silla-universal-verde.jpg",
+      "alt": "Saco silla universal Verde",
+      "sourceId": "20267",
+      "variantIds": [],
+      "sha256": "fdcbbb3a096e01dcce7eecd877fca433d22b62e923aba7ef6d12b77028cfeccf"
+    },
+    {
+      "path": "assets/18894-20268.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20268-large_default/saco-silla-universal-verde.jpg",
+      "alt": "Saco silla universal Verde",
+      "sourceId": "20268",
+      "variantIds": [],
+      "sha256": "274a30a825c056976078ae94a1323354ea096021086e43873857aa2ccf13f04b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:31.987Z",
+  "issues": []
+}

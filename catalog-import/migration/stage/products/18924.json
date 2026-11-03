@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "18924",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys/18924-jersey-pelo-con-felpa-nina-rosado.html",
+  "name": "Jersey pelo con felpa niña Rosado",
+  "brand": "Mayoral",
+  "sku": "2402188",
+  "description": "Este jersey de pelo con felpa para niñas en color rosado combina suavidad, calidez y comodidad. Perfecto para los días fríos, es una prenda versátil y estilosa que encantará a cualquier niña. ¡No esperes más y añade este jersey a tu carrito de compras hoy mismo!",
+  "details": "Suavidad y Calidez para el Invierno\n\nEste jersey de pelo con felpa es la elección perfecta para mantener a las niñas abrigadas y cómodas durante los meses más fríos. Confeccionado en un tejido suave y esponjoso, este jersey garantiza una sensación de calidez y confort inigualable. El color rosado añade un toque de dulzura y ternura, ideal para iluminar cualquier día de invierno.\n\nDiseño Atractivo y Funcional\n\nEl diseño de este jersey no solo es estéticamente atractivo, sino también funcional. La felpa interior proporciona una capa adicional de aislamiento térmico, mientras que el exterior de pelo añade un toque de lujo y estilo. Las mangas largas y el cuello redondo ofrecen una cobertura completa, protegiendo a las niñas del frío. Este jersey es fácil de combinar con otras prendas, convirtiéndolo en una opción versátil para cualquier ocasión.\n\nComodidad y Estilo en Cada Uso\n\nCada detalle de este jersey de pelo con felpa ha sido pensado para ofrecer la máxima comodidad sin sacrificar el estilo. El tejido suave y esponjoso no solo es agradable a la vista, sino también al tacto. Este jersey es ideal para el uso diario, ya sea para ir al colegio, jugar en el parque o asistir a una reunión familiar. Las niñas se sentirán cómodas y a la moda en todo momento.\n\nComposición:\n\n75% Poliéster\n\n24% Algodón\n\n1% Elastano.",
+  "sourceDescriptionHtml": "<div class=\"content user-select-text\" style=\"font-size:medium;\">\n<div class=\"ac-container ac-adaptiveCard has-image\">\n<div class=\"ac-textBlock\">\n<h3>Suavidad y Calidez para el Invierno</h3>\n<p>Este <strong>jersey de pelo con felpa</strong> es la elección perfecta para mantener a las niñas abrigadas y cómodas durante los meses más fríos. Confeccionado en un tejido suave y esponjoso, este jersey garantiza una sensación de calidez y confort inigualable. El color <strong>rosado</strong> añade un toque de dulzura y ternura, ideal para iluminar cualquier día de invierno.</p>\n<h3>Diseño Atractivo y Funcional</h3>\n<p>El diseño de este jersey no solo es estéticamente atractivo, sino también funcional. La felpa interior proporciona una capa adicional de aislamiento térmico, mientras que el exterior de pelo añade un toque de lujo y estilo. Las mangas largas y el cuello redondo ofrecen una cobertura completa, protegiendo a las niñas del frío. Este jersey es fácil de combinar con otras prendas, convirtiéndolo en una opción versátil para cualquier ocasión.</p>\n<h3>Comodidad y Estilo en Cada Uso</h3>\n<p>Cada detalle de este <strong>jersey de pelo con felpa</strong> ha sido pensado para ofrecer la máxima comodidad sin sacrificar el estilo. El tejido suave y esponjoso no solo es agradable a la vista, sino también al tacto. Este jersey es ideal para el uso diario, ya sea para ir al colegio, jugar en el parque o asistir a una reunión familiar. Las niñas se sentirán cómodas y a la moda en todo momento.</p>\n<p>Composición:</p>\n<p>75% Poliéster</p>\n<p>24% Algodón</p>\n<p>1% Elastano.</p>\n<p></p>\n<p></p>\n<p></p>\n</div>\n</div>\n<div class=\"ad-container\"></div>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosado",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "772",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "772",
+  "sourceCategoryName": "Sudaderas y jerseys",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-10-08 15:54:14",
+  "sourceUpdatedAt": "2026-10-27 11:13:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87921",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2402188",
+      "productSku": "2402188",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:09.646Z"
+    },
+    {
+      "id": "87922",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2402188",
+      "productSku": "2402188",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:11.427Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18924-17483.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17483-large_default/jersey-pelo-con-felpa-nina-rosado.jpg",
+      "alt": "Jersey pelo con felpa niña Rosado",
+      "sourceId": "17483",
+      "variantIds": [],
+      "sha256": "48ecd0f072c97b7d533dfca4f12ae141bba4a917e17e33572354cc50f4c71dbd"
+    },
+    {
+      "path": "assets/18924-17484.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17484-large_default/jersey-pelo-con-felpa-nina-rosado.jpg",
+      "alt": "Jersey pelo con felpa niña Rosado",
+      "sourceId": "17484",
+      "variantIds": [],
+      "sha256": "7f6d31fa11ef7b8de3904346b3db18d33b5c47ff5cce29be59238a8ed0ca433c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:11.613Z",
+  "issues": []
+}

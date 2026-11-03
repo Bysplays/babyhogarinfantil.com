@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "20518",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/20518-conjunto-sport-3-piezas-bebe-nina-verde-agua.html",
+  "name": "Conjunto sport 3 piezas bebé niña Verde Agua",
+  "brand": "Babybol",
+  "sku": "2502087",
+  "description": "",
+  "details": "Composición: \n\n95% algodón, 5% elastano.\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición: </p>\n<p>95% algodón, 5% elastano.</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde Agua",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 39.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95091",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502087",
+      "productSku": "2502087",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:32.948Z"
+    },
+    {
+      "id": "95094",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502087",
+      "productSku": "2502087",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:35.444Z"
+    },
+    {
+      "id": "95095",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502087",
+      "productSku": "2502087",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:37.734Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20518-19304.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19304-large_default/conjunto-sport-3-piezas-bebe-nina-verde-agua.jpg",
+      "alt": "Conjunto sport 3 piezas bebé niña Verde Agua",
+      "sourceId": "19304",
+      "variantIds": [],
+      "sha256": "1995ab38d808a4b948a8a8201c02c7fe81d886f38f266c52a0d331ac82acf3e8"
+    },
+    {
+      "path": "assets/20518-19305.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19305-large_default/conjunto-sport-3-piezas-bebe-nina-verde-agua.jpg",
+      "alt": "Conjunto sport 3 piezas bebé niña Verde Agua",
+      "sourceId": "19305",
+      "variantIds": [],
+      "sha256": "ca07e085c73e851188830550c7a97ee7a4feec157746c8bbfb6051bc0020c532"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:37.908Z",
+  "issues": []
+}

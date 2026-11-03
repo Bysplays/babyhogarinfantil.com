@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "21561",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21561-conjunto-tirantes-luna-verde.html",
+  "name": "Conjunto tirantes luna Verde",
+  "brand": "Baby-Ferr",
+  "sku": "2502181",
+  "description": "Conjunto 2 piezas con pantalón corto con tirantes y camisa cuello bebé. Simpático estampado de ovejitas sobre una luna. La camisa de manga larga con botones en el puño, se abre completamente por la espalda para facilitar la puesta. Pantaloncito corto con tacto muy suave y agradable, está forrado en todo el interior. Busca los leotardos a juego que mejor te combinen. Dos opciones a elegir. Se venden por separado. \n\nBusca aquí los leotardos que mejor te combinen Leotardos Invierno\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nPeto:  40% algodón, 42% poliéster, 18%viscosa.\n\nForro: 67% poliéster, 33% algodón.\n\nCamisa:  100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Peto</strong>:  40% algodón, 42% poliéster, 18%viscosa.</p>\n<p>Forro: 67% poliéster, 33% algodón.</p>\n<p><strong>Camisa</strong>:  100% algodón. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 39.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-05 15:53:13",
+  "sourceUpdatedAt": "2026-10-27 11:14:48",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97219",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502181",
+      "productSku": "2502181",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:58.747Z"
+    },
+    {
+      "id": "97220",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502181",
+      "productSku": "2502181",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:59.731Z"
+    },
+    {
+      "id": "97221",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502181",
+      "productSku": "2502181",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:00.570Z"
+    },
+    {
+      "id": "97222",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502181",
+      "productSku": "2502181",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:01.544Z"
+    },
+    {
+      "id": "97223",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2502181",
+      "productSku": "2502181",
+      "taxRate": 21,
+      "price": 39.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:02.668Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21561-20148.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20148-large_default/conjunto-tirantes-luna-verde.jpg",
+      "alt": "Conjunto tirantes luna Verde",
+      "sourceId": "20148",
+      "variantIds": [],
+      "sha256": "5bdbf88b8c1951869f88501c07ea491c9ee0eae1bb3d6158914388a7af84e307"
+    },
+    {
+      "path": "assets/21561-20147.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20147-large_default/conjunto-tirantes-luna-verde.jpg",
+      "alt": "Conjunto tirantes luna Verde",
+      "sourceId": "20147",
+      "variantIds": [],
+      "sha256": "2da393d3cc2db39f261dcceb45925e2f49b4411b77cb3c1a471fe20ded31766f"
+    },
+    {
+      "path": "assets/21561-20149.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20149-large_default/conjunto-tirantes-luna-verde.jpg",
+      "alt": "Conjunto tirantes luna Verde",
+      "sourceId": "20149",
+      "variantIds": [],
+      "sha256": "fb7170d784180b6186d636d0d11b94dd6264ac9fdc9a0593d210cf5c1f29b640"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:02.828Z",
+  "issues": []
+}

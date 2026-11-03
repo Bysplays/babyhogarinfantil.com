@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "9360",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/9360-pijama-bebe-nina-entero-verano-azul.html",
+  "name": "Pijama bebe niña entero verano Azul",
+  "brand": "Zippy",
+  "sku": "2201053",
+  "description": "Pijama entero 100% algodón. Se abre completamente por delante con corchetes para facilitar la puesta.",
+  "details": "Composición y cuidados:\n\nPijama: 100% algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR 30º RECOMENDADO.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pijama: 100% algodón.</p>\n<p>NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR 30º RECOMENDADO.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 6,
+  "oldPrice": 12.0032,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69069",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2201053",
+      "productSku": "2201053",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:40.272Z"
+    },
+    {
+      "id": "69072",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2201053",
+      "productSku": "2201053",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:42.624Z"
+    },
+    {
+      "id": "69073",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2201053",
+      "productSku": "2201053",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:44.910Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9360-7610.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7610-large_default/pijama-bebe-nina-entero-verano-azul.jpg",
+      "alt": "Pijama bebe niña entero verano Azul",
+      "sourceId": "7610",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9360-12230.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12230-large_default/pijama-bebe-nina-entero-verano-azul.jpg",
+      "alt": "Pijama bebe niña entero verano Azul",
+      "sourceId": "12230",
+      "variantIds": [],
+      "sha256": "ba3c76bbe1c87359a1b59a1be2c192b021e4560a2403d2f1a630a51a170bc17c"
+    },
+    {
+      "path": "assets/9360-8471.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8471-large_default/pijama-bebe-nina-entero-verano-azul.jpg",
+      "alt": "Pijama bebe niña entero verano Azul",
+      "sourceId": "8471",
+      "variantIds": [],
+      "sha256": "1e064d452acbac351fd4b642dc5402eabcaa67ff9ed52a482f312d684006a849"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:45.108Z",
+  "issues": []
+}

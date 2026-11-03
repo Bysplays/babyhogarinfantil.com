@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "20461",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/20461-conjunto-leggin-bebe-nina-cacahuete.html",
+  "name": "Conjunto leggin bebé niña Cacahuete",
+  "brand": "Mayoral",
+  "sku": "2502037",
+  "description": "Cojunto con legin de rayas y sudadera corazones.\n\nOJO EL PRECIO ES DE 1 SOLO CONJUNTO. SE VENDEN POR SEPARADO.",
+  "details": "COMPOSICIÓN\n\nSudadera:\n\n95% Algodón\n\n5% Elastano\n\nLeggin:\n\n95% Algodón\n\n5% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Sudadera:</strong></p>\n<p>95% Algodón</p>\n<p>5% Elastano</p>\n<p><strong>Leggin:</strong></p>\n<p>95% Algodón</p>\n<p>5% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cacahuete",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 21.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94744",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2502037",
+      "productSku": "2502037",
+      "taxRate": 21,
+      "price": 21.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:43.978Z"
+    },
+    {
+      "id": "94745",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502037",
+      "productSku": "2502037",
+      "taxRate": 21,
+      "price": 21.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:46.146Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20461-19771.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19771-large_default/conjunto-leggin-bebe-nina-cacahuete.jpg",
+      "alt": "Conjunto leggin bebé niña Cacahuete",
+      "sourceId": "19771",
+      "variantIds": [],
+      "sha256": "088371bf220ecb93e0895c599fbcaf894d4f516f02c906d532649707ad54dc58"
+    },
+    {
+      "path": "assets/20461-19772.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19772-large_default/conjunto-leggin-bebe-nina-cacahuete.jpg",
+      "alt": "Conjunto leggin bebé niña Cacahuete",
+      "sourceId": "19772",
+      "variantIds": [],
+      "sha256": "e919cc5aa7a7767b6b728f9b26c35fcac1d9f4e987880454456e170a3a2faefa"
+    },
+    {
+      "path": "assets/20461-19773.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19773-large_default/conjunto-leggin-bebe-nina-cacahuete.jpg",
+      "alt": "Conjunto leggin bebé niña Cacahuete",
+      "sourceId": "19773",
+      "variantIds": [],
+      "sha256": "38c9b8f94b130c50dad267680fbbcd487f07d6c24d26c878269c1e9ed67a1c02"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:46.361Z",
+  "issues": []
+}

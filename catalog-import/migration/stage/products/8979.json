@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "8979",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/8979-rebeca-tricot-basica-rojo.html",
+  "name": "Rebeca tricot básica Rojo",
+  "brand": "Mayoral",
+  "sku": "2107048",
+  "description": "Chaqueta bolero para vestidos, 100% algodón. Para todo tiempo.",
+  "details": "Composición y cuidados:\n\nChaqueta: 100% algodón orgánico.\n\nLAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO\n\nNO UTILIZAR BLANQUEANTES NI LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Chaqueta: 100% algodón orgánico.</p>\n<p>LAVAR A MÁQUINA MÁXIMA 30ºC RECOMENDADO</p>\n<p>NO UTILIZAR BLANQUEANTES NI LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110ºC RECOMENDADO</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 9.5,
+  "oldPrice": 18.994901,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-26 19:38:12",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "339",
+          "label": "1-2m"
+        },
+        {
+          "id": "340",
+          "label": "2-4m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72984",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "339",
+          "group": "Tamaño",
+          "value": "1-2m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.994901,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:26.822Z"
+    },
+    {
+      "id": "72985",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2107048",
+      "productSku": "2107048",
+      "taxRate": 21,
+      "price": 9.5,
+      "oldPrice": 18.994901,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:28.615Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8979-7293.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7293-large_default/rebeca-tricot-basica-rojo.jpg",
+      "alt": "Rebeca tricot básica Rojo",
+      "sourceId": "7293",
+      "variantIds": [],
+      "sha256": "dc7714f42740a5fc578de3211cb25cda0f7be9a6903a0fb8753cc797983596cb"
+    },
+    {
+      "path": "assets/8979-11749.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11749-large_default/rebeca-tricot-basica-rojo.jpg",
+      "alt": "Rebeca tricot básica Rojo",
+      "sourceId": "11749",
+      "variantIds": [],
+      "sha256": "c06ebbb7166e3e3f95788a58626568161b25e917cae45625a6281429c666b38e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:28.781Z",
+  "issues": []
+}

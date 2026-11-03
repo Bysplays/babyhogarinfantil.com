@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "id": "6143",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/6143-calcetin-corto-perle-detalle-calado-lino.html",
+  "name": "Calcetín corto perlé detalle calado Lino",
+  "brand": "Condor",
+  "sku": "686",
+  "description": "Calcetines cortos de algodón perlé, con calado diagonal y puño de fantasía. DISPONIBLE EN VARIOS COLORES.",
+  "details": "Calcetines cortos de CONDOR, una de nuestras firmas preferidas! De algodón perlé, perfectos para verano. Con pequeño calado diagonal en el tobillo y puño de fantasía. Un complemento perfecto para combinar con diferentes estilos de calzado, con un tejido suave, flexible y transpirable! Echa un ojito a nuestros leotardos y medias para elegir el que mejor se adapte a lo que buscas!\n\nComposición y cuidados:\n\nCalcetines: 80% algodón 20% poliamida \n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nNO PLANCHAR\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Calcetines cortos de <strong>CONDOR</strong>, una de nuestras firmas preferidas! De algodón perlé, perfectos para verano. Con pequeño calado diagonal en el tobillo y puño de fantasía. Un complemento perfecto para combinar con diferentes estilos de calzado, con un tejido suave, flexible y transpirable! Echa un ojito a nuestros <strong>leotardos y medias</strong> para elegir el que mejor se adapte a lo que buscas!</span></p>\n<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Composición y cuidados:</span></p>\n<p><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">Calcetines: </span><span style=\"color:#666666;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;\">80% algodón 20% poliamida </span></p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>NO PLANCHAR</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "846"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 5.49,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 13,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62616",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:50.340Z"
+    },
+    {
+      "id": "62619",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:54.290Z"
+    },
+    {
+      "id": "62620",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:57.091Z"
+    },
+    {
+      "id": "62621",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:59.616Z"
+    },
+    {
+      "id": "62622",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "686",
+      "productSku": "686",
+      "taxRate": 21,
+      "price": 5.49,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:02.881Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6143-4035.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4035-large_default/calcetin-corto-perle-detalle-calado-lino.jpg",
+      "alt": "Calcetín corto perlé detalle calado Lino",
+      "sourceId": "4035",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6143-4034.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4034-large_default/calcetin-corto-perle-detalle-calado-lino.jpg",
+      "alt": "Calcetín corto perlé detalle calado Lino",
+      "sourceId": "4034",
+      "variantIds": [],
+      "sha256": "91f6a72686243612ea98e33eb1eeae6b42afd70424b9c47a41c14e68dc9fb772"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:03.041Z",
+  "issues": []
+}

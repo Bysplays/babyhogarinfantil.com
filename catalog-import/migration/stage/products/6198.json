@@ -1,0 +1,410 @@
+{
+  "schemaVersion": 1,
+  "id": "6198",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/6198-zapato-velcro-sin-puntera-25-al-28-azul-marino.html",
+  "name": "Zapato velcro Sin puntera 25 al 28 Azul Marino",
+  "brand": "Gorila",
+  "sku": "976",
+  "description": "Zapato escolar GORILA con velcro. Plantilla extraíble.",
+  "details": "TECNOLOGÍA ADAPTACTION:  Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) \nPRODUCTO DE PIEL:  Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. \nCREMA DE LIMPIEZA:  Para su limpieza se recomienda la crema natural de Callaghan.",
+  "sourceDescriptionHtml": "<p><span style=\"text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"font-weight:bolder;\">TECNOLOGÍA ADAPTACTION:  </span><span>Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) </span><br /></span><span style=\"text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"font-weight:bolder;\">PRODUCTO DE PIEL:  </span><span>Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. </span><br /></span><span style=\"text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"font-weight:bolder;\">CREMA DE LIMPIEZA:  </span><span>Para su limpieza se recomienda la crema natural de Callaghan.</span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "783",
+    "684",
+    "850",
+    "879"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 48,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        },
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "260",
+          "label": "21"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        },
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "279",
+          "label": "25"
+        },
+        {
+          "id": "252",
+          "label": "26"
+        },
+        {
+          "id": "280",
+          "label": "27"
+        },
+        {
+          "id": "281",
+          "label": "28"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62854",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "867XI1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 48,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:01.960Z"
+    },
+    {
+      "id": "144208",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "867XA1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:04.497Z"
+    },
+    {
+      "id": "144209",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "867XB1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:07.288Z"
+    },
+    {
+      "id": "144210",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "867XC1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:09.237Z"
+    },
+    {
+      "id": "144211",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "260",
+          "group": "Tamaño",
+          "value": "21"
+        }
+      ],
+      "sku": "867XD1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:11.368Z"
+    },
+    {
+      "id": "144212",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "867XE1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:13.372Z"
+    },
+    {
+      "id": "144213",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "867XF1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:15.602Z"
+    },
+    {
+      "id": "144214",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "867XG1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:17.687Z"
+    },
+    {
+      "id": "144215",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "279",
+          "group": "Tamaño",
+          "value": "25"
+        }
+      ],
+      "sku": "867XH1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:19.633Z"
+    },
+    {
+      "id": "144216",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "280",
+          "group": "Tamaño",
+          "value": "27"
+        }
+      ],
+      "sku": "867XJ1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:21.441Z"
+    },
+    {
+      "id": "144217",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "281",
+          "group": "Tamaño",
+          "value": "28"
+        }
+      ],
+      "sku": "867XK1586",
+      "productSku": "976",
+      "taxRate": 21,
+      "price": 46,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:23.425Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6198-4104.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4104-large_default/zapato-velcro-sin-puntera-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro Sin puntera 25 al 28 Azul Marino",
+      "sourceId": "4104",
+      "variantIds": [],
+      "sha256": "36dff800d660c95e9568b83a71fa77e6ff0e82cf5ac3dee15d5f0cdb8f0ab223"
+    },
+    {
+      "path": "assets/6198-4105.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4105-large_default/zapato-velcro-sin-puntera-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro Sin puntera 25 al 28 Azul Marino",
+      "sourceId": "4105",
+      "variantIds": [],
+      "sha256": "9bfe371491d6202ab9acec8b2afcfcd20e82320caba90e4517f5ec126ed04ab0"
+    },
+    {
+      "path": "assets/6198-4106.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4106-large_default/zapato-velcro-sin-puntera-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro Sin puntera 25 al 28 Azul Marino",
+      "sourceId": "4106",
+      "variantIds": [],
+      "sha256": "148d857771262db442126b633398ed035efa84dac2476c0d645ceb06ac94bae9"
+    },
+    {
+      "path": "assets/6198-9427.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9427-large_default/zapato-velcro-sin-puntera-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro Sin puntera 25 al 28 Azul Marino",
+      "sourceId": "9427",
+      "variantIds": [],
+      "sha256": "36dff800d660c95e9568b83a71fa77e6ff0e82cf5ac3dee15d5f0cdb8f0ab223"
+    },
+    {
+      "path": "assets/6198-9428.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9428-large_default/zapato-velcro-sin-puntera-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro Sin puntera 25 al 28 Azul Marino",
+      "sourceId": "9428",
+      "variantIds": [],
+      "sha256": "9bfe371491d6202ab9acec8b2afcfcd20e82320caba90e4517f5ec126ed04ab0"
+    },
+    {
+      "path": "assets/6198-9429.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9429-large_default/zapato-velcro-sin-puntera-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro Sin puntera 25 al 28 Azul Marino",
+      "sourceId": "9429",
+      "variantIds": [],
+      "sha256": "148d857771262db442126b633398ed035efa84dac2476c0d645ceb06ac94bae9"
+    },
+    {
+      "path": "assets/6198-4103.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4103-large_default/zapato-velcro-sin-puntera-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro Sin puntera 25 al 28 Azul Marino",
+      "sourceId": "4103",
+      "variantIds": [],
+      "sha256": "16efe11fac100ecb8f448d95ea2d01a5c7aa6a5ff5a97f09f5a6cbdc2f8a62dc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:23.845Z",
+  "issues": []
+}

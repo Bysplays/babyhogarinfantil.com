@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "20470",
+  "sourceUrl": "https://babyhogarinfantil.com/chandal-bebe-nina/20470-chandal-3-piezas-bebe-nina-cuarzo.html",
+  "name": "Chandal 3 piezas bebé niña Cuarzo",
+  "brand": "Mayoral",
+  "sku": "2502045",
+  "description": "Conjunto chandal de 3 piezas para bebé. El pantalón tiene la cintura elástica y la pierna ancha. Sudadera con cremallera. La camiseta d emanga larga tiene botones a presión para facilitar la puesta.",
+  "details": "COMPOSICIÓN\n\nChaqueta:\n\n95% Algodón\n\n5% Elastano\n\nForro\n\n100% Algodón\n\nCamiseta manga larga:\n\n95% Algodón\n\n5% Elastano\n\nPantalón largo:\n\n95% Algodón\n\n5% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Chaqueta:</strong></p>\n<p>95% Algodón</p>\n<p>5% Elastano</p>\n<p>Forro</p>\n<p>100% Algodón</p>\n<p><strong>Camiseta manga larga:</strong></p>\n<p>95% Algodón</p>\n<p>5% Elastano</p>\n<p><strong>Pantalón largo:</strong></p>\n<p>95% Algodón</p>\n<p>5% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cuarzo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "786",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "786",
+  "sourceCategoryName": "Chandal Bebé niña",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94800",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502045",
+      "productSku": "2502045",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:38.531Z"
+    },
+    {
+      "id": "99102",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502045",
+      "productSku": "2502045",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:40.545Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20470-19795.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19795-large_default/chandal-3-piezas-bebe-nina-cuarzo.jpg",
+      "alt": "Chandal 3 piezas bebé niña Cuarzo",
+      "sourceId": "19795",
+      "variantIds": [],
+      "sha256": "d2392b889952435ed379314bcc1dcc2db8332089e28b2b99613e1da1c4b72275"
+    },
+    {
+      "path": "assets/20470-19796.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19796-large_default/chandal-3-piezas-bebe-nina-cuarzo.jpg",
+      "alt": "Chandal 3 piezas bebé niña Cuarzo",
+      "sourceId": "19796",
+      "variantIds": [],
+      "sha256": "a0ee5f7b2e867810f3d86b450a352a3968d26b8822ddc0d08f202dd5246d0aaf"
+    },
+    {
+      "path": "assets/20470-19797.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19797-large_default/chandal-3-piezas-bebe-nina-cuarzo.jpg",
+      "alt": "Chandal 3 piezas bebé niña Cuarzo",
+      "sourceId": "19797",
+      "variantIds": [],
+      "sha256": "580242b4345025daffd2ed13bd9b98bdbfdae44fe65f1b131e15edc0249ab5e0"
+    },
+    {
+      "path": "assets/20470-19798.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19798-large_default/chandal-3-piezas-bebe-nina-cuarzo.jpg",
+      "alt": "Chandal 3 piezas bebé niña Cuarzo",
+      "sourceId": "19798",
+      "variantIds": [],
+      "sha256": "c4061d7161fad12ab8c8c99913188250cd622233cc2a37bce2d16cc1dd71e094"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:40.798Z",
+  "issues": []
+}

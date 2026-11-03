@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "id": "6305",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-altos/6305-calcetin-alto-basica-punto-liso-azul-marino.html",
+  "name": "Calcetin alto básica punto liso Azul Marino",
+  "brand": "Condor",
+  "sku": "1040",
+  "description": "Calcetines altos AZUL MARINO básicos punto liso de algodón.",
+  "details": "Composición y cuidados:\n\n\nCalcetín: 75% algodón, 22% poliamida, 3% elastano.\n\n\nNO PLANCHAR.\n\n\nNO USAR SECADORA.\n\n\nNO USAR LEJIAS QUE LA LIAS.\n\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\">Composición y cuidados:</p><p></p>\n<p class=\"MsoNormal\">Calcetín: 75% algodón, 22% poliamida, 3% elastano.</p><p></p>\n<p class=\"MsoNormal\">NO PLANCHAR.</p><p></p>\n<p class=\"MsoNormal\">NO USAR SECADORA.</p><p></p>\n<p class=\"MsoNormal\">NO USAR LEJIAS QUE LA LIAS.</p><p></p>\n<p class=\"MsoNormal\"><b>HECHO EN ESPAÑA</b></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "688",
+    "840",
+    "783",
+    "850",
+    "888"
+  ],
+  "sourceDefaultCategoryId": "688",
+  "sourceCategoryName": "Calcetines altos",
+  "price": 6.9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 91,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63268",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1040",
+      "productSku": "1040",
+      "taxRate": 21,
+      "price": 6.9,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:22.168Z"
+    },
+    {
+      "id": "63269",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1040",
+      "productSku": "1040",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:24.239Z"
+    },
+    {
+      "id": "63270",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1040",
+      "productSku": "1040",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 15,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:26.871Z"
+    },
+    {
+      "id": "63271",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1040",
+      "productSku": "1040",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 22,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:29.654Z"
+    },
+    {
+      "id": "63272",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1040",
+      "productSku": "1040",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 28,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:32.467Z"
+    },
+    {
+      "id": "63273",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "1040",
+      "productSku": "1040",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:35.279Z"
+    },
+    {
+      "id": "130134",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1040",
+      "productSku": "1040",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:11:37.523Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6305-4295.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4295-large_default/calcetin-alto-basica-punto-liso-azul-marino.jpg",
+      "alt": "Calcetin alto básica punto liso Azul Marino",
+      "sourceId": "4295",
+      "variantIds": [],
+      "sha256": "64722e99cb8fcdb9b7b788a536cd5d2c1ef0937a762c6b146a98a3a0e8e2f4c7"
+    },
+    {
+      "path": "assets/6305-4296.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4296-large_default/calcetin-alto-basica-punto-liso-azul-marino.jpg",
+      "alt": "Calcetin alto básica punto liso Azul Marino",
+      "sourceId": "4296",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:11:37.715Z",
+  "issues": []
+}

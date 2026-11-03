@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "10142",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-y-batas-nino-invierno/10142-bata-nino-t-rex-azul.html",
+  "name": "Bata niño T-rex Azul",
+  "brand": "Tobogan",
+  "sku": "2208261",
+  "description": "Bata de invierno con cremallera, en color azul con estampado de dinosaurio",
+  "details": "Composición:\n\nBata: 100% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Bata: 100% poliéster.</p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "781"
+  ],
+  "sourceDefaultCategoryId": "781",
+  "sourceCategoryName": "Pijamas y batas Niño Invierno",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:58",
+  "sourceUpdatedAt": "2026-10-27 11:12:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71011",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2208261",
+      "productSku": "2208261",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:01.090Z"
+    },
+    {
+      "id": "71013",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2208261",
+      "productSku": "2208261",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:02.305Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10142-8152.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8152-large_default/bata-nino-t-rex-azul.jpg",
+      "alt": "Bata niño T-rex Azul",
+      "sourceId": "8152",
+      "variantIds": [],
+      "sha256": "20370c150fa8422afa90e5132dc196168f2d899a42e94ad7fd476bd8ce3ea6a9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:02.373Z",
+  "issues": []
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7901",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nino/7901-jersey-reno-azul.html",
+  "name": "Jersey Reno Azul",
+  "brand": "A&amp;J",
+  "sku": "1908118",
+  "description": "Enamórate del Jersey Reno Azul, el abrigo preferido para tu pequeño este invierno. Este hermoso jersey proporcionará el confort y suavidad que tu bebé y niño merece. La mezcla de algodón cuidará de su piel sensible, mientras que el diseño alegre y atractivo de Reno Azul iluminará sus días. Irresistible por su dulzura, este jersey es imprescindible en cualquier armario de un bebé o niño. No lo pienses más, deja que tu pequeño disfrute del agradable abrazo del Jersey Reno Azul.",
+  "details": "Temporada de estilos vibrantes: Impregnado de colores vivos y alegres, el Jersey Reno Azul es la prenda perfecta para inyectar un toque de alegría en el armario de los niños. Este suéter es agradable al tacto y lo suficientemente resistente para resistir las aventuras cotidianas. Traerá felicidad a su hijo cada vez que se lo ponga.\n\n\nConfort inigualable: Confeccionado con materiales de alta calidad, este jersey garantiza un confort excepcional para su pequeño. Permítale disfrutar de la suavidad y la comodidad en los días más frescos. Además, su fácil cuidado asegura que este suéter se mantenga como nuevo, incluso después de múltiples lavados.\n\n\nInspiración lúdica: Este Jersey Reno Azul tiene un diseño divertido y alegre que seguro atraerá a su hijo. Perfecto para destacar en cualquier ocasión, este jersey dará un toque único al estilo de vestir de su hijo. Deje que su pequeño exprese su personalidad con esta pieza lúdica y vibrante.\n\n\nNo deje pasar esta oportunidad y agregue este cómodo y alegre Jersey Reno Azul a su carrito de compras ahora! Le aseguramos que su hijo estará encantado con su nueva y vibrante prenda.",
+  "sourceDescriptionHtml": "<p><strong>Temporada de estilos vibrantes</strong>: Impregnado de colores vivos y alegres, el Jersey Reno Azul es la prenda perfecta para inyectar un toque de alegría en el armario de los niños. Este suéter es agradable al tacto y lo suficientemente resistente para resistir las aventuras cotidianas. Traerá felicidad a su hijo cada vez que se lo ponga.</p>\n\n<p><strong>Confort inigualable</strong>: Confeccionado con materiales de alta calidad, este jersey garantiza un confort excepcional para su pequeño. Permítale disfrutar de la suavidad y la comodidad en los días más frescos. Además, su fácil cuidado asegura que este suéter se mantenga como nuevo, incluso después de múltiples lavados.</p>\n\n<p><strong>Inspiración lúdica</strong>: Este Jersey Reno Azul tiene un diseño divertido y alegre que seguro atraerá a su hijo. Perfecto para destacar en cualquier ocasión, este jersey dará un toque único al estilo de vestir de su hijo. Deje que su pequeño exprese su personalidad con esta pieza lúdica y vibrante.</p>\n\n<p>No deje pasar esta oportunidad y agregue este cómodo y alegre Jersey Reno Azul a su carrito de compras ahora! Le aseguramos que su hijo estará encantado con su nueva y vibrante prenda.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "741"
+  ],
+  "sourceDefaultCategoryId": "741",
+  "sourceCategoryName": "Sudaderas y jerseys bebé niño",
+  "price": 14.96,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:30",
+  "sourceUpdatedAt": "2026-10-27 11:10:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66654",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1908118",
+      "productSku": "1908118",
+      "taxRate": 21,
+      "price": 14.96,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:05.064Z"
+    },
+    {
+      "id": "66655",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1908118",
+      "productSku": "1908118",
+      "taxRate": 21,
+      "price": 14.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:07.309Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7901-10660.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10660-large_default/jersey-reno-azul.jpg",
+      "alt": "Jersey Reno Azul",
+      "sourceId": "10660",
+      "variantIds": [],
+      "sha256": "fe43e268c3eadeec3506b6696f9cb685ba3793227dce05b167a86cf80d447183"
+    },
+    {
+      "path": "assets/7901-10659.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10659-large_default/jersey-reno-azul.jpg",
+      "alt": "Jersey Reno Azul",
+      "sourceId": "10659",
+      "variantIds": [],
+      "sha256": "43471a608b133c9031a76a514a6370b2b7b4e036f994166ec61a19464b6b9985"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:07.431Z",
+  "issues": []
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "21588",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/21588-pantalon-felpa-basico-salvia.html",
+  "name": "Pantalón felpa basico Salvia",
+  "brand": "Mayoral",
+  "sku": "2208063",
+  "description": "Pantalón largo super skinny para niña de corte ajustado. Cinturilla con goma elástica regulable con botones en el interior para mejor ajuste. Interior con cálido tejido de felpa cálido para los meses fríos. Tiene con bolsillos simulados en el delantero y funcionales en la parte trasera. de la colección Mayoral Basic, una prenda esencial en su armario para completar cualquier look.",
+  "details": "COMPOSICIÓN\n\nPantalón:\n\n95% Algodón\n\n5% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Pantalón:</strong></p>\n<p>95% Algodón</p>\n<p>5% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Salvia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 0,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-11-11 15:52:46",
+  "sourceUpdatedAt": "2026-10-27 11:11:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [],
+  "variants": [
+    {
+      "id": "97417",
+      "attributes": [],
+      "sku": "2208063",
+      "productSku": "2208063",
+      "taxRate": 21,
+      "price": 0,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:03.674Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21588-20285.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20285-large_default/pantalon-felpa-basico-salvia.jpg",
+      "alt": "Pantalón felpa basico Salvia",
+      "sourceId": "20285",
+      "variantIds": [],
+      "sha256": "2135532d28bf5f8bdacc53e9651f41e973f629cced500f05af5001e050c1ffb3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:03.716Z",
+  "issues": []
+}

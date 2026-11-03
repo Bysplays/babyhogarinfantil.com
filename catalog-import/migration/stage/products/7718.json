@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "7718",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nina/7718-merceditas-combinadas-charol-azul.html",
+  "name": "Merceditas combinadas Charol Azul",
+  "brand": "Caminito",
+  "sku": "1904063",
+  "description": "Merceditas combinadas piel CHAROL y ante. Abrocha con pulsera de hebilla.",
+  "details": "Garantizamos que para la fabricación de estos zapatos se han empleado materiales de primera calidad en todos sus componentes.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Garantizamos que para la fabricación de estos zapatos se han empleado materiales de primera calidad en todos sus componentes.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charol Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "695"
+  ],
+  "sourceDefaultCategoryId": "695",
+  "sourceCategoryName": "Calzado Niña",
+  "price": 39.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:19",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "260",
+          "label": "21"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66211",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "260",
+          "group": "Tamaño",
+          "value": "21"
+        }
+      ],
+      "sku": "1904063",
+      "productSku": "1904063",
+      "taxRate": 21,
+      "price": 39.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:40.844Z"
+    },
+    {
+      "id": "98224",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "1904063",
+      "productSku": "1904063",
+      "taxRate": 21,
+      "price": 39.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:43.661Z"
+    },
+    {
+      "id": "66213",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "1904063",
+      "productSku": "1904063",
+      "taxRate": 21,
+      "price": 39.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:46.125Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7718-5741.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5741-large_default/merceditas-combinadas-charol-azul.jpg",
+      "alt": "Merceditas combinadas Charol Azul",
+      "sourceId": "5741",
+      "variantIds": [],
+      "sha256": "702adee6fa686f0a2aea5786ea3001dfcd0a5b74ce07668512c71497d13b7b6d"
+    },
+    {
+      "path": "assets/7718-10494.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10494-large_default/merceditas-combinadas-charol-azul.jpg",
+      "alt": "Merceditas combinadas Charol Azul",
+      "sourceId": "10494",
+      "variantIds": [],
+      "sha256": "189d28fcae173fc5b8e670587ec3d3771131d2d4cf8a7766c57c14e48b53b9b5"
+    },
+    {
+      "path": "assets/7718-5739.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5739-large_default/merceditas-combinadas-charol-azul.jpg",
+      "alt": "Merceditas combinadas Charol Azul",
+      "sourceId": "5739",
+      "variantIds": [],
+      "sha256": "b3c2da16d75062097a6088aaddb88eccba82acf33e28a6920a77ec2a09a51d37"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:46.331Z",
+  "issues": []
+}

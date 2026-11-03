@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7385",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nino/7385-chaqueta-larga-manga-rangla-trenzas-nino-oceano.html",
+  "name": "Chaqueta larga manga rangla trenzas niño Océano",
+  "brand": "Mac Ilusión",
+  "sku": "1807351",
+  "description": "Descubre la Chaqueta Larga Manga Rangla Trenzas Niño Océano, la elección perfecta para tu pequeño explorador marino. Confeccionada en suaves y resistentes materiales, esta chaqueta encierra el espíritu del océano. Sus bellas trenzas evocan las olas en un viaje emocionante por el mar. Ideal para jornadas al aire libre o paseos por la ciudad, su diseño versátil promete convertirse en la favorita de tu armario. Deja que la imaginación de tu niño navegue vistiendo esta espectacular chaqueta. ¡Adquiérela ahora!",
+  "details": "```\n\n\n¡Moda y Calidez en una sola prenda!\n\nLa Chaqueta larga manga rangla trenzas niño Océano se traduce en una esencia única de estilo y confort. La última moda en chaquetas para niños, cuenta con un diseño de trenzas en las mangas y un acabado de alta calidad, contribuyendo a un aspecto sofisticado y elegante. Ideal para las temporadas frescas, asegura mantener a cualquier niño cálido y cómodo.\n\n\nVistoso Diseño Océano\n\nDe inspiración marítima, el color Océano destaca en la chaqueta larga manga rangla al instante. Este diseño vistoso inspirado en los tonos del océano, añade un toque vibrante y alegre a cualquier conjunto. La versatilidad del color permite que se pueda combinar con una variedad de prendas, haciéndola una elección excelente para el armario de cada niño. \n\n\nValor Duradero\n\nLa selección de tejidos de alta calidad asegura que esta chaqueta de manga larga mantendrá su forma y color incluso después de múltiples usos y lavados. Este factor de duración garantiza que la chaqueta larga de manga rangla sea una inversión válida y deseable. La atención puesta a los detalles y el acabado de alta calidad, característica esencial en todas nuestras prendas, hacen de esta chaqueta una pieza imprescindible que durará a lo largo del tiempo.\n\n\n¿Por qué esperar? Da un paso adelante en la moda infantil con la Chaqueta larga manga rangla trenzas niño Océano. Una pieza que promete estilo, confort y durabilidad, todo en uno. ¡Compra ahora!\n\n\n\n```",
+  "sourceDescriptionHtml": "<p><p>```\n</p><div>\n<h2>¡Moda y Calidez en una sola prenda!</h2>\n<p>La Chaqueta larga manga rangla trenzas niño Océano se traduce en una esencia única de estilo y confort. La última moda en chaquetas para niños, cuenta con un diseño de trenzas en las mangas y un acabado de alta calidad, contribuyendo a un aspecto sofisticado y elegante. Ideal para las temporadas frescas, asegura mantener a cualquier niño cálido y cómodo.</p>\n\n<h2>Vistoso Diseño Océano</h2>\n<p>De inspiración marítima, el color Océano destaca en la chaqueta larga manga rangla al instante. Este diseño vistoso inspirado en los tonos del océano, añade un toque vibrante y alegre a cualquier conjunto. La versatilidad del color permite que se pueda combinar con una variedad de prendas, haciéndola una elección excelente para el armario de cada niño. </p>\n\n<h2>Valor Duradero</h2>\n<p>La selección de tejidos de alta calidad asegura que esta chaqueta de manga larga mantendrá su forma y color incluso después de múltiples usos y lavados. Este factor de duración garantiza que la chaqueta larga de manga rangla sea una inversión válida y deseable. La atención puesta a los detalles y el acabado de alta calidad, característica esencial en todas nuestras prendas, hacen de esta chaqueta una pieza imprescindible que durará a lo largo del tiempo.</p>\n\n<p>¿Por qué esperar? Da un paso adelante en la moda infantil con la Chaqueta larga manga rangla trenzas niño Océano. Una pieza que promete estilo, confort y durabilidad, todo en uno. ¡Compra ahora!</p>\n</div>\n```</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2018-19",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Oceano",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "738"
+  ],
+  "sourceDefaultCategoryId": "738",
+  "sourceCategoryName": "Chaquetas Niño",
+  "price": 19.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:24",
+  "sourceUpdatedAt": "2026-10-27 11:10:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65651",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "1807351",
+      "productSku": "1807351",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:00.070Z"
+    },
+    {
+      "id": "65653",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1807351",
+      "productSku": "1807351",
+      "taxRate": 21,
+      "price": 19.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:01.326Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7385-5348.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5348-large_default/chaqueta-larga-manga-rangla-trenzas-nino-oceano.jpg",
+      "alt": "Chaqueta larga manga rangla trenzas niño Océano",
+      "sourceId": "5348",
+      "variantIds": [],
+      "sha256": "be653c6f1b895658be0967927b93979283c787973cbb7a599dd71c58932d43fb"
+    },
+    {
+      "path": "assets/7385-5347.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5347-large_default/chaqueta-larga-manga-rangla-trenzas-nino-oceano.jpg",
+      "alt": "Chaqueta larga manga rangla trenzas niño Océano",
+      "sourceId": "5347",
+      "variantIds": [],
+      "sha256": "093da66fd5bed0ffae182ae2eb9a5e3c52b57e13af90cf708fff77968475894b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:01.483Z",
+  "issues": []
+}

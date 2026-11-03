@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "21498",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/21498-conjunto-algodon-con-felpa-bebe-nino-nube.html",
+  "name": "Conjunto algodón con felpa bebe niño Nube",
+  "brand": "Babybol",
+  "sku": "2502136",
+  "description": "Conjunto dos piezas para bebé. Tiene felpa interior, tanto el jersey como el pantalón, para que sea cálido. Pantalón con cinturilla de goma, y jersey con botones automáticos en el cuello para facilitar la puesta y bolsillo kanguro.",
+  "details": "Composición:\n\nConjunto bebé: 100% algodón",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Conjunto bebé: 100% algodón</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nube",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 21.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96811",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502136",
+      "productSku": "2502136",
+      "taxRate": 21,
+      "price": 21.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:04.215Z"
+    },
+    {
+      "id": "96813",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502136",
+      "productSku": "2502136",
+      "taxRate": 21,
+      "price": 21.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:05.366Z"
+    },
+    {
+      "id": "96814",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502136",
+      "productSku": "2502136",
+      "taxRate": 21,
+      "price": 21.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:06.553Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21498-20080.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20080-large_default/conjunto-algodon-con-felpa-bebe-nino-nube.jpg",
+      "alt": "Conjunto algodón con felpa bebe niño Nube",
+      "sourceId": "20080",
+      "variantIds": [],
+      "sha256": "57c5c572876c01cc1f74ad294d99be7f6586f8635e67e6349da182d3a7f00fa2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:06.628Z",
+  "issues": []
+}

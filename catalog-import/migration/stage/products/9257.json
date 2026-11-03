@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "9257",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9257-sudadera-nino-verano-subway-rojo.html",
+  "name": "Sudadera niño verano subway Rojo",
+  "brand": "Zippy",
+  "sku": "2111055",
+  "description": "Sudadera en color rojo con estampado de mapa del metro de Tokyo. Con acabado de canalé elástico en cuello, puños y cinturilla. Tacto de gran suavidad.",
+  "details": "Sudadera de ZIPPY, una de nuestras firmas más chulas! En color rojo, con el mapa del metro de Tokyo estampado en el pecho. Acabado de canalé elástico en el cuello, puños y cinturilla. Sin felpa interior. Una prenda cómoda, ligera y de tacto muy suave y amoroso. Echa un ojito a nuestras camisetas, pantalones vaqueros y de algodón y calzado y podrás combinarla como más te guste!\n\nComposición y cuidados:\n\nSudadera: 68% algodón, 32% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Sudadera de <strong>ZIPPY</strong>, una de nuestras firmas más chulas! En color rojo, con el<strong> mapa del metro de Tokyo</strong> estampado en el pecho. Acabado de canalé elástico en el cuello, puños y cinturilla. Sin felpa interior. Una prenda cómoda, ligera y de tacto muy suave y amoroso. Echa un ojito a nuestras <strong>camisetas, pantalones vaqueros y de algodón y calzado</strong> y podrás combinarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Sudadera: 68% algodón, 32% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 9,
+  "oldPrice": 17.9927,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:47",
+  "sourceUpdatedAt": "2026-10-27 11:11:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68782",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2111055",
+      "productSku": "2111055",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": 17.9927,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:21.779Z"
+    },
+    {
+      "id": "68783",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2111055",
+      "productSku": "2111055",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": 17.9927,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:23.785Z"
+    },
+    {
+      "id": "68784",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2111055",
+      "productSku": "2111055",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": 17.9927,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:25.506Z"
+    },
+    {
+      "id": "68785",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2111055",
+      "productSku": "2111055",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": 17.9927,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:27.351Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9257-12097.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12097-large_default/sudadera-nino-verano-subway-rojo.jpg",
+      "alt": "Sudadera niño verano subway Rojo",
+      "sourceId": "12097",
+      "variantIds": [],
+      "sha256": "2733936a4f6105ede88ca32c9ed87dae0f6037380da2352a4871e2669564e7e2"
+    },
+    {
+      "path": "assets/9257-12098.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12098-large_default/sudadera-nino-verano-subway-rojo.jpg",
+      "alt": "Sudadera niño verano subway Rojo",
+      "sourceId": "12098",
+      "variantIds": [],
+      "sha256": "8e6517c7eb7424fed9bdc80191f4faf96f6601df163c1c47689daebda57ce38a"
+    },
+    {
+      "path": "assets/9257-12099.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12099-large_default/sudadera-nino-verano-subway-rojo.jpg",
+      "alt": "Sudadera niño verano subway Rojo",
+      "sourceId": "12099",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9257-9096.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9096-large_default/sudadera-nino-verano-subway-rojo.jpg",
+      "alt": "Sudadera niño verano subway Rojo",
+      "sourceId": "9096",
+      "variantIds": [],
+      "sha256": "f76d4f600690b05059edbf7b58f395c2374eca73f7a6bf2fafb71e7cbdfcf55a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:27.573Z",
+  "issues": []
+}

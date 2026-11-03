@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6936",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nina/6936-sudadera-bebe-nina-con-cremallera-sweety-fucsia.html",
+  "name": "Sudadera bebé niña con cremallera sweety Fucsia",
+  "brand": "Chicco",
+  "sku": "1708018",
+  "description": "Sudadera con cremallera, para bebé niña. En color fucsia. Disponible en tres colores más. Con bolsillos, del que sale un simpático animalito estampado. Combínala con nuestras camisetas y pantalones de la firma CHICO.",
+  "details": "Composición:\n\n100% Algodón.\n\nNO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nNO LAVAR EN SECO.",
+  "sourceDescriptionHtml": "<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">Composición:</span></p>\n<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">100% Algodón.</span></p>\n<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">NO USAR SECADORA.</span></p>\n<p><span style=\"font-family:Verdana, sans-serif;font-size:7.5pt;\">NO USAR LEJIAS.</span></p>\n<p><span style=\"line-height:107%;font-family:Verdana, sans-serif;font-size:7.5pt;\">NO LAVAR EN SECO.</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Fucsia",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "727",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "727",
+  "sourceCategoryName": "Sudaderas y jerseys Bebé niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:18",
+  "sourceUpdatedAt": "2026-10-27 11:09:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64726",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1708018",
+      "productSku": "1708018",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:33.785Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6936-4855.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4855-large_default/sudadera-bebe-nina-con-cremallera-sweety-fucsia.jpg",
+      "alt": "Sudadera bebé niña con cremallera sweety Fucsia",
+      "sourceId": "4855",
+      "variantIds": [],
+      "sha256": "80280dbc14e3218c58f4e265e0c55723d2b98c9df77cc98630f6c7ee8fc2bd25"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:33.866Z",
+  "issues": []
+}

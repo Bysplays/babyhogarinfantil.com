@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "id": "6117",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-verano/6117-leotardo-perle-calado-lino.html",
+  "name": "Leotardo perlé calado Lino",
+  "brand": "Condor",
+  "sku": "683",
+  "description": "Leotardo de perlé calado, con detalles de espigas en los laterales, ideal para primavera y verano.",
+  "details": "Leotardos de C&Oacute;NDOR, una de nuestras firmas favoritas! Un modelo c&oacute;modo y vers&aacute;til en m&aacute;s de 20 colores. Confeccionados en hilo de perl&eacute; calado, ideales para primavera y verano, pues su tejido es fresco, ligero y transpirable! Detalles de espiga en los laterales y puntitos en la parte delantera y trasera. Echa un ojito a nuestro calzado, calcetines y medias de perl&eacute; y podr&aacute;s escoger la opci&oacute;n que mejor se adapte a lo que necesitas! \n\r\nComposici&oacute;n y cuidados:\n\r\nLeotardos: 80% Algod&oacute;n 20% Poliamida.\n\r\nNO USAR LEJ&Iacute;AS\n\r\nNO USAR SECADORA\n\r\nNO PLANCHAR\n\r\nLAVAR A 30&ordm; RECOMENDADO\n\r\n \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit; font-family: Lato, Helvetica Neue, Helvetica, sans-serif; font-size: 14px; vertical-align: baseline; color: #777777;\"><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;\">Leotardos de<strong>&nbsp;C&Oacute;NDOR</strong>, una de nuestras firmas favoritas! Un modelo c&oacute;modo y vers&aacute;til en m&aacute;s de 20 colores. Confeccionados en&nbsp;<strong>hilo de perl&eacute; calado</strong>, ideales para primavera y verano, pues su tejido es fresco, ligero y transpirable! Detalles de espiga en los laterales y puntitos en la parte delantera y trasera. Echa un ojito a nuestro&nbsp;<strong>calzado, calcetines y medias de perl&eacute;</strong>&nbsp;y podr&aacute;s escoger la opci&oacute;n que mejor se adapte a lo que necesitas!&nbsp;</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">Composici&oacute;n y cuidados:</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">Leotardos: 80% Algod&oacute;n 20% Poliamida.</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">NO USAR LEJ&Iacute;AS</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">NO USAR SECADORA</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">NO PLANCHAR</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">LAVAR A 30&ordm; RECOMENDADO</span></p>\r\n<p><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">&nbsp;</span></p>\r\n<p><strong><span style=\"font-size: 7.5pt; font-family: Verdana, sans-serif;\">FABRICADO EN ESPA&Ntilde;A</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "676",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "676",
+  "sourceCategoryName": "Leotardos Verano",
+  "price": 13.61,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 10,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62445",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:33.907Z"
+    },
+    {
+      "id": "100590",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:36.308Z"
+    },
+    {
+      "id": "100592",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:39.526Z"
+    },
+    {
+      "id": "62448",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 13.61,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:42.436Z"
+    },
+    {
+      "id": "62449",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 15.61,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:45.764Z"
+    },
+    {
+      "id": "72970",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "683",
+      "productSku": "683",
+      "taxRate": 21,
+      "price": 15.61,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:47.597Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6117-3982.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3982-large_default/leotardo-perle-calado-lino.jpg",
+      "alt": "Leotardo perlé calado Lino",
+      "sourceId": "3982",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6117-3983.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3983-large_default/leotardo-perle-calado-lino.jpg",
+      "alt": "Leotardo perlé calado Lino",
+      "sourceId": "3983",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6117-9351.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9351-large_default/leotardo-perle-calado-lino.jpg",
+      "alt": "Leotardo perlé calado Lino",
+      "sourceId": "9351",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6117-9352.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9352-large_default/leotardo-perle-calado-lino.jpg",
+      "alt": "Leotardo perlé calado Lino",
+      "sourceId": "9352",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6117-3981.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3981-large_default/leotardo-perle-calado-lino.jpg",
+      "alt": "Leotardo perlé calado Lino",
+      "sourceId": "3981",
+      "variantIds": [],
+      "sha256": "dcb8cb9d90d6ce0d0ad85bd714121639c2224a3ba3e954286b4bd56f45856bbb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:25:47.859Z",
+  "issues": []
+}

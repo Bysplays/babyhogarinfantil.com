@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "17454",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/17454-pantalon-vaquero-corto-con-boton-nino-azul.html",
+  "name": "Pantalón vaquero corto con botón niño Azul",
+  "brand": "Babybol",
+  "sku": "2401214",
+  "description": "Añade un toque de estilo clásico al guardarropa de tu pequeño con el Pantalón Vaquero Corto con Botón Niño en Azul. Diseñados con amor, estos pantalones se sentirán tan bien como se ven gracias a la calidad del denim. Cada detalle, desde el sofisticado tono azul hasta los auténticos botones, se ha cuidado meticulosamente para garantizar una calidad excepcional. Ideal para días de juegos, reuniones familiares, o simplemente para una actitud despreocupada todos los días. ¡Deje que su pequeño aventurero explore con estilo y confort!",
+  "details": "Estilo y Comodidad\nEstos pantalones vaqueros cortos para niños en un radiante tono azul son la elección perfecta para mantener a tu pequeño a la moda y cómodo durante todo el día. Diseñados con un cómodo botón de cierre, presentan un estilo moderno y a la vez funcional. Perfectos para dinámicas salidas o para un día de diversión en la casa.\n\nFabricación de Alta Calidad\nFabricados con materiales de alta calidad, los pantalones vaqueros cortos resisten el trajín de la más activa rutina de un niño. La resistente tela vaquera asegura que mantendrán su forma y color incluso después de muchos lavados, brindando una excelente relación calidad-precio.\n\nPerfectos para Toda Ocasión\nYa sea para un día de verano, para un paseo por el parque, o simplemente para jugar en casa, estos pantalones cortos son versátiles y ofrecen una variedad de opciones de combinación para lograr el look perfecto en todas las ocasiones.\n\nCompre Hoy y Actualice su Guardarropa\nNo esperes más y añade este indispensable par de pantalones vaqueros cortos a la colección de tu pequeño. Ofrecen una combinación incomparable de estilo y comodidad que seguramente será el favorito de tu niño. ¡Haz clic en \"comprar ahora\" y realza el estilo de tu pequeño hoy!\n\nComposición:\n\nPantalón: 98% algodón, 1% elastano.",
+  "sourceDescriptionHtml": "<p><b>Estilo y Comodidad</b><br />Estos pantalones vaqueros cortos para niños en un radiante tono azul son la elección perfecta para mantener a tu pequeño a la moda y cómodo durante todo el día. Diseñados con un cómodo botón de cierre, presentan un estilo moderno y a la vez funcional. Perfectos para dinámicas salidas o para un día de diversión en la casa.</p>\n<p><b>Fabricación de Alta Calidad</b><br />Fabricados con materiales de alta calidad, los pantalones vaqueros cortos resisten el trajín de la más activa rutina de un niño. La resistente tela vaquera asegura que mantendrán su forma y color incluso después de muchos lavados, brindando una excelente relación calidad-precio.</p>\n<p><b>Perfectos para Toda Ocasión</b><br />Ya sea para un día de verano, para un paseo por el parque, o simplemente para jugar en casa, estos pantalones cortos son versátiles y ofrecen una variedad de opciones de combinación para lograr el look perfecto en todas las ocasiones.</p>\n<p><b>Compre Hoy y Actualice su Guardarropa</b><br />No esperes más y añade este indispensable par de pantalones vaqueros cortos a la colección de tu pequeño. Ofrecen una combinación incomparable de estilo y comodidad que seguramente será el favorito de tu niño. ¡Haz clic en \"comprar ahora\" y realza el estilo de tu pequeño hoy!</p>\n<p>Composición:</p>\n<p>Pantalón: 98% algodón, 1% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2024",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-03-09 23:55:49",
+  "sourceUpdatedAt": "2026-10-27 11:13:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "83121",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2401214",
+      "productSku": "2401214",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:00.224Z"
+    },
+    {
+      "id": "83124",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2401214",
+      "productSku": "2401214",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:03.074Z"
+    },
+    {
+      "id": "83125",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2401214",
+      "productSku": "2401214",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:06.484Z"
+    },
+    {
+      "id": "83126",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2401214",
+      "productSku": "2401214",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:08.956Z"
+    },
+    {
+      "id": "85190",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2401214",
+      "productSku": "2401214",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:11.893Z"
+    },
+    {
+      "id": "83129",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2401214",
+      "productSku": "2401214",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:14.476Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17454-15208.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15208-large_default/pantalon-vaquero-corto-con-boton-nino-azul.jpg",
+      "alt": "Pantalón vaquero corto con botón niño Azul",
+      "sourceId": "15208",
+      "variantIds": [],
+      "sha256": "ad55200107c7092856f72bc4bb7ecf26a8da54ab22093d7ceac6b297a2ba8bc6"
+    },
+    {
+      "path": "assets/17454-15209.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15209-large_default/pantalon-vaquero-corto-con-boton-nino-azul.jpg",
+      "alt": "Pantalón vaquero corto con botón niño Azul",
+      "sourceId": "15209",
+      "variantIds": [],
+      "sha256": "ed80679e2cc4971f1339ce29ec642ad078c80fd1d9516ae54ce35ac95acf038d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:14.577Z",
+  "issues": []
+}

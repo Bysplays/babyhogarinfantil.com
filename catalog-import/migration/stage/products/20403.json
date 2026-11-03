@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "20403",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/20403-chaleco-acolchado-forro-pelo-verde.html",
+  "name": "Chaleco acolchado forro pelo Verde",
+  "brand": "Mayoral",
+  "sku": "2208040",
+  "description": "Chaleco acolchado forro pelo Verde insta a adentrarte en un mundo de confort y estilo inigualable! Un must-have para niños y niñas en la moda invernal. Suave, cómodo y cálido como un abrazo. Perfecto para los días de frio, permitiendo el juego sin restricciones. ¡Brinda a tus hijos el mejor regalo: confort, calor y estilo con tan solo un clic!",
+  "details": "Estilo y Comodidad Inigualables\n\nDestaca en la multitud con el impecable \"Chaleco Acolchado Forro Pelo Verde\". Este chaleco no solo ofrece versatilidad en términos de moda, sino que también proporciona comodidad y calidez durante los meses más fríos. Su exclusivo forro de pelo proporciona una capa extra de aislamiento, asegurando el bienestar en todo momento.\n\nCalidad Superior Para Los Más Pequeños\n\nHecho pensando en los más pequeños, este chaleco verde está diseñado con materiales de alta calidad que no solo garantizan durabilidad, sino también seguridad para los niños. En todo momento se ha tenido en cuenta la comodidad del niño, ofreciendo un producto suave al tacto y agradable de llevar.\n\nLa Elección Perfecta Para Cualquier Ocasión\n\nSea para un evento informal o para un día frío de paseo, el \"Chaleco Acolchado Forro Pelo Verde\" es la elección perfecta. Su color verde versátil le permite combinarlo con cualquier otra prenda con facilidad, proporcionando multitud de posibilidades para vestir a los más pequeños con un estilo actual y moderno.\n\n¡No esperes más! Asegura el confort y la elegancia de tu pequeño adquiriendo el \"Chaleco Acolchado Forro Pelo Verde\" hoy mismo. ¡Viste a tus niños con la máxima calidad!\n\nComposición:\n\nExterior: 100% poliéster.\n\nRelleno: 100% poliéster.\n\nForro: 100% poliéster.",
+  "sourceDescriptionHtml": "<h2>Estilo y Comodidad Inigualables</h2>\n<p>Destaca en la multitud con el impecable \"Chaleco Acolchado Forro Pelo Verde\". Este chaleco no solo ofrece versatilidad en términos de moda, sino que también proporciona comodidad y calidez durante los meses más fríos. Su exclusivo forro de pelo proporciona una capa extra de aislamiento, asegurando el bienestar en todo momento.</p>\n<h2>Calidad Superior Para Los Más Pequeños</h2>\n<p>Hecho pensando en los más pequeños, este chaleco verde está diseñado con materiales de alta calidad que no solo garantizan durabilidad, sino también seguridad para los niños. En todo momento se ha tenido en cuenta la comodidad del niño, ofreciendo un producto suave al tacto y agradable de llevar.</p>\n<h2>La Elección Perfecta Para Cualquier Ocasión</h2>\n<p>Sea para un evento informal o para un día frío de paseo, el \"Chaleco Acolchado Forro Pelo Verde\" es la elección perfecta. Su color verde versátil le permite combinarlo con cualquier otra prenda con facilidad, proporcionando multitud de posibilidades para vestir a los más pequeños con un estilo actual y moderno.</p>\n<p><strong>¡No esperes más! Asegura el confort y la elegancia de tu pequeño adquiriendo el \"Chaleco Acolchado Forro Pelo Verde\" hoy mismo. ¡Viste a tus niños con la máxima calidad!</strong></p>\n<p>Composición:</p>\n<p>Exterior: 100% poliéster.</p>\n<p>Relleno: 100% poliéster.</p>\n<p>Forro: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 19:08:03",
+  "sourceUpdatedAt": "2026-10-27 11:11:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94507",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2208040",
+      "productSku": "2208040",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:26.685Z"
+    },
+    {
+      "id": "96412",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2208040",
+      "productSku": "2208040",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:30.658Z"
+    },
+    {
+      "id": "94505",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2208040",
+      "productSku": "2208040",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:34.788Z"
+    },
+    {
+      "id": "94506",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2208040",
+      "productSku": "2208040",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:39.305Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20403-19095.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19095-large_default/chaleco-acolchado-forro-pelo-verde.jpg",
+      "alt": "Chaleco acolchado forro pelo Verde",
+      "sourceId": "19095",
+      "variantIds": [],
+      "sha256": "97c26adbfff88a5075bf7b7b986b0d09bdcbccda74af16883ba431a331b9c345"
+    },
+    {
+      "path": "assets/20403-19096.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19096-large_default/chaleco-acolchado-forro-pelo-verde.jpg",
+      "alt": "Chaleco acolchado forro pelo Verde",
+      "sourceId": "19096",
+      "variantIds": [],
+      "sha256": "f5a7e96114dc1b6cb570387feddfcb20b79ac89626e0346c27e49a9b5210ad96"
+    },
+    {
+      "path": "assets/20403-19097.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19097-large_default/chaleco-acolchado-forro-pelo-verde.jpg",
+      "alt": "Chaleco acolchado forro pelo Verde",
+      "sourceId": "19097",
+      "variantIds": [],
+      "sha256": "d067efb66ff7644bebce6912b47e524eb7de81d7beb755a1921bf9fc845ece29"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:39.513Z",
+  "issues": []
+}

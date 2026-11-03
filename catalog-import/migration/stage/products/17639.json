@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "17639",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/17639-merceditas-puntera-reforzada-40-43-negro.html",
+  "name": "Merceditas puntera reforzada 40-43 Negro",
+  "brand": "Gorila",
+  "sku": "1807309",
+  "description": "Experimenta el maravilloso confort y la elegancia inigualable de las Merceditas puntera reforzada 40-43 en color Negro. Perfectas para proteger los delicados pies de los pequeños sin sacrificar estilo. Su puntera reforzada ofrece una protección adicional, mientras su diseño fresco y clásico, asegura una adaptación perfecta a cualquier uniforme escolar. No más preocupaciones por los zapatos desgastados o incómodos. Con las Merceditas, tus niños podrán disfrutar de la escuela y jugar al máximo, mientras lucen el mejor calzado. ¡Elige hoy lo mejor para sus pies, elige Merceditas!",
+  "details": "Tecnología y Confort\n\nEstás buscando merceditas puntera reforzada en talla 40-43 en color negro? Esta es la elección perfecta. Nuestras merceditas combinan tecnología y confort, garantizando pasos seguros y cómodos. La puntera reforzada aporta durabilidad, resistiendo la actividad intensa propia de los niños.\n\nDiseño Elegante y Versátil\n\nNuestras merceditas en color negro no solo son prácticas, sino también elegantes. Con su diseño clásico, pueden combinarse con cualquier conjunto, desde el uniforme escolar hasta un outfit festivo. Una alternativa versátil, perfecta para todas las ocasiones.\n\nCalidad que Dura\n\nEl color negro intenso de nuestras merceditas, aunado a la puntera reforzada, asegura un producto resistente al uso diario y el paso del tiempo. Una inversión que vale la pena, gracias a su calidad y durabilidad.\n\n¿A qué esperas? Adquiere hoy mismo estas merceditas puntera reforzada 40-43 en color negro y ofrece a tus hijos comodidad y estilo en cada paso. ¡Compra ahora!",
+  "sourceDescriptionHtml": "<h2>Tecnología y Confort</h2>\n<p>Estás buscando merceditas puntera reforzada en talla 40-43 en color negro? Esta es la elección perfecta. Nuestras merceditas combinan tecnología y confort, garantizando pasos seguros y cómodos. La puntera reforzada aporta durabilidad, resistiendo la actividad intensa propia de los niños.</p>\n<h2>Diseño Elegante y Versátil</h2>\n<p>Nuestras merceditas en color negro no solo son prácticas, sino también elegantes. Con su diseño clásico, pueden combinarse con cualquier conjunto, desde el uniforme escolar hasta un outfit festivo. Una alternativa versátil, perfecta para todas las ocasiones.</p>\n<h2>Calidad que Dura</h2>\n<p>El color negro intenso de nuestras merceditas, aunado a la puntera reforzada, asegura un producto resistente al uso diario y el paso del tiempo. Una inversión que vale la pena, gracias a su calidad y durabilidad.</p>\n<p>¿A qué esperas? Adquiere hoy mismo estas merceditas puntera reforzada 40-43 en color negro y ofrece a tus hijos comodidad y estilo en cada paso. ¡Compra ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "705",
+    "759",
+    "888",
+    "868",
+    "878",
+    "871",
+    "890"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 62.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-06-12 08:33:12",
+  "sourceUpdatedAt": "2026-10-26 19:38:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "294",
+          "label": "41"
+        },
+        {
+          "id": "266",
+          "label": "42"
+        },
+        {
+          "id": "295",
+          "label": "43"
+        },
+        {
+          "id": "267",
+          "label": "44"
+        },
+        {
+          "id": "296",
+          "label": "45"
+        },
+        {
+          "id": "268",
+          "label": "46"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "145737",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "5506XA9432",
+      "productSku": "1807309",
+      "taxRate": 21,
+      "price": 62.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:35.472Z"
+    },
+    {
+      "id": "145738",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "294",
+          "group": "Tamaño",
+          "value": "41"
+        }
+      ],
+      "sku": "5506XB9432",
+      "productSku": "1807309",
+      "taxRate": 21,
+      "price": 62.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:38.250Z"
+    },
+    {
+      "id": "145739",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "266",
+          "group": "Tamaño",
+          "value": "42"
+        }
+      ],
+      "sku": "5506XH9432",
+      "productSku": "1807309",
+      "taxRate": 21,
+      "price": 62.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:42.650Z"
+    },
+    {
+      "id": "145740",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "295",
+          "group": "Tamaño",
+          "value": "43"
+        }
+      ],
+      "sku": "5506XI9432",
+      "productSku": "1807309",
+      "taxRate": 21,
+      "price": 62.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:46.522Z"
+    },
+    {
+      "id": "145741",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "267",
+          "group": "Tamaño",
+          "value": "44"
+        }
+      ],
+      "sku": "5506XE9432",
+      "productSku": "1807309",
+      "taxRate": 21,
+      "price": 62.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:49.371Z"
+    },
+    {
+      "id": "145742",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "296",
+          "group": "Tamaño",
+          "value": "45"
+        }
+      ],
+      "sku": "5506XF9432",
+      "productSku": "1807309",
+      "taxRate": 21,
+      "price": 62.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:52.636Z"
+    },
+    {
+      "id": "145743",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "268",
+          "group": "Tamaño",
+          "value": "46"
+        }
+      ],
+      "sku": "5506XG9432",
+      "productSku": "1807309",
+      "taxRate": 21,
+      "price": 62.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:55.353Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17639-15649.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15649-large_default/merceditas-puntera-reforzada-40-43-negro.jpg",
+      "alt": "Merceditas puntera reforzada 40-43 Negro",
+      "sourceId": "15649",
+      "variantIds": [],
+      "sha256": "d6e107595ed4223d5119730340e71265eac8804314d8dbfe8d539d35cdfc7ca3"
+    },
+    {
+      "path": "assets/17639-15650.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15650-large_default/merceditas-puntera-reforzada-40-43-negro.jpg",
+      "alt": "Merceditas puntera reforzada 40-43 Negro",
+      "sourceId": "15650",
+      "variantIds": [],
+      "sha256": "ccee59368f042f69b1ba9cd3f834b701ecb480b4220e924965929e5951f0df42"
+    },
+    {
+      "path": "assets/17639-15651.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15651-large_default/merceditas-puntera-reforzada-40-43-negro.jpg",
+      "alt": "Merceditas puntera reforzada 40-43 Negro",
+      "sourceId": "15651",
+      "variantIds": [],
+      "sha256": "91bb144a317819601d5a63da115c1ad87e981fe115d3f68e835471a789630f6d"
+    },
+    {
+      "path": "assets/17639-15652.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15652-large_default/merceditas-puntera-reforzada-40-43-negro.jpg",
+      "alt": "Merceditas puntera reforzada 40-43 Negro",
+      "sourceId": "15652",
+      "variantIds": [],
+      "sha256": "7da434ad922dff3bd51c88cdba3295337a42a5d0cf408be4930887d22f20e39f"
+    },
+    {
+      "path": "assets/17639-15653.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15653-large_default/merceditas-puntera-reforzada-40-43-negro.jpg",
+      "alt": "Merceditas puntera reforzada 40-43 Negro",
+      "sourceId": "15653",
+      "variantIds": [],
+      "sha256": "2bef3eb2011a9853d9f1d75f6147b5bbc0a64515e5a8a38342bc59d2d37353ec"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:55.702Z",
+  "issues": []
+}

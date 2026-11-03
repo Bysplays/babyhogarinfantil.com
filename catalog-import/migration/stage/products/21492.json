@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "21492",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/21492-conjunto-algodon-con-felpa-nino-varios.html",
+  "name": "Conjunto algodón con felpa niño Varios",
+  "brand": "Yatsi",
+  "sku": "2502130",
+  "description": "Conjunto dos piezas niño sudadera y pantalón largo. SUdadera en tres colores con cuello redondo y felpa interior para que sea cálida. El pantalón largo con cinturilla de goma con cordón ajustable y bolsillos funcionales.",
+  "details": "Composición:\n\nSudadera: 60% algodón, 40% poléster.\n\nPantalón largo: 60% algodón, 40% poléster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Sudadera: 60% algodón, 40% poléster.</p>\n<p>Pantalón largo: 60% algodón, 40% poléster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 32,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96786",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502130",
+      "productSku": "2502130",
+      "taxRate": 21,
+      "price": 32,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:07.406Z"
+    },
+    {
+      "id": "96787",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502130",
+      "productSku": "2502130",
+      "taxRate": 21,
+      "price": 32,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:11.614Z"
+    },
+    {
+      "id": "96788",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502130",
+      "productSku": "2502130",
+      "taxRate": 21,
+      "price": 32,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:15.186Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21492-20054.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20054-large_default/conjunto-algodon-con-felpa-nino-varios.jpg",
+      "alt": "Conjunto algodón con felpa niño Varios",
+      "sourceId": "20054",
+      "variantIds": [],
+      "sha256": "8e03fea88a07a243a50cf583a8c8647e3424b41db007b8a51e3160dbb35069ba"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:15.247Z",
+  "issues": []
+}

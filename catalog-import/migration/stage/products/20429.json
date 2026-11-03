@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "id": "20429",
+  "sourceUrl": "https://babyhogarinfantil.com/ranitas-bebe-nina/20429-pololo-pana-con-lazo-nude.html",
+  "name": "Pololo pana con lazo Nude",
+  "brand": "Calamaro",
+  "sku": "2502015",
+  "description": "Pololo, ranita cubre pañal de pana con lazo. \n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\n98% algodón, 2% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>98% algodón, 2% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nude",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "697"
+  ],
+  "sourceDefaultCategoryId": "697",
+  "sourceCategoryName": "Ranitas bebé niña",
+  "price": 12.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94605",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502015",
+      "productSku": "2502015",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:38.289Z"
+    },
+    {
+      "id": "94606",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502015",
+      "productSku": "2502015",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:39.773Z"
+    },
+    {
+      "id": "94607",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502015",
+      "productSku": "2502015",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:41.914Z"
+    },
+    {
+      "id": "94608",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502015",
+      "productSku": "2502015",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:44.005Z"
+    },
+    {
+      "id": "94610",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502015",
+      "productSku": "2502015",
+      "taxRate": 21,
+      "price": 12.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:16:47.038Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20429-19946.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19946-large_default/pololo-pana-con-lazo-nude.jpg",
+      "alt": "Pololo pana con lazo Nude",
+      "sourceId": "19946",
+      "variantIds": [],
+      "sha256": "56d3099fb02d944abf38103fdad9f408d7cce93b57fbf118ad4f603663897b14"
+    },
+    {
+      "path": "assets/20429-19949.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19949-large_default/pololo-pana-con-lazo-nude.jpg",
+      "alt": "Pololo pana con lazo Nude",
+      "sourceId": "19949",
+      "variantIds": [],
+      "sha256": "d1bfbdfd15ef526e3e26d6147008773be24ed2e1a8490a7655a8db8b79118c8d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:16:47.185Z",
+  "issues": []
+}

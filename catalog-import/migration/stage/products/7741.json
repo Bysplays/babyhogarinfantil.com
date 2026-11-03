@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "7741",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/7741-pantalon-chandal-micropana-azul-marino.html",
+  "name": "Pantalón chandal micropana Azul Marino",
+  "brand": "Baby Hogar Infantil",
+  "sku": "1904184",
+  "description": "Pantalón chándal en micro pana azul marino. Cintura con goma y cordón ajustable.\n\nRecuerda revisar, calcetines, zapatos y tenis.",
+  "details": "Composición y cuidados:\n\nPantalón: 100% poliéster\n\nLAVAR 30º Y PROGRAMA CORTO.\n\nNO USAR LEJIAS.\n\nNO LAVAR A MANO.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pantalón: 100% poliéster</p>\n<p>LAVAR 30º Y PROGRAMA CORTO.</p>\n<p>NO USAR LEJIAS.</p>\n<p>NO LAVAR A MANO.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "888"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 22.51,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:21",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 19,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "313",
+          "label": "16(S)"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66262",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1904184",
+      "productSku": "1904184",
+      "taxRate": 21,
+      "price": 22.51,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:26.201Z"
+    },
+    {
+      "id": "66263",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1904184",
+      "productSku": "1904184",
+      "taxRate": 21,
+      "price": 22.51,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:27.630Z"
+    },
+    {
+      "id": "66264",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1904184",
+      "productSku": "1904184",
+      "taxRate": 21,
+      "price": 22.51,
+      "oldPrice": null,
+      "quantity": 9,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:28.924Z"
+    },
+    {
+      "id": "94012",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1904184",
+      "productSku": "1904184",
+      "taxRate": 21,
+      "price": 22.51,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:30.433Z"
+    },
+    {
+      "id": "94016",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "313",
+          "group": "Tamaño",
+          "value": "16(S)"
+        }
+      ],
+      "sku": "1904184",
+      "productSku": "1904184",
+      "taxRate": 21,
+      "price": 23.51,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:31.966Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7741-5795.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5795-large_default/pantalon-chandal-micropana-azul-marino.jpg",
+      "alt": "Pantalón chandal micropana Azul Marino",
+      "sourceId": "5795",
+      "variantIds": [],
+      "sha256": "60722f71433cf06ea42dd90e72633b2fc5549ed798f1387086cec8a15cc6a2bb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:35:32.038Z",
+  "issues": []
+}

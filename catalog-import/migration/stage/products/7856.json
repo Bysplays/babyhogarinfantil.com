@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7856",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/7856-chaqueta-alamar-azul-marino.html",
+  "name": "Chaqueta Alamar Azul Marino",
+  "brand": "Pecesa",
+  "sku": "1907170",
+  "description": "Siente el abrazo del invierno con la Chaqueta Alamar Azul marino. Ropa cálida y suave para tu pequeño héroe, tejida de materiales de alta calidad. Diseñada para resistir el aire frío y la nieve, garantizando un ajuste cómodo y seguro. Los detalles en azul marino otorgan un look elegante, convirtiendo a tu pequeño en la estrella del invierno. No puede faltar en el armario de tu bebé este invierno. ¡Haz que tu pequeño se sienta querido y abrigado con la Chaqueta Alamar!",
+  "details": "Deslumbrantes Detalles de Diseño: La Chaqueta Alamar Azul Marino no es una simple prenda de vestir, es autenticidad y estilo para los más pequeños. Cono fiel representante de la moda infantil, exhibe un color azul marino profundo y elegante que nunca pasa de moda. Está diseñada con finos materiales y acabados delicados, reflejando la calidad insuperable de la marca.\n\n\nConfort Sublime: Cada detalle de la Chaqueta Alamar Azul Marino está pensado en el confort de los niños. Con su suave tejido y diseño ergonómico, brinda libertad de movimiento para los más activos. Es una chaqueta ligera pero abrigada, perfecta para cualquier época del año. Una opción perfecta para los padres que buscan comodidad sin sacrificar el estilo.\n\n\nVersatilidad de Uso: La Chaqueta Alamar Azul Marino es la pieza clave que todo niño debería tener. Su tono azul marino lo hace una prenda versátil para combinar con cualquier atuendo. Puede ser la elegancia necesaria para un evento especial o el añadido casual para un día cotidiano. Esta chaqueta es tan versátil como atractiva. \n\n\n ¡En resumen, la Chaqueta Alamar Azul marino es un ítem esencial en el guardarropa de niños y niñas! La prenda perfecta para garantizar confort, estilo y versatilidad. ¡Agrega la Chaqueta Alamar Azul Marino al carrito de compras hoy mismo y brinda a tu hijo una experiencia de vestir insuperable!",
+  "sourceDescriptionHtml": "<p><strong>Deslumbrantes Detalles de Diseño:</strong> La Chaqueta Alamar Azul Marino no es una simple prenda de vestir, es autenticidad y estilo para los más pequeños. Cono fiel representante de la moda infantil, exhibe un color azul marino profundo y elegante que nunca pasa de moda. Está diseñada con finos materiales y acabados delicados, reflejando la calidad insuperable de la marca.</p>\n\n<p><strong>Confort Sublime:</strong> Cada detalle de la Chaqueta Alamar Azul Marino está pensado en el confort de los niños. Con su suave tejido y diseño ergonómico, brinda libertad de movimiento para los más activos. Es una chaqueta ligera pero abrigada, perfecta para cualquier época del año. Una opción perfecta para los padres que buscan comodidad sin sacrificar el estilo.</p>\n\n<p><strong>Versatilidad de Uso:</strong> La Chaqueta Alamar Azul Marino es la pieza clave que todo niño debería tener. Su tono azul marino lo hace una prenda versátil para combinar con cualquier atuendo. Puede ser la elegancia necesaria para un evento especial o el añadido casual para un día cotidiano. Esta chaqueta es tan versátil como atractiva. </p>\n\n <p><strong>¡En resumen, la Chaqueta Alamar Azul marino es un ítem esencial en el guardarropa de niños y niñas! La prenda perfecta para garantizar confort, estilo y versatilidad. ¡Agrega la Chaqueta Alamar Azul Marino al carrito de compras hoy mismo y brinda a tu hijo una experiencia de vestir insuperable!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 22.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:29",
+  "sourceUpdatedAt": "2026-10-27 11:10:27",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66531",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1907170",
+      "productSku": "1907170",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:03.679Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7856-5956.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5956-large_default/chaqueta-alamar-azul-marino.jpg",
+      "alt": "Chaqueta Alamar Azul marino",
+      "sourceId": "5956",
+      "variantIds": [],
+      "sha256": "6df97f1a17c8d7c3357c99df7b1a3d2116b7cc97fe0fc8e0ba505d34b8049a2b"
+    },
+    {
+      "path": "assets/7856-5955.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5955-large_default/chaqueta-alamar-azul-marino.jpg",
+      "alt": "Chaqueta Alamar Azul marino",
+      "sourceId": "5955",
+      "variantIds": [],
+      "sha256": "98a8b27f82e09cc95f47e6bf97126ca032ed3150f96d468d9fbaa648e07a1f93"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:03.820Z",
+  "issues": []
+}

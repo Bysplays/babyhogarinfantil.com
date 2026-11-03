@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "21302",
+  "sourceUrl": "https://babyhogarinfantil.com/sacos-silla-capazo-y-grupo-0/21302-saco-capazo-universal-mayoral-gris.html",
+  "name": "Saco capazo universal mayoral Gris",
+  "brand": "Mayoral",
+  "sku": "2202034",
+  "description": "Bonito saco universal para capazo en tonos grises, tiene un diseño envolvente, con  tacto suave y agradable. Pensado para abrigar a bebés recién nacidos y adaptable a todo tipo de carros. Cierre con cremallera delantera y botones a presión. Elementos decorativos, aplique de orejitas. Este saquito de capazo tiene unas medidas de 73 cm Alto x 44 cm Ancho.",
+  "details": "COMPOSICIÓN\n\n\nSaco capazo:\n\n\nExterior: 100% Poliéster\n\n\nForro: 100% Algodón\n\n\nRelleno: 100% Poliéster",
+  "sourceDescriptionHtml": "<p class=\"MsoNormal\">COMPOSICIÓN</p><p></p>\n<p class=\"MsoNormal\"><b>Saco capazo:</b></p><p></p>\n<p class=\"MsoNormal\">Exterior: 100% Poliéster</p><p></p>\n<p class=\"MsoNormal\">Forro: 100% Algodón</p><p></p>\n<p class=\"MsoNormal\">Relleno: 100% Poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "801"
+  ],
+  "sourceDefaultCategoryId": "801",
+  "sourceCategoryName": "Sacos silla capazo y grupo 0",
+  "price": 54.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-16 23:53:25",
+  "sourceUpdatedAt": "2026-10-27 11:11:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97776",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9934XA15534",
+      "productSku": "2202034",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:17.482Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21302-20218.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20218-large_default/saco-capazo-universal-mayoral-gris.jpg",
+      "alt": "Saco capazo universal mayoral Gris",
+      "sourceId": "20218",
+      "variantIds": [],
+      "sha256": "222205c54170483e5ed01e5e36db1cbaad6be23c8972901fa6f55a4901f4d300"
+    },
+    {
+      "path": "assets/21302-20219.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20219-large_default/saco-capazo-universal-mayoral-gris.jpg",
+      "alt": "Saco capazo universal mayoral Gris",
+      "sourceId": "20219",
+      "variantIds": [],
+      "sha256": "a3a9d683791b73137342a66043f8fe99bf5b07a07e6b1e4967f9444473742963"
+    },
+    {
+      "path": "assets/21302-20220.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20220-large_default/saco-capazo-universal-mayoral-gris.jpg",
+      "alt": "Saco capazo universal mayoral Gris",
+      "sourceId": "20220",
+      "variantIds": [],
+      "sha256": "d66b91734170a95673da54b55b76580c1af5ba6eca3eebff22d21f712ffdc807"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:17.714Z",
+  "issues": []
+}

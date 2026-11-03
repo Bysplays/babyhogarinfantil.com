@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "21539",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21539-pantalon-basico-liso-algodon-azul-marino.html",
+  "name": "Pantalón básico liso algodón Azul Marino",
+  "brand": "Chicco",
+  "sku": "2502157",
+  "description": "Pantalón básico para niño de la firma CHICCO. Con cinturilla de goma y cordón ajustable. Tiene bolsillos funcionales. Es una prenda para todo tiempo, un básico de armario que no puede faltar.",
+  "details": "Composicón:\n\nPantalón: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composicón:</p>\n<p><strong>Pantalón: </strong>100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-30 15:53:52",
+  "sourceUpdatedAt": "2026-10-27 11:14:47",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97100",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502157",
+      "productSku": "2502157",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:31.456Z"
+    },
+    {
+      "id": "97102",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502157",
+      "productSku": "2502157",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:34.841Z"
+    },
+    {
+      "id": "97103",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2502157",
+      "productSku": "2502157",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:38.191Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21539-20288.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20288-large_default/pantalon-basico-liso-algodon-azul-marino.jpg",
+      "alt": "Pantalón básico liso algodón Azul Marino",
+      "sourceId": "20288",
+      "variantIds": [],
+      "sha256": "6bf4709e58e71ef435ca44dd60d8e887f85c96709b4f3caa61313e00baf7f7d9"
+    },
+    {
+      "path": "assets/21539-20289.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20289-large_default/pantalon-basico-liso-algodon-azul-marino.jpg",
+      "alt": "Pantalón básico liso algodón Azul Marino",
+      "sourceId": "20289",
+      "variantIds": [],
+      "sha256": "73bd726cf8915edea77fabf43557450e6d57adaa3e5c1dd1ff0065f0c1fefb70"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:38.348Z",
+  "issues": []
+}

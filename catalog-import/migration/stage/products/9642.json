@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "9642",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-nina/9642-camiseta-algodon-verano-nina-con-cuello-verde.html",
+  "name": "Camiseta algodón verano niña con cuello Verde",
+  "brand": "Calamaro",
+  "sku": "2204024",
+  "description": "Camiseta 100% algodón, con cuello volante y manga corta. Cierre trasero con botón formato lágrima.",
+  "details": "Camiseta de CALAMARO, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. 100% ALGODÓN, con cuello volante y manga corta. Cierre trasero con botón formato lágrima. Una prenda cómoda, de gran suavidad y tacto agradable, un básico ideal para combinar! Echa un ojito a nuestro calzado, gorros para el sol y pantalones y podrás combinarla como más te guste!\n\nComposición y cuidados:\n\nCamiseta: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Camiseta de<strong> CALAMARO</strong>, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal.<strong> 100% ALGODÓN</strong>, con cuello volante y manga corta. Cierre trasero con botón formato lágrima. Una prenda cómoda, de gran suavidad y tacto agradable, un básico ideal para combinar! Echa un ojito a nuestro <strong>calzado, gorros para el sol y pantalones</strong> y podrás combinarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "736",
+    "823",
+    "771"
+  ],
+  "sourceDefaultCategoryId": "736",
+  "sourceCategoryName": "Camisetas niña",
+  "price": 7,
+  "oldPrice": 13.989999,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69726",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2204024",
+      "productSku": "2204024",
+      "taxRate": 21,
+      "price": 7,
+      "oldPrice": 13.989999,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:47.124Z"
+    },
+    {
+      "id": "69727",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2204024",
+      "productSku": "2204024",
+      "taxRate": 21,
+      "price": 7,
+      "oldPrice": 13.989999,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:49.417Z"
+    },
+    {
+      "id": "69728",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2204024",
+      "productSku": "2204024",
+      "taxRate": 21,
+      "price": 7,
+      "oldPrice": 13.989999,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:51.491Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9642-12571.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12571-large_default/camiseta-algodon-verano-nina-con-cuello-verde.jpg",
+      "alt": "Camiseta algodón verano niña con cuello Verde",
+      "sourceId": "12571",
+      "variantIds": [],
+      "sha256": "79c67f056407c80d9d85e6e42fe27b06dc45bcf43e530e2fded853c1342b6e7e"
+    },
+    {
+      "path": "assets/9642-9215.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9215-large_default/camiseta-algodon-verano-nina-con-cuello-verde.jpg",
+      "alt": "Camiseta algodón verano niña con cuello Verde",
+      "sourceId": "9215",
+      "variantIds": [],
+      "sha256": "c4201bf9694be2f0827d0b5697d000b700fd2f005067283b167bd8849d35c654"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:51.638Z",
+  "issues": []
+}

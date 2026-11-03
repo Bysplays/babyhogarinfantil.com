@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "id": "16852",
+  "sourceUrl": "https://babyhogarinfantil.com/bodies-bebe-nina-manga-corta-y-larga/16852-body-cuello-bordado-blcoazul.html",
+  "name": "Body cuello bordado Blco/Azul",
+  "brand": "Calamaro",
+  "sku": "2208307",
+  "description": "Body con cuello bebé bordado en azul, manga larga 100% algodón. FABRICADO EN ESPAÑA",
+  "details": "Composición y cuidados: \n\nBody: 100% algodón.\n\nLAVAR A MÁQUINA MÁXIMO A 30 ºC RECOMENDADO\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados: </p>\n<p>Body: 100% algodón.</p>\n<p><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA MÁXIMO A 30 ºC RECOMENDADO</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">NO SECAR EN SECADORA</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0.0001pt;line-height:normal;\"><strong><span lang=\"es\" xml:lang=\"es\">HECHO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blco/Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "668",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "668",
+  "sourceCategoryName": "Bodies bebé niña manga corta y larga",
+  "price": 12,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-09-28 15:52:44",
+  "sourceUpdatedAt": "2026-10-27 11:12:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 9,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "79795",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "10793XG16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:20.158Z"
+    },
+    {
+      "id": "148154",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "10793XA16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:23.085Z"
+    },
+    {
+      "id": "148155",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "10793XB16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:26.448Z"
+    },
+    {
+      "id": "148156",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "10793XC16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:29.098Z"
+    },
+    {
+      "id": "97054",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "10793XD16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:31.529Z"
+    },
+    {
+      "id": "97055",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "10793XE16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:33.705Z"
+    },
+    {
+      "id": "148157",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "10793XF16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:36.117Z"
+    },
+    {
+      "id": "80122",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "10793XH16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:38.061Z"
+    },
+    {
+      "id": "79796",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "10793XI16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:40.374Z"
+    },
+    {
+      "id": "148158",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "10793XJ16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:42.567Z"
+    },
+    {
+      "id": "148159",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "10793XK16738",
+      "productSku": "2208307",
+      "taxRate": 21,
+      "price": 12,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:44.812Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16852-17228.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17228-large_default/body-cuello-bordado-blcoazul.jpg",
+      "alt": "Body cuello bordado Blco/Azul",
+      "sourceId": "17228",
+      "variantIds": [],
+      "sha256": "58e1ace4a59683b37cf9da4fcbcba005f301c09db3478f3e3b7f95d73cfda27d"
+    },
+    {
+      "path": "assets/16852-17229.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17229-large_default/body-cuello-bordado-blcoazul.jpg",
+      "alt": "Body cuello bordado Blco/Azul",
+      "sourceId": "17229",
+      "variantIds": [],
+      "sha256": "b8f1935087c35cbb1d5f0a3cabf0280440e74fbb086d34635ed4292da95e8415"
+    },
+    {
+      "path": "assets/16852-17230.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17230-large_default/body-cuello-bordado-blcoazul.jpg",
+      "alt": "Body cuello bordado Blco/Azul",
+      "sourceId": "17230",
+      "variantIds": [],
+      "sha256": "3fc8c5c5a4bdbe6494d4d9aae9b1e88623afc05c63f34a5a194e2d5087ed8178"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:45.015Z",
+  "issues": []
+}

@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "21749",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21749-bermuda-algodon-basica-topo.html",
+  "name": "Bermuda algodón básica Topo",
+  "brand": "Mayoral",
+  "sku": "2601046",
+  "description": "Bermuda de niño color topo confeccionada en algodón suave, con cintura elástica y cordón regulable. Cómoda, versátil y perfecta para looks casuales de verano.",
+  "details": "Esta bermuda de niño en color topo es una prenda básica, cómoda y funcional para el día a día. Está confeccionada en algodón suave y transpirable, ofreciendo una sensación agradable y fresca durante los días cálidos. Su diseño incorpora cintura elástica con cordón ajustable que garantiza un ajuste cómodo y seguro, adaptándose al movimiento del niño.\nCuenta con bolsillos laterales prácticos y un bolsillo trasero que aporta un toque moderno y funcional al diseño. Su corte recto y relajado permite total libertad de movimiento, siendo ideal para actividades diarias, juegos o paseos. Gracias a su tono neutro, es fácil de combinar con camisetas, polos o sudaderas, creando looks casuales y cómodos con estilo.\n\nCOMPOSICIÓN: 58% Algodón 38% Poliéster 4% Elastano",
+  "sourceDescriptionHtml": "<p>Esta bermuda de niño en color topo es una prenda básica, cómoda y funcional para el día a día. Está confeccionada en algodón suave y transpirable, ofreciendo una sensación agradable y fresca durante los días cálidos. Su diseño incorpora cintura elástica con cordón ajustable que garantiza un ajuste cómodo y seguro, adaptándose al movimiento del niño.<br />Cuenta con bolsillos laterales prácticos y un bolsillo trasero que aporta un toque moderno y funcional al diseño. Su corte recto y relajado permite total libertad de movimiento, siendo ideal para actividades diarias, juegos o paseos. Gracias a su tono neutro, es fácil de combinar con camisetas, polos o sudaderas, creando looks casuales y cómodos con estilo.</p>\n<p>COMPOSICIÓN: 58% Algodón 38% Poliéster 4% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Topo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-12 08:34:14",
+  "sourceUpdatedAt": "2026-10-27 11:15:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99249",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601046",
+      "productSku": "2601046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:46.346Z"
+    },
+    {
+      "id": "99250",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2601046",
+      "productSku": "2601046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:48.227Z"
+    },
+    {
+      "id": "99251",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2601046",
+      "productSku": "2601046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:50.222Z"
+    },
+    {
+      "id": "99252",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2601046",
+      "productSku": "2601046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:52.972Z"
+    },
+    {
+      "id": "99253",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2601046",
+      "productSku": "2601046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:56.219Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21749-20508.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20508-large_default/bermuda-algodon-basica-topo.jpg",
+      "alt": "Bermuda infantil Mayoral color topo con cintura elástica y cordón ajustable, vista delantera",
+      "sourceId": "20508",
+      "variantIds": [],
+      "sha256": "a9c6ef7cdc58eeef70ec7c934bb6b3cf6dbaa5cc71afb74cce48ee30e78d2b10"
+    },
+    {
+      "path": "assets/21749-20509.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20509-large_default/bermuda-algodon-basica-topo.jpg",
+      "alt": "Bermuda infantil Mayoral color topo con bolsillo trasero, vista posterior",
+      "sourceId": "20509",
+      "variantIds": [],
+      "sha256": "083a996f7e46a7403da423967f14ee74dc811aadf9435fed204b4c553f26aff1"
+    },
+    {
+      "path": "assets/21749-20510.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20510-large_default/bermuda-algodon-basica-topo.jpg",
+      "alt": "Detalle de bolsillo trasero con logo en bermuda infantil Mayoral color topo",
+      "sourceId": "20510",
+      "variantIds": [],
+      "sha256": "1f015957ea182f98241237de7ca5cdc5a1d99a8dd00c963204e0120796d8a79a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:56.380Z",
+  "issues": []
+}

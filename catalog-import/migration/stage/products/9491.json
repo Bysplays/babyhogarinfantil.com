@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9491",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nina/9491-pijama-nina-minnie-amarillo-amarillo.html",
+  "name": "Pijama niña Minnie amarillo Amarillo",
+  "brand": "Zippy",
+  "sku": "2202132",
+  "description": "Pijama corto algodón.",
+  "details": "Composición y cuidados:\n\nPijama corto: 100% algodón.\n\nLAVAR A MÁQUINA MÁXIMO 30 ºC recomendado\n\nNO USAR LEJÍAS\n\nPLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Pijama corto: 100% algodón.</p>\n<p>LAVAR A MÁQUINA MÁXIMO 30 ºC recomendado</p>\n<p>NO USAR LEJÍAS</p>\n<p>PLANCHAR A BAJA TEMPERATURA MÁXIMO 110 ºC</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776"
+  ],
+  "sourceDefaultCategoryId": "776",
+  "sourceCategoryName": "Pijamas niña",
+  "price": 7.99,
+  "oldPrice": 15.9841,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69340",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2202132",
+      "productSku": "2202132",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": 15.9841,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:41.634Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9491-12414.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12414-large_default/pijama-nina-minnie-amarillo-amarillo.jpg",
+      "alt": "Pijama niña Minnie amarillo Amarillo",
+      "sourceId": "12414",
+      "variantIds": [],
+      "sha256": "7d504da949471e0e3980595da05b27ab0499ba4ca7f9ce9320da437719ec7010"
+    },
+    {
+      "path": "assets/9491-12415.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12415-large_default/pijama-nina-minnie-amarillo-amarillo.jpg",
+      "alt": "Pijama niña Minnie amarillo Amarillo",
+      "sourceId": "12415",
+      "variantIds": [],
+      "sha256": "6c1219700eb93218b7dd6a633c6e42e670b99d74b81d9b0bbc5757a142c5f825"
+    },
+    {
+      "path": "assets/9491-12413.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12413-large_default/pijama-nina-minnie-amarillo-amarillo.jpg",
+      "alt": "Pijama niña Minnie amarillo Amarillo",
+      "sourceId": "12413",
+      "variantIds": [],
+      "sha256": "2c664c4322349a22e46c2c8cba2a32b8dfd8f931155df7a74ebe545f057b058a"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:41.755Z",
+  "issues": []
+}

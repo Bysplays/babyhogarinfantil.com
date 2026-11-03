@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "6087",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-primavera/6087-calcetin-perle-cola-raton-rojo.html",
+  "name": "Calcetín perlé cola ratón Rojo",
+  "brand": "Amaka Artesanía",
+  "sku": "583",
+  "description": "Calcetín de perlé, 100% algodón egipcio, en color blanco con detalles en rojo. Con detalles calados y volante rematado en puntilla y cola de ratón en el tobillo. Disponible en más colores.",
+  "details": "Calcet&iacute;n de artesan&iacute;a en perl&eacute;, color blanco con detalles en rojo. 100% ALGOD&Oacute;N EGIPCIO. Con detalles calados en el empeine y volante rematado en puntilla y cola de rat&oacute;n alrededor del tobillo. Una prenda de tejido suave y delicado, muy transpirable y fresco. Ideal para eventos y ceremonias como el bautizo. Recuerda que tambi&eacute;n disponemos de las velas y pa&ntilde;os bordados personalizados para tal ocasi&oacute;n! DISPONIBLE EN VARIOS COLORES. \n\r\nComposici&oacute;n:\n\r\nCalcet&iacute;n: 100% algod&oacute;n EGIPCIO\n\r\nNO USAR SECADORA\n\r\nNO USAR LEJ&Iacute;AS\n\r\n \n\r\nFABRICADO EN ESPA&Ntilde;A",
+  "sourceDescriptionHtml": "<p>Calcet&iacute;n de artesan&iacute;a en perl&eacute;, color blanco con detalles en rojo.&nbsp;<strong>100% ALGOD&Oacute;N EGIPCIO</strong>. Con detalles calados en el empeine y volante rematado en puntilla y&nbsp;<strong>cola de rat&oacute;n</strong>&nbsp;alrededor del tobillo. Una prenda de tejido suave y delicado, muy transpirable y fresco. Ideal para eventos y ceremonias como el&nbsp;<strong>bautizo</strong>. Recuerda que tambi&eacute;n disponemos de las velas y pa&ntilde;os bordados personalizados para tal ocasi&oacute;n!&nbsp;<strong>DISPONIBLE EN VARIOS COLORES.&nbsp;</strong></p>\r\n<p>Composici&oacute;n:</p>\r\n<p>Calcet&iacute;n: 100% algod&oacute;n EGIPCIO</p>\r\n<p>NO USAR SECADORA</p>\r\n<p>NO USAR LEJ&Iacute;AS</p>\r\n<p>&nbsp;</p>\r\n<p><strong>FABRICADO EN ESPA&Ntilde;A</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "846"
+  ],
+  "sourceDefaultCategoryId": "846",
+  "sourceCategoryName": "Calcetines primavera",
+  "price": 14.96,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:08",
+  "sourceUpdatedAt": "2026-10-27 11:08:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 11,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62379",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "583",
+      "productSku": "583",
+      "taxRate": 21,
+      "price": 14.96,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:23.454Z"
+    },
+    {
+      "id": "62380",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "583",
+      "productSku": "583",
+      "taxRate": 21,
+      "price": 14.96,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:27.340Z"
+    },
+    {
+      "id": "62381",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "583",
+      "productSku": "583",
+      "taxRate": 21,
+      "price": 14.96,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:30.053Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6087-3938.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3938-large_default/calcetin-perle-cola-raton-rojo.jpg",
+      "alt": "Calcetín perlé cola ratón Rojo",
+      "sourceId": "3938",
+      "variantIds": [],
+      "sha256": "29fadcf2496d611d110eeb52383ecb8f4ffce70d1d52983bf285378a3592aa71"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:30.126Z",
+  "issues": []
+}

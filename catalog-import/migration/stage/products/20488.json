@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "20488",
+  "sourceUrl": "https://babyhogarinfantil.com/anoraks-y-chalecos/20488-chaqueton-acolchado-ligero-nino-pino.html",
+  "name": "Chaquetón acolchado ligero niño Pino",
+  "brand": "Mayoral",
+  "sku": "2502058",
+  "description": "Chaquetón verde pino de manga larga para chico con puños elásticos hecho con poliéster reciclado. Cuello con capucha. Cierre central delantero con cremallera y diseño\n\nacolchado.",
+  "details": "COMPOSICIÓN:\n\nExterior\n\n100% Poliamida\n\nForro\n\n80% Poliamida\n\n20% Poliéster\n\nRelleno\n\n100% Poliéster",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN:</p>\n<p><strong>Exterior</strong></p>\n<p>100% Poliamida</p>\n<p><strong>Forro</strong></p>\n<p>80% Poliamida</p>\n<p>20% Poliéster</p>\n<p><strong>Relleno</strong></p>\n<p>100% Poliéster</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Pino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "749",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "749",
+  "sourceCategoryName": "Anoraks y Chalecos",
+  "price": 45.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94925",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2502058",
+      "productSku": "2502058",
+      "taxRate": 21,
+      "price": 45.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:33.403Z"
+    },
+    {
+      "id": "97823",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2502058",
+      "productSku": "2502058",
+      "taxRate": 21,
+      "price": 45.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:20:36.660Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20488-19860.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19860-large_default/chaqueton-acolchado-ligero-nino-pino.jpg",
+      "alt": "Chaquetón acolchado ligero niño Pino",
+      "sourceId": "19860",
+      "variantIds": [],
+      "sha256": "bbcf552425f7b2ca1ea17f72b023dcf7c74ab769fce47483e447254b15e915e7"
+    },
+    {
+      "path": "assets/20488-19861.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19861-large_default/chaqueton-acolchado-ligero-nino-pino.jpg",
+      "alt": "Chaquetón acolchado ligero niño Pino",
+      "sourceId": "19861",
+      "variantIds": [],
+      "sha256": "13f2b657051e5e6f5426796a4de6a5c45d01deb00772c67e6956f086626e6b8d"
+    },
+    {
+      "path": "assets/20488-19862.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19862-large_default/chaqueton-acolchado-ligero-nino-pino.jpg",
+      "alt": "Chaquetón acolchado ligero niño Pino",
+      "sourceId": "19862",
+      "variantIds": [],
+      "sha256": "991c7b1e451e14af6ccad31df051466aadbdcf9a44899fbb5d727acffdb6bd2d"
+    },
+    {
+      "path": "assets/20488-19863.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19863-large_default/chaqueton-acolchado-ligero-nino-pino.jpg",
+      "alt": "Chaquetón acolchado ligero niño Pino",
+      "sourceId": "19863",
+      "variantIds": [],
+      "sha256": "3e1e10c4d2efc5392ba90836883542f0f06e7dc92451817ce88160dd2e11854d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:20:36.934Z",
+  "issues": []
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "7707",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-nina/7707-pijama-minnie-gris.html",
+  "name": "Pijama Minnie Gris",
+  "brand": "Zippy",
+  "sku": "1903078",
+  "description": "Pijama dos piezas largo para entretiempo. 100% ALGODON.",
+  "details": "Pijama de ZIPPY de dos piezas para entretiempo. La parte de arriba es de manga larga, con cuello redondo. Con fondo blanco y estampado de Minnie Mouse en rosa clarito, tanto por delante como por detrás, y las mangas en gris. La parte de abajo es en color gris, a juego con las mangas de la camiseta. Con goma en la cintura y lazo cinturón de adorno. Un pijamita cómodo, suave y ligero para las noches de entretiempo. \n\nComposición:\n\nCamiseta: 100% algodón\n\nPantalón: 100% algodón\n\n \n\nLAVAR A MÁQUINA (MÁXIMO A 30 ºC)\n\nNO USAR LEJÍAS NI BLANQUEANTES\n\nNO SECAR EN SECADORA\n\nNO LAVAR EN SECO\n\nPLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)",
+  "sourceDescriptionHtml": "<p>Pijama de <strong>ZIPPY </strong>de dos piezas para entretiempo. La parte de arriba es de manga larga, con cuello redondo. Con fondo blanco y estampado de Minnie Mouse en rosa clarito, tanto por delante como por detrás, y las mangas en gris. La parte de abajo es en color gris, a juego con las mangas de la camiseta. Con goma en la cintura y lazo cinturón de adorno. Un pijamita cómodo, suave y ligero para las noches de entretiempo. </p>\n<p>Composición:</p>\n<p>Camiseta: 100% algodón</p>\n<p>Pantalón: 100% algodón</p>\n<p> </p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">LAVAR A MÁQUINA (MÁXIMO A 30 ºC)</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">NO USAR LEJÍAS NI BLANQUEANTES</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\">NO SECAR EN SECADORA</p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">NO LAVAR EN SECO</span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:10pt;line-height:115%;\"><span lang=\"es\" xml:lang=\"es\">PLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "776"
+  ],
+  "sourceDefaultCategoryId": "776",
+  "sourceCategoryName": "Pijamas niña",
+  "price": 9,
+  "oldPrice": 17.9927,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:19",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66191",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "1903078",
+      "productSku": "1903078",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": 17.9927,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:03.802Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7707-10478.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10478-large_default/pijama-minnie-gris.jpg",
+      "alt": "Pijama Minnie Gris",
+      "sourceId": "10478",
+      "variantIds": [],
+      "sha256": "eaff5bf4d518556b6c7fa01cf6745e0cf0c10fb305ff018f3b3e57834adc8116"
+    },
+    {
+      "path": "assets/7707-10479.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10479-large_default/pijama-minnie-gris.jpg",
+      "alt": "Pijama Minnie Gris",
+      "sourceId": "10479",
+      "variantIds": [],
+      "sha256": "5da272097e73ecc2fa3ed425cb4f74fe982fe779f50cc091b304c70d99c8f266"
+    },
+    {
+      "path": "assets/7707-10480.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10480-large_default/pijama-minnie-gris.jpg",
+      "alt": "Pijama Minnie Gris",
+      "sourceId": "10480",
+      "variantIds": [],
+      "sha256": "08d9d50c7ce7902f527dd7b0cf991c4676760af510ca60d95976389b28db40b0"
+    },
+    {
+      "path": "assets/7707-5717.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5717-large_default/pijama-minnie-gris.jpg",
+      "alt": "Pijama Minnie Gris",
+      "sourceId": "5717",
+      "variantIds": [],
+      "sha256": "efe9e8f278948d1bd54776dd78c86e2eedc5344fd4fb25f46114922c7148fe11"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:04.003Z",
+  "issues": []
+}

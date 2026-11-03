@@ -1,0 +1,389 @@
+{
+  "schemaVersion": 1,
+  "id": "6321",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/6321-mocasin-del-29-al-39-negro.html",
+  "name": "Mocasin del 29 al 39 Negro",
+  "brand": "Gorila",
+  "sku": "1160",
+  "description": "Deja que los pequeños pisos resuenen con estilo en el próximo año escolar con los mocasines negros, disponibles desde el número 29 hasta el 39. Su elegante diseño en negro no sólo complementará su uniforme del Colegio Atlantida o del Colegio Cluny Vigo, sino que también resistirá el desgaste diario en aulas o patios de colegio. Estos mocasines combinan la comodidad con un estilo clásico muy chic. Un calzado imprescindible en su guardarropa escolar para hacerles brillar en el salón de clases y más allá.",
+  "details": "TECNOLOGÍA ADAPTACTION:  Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) \nPRODUCTO DE PIEL:  Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. \nCREMA DE LIMPIEZA:  Para su limpieza se recomienda la crema natural de Callaghan.",
+  "sourceDescriptionHtml": "<p><span style=\"text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"font-weight:bolder;\">TECNOLOGÍA ADAPTACTION:  </span><span>Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) </span><br /></span><span style=\"text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"font-weight:bolder;\">PRODUCTO DE PIEL:  </span><span>Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. </span><br /></span><span style=\"text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"font-weight:bolder;\">CREMA DE LIMPIEZA:  </span><span>Para su limpieza se recomienda la crema natural de Callaghan.</span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Negro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "705",
+    "759",
+    "888",
+    "868",
+    "878",
+    "871",
+    "890"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 59.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "282",
+          "label": "29"
+        },
+        {
+          "id": "283",
+          "label": "30"
+        },
+        {
+          "id": "284",
+          "label": "31"
+        },
+        {
+          "id": "285",
+          "label": "32"
+        },
+        {
+          "id": "286",
+          "label": "33"
+        },
+        {
+          "id": "287",
+          "label": "34"
+        },
+        {
+          "id": "288",
+          "label": "35"
+        },
+        {
+          "id": "289",
+          "label": "36"
+        },
+        {
+          "id": "290",
+          "label": "37"
+        },
+        {
+          "id": "291",
+          "label": "38"
+        },
+        {
+          "id": "292",
+          "label": "39"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95671",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "292",
+          "group": "Tamaño",
+          "value": "39"
+        }
+      ],
+      "sku": "1053XK7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 59.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:03.646Z"
+    },
+    {
+      "id": "144626",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "282",
+          "group": "Tamaño",
+          "value": "29"
+        }
+      ],
+      "sku": "1053XA7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:06.104Z"
+    },
+    {
+      "id": "144627",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "283",
+          "group": "Tamaño",
+          "value": "30"
+        }
+      ],
+      "sku": "1053XB7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:07.814Z"
+    },
+    {
+      "id": "144628",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "284",
+          "group": "Tamaño",
+          "value": "31"
+        }
+      ],
+      "sku": "1053XC7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:10.517Z"
+    },
+    {
+      "id": "144629",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "285",
+          "group": "Tamaño",
+          "value": "32"
+        }
+      ],
+      "sku": "1053XD7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:12.695Z"
+    },
+    {
+      "id": "144630",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "286",
+          "group": "Tamaño",
+          "value": "33"
+        }
+      ],
+      "sku": "1053XE7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:14.850Z"
+    },
+    {
+      "id": "144631",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "287",
+          "group": "Tamaño",
+          "value": "34"
+        }
+      ],
+      "sku": "1053XF7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:17.029Z"
+    },
+    {
+      "id": "144632",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "288",
+          "group": "Tamaño",
+          "value": "35"
+        }
+      ],
+      "sku": "1053XG7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:19.166Z"
+    },
+    {
+      "id": "144633",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "289",
+          "group": "Tamaño",
+          "value": "36"
+        }
+      ],
+      "sku": "1053XH7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:20.899Z"
+    },
+    {
+      "id": "144634",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "290",
+          "group": "Tamaño",
+          "value": "37"
+        }
+      ],
+      "sku": "1053XI7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:22.710Z"
+    },
+    {
+      "id": "144635",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "291",
+          "group": "Tamaño",
+          "value": "38"
+        }
+      ],
+      "sku": "1053XJ7379",
+      "productSku": "1160",
+      "taxRate": 21,
+      "price": 54.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:25.517Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6321-9527.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9527-large_default/mocasin-del-29-al-39-negro.jpg",
+      "alt": "Mocasin del 29 al 39 Negro",
+      "sourceId": "9527",
+      "variantIds": [],
+      "sha256": "1893b0d7ea0f1e9f63667503aea85ee090bdb220b9beba8fb2c4c3eb042ffc9f"
+    },
+    {
+      "path": "assets/6321-4314.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4314-large_default/mocasin-del-29-al-39-negro.jpg",
+      "alt": "Mocasin del 29 al 39 Negro",
+      "sourceId": "4314",
+      "variantIds": [],
+      "sha256": "385d9c6637af97b2f6219b371f8eabcd2118124fb59304aca3c652800234fc3f"
+    },
+    {
+      "path": "assets/6321-9528.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9528-large_default/mocasin-del-29-al-39-negro.jpg",
+      "alt": "Mocasin del 29 al 39 Negro",
+      "sourceId": "9528",
+      "variantIds": [],
+      "sha256": "e89d6bc96e7da883e26060446ad3b1811da96eb5695a1e89a3ee5c35e04bc63e"
+    },
+    {
+      "path": "assets/6321-9529.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9529-large_default/mocasin-del-29-al-39-negro.jpg",
+      "alt": "Mocasin del 29 al 39 Negro",
+      "sourceId": "9529",
+      "variantIds": [],
+      "sha256": "4b84c02519ef12b1ea2a6487c699b9b4f90d443f51118f6dd388d2bcde456667"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:25.751Z",
+  "issues": []
+}

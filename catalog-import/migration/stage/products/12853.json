@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "12853",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-leggins-shorts/12853-short-vaquero-lazada-azul.html",
+  "name": "Short vaquero lazada Azul",
+  "brand": "Talaman",
+  "sku": "2301370",
+  "description": "Short tejano elástico con lazada y goma en la cintura",
+  "details": "Composición:\n\n100% Algodón",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>100% Algodón</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "733",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "733",
+  "sourceCategoryName": "Pantalones leggins shorts",
+  "price": 21.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-05 16:32:04",
+  "sourceUpdatedAt": "2026-10-27 11:12:34",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72479",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2301370",
+      "productSku": "2301370",
+      "taxRate": 21,
+      "price": 21.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:00:46.353Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12853-13791.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13791-large_default/short-vaquero-lazada-azul.jpg",
+      "alt": "Short vaquero lazada Azul",
+      "sourceId": "13791",
+      "variantIds": [],
+      "sha256": "ec3c38c5c13e62f4975f791ed09f56f92fa00952d2aa9e58041ec53a46ed84cb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:00:46.403Z",
+  "issues": []
+}

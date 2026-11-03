@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "6164",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/6164-calcetin-perle-corto-calado-con-puntilla-blanco.html",
+  "name": "Calcetín perlé corto calado con puntilla Blanco",
+  "brand": "Condor",
+  "sku": "709",
+  "description": "Calcetines tobilleros de algodón perlé, con puntilla y calado fantasía. DISPONIBLE EN COLOR CRUDO Y EN BLANCO.",
+  "details": "Calcetines tobilleros de CONDOR, una de nuestras firmas favoritas! De algodón perlé, ideales para la época de verano. Con puntilla, calados fantasía y pequeño lacito en el mismo tono. Un complemento delicado, perfecto para combinar con vestidos, conjuntos o para ceremonia. Tejido suave, fresco y transpirable. Echa un ojito a nuestro calzado, leotardos de verano y medias por debajo de la rodilla y podrás escoger la opción que mejor se adapta a lo que buscas! DISPONIBLE EN COLOR CRUDO Y EN BLANCO. \n\nComposición y cuidados:\n\nCalcetín: 80% algodón, 20% poliamida\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORAS\n\nNO PLANCHAR\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">Calcetines tobilleros de <strong>CONDOR</strong>, una de nuestras firmas favoritas! De algodón perlé, ideales para la época de verano. Con puntilla, calados fantasía y pequeño lacito en el mismo tono. Un complemento delicado, perfecto para combinar con vestidos, conjuntos o para <strong>ceremonia</strong>. Tejido suave, fresco y transpirable. Echa un ojito a nuestro <strong>calzado, leotardos de verano y medias por debajo de la rodilla</strong> y podrás escoger la opción que mejor se adapta a lo que buscas! <strong>DISPONIBLE EN COLOR CRUDO Y EN BLANCO. </strong></span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">Composición y cuidados:</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">Calcetín: 80% algodón, 20% poliamida</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">NO USAR LEJÍAS</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">NO USAR SECADORAS</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">NO PLANCHAR</span></p>\n<p><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\"> </span></p>\n<p><strong><span style=\"color:#5d5d5d;font-family:Lato, 'Helvetica Neue', Helvetica, sans-serif;font-size:15px;\">FABRICADO EN ESPAÑA</span></strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 7.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:09",
+  "sourceUpdatedAt": "2026-10-27 11:08:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62709",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "709",
+      "productSku": "709",
+      "taxRate": 21,
+      "price": 7.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:27.853Z"
+    },
+    {
+      "id": "62708",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "709",
+      "productSku": "709",
+      "taxRate": 21,
+      "price": 7.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:30.796Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6164-9398.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9398-large_default/calcetin-perle-corto-calado-con-puntilla-blanco.jpg",
+      "alt": "Calcetín perlé corto calado con puntilla Blanco",
+      "sourceId": "9398",
+      "variantIds": [],
+      "sha256": "2baa0d7d6bc80b7b880033e0393360d546b83de50a241875246b2b0ade6bd8ed"
+    },
+    {
+      "path": "assets/6164-4070.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4070-large_default/calcetin-perle-corto-calado-con-puntilla-blanco.jpg",
+      "alt": "Calcetín perlé corto calado con puntilla Blanco",
+      "sourceId": "4070",
+      "variantIds": [],
+      "sha256": "bd6543e998c0f258d2cebc80407a4e2b9e2c1f7696af590ae04e732cf7219487"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:30.950Z",
+  "issues": []
+}

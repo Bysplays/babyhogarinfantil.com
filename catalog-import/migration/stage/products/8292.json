@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8292",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8292-lazo-grande-con-coletero-verde-botella.html",
+  "name": "Lazo grande con coletero Verde botella",
+  "brand": "Siena",
+  "sku": "2007016",
+  "description": "Coletero grande con lazo vagas grosgrain. Lazo de 8 x 8 cm. aprox. HECHO EN ESPAÑA. HECHO A MANO.",
+  "details": "HECHO EN ESPAÑA. \n\nHECHO A MANO.",
+  "sourceDescriptionHtml": "<p><strong>HECHO EN ESPAÑA. </strong></p>\n<p><strong>HECHO A MANO.</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde botella",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 3.1,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "146653",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8048XA12966",
+      "productSku": "2007016",
+      "taxRate": 21,
+      "price": 3.1,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:25.095Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8292-11052.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11052-large_default/lazo-grande-con-coletero-verde-botella.jpg",
+      "alt": "Lazo grande con coletero Verde botella",
+      "sourceId": "11052",
+      "variantIds": [],
+      "sha256": "7cf4b3a4d74e96fa0dbde8316b5564a578b632d74a584af5eb9138a8e285c672"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:25.173Z",
+  "issues": []
+}

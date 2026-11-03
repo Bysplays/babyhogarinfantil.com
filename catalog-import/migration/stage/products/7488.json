@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "7488",
+  "sourceUrl": "https://babyhogarinfantil.com/dou-dou-y-peluches/7488-dou-dou-topitos-rosa.html",
+  "name": "Dou Dou Topitos Rosa",
+  "brand": "Gamberritos",
+  "sku": "1810105",
+  "description": "Sumérgete en un mundo de suavidad infinita con el Dou Dou Topitos Rosa. Esta preciosa y acogedora manta de peluche es el compañero perfecto para las siestas y juegos de tu pequeño. Sus llamativos puntos rosas captarán la atención de tu bebé, estimulando su desarrollo visual y táctil. El incomparable confort que proporciona el Dou Dou Topitos Rosa, acompañará a tu pequeño en cada abrazo y llevará a su descanso al siguiente nivel. ¿Por qué elegir algo ordinario cuando puedes optar por la ternura inigualable de Dou Dou? Dale a tu bebé el regalo de dulces sueños y seguridad con Dou Dou Topitos Rosa. Dou-Dou rosa con cabeza de osito de la marca Gamberritos. Tacto muy suave.",
+  "details": "La Comodidad Incomparable\n\nDe la colección de Dou Dou, llega el Topitos Rosa, un deleite visual y táctil para los más pequeños. Este adorable conjunto ofrece un confort excepcional gracias a su suave tejido de algodón, ideal para la delicada piel del bebé. Además, su diseño encantador de lunares rosados añade un toque de dulzura inolvidable.\n\nTendencia y Funcionalidad\n\nFabricado con la más alta calidad, el Topitos Rosa de Dou Dou no solo es un deleite para la vista sino también práctico para los padres. Sus botones a presión permiten un cambio de ropa sencillo y rápido. Siendo igualmente resistente a lavados frecuentes, el Topitos Rosa se mantiene como nuevo sin perder su brillante color rosa.\n\nRegalo Perfecto para Bebés\n\nTopitos Rosa Dou Dou, es el regalo perfecto para nuevas mamás y papás. Le proporcionará comodidad a su pequeño mientras proporciona un estilo encantador. Cada detalle, desde el diseño hasta la elección del material, ha sido cuidadosamente seleccionado para garantizar que los pequeños se sientan a gusto mientras exploran el mundo a su alrededor.\n\nNo te pierdas la oportunidad de brindarle a tu pequeño la comodidad y el estilo que merece con el Topitos Rosa de Dou Dou. ¡Haz click en \"Agregar al carrito\" ahora!\n\nComposición:\n\n100% poliester.",
+  "sourceDescriptionHtml": "<h2>La Comodidad Incomparable</h2>\n<p>De la colección de Dou Dou, llega el Topitos Rosa, un deleite visual y táctil para los más pequeños. Este adorable conjunto ofrece un confort excepcional gracias a su suave tejido de algodón, ideal para la delicada piel del bebé. Además, su diseño encantador de lunares rosados añade un toque de dulzura inolvidable.</p>\n<h2>Tendencia y Funcionalidad</h2>\n<p>Fabricado con la más alta calidad, el Topitos Rosa de Dou Dou no solo es un deleite para la vista sino también práctico para los padres. Sus botones a presión permiten un cambio de ropa sencillo y rápido. Siendo igualmente resistente a lavados frecuentes, el Topitos Rosa se mantiene como nuevo sin perder su brillante color rosa.</p>\n<h2>Regalo Perfecto para Bebés</h2>\n<p>Topitos Rosa Dou Dou, es el regalo perfecto para nuevas mamás y papás. Le proporcionará comodidad a su pequeño mientras proporciona un estilo encantador. Cada detalle, desde el diseño hasta la elección del material, ha sido cuidadosamente seleccionado para garantizar que los pequeños se sientan a gusto mientras exploran el mundo a su alrededor.</p>\n<p>No te pierdas la oportunidad de brindarle a tu pequeño la comodidad y el estilo que merece con el Topitos Rosa de Dou Dou. ¡Haz click en \"Agregar al carrito\" ahora!</p>\n<p>Composición:</p>\n<p>100% poliester.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "767",
+    "788",
+    "865"
+  ],
+  "sourceDefaultCategoryId": "767",
+  "sourceCategoryName": "Dou Dou y Peluches",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:25",
+  "sourceUpdatedAt": "2026-10-27 11:10:07",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "101652",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "5832XA9997",
+      "productSku": "1810105",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:16.748Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7488-5399.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5399-large_default/dou-dou-topitos-rosa.jpg",
+      "alt": "Dou Dou Topitos Rosa",
+      "sourceId": "5399",
+      "variantIds": [],
+      "sha256": "f17777d2262513e9b63427f509dd9d23b0424bceb1d20ab9fdc7d2336d73da31"
+    },
+    {
+      "path": "assets/7488-15503.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15503-large_default/dou-dou-topitos-rosa.jpg",
+      "alt": "Dou Dou Topitos Rosa",
+      "sourceId": "15503",
+      "variantIds": [],
+      "sha256": "93d909b1d050706c24110d77da75a348eac7fb628918e1e32f41235ced47fc84"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:16.867Z",
+  "issues": []
+}

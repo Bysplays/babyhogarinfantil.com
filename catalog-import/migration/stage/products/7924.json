@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "7924",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/7924-camiseta-manga-larga-colores-gris.html",
+  "name": "Camiseta manga Larga colores Gris",
+  "brand": "Zippy",
+  "sku": "1910004",
+  "description": "Revitaliza el armario de tu pequeño con la \"Camiseta Manga Larga Colores Gris\". Suave y cómoda, perfecta para proteger su piel delicada. Un tono gris neutro añade un toque de elegancia y versatilidad. Ideal para juegos, paseos o eventos casuales. Esta camiseta es una adición imprescindible para el armario de tu niño. ¡Cómprala ahora y deja que tu pequeño se destaque en su estilo único!",
+  "details": "Confort Único Inigualable\n\n Descubre la comodidad que ofrece nuestra Camiseta manga Larga colores Gris. Diseñada con materiales de alta calidad para proporcionar suavidad absoluta, garantizando un ajuste cómodo y flexible. Perfecta para los días más frescos, esta camiseta se convertirá en la favorita del armario de tu pequeño.\n\n \n Estilo Contemporáneo y Versatilidad\n\n Esta camiseta no sólo ofrece comodidad, también aporta un estilo moderno y versátil. Su color gris se puede combinar fácilmente con cualquier prenda, lo que la convierte en un básico imprescindible para cualquier armario infantil. Perfecta para jugar, para la escuela o para eventos casuales.\n\n\n Calidad y Durabilidad\n\n Hecha para resistir las aventuras diarias de los niños, nuestra Camiseta manga Larga colores Gris promete durabilidad. Los puños elásticos de las mangas aseguran que mantenga su forma a pesar del uso frecuente, mientras que la calidad de la tela impide que se desgaste incluso después de numerosos lavados.\n\n\n Es la hora, dale a tu pequeño la comodidad y el estilo que se merece. Añade la Camiseta Manga Larga colores Gris a tu carrito hoy mismo.",
+  "sourceDescriptionHtml": "<div>\n <h2>Confort Único Inigualable</h2>\n <p>Descubre la comodidad que ofrece nuestra <strong>Camiseta manga Larga colores Gris</strong>. Diseñada con materiales de alta calidad para proporcionar suavidad absoluta, garantizando un ajuste cómodo y flexible. Perfecta para los días más frescos, esta camiseta se convertirá en la favorita del armario de tu pequeño.</p>\n \n <h2>Estilo Contemporáneo y Versatilidad</h2>\n <p>Esta camiseta no sólo ofrece comodidad, también aporta un <strong>estilo moderno y versátil</strong>. Su color gris se puede combinar fácilmente con cualquier prenda, lo que la convierte en un básico imprescindible para cualquier armario infantil. Perfecta para jugar, para la escuela o para eventos casuales.</p>\n\n <h2>Calidad y Durabilidad</h2>\n <p>Hecha para resistir las aventuras diarias de los niños, nuestra <strong>Camiseta manga Larga colores Gris</strong> promete <strong>durabilidad</strong>. Los puños elásticos de las mangas aseguran que mantenga su forma a pesar del uso frecuente, mientras que la calidad de la tela impide que se desgaste incluso después de numerosos lavados.</p>\n\n <p><em>Es la hora, dale a tu pequeño la comodidad y el estilo que se merece. Añade la Camiseta Manga Larga colores Gris a tu carrito hoy mismo.</em></p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:30",
+  "sourceUpdatedAt": "2026-10-27 11:10:29",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66689",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1910004",
+      "productSku": "1910004",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:03.425Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7924-6028.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6028-large_default/camiseta-manga-larga-colores-gris.jpg",
+      "alt": "Camiseta manga Larga colores Gris",
+      "sourceId": "6028",
+      "variantIds": [],
+      "sha256": "adf01f0da6a860f8882d262d89282ed0ceff39096afc6ee429525d288e156f57"
+    },
+    {
+      "path": "assets/7924-10703.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10703-large_default/camiseta-manga-larga-colores-gris.jpg",
+      "alt": "Camiseta manga Larga colores Gris",
+      "sourceId": "10703",
+      "variantIds": [],
+      "sha256": "7a6099f582d77c4ec531128a910e76f3ac3232f823def849edd47279a0a5b85c"
+    },
+    {
+      "path": "assets/7924-6027.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6027-large_default/camiseta-manga-larga-colores-gris.jpg",
+      "alt": "Camiseta manga Larga colores Gris",
+      "sourceId": "6027",
+      "variantIds": [],
+      "sha256": "877dd5b4aa0a912e3d20ad3c17e2208c260bbe1535f1d0adf2e3a90e13e4ebe3"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:03.562Z",
+  "issues": []
+}

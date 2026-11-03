@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "8161",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/8161-vestido-ceremonia-labrado-rosa-palo.html",
+  "name": "Vestido ceremonia labrado Rosa palo",
+  "brand": "Anavig",
+  "sku": "2003026",
+  "description": "Vestido Ceremonia Labrado Rosa Palo: Deslumbre a todos con la elegancia y sofisticación de este vestido. Perfecto para ocasiones especiales, este vestido labrado en un tono rosa palo evoca un encanto sin igual. Diseñado meticulosamente para niñas adorables, brinda total comodidad sin comprometer la elegancia. Joya encantada que aporta ese toque extra de gracia a cualquier ceremonia. Dale a tu pequeña el regalo de verse y sentirse excepcionalmente hermosa con este maravilloso vestido. La elección perfecta para destacar en la multitud.\n\n88% Poliéster\n\n8% Elastano\n\n4% Metálica\n\nForros: 100% Poliéster\n\nNO LAVAR A MANO",
+  "details": "Ilumina La Fiesta Con El Color Perfecto\n\nEl vestido de ceremonia labrado Rosa Palo es la elección perfecta para las más pequeñas. Su color rosa palo añade un toque sofisticado y delicado que las hará brillar en cualquier evento especial. Con un diseño labrado precioso, este vestido se convierte en la elección perfecta para que se destaquen con elegancia y estilo.\n\nDetalles Que Hacen La Diferencia\n\nAparte de su encantador color, este lujoso vestido está labrado en detalles que de seguro captarán la atención y los corazones de todos. El labrado delicado y minucioso le añade una textura única que hace que este vestido sea una prenda verdaderamente única. La suavidad y el confort que brinda dejarán a las pequeñas sintiéndose tan radiantes como lucen.\n\nCreando Recuerdos Inolvidables\n\nLos eventos especiales son momentos para crear recuerdos inolvidables. El Vestido de ceremonia labrado Rosa Palo no solo le dará un aspecto impresionante a las pequeñas, sino que también ayudará a forjar esos recuerdos preciosos. Cada detalle, cada sonrisa y cada foto se aumentarán por la belleza y la gracia de este vestido.\n\n\nComprar Ahora",
+  "sourceDescriptionHtml": "<p><u><b>Ilumina La Fiesta Con El Color Perfecto</b></u></p>\n<p>El vestido de ceremonia labrado Rosa Palo es la elección perfecta para las más pequeñas. Su color rosa palo añade un toque sofisticado y delicado que las hará brillar en cualquier evento especial. Con un diseño labrado precioso, este vestido se convierte en la elección perfecta para que se destaquen con elegancia y estilo.</p>\n<p><u><b>Detalles Que Hacen La Diferencia</b></u></p>\n<p>Aparte de su encantador color, este lujoso vestido está labrado en detalles que de seguro captarán la atención y los corazones de todos. El labrado delicado y minucioso le añade una textura única que hace que este vestido sea una prenda verdaderamente única. La suavidad y el confort que brinda dejarán a las pequeñas sintiéndose tan radiantes como lucen.</p>\n<p><u><b>Creando Recuerdos Inolvidables</b></u></p>\n<p>Los eventos especiales son momentos para crear recuerdos inolvidables. El Vestido de ceremonia labrado Rosa Palo no solo le dará un aspecto impresionante a las pequeñas, sino que también ayudará a forjar esos recuerdos preciosos. Cada detalle, cada sonrisa y cada foto se aumentarán por la belleza y la gracia de este vestido.</p>\n<div align=\"center\">\n<p>Comprar Ahora</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2020",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa palo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823",
+    "729"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 36.48,
+  "oldPrice": 72.9509,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:33",
+  "sourceUpdatedAt": "2026-10-27 11:10:37",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67139",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2003026",
+      "productSku": "2003026",
+      "taxRate": 21,
+      "price": 36.48,
+      "oldPrice": 72.9509,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:18.993Z"
+    },
+    {
+      "id": "85186",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2003026",
+      "productSku": "2003026",
+      "taxRate": 21,
+      "price": 36.48,
+      "oldPrice": 72.9509,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:20.731Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8161-6398.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6398-large_default/vestido-ceremonia-labrado-rosa-palo.jpg",
+      "alt": "Vestido ceremonia labrado Rosa palo",
+      "sourceId": "6398",
+      "variantIds": [],
+      "sha256": "2ef9671d00420c0d73014f3efb7a4962065be22ed28f926b9eb0c45a97a15b02"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:20.782Z",
+  "issues": []
+}

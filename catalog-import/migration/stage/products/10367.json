@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "10367",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/10367-chaqueta-larga-bebe-sin-costuras-rojo.html",
+  "name": "Chaqueta larga bebe sin costuras Rojo",
+  "brand": "Mac Ilusión",
+  "sku": "2301123",
+  "description": "Sumérgete en un mundo donde el estilo y la comodidad se unen en la \"Chaqueta larga bebé sin costuras Rojo\". Esta chaqueta es un sueño hecho realidad para cualquier niño: suave al tacto, sin costuras y de un encantador color rojo, perfecta para días de parque o visitas especiales. Disponible en tallas para bebés y niños. ¿Por qué comprarla? Su diseño sin costuras significa cero rozaduras, promoviendo el confort total de tu pequeño durante todo el día. Además, su auténtica tonalidad roja levanta el ánimo y atrae la mirada. ¡Viste a tu niño con la mejor sensación de confort y estilo! HECHA EN ESPAÑA",
+  "details": "Tu bebe siempre cálido y cómodo\n\nMima a tu pequeño con la chaqueta larga sin costuras en rojo. Diseñada para proporcionar un confort inigualable, esta chaqueta mantendrá a tu bebe abrigado durante los días más fríos. Su diseño sin costuras elimina cualquier irritación, lo que permite un movimiento libre y feliz.\n\n\n\n\nDiseño actual y elegante\n\nUn toque de rojo para alegrar el armario de cualquier bebe. Este tono vivo y alegre hace que esta chaqueta destaque en cualquier ocasión. Un diseño imprescindible que aúna elegancia y diversión.\n\n\n\n\nInsuperable calidad de confección\n\nLa excepcional calidad de esta prenda habla por sí misma. Utilizando los materiales más suaves y resistentes, esta chaqueta larga no sólo durará mucho tiempo, sino que también mantendrá su brillante color rojo lavado tras lavado. Un imprescindible en todo armario infantil.\n\n\n\n\n¡Dale a tu bebe el regalo de la comodidad y el estilo hoy!\n¡Compra la chaqueta larga bebe sin costuras en rojo ahora!",
+  "sourceDescriptionHtml": "<div>\n<h2>Tu bebe siempre cálido y cómodo</h2>\n<p>Mima a tu pequeño con la chaqueta larga sin costuras en rojo. Diseñada para proporcionar un confort inigualable, esta chaqueta mantendrá a tu bebe abrigado durante los días más fríos. Su diseño sin costuras elimina cualquier irritación, lo que permite un movimiento libre y feliz.</p>\n</div>\n<div>\n<h2>Diseño actual y elegante</h2>\n<p>Un toque de rojo para alegrar el armario de cualquier bebe. Este tono vivo y alegre hace que esta chaqueta destaque en cualquier ocasión. Un diseño imprescindible que aúna elegancia y diversión.</p>\n</div>\n<div>\n<h2>Insuperable calidad de confección</h2>\n<p>La excepcional calidad de esta prenda habla por sí misma. Utilizando los materiales más suaves y resistentes, esta chaqueta larga no sólo durará mucho tiempo, sino que también mantendrá su brillante color rojo lavado tras lavado. Un imprescindible en todo armario infantil.</p>\n</div>\n<div>\n<p style=\"text-align:center;\"><button>¡Dale a tu bebe el regalo de la comodidad y el estilo hoy!<br />¡Compra la chaqueta larga bebe sin costuras en rojo ahora!</button></p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85897",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301123",
+      "productSku": "2301123",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:44.423Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10367-8949.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8949-large_default/chaqueta-larga-bebe-sin-costuras-rojo.jpg",
+      "alt": "Chaqueta larga bebe sin costuras Rojo",
+      "sourceId": "8949",
+      "variantIds": [],
+      "sha256": "53df3f283606b45f3c44f1d60af891d349d1ec5f2fad3445a0884bf121ce7493"
+    },
+    {
+      "path": "assets/10367-15019.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15019-large_default/chaqueta-larga-bebe-sin-costuras-rojo.jpg",
+      "alt": "Chaqueta larga bebe sin costuras Rojo",
+      "sourceId": "15019",
+      "variantIds": [],
+      "sha256": "5a0668f940b663e7207f5a1ec329adc73c9459f1cef6653d3b4f09b491a1f5fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:44.541Z",
+  "issues": []
+}

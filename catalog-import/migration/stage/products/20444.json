@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "20444",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/20444-cardigan-cuello-redondo-tricot-aceituna.html",
+  "name": "Cardigan cuello redondo tricot Aceituna",
+  "brand": "Mayoral",
+  "sku": "2502025",
+  "description": "Esta chaqueta color verde aceituna está hecha con poliamida reciclada. Chaqueta tipo cardigan de manga larga para bebé. Con cuello redondo y cierre con botones en la parte delantera. Confeccionada en tejido de punto tricotosa de tacto muy suave y agradable. Los bolsillos son funcionales.",
+  "details": "Composición:\n\nChaqueta: 60% algodón, 30% poliamida reciclada, 10% lana.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 60% algodón, 30% poliamida reciclada, 10% lana. </p>\n<p></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Aceituna",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "340",
+          "label": "2-4m"
+        },
+        {
+          "id": "343",
+          "label": "4-6m"
+        },
+        {
+          "id": "342",
+          "label": "6-9m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95406",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "340",
+          "group": "Tamaño",
+          "value": "2-4m"
+        }
+      ],
+      "sku": "2502025",
+      "productSku": "2502025",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:19.513Z"
+    },
+    {
+      "id": "95407",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "343",
+          "group": "Tamaño",
+          "value": "4-6m"
+        }
+      ],
+      "sku": "2502025",
+      "productSku": "2502025",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:21.187Z"
+    },
+    {
+      "id": "95408",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "342",
+          "group": "Tamaño",
+          "value": "6-9m"
+        }
+      ],
+      "sku": "2502025",
+      "productSku": "2502025",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:22.332Z"
+    },
+    {
+      "id": "95409",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502025",
+      "productSku": "2502025",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:24.026Z"
+    },
+    {
+      "id": "95410",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502025",
+      "productSku": "2502025",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:25.193Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20444-19696.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19696-large_default/cardigan-cuello-redondo-tricot-aceituna.jpg",
+      "alt": "Cardigan cuello redondo tricot Aceituna",
+      "sourceId": "19696",
+      "variantIds": [],
+      "sha256": "ef78d76761321ae02ec69669f15d82b07790172bd987bb17dac52e5bec0e2faa"
+    },
+    {
+      "path": "assets/20444-19697.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19697-large_default/cardigan-cuello-redondo-tricot-aceituna.jpg",
+      "alt": "Cardigan cuello redondo tricot Aceituna",
+      "sourceId": "19697",
+      "variantIds": [],
+      "sha256": "4a600a9e9e80fa5a0a8b290f7867b52fdf452a12d7f76e70f018f6c0004cc706"
+    },
+    {
+      "path": "assets/20444-19698.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19698-large_default/cardigan-cuello-redondo-tricot-aceituna.jpg",
+      "alt": "Cardigan cuello redondo tricot Aceituna",
+      "sourceId": "19698",
+      "variantIds": [],
+      "sha256": "7634c7303aec43fcae8a7ac2fc272e1fec380ff77ab653168a43ca1fcc44a18d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:25.381Z",
+  "issues": []
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "20413",
+  "sourceUrl": "https://babyhogarinfantil.com/-primera-puesta-0-a-3/20413-conjunto-polaina-bebe-nino-azul-celeste.html",
+  "name": "Conjunto polaina bebe niño Azul Celeste",
+  "brand": "Calamaro",
+  "sku": "2502001",
+  "description": "Conjunto de jubón y polaina. El jubón se abre por la espalda para facilitar la puesta.\n\n\n\nHECHO EN ESPAÑA",
+  "details": "Composición y cuidados:\n\n100% algodón.\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>100% algodón.</p>\n<p>NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "819",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "819",
+  "sourceCategoryName": "Primera puesta 0 a 3",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94524",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2502001",
+      "productSku": "2502001",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:41.486Z"
+    },
+    {
+      "id": "94525",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502001",
+      "productSku": "2502001",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:42.373Z"
+    },
+    {
+      "id": "94526",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502001",
+      "productSku": "2502001",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:43.146Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20413-19606.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19606-large_default/conjunto-polaina-bebe-nino-azul-celeste.jpg",
+      "alt": "Conjunto polaina bebe niño Azul Celeste",
+      "sourceId": "19606",
+      "variantIds": [],
+      "sha256": "a9ac9796cf1ba7654b6bc07a6a4bb76e719692fb21ba11418ed61ea8ca372da6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:51:43.212Z",
+  "issues": []
+}

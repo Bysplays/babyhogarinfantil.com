@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "16462",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/16462-peto-pana-madera.html",
+  "name": "Peto pana Madera",
+  "brand": "Mayoral",
+  "sku": "2307025",
+  "description": "Descubre a Peto Pana Madera, el elemento estelar en la colección de pantalones para bebé niño. Su diseño cautivador y encantador refleja la alegría y espíritu aventurero de los más pequeños en casa. Elaborado con la máxima calidad y la ternura inigualable de madera, aporta un toque de elegancia infantil a cualquier atuendo. ¡Un regalo perfecto para ese pequeño príncipe que se merece lo mejor! Pureza, delicadeza y amor se entrelazan en este tesoro de prenda. ¿Por qué esperar? ¡Perfección, confort y estilo vanguardista están a un clic de distancia!",
+  "details": "La Magia de la Madera\n\n¿Estás buscando una pieza que no solo añada estilo visual a la ropa de tu hijo, sino que también exprese su individualidad? No busques más, el Peto Pana Madera es la elección perfecta. Hecho con la mejor calidad de materiales, este peto no solo luce moderno sino que también garantiza el confort de tu hijo.\n\nExperiencia Única de Confort\n\nEl Peto Pana Madera no solo ayuda a tu hijo a destacar en la multitud sino que también promete una experiencia de confort excepcional. Los tejidos suaves y amigables con la piel garantizan que tu hijo se sienta cómodo y fresco durante todo el día. Además, la calidad del tejido asegura que el peto permanezca en excelente estado incluso después de numerosos lavados.\n\nEstilo + Calidad = ¡Voilà!\n\nEl Peto Pana Madera es el ejemplo perfecto de cómo la moda y la funcionalidad pueden coexistir. Este peto es un ejemplo de maestría artesanal y diseño innovador que se desprende de cada puntada. El tejido es suave al tacto y proporciona ese aspecto deseado que todos buscan. Añade este versátil peto a la colección de tu hijo para una experiencia de estilo inigualable.\n\n¿A qué esperas? Haz un regalo al armario de tu hijo con el incomparable Peto Pana Madera. ¡Haz tu compra ya!\n\nComposición y cuidados:\n\nPantalón: 98% algodón, 2% elastano.\n\nNO USAR SECADORA\n\nNO USAR LIJIAS\n\nLAVAR A 30º",
+  "sourceDescriptionHtml": "<h2>La Magia de la Madera</h2>\n<p>¿Estás buscando una pieza que no solo añada estilo visual a la ropa de tu hijo, sino que también exprese su individualidad? No busques más, el Peto Pana Madera es la elección perfecta. Hecho con la mejor calidad de materiales, este peto no solo luce moderno sino que también garantiza el confort de tu hijo.</p>\n<h2>Experiencia Única de Confort</h2>\n<p>El Peto Pana Madera no solo ayuda a tu hijo a destacar en la multitud sino que también promete una experiencia de confort excepcional. Los tejidos suaves y amigables con la piel garantizan que tu hijo se sienta cómodo y fresco durante todo el día. Además, la calidad del tejido asegura que el peto permanezca en excelente estado incluso después de numerosos lavados.</p>\n<h2>Estilo + Calidad = ¡Voilà!</h2>\n<p>El Peto Pana Madera es el ejemplo perfecto de cómo la moda y la funcionalidad pueden coexistir. Este peto es un ejemplo de maestría artesanal y diseño innovador que se desprende de cada puntada. El tejido es suave al tacto y proporciona ese aspecto deseado que todos buscan. Añade este versátil peto a la colección de tu hijo para una experiencia de estilo inigualable.</p>\n<p><strong>¿A qué esperas? Haz un regalo al armario de tu hijo con el incomparable Peto Pana Madera. ¡Haz tu compra ya!</strong></p>\n<p>Composición y cuidados:</p>\n<p>Pantalón: 98% algodón, 2% elastano.</p>\n<p>NO USAR SECADORA</p>\n<p>NO USAR LIJIAS</p>\n<p>LAVAR A 30º</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Madera",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 27.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-07-12 15:53:08",
+  "sourceUpdatedAt": "2026-10-27 11:12:49",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "89487",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2307025",
+      "productSku": "2307025",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:07.625Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16462-14248.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14248-large_default/peto-pana-madera.jpg",
+      "alt": "Peto pana Madera",
+      "sourceId": "14248",
+      "variantIds": [],
+      "sha256": "2c2712fd462fea2e9ebe3baf692de67e5f540fbbd37431488d44e69b62e862a7"
+    },
+    {
+      "path": "assets/16462-14249.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14249-large_default/peto-pana-madera.jpg",
+      "alt": "Peto pana Madera",
+      "sourceId": "14249",
+      "variantIds": [],
+      "sha256": "333e12f81c8f4da20ae33411f4444e909242e912c3729acc12afcf9657f34cbc"
+    },
+    {
+      "path": "assets/16462-14250.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14250-large_default/peto-pana-madera.jpg",
+      "alt": "Peto pana Madera",
+      "sourceId": "14250",
+      "variantIds": [],
+      "sha256": "aa6e27bb207e1519774f73be83a2db5874d93958cf34993499d49ee68ab64571"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:07.780Z",
+  "issues": []
+}

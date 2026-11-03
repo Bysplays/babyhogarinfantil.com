@@ -1,0 +1,45 @@
+name: baby-hogar-prestashop
+services:
+  db:
+    image: mysql:8.0
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:?}
+      MYSQL_DATABASE: prestashop
+      MYSQL_USER: prestashop
+      MYSQL_PASSWORD: ${DB_PASSWORD:?}
+    volumes:
+      - database:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+  prestashop:
+    image: prestashop/prestashop:9.0.3
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:8080:80"
+    environment:
+      DB_SERVER: db
+      DB_NAME: prestashop
+      DB_USER: prestashop
+      DB_PASSWD: ${DB_PASSWORD:?}
+      PS_INSTALL_AUTO: "1"
+      PS_ERASE_DB: "0"
+      PS_DOMAIN: localhost:8080
+      PS_LANGUAGE: es
+      PS_COUNTRY: es
+      PS_FOLDER_ADMIN: administracion-baby
+      PS_FOLDER_INSTALL: instalacion-baby
+      PS_DEV_MODE: "1"
+      ADMIN_MAIL: ${ADMIN_EMAIL:?}
+      ADMIN_PASSWD: ${ADMIN_PASSWORD:?}
+    volumes:
+      - shop:/var/www/html
+volumes:
+  database:
+  shop:

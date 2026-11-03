@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "9132",
+  "sourceUrl": "https://babyhogarinfantil.com/patucos/9132-patuco-con-cordon-azul.html",
+  "name": "Patuco con cordon Azul",
+  "brand": "Mac Ilusión",
+  "sku": "2109038",
+  "description": "Descubre los Patucos con cordón Azul - la elección perfecta para los pequeños pies de tu tesoro. Sus primeros pasos nunca fueron tan acogedores y con estilo. Hechos de materiales suaves y de calidad, son la combinación perfecta entre confort y funcionalidad. Además, el color azul da un toque de ternura encantador. Garantizan la comodidad ideal para esos pequeños pies, mientras que los cordones prometen un ajuste perfecto y seguro. Un regalo ideal para tu pequeño príncipe o princesa.",
+  "details": "Comodidad y Estilo Infantil\n\nEncuentra el equilibrio perfecto entre comodidad y estilo con nuestros Patuco con cordón Azul. Diseñados pensando en los pequeños pies en crecimiento, estos patucos son suaves, flexibles y extremadamente cómodos. La elección perfecta para dar los primeros pasos o simplemente descansar en casa. Mantén a tu pequeño a la moda con estos patucos azules.\n\n\nUna Opción Segura y Práctica\n\nConfeccionados con suela antideslizante, nuestros Patuco con cordón Azul ofrecen seguridad a tu hijo. Su diseño con cordón asegura un ajuste perfecto y práctico, evitando que se suelten sin importar cuán activos sean sus pequeños pies. Más que un zapato, es una necesidad para la seguridad de tu niño.\n\n\nCalidad que se Siente\n\nEl uso de materiales de alta calidad en la confección del Patuco con cordón Azul garantiza una durabilidad inigualable. Los delicados pies de tu bebé se merecen sólo lo mejor, y esto es precisamente lo que ofrecen nuestros patucos. Hechos para durar, sin comprometer la comodidad o la moda.\n\n\n¡Compra ahora y experimenta la comodidad y calidad de nuestros Patuco con cordon Azul!",
+  "sourceDescriptionHtml": "<h2>Comodidad y Estilo Infantil</h2>\n<p>Encuentra el equilibrio perfecto entre comodidad y estilo con nuestros Patuco con cordón Azul. Diseñados pensando en los pequeños pies en crecimiento, estos patucos son suaves, flexibles y extremadamente cómodos. La elección perfecta para dar los primeros pasos o simplemente descansar en casa. Mantén a tu pequeño a la moda con estos patucos azules.</p>\n\n<h2>Una Opción Segura y Práctica</h2>\n<p>Confeccionados con suela antideslizante, nuestros Patuco con cordón Azul ofrecen seguridad a tu hijo. Su diseño con cordón asegura un ajuste perfecto y práctico, evitando que se suelten sin importar cuán activos sean sus pequeños pies. Más que un zapato, es una necesidad para la seguridad de tu niño.</p>\n\n<h2>Calidad que se Siente</h2>\n<p>El uso de materiales de alta calidad en la confección del Patuco con cordón Azul garantiza una durabilidad inigualable. Los delicados pies de tu bebé se merecen sólo lo mejor, y esto es precisamente lo que ofrecen nuestros patucos. Hechos para durar, sin comprometer la comodidad o la moda.</p>\n\n<a href=\"#\">¡Compra ahora y experimenta la comodidad y calidad de nuestros Patuco con cordon Azul!</a>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "779"
+  ],
+  "sourceDefaultCategoryId": "779",
+  "sourceCategoryName": "Patucos",
+  "price": 7.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:45",
+  "sourceUpdatedAt": "2026-10-27 11:11:17",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68590",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9484XA14926",
+      "productSku": "2109038",
+      "taxRate": 21,
+      "price": 7.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:09:10.786Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9132-11950.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11950-large_default/patuco-con-cordon-azul.jpg",
+      "alt": "Patuco con cordon Azul",
+      "sourceId": "11950",
+      "variantIds": [],
+      "sha256": "ef2ac83faffb720184cf21a610a308a7bf079bbdcc4ad51ced693583b185867f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:09:10.892Z",
+  "issues": []
+}

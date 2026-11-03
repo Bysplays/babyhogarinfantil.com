@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "id": "17776",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/17776-conjunto-pololo-navia-nino-azul.html",
+  "name": "Conjunto pololo Navia niño Azul",
+  "brand": "Calamaro",
+  "sku": "2402040",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 32.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-09 15:53:55",
+  "sourceUpdatedAt": "2026-10-27 11:13:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85447",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2402040",
+      "productSku": "2402040",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:18.555Z"
+    },
+    {
+      "id": "85448",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2402040",
+      "productSku": "2402040",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:19.534Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17776-16280.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16280-large_default/conjunto-pololo-navia-nino-azul.jpg",
+      "alt": "Conjunto pololo Navia niño Azul",
+      "sourceId": "16280",
+      "variantIds": [],
+      "sha256": "8a03dd4974f654b4a8c974da1372c8d5da939ad744154d8eb6a36415e8c49030"
+    },
+    {
+      "path": "assets/17776-16281.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16281-large_default/conjunto-pololo-navia-nino-azul.jpg",
+      "alt": "Conjunto pololo Navia niño Azul",
+      "sourceId": "16281",
+      "variantIds": [],
+      "sha256": "2965eedc38094d66dc3b335833efe6e73cf2a12a72636c255fc01a3b6cd13797"
+    },
+    {
+      "path": "assets/17776-16282.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16282-large_default/conjunto-pololo-navia-nino-azul.jpg",
+      "alt": "Conjunto pololo Navia niño Azul",
+      "sourceId": "16282",
+      "variantIds": [],
+      "sha256": "7bcbf4aaaeabc187c8895d98822370b7faf5aca0b0486495d3f2e207b6acaa90"
+    },
+    {
+      "path": "assets/17776-16283.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16283-large_default/conjunto-pololo-navia-nino-azul.jpg",
+      "alt": "Conjunto pololo Navia niño Azul",
+      "sourceId": "16283",
+      "variantIds": [],
+      "sha256": "6fd1b8181d1826304bd24bd34ceb735c026616154eb7dd7fc968295c60d24c98"
+    },
+    {
+      "path": "assets/17776-16284.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16284-large_default/conjunto-pololo-navia-nino-azul.jpg",
+      "alt": "Conjunto pololo Navia niño Azul",
+      "sourceId": "16284",
+      "variantIds": [],
+      "sha256": "6fd1b8181d1826304bd24bd34ceb735c026616154eb7dd7fc968295c60d24c98"
+    },
+    {
+      "path": "assets/17776-16285.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16285-large_default/conjunto-pololo-navia-nino-azul.jpg",
+      "alt": "Conjunto pololo Navia niño Azul",
+      "sourceId": "16285",
+      "variantIds": [],
+      "sha256": "7bcbf4aaaeabc187c8895d98822370b7faf5aca0b0486495d3f2e207b6acaa90"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:19.864Z",
+  "issues": []
+}

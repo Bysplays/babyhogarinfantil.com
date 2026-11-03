@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "8814",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nina/8814-pijama-algodon-corona-rosa.html",
+  "name": "Pijama algodón Corona Rosa",
+  "brand": "Newness",
+  "sku": "2104067",
+  "description": "Pijama entero 100% algodón, en color rosa con estampado de topitos y estrellas en dorado y blanco. Corona dorada bordada en el pecho. Cierre con corchetes en toda la parte delantera y entrepierna.",
+  "details": "Pijama enterizo de NEWNESS, una de nuestras firmas favoritas! De manga y pierna larga, con cuello redondo. En color rosa, con estampado de topitos y estrellas en blanco y dorado. Corona dorada bordada en el pecho, con pequeño lazo de tull, para la reina de la casa! Cierre con corchetes en toda la parte delantera y entrepierna, para facilitar la puesta y el cambio de pañal. Tejido 100% algodón, suave y respetuoso con la piel. Echa un ojito a nuestros bodies interiores, mantas y muselinas y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nPijama: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nDISEÑADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Pijama enterizo de <strong>NEWNESS</strong>, una de nuestras firmas favoritas! De manga y pierna larga, con cuello redondo. En color rosa, con estampado de topitos y estrellas en blanco y dorado. Corona dorada bordada en el pecho, con pequeño lazo de tull, para <strong>la reina de la casa</strong>! Cierre con corchetes en toda la parte delantera y entrepierna, para facilitar la puesta y el cambio de pañal. Tejido 100% algodón, suave y respetuoso con la piel. Echa un ojito a nuestros <strong>bodies interiores, mantas y muselinas</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Pijama: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>DISEÑADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2021",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "777",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "777",
+  "sourceCategoryName": "Pijamas bebe niña",
+  "price": 6,
+  "oldPrice": 12.0032,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:42",
+  "sourceUpdatedAt": "2026-10-27 11:11:02",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68028",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2104067",
+      "productSku": "2104067",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:24.678Z"
+    },
+    {
+      "id": "68031",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2104067",
+      "productSku": "2104067",
+      "taxRate": 21,
+      "price": 6,
+      "oldPrice": 12.0032,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:27.195Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8814-11571.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11571-large_default/pijama-algodon-corona-rosa.jpg",
+      "alt": "Pijama algodón Corona Rosa",
+      "sourceId": "11571",
+      "variantIds": [],
+      "sha256": "f5633ec84bfec5b6b928a92bbc7ae65a26ecadd17a12fe0743c1863a512a7af1"
+    },
+    {
+      "path": "assets/8814-8469.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8469-large_default/pijama-algodon-corona-rosa.jpg",
+      "alt": "Pijama algodón Corona Rosa",
+      "sourceId": "8469",
+      "variantIds": [],
+      "sha256": "68d52da240ee318ab4475ea8f2fa45389f01543757f04c46faacbc280ed4fabc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:27.312Z",
+  "issues": []
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16775",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-nina/16775-vestido-manga-larga-tul-gris.html",
+  "name": "Vestido manga larga tul Gris",
+  "brand": "Alber",
+  "sku": "2307090",
+  "description": "Vestido manga larga tul Gris\n\nAdéntrate en un mundo donde la comodidad y el estilo se unen con nuestro Vestido manga larga tul Gris. Este encantador vestido es perfecto para esos días especiales cuando tu pequeña quiere lucir hermosa. Las delicadas mangas de tul gris le dan un toque de sofisticación, mientras la suavidad del material garantiza total confort. Es la elección definitiva para transformar cualquier día en una ocasión especial. ¡Permítele a tu pequeña brillar con nuestro vestido único!",
+  "details": "Elegancia en Cada Detalle\n\nEste magnífico Vestido de manga larga de tul Gris ha sido diseñado pensando en la elegancia y la comodidad de los más pequeños. Con mangas largas para mantener esas pequeñas e irresistibles manos calientes y un elegante color gris que hace juego con cualquier accesorio. Cada puntada es un testimonio del detalle y la dedicación en la artesanía.\n\n\nComodidad Inigualable\n\nLa comodidad es clave al seleccionar ropa para bebés y niños. Por eso, este Vestido de manga larga de tul Gris es la elección perfecta. Confeccionado con materiales de alta calidad que son suaves y gentiles con la piel sensible, garantiza un gran confort durante todo el día. El ajuste relajado permite una gran movilidad, lo que permite a los niños explorar con facilidad.\n\n\nPerfecto para Todas las Ocasiones\n\nNo hay nada mejor que un outfit que pueda adaptarse a cualquier ocasión, y este Vestido de manga larga de tul Gris lo hace con estilo. Perfecto para el día a día o para ese evento especial, este vestido se destaca siempre. Agrega un par de medias y unas lindas botas para un look cálido de invierno, o lúcelo tal como es durante los días más calurosos. \n\n\nNo permita que esta oportunidad única pase frente a sus ojos. Este Vestido de manga larga de tul Gris será la adición perfecta a su colección de moda para niños. ¡Haz clic en el botón \\'Agregar al carrito\\' ahora mismo para darle un toque de elegancia y comodidad a su próximo outfit!",
+  "sourceDescriptionHtml": "<h2>Elegancia en Cada Detalle</h2>\n<p>Este magnífico Vestido de manga larga de tul Gris ha sido diseñado pensando en la elegancia y la comodidad de los más pequeños. Con mangas largas para mantener esas pequeñas e irresistibles manos calientes y un elegante color gris que hace juego con cualquier accesorio. Cada puntada es un testimonio del detalle y la dedicación en la artesanía.</p>\n\n<h2>Comodidad Inigualable</h2>\n<p>La comodidad es clave al seleccionar ropa para bebés y niños. Por eso, este Vestido de manga larga de tul Gris es la elección perfecta. Confeccionado con materiales de alta calidad que son suaves y gentiles con la piel sensible, garantiza un gran confort durante todo el día. El ajuste relajado permite una gran movilidad, lo que permite a los niños explorar con facilidad.</p>\n\n<h2>Perfecto para Todas las Ocasiones</h2>\n<p>No hay nada mejor que un outfit que pueda adaptarse a cualquier ocasión, y este Vestido de manga larga de tul Gris lo hace con estilo. Perfecto para el día a día o para ese evento especial, este vestido se destaca siempre. Agrega un par de medias y unas lindas botas para un look cálido de invierno, o lúcelo tal como es durante los días más calurosos. </p>\n\n<p>No permita que esta oportunidad única pase frente a sus ojos. Este Vestido de manga larga de tul Gris será la adición perfecta a su colección de moda para niños. ¡Haz clic en el botón \\'Agregar al carrito\\' ahora mismo para darle un toque de elegancia y comodidad a su próximo outfit!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "734",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "734",
+  "sourceCategoryName": "Vestidos Niña",
+  "price": 55.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-08-22 15:52:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:56",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "78852",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2307090",
+      "productSku": "2307090",
+      "taxRate": 21,
+      "price": 55.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:59:03.764Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16775-14456.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14456-large_default/vestido-manga-larga-tul-gris.jpg",
+      "alt": "Vestido manga larga tul Gris",
+      "sourceId": "14456",
+      "variantIds": [],
+      "sha256": "3e56f5b1abe042cd67ad0cb81ca78b51533c61263e5a2b5d4c6d040f9c6a9f72"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:59:03.816Z",
+  "issues": []
+}

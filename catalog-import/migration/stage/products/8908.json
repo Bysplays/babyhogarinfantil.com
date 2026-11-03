@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8908",
+  "sourceUrl": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/8908-bolsa-merienda-cuadros-vaca-corazones-azul-marino.html",
+  "name": "Bolsa merienda cuadros Vaca corazones Azul marino",
+  "brand": "Santa Ana Mayor",
+  "sku": "2105041",
+  "description": "Bolsa merienda en cuadro vichy. Cordón ajustable por los dos lados. Medidas: 27x22 cm. Personalízala con el nombre bordado.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "704",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "704",
+  "sourceCategoryName": "Mochilas y bolsas merienda",
+  "price": 5.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:43",
+  "sourceUpdatedAt": "2026-10-27 11:11:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68184",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9095XA14410",
+      "productSku": "2105041",
+      "taxRate": 21,
+      "price": 5.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:51.843Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8908-7215.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7215-large_default/bolsa-merienda-cuadros-vaca-corazones-azul-marino.jpg",
+      "alt": "Bolsa merienda cuadros Vaca corazones Azul marino",
+      "sourceId": "7215",
+      "variantIds": [],
+      "sha256": "5dc4709b575a07957b76ea7494210b5cec6c298333e50046f5621ebc314ea0d2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:51.938Z",
+  "issues": []
+}

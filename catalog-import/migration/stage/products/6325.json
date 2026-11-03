@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "id": "6325",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/6325-zapato-velcro-reforzado-del-25-al-28-azul-marino.html",
+  "name": "Zapato velcro reforzado del 25 al 28 Azul Marino",
+  "brand": "Gorila",
+  "sku": "1165",
+  "description": "Zapato colegial GORILA de piel con velcro y puntera reforzada. Plantilla extraíble.",
+  "details": "TECNOLOGÍA ADAPTACTION:  Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) \nPRODUCTO DE PIEL:  Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. \nCREMA DE LIMPIEZA:  Para su limpieza se recomienda la crema natural de Callaghan.",
+  "sourceDescriptionHtml": "<p><span style=\"text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"font-weight:bolder;\">TECNOLOGÍA ADAPTACTION:  </span><span>Se adapta al pie y al aumento de anchura que experimenta al caminar (entre 5-8mm) </span><br /></span><span style=\"text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"font-weight:bolder;\">PRODUCTO DE PIEL:  </span><span>Elaborado con piel de la máxima calidad que ha sido curtida con aceites y ceras naturales que le confieren un brillo especial. </span><br /></span><span style=\"text-align:justify;color:#575756;line-height:1.5;font-family:'Open Sans', sans-serif;font-size:12.8px;\"><span style=\"font-weight:bolder;\">CREMA DE LIMPIEZA:  </span><span>Para su limpieza se recomienda la crema natural de Callaghan. </span></span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "783",
+    "684",
+    "850",
+    "879"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 56.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        },
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "260",
+          "label": "21"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        },
+        {
+          "id": "251",
+          "label": "24"
+        },
+        {
+          "id": "279",
+          "label": "25"
+        },
+        {
+          "id": "252",
+          "label": "26"
+        },
+        {
+          "id": "280",
+          "label": "27"
+        },
+        {
+          "id": "281",
+          "label": "28"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63324",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "279",
+          "group": "Tamaño",
+          "value": "25"
+        }
+      ],
+      "sku": "1058XH1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:04.738Z"
+    },
+    {
+      "id": "144652",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "1058XA1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:07.362Z"
+    },
+    {
+      "id": "144653",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "1058XB1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:09.239Z"
+    },
+    {
+      "id": "144654",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "1058XC1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:11.394Z"
+    },
+    {
+      "id": "144655",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "260",
+          "group": "Tamaño",
+          "value": "21"
+        }
+      ],
+      "sku": "1058XD1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:13.327Z"
+    },
+    {
+      "id": "144656",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "1058XE1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:15.353Z"
+    },
+    {
+      "id": "144657",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "1058XF1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:17.701Z"
+    },
+    {
+      "id": "144658",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "1058XG1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:19.550Z"
+    },
+    {
+      "id": "93600",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "252",
+          "group": "Tamaño",
+          "value": "26"
+        }
+      ],
+      "sku": "1058XI1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:21.177Z"
+    },
+    {
+      "id": "63326",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "280",
+          "group": "Tamaño",
+          "value": "27"
+        }
+      ],
+      "sku": "1058XJ1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:22.761Z"
+    },
+    {
+      "id": "63327",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "281",
+          "group": "Tamaño",
+          "value": "28"
+        }
+      ],
+      "sku": "1058XK1896",
+      "productSku": "1165",
+      "taxRate": 21,
+      "price": 56.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:26.095Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6325-4318.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4318-large_default/zapato-velcro-reforzado-del-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro reforzado del 25 al 28 Azul Marino",
+      "sourceId": "4318",
+      "variantIds": [],
+      "sha256": "a90f3b6a4840a50b433251e4681dc4d7842dfdd702fbf3f79e8de80849a02bcf"
+    },
+    {
+      "path": "assets/6325-4319.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4319-large_default/zapato-velcro-reforzado-del-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro reforzado del 25 al 28 Azul Marino",
+      "sourceId": "4319",
+      "variantIds": [],
+      "sha256": "0f096b933e60046a5c4bca3458db574814b7855dbf4a6819fceaeb3ea5932a84"
+    },
+    {
+      "path": "assets/6325-9536.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9536-large_default/zapato-velcro-reforzado-del-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro reforzado del 25 al 28 Azul Marino",
+      "sourceId": "9536",
+      "variantIds": [],
+      "sha256": "52c5942d6b7912713ebdcf2480ef7f90aa7060a127579708ec493ca1d5428334"
+    },
+    {
+      "path": "assets/6325-9537.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9537-large_default/zapato-velcro-reforzado-del-25-al-28-azul-marino.jpg",
+      "alt": "Zapato velcro reforzado del 25 al 28 Azul Marino",
+      "sourceId": "9537",
+      "variantIds": [],
+      "sha256": "148d857771262db442126b633398ed035efa84dac2476c0d645ceb06ac94bae9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:26.323Z",
+  "issues": []
+}

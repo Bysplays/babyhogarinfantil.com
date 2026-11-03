@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "9482",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9482-conjunto-bebe-nino-vichy-rojo-rojo.html",
+  "name": "Conjunto bebé niño vichy rojo Rojo",
+  "brand": "Yoedu",
+  "sku": "2202123",
+  "description": "Conjunto de dos piezas, compuesto por camisa de hilo de algodón blanco, de manga corta y ranita estampada con cuadro vichy rojo. Incluye pajarita a juego con goma elástica.  HECHO EN ESPAÑA",
+  "details": "Conjunto de dos piezas de YOEDU, firma española que nace en 1994 con un estilo propio, elegante, funcional y alegre, que acompañe a los pequeños en su día a día. Compuesto por camisa de manga corta en hilo de algodón color blanco. Cierre delantero con botones. Y ranita estampada con cuadro vichy rojo, con corte recto por delante y goma en la parte trasera de la cintura y perneras. Completamente forrada. Dos solapas de adorno decoran la parte delantera. Incluye pajarita con el mismo estampado y goma, para ponerla y quitarla con facilidad. Un conjunto coqueto, elegante y estiloso, perfecto para cualquier ocasión! Echa un ojito a nuestros bodies interiores, chaquetas y calcetines de perlé y calzado y podrás combinarlo como más te guste! DISPONIBLE VESTIDO PARA NIÑA A JUEGO.\n\nComposición y cuidados:\n\nCamisa: 98% algodón, 2% poliéster\n\nRanita: 64% algodón, 36% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas de <strong>YOEDU</strong>, firma española que nace en 1994 con un estilo propio, elegante, funcional y alegre, que acompañe a los pequeños en su día a día. Compuesto por camisa de manga corta en <strong>hilo de algodón</strong> color blanco. Cierre delantero con botones. Y ranita estampada con <strong>cuadro vichy rojo</strong>, con corte recto por delante y goma en la parte trasera de la cintura y perneras. <strong>Completamente forrada</strong>. Dos solapas de adorno decoran la parte delantera. <strong>Incluye pajarita</strong> con el mismo estampado y goma, para ponerla y quitarla con facilidad. Un conjunto coqueto, elegante y estiloso, perfecto para cualquier ocasión! Echa un ojito a nuestros<strong> bodies interiores, chaquetas y calcetines de perlé y calzado</strong> y podrás combinarlo como más te guste! <strong>DISPONIBLE VESTIDO PARA NIÑA A JUEGO.</strong></p>\n<p>Composición y cuidados:</p>\n<p>Camisa: 98% algodón, 2% poliéster</p>\n<p>Ranita: 64% algodón, 36% poliéster</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 24.13,
+  "oldPrice": 48.2548,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:50",
+  "sourceUpdatedAt": "2026-10-27 11:11:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69310",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2202123",
+      "productSku": "2202123",
+      "taxRate": 21,
+      "price": 24.13,
+      "oldPrice": 48.2548,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:23.979Z"
+    },
+    {
+      "id": "69311",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2202123",
+      "productSku": "2202123",
+      "taxRate": 21,
+      "price": 24.13,
+      "oldPrice": 48.2548,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:25.233Z"
+    },
+    {
+      "id": "69312",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2202123",
+      "productSku": "2202123",
+      "taxRate": 21,
+      "price": 24.13,
+      "oldPrice": 48.2548,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:26.818Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9482-12394.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12394-large_default/conjunto-bebe-nino-vichy-rojo-rojo.jpg",
+      "alt": "Conjunto bebé niño vichy rojo Rojo",
+      "sourceId": "12394",
+      "variantIds": [],
+      "sha256": "333c6fe24e9079be1fb28185b716f74af2a199457fa5d47a18c0e5ac4f003ae6"
+    },
+    {
+      "path": "assets/9482-12395.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12395-large_default/conjunto-bebe-nino-vichy-rojo-rojo.jpg",
+      "alt": "Conjunto bebé niño vichy rojo Rojo",
+      "sourceId": "12395",
+      "variantIds": [],
+      "sha256": "f44d7ced79061172c80069ab0ffecd09e66ec1f51704e15c46a61eb27afe6c32"
+    },
+    {
+      "path": "assets/9482-12396.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12396-large_default/conjunto-bebe-nino-vichy-rojo-rojo.jpg",
+      "alt": "Conjunto bebé niño vichy rojo Rojo",
+      "sourceId": "12396",
+      "variantIds": [],
+      "sha256": "8dc7dd15eb94e3a59b31a763246cef4caf0f65fe71e6909804f25be7943b89b1"
+    },
+    {
+      "path": "assets/9482-12393.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12393-large_default/conjunto-bebe-nino-vichy-rojo-rojo.jpg",
+      "alt": "Conjunto bebé niño vichy rojo Rojo",
+      "sourceId": "12393",
+      "variantIds": [],
+      "sha256": "68655c059f6e54695610170a55333d1b1aef0996fd8acecf4cf52f05c88c7eeb"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:27.078Z",
+  "issues": []
+}

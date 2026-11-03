@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "id": "21625",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/21625-pantalon-felpa-basico-punos-azul-marino.html",
+  "name": "Pantalón felpa básico puños Azul Marino",
+  "brand": "Mayoral",
+  "sku": "2502040",
+  "description": "Pantalón largo básico deportivo para niño, con felpa interior.  Tiene la cinturilla elástica con cordón ajustable. En las piernas rodilleras reforzadas en el interior para evitar el desgaste y ofrecer mayor resistencia. El bajo con elástico para un mejor ajuste. Bolsillos funcionales en los laterales. Una prenda esencial en su armario para completar cualquier look.",
+  "details": "COMPOSICIÓN\n\nPantalón:\n\n58% Algodón\n\n38% Poliéster\n\n4% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p><strong>Pantalón:</strong></p>\n<p>58% Algodón</p>\n<p>38% Poliéster</p>\n<p>4% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-12-04 23:54:28",
+  "sourceUpdatedAt": "2026-10-27 11:14:31",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "97890",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:42.084Z"
+    },
+    {
+      "id": "97892",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:44.109Z"
+    },
+    {
+      "id": "97893",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:46.666Z"
+    },
+    {
+      "id": "97894",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:48.381Z"
+    },
+    {
+      "id": "97896",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2502040",
+      "productSku": "2502040",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:50.415Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21625-20271.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20271-large_default/pantalon-felpa-basico-punos-azul-marino.jpg",
+      "alt": "Pantalón felpa básico puños Azul Marino",
+      "sourceId": "20271",
+      "variantIds": [],
+      "sha256": "44a68832552602a5bd42622f808e469ae0cbe19bf1a81a250713971af35eed37"
+    },
+    {
+      "path": "assets/21625-20272.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20272-large_default/pantalon-felpa-basico-punos-azul-marino.jpg",
+      "alt": "Pantalón felpa básico puños Azul Marino",
+      "sourceId": "20272",
+      "variantIds": [],
+      "sha256": "0b61974a2c88bee7bfbf79c51ae140e2825fdd1b2ad377d95c574ee5fbb32385"
+    },
+    {
+      "path": "assets/21625-20273.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20273-large_default/pantalon-felpa-basico-punos-azul-marino.jpg",
+      "alt": "Pantalón felpa básico puños Azul Marino",
+      "sourceId": "20273",
+      "variantIds": [],
+      "sha256": "ac3dd3c9fa7a81736ca9224d41cf7a74bd55340f1286645912634ab3c31c1ac6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:50.589Z",
+  "issues": []
+}

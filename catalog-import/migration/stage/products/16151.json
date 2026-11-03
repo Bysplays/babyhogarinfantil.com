@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16151",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16151-clip-velcro-lacito-fruncido-rosa.html",
+  "name": "Clip velcro lacito fruncido Rosa",
+  "brand": "Siena",
+  "sku": "2104154",
+  "description": "Clip velcro lacito fruncido mini. Para el fino pele de la peque.\nLazo de 3 x 1.8 cm aproximadamente.\nHECHO EN ESPAÑA",
+  "details": "Diseño y Comodidad Incomparables\n\n\nEste adorable Clip Velcro Lacito Fruncido Rosa, es un accesorio de moda perfecto para dar un toque femenino y adorable a la ropa de tu pequeña. Su diseño fruncido y su color rosa vibrante permiten que este lazo sea un complemento único para cualquier equipamiento.\n\n\nCalidad que Prioriza la Seguridad\n\n\nHecho con materiales de alta calidad, nuestro Clip Velcro Lacito es suave y gentil con la piel delicada de tu niña. Además, la función de cierre de velcro asegura que el lazo se mantenga firmemente en su lugar, evitando cualquier posible molestia o peligro para la pequeña.\n\n\nVersatilidad Para Cada Ocasión\n\n\nEste Lacito Fruncido está diseñado para que pueda ser utilizado en distintos escenarios y eventos. Ya sea una fiesta de cumpleaños, una reunión familiar o incluso para el día a día en la guardería, este lacito añadirá un toque de estilo inconfundible a su vestimenta.\n\n\n¡No esperes más! Agrega este magnífico Clip Velcro Lacito Fruncido Rosa a tu carrito de compras y añade un toque elegante y a la moda al atuendo de tu niña. ¡Haz que se sienta especial!",
+  "sourceDescriptionHtml": "<h2>Diseño y Comodidad Incomparables</h2>\n\n<p>Este adorable <i>Clip Velcro Lacito Fruncido Rosa</i>, es un accesorio de moda perfecto para dar un toque femenino y adorable a la ropa de tu pequeña. Su diseño fruncido y su color rosa vibrante permiten que este lazo sea un complemento único para cualquier equipamiento.</p>\n\n<h2>Calidad que Prioriza la Seguridad</h2>\n\n<p>Hecho con materiales de alta calidad, nuestro Clip Velcro Lacito es suave y gentil con la piel delicada de tu niña. Además, la función de cierre de velcro asegura que el lazo se mantenga firmemente en su lugar, evitando cualquier posible molestia o peligro para la pequeña.</p>\n\n<h2>Versatilidad Para Cada Ocasión</h2>\n\n<p>Este Lacito Fruncido está diseñado para que pueda ser utilizado en distintos escenarios y eventos. Ya sea una fiesta de cumpleaños, una reunión familiar o incluso para el día a día en la guardería, este lacito añadirá un toque de estilo inconfundible a su vestimenta.</p>\n\n<p>¡No esperes más! Agrega este magnífico <i>Clip Velcro Lacito Fruncido Rosa</i> a tu carrito de compras y añade un toque elegante y a la moda al atuendo de tu niña. ¡Haz que se sienta especial!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 1.98,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:21",
+  "sourceUpdatedAt": "2026-10-27 11:11:05",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "147075",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "9033XA15878",
+      "productSku": "2104154",
+      "taxRate": 21,
+      "price": 1.98,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:14.118Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16151-15731.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15731-large_default/clip-velcro-lacito-fruncido-rosa.jpg",
+      "alt": "Clip velcro lacito fruncido Rosa",
+      "sourceId": "15731",
+      "variantIds": [],
+      "sha256": "d20a92c35280606883bef8c5f3b114a866b1cdbd410cfac84fc18780f238c992"
+    },
+    {
+      "path": "assets/16151-15732.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15732-large_default/clip-velcro-lacito-fruncido-rosa.jpg",
+      "alt": "Clip velcro lacito fruncido Rosa",
+      "sourceId": "15732",
+      "variantIds": [],
+      "sha256": "092aa96c4dfa32e243b50b2d3135cfbca974d1bb13869279f3077b62c65d3470"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:14.227Z",
+  "issues": []
+}

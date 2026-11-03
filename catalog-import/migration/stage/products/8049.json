@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8049",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/8049-deportiva-con-lazo-rosa.html",
+  "name": "Deportiva con lazo Rosa",
+  "brand": "Chicco",
+  "sku": "2001089",
+  "description": "Deportiva en color blanco con lazo rosa. Con suela blanda, super ligera, y elástico para facilitar el calzado. Ligeramente acolchados. Disponible con el lazo en rojo.",
+  "details": "Deportiva de beb&eacute; de CHICCO, una de nuestras firmas m&aacute;s estilosas! Blandita y ligeramente acolchada, ultraligera. En color blanco con lacito rosa. El lazo es fijo, no tendr&aacute;s que hacerlo y deshacerlo. Con el&aacute;stico interior, para poder abrir c&oacute;modamente la zapatilla y facilitar el calzado. Con suela blanda, indicada para beb&eacute;s que todav&iacute;a no caminen. Un complemento perfecto para a&ntilde;adir a tus looks sport e informales, le dar&aacute;s un toque original a todos! Disponible tambi&eacute;n con el lazo en rojo. \n\r\nCOMPOSICI&Oacute;N Y CUIDADOS: \n\r\nDeportiva: 80% poliuretano, 20% t&eacute;xtil",
+  "sourceDescriptionHtml": "<p>Deportiva de beb&eacute; de&nbsp;<strong>CHICCO</strong>, una de nuestras firmas m&aacute;s estilosas! Blandita y ligeramente acolchada, ultraligera. En color blanco con lacito rosa. El lazo es fijo, no tendr&aacute;s que hacerlo y deshacerlo. Con el&aacute;stico interior, para poder abrir c&oacute;modamente la zapatilla y facilitar el calzado. Con suela blanda, indicada para beb&eacute;s que todav&iacute;a no caminen. Un complemento perfecto para a&ntilde;adir a tus looks sport e informales, le dar&aacute;s un toque original a todos! Disponible tambi&eacute;n con el lazo en rojo.&nbsp;</p>\r\n<p>COMPOSICI&Oacute;N Y CUIDADOS:&nbsp;</p>\r\n<p>Deportiva: 80% poliuretano, 20% t&eacute;xtil</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 19.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:32",
+  "sourceUpdatedAt": "2026-10-27 11:10:33",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "257",
+          "label": "17"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66862",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "2001089",
+      "productSku": "2001089",
+      "taxRate": 21,
+      "price": 19.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:23.700Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8049-6233.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6233-large_default/deportiva-con-lazo-rosa.jpg",
+      "alt": "Deportiva con lazo Rosa",
+      "sourceId": "6233",
+      "variantIds": [],
+      "sha256": "9af2d412fb675b2560ac4c2f100232c5202c016e0f2314bdce474fedbf68a6d8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:23.766Z",
+  "issues": []
+}

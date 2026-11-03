@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "6480",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/6480-pantalon-colegial-corto-gomas-de-4-a-10-gris-medio.html",
+  "name": "Pantalón colegial CORTO gomas de 4 a 10 Gris Medio",
+  "brand": "Ayapunt",
+  "sku": "1561929",
+  "description": "Pantalón colegial corto SIN BOTONES. Cintura ajustable con goma. Con tratamiento repelente al agua y a la grasa.",
+  "details": "Composición:\n\n65% Poliester, 35% Viscosa.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>65% Poliester, 35% Viscosa.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris medio",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 13,
+  "oldPrice": 25.9908,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:13",
+  "sourceUpdatedAt": "2026-10-27 11:08:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 9,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63666",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1561929",
+      "productSku": "1561929",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": 25.9908,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:51.161Z"
+    },
+    {
+      "id": "63667",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1561929",
+      "productSku": "1561929",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": 25.9908,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:53.828Z"
+    },
+    {
+      "id": "63668",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1561929",
+      "productSku": "1561929",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": 25.9908,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:56.721Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6480-4445.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4445-large_default/pantalon-colegial-corto-gomas-de-4-a-10-gris-medio.jpg",
+      "alt": "Pantalón colegial CORTO gomas de 4 a 10 Gris Medio",
+      "sourceId": "4445",
+      "variantIds": [],
+      "sha256": "93d524fdb8e183b5c1ca43f4dc35d982f03c438bb71fb9db68a9b0b166d5cc7b"
+    },
+    {
+      "path": "assets/6480-9618.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9618-large_default/pantalon-colegial-corto-gomas-de-4-a-10-gris-medio.jpg",
+      "alt": "Pantalón colegial CORTO gomas de 4 a 10 Gris Medio",
+      "sourceId": "9618",
+      "variantIds": [],
+      "sha256": "624c5e14988b8e5cec6f53ae9a78348f032a0c2c61910a9afcbaf2b7b70b9a58"
+    },
+    {
+      "path": "assets/6480-4444.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4444-large_default/pantalon-colegial-corto-gomas-de-4-a-10-gris-medio.jpg",
+      "alt": "Pantalón colegial CORTO gomas de 4 a 10 Gris Medio",
+      "sourceId": "4444",
+      "variantIds": [],
+      "sha256": "df239ae3610e2f7611d17031d81f37afdb2350c7d3bc2fab92a528ea4f08a852"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:56.911Z",
+  "issues": []
+}

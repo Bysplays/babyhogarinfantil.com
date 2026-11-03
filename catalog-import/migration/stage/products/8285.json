@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "8285",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/8285-conjunto-con-tirantes-atelier-varios.html",
+  "name": "Conjunto con tirantes Atelier Varios",
+  "brand": "Yoedu",
+  "sku": "2007011",
+  "description": "Descubre el Conjunto con tirantes Atelier Varios, perfecto para vestir a los pequeños con estilo y comodidad. Éste lindo conjunto destaca por su diseño elegante y versátil, ideal para ocasiones especiales o para el día a día. Confeccionado con materiales de la más alta calidad, garantiza durabilidad y resistencia, cuidando siempre la delicada piel de tu bebé. Agrega un toque de ternura y sofisticación al guardarropa de tu niño con este encantador conjunto. Invita a la moda a formar parte de los momentos más entrañables de la infancia.",
+  "details": "Dele un toque especial a la moda de los pequeños\n\nLos conjuntos con tirantes Atelier Varios son la opción perfecta para darle a los pequeños de la casa un estilo distintivo y tierno. Hecho de materiales suaves y cómodos, perfectos para el delicado cuerpo de los niños, estos conjuntos son la mezcla perfecta de moda y funcionalidad.\n\n\nVestir elegante nunca fue tan sencillo\n\nLos tirantes incorporados en cada conjunto Atelier añaden un toque de elegancia sin restar comodidad. Sea para un evento especial o para un día cualquiera, los conjuntos con tirantes Atelier son ideales para aseos sin complicaciones y maximizan el encanto de los pequeños.\n\n\nCalidad que se nota en cada detalle\n\nCada conjunto con tirantes Atelier Varios está diseñado pensando en los niños y su comodidad. Los tirantes ajustables permiten un ajuste perfecto mientras que la confección de alta calidad garantiza que cada prenda tenga una duración prolongada, incluso después de muchos lavados.\n\n\nAdquiere hoy el conjunto con tirantes Atelier Varios. La opción perfecta para brindarles a los pequeños el confort y elegancia que merecen. ¡Haz clic en la opción \\'comprar\\' ya!",
+  "sourceDescriptionHtml": "<h2>Dele un toque especial a la moda de los pequeños</h2>\n<p>Los conjuntos con tirantes Atelier Varios son la opción perfecta para darle a los pequeños de la casa un estilo distintivo y tierno. Hecho de materiales suaves y cómodos, perfectos para el delicado cuerpo de los niños, estos conjuntos son la mezcla perfecta de moda y funcionalidad.</p>\n\n<h2>Vestir elegante nunca fue tan sencillo</h2>\n<p>Los tirantes incorporados en cada conjunto Atelier añaden un toque de elegancia sin restar comodidad. Sea para un evento especial o para un día cualquiera, los conjuntos con tirantes Atelier son ideales para aseos sin complicaciones y maximizan el encanto de los pequeños.</p>\n\n<h2>Calidad que se nota en cada detalle</h2>\n<p>Cada conjunto con tirantes Atelier Varios está diseñado pensando en los niños y su comodidad. Los tirantes ajustables permiten un ajuste perfecto mientras que la confección de alta calidad garantiza que cada prenda tenga una duración prolongada, incluso después de muchos lavados.</p>\n\n<p>Adquiere hoy el conjunto con tirantes Atelier Varios. La opción perfecta para brindarles a los pequeños el confort y elegancia que merecen. ¡Haz clic en la opción \\'comprar\\' ya!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 49.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67311",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2007011",
+      "productSku": "2007011",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:32.441Z"
+    },
+    {
+      "id": "67312",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2007011",
+      "productSku": "2007011",
+      "taxRate": 21,
+      "price": 49.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:33.789Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8285-11043.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11043-large_default/conjunto-con-tirantes-atelier-varios.jpg",
+      "alt": "Conjunto con tirantes Atelier Varios",
+      "sourceId": "11043",
+      "variantIds": [],
+      "sha256": "99907e1e0d495410a31669973afc6e539947bdb255a4f6d7b762c37c615e3007"
+    },
+    {
+      "path": "assets/8285-6580.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6580-large_default/conjunto-con-tirantes-atelier-varios.jpg",
+      "alt": "Conjunto con tirantes Atelier Varios",
+      "sourceId": "6580",
+      "variantIds": [],
+      "sha256": "489a2ce7c917401fdcc5856139faf262fd8d612cf360841a94e6464ccfc0ab10"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:33.926Z",
+  "issues": []
+}

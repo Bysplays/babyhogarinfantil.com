@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "id": "7755",
+  "sourceUrl": "https://babyhogarinfantil.com/babis-escolares/7755-baby-liso-amarillo.html",
+  "name": "Baby LISO Amarillo",
+  "brand": "Enca",
+  "sku": "1904269",
+  "description": "Baby liso color amarillo con botones grandes. Puedes personalizarlo con el nombre de tu hij@ bordado.  LA BOLSA SE VENDE POR SEPARADO. Puedes encontrarla aquí:\n\nMochilas y bolsas merienda (babyhogarinfantil.com)",
+  "details": "Composición:\n\nMandilón: 67% poliéster, 33% algodón.\n\n FABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Mandilón: 67% poliéster, 33% algodón.</p>\n<p><strong> FABRICADO EN ESPAÑA</strong> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "679",
+    "812"
+  ],
+  "sourceDefaultCategoryId": "679",
+  "sourceCategoryName": "Babis escolares",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:22",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 21,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "300",
+          "label": "40/0"
+        },
+        {
+          "id": "301",
+          "label": "45/1"
+        },
+        {
+          "id": "302",
+          "label": "50/2"
+        },
+        {
+          "id": "303",
+          "label": "55/3"
+        },
+        {
+          "id": "304",
+          "label": "60/4"
+        },
+        {
+          "id": "305",
+          "label": "65/5"
+        },
+        {
+          "id": "306",
+          "label": "70/6"
+        },
+        {
+          "id": "307",
+          "label": "75/8"
+        },
+        {
+          "id": "308",
+          "label": "80/10"
+        },
+        {
+          "id": "309",
+          "label": "85/12"
+        },
+        {
+          "id": "310",
+          "label": "90/14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66307",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "302",
+          "group": "Tamaño",
+          "value": "50/2"
+        }
+      ],
+      "sku": "6615XC11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 11,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:08.377Z"
+    },
+    {
+      "id": "146258",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "300",
+          "group": "Tamaño",
+          "value": "40/0"
+        }
+      ],
+      "sku": "6615XA11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:10.444Z"
+    },
+    {
+      "id": "146259",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "301",
+          "group": "Tamaño",
+          "value": "45/1"
+        }
+      ],
+      "sku": "6615XB11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:13.187Z"
+    },
+    {
+      "id": "66308",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "303",
+          "group": "Tamaño",
+          "value": "55/3"
+        }
+      ],
+      "sku": "6615XD11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:15.775Z"
+    },
+    {
+      "id": "66309",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "304",
+          "group": "Tamaño",
+          "value": "60/4"
+        }
+      ],
+      "sku": "6615XE11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:18.638Z"
+    },
+    {
+      "id": "146260",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "305",
+          "group": "Tamaño",
+          "value": "65/5"
+        }
+      ],
+      "sku": "6615XF11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:21.871Z"
+    },
+    {
+      "id": "146261",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "306",
+          "group": "Tamaño",
+          "value": "70/6"
+        }
+      ],
+      "sku": "6615XG11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:25.146Z"
+    },
+    {
+      "id": "146262",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "307",
+          "group": "Tamaño",
+          "value": "75/8"
+        }
+      ],
+      "sku": "6615XH11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:28.475Z"
+    },
+    {
+      "id": "146263",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "308",
+          "group": "Tamaño",
+          "value": "80/10"
+        }
+      ],
+      "sku": "6615XI11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:31.204Z"
+    },
+    {
+      "id": "146264",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "309",
+          "group": "Tamaño",
+          "value": "85/12"
+        }
+      ],
+      "sku": "6615XJ11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:34.094Z"
+    },
+    {
+      "id": "146265",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "310",
+          "group": "Tamaño",
+          "value": "90/14"
+        }
+      ],
+      "sku": "6615XK11029",
+      "productSku": "1904269",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:36.511Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7755-5823.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5823-large_default/baby-liso-amarillo.jpg",
+      "alt": "Baby LISO Amarillo",
+      "sourceId": "5823",
+      "variantIds": [],
+      "sha256": "6062fe525feb22c458cfce28d65acd65f16fd5c63e2a6fd74eb9f75422862a51"
+    },
+    {
+      "path": "assets/7755-15417.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15417-large_default/baby-liso-amarillo.jpg",
+      "alt": "Baby LISO Amarillo",
+      "sourceId": "15417",
+      "variantIds": [],
+      "sha256": "bd690227cedfc5853a1dcf3162578d0e7f9834d64f79430c856d15a96e1baa08"
+    },
+    {
+      "path": "assets/7755-15416.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15416-large_default/baby-liso-amarillo.jpg",
+      "alt": "Baby LISO Amarillo",
+      "sourceId": "15416",
+      "variantIds": [],
+      "sha256": "a5b9838ad3a12f7d5470b695d242f59f1a04c425e4a246e2a17ec3dcb8560c9b"
+    },
+    {
+      "path": "assets/7755-15418.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15418-large_default/baby-liso-amarillo.jpg",
+      "alt": "Baby LISO Amarillo",
+      "sourceId": "15418",
+      "variantIds": [],
+      "sha256": "1a503654542e408ce18db5b7120ab3ce5ac32888492553edf25e4f8017f19b4c"
+    },
+    {
+      "path": "assets/7755-15415.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15415-large_default/baby-liso-amarillo.jpg",
+      "alt": "Baby LISO Amarillo",
+      "sourceId": "15415",
+      "variantIds": [],
+      "sha256": "ebe49904fade75ba90aa83fe57f62318ffeed244ecf667967790ffa81ce98bf4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:31:36.828Z",
+  "issues": []
+}

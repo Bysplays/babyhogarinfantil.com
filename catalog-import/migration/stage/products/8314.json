@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8314",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/8314-lazo-grande-con-pinza-rosa.html",
+  "name": "Lazo grande con pinza Rosa",
+  "brand": "Siena",
+  "sku": "2007018",
+  "description": "Abraza la ternura y el encanto con el maravilloso \"Lazo grande con pinza Rosa\". Perfecto para cualquier pequeña princesa, este accesorio brillante seguramente destacará en cualquier ocasión especial. Fabricado con materiales de calidad que prometen durabilidad, este lazo rosa lindo como un botón se mantiene en su lugar gracias a su robusta pinza. No importa si es un peinado para el colegio o un evento festivo, ¡este lazo es una hermosa manera de expresar la alegría y el dulce espíritu infantil! \n\nLazo de 8x8 cm. aprox. HECHO EN ESPAÑA. HECHO A MANO.",
+  "details": "Accesorio Mágico para Niñas\n\n¡Déjales admirar a la reina que llevas dentro! El Lazo grande con pinza Rosa es un toque de distinción que agrega un toque glamuroso a cualquier atuendo infantil. Con su color rosa encantador, se destaca en cualquier tono de cabello, transformando a cualquier niña en una princesa de cuento de hadas.\n\nElegancia y Durabilidad\n\nEste majestuoso Lazo grande con pinza Rosa no es solo accesorio de belleza, sino un emblema de calidad y resistencia. Está cuidadosamente fabricado para resistir la actividad del día a día y seguir luciendo hermoso. Deja que tus pequeñas jueguen, se diviertan y dejen volar su imaginación sin tener que preocuparte de si a su accesorio le puede más el juego.\n\nLa Elección Perfecta Para Todas Las Ocasiones\n\nAñade ese toque divino y femenino en cada ocasión con este Lazo grande con pinza Rosa. Es perfecto para eventos especiales, fiestas de cumpleaños, reuniones familiares o simplemente para embellecer el día a día. ¡Transforma cada día en una oportunidad para brillar!\n\n¡No esperes más, dale a tus niñas la oportunidad de lucir como las princesas que son! Ordena tu Lazo grande con pinza Rosa hoy mismo y amplía su sonrisa con este accesorio mágico.",
+  "sourceDescriptionHtml": "<h2>Accesorio Mágico para Niñas</h2>\n<p>¡Déjales admirar a la reina que llevas dentro! El Lazo grande con pinza Rosa es un toque de distinción que agrega un toque glamuroso a cualquier atuendo infantil. Con su color rosa encantador, se destaca en cualquier tono de cabello, transformando a cualquier niña en una princesa de cuento de hadas.</p>\n<h2>Elegancia y Durabilidad</h2>\n<p>Este majestuoso Lazo grande con pinza Rosa no es solo accesorio de belleza, sino un emblema de calidad y resistencia. Está cuidadosamente fabricado para resistir la actividad del día a día y seguir luciendo hermoso. Deja que tus pequeñas jueguen, se diviertan y dejen volar su imaginación sin tener que preocuparte de si a su accesorio le puede más el juego.</p>\n<h2>La Elección Perfecta Para Todas Las Ocasiones</h2>\n<p>Añade ese toque divino y femenino en cada ocasión con este Lazo grande con pinza Rosa. Es perfecto para eventos especiales, fiestas de cumpleaños, reuniones familiares o simplemente para embellecer el día a día. ¡Transforma cada día en una oportunidad para brillar!</p>\n<p><strong>¡No esperes más, dale a tus niñas la oportunidad de lucir como las princesas que son! Ordena tu Lazo grande con pinza Rosa hoy mismo y amplía su sonrisa con este accesorio mágico. </strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 3.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67329",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "8050XA12978",
+      "productSku": "2007018",
+      "taxRate": 21,
+      "price": 3.5,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:30.301Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8314-6600.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6600-large_default/lazo-grande-con-pinza-rosa.jpg",
+      "alt": "Lazo grande con pinza Rosa",
+      "sourceId": "6600",
+      "variantIds": [],
+      "sha256": "5ac19c71b22331d5bae5d14c6c02b6731a2b762316a4f4e85f7cd2f75e8b612e"
+    },
+    {
+      "path": "assets/8314-15549.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15549-large_default/lazo-grande-con-pinza-rosa.jpg",
+      "alt": "Lazo grande con pinza Rosa",
+      "sourceId": "15549",
+      "variantIds": [],
+      "sha256": "a7d3934aa3baaa5cc314d8450ab4d1ab45a1029f0a9dbfd390f1d3408d978ae0"
+    },
+    {
+      "path": "assets/8314-15550.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15550-large_default/lazo-grande-con-pinza-rosa.jpg",
+      "alt": "Lazo grande con pinza Rosa",
+      "sourceId": "15550",
+      "variantIds": [],
+      "sha256": "05ce228d31130e08be6ccae37ffbad58e35a0a133ff5eccf2581f4bec9e151ab"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:30.458Z",
+  "issues": []
+}

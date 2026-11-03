@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "7561",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/7561-camiseta-dino-i-want-verde.html",
+  "name": "Camiseta DINO I WANT Verde",
+  "brand": "Zippy",
+  "sku": "1902054",
+  "description": "Camiseta bebé manga larga. Con corchetes en el cuello para facilitar la puesta.",
+  "details": "I WANT TO BELIEVE! Camiseta super chula de una nuestras firmas favoritas, ZIPPY. Cuello redondo, manga larga y corchetes en la espalda para facilitar la puesta. Con el fondo en verde y las mangas en azul marino, a juego con el estampado del pecho con el dibujo del monstruo del Lago Ness. Una prenda cómoda, suave y ligera, ideal para combinar con pantalones de todos los colores o vaqueros. Echa un vistazo a nuestra sección de sudaderas y chaquetas y podrás completar el look. \n\nComposición: \n\nCamista: 100% algodón\n\n \n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO SECAR EN SECADORA\n\nNO LAVAR EN SECO\n\nPLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)",
+  "sourceDescriptionHtml": "<p>I WANT TO BELIEVE! Camiseta super chula de una nuestras firmas favoritas, <strong>ZIPPY</strong>. Cuello redondo, manga larga y corchetes en la espalda para facilitar la puesta. Con el fondo en verde y las mangas en azul marino, a juego con el estampado del pecho con el dibujo del monstruo del Lago Ness. <span style=\"color:#777777;font-family:robotoregular;font-size:14px;\">Una prenda cómoda, suave y ligera, ideal para combinar con pantalones de todos los colores o vaqueros. Echa un vistazo a nuestra sección de sudaderas y chaquetas y podrás completar el look. </span></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición: </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Camista: 100% algodón</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"> </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO SECAR EN SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO LAVAR EN SECO</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A TEMPERATURA MEDIA (MÁXIMO 150 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65932",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1902054",
+      "productSku": "1902054",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:05.319Z"
+    },
+    {
+      "id": "65933",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "1902054",
+      "productSku": "1902054",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:06.716Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7561-5521.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5521-large_default/camiseta-dino-i-want-verde.jpg",
+      "alt": "Camiseta DINO I WANT Verde",
+      "sourceId": "5521",
+      "variantIds": [],
+      "sha256": "7230f598d38e7a9bf3609a498566b8577d08cf109f824b4006579fa2d117f438"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:06.793Z",
+  "issues": []
+}

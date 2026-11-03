@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "21850",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/21850-sudadera-primaria-y-eso-san-miguel-azul.html",
+  "name": "Sudadera primaria y ESO San Miguel Azul",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2601150",
+  "description": "Sudadera para el uniforme de primaria y ESO del colegio San Miguel de Vigo. Comprando el chándal completo sudadera+pantalón largo disfruta de un descuento especial. Puedes elegir tallas diferentes de cada prenda.",
+  "details": "Composición sudadera San Miguel:\n50% algodón, 50% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición <strong>sudadera San Miguel:</strong><br />50% algodón, 50% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "894"
+  ],
+  "sourceDefaultCategoryId": "894",
+  "sourceCategoryName": "Colegio San Miguel Vigo",
+  "price": 32.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-05 23:54:20",
+  "sourceUpdatedAt": "2026-10-27 11:15:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 80,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "101782",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601150",
+      "productSku": "2601150",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 12,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:43.159Z"
+    },
+    {
+      "id": "129302",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2601150",
+      "productSku": "2601150",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:45.305Z"
+    },
+    {
+      "id": "129303",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2601150",
+      "productSku": "2601150",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:48.509Z"
+    },
+    {
+      "id": "129304",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2601150",
+      "productSku": "2601150",
+      "taxRate": 21,
+      "price": 32.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:50.974Z"
+    },
+    {
+      "id": "129305",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2601150",
+      "productSku": "2601150",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:54.509Z"
+    },
+    {
+      "id": "129306",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2601150",
+      "productSku": "2601150",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 8,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:57.690Z"
+    },
+    {
+      "id": "129307",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "2601150",
+      "productSku": "2601150",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:00.160Z"
+    },
+    {
+      "id": "129308",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "2601150",
+      "productSku": "2601150",
+      "taxRate": 21,
+      "price": 33.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:03.705Z"
+    },
+    {
+      "id": "129309",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "2601150",
+      "productSku": "2601150",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 7,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:07.380Z"
+    },
+    {
+      "id": "129310",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "2601150",
+      "productSku": "2601150",
+      "taxRate": 21,
+      "price": 35.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:32:11.197Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21850-21226.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21226-large_default/sudadera-primaria-y-eso-san-miguel-azul.jpg",
+      "alt": "Sudadera colegio San Miguel Azul",
+      "sourceId": "21226",
+      "variantIds": [],
+      "sha256": "a78a630cf578ba5e9cee0acc0cb5245588dbb883d0dadf25b9dcffe00ab8fbcb"
+    },
+    {
+      "path": "assets/21850-21275.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21275-large_default/sudadera-primaria-y-eso-san-miguel-azul.jpg",
+      "alt": "Sudadera primaria y ESO San Miguel Azul",
+      "sourceId": "21275",
+      "variantIds": [],
+      "sha256": "52f7eee190ceca73202655fa3dda830b6a23499a39e63947471a07622d956d07"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:32:16.702Z",
+  "issues": []
+}

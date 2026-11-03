@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "16161",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16161-lazo-mediano-nudo-con-coletero-crudo.html",
+  "name": "Lazo mediano nudo con coletero Crudo",
+  "brand": "Siena",
+  "sku": "2301385",
+  "description": "Lazo mediano de 7 x 5 cm. aprox. con nudo grosgrain sobre goma coletero a tono.\n\nHECHO A MANO.\n\n\n\nHECHO EN ESPAÑA.",
+  "details": "Diseño Atractivo y Elegante \n\nEl Lazo de Coletero Crudo es una combinación inmejorable de estilo y elegancia. Este precioso adorno para cabello con un nudo mediano se robará todas las miradas. Fabricado con material de alta calidad, su interfaz de textura suave no dañará el delicado cabello ni causará molestias en la cabeza de los pequeños. Además, con su color crudo que complementa cualquier ropa y realza el aspecto de los pequeños, es imprescindible en el guardarropa de niños y bebés.\n\n Versatilidad en Estilo \n\nEl Lazo de Coletero Crudo es excepcionalmente versátil y puede ser usado en una variedad de peinados. Ya sea un moño alto, una cola de caballo baja o incluso una trenza lateral, este lazo mediano con nudo agrega un toque de sofisticación y elegancia a cada estilo. Con su práctico coletero, se puede ajustar fácilmente para crear el ajuste perfecto. Adecuado tanto para ocasiones formales como casuales, este accesorio es perfecto para dar un toque final atractivo a cualquier atuendo.\n\n Durabilidad y Confort \n\nFabricado para resistir el desgaste diario, el Lazo de Coletero Crudo con nudo es tan resistente como bonito. Con su construcción de calidad, este lazo mediano garantiza una larga duración, mientras que su coletero no deja marcas ni tira del cabellito, proporcionando una comodidad inigualable a lo largo del día. Este adorno no solo facilita peinar a los pequeños, sino que también asegura que se vean adorables todo el tiempo sin comprometer su comodidad.\n\n¡Aprovecha ahora y haz que tus pequeños se vean aún más adorables con el Lazo de Coletero Crudo!",
+  "sourceDescriptionHtml": "<p> Diseño Atractivo y Elegante </p>\n<p><strong>El Lazo de Coletero Crudo</strong> es una combinación inmejorable de estilo y elegancia. Este precioso adorno para cabello con un nudo mediano se robará todas las miradas. Fabricado con material de alta calidad, su interfaz de textura suave no dañará el delicado cabello ni causará molestias en la cabeza de los pequeños. Además, con su color crudo que complementa cualquier ropa y realza el aspecto de los pequeños, es imprescindible en el guardarropa de niños y bebés.</p>\n<p> Versatilidad en Estilo </p>\n<p>El <strong>Lazo de Coletero Crudo</strong> es excepcionalmente versátil y puede ser usado en una variedad de peinados. Ya sea un moño alto, una cola de caballo baja o incluso una trenza lateral, este lazo mediano con nudo agrega un toque de sofisticación y elegancia a cada estilo. Con su práctico coletero, se puede ajustar fácilmente para crear el ajuste perfecto. Adecuado tanto para ocasiones formales como casuales, este accesorio es perfecto para dar un toque final atractivo a cualquier atuendo.</p>\n<p> Durabilidad y Confort </p>\n<p>Fabricado para resistir el desgaste diario, el <strong>Lazo de Coletero Crudo</strong> con nudo es tan resistente como bonito. Con su construcción de calidad, este lazo mediano garantiza una larga duración, mientras que su coletero no deja marcas ni tira del cabellito, proporcionando una comodidad inigualable a lo largo del día. Este adorno no solo facilita peinar a los pequeños, sino que también asegura que se vean adorables todo el tiempo sin comprometer su comodidad.</p>\n<p><button>¡Aprovecha ahora y haz que tus pequeños se vean aún más adorables con el Lazo de Coletero Crudo!</button><button></button></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:46",
+  "sourceUpdatedAt": "2026-10-27 11:12:36",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72541",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11254XA17336",
+      "productSku": "2301385",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 6,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:03.273Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16161-13862.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13862-large_default/lazo-mediano-nudo-con-coletero-crudo.jpg",
+      "alt": "Lazo mediano nudo con coletero Crudo",
+      "sourceId": "13862",
+      "variantIds": [],
+      "sha256": "57bdc9338a11041029be73b5ca5a80e01ff1eab0cbd44be48276fa4c1f3c9225"
+    },
+    {
+      "path": "assets/16161-13870.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13870-large_default/lazo-mediano-nudo-con-coletero-crudo.jpg",
+      "alt": "Lazo mediano nudo con coletero Crudo",
+      "sourceId": "13870",
+      "variantIds": [],
+      "sha256": "b3df9e384d6768b52685139cf5e71caf0e0551865bf96f71737ef477b325ba3e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:03.401Z",
+  "issues": []
+}

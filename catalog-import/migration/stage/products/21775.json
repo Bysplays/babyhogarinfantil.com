@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "id": "21775",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nina/21775-conjunto-leggings-estampado-nina-lago.html",
+  "name": "Conjunto leggings estampado niña Lago",
+  "brand": "Mayoral",
+  "sku": "2601074",
+  "description": "Conjunto Mayoral para niña con camiseta blanca bordada con flor y leggings verdes estampados con margaritas, cómodo y fresco para el día a día.",
+  "details": "Conjunto infantil Mayoral para niña compuesto por camiseta blanca de manga corta con delicado bordado floral y leggings verdes con estampado de margaritas. Diseñado con tejidos suaves y elásticos que garantizan comodidad y libertad de movimiento, es ideal para looks casuales, primavera y verano. Su estilo dulce y natural combina un diseño moderno con detalles bordados y estampados florales, perfecto para el uso diario y actividades al aire libre.\n\nCOMPOSICIÓN:\n\nCamiseta: 100% Algodón\n\nLeggings: 95% Algodón, 5% Elastano",
+  "sourceDescriptionHtml": "<p>Conjunto infantil Mayoral para niña compuesto por camiseta blanca de manga corta con delicado bordado floral y leggings verdes con estampado de margaritas. Diseñado con tejidos suaves y elásticos que garantizan comodidad y libertad de movimiento, es ideal para looks casuales, primavera y verano. Su estilo dulce y natural combina un diseño moderno con detalles bordados y estampados florales, perfecto para el uso diario y actividades al aire libre.</p>\n<p><strong>COMPOSICIÓN:</strong></p>\n<p>Camiseta: 100% Algodón</p>\n<p>Leggings: 95% Algodón, 5% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2026",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Lago",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "755",
+    "823"
+  ],
+  "sourceDefaultCategoryId": "755",
+  "sourceCategoryName": "Conjuntos Niña",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-02-13 15:53:34",
+  "sourceUpdatedAt": "2026-10-27 11:15:04",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "344",
+          "label": "9"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "99405",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "2601074",
+      "productSku": "2601074",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:19.357Z"
+    },
+    {
+      "id": "100335",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2601074",
+      "productSku": "2601074",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:21.222Z"
+    },
+    {
+      "id": "101822",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601074",
+      "productSku": "2601074",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:23.516Z"
+    },
+    {
+      "id": "99406",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "344",
+          "group": "Tamaño",
+          "value": "9"
+        }
+      ],
+      "sku": "2601074",
+      "productSku": "2601074",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:25.946Z"
+    },
+    {
+      "id": "99407",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "2601074",
+      "productSku": "2601074",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:58:27.970Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21775-20593.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20593-large_default/conjunto-leggings-estampado-nina-lago.jpg",
+      "alt": "Look infantil Mayoral con camiseta blanca bordada con flor y leggings verdes estampados con margaritas.",
+      "sourceId": "20593",
+      "variantIds": [],
+      "sha256": "c84727fbfd88a306469f9c2e80073bd718e739a18a29fcc71f4020f433b95b1d"
+    },
+    {
+      "path": "assets/21775-20594.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20594-large_default/conjunto-leggings-estampado-nina-lago.jpg",
+      "alt": "Detalle del bordado floral con lentejuelas y diseño “nature” en la camiseta.",
+      "sourceId": "20594",
+      "variantIds": [],
+      "sha256": "75c02b2cb788be17a62d0952e2dc01006050a7be6de63186ecfe53f5edefc46d"
+    },
+    {
+      "path": "assets/21775-20595.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20595-large_default/conjunto-leggings-estampado-nina-lago.jpg",
+      "alt": "Conjunto Mayoral para niña con camiseta blanca y leggings verdes con estampado floral.",
+      "sourceId": "20595",
+      "variantIds": [],
+      "sha256": "df68ce87c414f4d388b914c1d202e862eff4cd0af8459b4cbc4a24b5b62397c6"
+    },
+    {
+      "path": "assets/21775-20596.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20596-large_default/conjunto-leggings-estampado-nina-lago.jpg",
+      "alt": "Detalle del tejido y bordado de la camiseta combinado con el legging estampado.",
+      "sourceId": "20596",
+      "variantIds": [],
+      "sha256": "3c76082016acee266f8119677b7f48cc24598f002783861b1c8303a6c15fbe1e"
+    },
+    {
+      "path": "assets/21775-20597.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20597-large_default/conjunto-leggings-estampado-nina-lago.jpg",
+      "alt": "Vista trasera del conjunto infantil con camiseta lisa y leggings verdes con flores.",
+      "sourceId": "20597",
+      "variantIds": [],
+      "sha256": "07f1f5c0591d0c25c69e3bd0b96e2ddb4ce4481f9d9900477a0a774892de1183"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:58:28.272Z",
+  "issues": []
+}

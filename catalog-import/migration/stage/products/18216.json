@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "18216",
+  "sourceUrl": "https://babyhogarinfantil.com/cositas-monas/18216-juego-bebe-3-piezas-estrellas-azul.html",
+  "name": "Juego bebe 3 piezas estrellas Azul",
+  "brand": "Gamberritos",
+  "sku": "2402111",
+  "description": "Deleita a tu pequeño con el encantador Juego Bebe 3 Piezas Estrellas Azul. Diseñado especialmente para los más pequeños de 0-3 meses, este ensamble de tres piezas incluye un adorable peto de estrellas, calcetines a juego y un gorrito. Fabricado con los materiales más suaves, garantiza la comodidad de tu bebé durante todo el día. Este lindo conjunto, parte de nuestra colección Cositas Monas, es perfecto para la primera puesta de tu bebé, haciendo de su primer día uno inolvidable. Transforma cada momento en una ocasión especial con este encantador conjunto.",
+  "details": "Ropa de Bebé de Calidad Suprema\n\nComplace a tus pequeños con el juego de tres piezas para bebé con estrellas azules. Este adorable conjunto está confeccionado con materiales de primera calidad, garantizando su suavidad y confort, cuidando la delicada piel de tu bebé. Su encantador diseño de estrellas azules cautivará a todos y hará lucir a tu bebé como el pequeño ángel que es.\n\n\nFabricado para las necesidades del bebé\n\nAdemás de ser increíblemente encantador, este juego de tres piezas para bebé está diseñado con características prácticas en mente. Los broches de fácil acceso facilitan el cambio de pañales, mientras que las telas lavables a máquina pueden soportar todos los contratiempos cotidianos mientras mantienen su consistencia y color. Este es el juego perfecto para mantener a tu bebé cómodo, feliz y a la moda durante todo el día.\n\n\nEl Regalo Perfecto\n\nSi buscas el regalo ideal para un baby shower o un cumpleaños, no busques más. Este juego de tres piezas para bebé con diseño de estrellas azules es el detalle perfecto que refleja los altos estándares de calidad, cuidado y amor. Está disponible en varias tallas para ajustarse perfectamente a los pequeños de diversas edades. Regala este apreciado conjunto y llena de alegría y confort al pequeño destinatario.\n\n\n¡No esperes más, añade ahora el Juego de tres piezas con estrellas azules a tu carrito de compras y disfruta de la felicidad de tu bebé!",
+  "sourceDescriptionHtml": "<h2>Ropa de Bebé de Calidad Suprema</h2>\n<p>Complace a tus pequeños con el juego de tres piezas para bebé con estrellas azules. Este adorable conjunto está confeccionado con materiales de primera calidad, garantizando su suavidad y confort, cuidando la delicada piel de tu bebé. Su encantador diseño de estrellas azules cautivará a todos y hará lucir a tu bebé como el pequeño ángel que es.</p>\n\n<h2>Fabricado para las necesidades del bebé</h2>\n<p>Además de ser increíblemente encantador, este juego de tres piezas para bebé está diseñado con características prácticas en mente. Los broches de fácil acceso facilitan el cambio de pañales, mientras que las telas lavables a máquina pueden soportar todos los contratiempos cotidianos mientras mantienen su consistencia y color. Este es el juego perfecto para mantener a tu bebé cómodo, feliz y a la moda durante todo el día.</p>\n\n<h2>El Regalo Perfecto</h2>\n<p>Si buscas el regalo ideal para un baby shower o un cumpleaños, no busques más. Este juego de tres piezas para bebé con diseño de estrellas azules es el detalle perfecto que refleja los altos estándares de calidad, cuidado y amor. Está disponible en varias tallas para ajustarse perfectamente a los pequeños de diversas edades. Regala este apreciado conjunto y llena de alegría y confort al pequeño destinatario.</p>\n\n<p><strong>¡No esperes más, añade ahora el Juego de tres piezas con estrellas azules a tu carrito de compras y disfruta de la felicidad de tu bebé!</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "819",
+    "792",
+    "865"
+  ],
+  "sourceDefaultCategoryId": "865",
+  "sourceCategoryName": "Cositas Monas",
+  "price": 8.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-08-08 23:53:58",
+  "sourceUpdatedAt": "2026-10-27 11:13:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "149144",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12241XA18754",
+      "productSku": "2402111",
+      "taxRate": 21,
+      "price": 8.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:46.204Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/18216-17163.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17163-large_default/juego-bebe-3-piezas-estrellas-azul.jpg",
+      "alt": "Juego bebe 3 piezas estrellas Azul",
+      "sourceId": "17163",
+      "variantIds": [],
+      "sha256": "93b85dfe7f264848bc40db7d85de930a536d8f093692572c86f0b396c30dd010"
+    },
+    {
+      "path": "assets/18216-17164.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17164-large_default/juego-bebe-3-piezas-estrellas-azul.jpg",
+      "alt": "Juego bebe 3 piezas estrellas Azul",
+      "sourceId": "17164",
+      "variantIds": [],
+      "sha256": "68110267e5e935fa398abd9e57c59362dc0d29d954fad569f553b2d2b1094513"
+    },
+    {
+      "path": "assets/18216-17165.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17165-large_default/juego-bebe-3-piezas-estrellas-azul.jpg",
+      "alt": "Juego bebe 3 piezas estrellas Azul",
+      "sourceId": "17165",
+      "variantIds": [],
+      "sha256": "cdb8669bbf0ed56a69c648cbdaaf2e5b4b5828b09897b5cb1d89fafd1d848645"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:51:46.373Z",
+  "issues": []
+}

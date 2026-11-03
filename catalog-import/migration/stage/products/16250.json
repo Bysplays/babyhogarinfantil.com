@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "16250",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/16250-pantalon-corto-nino-sarga-azul.html",
+  "name": "Pantalón corto niño Sarga Azul",
+  "brand": "Katuco",
+  "sku": "1703136",
+  "description": "Pantalón corto sarga elástico.",
+  "details": "Composición:\n\nPantalón: 98% algodón, 2% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pantalón: 98% algodón, 2% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2017",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 9.99,
+  "oldPrice": 16.9521,
+  "new": false,
+  "sourceAddedAt": "2023-05-04 00:24:25",
+  "sourceUpdatedAt": "2026-10-27 11:09:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72757",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "1703136",
+      "productSku": "1703136",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": 16.9521,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:04.641Z"
+    },
+    {
+      "id": "72760",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1703136",
+      "productSku": "1703136",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": 16.9521,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:07.715Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16250-13990.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13990-large_default/pantalon-corto-nino-sarga-azul.jpg",
+      "alt": "Pantalón corto niño Sarga Azul",
+      "sourceId": "13990",
+      "variantIds": [],
+      "sha256": "442beef47335a9984ce9192bc9169d70b0257fe30431f1b656ab3ff85e1cb5e3"
+    },
+    {
+      "path": "assets/16250-13991.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13991-large_default/pantalon-corto-nino-sarga-azul.jpg",
+      "alt": "Pantalón corto niño Sarga Azul",
+      "sourceId": "13991",
+      "variantIds": [],
+      "sha256": "3cb2048acb2bfb4f6f213723870058cde818d912db1a42e97d3899047a8667f9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:07.825Z",
+  "issues": []
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "9785",
+  "sourceUrl": "https://babyhogarinfantil.com/camisas-bebe-nino/9785-camisa-cuello-bebe-blanco.html",
+  "name": "Camisa cuello bebe Blanco",
+  "brand": "Calamaro",
+  "sku": "2207028",
+  "description": "Camisa 100% algodón, manga larga con cuello bebé y cierre trasero con corchetes en toda la espalda. HECHA EN ESPAÑA",
+  "details": "Camisa de CALAMARO, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. 100% ALGODÓN. De manga larga y cuello bebé, con cierre trasero de corchetes en toda la espalda. Una prenda atemporal, un fondo de armario ideal para combinar con ranitas, debajo de jubones, con petos o pichis, opciones infinitas! Echa un ojito a nuestros calcetines, calzado y ropita interior y podrás completarla como más te guste!\n\nComposición y cuidados:\n\nCamisa: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Camisa de <strong>CALAMARO</strong>, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. <strong>100% ALGODÓN.</strong> De manga larga y cuello bebé, con cierre trasero de corchetes en toda la espalda. Una prenda atemporal, un fondo de armario ideal para combinar con <strong>ranitas, debajo de jubones, con petos o pichis</strong>, opciones infinitas! Echa un ojito a nuestros <strong>calcetines, calzado y ropita interior</strong> y podrás completarla como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Camisa: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Blanco",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "677",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "677",
+  "sourceCategoryName": "Camisas Bebé niño",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "80111",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2207028",
+      "productSku": "2207028",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:18.816Z"
+    },
+    {
+      "id": "69999",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2207028",
+      "productSku": "2207028",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:20.266Z"
+    },
+    {
+      "id": "97048",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2207028",
+      "productSku": "2207028",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:21.385Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9785-12729.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12729-large_default/camisa-cuello-bebe-blanco.jpg",
+      "alt": "Camisa cuello bebe Blanco",
+      "sourceId": "12729",
+      "variantIds": [],
+      "sha256": "c1179e9cef54f89c6acfa47d46c4b7cfb0659916777b61c54cd50f2a01ecd484"
+    },
+    {
+      "path": "assets/9785-8718.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8718-large_default/camisa-cuello-bebe-blanco.jpg",
+      "alt": "Camisa cuello bebe Blanco",
+      "sourceId": "8718",
+      "variantIds": [],
+      "sha256": "b2e1403445eeca615024085f798d1fe1ecfa2205f96d877ff6db86c7d452ac90"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:21.524Z",
+  "issues": []
+}

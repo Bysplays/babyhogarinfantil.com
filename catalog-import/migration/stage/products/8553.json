@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8553",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/8553-camiseta-manga-larga-roja-mickey-rojo.html",
+  "name": "Camiseta manga larga roja Mickey Rojo",
+  "brand": "Zippy",
+  "sku": "2011046",
+  "description": "Sumérgete en la magia de Disney con la camiseta manga larga roja Mickey Rojo. Un clásico atemporal que encantará a los más pequeños, adornada con un brillante diseño de Mickey Mouse que captura la diversión y la chispa del personaje más querido. Esta camiseta no solo es vibrante y atractiva, también es cómoda. Fabricada con materiales suaves, se ha diseñado pensando en la comodidad del niño. El rojo intenso es un color que nunca pasa de moda, ideal para cualquier guardarropa infantil. ¡Haz que tu pequeño luzca adorable y se divierta con su nuevo amigo, Mickey!",
+  "details": "Encanto Inigualable\n\nLa Camiseta manga larga roja Mickey Rojo deslumbra con un diseño jovial y atractivo. Esta prenda, ideal para esos días más fresquitos, llena de energía y diversión al guardarropa de los peques. Con Mickey, el ratón más famoso del mundo embelleciendo la pieza, garantiza siempre una sonrisa y un estilo único.\n\nCalidad y Comodidad en Cada Puntada\n\nElaborada con materiales de alta calidad, la camiseta manga larga roja Mickey Rojo proporciona un toque cálido y confortable a la piel delicada de los niños. Su diseño de manga larga es ideal para proteger a los más pequeños en los días de viento y bajas temperaturas, sin dejar a un lado la diversión y el estilo infatigable de Mickey Mouse.\n\nDisfrute y Diversión en Cada Uso\n\nSerá la prenda favorita en cualquier armario infantil. La camiseta manga larga roja Mickey Rojo no sólo es una pieza de vestir, es una invitación a vivir aventuras increíbles junto a Mickey. Llevar puesta esta camiseta significa transportarse al maravilloso mundo Disney y vivir un viaje lleno de diversión y fantasía.\n\n¡No pierda la oportunidad de llevar a casa la magia de Disney! La camiseta manga larga roja Mickey Rojo es sin duda la elección perfecta para los pequeños soñadores. Recuerda lo divertido que es ser niño y llena de sonrisas su día a día con este genial diseño. ¡Haz clic en \"Agregar al carrito\" ahora mismo para una experiencia de compra sin igual!\n\nComposición y cuidados:\n\nCamiseta: 95% algodón, 5% elastano.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<h2>Encanto Inigualable</h2>\n<p>La Camiseta manga larga roja Mickey Rojo deslumbra con un diseño jovial y atractivo. Esta prenda, ideal para esos días más fresquitos, llena de energía y diversión al guardarropa de los peques. Con Mickey, el ratón más famoso del mundo embelleciendo la pieza, garantiza siempre una sonrisa y un estilo único.</p>\n<h2>Calidad y Comodidad en Cada Puntada</h2>\n<p>Elaborada con materiales de alta calidad, la camiseta manga larga roja Mickey Rojo proporciona un toque cálido y confortable a la piel delicada de los niños. Su diseño de manga larga es ideal para proteger a los más pequeños en los días de viento y bajas temperaturas, sin dejar a un lado la diversión y el estilo infatigable de Mickey Mouse.</p>\n<h2>Disfrute y Diversión en Cada Uso</h2>\n<p>Será la prenda favorita en cualquier armario infantil. La camiseta manga larga roja Mickey Rojo no sólo es una pieza de vestir, es una invitación a vivir aventuras increíbles junto a Mickey. Llevar puesta esta camiseta significa transportarse al maravilloso mundo Disney y vivir un viaje lleno de diversión y fantasía.</p>\n<p>¡No pierda la oportunidad de llevar a casa la magia de Disney! La camiseta manga larga roja Mickey Rojo es sin duda la elección perfecta para los pequeños soñadores. Recuerda lo divertido que es ser niño y llena de sonrisas su día a día con este genial diseño. ¡Haz clic en \"Agregar al carrito\" ahora mismo para una experiencia de compra sin igual!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 95% algodón, 5% elastano.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>NO USAR SECADORA.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 13,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:38",
+  "sourceUpdatedAt": "2026-10-27 11:10:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67596",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2011046",
+      "productSku": "2011046",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:01.607Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8553-11295.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11295-large_default/camiseta-manga-larga-roja-mickey-rojo.jpg",
+      "alt": "Camiseta manga larga roja Mickey Rojo",
+      "sourceId": "11295",
+      "variantIds": [],
+      "sha256": "123b31b5e1a9d7ff60c10f1f37248b05be0b46dc620c30ba6557c3a8b475449a"
+    },
+    {
+      "path": "assets/8553-11296.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11296-large_default/camiseta-manga-larga-roja-mickey-rojo.jpg",
+      "alt": "Camiseta manga larga roja Mickey Rojo",
+      "sourceId": "11296",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/8553-6878.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6878-large_default/camiseta-manga-larga-roja-mickey-rojo.jpg",
+      "alt": "Camiseta manga larga roja Mickey Rojo",
+      "sourceId": "6878",
+      "variantIds": [],
+      "sha256": "4a65f7741a8baf8cbd871ed92d12f6f724fddcc3a6fd8fb40860a5777b3a8def"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:01.773Z",
+  "issues": []
+}

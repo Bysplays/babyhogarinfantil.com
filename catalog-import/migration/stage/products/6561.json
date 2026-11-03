@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "6561",
+  "sourceUrl": "https://babyhogarinfantil.com/bragas-bebe-nina/6561-braguita-calada-dralon-azul-marino.html",
+  "name": "Braguita calada dralon Azul Marino",
+  "brand": "Pecesa",
+  "sku": "1602015",
+  "description": "Braguita en perlé azul marino 100% acrílico Dralón.",
+  "details": "Estas brauitas dan mucho de si, una talla te durará mucho tiempo. No dejan marca ni en la pierna ni en la cintura. Hay varios colores disponibles. Son ideales para poner debajo de los vestidos.\n\nComposición:\n\nBraguita: 100% acrílico Dralon Bayer.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Estas brauitas dan mucho de si, una talla te durará mucho tiempo. No dejan marca ni en la pierna ni en la cintura. Hay varios colores disponibles. Son ideales para poner debajo de los vestidos.</p>\n<p>Composición:</p>\n<p>Braguita: 100% acrílico Dralon Bayer.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "678"
+  ],
+  "sourceDefaultCategoryId": "678",
+  "sourceCategoryName": "Bragas Bebé niña",
+  "price": 12.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:14",
+  "sourceUpdatedAt": "2026-10-26 19:38:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63811",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1602015",
+      "productSku": "1602015",
+      "taxRate": 21,
+      "price": 12.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:17:54.046Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6561-4521.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4521-large_default/braguita-calada-dralon-azul-marino.jpg",
+      "alt": "Braguita calada dralon Azul Marino",
+      "sourceId": "4521",
+      "variantIds": [],
+      "sha256": "24d14f0b7f95db6c986c751617031d3f2ea2accfcb8e6601316235dc1351e9c8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:17:54.097Z",
+  "issues": []
+}

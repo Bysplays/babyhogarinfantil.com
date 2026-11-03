@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "8823",
+  "sourceUrl": "https://babyhogarinfantil.com/toallas-y-capas/8823-toalla-playa-thanos-unico.html",
+  "name": "Toalla playa Thanos Único",
+  "brand": "Cerdá",
+  "sku": "2104082",
+  "description": "Toalla playa vengadores THANOS. Medidas: 140x70 cm. Algodón 300 gr.",
+  "details": "Composición: 100% agodón.",
+  "sourceDescriptionHtml": "<p>Composición: 100% agodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Unico",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "806"
+  ],
+  "sourceDefaultCategoryId": "806",
+  "sourceCategoryName": "Toallas y capas",
+  "price": 14,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:42",
+  "sourceUpdatedAt": "2026-10-27 11:11:02",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68045",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "2104082",
+      "productSku": "2104082",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:47.920Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8823-7129.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7129-large_default/toalla-playa-thanos-unico.jpg",
+      "alt": "Toalla playa Thanos Único",
+      "sourceId": "7129",
+      "variantIds": [],
+      "sha256": "1c9f64eb3e6727bc71fa4d23cd4975214c54c56f828d41df3bf3a5a9140fe5ac"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:47.967Z",
+  "issues": []
+}

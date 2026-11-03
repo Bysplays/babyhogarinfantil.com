@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "id": "21484",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/21484-pelele-pijama-entero-algodon-interlock-azul.html",
+  "name": "Pelele pijama entero algodón interlock Azul",
+  "brand": "Yatsi",
+  "sku": "2502122",
+  "description": "Pijama entero en algodón. Abre con botones automaticos por delante para facilitar la puesta. tambien se abre en la entrepierna para el cambio de pañal.",
+  "details": "Composición:\n\nPijama:  100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Pijama: </strong> 100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 19,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-26 19:38:08",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Producto disponible con otras opciones",
+  "quantityAllVariants": 10,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96741",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2502122",
+      "productSku": "2502122",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:54.778Z"
+    },
+    {
+      "id": "96742",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2502122",
+      "productSku": "2502122",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:55.911Z"
+    },
+    {
+      "id": "96743",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502122",
+      "productSku": "2502122",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:56.926Z"
+    },
+    {
+      "id": "96744",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502122",
+      "productSku": "2502122",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:57.816Z"
+    },
+    {
+      "id": "96745",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502122",
+      "productSku": "2502122",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:58.981Z"
+    },
+    {
+      "id": "96746",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502122",
+      "productSku": "2502122",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:00.106Z"
+    },
+    {
+      "id": "96747",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502122",
+      "productSku": "2502122",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:01.240Z"
+    },
+    {
+      "id": "96748",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502122",
+      "productSku": "2502122",
+      "taxRate": 21,
+      "price": 19,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:02.404Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21484-20039.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20039-large_default/pelele-pijama-entero-algodon-interlock-azul.jpg",
+      "alt": "Pelele pijama entero algodón interlock Azul",
+      "sourceId": "20039",
+      "variantIds": [],
+      "sha256": "bc96b780a8187d4bdf255ed5a4d70bb20dec918fc5d14f706422fb7dd156d04f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:02.471Z",
+  "issues": []
+}

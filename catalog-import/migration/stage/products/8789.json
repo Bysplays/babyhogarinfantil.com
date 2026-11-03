@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "id": "8789",
+  "sourceUrl": "https://babyhogarinfantil.com/gorras-y-viseras-bebe-y-nina/8789-gorro-blanco-reversible-unico.html",
+  "name": "Gorro blanco reversible Unico",
+  "brand": "Chicco",
+  "sku": "2104005",
+  "description": "Gorro para el sol reversible de algodón popelín. Por un lado blanco liso con cenefa y por el otro estampado de corazones en azul y rojo. Suave costura con fruncidos.",
+  "details": "Gorro para el sol de CHICCO, una de nuestras firmas preferidas! De algodón popelín. Reversible, por un lado tiene el fondo blanco con cenefa en azul marino y, por el otro, estamapado de corazones en azul y rojo, un gorro diferente cada día! Tiene goma en la parte trasera y costura suave con fruncidos. Un complemento perfecto para darle un toque original a cualquier conjunto y además protegerse de los rayos del sol! Echa un ojito a nuestros conjuntos de baño, toallas y sandalias y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nGorro: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p style=\"margin:0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\"><span style=\"margin:0px;padding:0px;color:#484d67;font-family:Roboto, sans-serif;\"><span style=\"margin:0px;padding:0px;font-size:16px;\">Gorro para el sol de <strong style=\"margin:0px;padding:0px;\">CHICCO</strong>, una de nuestras firmas preferidas! De algodón popelín. <strong style=\"margin:0px;padding:0px;\">Reversible</strong>, por un lado tiene el fondo blanco con cenefa en azul marino y, por el otro, estamapado de corazones en azul y rojo, un gorro diferente cada día! Tiene goma en la parte trasera y costura suave con fruncidos. Un complemento perfecto para darle un toque original a cualquier conjunto y además protegerse de los rayos del sol! Echa un ojito a nuestros <strong>conjuntos de baño, toallas y sandalias</strong> y podrás completarlo con todo lo que necesites!</span></span></p>\n<p>Composición y cuidados:</p>\n<p>Gorro: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Unico",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "702",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "702",
+  "sourceCategoryName": "Gorras y viseras bebé y niña",
+  "price": 9.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:41",
+  "sourceUpdatedAt": "2026-10-27 11:11:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        },
+        {
+          "id": "248",
+          "label": "48 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68000",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "8884XB14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:24.766Z"
+    },
+    {
+      "id": "146986",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "8884XA14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:27.782Z"
+    },
+    {
+      "id": "146987",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "8884XC14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:29.687Z"
+    },
+    {
+      "id": "68001",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "8884XD14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:31.635Z"
+    },
+    {
+      "id": "146988",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "8884XE14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:33.968Z"
+    },
+    {
+      "id": "146989",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "8884XF14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:36.112Z"
+    },
+    {
+      "id": "146990",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "8884XG14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:37.791Z"
+    },
+    {
+      "id": "146991",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "8884XH14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:39.657Z"
+    },
+    {
+      "id": "146992",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "8884XI14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:41.903Z"
+    },
+    {
+      "id": "146993",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "8884XJ14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:44.166Z"
+    },
+    {
+      "id": "146994",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "248",
+          "group": "Tamaño",
+          "value": "48 m"
+        }
+      ],
+      "sku": "8884XK14111",
+      "productSku": "2104005",
+      "taxRate": 21,
+      "price": 9.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:46.937Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8789-7096.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7096-large_default/gorro-blanco-reversible-unico.jpg",
+      "alt": "Gorro blanco reversible Unico",
+      "sourceId": "7096",
+      "variantIds": [],
+      "sha256": "1fd78bf8252e6813d131ddab345886fc22dca342fa05d6d0e99553a4a51dc6c4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:47.018Z",
+  "issues": []
+}

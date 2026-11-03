@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9625",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/9625-pack-lazo-mas-horquillas-mostaza.html",
+  "name": "Pack lazo mas horquillas Mostaza",
+  "brand": "Siena",
+  "sku": "2204004",
+  "description": "Lazo de 6 x 4 cm. aproximadamente sobre clip pico-pato de 4 cm.\n\nY dos clips rana de 5 cm. a tono.\n\nHECHO EN ESPAÑA",
+  "details": "Color Vistoso y Elegante\n\n El Pack lazo mas horquillas Mostaza es un deleite para la vista. Su color mostaza vibrante añade un toque de elegancia y hace que cada atuendo se destaque. Perfecto para cualquier estación del año, este pack es un final impresionante para cualquier conjunto.\n\n\n Fácil de Usar y Adecuado para Todas las Edades\n\n El diseño sencillo y claro del Pack lazo mas horquillas Mostaza lo hace adecuado para todas las edades. Es fácil de colocar y se queda firmemente en su lugar, asegurando así que su pequeño se vea lindo a lo largo del día. Úselo con coletas, trenzas, pelo suelto o cualquier otro estilo que prefiera; Es un complemento perfecto para cada atuendo.\n\n\n Alta Calidad y Durabilidad\n\n El Pack lazo mas horquillas Mostaza no sólo es hermoso, sino que también es durable. Hechos con materiales de alta calidad, estos lazos y horquillas están diseñados para durar. No importa cuántas veces los use, mantendrán su color vibrante y su forma elegante.\n\n\n No espere más. Dale vida a la colección de accesorios de tu pequeño con el Pack lazo mas horquillas Mostaza. Haz que su atuendo brille más. ¡Haz clic en \"añadir al carrito\" ahora!",
+  "sourceDescriptionHtml": "<h2>Color Vistoso y Elegante</h2>\n <p>El <strong>Pack lazo mas horquillas Mostaza</strong> es un deleite para la vista. Su color mostaza vibrante añade un toque de elegancia y hace que cada atuendo se destaque. Perfecto para cualquier estación del año, este pack es un final impresionante para cualquier conjunto.</p>\n\n <h2>Fácil de Usar y Adecuado para Todas las Edades</h2>\n <p>El diseño sencillo y claro del <strong>Pack lazo mas horquillas Mostaza</strong> lo hace adecuado para todas las edades. Es fácil de colocar y se queda firmemente en su lugar, asegurando así que su pequeño se vea lindo a lo largo del día. Úselo con coletas, trenzas, pelo suelto o cualquier otro estilo que prefiera; Es un complemento perfecto para cada atuendo.</p>\n\n <h2>Alta Calidad y Durabilidad</h2>\n <p>El <strong>Pack lazo mas horquillas Mostaza</strong> no sólo es hermoso, sino que también es durable. Hechos con materiales de alta calidad, estos lazos y horquillas están diseñados para durar. No importa cuántas veces los use, mantendrán su color vibrante y su forma elegante.</p>\n\n <p>No espere más. Dale vida a la colección de accesorios de tu pequeño con el <strong>Pack lazo mas horquillas Mostaza</strong>. Haz que su atuendo brille más. ¡Haz clic en \"añadir al carrito\" ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Mostaza",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84959",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10182XA15883",
+      "productSku": "2204004",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:32.386Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9625-7846.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7846-large_default/pack-lazo-mas-horquillas-mostaza.jpg",
+      "alt": "Pack lazo mas horquillas Mostaza",
+      "sourceId": "7846",
+      "variantIds": [],
+      "sha256": "e7445298bfc132c181f014b95cee8ff00298662cfe22c20cdd37fa4cd2042fa2"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:32.450Z",
+  "issues": []
+}

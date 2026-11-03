@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "16835",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-punto-bebe-nina/16835-conjunto-polaina-bebe-nina-oslo-nude.html",
+  "name": "Conjunto polaina bebe niña OSLO Nude",
+  "brand": "Calamaro",
+  "sku": "2307045",
+  "description": "Encapsula la ternura de tu princesita con el Conjunto Polaina Bebé Niña OSLO Nude. Un primoroso conjunto que habla de suavidad, comodidad y estilo chic. Cada prenda es resultado de una exquisita confección con punto de primera calidad, ideal para los suaves días de 0 a 3 meses. Tan versátil, que la verás adorable en cualquier ocasión. Inunda de amor y calidez sus primeros días con este encanto de conjunto. ¡Porque ella se merece sólo lo mejor! Conjuntos de punto, Primera puesta 0 a 3, Ropa bebé niña.",
+  "details": "Un Diseño Único para las Pequeñas Princesas\n\nAdorne a su adorada niña con el Conjunto polaina bebe niña OSLO Nude, destacando un diseño sofisticado y una estética suave. Diseñados con consideración, estos conjuntos resaltan la inocencia y la curiosidad de las pequeñas exploradoras del mundo.\n\nConfort con Elegancia\n\nLos tejidos suaves y la calidad excepcional del Conjunto polaina bebe niña OSLO Nude garantizan comodidad duradera. Su pequeña nunca experimentará ninguna irritación, permitiéndole descubrir y jugar libremente. A medida que va creciendo y aprendiendo, el conjunto polaina se moverá con ella en todas las etapas.\n\nSimplemente Encantador\n\nEl Conjunto polaina bebe niña OSLO Nude es completamente encantador. ¿Por qué no hacer que la vida de su pequeña sea aún más dulce con estas adorable piezas de ropa? Estos conjuntos están hechos para momentos encantadores e inolvidables.\n\nNada puede reemplazar la sensación de ver a su pequeña feliz y cómoda. Haga clic en agregar al carrito para que su pequeña luzca lo mejor.\n\nComposición y cuidados:\n\nConjunto: 100% algodón.\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<div>\n<h2>Un Diseño Único para las Pequeñas Princesas</h2>\n<p>Adorne a su adorada niña con el Conjunto polaina bebe niña OSLO Nude, destacando un diseño sofisticado y una estética suave. Diseñados con consideración, estos conjuntos resaltan la inocencia y la curiosidad de las pequeñas exploradoras del mundo.</p>\n<h2>Confort con Elegancia</h2>\n<p>Los tejidos suaves y la calidad excepcional del Conjunto polaina bebe niña OSLO Nude garantizan comodidad duradera. Su pequeña nunca experimentará ninguna irritación, permitiéndole descubrir y jugar libremente. A medida que va creciendo y aprendiendo, el conjunto polaina se moverá con ella en todas las etapas.</p>\n<h2>Simplemente Encantador</h2>\n<p>El Conjunto polaina bebe niña OSLO Nude es completamente encantador. ¿Por qué no hacer que la vida de su pequeña sea aún más dulce con estas adorable piezas de ropa? Estos conjuntos están hechos para momentos encantadores e inolvidables.</p>\n<p>Nada puede reemplazar la sensación de ver a su pequeña feliz y cómoda. Haga clic en agregar al carrito para que su pequeña luzca lo mejor.</p>\n<p>Composición y cuidados:</p>\n<p>Conjunto: 100% algodón.</p>\n<p>NO USAR LEJIAS</p>\n<p>LAVAR A 30º RECOMENDADO</p>\n<p>NO USAR SECADORA</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Nude",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "792",
+    "818",
+    "737"
+  ],
+  "sourceDefaultCategoryId": "737",
+  "sourceCategoryName": "Conjuntos punto bebé niña",
+  "price": 28.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-09-21 15:52:59",
+  "sourceUpdatedAt": "2026-10-27 11:12:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "240",
+          "label": "1 m"
+        },
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "79540",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "240",
+          "group": "Tamaño",
+          "value": "1 m"
+        }
+      ],
+      "sku": "2307045",
+      "productSku": "2307045",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:00.244Z"
+    },
+    {
+      "id": "79541",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2307045",
+      "productSku": "2307045",
+      "taxRate": 21,
+      "price": 28.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:02.599Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16835-14422.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14422-large_default/conjunto-polaina-bebe-nina-oslo-nude.jpg",
+      "alt": "Conjunto polaina bebe niña OSLO Nude",
+      "sourceId": "14422",
+      "variantIds": [],
+      "sha256": "e55071b980b6491c4af50bf39d8e2dfc91fa12683954a283667a42a7fe0d45e9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:02.663Z",
+  "issues": []
+}

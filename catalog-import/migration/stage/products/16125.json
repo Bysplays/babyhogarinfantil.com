@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "16125",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/16125-pantalon-colegial-corto-12-a-26-azul-marino.html",
+  "name": "Pantalón colegial corto 12 a 26 Azul Marino",
+  "brand": "Taracido",
+  "sku": "1711108",
+  "description": "Pantalón escolar corto, con cierre de botón y goma ajustable interior, para mejor ajuste. Acabado con dobladillo.\n\nComposición:\n\nPantalón: 65% poliéster 35% viscosa.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nPantalón: 65% poliéster 35% viscosa.\n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Pantalón: 65% poliéster 35% viscosa.</p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "783"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 30,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:28:56",
+  "sourceUpdatedAt": "2026-10-27 11:09:45",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "235",
+          "label": "14"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "251",
+          "label": "24"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64913",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "1711108",
+      "productSku": "1711108",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:56.031Z"
+    },
+    {
+      "id": "64915",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "1711108",
+      "productSku": "1711108",
+      "taxRate": 21,
+      "price": 30,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:33:59.125Z"
+    },
+    {
+      "id": "84742",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "1711108",
+      "productSku": "1711108",
+      "taxRate": 21,
+      "price": 35,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:01.264Z"
+    },
+    {
+      "id": "79920",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "251",
+          "group": "Tamaño",
+          "value": "24"
+        }
+      ],
+      "sku": "1711108",
+      "productSku": "1711108",
+      "taxRate": 21,
+      "price": 35,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:04.344Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16125-18499.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18499-large_default/pantalon-colegial-corto-12-a-26-azul-marino.jpg",
+      "alt": "Pantalón colegial corto 12 a 26 Azul Marino",
+      "sourceId": "18499",
+      "variantIds": [],
+      "sha256": "c7a55092d2d5aa6a31ccf7affc51d36181a312355e93b64510ab34e0b9a142bd"
+    },
+    {
+      "path": "assets/16125-18500.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18500-large_default/pantalon-colegial-corto-12-a-26-azul-marino.jpg",
+      "alt": "Pantalón colegial corto 12 a 26 Azul Marino",
+      "sourceId": "18500",
+      "variantIds": [],
+      "sha256": "56e13a9266796930460f562b49141b74d3f92aa7903b1fa187419a2521faed52"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:04.458Z",
+  "issues": []
+}

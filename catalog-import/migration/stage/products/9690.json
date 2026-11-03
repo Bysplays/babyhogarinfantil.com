@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "9690",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9690-chaqueta-sudadera-cremallera-verde-verde.html",
+  "name": "Chaqueta sudadera cremallera verde Verde",
+  "brand": "Mayoral",
+  "sku": "2204087",
+  "description": "Sudadera de cremallera con capucha, en color verde caqui jaspeado, con detalles en negro a contraste. Tiene bolsillos. Acabado de canalé elástico en puños, capucha y cinturilla. Sin felpa interior.",
+  "details": "Sudadera de MAYORAL, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. De cremallera y capucha. En color verde caqui jaspeado con detalles en negro a contraste y texto en el pecho en blanco. Tiene bolsillos. Acabado de canalé elástico en puños, capucha y cinturilla. Sin felpa interior. Una prenda cómoda, desenfadada y ligera, ideal para combinar con conjuntos sport o vaqueros! Echa un ojito a nuestra sección de ropa interior, camisetas y calzado y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\n91% algodón, 8% piliéster, 1% elastano.\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Sudadera de <strong>MAYORAL</strong>, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. De cremallera y capucha. En color verde caqui <strong>jaspeado</strong> con detalles en negro a contraste y texto en el pecho en blanco. Tiene bolsillos. <strong>Acabado de canalé elástico</strong> en puños, capucha y cinturilla. <strong>Sin felpa</strong> interior. Una prenda cómoda, desenfadada y ligera, ideal para combinar con conjuntos sport o vaqueros! Echa un ojito a nuestra sección de <strong>ropa interior, camisetas y calzado</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>91% algodón, 8% piliéster, 1% elastano.</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 16.49,
+  "oldPrice": 32.9846,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69845",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2204087",
+      "productSku": "2204087",
+      "taxRate": 21,
+      "price": 16.49,
+      "oldPrice": 32.9846,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:39.909Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9690-12613.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12613-large_default/chaqueta-sudadera-cremallera-verde-verde.jpg",
+      "alt": "Chaqueta sudadera cremallera verde Verde",
+      "sourceId": "12613",
+      "variantIds": [],
+      "sha256": "5a9b53a8d055dd16fe621fd5add66d85d6867890e5f00905f2caebf810caf015"
+    },
+    {
+      "path": "assets/9690-12614.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12614-large_default/chaqueta-sudadera-cremallera-verde-verde.jpg",
+      "alt": "Chaqueta sudadera cremallera verde Verde",
+      "sourceId": "12614",
+      "variantIds": [],
+      "sha256": "b294ad64042d65cb9eca4cf3281703a3ebe16b6e99957d475d5b742b4466de2a"
+    },
+    {
+      "path": "assets/9690-12615.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12615-large_default/chaqueta-sudadera-cremallera-verde-verde.jpg",
+      "alt": "Chaqueta sudadera cremallera verde Verde",
+      "sourceId": "12615",
+      "variantIds": [],
+      "sha256": "3c10157362d29653b5a2219551f44ff9753d99e6a0e5f83b67820c3a1301d94c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:40.130Z",
+  "issues": []
+}

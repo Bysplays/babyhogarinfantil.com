@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "9777",
+  "sourceUrl": "https://babyhogarinfantil.com/primera-puesta-bebe/9777-conjunto-algodon-primera-puesta-verde.html",
+  "name": "Conjunto algodon primera puesta Verde",
+  "brand": "Calamaro",
+  "sku": "2207021",
+  "description": "Conjunto primera puesta 100% algodón, compuesto por camiseta de manga larga y cuello redondo, con puntilla de adorno en pecho y puños, y cierre completo con corchetes en toda la espalda, y polaina lisa con goma en la cintura.",
+  "details": "Conjunto de primera puesta de CALAMARO, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. 100% ALGODÓN, compuesto por camiseta de manga larga y cuello redondo, con puntilla en el pecho y en los puños. Cierre trasero con corchetes en toda la espalda. Como parte de abajo, polaina lisa con goma en la cintura. Un conjunto cómodo, suave y delicado, perfecto para las primeras semanas. Echa un ojito a nuestros bodies interiores o con cuello, toquillas y muselinas y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nConjunto: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Conjunto de primera puesta de <strong>CALAMARO</strong>, firma de ropa diseñada y fabricada en España de manera artesanal, focalizada en los pequeños detalles con un estilo clásico, cómodo y atemporal. <strong>100% ALGODÓN</strong>, compuesto por camiseta de manga larga y cuello redondo, con puntilla en el pecho y en los puños. <strong>Cierre trasero con corchetes</strong> en toda la espalda. Como parte de abajo, polaina lisa con goma en la cintura. Un conjunto cómodo, suave y delicado, perfecto para las primeras semanas. Echa un ojito a nuestros <strong>bodies interiores o con cuello, toquillas y muselinas</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Conjunto: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Verde",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "792",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "792",
+  "sourceCategoryName": "Primera puesta 0 a 3 meses",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69972",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2207021",
+      "productSku": "2207021",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:02.593Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9777-12718.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12718-large_default/conjunto-algodon-primera-puesta-verde.jpg",
+      "alt": "Conjunto algodon primera puesta Verde",
+      "sourceId": "12718",
+      "variantIds": [],
+      "sha256": "bd3349be22b1fc5c7cebe10fea0725dbd36aa34a1a1c20e06aacebd8b0ac5193"
+    },
+    {
+      "path": "assets/9777-12717.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12717-large_default/conjunto-algodon-primera-puesta-verde.jpg",
+      "alt": "Conjunto algodon primera puesta Verde",
+      "sourceId": "12717",
+      "variantIds": [],
+      "sha256": "76238e01a67d77556265146038db1156e5c133ca084ee0467b4e1e5f3d755dce"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:02.700Z",
+  "issues": []
+}

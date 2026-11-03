@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "6460",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-nina/6460-sandalia-lazo-con-suela-rojo.html",
+  "name": "Sandalia Lazo con suela Rojo",
+  "brand": "Caminito",
+  "sku": "1541870",
+  "description": "Sandalia ROJA de piel con cierre de hebilla y suela.",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "695"
+  ],
+  "sourceDefaultCategoryId": "695",
+  "sourceCategoryName": "Calzado Niña",
+  "price": 44.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:12",
+  "sourceUpdatedAt": "2026-10-27 11:08:56",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "297",
+          "label": "19/20"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63612",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "1541870",
+      "productSku": "1541870",
+      "taxRate": 21,
+      "price": 44.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:59.174Z"
+    },
+    {
+      "id": "63613",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "297",
+          "group": "Tamaño",
+          "value": "19/20"
+        }
+      ],
+      "sku": "1541870",
+      "productSku": "1541870",
+      "taxRate": 21,
+      "price": 44.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:02.221Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6460-4424.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4424-large_default/sandalia-lazo-con-suela-rojo.jpg",
+      "alt": "Sandalia Lazo con suela Rojo",
+      "sourceId": "4424",
+      "variantIds": [],
+      "sha256": "90c79e21207f6d272b64b7fb4fa26a9a89e3fb18b0a6b8d47bff36df4df2aa4c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:02.286Z",
+  "issues": []
+}

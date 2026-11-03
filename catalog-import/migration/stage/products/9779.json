@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "9779",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9779-conjunto-pololo-nemus-gris.html",
+  "name": "Conjunto pololo nemus Gris",
+  "brand": "Calamaro",
+  "sku": "2207023",
+  "description": "El Conjunto Pololo Nemus Gris combina estilo y comodidad en una sola pieza. Hecho para los pequeños que aman explorar, promete movilidad sin restricciones para esas aventuras diarias. Con un diseño moderno y versátil, este conjunto resiste la prueba del tiempo y del desgaste rutinario. Perfecto para cualquier ocasión, ¡hará que tu pequeño luzca siempre impecable! Dale a tu niño el regalo de la comodidad y la elegancia con el Conjunto Pololo Nemus Gris.",
+  "details": "Elegancia y Comodidad\n\nEl Conjunto Pololo Nemus Gris rinde homenaje a la simplicidad con un toque de elegancia. Este conjunto, diseñado pensando en la comodidad, es perfecto para cualquier ocasión. El suave tejido de algodón es amable con la delicada piel del bebé, y la paleta de colores gris se adapta a cualquier estilo y temporada.\n\n\nVersatilidad en Cada Costura\n\nEste conjunto no es solo ropa, es una declaración de estilo. La versatilidad de este conjunto hace que sea la elección perfecta para un día en el parque o una ocasión especial. Además, su diseño unisex lo hace ideal para cualquier pequeño explorador o exploradora. La tela es fácil de lavar y mantiene su forma y color lavado tras lavado.\n\n\nCalidad que se Ve y se Siente\n\nCada pieza del Conjunto Pololo Nemus Gris ha sido confeccionada con los más altos estándares de calidad. Cada costura, cada detalle ha sido pensado para proporcionar no sólo una estética agradable, sino también una durabilidad incomparable. Este conjunto es una inversión en estilo y calidad que durará mucho tiempo.\n\n\nAgrega el Conjunto Pololo Nemus Gris a tu carrito ahora y dale a tu pequeño el confort y estilo que merece.",
+  "sourceDescriptionHtml": "<h2>Elegancia y Comodidad</h2>\n<p>El Conjunto Pololo Nemus Gris rinde homenaje a la simplicidad con un toque de elegancia. Este conjunto, diseñado pensando en la comodidad, es perfecto para cualquier ocasión. El suave tejido de algodón es amable con la delicada piel del bebé, y la paleta de colores gris se adapta a cualquier estilo y temporada.</p>\n\n<h2>Versatilidad en Cada Costura</h2>\n<p>Este conjunto no es solo ropa, es una declaración de estilo. La versatilidad de este conjunto hace que sea la elección perfecta para un día en el parque o una ocasión especial. Además, su diseño unisex lo hace ideal para cualquier pequeño explorador o exploradora. La tela es fácil de lavar y mantiene su forma y color lavado tras lavado.</p>\n\n<h2>Calidad que se Ve y se Siente</h2>\n<p>Cada pieza del Conjunto Pololo Nemus Gris ha sido confeccionada con los más altos estándares de calidad. Cada costura, cada detalle ha sido pensado para proporcionar no sólo una estética agradable, sino también una durabilidad incomparable. Este conjunto es una inversión en estilo y calidad que durará mucho tiempo.</p>\n\n<a href=\"#\" class=\"buy-now-button\">Agrega el Conjunto Pololo Nemus Gris a tu carrito ahora y dale a tu pequeño el confort y estilo que merece.</a>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 25.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:44",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69974",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2207023",
+      "productSku": "2207023",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:07.425Z"
+    },
+    {
+      "id": "69975",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2207023",
+      "productSku": "2207023",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:08.676Z"
+    },
+    {
+      "id": "69976",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2207023",
+      "productSku": "2207023",
+      "taxRate": 21,
+      "price": 25.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:10.085Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9779-12721.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12721-large_default/conjunto-pololo-nemus-gris.jpg",
+      "alt": "Conjunto pololo nemus Gris",
+      "sourceId": "12721",
+      "variantIds": [],
+      "sha256": "21ceb57b392debcf6d368e0777eaf94640d2f71f25f3da1034a9a9a96f065be0"
+    },
+    {
+      "path": "assets/9779-12720.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12720-large_default/conjunto-pololo-nemus-gris.jpg",
+      "alt": "Conjunto pololo nemus Gris",
+      "sourceId": "12720",
+      "variantIds": [],
+      "sha256": "31f315eb746b480f1a62d71b2be180cd1f74ff89a22b72d3e7dcc94c42f9c060"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:10.235Z",
+  "issues": []
+}

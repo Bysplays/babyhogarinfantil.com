@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "9665",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/9665-conjunto-bebe-nino-verano-ranita-sinai-amarillo.html",
+  "name": "Conjunto bebe niño verano ranita SINAI Amarillo",
+  "brand": "Yoedu",
+  "sku": "2204051",
+  "description": "Conjunto de dos piezas compuesto por polo de algodón con cuello bebé y falsa camisa en el remate de la cinturilla, en color amarillo pastel con detalles en azul tejano y ranita a juego con goma en la cintura y perneras, completamente forrada.  HECHO EN ESPAÑA",
+  "details": "Conjunto de dos piezas de YOEDU, firma de moda infantil que nace en 1994 con un estilo propio, elegante, funcional y alegre, que acompañe a los pequeños en su día a día. Compuesto por polo de manga corta en color amarillo pastel, con cuello bebé de camisa y falsa camisa sobresaliendo por los bajos, con detalles a contraste. Cierre trasero con botones en toda la espalda, para facilitar la puesta. Como parte de abajo, ranita azul tejano, completamente forrada, con goma en la cintura y perneras. Un conjunto cómodo y fresquito, arreglado pero desenfadado, ideal para combinar con deportivas o con zapatos, según la ocasión! Echa un ojito a nuestro calzado, bodies interiores y calcetines y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nPolo: 92% algodón, 8% elastano\n\nRanita: 83% poliéster, 17% algodón\n\nForro: 65% poliéster, 35% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)\n\n \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas de <strong>YOEDU</strong>, firma de moda infantil que nace en 1994 con un estilo propio, elegante, funcional y alegre, que acompañe a los pequeños en su día a día. Compuesto por polo de manga corta en color amarillo pastel, con cuello bebé de camisa y <strong>falsa camisa</strong> sobresaliendo por los bajos, con detalles a contraste. Cierre trasero con <strong>botones en toda la espalda</strong>, para facilitar la puesta. Como parte de abajo, ranita azul tejano, <strong>completamente forrada</strong>, con goma en la cintura y perneras. Un conjunto cómodo y fresquito, arreglado pero desenfadado, ideal para combinar con deportivas o con zapatos, según la ocasión! Echa un ojito a nuestro <strong>calzado, bodies interiores y calcetines</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Polo: 92% algodón, 8% elastano</p>\n<p>Ranita: 83% poliéster, 17% algodón</p>\n<p>Forro: 65% poliéster, 35% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>\n<p> </p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>\n<p> </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 20,
+  "oldPrice": 39.9905,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:52",
+  "sourceUpdatedAt": "2026-10-27 11:11:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69773",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2204051",
+      "productSku": "2204051",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": 39.9905,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:10.068Z"
+    },
+    {
+      "id": "69774",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2204051",
+      "productSku": "2204051",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": 39.9905,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:11.798Z"
+    },
+    {
+      "id": "69775",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2204051",
+      "productSku": "2204051",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": 39.9905,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:13.552Z"
+    },
+    {
+      "id": "69776",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2204051",
+      "productSku": "2204051",
+      "taxRate": 21,
+      "price": 20,
+      "oldPrice": 39.9905,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:15.357Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9665-12583.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12583-large_default/conjunto-bebe-nino-verano-ranita-sinai-amarillo.jpg",
+      "alt": "Conjunto bebe niño verano ranita SINAI Amarillo",
+      "sourceId": "12583",
+      "variantIds": [],
+      "sha256": "20686e9f6cd8fba3a4490d04c8defd5ea0dc0729912b0524c4790c520a243d0a"
+    },
+    {
+      "path": "assets/9665-12582.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12582-large_default/conjunto-bebe-nino-verano-ranita-sinai-amarillo.jpg",
+      "alt": "Conjunto bebe niño verano ranita SINAI Amarillo",
+      "sourceId": "12582",
+      "variantIds": [],
+      "sha256": "ca99f5a7b88f2e7c965adb9b84ae622c5c6aaa45ef46e7f2e00800169efd0b8c"
+    },
+    {
+      "path": "assets/9665-15022.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15022-large_default/conjunto-bebe-nino-verano-ranita-sinai-amarillo.jpg",
+      "alt": "Conjunto bebe niño verano ranita SINAI Amarillo",
+      "sourceId": "15022",
+      "variantIds": [],
+      "sha256": "f9f455d4b632264e27b3503d12b5e42eff1d80df9630b4a86ccd0d8f0c3a6d35"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:15.617Z",
+  "issues": []
+}

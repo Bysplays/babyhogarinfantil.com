@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "6287",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-pom-pom/6287-calcetin-alto-con-borlas-rojo.html",
+  "name": "Calcetín alto con borlas Rojo",
+  "brand": "Condor",
+  "sku": "1020",
+  "description": "Calcetín alto con borlas en ALGODON CALIDO.",
+  "details": "Composisic&oacute;n:\nCalcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.",
+  "sourceDescriptionHtml": "<p>Composisic&oacute;n:<br />Calcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "686",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "686",
+  "sourceCategoryName": "Calcetines con pom-pom",
+  "price": 9,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 9,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63197",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:16.182Z"
+    },
+    {
+      "id": "82127",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:20.087Z"
+    },
+    {
+      "id": "63198",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:23.264Z"
+    },
+    {
+      "id": "63199",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:25.649Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6287-4263.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4263-large_default/calcetin-alto-con-borlas-rojo.jpg",
+      "alt": "Calcetín alto con borlas Rojo",
+      "sourceId": "4263",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6287-9504.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9504-large_default/calcetin-alto-con-borlas-rojo.jpg",
+      "alt": "Calcetín alto con borlas Rojo",
+      "sourceId": "9504",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6287-4262.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4262-large_default/calcetin-alto-con-borlas-rojo.jpg",
+      "alt": "Calcetín alto con borlas Rojo",
+      "sourceId": "4262",
+      "variantIds": [],
+      "sha256": "999b6e5658f15fb4465341bb0cfd1f5137494069bed3e8a962c20fd6b073951b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:25.872Z",
+  "issues": []
+}

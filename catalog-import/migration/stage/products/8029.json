@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "8029",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nina/8029-chaqueta-nina-volante-azul-marino.html",
+  "name": "Chaqueta niña volante Azul marino",
+  "brand": "Mac Ilusión",
+  "sku": "2001069",
+  "description": "Introduciendo la Chaqueta niña volante Azul marino, un must-have en el ropero de tu pequeña. Imaginarla luciendo este elegante y vibrante color azul es demasiado cautivador. Esta chaqueta no es sólo estilizada y de moda, es también práctica y cómoda, ideal para esos días del verano cuando baja un poquito el calor. Con un diseño impresionante que its add-on es un adorno de volantes, tu niña va a ser la atracción de todos los ojos. La calidad está garantizada, la satisfacción también. No pierdas la oportunidad de proveer a tu niña con un estilo juguetón y chic. ¡Cómprala hoy!",
+  "details": "\"Elegancia en Miniatura\"\n\nEsta encantadora Chaqueta niña volante Azul marino está hecha para las pequeñas princesas que aman lucir elegantes y a la moda. Con su diseño único y moderno, y su impresionante color azul marino, esto no es solo una chaqueta común. Es un statement de moda.\n\n\"Diseñado pensando en ellas\"\n\n¿Quién dijo que la moda y la comodidad no pueden ir de la mano? Esta chaqueta volante está hecha con materiales de la más alta calidad, asegurando no solo un ajuste perfecto sino también el máximo confort para tu pequeña. Los detalles de volantes agregan un toque de gracia y femineidad a cualquier atuendo.\n\n\"Versátil y Práctica\"\n\nYa sea para un día frío de otoño o una noche fresca de verano, esta chaqueta es perfecta para cualquier estación. Con su diseño versátil, se puede combinar fácilmente con cualquier tipo de ropa, convirtiendo el vestuario de tu pequeña en un auténtico desfile de moda.\n\nComposición:\n\n50% Algodón\n\n50% Acrílico.\n\n¡Añade la Chaqueta niña volante Azul marino a tu carrito de compras y haz que tu pequeña luzca encantadora hoy!",
+  "sourceDescriptionHtml": "<h2>\"Elegancia en Miniatura\"</h2>\n<p>Esta encantadora Chaqueta niña volante Azul marino está hecha para las pequeñas princesas que aman lucir elegantes y a la moda. Con su diseño único y moderno, y su impresionante color azul marino, esto no es solo una chaqueta común. Es un statement de moda.</p>\n<h2>\"Diseñado pensando en ellas\"</h2>\n<p>¿Quién dijo que la moda y la comodidad no pueden ir de la mano? Esta chaqueta volante está hecha con materiales de la más alta calidad, asegurando no solo un ajuste perfecto sino también el máximo confort para tu pequeña. Los detalles de volantes agregan un toque de gracia y femineidad a cualquier atuendo.</p>\n<h2>\"Versátil y Práctica\"</h2>\n<p>Ya sea para un día frío de otoño o una noche fresca de verano, esta chaqueta es perfecta para cualquier estación. Con su diseño versátil, se puede combinar fácilmente con cualquier tipo de ropa, convirtiendo el vestuario de tu pequeña en un auténtico desfile de moda.</p>\n<p>Composición:</p>\n<p>50% Algodón</p>\n<p>50% Acrílico.</p>\n<p>¡Añade la Chaqueta niña volante Azul marino a tu carrito de compras y haz que tu pequeña luzca encantadora hoy!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2020",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "699"
+  ],
+  "sourceDefaultCategoryId": "699",
+  "sourceCategoryName": "Chaquetas Niña",
+  "price": 11.5,
+  "oldPrice": 22.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:32",
+  "sourceUpdatedAt": "2026-10-26 19:38:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66834",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2001069",
+      "productSku": "2001069",
+      "taxRate": 21,
+      "price": 11.5,
+      "oldPrice": 22.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:09.576Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8029-10817.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10817-large_default/chaqueta-nina-volante-azul-marino.jpg",
+      "alt": "Chaqueta niña volante Azul marino",
+      "sourceId": "10817",
+      "variantIds": [],
+      "sha256": "f8ad2e16291a0554ff29c155ed7ef3f684324641bea91d47c0d89dcfb89d588e"
+    },
+    {
+      "path": "assets/8029-6205.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6205-large_default/chaqueta-nina-volante-azul-marino.jpg",
+      "alt": "Chaqueta niña volante Azul marino",
+      "sourceId": "6205",
+      "variantIds": [],
+      "sha256": "7eaac6e684a4acda992e0a4afe0efbca047f17f7c7a47dcdcf864c9305602057"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:09.699Z",
+  "issues": []
+}

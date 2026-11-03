@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "id": "8543",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/8543-bota-con-hebilla-charon-grafito.html",
+  "name": "Bota con hebilla Charon Grafito",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2011020",
+  "description": "Botín de piel en color gris marengo, acabado charol. Cierre con tira de velcro. Disponible en color camel mate.",
+  "details": "Botín de piel en color gris marengo, acabado charol. Cierre con tira de velcro, adornado con hebilla falsa, fácilmente ajustable al pie. Forrado en su interior. Un calzado cómodo y muy ligero, perfecto para los peques que empiezan a usar zapatos. Al ser botín, es ligeramente más alto y sujeta mejor el pie, evitando que se escape o se pierda. Disponible en color camel mate. La talla 19 está disponible con suela blanda y con semi-suela, para aquellos bebés que comiencen a caminar. \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Botín de <strong>piel</strong> en color gris marengo, acabado charol. Cierre con tira de velcro, adornado con hebilla falsa, fácilmente ajustable al pie. Forrado en su interior. Un calzado cómodo y muy ligero, perfecto para los peques que empiezan a usar zapatos. Al ser botín, es ligeramente más alto y sujeta mejor el pie, evitando que se escape o se pierda. <strong>Disponible en color camel mate. La talla 19 está disponible con suela blanda y con semi-suela, para aquellos bebés que comiencen a caminar. </strong></p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charon Grafito",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:38",
+  "sourceUpdatedAt": "2026-10-27 11:10:51",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "259",
+          "label": "19con"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67569",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "2011020",
+      "productSku": "2011020",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:54.260Z"
+    },
+    {
+      "id": "67570",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "2011020",
+      "productSku": "2011020",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:56.943Z"
+    },
+    {
+      "id": "67571",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "2011020",
+      "productSku": "2011020",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:00.460Z"
+    },
+    {
+      "id": "67573",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "259",
+          "group": "Tamaño",
+          "value": "19con"
+        }
+      ],
+      "sku": "2011020",
+      "productSku": "2011020",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:02.726Z"
+    },
+    {
+      "id": "67572",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "2011020",
+      "productSku": "2011020",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:05.227Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8543-11285.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11285-large_default/bota-con-hebilla-charon-grafito.jpg",
+      "alt": "Bota con hebilla Charon Grafito",
+      "sourceId": "11285",
+      "variantIds": [],
+      "sha256": "bdb6c8b4cdb92e87c6fe20ab08bdb2a52bc4f8b95aa2f72820ae902de3757e17"
+    },
+    {
+      "path": "assets/8543-6867.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6867-large_default/bota-con-hebilla-charon-grafito.jpg",
+      "alt": "Bota con hebilla Charon Grafito",
+      "sourceId": "6867",
+      "variantIds": [],
+      "sha256": "430b28709b91bc52f646bd7dc3acd213743c23ec1ccf8d60431c8d35ef962c1d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:05.374Z",
+  "issues": []
+}

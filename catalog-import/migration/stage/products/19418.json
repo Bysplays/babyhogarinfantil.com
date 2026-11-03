@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "19418",
+  "sourceUrl": "https://babyhogarinfantil.com/primera-puesta-bebe/19418-conjunto-algodon-polaina-azul.html",
+  "name": "Conjunto algodón polaina Azul",
+  "brand": "Calamaro",
+  "sku": "2501005",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2025",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "792",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "792",
+  "sourceCategoryName": "Primera puesta 0 a 3 meses",
+  "price": 27.01,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-01-31 15:54:14",
+  "sourceUpdatedAt": "2026-10-27 11:13:59",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "89780",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2501005",
+      "productSku": "2501005",
+      "taxRate": 21,
+      "price": 27.01,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:43.534Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19418-17831.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17831-large_default/conjunto-algodon-polaina-azul.jpg",
+      "alt": "Conjunto algodón polaina Azul",
+      "sourceId": "17831",
+      "variantIds": [],
+      "sha256": "de1c3231794ec2195d6f90a697a9391b8ae835c75f8d848dc53eae2da0bc5f56"
+    },
+    {
+      "path": "assets/19418-17832.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17832-large_default/conjunto-algodon-polaina-azul.jpg",
+      "alt": "Conjunto algodón polaina Azul",
+      "sourceId": "17832",
+      "variantIds": [],
+      "sha256": "22a677fc93b404591412921a1f273b7feb19fedc1a9f40de576548410649765d"
+    },
+    {
+      "path": "assets/19418-17833.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17833-large_default/conjunto-algodon-polaina-azul.jpg",
+      "alt": "Conjunto algodón polaina Azul",
+      "sourceId": "17833",
+      "variantIds": [],
+      "sha256": "d1bf3c0af72676d3bb7dc72e10e77d64d951d93bd92c525ce4ff47bce7b6a1be"
+    },
+    {
+      "path": "assets/19418-17834.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17834-large_default/conjunto-algodon-polaina-azul.jpg",
+      "alt": "Conjunto algodón polaina Azul",
+      "sourceId": "17834",
+      "variantIds": [],
+      "sha256": "c0fdb11afdd3dbfb6d471310c7625b93537abdf05f6d9f0dedeb9595abbf078f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:43.785Z",
+  "issues": []
+}

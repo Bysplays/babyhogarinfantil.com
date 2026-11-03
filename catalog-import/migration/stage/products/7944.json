@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "7944",
+  "sourceUrl": "https://babyhogarinfantil.com/manoplas-y-guantes/7944-manoplas-con-dedo-azul-bebe.html",
+  "name": "Manoplas con dedo Azul bebé",
+  "brand": "Condor",
+  "sku": "1911029",
+  "description": "Manoplas azul celeste de punto con dedo.",
+  "details": "Composición:\n\n94% acrílico, 5% poliamisa, 1% Elastano.\n\nTallas:\n\n00= 3 a 6 meses.\n\n0= 6 a 12 meses\n\n2= 18 a 24 meses\n\nNO PLANCHAR.\n\nNO USAR SECADORA. \n\nNO USAR LEJIAS.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>94% acrílico, 5% poliamisa, 1% Elastano.</p>\n<p>Tallas:</p>\n<p>00= 3 a 6 meses.</p>\n<p>0= 6 a 12 meses</p>\n<p>2= 18 a 24 meses</p>\n<p>NO PLANCHAR.</p>\n<p>NO USAR SECADORA. </p>\n<p>NO USAR LEJIAS.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul bebé",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "788",
+    "709"
+  ],
+  "sourceDefaultCategoryId": "709",
+  "sourceCategoryName": "Manoplas y guantes",
+  "price": 6.5,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:31",
+  "sourceUpdatedAt": "2026-10-27 11:10:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66713",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "1911029",
+      "productSku": "1911029",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:13.040Z"
+    },
+    {
+      "id": "66714",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "1911029",
+      "productSku": "1911029",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:15.060Z"
+    },
+    {
+      "id": "66715",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "1911029",
+      "productSku": "1911029",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:07:17.275Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7944-6048.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6048-large_default/manoplas-con-dedo-azul-bebe.jpg",
+      "alt": "Manoplas con dedo Azul bebé",
+      "sourceId": "6048",
+      "variantIds": [],
+      "sha256": "5e7d8d112c90aca846919f684b018f222c86a9a5b606b88f39989c628a0b15ef"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:07:17.358Z",
+  "issues": []
+}

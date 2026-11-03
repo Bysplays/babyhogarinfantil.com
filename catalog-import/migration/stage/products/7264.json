@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7264",
+  "sourceUrl": "https://babyhogarinfantil.com/bragas-bebe-nina/7264-braguita-punto-de-arroz-rosa.html",
+  "name": "Braguita punto de arroz Rosa",
+  "brand": "Pecesa",
+  "sku": "1807060",
+  "description": "Braguita de punto para usar con los vestido. Talla grande, puedes pedir una talla menos de lo habitual.",
+  "details": "Las braguitas de punto son ideales para usar debajo de los vestidos. Tanto si todavia tu peque usa pañal como sino son el complemento perfecto.  Tallan grandes, porlo que puedes pedir una talla menos de lo que uses habitualmente. Tiene una goma muy suave en la cintura.\n\n \n\nComnposición:\n\nBraguita: 100% Acrílico.\n\n NO USAR SECADORA.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDADO.\n\nEL PUNTO LAVALO SIEMPE DEL REVES. \n\nHECHO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Las braguitas de punto son ideales para usar debajo de los vestidos. Tanto si todavia tu peque usa pañal como sino son el complemento perfecto.  Tallan grandes, porlo que puedes pedir una talla menos de lo que uses habitualmente. Tiene una goma muy suave en la cintura.</p>\n<p> </p>\n<p>Comnposición:</p>\n<p>Braguita: 100% Acrílico.</p>\n<p> NO USAR SECADORA.</p>\n<p>NO USAR LEJIAS.</p>\n<p>LAVAR A 30º RECOMENDADO.</p>\n<p>EL PUNTO LAVALO SIEMPE DEL REVES. </p>\n<p><strong>HECHO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "678"
+  ],
+  "sourceDefaultCategoryId": "678",
+  "sourceCategoryName": "Bragas Bebé niña",
+  "price": 9.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:22",
+  "sourceUpdatedAt": "2026-10-27 11:09:57",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65464",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1807060",
+      "productSku": "1807060",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:52.377Z"
+    },
+    {
+      "id": "65465",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1807060",
+      "productSku": "1807060",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:18:53.919Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7264-10152.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10152-large_default/braguita-punto-de-arroz-rosa.jpg",
+      "alt": "Braguita punto de arroz Rosa",
+      "sourceId": "10152",
+      "variantIds": [],
+      "sha256": "54d856a50afdbbf6d9370daeca729428d96d4a9471e0d15df4f98be62cba3a18"
+    },
+    {
+      "path": "assets/7264-5259.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5259-large_default/braguita-punto-de-arroz-rosa.jpg",
+      "alt": "Braguita punto de arroz Rosa",
+      "sourceId": "5259",
+      "variantIds": [],
+      "sha256": "4f1be0b3c7d325127d405eb73ba94c7752a2934ac4cb9bf463dcc8c225af289c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:18:54.110Z",
+  "issues": []
+}

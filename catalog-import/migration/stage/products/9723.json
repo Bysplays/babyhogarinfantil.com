@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "9723",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/9723-conjunto-algodon-nino-los-angeles-gris.html",
+  "name": "Conjunto algodón niño Los Angeles Gris",
+  "brand": "Talaman",
+  "sku": "2205054",
+  "description": "Conjunto de dos piezas en algodón, compuesto por camiseta de manga corta en color gris con estampado en el pecho y pantalón corto color verde agua con goma en la cintura y cordón ajustable.",
+  "details": "Conjunto de dos piezas en algodón de TALAMAN, firma nacida en 1985 experta en diseño, producción y comercialización de moda infantil. Compuesto por camiseta de manga corta y cuello redondo, en color gris con estampado geométrico en el pecho. Como parte de abajo, pantalón corto verde agua con goma en la cintura y cordón ajustable. Tiene bolsillos delanteros y uno trasero. Un conjunto cómodo, desenfadado y fresquito, ideal para los días de calor y playa! Echa un ojito a nuestro calzado, viseras para el sol y ropa de baño y podrás completarlo con todo lo que necesites!\n\nComposición y cuidados:\n\nCamiseta: 98% algodón, 2% viscosa\n\nPantalón: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Conjunto de dos piezas en algodón de <strong>TALAMAN</strong>, firma nacida en 1985 experta en diseño, producción y comercialización de moda infantil. Compuesto por camiseta de manga corta y cuello redondo, en color gris con estampado geométrico en el pecho. Como parte de abajo, pantalón corto verde agua con <strong>goma en la cintura y cordón ajustable</strong>. Tiene bolsillos delanteros y uno trasero. Un conjunto cómodo, desenfadado y fresquito, ideal para los días de calor y playa! Echa un ojito a nuestro <strong>calzado, viseras para el sol y ropa de baño</strong> y podrás completarlo con todo lo que necesites!</p>\n<p>Composición y cuidados:</p>\n<p>Camiseta: 98% algodón, 2% viscosa</p>\n<p>Pantalón: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 10,
+  "oldPrice": 19.99,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:53",
+  "sourceUpdatedAt": "2026-10-27 11:11:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "69900",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2205054",
+      "productSku": "2205054",
+      "taxRate": 21,
+      "price": 10,
+      "oldPrice": 19.99,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:18.465Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9723-12657.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12657-large_default/conjunto-algodon-nino-los-angeles-gris.jpg",
+      "alt": "Conjunto algodón niño Los Angeles Gris",
+      "sourceId": "12657",
+      "variantIds": [],
+      "sha256": "b976ea98f8629ab77199ea21fb72dfdebb214799fe577de753dd051bf32eef1b"
+    },
+    {
+      "path": "assets/9723-8877.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8877-large_default/conjunto-algodon-nino-los-angeles-gris.jpg",
+      "alt": "Conjunto algodón niño Los Angeles Gris",
+      "sourceId": "8877",
+      "variantIds": [],
+      "sha256": "c247b2a8ba5335c42edad70f8e39c9e9f20e08ae94addf7f8ae753f4c3e89377"
+    },
+    {
+      "path": "assets/9723-8878.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8878-large_default/conjunto-algodon-nino-los-angeles-gris.jpg",
+      "alt": "Conjunto algodón niño Los Angeles Gris",
+      "sourceId": "8878",
+      "variantIds": [],
+      "sha256": "56b0fa40837d6e43970461b38eb1037239c6921c327801901efc213fb8c33629"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:18.631Z",
+  "issues": []
+}

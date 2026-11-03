@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "7640",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nino/7640-pantalon-basico-algodon-azul.html",
+  "name": "Pantalón básico algodón Azul",
+  "brand": "Chicco",
+  "sku": "1902195",
+  "description": "Pantalón AZUL algodón básico. Para todo tiempo, sin felpa interior. Goma ajustable con cordón en cintura y goma en tobillos.",
+  "details": "Pantalón básico rojo que puedes usar tanto para casa, el parque o la guardería. De la firma Italiana CHICCO.\n\nPantalón: 100% algodón.\n\nNO USAR LEJIAS.\n\nLAVAR A 30º RECOMENDABLE.\n\nNO USAR SECADORA.",
+  "sourceDescriptionHtml": "<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;color:#000000;\">Pantalón básico rojo que puedes usar tanto para casa, el parque o la guardería. De la firma Italiana <strong>CHICCO</strong>.</span></p>\n<p><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;color:#000000;\">Pantalón: 100% algodón.</span></p>\n<p style=\"background-size:initial;word-spacing:0px;\"><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;color:#000000;\">NO USAR LEJIAS.</span></p>\n<p style=\"background-size:initial;word-spacing:0px;\"><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;color:#000000;\">LAVAR A 30º RECOMENDABLE.</span></p>\n<p style=\"word-spacing:0px;\"><span style=\"font-size:7.5pt;font-family:Verdana, sans-serif;color:#000000;\">NO USAR SECADORA.</span></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2019",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "735"
+  ],
+  "sourceDefaultCategoryId": "735",
+  "sourceCategoryName": "Pantalones bebé niño",
+  "price": 5,
+  "oldPrice": 9.9946,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:27",
+  "sourceUpdatedAt": "2026-10-27 11:10:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66075",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "1902195",
+      "productSku": "1902195",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:55.941Z"
+    },
+    {
+      "id": "66076",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1902195",
+      "productSku": "1902195",
+      "taxRate": 21,
+      "price": 5,
+      "oldPrice": 9.9946,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:57.611Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7640-5625.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5625-large_default/pantalon-basico-algodon-azul.jpg",
+      "alt": "Pantalón básico algodón Azul",
+      "sourceId": "5625",
+      "variantIds": [],
+      "sha256": "1fa45024ad9f0595fbdea9fedab60cf5012cb394a1c72b7cfc56a20c74a75cb6"
+    },
+    {
+      "path": "assets/7640-5624.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5624-large_default/pantalon-basico-algodon-azul.jpg",
+      "alt": "Pantalón básico algodón Azul",
+      "sourceId": "5624",
+      "variantIds": [],
+      "sha256": "9d2273c44c624e1b3727ab7d338fa114d21a38a6616bb6a08ed89d340a398697"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:57.737Z",
+  "issues": []
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "9306",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-bebe-nina/9306-shorts-bebe-nina-verano-varios.html",
+  "name": "Shorts bebe niña verano Varios",
+  "brand": "Zippy",
+  "sku": "2201003",
+  "description": "Short 100% algodón, en color crudo estampado con plumas de colores. Cintura con goma y cordón de adorno y volantes en las perneras.",
+  "details": "Short de ZIPPY, una de nuestras firmas preferidas! 100% ALGODÓN, en color crudo con estampado de plumas de colores. Con goma en la cintura y lazada de adorno. Las perneras están rematadas con volantes. Una prenda cómoda, fresquita y muy combinable con todas las camisetitas de tu peque! Echa un ojito a nuestras camisetas de manga corta, calzado y bodies interiores y podrás completarlo como más te guste!\n\nComposición y cuidados:\n\nShort: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Short de <strong>ZIPPY</strong>, una de nuestras firmas preferidas! <strong>100% ALGODÓN</strong>, en color crudo con estampado de plumas de colores. Con goma en la cintura y lazada de adorno. Las perneras están rematadas con <strong>volantes</strong>. Una prenda cómoda, fresquita y muy combinable con todas las camisetitas de tu peque! Echa un ojito a nuestras <strong>camisetas de manga corta, calzado y bodies interiores</strong> y podrás completarlo como más te guste!</p>\n<p>Composición y cuidados:</p>\n<p>Short: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2022",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Varios",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "723",
+    "818",
+    "productos-rebajados"
+  ],
+  "sourceDefaultCategoryId": "723",
+  "sourceCategoryName": "Pantalones bebé niña",
+  "price": 6.5,
+  "oldPrice": 12.9954,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:48",
+  "sourceUpdatedAt": "2026-10-27 11:11:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68895",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2201003",
+      "productSku": "2201003",
+      "taxRate": 21,
+      "price": 6.5,
+      "oldPrice": 12.9954,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:15:00.297Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9306-7545.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7545-large_default/shorts-bebe-nina-verano-varios.jpg",
+      "alt": "Shorts bebe niña verano Varios",
+      "sourceId": "7545",
+      "variantIds": [],
+      "sha256": "8b911d9160bcb40600270b8616bee664a6fa1c7fdc90f9f33681bf733ba189ae"
+    },
+    {
+      "path": "assets/9306-7544.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7544-large_default/shorts-bebe-nina-verano-varios.jpg",
+      "alt": "Shorts bebe niña verano Varios",
+      "sourceId": "7544",
+      "variantIds": [],
+      "sha256": "f502944fa62287cf98631f97a886b1e40423f22d705a0be01dcb81150284cb5e"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:15:00.384Z",
+  "issues": []
+}

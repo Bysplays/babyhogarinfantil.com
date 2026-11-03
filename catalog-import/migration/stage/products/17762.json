@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "17762",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/17762-conjunto-pololo-bidasoa-rojo.html",
+  "name": "Conjunto pololo Bidasoa Rojo",
+  "brand": "Calamaro",
+  "sku": "2402028",
+  "description": "",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 36.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-09 15:53:55",
+  "sourceUpdatedAt": "2026-10-27 11:13:35",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "85408",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2402028",
+      "productSku": "2402028",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:21.037Z"
+    },
+    {
+      "id": "85409",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2402028",
+      "productSku": "2402028",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:22.111Z"
+    },
+    {
+      "id": "85411",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2402028",
+      "productSku": "2402028",
+      "taxRate": 21,
+      "price": 36.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:23.242Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17762-16403.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16403-large_default/conjunto-pololo-bidasoa-rojo.jpg",
+      "alt": "Conjunto pololo Bidasoa Rojo",
+      "sourceId": "16403",
+      "variantIds": [],
+      "sha256": "87eb7cec94bce62f36bb75a173789086894ecd7b84d4e3752c3448fb673f75c5"
+    },
+    {
+      "path": "assets/17762-16404.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16404-large_default/conjunto-pololo-bidasoa-rojo.jpg",
+      "alt": "conjunto pololo navidad bebe niño",
+      "sourceId": "16404",
+      "variantIds": [],
+      "sha256": "ffcfed2d89e2a2d69b83e6001fb96a96f9c6175fda78f6ef4c7e6f37c61a55b2"
+    },
+    {
+      "path": "assets/17762-16405.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16405-large_default/conjunto-pololo-bidasoa-rojo.jpg",
+      "alt": "Conjunto pololo Bidasoa Rojo",
+      "sourceId": "16405",
+      "variantIds": [],
+      "sha256": "caabbf833f3aba8f4c9f36ccf9a0160198d4d2179e7d76cdcfc8e64050bbb4ac"
+    },
+    {
+      "path": "assets/17762-16406.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16406-large_default/conjunto-pololo-bidasoa-rojo.jpg",
+      "alt": "Conjunto pololo Bidasoa Rojo",
+      "sourceId": "16406",
+      "variantIds": [],
+      "sha256": "6d1c0c93cc8dce3cfec074d9a8db984347fbe602d076d4de3f98489ddecbdd1c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:23.503Z",
+  "issues": []
+}

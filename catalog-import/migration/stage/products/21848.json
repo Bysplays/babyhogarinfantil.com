@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "id": "21848",
+  "sourceUrl": "https://babyhogarinfantil.com/colegio-san-miguel-vigo/21848-bermuda-infantil-el-castro-san-miguel-azul.html",
+  "name": "Bermuda infantíl El Castro-San Miguel Azul",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2601147",
+  "description": "Bermuda para el uniforme de infantil del colegio EL Castro y San Miguel de Vigo. Si necesitas mas talla puedes verla aquí: 2601152",
+  "details": "Composición Bermuda infantil:\n\n\n\n50% algodón, 50% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición Bermuda infantil:<br /><br /></p>\n<p>50% algodón, 50% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "893",
+    "894"
+  ],
+  "sourceDefaultCategoryId": "894",
+  "sourceCategoryName": "Colegio San Miguel Vigo",
+  "price": 16.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2026-03-05 23:54:20",
+  "sourceUpdatedAt": "2026-10-27 11:15:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 50,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "230",
+          "label": "5"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "129032",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "2601147",
+      "productSku": "2601147",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:42.923Z"
+    },
+    {
+      "id": "129033",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "2601147",
+      "productSku": "2601147",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 10,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:45.197Z"
+    },
+    {
+      "id": "129034",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "2601147",
+      "productSku": "2601147",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:48.267Z"
+    },
+    {
+      "id": "129035",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "2601147",
+      "productSku": "2601147",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 3,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:50.802Z"
+    },
+    {
+      "id": "129036",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2601147",
+      "productSku": "2601147",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:53.298Z"
+    },
+    {
+      "id": "129037",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2601147",
+      "productSku": "2601147",
+      "taxRate": 21,
+      "price": 16.99,
+      "oldPrice": null,
+      "quantity": 22,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:31:56.739Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21848-21227.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21227-large_default/bermuda-infantil-el-castro-san-miguel-azul.jpg",
+      "alt": "Bermuda pantalón corto infantil San Miguel Azul",
+      "sourceId": "21227",
+      "variantIds": [],
+      "sha256": "8deee67502d99dcc497da228f5e4eef307752b73e5bb2a79e83b775d2418f43c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:31:56.805Z",
+  "issues": []
+}

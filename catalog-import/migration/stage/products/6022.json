@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "id": "6022",
+  "sourceUrl": "https://babyhogarinfantil.com/leotardos-invierno/6022-leotardo-invierno-calado-lateral-gris-claro.html",
+  "name": "Leotardo INVIERNO calado lateral Gris claro",
+  "brand": "Condor",
+  "sku": "387",
+  "description": "Leotardos GRIS CLARO de algodón cálido con calado en el lateral. Tallas para bebé hasta 6 años. Disponible en varios colores.",
+  "details": "Embellecimiento Elegante para Tu Pequeña\n\nEl Leotardo INVIERNO calado lateral Gris claro es el perfecto accesorio de estilo para tu pequeña. Su suave textura y detallado diseño calado lateral le brindan a tu bebé el toque elegante y confortable que necesita en esta temporada de invierno.\n\n\nFusión de Calidez y Comodidad\n\nHecho con materiales de alta calidad, el Leotardo INVIERNO no solo resalta la belleza de tu pequeña sino que también le proporciona la delicada calidez que necesita en las estaciones frías. Es altamente resistente y diseñado para ofrecer confort optimo en todo momento.\n\n\nUna Elegancia que Sobresale\n\nEl ligero tono gris claro del Leotardo INVIERNO calado lateral añade un aire de elegancia y sutileza. Este leotardo es la elección perfecta para el guardarropa de invierno de tu bebé, garantizando que tu pequeño luzca adorable y estilizado. \n\n\n¡Haz clic aquí para agregar este maravilloso leotardo a tu carrito ahora!",
+  "sourceDescriptionHtml": "<h2>Embellecimiento Elegante para Tu Pequeña</h2>\n<p>El Leotardo INVIERNO calado lateral Gris claro es el perfecto accesorio de estilo para tu pequeña. Su suave textura y detallado diseño calado lateral le brindan a tu bebé el toque elegante y confortable que necesita en esta temporada de invierno.</p>\n\n<h2>Fusión de Calidez y Comodidad</h2>\n<p>Hecho con materiales de alta calidad, el Leotardo INVIERNO no solo resalta la belleza de tu pequeña sino que también le proporciona la delicada calidez que necesita en las estaciones frías. Es altamente resistente y diseñado para ofrecer confort optimo en todo momento.</p>\n\n<h2>Una Elegancia que Sobresale</h2>\n<p>El ligero tono gris claro del Leotardo INVIERNO calado lateral añade un aire de elegancia y sutileza. Este leotardo es la elección perfecta para el guardarropa de invierno de tu bebé, garantizando que tu pequeño luzca adorable y estilizado. </p>\n\n<a href=\"addToCart.html\">¡Haz clic aquí para agregar este maravilloso leotardo a tu carrito ahora!</a>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Claro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "840",
+    "665",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "665",
+  "sourceCategoryName": "Leotardos Invierno",
+  "price": 14,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:07",
+  "sourceUpdatedAt": "2026-10-27 11:08:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 6,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "254",
+          "label": "000"
+        },
+        {
+          "id": "238",
+          "label": "00"
+        },
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "255",
+          "label": "1"
+        },
+        {
+          "id": "227",
+          "label": "2"
+        },
+        {
+          "id": "228",
+          "label": "3"
+        },
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "232",
+          "label": "8"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "62241",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "254",
+          "group": "Tamaño",
+          "value": "000"
+        }
+      ],
+      "sku": "296XA512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:54.462Z"
+    },
+    {
+      "id": "62242",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "296XB512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:58.175Z"
+    },
+    {
+      "id": "79655",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "296XC512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:02.357Z"
+    },
+    {
+      "id": "79656",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "255",
+          "group": "Tamaño",
+          "value": "1"
+        }
+      ],
+      "sku": "296XD512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 14,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:04.506Z"
+    },
+    {
+      "id": "144043",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "227",
+          "group": "Tamaño",
+          "value": "2"
+        }
+      ],
+      "sku": "296XE512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:06.676Z"
+    },
+    {
+      "id": "79657",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "228",
+          "group": "Tamaño",
+          "value": "3"
+        }
+      ],
+      "sku": "296XF512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 17,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:10.115Z"
+    },
+    {
+      "id": "144044",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "296XG512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:12.998Z"
+    },
+    {
+      "id": "144045",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "296XH512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:16.520Z"
+    },
+    {
+      "id": "144046",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "296XI512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:19.895Z"
+    },
+    {
+      "id": "144047",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "296XJ512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:23.854Z"
+    },
+    {
+      "id": "144048",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "296XK512",
+      "productSku": "387",
+      "taxRate": 21,
+      "price": 13,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:25:26.626Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6022-3872.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3872-large_default/leotardo-invierno-calado-lateral-gris-claro.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Gris claro",
+      "sourceId": "3872",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6022-9288.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9288-large_default/leotardo-invierno-calado-lateral-gris-claro.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Gris claro",
+      "sourceId": "9288",
+      "variantIds": [],
+      "sha256": "a7077216be78239764d6bf8dbb4a13c4121c784aa9602121fad9e66a6084c1f6"
+    },
+    {
+      "path": "assets/6022-3871.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/3871-large_default/leotardo-invierno-calado-lateral-gris-claro.jpg",
+      "alt": "Leotardo INVIERNO calado lateral Gris claro",
+      "sourceId": "3871",
+      "variantIds": [],
+      "sha256": "898248710892fce61d06930c7e516bf2e94109cd74df23d0195b73d3933edc24"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:25:26.801Z",
+  "issues": []
+}

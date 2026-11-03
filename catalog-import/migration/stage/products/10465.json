@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "10465",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/10465-conjunto-bebe-nino-familia-penelope-azul.html",
+  "name": "Conjunto bebe niño familia PENELOPE Azul",
+  "brand": "Yoedu",
+  "sku": "2301269",
+  "description": "Imagina a tu pequeño luciendo el Conjunto bebe niño familia PENELOPE Azul. Un conjunto hecho con amor que aporta comodidad y estilo al guardarropa de tu bebé. Sus colores azules suaves deleitan la vista y transmiten serenidad. La calidad de su tejido garantiza una suave caricia a la piel de tu bebé, mientras que su diseño exclusivo destila sofisticación y elegancia. Apropiado para cualquier ocasión, este versátil conjunto hace que tu bebé sea el centro de atención. Con su compra, regalas sonrisas a tu niño y momentos irresistibles de \"foto-listo\". ¡Haz que tu bebé luzca adorable con el Conjunto bebe niño familia PENELOPE Azul!",
+  "details": "Comodidad y Suavidad Incomparable\n\nSumérgete en la ternura con el conjunto de bebé niño familia PENELOPE Azul. Hecho con tejidos de alta calidad, este conjunto garantiza la suavidad y comodidad que tu bebé necesita. Sus texturas amigables con la piel son perfectas para los delicados mimos de los recién nacidos, protegiendo su sensible piel de cualquier irritación.\n\n\n\nDiseño Encantador y Atractivo\n\nDeja huella con el encanto que inspira el diseño azul del conjunto de bebé PENELOPE. Este adorable juego de ropita es la elección ideal para dejar lucir a tu pequeño con un estilo lleno de gracia. Con una paleta de colores delicada pero moderna, este traje le dará un toque tierno y juvenil a cualquier ocasión.\n\n\n\nPerfecto para Cualquier Evento\n\nDesde una salida familiar hasta instantáneas memorables, el conjunto de bebé niño familia PENELOPE Azul es perfecto para cualquier ocasión. Los pequeños detalles en su diseño y la versatilidad en su uso hacen que este conjunto sea el elección ideal para celebraciones especiales o simplemente para el día a día. Tus momentos juntos serán aún más dulces y memorables con este adorable juego de ropita.\n\nAhora es el momento perfecto para añadir el conjunto de bebé niño familia PENELOPE Azul a tu cesta de compras. Dale a tu pequeño un capricho lleno de ternura, comodidad y estilo. ¡Compra ahora!",
+  "sourceDescriptionHtml": "<p></p>\n<h2>Comodidad y Suavidad Incomparable</h2>\n<p>Sumérgete en la ternura con el conjunto de bebé niño familia PENELOPE Azul. Hecho con tejidos de alta calidad, este conjunto garantiza la suavidad y comodidad que tu bebé necesita. Sus texturas amigables con la piel son perfectas para los delicados mimos de los recién nacidos, protegiendo su sensible piel de cualquier irritación.</p>\n<p></p>\n<h2>Diseño Encantador y Atractivo</h2>\n<p>Deja huella con el encanto que inspira el diseño azul del conjunto de bebé PENELOPE. Este adorable juego de ropita es la elección ideal para dejar lucir a tu pequeño con un estilo lleno de gracia. Con una paleta de colores delicada pero moderna, este traje le dará un toque tierno y juvenil a cualquier ocasión.</p>\n<p></p>\n<h2>Perfecto para Cualquier Evento</h2>\n<p>Desde una salida familiar hasta instantáneas memorables, el conjunto de bebé niño familia PENELOPE Azul es perfecto para cualquier ocasión. Los pequeños detalles en su diseño y la versatilidad en su uso hacen que este conjunto sea el elección ideal para celebraciones especiales o simplemente para el día a día. Tus momentos juntos serán aún más dulces y memorables con este adorable juego de ropita.</p>\n<p>Ahora es el momento perfecto para añadir el conjunto de bebé niño familia PENELOPE Azul a tu cesta de compras. Dale a tu pequeño un capricho lleno de ternura, comodidad y estilo. ¡Compra ahora!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 53.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-07 08:12:18",
+  "sourceUpdatedAt": "2026-10-27 11:12:28",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72177",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301269",
+      "productSku": "2301269",
+      "taxRate": 21,
+      "price": 53.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:32.720Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10465-13617.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13617-large_default/conjunto-bebe-nino-familia-penelope-azul.jpg",
+      "alt": "Conjunto bebe niño familia PENELOPE Azul",
+      "sourceId": "13617",
+      "variantIds": [],
+      "sha256": "8d4cfd8c66e0f57836f4938783e2bcdbdab2724d8ef3e4479fa90613daa99489"
+    },
+    {
+      "path": "assets/10465-15028.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15028-large_default/conjunto-bebe-nino-familia-penelope-azul.jpg",
+      "alt": "Conjunto bebe niño familia PENELOPE Azul",
+      "sourceId": "15028",
+      "variantIds": [],
+      "sha256": "5a0668f940b663e7207f5a1ec329adc73c9459f1cef6653d3b4f09b491a1f5fd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:32.837Z",
+  "issues": []
+}

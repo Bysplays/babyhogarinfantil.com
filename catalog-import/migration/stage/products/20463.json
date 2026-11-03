@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "20463",
+  "sourceUrl": "https://babyhogarinfantil.com/pijamas-bebe-nino/20463-pijama-tundosado-bebe-cereal.html",
+  "name": "Pijama tundosado bebé Cereal",
+  "brand": "Mayoral",
+  "sku": "2502038",
+  "description": "Pijama entero para bebé. Tiene cierres de botones a presión en la parte delantera y en la entrepierna para facilitar la puesta. Tacto suave y cálido.",
+  "details": "COMPOSICIÓN\n\n72% Algodón\n\n24% Poliéster\n\n2% Viscosa\n\n1% Poliamida\n\n1% Elastano",
+  "sourceDescriptionHtml": "<p>COMPOSICIÓN</p>\n<p>72% Algodón</p>\n<p>24% Poliéster</p>\n<p>2% Viscosa</p>\n<p>1% Poliamida</p>\n<p>1% Elastano</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Cereal",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "778"
+  ],
+  "sourceDefaultCategoryId": "778",
+  "sourceCategoryName": "Pijamas bebé niño",
+  "price": 18.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:30",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94758",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502038",
+      "productSku": "2502038",
+      "taxRate": 21,
+      "price": 18.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:26.011Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20463-19873.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19873-large_default/pijama-tundosado-bebe-cereal.jpg",
+      "alt": "Pijama tundosado bebé Cereal",
+      "sourceId": "19873",
+      "variantIds": [],
+      "sha256": "4494b6b695b76026f7d57feea6442345565d998485fb4858c5e00a2ed4d61bbc"
+    },
+    {
+      "path": "assets/20463-19874.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19874-large_default/pijama-tundosado-bebe-cereal.jpg",
+      "alt": "Pijama tundosado bebé Cereal",
+      "sourceId": "19874",
+      "variantIds": [],
+      "sha256": "3f67b08a70ac63af6768c9ee7380e2054808c30438ae5181df9fb9e96d10e0b8"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:26.181Z",
+  "issues": []
+}

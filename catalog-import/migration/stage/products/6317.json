@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "6317",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nina/6317-botita-piel-charol-con-cordon-charol-rojo.html",
+  "name": "Botita piel charol con cordón Charol Rojo",
+  "brand": "Caminito",
+  "sku": "1095",
+  "description": "Botitas de piel con acabado charol, en color rojo, y cierre de cordones.",
+  "details": "Botitas de piel en acabado de charol de la firma CAMINITO, especialistas en calzado. Cierre con cordones.",
+  "sourceDescriptionHtml": "<p>Botitas de piel en acabado de charol de la firma CAMINITO, especialistas en calzado. Cierre con cordones. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charol Rojo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "666",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "666",
+  "sourceCategoryName": "Calzado bebe niña",
+  "price": 29,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:11",
+  "sourceUpdatedAt": "2026-10-27 11:08:43",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "236",
+          "label": "16"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63303",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "1095",
+      "productSku": "1095",
+      "taxRate": 21,
+      "price": 29,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:54.022Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6317-14146.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14146-large_default/botita-piel-charol-con-cordon-charol-rojo.jpg",
+      "alt": "Botita piel charol con cordón Charol Rojo",
+      "sourceId": "14146",
+      "variantIds": [],
+      "sha256": "4e565653a58137d7b0e59169ce34e22efbb80fe2b3a5e41850b28e9795f0c71d"
+    },
+    {
+      "path": "assets/6317-14147.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14147-large_default/botita-piel-charol-con-cordon-charol-rojo.jpg",
+      "alt": "Botita piel charol con cordón Charol Rojo",
+      "sourceId": "14147",
+      "variantIds": [],
+      "sha256": "24e1f002cb384d5f5b7bd95165ed8345df47052ee0491454a1fd4c630bf6e911"
+    },
+    {
+      "path": "assets/6317-14148.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14148-large_default/botita-piel-charol-con-cordon-charol-rojo.jpg",
+      "alt": "Botita piel charol con cordón Charol Rojo",
+      "sourceId": "14148",
+      "variantIds": [],
+      "sha256": "e778940eb986e78418afd5934ed06ce04ec0aba5fcf36337a48771313d5b3eb5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:54.180Z",
+  "issues": []
+}

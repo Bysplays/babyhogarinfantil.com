@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "20973",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nino/20973-chaqueta-larga-bebe-nino-denim.html",
+  "name": "Chaqueta larga bebe niño Denim",
+  "brand": "Calamaro",
+  "sku": "2502013",
+  "description": "Chaqueta de punto, abrocha con botones.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\nChaqueta: 86 Poliéster, 10% viscosa, 4% elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 86 Poliéster, 10% viscosa, 4% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Denim",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "839"
+  ],
+  "sourceDefaultCategoryId": "839",
+  "sourceCategoryName": "Chaquetas bebé niño",
+  "price": 18.76,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-09-26 08:33:31",
+  "sourceUpdatedAt": "2026-10-27 11:14:25",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        },
+        {
+          "id": "246",
+          "label": "24 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96044",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:12.904Z"
+    },
+    {
+      "id": "96045",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:14.201Z"
+    },
+    {
+      "id": "96046",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:15.524Z"
+    },
+    {
+      "id": "96047",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:16.828Z"
+    },
+    {
+      "id": "96048",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2502013",
+      "productSku": "2502013",
+      "taxRate": 21,
+      "price": 18.76,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:55:18.013Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20973-19642.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19642-large_default/chaqueta-larga-bebe-nino-denim.jpg",
+      "alt": "Chaqueta larga bebe niño Denim",
+      "sourceId": "19642",
+      "variantIds": [],
+      "sha256": "57f485af7cc751f66f3382611dac332e878aa82aaa54c0a73bff35cc0d268a35"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:55:18.066Z",
+  "issues": []
+}

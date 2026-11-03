@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "19608",
+  "sourceUrl": "https://babyhogarinfantil.com/-primera-puesta-0-a-3/19608-conjunto-tricot-mini-bear-gris.html",
+  "name": "Conjunto tricot mini bear Gris",
+  "brand": "Yatsi",
+  "sku": "2501125",
+  "description": "Sorprende a tu pequeño con el maravilloso Conjunto Tricot Mini Bear en gris. Hecho con amor para proporcionar comodidad sin igual, este conjunto es la elección perfecta para esas primeras puestas preciosas de 0 a 3 meses. El Gris sereno agrega un toque de sofisticación, garantizando que tu bebé luzca adorable en todo momento. Este Conjunto Tricot Mini Bear no es solo una prenda de ropa, sino un recordatorio de esos primeros días inolvidables. Imagina a tu príncipe arrullándose en suavidad con este conjunto. ¡No te lo pierdas!",
+  "details": "Cómodo y Elegante\n\nEl Conjunto tricot mini bear Gris es un atuendo perfecto para los más pequeños de la casa. Con su diseño moderno y sofisticado, brinda a los pequeños la flexibilidad y la comodidad necesarias para explorar y jugar sin restricciones. Sus puntadas delicadas aseguran una larga durabilidad y una apropiada protección a la piel sensible de los niños.\n\n\nExquisita Tela y Hecho con Amor\n\nEste conjunto, hecho con hilo de tricot suave y acogedor, ofrece una cálida comodidad para los días más frescos. La sensación suave y esponjosa de nuestras prendas contra la piel de tu niño proporcionará una comodidad inigualable. Además, cada pieza ha sido hecha a mano con un cuidado excepcional, asegurando una calidad indiscutible y un amor palpable.\n\n\nMágico Encanto del Mini Bear\n\nEl embrujo del oso miniatura que adorna el atuendo capturará la imaginación de todos los niños. Este encantador detalle se añade no solo como un elemento de moda, sino también para incitar el juego y la creatividad en los niños, haciendo que cada día sea una nueva aventura.\n\n\nAdorna a tu hijo con el Conjunto tricot mini bear Gris. Garantiza su felicidad, comodidad y estilo. No esperes más, agrega este precioso conjunto al carrito de compras ahora y llena de sonrisas el armario de tu niño.",
+  "sourceDescriptionHtml": "<h2>Cómodo y Elegante</h2>\n<p>El Conjunto tricot mini bear Gris es un atuendo perfecto para los más pequeños de la casa. Con su diseño moderno y sofisticado, brinda a los pequeños la flexibilidad y la comodidad necesarias para explorar y jugar sin restricciones. Sus puntadas delicadas aseguran una larga durabilidad y una apropiada protección a la piel sensible de los niños.</p>\n\n<h2>Exquisita Tela y Hecho con Amor</h2>\n<p>Este conjunto, hecho con hilo de tricot suave y acogedor, ofrece una cálida comodidad para los días más frescos. La sensación suave y esponjosa de nuestras prendas contra la piel de tu niño proporcionará una comodidad inigualable. Además, cada pieza ha sido hecha a mano con un cuidado excepcional, asegurando una calidad indiscutible y un amor palpable.</p>\n\n<h2>Mágico Encanto del Mini Bear</h2>\n<p>El embrujo del oso miniatura que adorna el atuendo capturará la imaginación de todos los niños. Este encantador detalle se añade no solo como un elemento de moda, sino también para incitar el juego y la creatividad en los niños, haciendo que cada día sea una nueva aventura.</p>\n\n<p>Adorna a tu hijo con el Conjunto tricot mini bear Gris. Garantiza su felicidad, comodidad y estilo. No esperes más, agrega este precioso conjunto al carrito de compras ahora y llena de sonrisas el armario de tu niño.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2025",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "819",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "819",
+  "sourceCategoryName": "Primera puesta 0 a 3",
+  "price": 24.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-03-06 15:56:32",
+  "sourceUpdatedAt": "2026-10-27 11:14:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "91068",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2501125",
+      "productSku": "2501125",
+      "taxRate": 21,
+      "price": 24.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:51:41.509Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19608-18146.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18146-large_default/conjunto-tricot-mini-bear-gris.jpg",
+      "alt": "Conjunto tricot mini bear Gris",
+      "sourceId": "18146",
+      "variantIds": [],
+      "sha256": "e64f8a8c6b8632fe7bf37f6f74f884ef954b7b1e6d29488e7ab739c376ffff3d"
+    },
+    {
+      "path": "assets/19608-18147.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18147-large_default/conjunto-tricot-mini-bear-gris.jpg",
+      "alt": "Conjunto tricot mini bear Gris",
+      "sourceId": "18147",
+      "variantIds": [],
+      "sha256": "55778ebc385230c4907bfc7f03b991ff18ac90429c88f54a6a16107a6172262a"
+    },
+    {
+      "path": "assets/19608-18148.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/18148-large_default/conjunto-tricot-mini-bear-gris.jpg",
+      "alt": "Conjunto tricot mini bear Gris",
+      "sourceId": "18148",
+      "variantIds": [],
+      "sha256": "cbea04f619d8ddab3c580bfcf699a345905277980a482776acf8e809d6645659"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:51:41.655Z",
+  "issues": []
+}

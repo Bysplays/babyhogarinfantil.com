@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "12822",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-nino/12822-conjunto-nino-surf-azul.html",
+  "name": "Conjunto niño SURF Azul",
+  "brand": "Talaman",
+  "sku": "2301335",
+  "description": "Conjunto de dos piezas de algodón, compuesto por camiseta de manga corta y pantalón corto\n\nComposición:\n\nCamiseta: 100% algodón.\n\nPantalón: 100% algodón.\n\nHECHO EN INDIA",
+  "details": "```\n\nPerfecto para los pequeños surfistas\n\nEl Conjunto Niño SURF Azul es el kit perfecto para tu pequeño amante del mar. Diseñado para enfrentar las olas con estilo, este conjunto es perfecto para días de playa o las vacaciones de verano. Con su color azul vibrante, tu pequeño resaltaría entre la multitud mientras captura la esencia veraniega.\n\n\nComodidad en cada movimiento\n\nDiseñado pensando en la comodidad de los peques, la suavidad de sus materiales proporciona una sensación agradable al tacto, permitiéndonos asegurar que se sentirá fresco y cómodo todo el día. Además, su versatilidad significa que es igualmente ideal para jugar en la arena, aprender a surfear o simplemente disfrutar de un buen día al sol.\n\n\nCalidad que se siente\n\nTodos los padres querrán lo mejor para sus hijos y nuestra tienda es sinónimo de calidad. El Conjunto Niño Surf Azul no es una excepción. Hecho de materiales duraderos y resistentes, este conjunto continuará impresionando mucho después del verano. Su alta durabilidad garantiza que estará listo para todas las aventuras de playa de tu pequeño.\n \n\nNo pierdas la oportunidad de tener el Conjunto Niño Surf Azul, perfecto para esos memorables días de verano. ¡Añade este conjunto imprescindible a tu carrito hoy y prepárate para capturar esos magníficos momentos de diversión en la playa!\n\n```",
+  "sourceDescriptionHtml": "<p>```\n</p><h2>Perfecto para los pequeños surfistas</h2>\n<p>El Conjunto Niño SURF Azul es el kit perfecto para tu pequeño amante del mar. Diseñado para enfrentar las olas con estilo, este conjunto es perfecto para días de playa o las vacaciones de verano. Con su color azul vibrante, tu pequeño resaltaría entre la multitud mientras captura la esencia veraniega.</p>\n\n<h2>Comodidad en cada movimiento</h2>\n<p>Diseñado pensando en la comodidad de los peques, la suavidad de sus materiales proporciona una sensación agradable al tacto, permitiéndonos asegurar que se sentirá fresco y cómodo todo el día. Además, su versatilidad significa que es igualmente ideal para jugar en la arena, aprender a surfear o simplemente disfrutar de un buen día al sol.</p>\n\n<h2>Calidad que se siente</h2>\n<p>Todos los padres querrán lo mejor para sus hijos y nuestra tienda es sinónimo de calidad. El Conjunto Niño Surf Azul no es una excepción. Hecho de materiales duraderos y resistentes, este conjunto continuará impresionando mucho después del verano. Su alta durabilidad garantiza que estará listo para todas las aventuras de playa de tu pequeño.</p> \n\n<p style=\"font-size:20px;\"><em>No pierdas la oportunidad de tener el Conjunto Niño Surf Azul, perfecto para esos memorables días de verano. ¡Añade este conjunto imprescindible a tu carrito hoy y prepárate para capturar esos magníficos momentos de diversión en la playa!</em></p>\n```",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "717",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "717",
+  "sourceCategoryName": "Conjuntos Niño",
+  "price": 22.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-29 16:18:01",
+  "sourceUpdatedAt": "2026-10-27 11:12:32",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "72351",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2301335",
+      "productSku": "2301335",
+      "taxRate": 21,
+      "price": 22.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:14.678Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/12822-13758.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13758-large_default/conjunto-nino-surf-azul.jpg",
+      "alt": "Conjunto niño SURF Azul",
+      "sourceId": "13758",
+      "variantIds": [],
+      "sha256": "200338a30914a4617ae550acc240815608eaf9fbb1afb388726e285db1f62d03"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:21:14.733Z",
+  "issues": []
+}

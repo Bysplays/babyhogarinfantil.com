@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "19064",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines/19064-calcetin-corto-mezcla-lana-nina-rosa-empolvado.html",
+  "name": "Calcetín corto mezcla lana niña Rosa Empolvado",
+  "brand": "Condor",
+  "sku": "2402274",
+  "description": "Calcetín fantasía para niña, con lana cálido para el invierno.\n\nHECHO EN ESPAÑA",
+  "details": "Composición:\n\n45% Lana.\n\n45% Acrílico.\n\n9% Poliamida.\n\n1% Elastano.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>45% Lana.</p>\n<p>45% Acrílico.</p>\n<p>9% Poliamida.</p>\n<p>1% Elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa Empolvado",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "671",
+    "840"
+  ],
+  "sourceDefaultCategoryId": "671",
+  "sourceCategoryName": "Calcetines",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-11-14 08:34:12",
+  "sourceUpdatedAt": "2026-10-27 11:13:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "238",
+          "label": "00"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "88644",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "238",
+          "group": "Tamaño",
+          "value": "00"
+        }
+      ],
+      "sku": "2402274",
+      "productSku": "2402274",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:11.959Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/19064-17597.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17597-large_default/calcetin-corto-mezcla-lana-nina-rosa-empolvado.jpg",
+      "alt": "Calcetín corto mezcla lana niña Rosa Empolvado",
+      "sourceId": "17597",
+      "variantIds": [],
+      "sha256": "51e8d6a88b7474233ec389bb51f42f4adaacba0e3a0f70ff864b12837e06fd58"
+    },
+    {
+      "path": "assets/19064-17598.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17598-large_default/calcetin-corto-mezcla-lana-nina-rosa-empolvado.jpg",
+      "alt": "Calcetín corto mezcla lana niña Rosa Empolvado",
+      "sourceId": "17598",
+      "variantIds": [],
+      "sha256": "ba0550627bc975c8077371437dcf9af6c67cd14722302bd8806e068b6879cddf"
+    },
+    {
+      "path": "assets/19064-17599.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/17599-large_default/calcetin-corto-mezcla-lana-nina-rosa-empolvado.jpg",
+      "alt": "Calcetín corto mezcla lana niña Rosa Empolvado",
+      "sourceId": "17599",
+      "variantIds": [],
+      "sha256": "62968d446836fb10b98cfe961e260650a5da447b6783926692532d02c6c1ede6"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:12.129Z",
+  "issues": []
+}

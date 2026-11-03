@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "7554",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-bebe-nino/7554-sudadera-bebe-dinosaurios-gris.html",
+  "name": "Sudadera bebé Dinosaurios Gris",
+  "brand": "Zippy",
+  "sku": "1902042",
+  "description": "Sudadera gris y verde, con felpa interior",
+  "details": "Sudadera super chula de una de nuestras firmas favoritas, ZIPPY. Con cuello redondo y puños en las mangas. Fondo gris, con el cuello las mangas y los bajos en verde, y estampado de dinosaurios en azul marino. Con felpa interior, super calentita y amorosa para los días de frío. Una prenda muy versátil que podrás combinar con pantalones de diversos colores y con vaqueros. Echa un vistazo a nuestra sección de pantalones y podrás completar el look!\n\nComposición y cuidados: \n\nSudadera: 52% algodón, 48% poliéster\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO SECAR EN SECADORA\n\nSE PUEDE LAVAR EN SECO\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Sudadera super chula de una de nuestras firmas favoritas, <strong>ZIPPY</strong>. Con cuello redondo y puños en las mangas. Fondo gris, con el cuello las mangas y los bajos en verde, y estampado de dinosaurios en azul marino. <span style=\"color:#777777;font-family:robotoregular;font-size:14px;\">Con felpa interior, super calentita y amorosa para los días de frío. Una prenda muy versátil que podrás combinar con pantalones de diversos colores y con vaqueros. Echa un vistazo a nuestra sección de pantalones y podrás completar el look!</span></p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Composición y cuidados: </p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">Sudadera: 52% algodón, 48% poliéster</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO USAR LEJÍAS</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">NO SECAR EN SECADORA</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">SE PUEDE LAVAR EN SECO</p>\n<p style=\"margin:15px 0px 0px;padding:0px;color:#777777;font-family:robotoregular;font-size:14px;\">PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "820",
+    "741"
+  ],
+  "sourceDefaultCategoryId": "741",
+  "sourceCategoryName": "Sudaderas y jerseys bebé niño",
+  "price": 14.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:26",
+  "sourceUpdatedAt": "2026-10-27 11:10:10",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "65922",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "1902042",
+      "productSku": "1902042",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:49.757Z"
+    },
+    {
+      "id": "65923",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "1902042",
+      "productSku": "1902042",
+      "taxRate": 21,
+      "price": 14.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:51.131Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7554-5512.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5512-large_default/sudadera-bebe-dinosaurios-gris.jpg",
+      "alt": "Sudadera bebé Dinosaurios Gris",
+      "sourceId": "5512",
+      "variantIds": [],
+      "sha256": "52deafce912b61e141b13e54c6ecb4ff1761f5f915b97dac5be5b9277bf1277b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:51.201Z",
+  "issues": []
+}

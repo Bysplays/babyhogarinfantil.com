@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "17911",
+  "sourceUrl": "https://babyhogarinfantil.com/mochilas-y-bolsas-merienda/17911-mochila-guarderia-azul.html",
+  "name": "Mochila guarderia Azul",
+  "brand": "Mayoral",
+  "sku": "2402071",
+  "description": "Abran paso para la maravillosa Mochila Guardería Azul, la compañera perfecta para las aventuras escolares de tus pequeños. Creada para ser tan resistente y vibrante como tu hijo, está diseñada con una combinación de comodidad y estilo. Su color azul alegre y brillante despierta la imaginación, ¡convirtiéndola en un imprescindible para el primer día de guardería de tu pequeño! Como parte de nuestros complementos de alta calidad, esta mochila no sólo lleva libros, sino también maravillosos recuerdos. Compra la Mochila Guardería Azul hoy, y deja que tu hijo juegue, aprenda y crezca con estilo. Dimensiones de 20,5 Largo x 26,5 Alto x 9 Ancho(Profundidad) cm.",
+  "details": "Descubre el Mundo Azul\n\nEn un perfecto tono azul celeste, esta mochila de guardería es ideal para los más pequeños. Innovadora y moderna, con un diseño único y capturador de atención. Breve y ligera, se adapta con comodidad a su pequeño. Una increíble combinación de funcionalidad y estilo, perfecta para llevar todos los esenciales de los niños.\n\nComodidad y Estilo a la Par\n\nEsta mochila para niños es todo acerca de comodidad y estilo. Sus correas acolchadas permiten una distribución de peso equilibrada. Hecha con materiales de alta calidad, es resistente a cualquier aventura. Su hermoso diseño de tonos azules capta el alma de la aventura y la imaginación de cualquier niño, convirtiéndola en la elección perfecta para llevar a la guardería o a cualquier otra aventura.\n\nTu aliado perfecto en todas las aventuras\n\nCon múltiples compartimentos para mantener todo organizado y a mano, esta mochila para niños es perfecta para viajes de guardería, excursiones y más. Con su encanto y características útiles, esta mochila azul se convierte rápidamente en un favorito entre los niños y los padres. Despierta el sentido de la independencia y la aventura de tu pequeño con la mochila de guardería azul.\n\nAsegúrate de no perder la oportunidad y agrega esta maravillosa mochila a tu carrito ahora. ¡Haga que cada día sea una nueva aventura con su pequeño aventurero!\n\nComposición:\n\nMochila: 100% poliéster.",
+  "sourceDescriptionHtml": "<h2>Descubre el Mundo Azul</h2>\n<p>En un perfecto tono azul celeste, esta mochila de guardería es ideal para los más pequeños. Innovadora y moderna, con un diseño único y capturador de atención. Breve y ligera, se adapta con comodidad a su pequeño. Una increíble combinación de funcionalidad y estilo, perfecta para llevar todos los esenciales de los niños.</p>\n<h2>Comodidad y Estilo a la Par</h2>\n<p>Esta mochila para niños es todo acerca de comodidad y estilo. Sus correas acolchadas permiten una distribución de peso equilibrada. Hecha con materiales de alta calidad, es resistente a cualquier aventura. Su hermoso diseño de tonos azules capta el alma de la aventura y la imaginación de cualquier niño, convirtiéndola en la elección perfecta para llevar a la guardería o a cualquier otra aventura.</p>\n<h2>Tu aliado perfecto en todas las aventuras</h2>\n<p>Con múltiples compartimentos para mantener todo organizado y a mano, esta mochila para niños es perfecta para viajes de guardería, excursiones y más. Con su encanto y características útiles, esta mochila azul se convierte rápidamente en un favorito entre los niños y los padres. Despierta el sentido de la independencia y la aventura de tu pequeño con la mochila de guardería azul.</p>\n<p><strong>Asegúrate de no perder la oportunidad y agrega esta maravillosa mochila a tu carrito ahora. ¡Haga que cada día sea una nueva aventura con su pequeño aventurero!</strong></p>\n<p>Composición:</p>\n<p>Mochila: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "704",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "704",
+  "sourceCategoryName": "Mochilas y bolsas merienda",
+  "price": 27.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-20 08:34:33",
+  "sourceUpdatedAt": "2026-10-27 11:13:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94036",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "12201XA18698",
+      "productSku": "2402071",
+      "taxRate": 21,
+      "price": 27.99,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:07.087Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17911-16188.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16188-large_default/mochila-guarderia-azul.jpg",
+      "alt": "Mochila guarderia Azul",
+      "sourceId": "16188",
+      "variantIds": [],
+      "sha256": "4afb21a57b9afcde7618bd5d0e638afb32293ad92b36c0feb776e70c27ad2bf2"
+    },
+    {
+      "path": "assets/17911-16189.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16189-large_default/mochila-guarderia-azul.jpg",
+      "alt": "mochila guarderia azul osito mayoral",
+      "sourceId": "16189",
+      "variantIds": [],
+      "sha256": "20485c76d849a1070d9caef77cceb8c1e9ceb9a9cc1bcbbe2ab1620de6e7d342"
+    },
+    {
+      "path": "assets/17911-16190.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16190-large_default/mochila-guarderia-azul.jpg",
+      "alt": "Mochila guarderia Azul",
+      "sourceId": "16190",
+      "variantIds": [],
+      "sha256": "f1d245e320f4bcfe5cad4ceba412e7b47f94234c351ffb7497e127f97d94600b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:05:07.248Z",
+  "issues": []
+}

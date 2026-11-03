@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "21465",
+  "sourceUrl": "https://babyhogarinfantil.com/camisetas-bebe-nino/21465-camiseta-manga-larga-chicco-azul-marino.html",
+  "name": "Camiseta manga larga CHICCO Azul Marino",
+  "brand": "Chicco",
+  "sku": "2502102",
+  "description": "Camiseta manga larga AZUL MARINO en algodón para bebé. Estampado de dragones. Con botones automáticos en la parte trasera del cuello para facilitar la puesta.",
+  "details": "Composición:\n\nCamiseta manga larga: 100% algodón.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p><strong>Camiseta manga larga: </strong>100% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "740",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "740",
+  "sourceCategoryName": "Camisetas bebé niño",
+  "price": 10.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:07",
+  "sourceUpdatedAt": "2026-10-27 11:14:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96644",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502102",
+      "productSku": "2502102",
+      "taxRate": 21,
+      "price": 10.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:37.979Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21465-19991.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19991-large_default/camiseta-manga-larga-chicco-azul-marino.jpg",
+      "alt": "Camiseta manga larga CHICCO Azul Marino",
+      "sourceId": "19991",
+      "variantIds": [],
+      "sha256": "ea30da5bed21f838289065344683b5638ffefe4063ce9ac7c98aabbab1f1fe2b"
+    },
+    {
+      "path": "assets/21465-19992.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19992-large_default/camiseta-manga-larga-chicco-azul-marino.jpg",
+      "alt": "Camiseta manga larga CHICCO Azul Marino",
+      "sourceId": "19992",
+      "variantIds": [],
+      "sha256": "36e29eed349093a5dbfc58cec662aa0a25b96872e8b79c96ad96b4788f409e76"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:38.065Z",
+  "issues": []
+}

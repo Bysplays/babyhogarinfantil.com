@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "21487",
+  "sourceUrl": "https://babyhogarinfantil.com/chandal-bebe-nina/21487-chandal-capucha-bebe-nina-rosa.html",
+  "name": "Chandal capucha bebé niña Rosa",
+  "brand": "Yatsi",
+  "sku": "2502125",
+  "description": "Chandal para bebé niña. Chaqueta con capucha y cremallera, con felpa interior para que sea cálido. Pantalón con cinturilla ajustable con cordón, y bajos con elástico. Tiene bolsillos funcionales .",
+  "details": "Composición:\n\nChaqueta: 60% algodón, 40% poliéster.\n\nPantalón:  60% algodón, 40% poliéster.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 60% algodón, 40% poliéster.</p>\n<p>Pantalón:  60% algodón, 40% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "786",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "786",
+  "sourceCategoryName": "Chandal Bebé niña",
+  "price": 28,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-10-22 08:36:08",
+  "sourceUpdatedAt": "2026-10-27 11:14:42",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "243",
+          "label": "9 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "96761",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2502125",
+      "productSku": "2502125",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:51.528Z"
+    },
+    {
+      "id": "96762",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2502125",
+      "productSku": "2502125",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:53.533Z"
+    },
+    {
+      "id": "96763",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2502125",
+      "productSku": "2502125",
+      "taxRate": 21,
+      "price": 28,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:14:55.743Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/21487-20049.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/20049-large_default/chandal-capucha-bebe-nina-rosa.jpg",
+      "alt": "Chandal capucha bebé niña Rosa",
+      "sourceId": "20049",
+      "variantIds": [],
+      "sha256": "a30a64a288496a24be92f5f96b410c05e1118017b2ee06eaa092028419d9b83c"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:14:55.826Z",
+  "issues": []
+}

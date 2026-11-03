@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "7792",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/7792-conjunto-tirantes-olivia-azul.html",
+  "name": "Conjunto tirantes Olivia Azul",
+  "brand": "Yoedu",
+  "sku": "1907093",
+  "description": "Descubra el encanto irresistible del Conjunto Tirantes Olivia Azul, una celebración de estilo y comodidad. Con su vivaz tono azul, añadirá dollops de diversión al guardarropa de su pequeño. La mezcla perfecta de funcionalidad y moda, este conjunto mantendrá a su bebé a la tendencia mientras garantiza su comodidad durante todo el día. Perfecto para ocasiones especiales o simplemente para añadir algo extra a su día a día. Cada detalle muestra nuestro compromiso con la calidad. ¡Porque su pequeño se merece nada menos que lo mejor!",
+  "details": "Estilo Único y Atemporal \n\n Descubre el encanto del Conjunto Tirantes Olivia Azul. Un toque de distinción elegante y fresco para la pequeña reina de la casa. El azul sereno del conjunto aporta una sensación de calma y tranquilidad, convirtiéndolo en la opción perfecta para cualquier ocasión, ya sea una reunión familiar o una tarde de juego en el parque. \n \n\n Diseño Versátil y Cómodo \n\n Los juegos y las risas nunca deberían estar limitados por lo que uno lleva puesto. El Conjunto Tirantes Olivia Azul ha sido diseñado con este pensamiento en mente, maximizando la comodidad sin sacrificar la elegancia. Sus cómodos tirantes y la flexibilidad de su tela, permiten a la pequeña moverse con libertad, aportando alegría y diversión a su día a día. \n\n\n Calidad y Durabilidad \n\n Este conjunto no solo se destaca por su belleza y comodidad, sino también por su calidad. Fabricado con materiales de primera, el conjunto Tirantes Olivia Azul ofrece una gran resistencia a la vez que mantiene su textura suave y su color vibrante, lavado tras lavado. Una inversión que vale la pena, garantizando que tu pequeña disfrute de su conjunto favorito el mayor tiempo posible. \n\n\n No esperes más. Haz que tu pequeña luzca elegante y se sienta libre con el Conjunto Tirantes Olivia Azul. Haz clic en \\'Agregar al carrito de compra\\' ahora y observa la felicidad de la pequeña al llevar este bello conjunto.",
+  "sourceDescriptionHtml": "<h2> Estilo Único y Atemporal </h2>\n<p> Descubre el encanto del Conjunto Tirantes Olivia Azul. Un toque de distinción elegante y fresco para la pequeña reina de la casa. El azul sereno del conjunto aporta una sensación de calma y tranquilidad, convirtiéndolo en la opción perfecta para cualquier ocasión, ya sea una reunión familiar o una tarde de juego en el parque. </p> \n\n<h2> Diseño Versátil y Cómodo </h2>\n<p> Los juegos y las risas nunca deberían estar limitados por lo que uno lleva puesto. El Conjunto Tirantes Olivia Azul ha sido diseñado con este pensamiento en mente, maximizando la comodidad sin sacrificar la elegancia. Sus cómodos tirantes y la flexibilidad de su tela, permiten a la pequeña moverse con libertad, aportando alegría y diversión a su día a día. </p>\n\n<h2> Calidad y Durabilidad </h2>\n<p> Este conjunto no solo se destaca por su belleza y comodidad, sino también por su calidad. Fabricado con materiales de primera, el conjunto Tirantes Olivia Azul ofrece una gran resistencia a la vez que mantiene su textura suave y su color vibrante, lavado tras lavado. Una inversión que vale la pena, garantizando que tu pequeña disfrute de su conjunto favorito el mayor tiempo posible. </p>\n\n<p> <strong> No esperes más. </strong> Haz que tu pequeña luzca elegante y se sienta libre con el Conjunto Tirantes Olivia Azul. Haz clic en \\'Agregar al carrito de compra\\' ahora y observa la felicidad de la pequeña al llevar este bello conjunto. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2019-20",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 51.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:29",
+  "sourceUpdatedAt": "2026-10-27 11:10:23",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66401",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "1907093",
+      "productSku": "1907093",
+      "taxRate": 21,
+      "price": 51.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:53:34.027Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7792-5858.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5858-large_default/conjunto-tirantes-olivia-azul.jpg",
+      "alt": "Conjunto tirantes Olivia Azul",
+      "sourceId": "5858",
+      "variantIds": [],
+      "sha256": "27055a13be5aef650d1f977567dcd8c0962da00b4e0ed1ca1158d1d11897eb8a"
+    },
+    {
+      "path": "assets/7792-10562.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10562-large_default/conjunto-tirantes-olivia-azul.jpg",
+      "alt": "Conjunto tirantes Olivia Azul",
+      "sourceId": "10562",
+      "variantIds": [],
+      "sha256": "b172a4d45c65be2d8459651e6b0907643fe75d7ec564657d2565b120c98076da"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:53:34.122Z",
+  "issues": []
+}

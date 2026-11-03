@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "9003",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-bebe-nina/9003-chaqueta-larga-con-volante-bebe-azul-marino.html",
+  "name": "Chaqueta larga con volante bebé Azul marino",
+  "brand": "Mac Ilusión",
+  "sku": "2107070",
+  "description": "Imagina a tu pequeña con esta encantadora Chaqueta Larga con Volante en Azul Marino, un himno a la elegancia infantil. Creada para mantener a tu bebé cálido y confortable este invierno, combina perfectamente con cualquier prenda. Despertará suaves sonrisas gracias a los delicados volantes que añaden un toque de estilo único. Ideal para cualquier ocasión, desde paseos invernales hasta eventos especiales. ¡Adquiérela ahora y viste a tu pequeña con amor y delicadeza!",
+  "details": "Estilo y Comodidad\n\n Descubre la chaqueta larga con volante pensada para el confort y estilo de tu bebé. Sus sofisticadas líneas y diseño elegante en azul marino añadirán un toque de glamour a cualquier atuendo. Su suave tejido proporcionará la máxima comodidad para tu bebé mientras descubre el mundo.\n\n \n Ropa Versátil para el Bebé\n\n Perfecta para cualquier ocasión, ya sea un paseo por el parque o una celebración familiar, esta chaqueta es un elemento imprescindible en el armario de tu bebé. Primorosamente adornada con volantes, añade una nota sofisticada a cualquier conjunto, mientras que su agradable tonalidad azul marino la hace fácil de combinar con otros colores y estilos.\n\n\n Calidad Seria para Personas Pequeñas\n\n Producida con materiales de alta calidad, esta chaqueta resistirá las exigencias de las actividades diarias sin perder su forma ni color. Su durabilidad significa que tu bebé podrá disfrutarla durante mucho tiempo, y su estilo clásico nunca pasará de moda. Con su diseño atemporal y su construcción robusta, es una inversión en estilo y comodidad para tu pequeño.\n\n \n¡Adquiere esta atractiva chaqueta en azul marino para tu bebé ahora mismo y déjale explorar el mundo con estilo y comodidad!",
+  "sourceDescriptionHtml": "<section>\n <h2>Estilo y Comodidad</h2>\n <p>Descubre la chaqueta larga con volante pensada para el confort y estilo de tu bebé. Sus sofisticadas líneas y diseño elegante en azul marino añadirán un toque de glamour a cualquier atuendo. Su suave tejido proporcionará la máxima comodidad para tu bebé mientras descubre el mundo.</p>\n \n <h2>Ropa Versátil para el Bebé</h2>\n <p>Perfecta para cualquier ocasión, ya sea un paseo por el parque o una celebración familiar, esta chaqueta es un elemento imprescindible en el armario de tu bebé. Primorosamente adornada con volantes, añade una nota sofisticada a cualquier conjunto, mientras que su agradable tonalidad azul marino la hace fácil de combinar con otros colores y estilos.</p>\n\n <h2>Calidad Seria para Personas Pequeñas</h2>\n <p>Producida con materiales de alta calidad, esta chaqueta resistirá las exigencias de las actividades diarias sin perder su forma ni color. Su durabilidad significa que tu bebé podrá disfrutarla durante mucho tiempo, y su estilo clásico nunca pasará de moda. Con su diseño atemporal y su construcción robusta, es una inversión en estilo y comodidad para tu pequeño.</p>\n \n<a href=\"#\"><p>¡Adquiere esta atractiva chaqueta en azul marino para tu bebé ahora mismo y déjale explorar el mundo con estilo y comodidad!</p></a>\n</section>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2021-22",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "715"
+  ],
+  "sourceDefaultCategoryId": "715",
+  "sourceCategoryName": "Chaquetas bebé niña",
+  "price": 22.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:44",
+  "sourceUpdatedAt": "2026-10-27 11:11:11",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "242",
+          "label": "6 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "68323",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "242",
+          "group": "Tamaño",
+          "value": "6 m"
+        }
+      ],
+      "sku": "2107070",
+      "productSku": "2107070",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:31.579Z"
+    },
+    {
+      "id": "68324",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2107070",
+      "productSku": "2107070",
+      "taxRate": 21,
+      "price": 22.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:33.365Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9003-7316.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7316-large_default/chaqueta-larga-con-volante-bebe-azul-marino.jpg",
+      "alt": "Chaqueta larga con volante bebé Azul marino",
+      "sourceId": "7316",
+      "variantIds": [],
+      "sha256": "be653c6f1b895658be0967927b93979283c787973cbb7a599dd71c58932d43fb"
+    },
+    {
+      "path": "assets/9003-7315.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7315-large_default/chaqueta-larga-con-volante-bebe-azul-marino.jpg",
+      "alt": "Chaqueta larga con volante bebé Azul marino",
+      "sourceId": "7315",
+      "variantIds": [],
+      "sha256": "36b0234126f2e61ad17890825677d308e333b28ff5f31f3eae4fc47d33968fc5"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:33.481Z",
+  "issues": []
+}

@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "9917",
+  "sourceUrl": "https://babyhogarinfantil.com/sudaderas-y-jerseys-nino/9917-sudadera-con-felpa-nino-azul-marino.html",
+  "name": "Sudadera con felpa niño Azul Marino",
+  "brand": "Zippy",
+  "sku": "2208030",
+  "description": "Encontrar la pieza perfecta para el guardarropa de tu hijo puede ser un desafío, pero no busques más ¡La Sudadera con felpa para niño en Azul Marino es la opción ideal! Esta sudadera, elegante y cómoda, es perfecta para esos días de frío. El azul marino siempre elegante garantiza que tu pequeño se vea a la moda, mientras que el material de felpa promete calidez y comodidad durante todo el día. No solo es perfecta para el uso diario, sino también esencial en las aventuras al aire libre de tu niño. ¡No esperes más, adquiere hoy la Sudadera con felpa para niño en Azul Marino!",
+  "details": "Ropa Cómoda y Elegante para Niños\n\nLa Sudadera con felpa niño Azul Marino está diseñada para garantizar el máximo confort y libertad de movimiento. Confeccionada con materiales de alta calidad y durabilidad. Esta prenda versátil es perfecta para el día a día de los más pequeños, tanto para sesiones de juego intensas como para tranquilas tardes en casa.\n\nEstilo Unico, Versátil y Adaptable\n\nEsta sudadera combina la funcionalidad con la moda, lo que la hace una elección ideal para cualquier ocasión. El azul marino añade un toque de sofisticación, mientras que la felpa agrega calidez y comodidad. Perfecta para combinaciones elegantes o casuales, la sudadera se puede combinar fácilmente con cualquier jean o pantalón deportivo.\n\nCalidez y Protección Durante Todo el Día\n\nLa felpa interna de la sudadera ofrece una protección excepcional contra el frío, manteniendo a los niños calientes incluso en los días más frescos. Mientras, el material suave garantiza la comodidad durante todo el día sin irritar la piel sensible de los niños.\n\n¿Por qué esperar más para brindarle a su pequeño la comodidad y el estilo que necesita?\n\n¡Compra la Sudadera con felpa niño Azul Marino hoy!\n\nComposición:\n\nSudadera: 80% algodón, 20% poliéster.",
+  "sourceDescriptionHtml": "<div>\n<h2>Ropa Cómoda y Elegante para Niños</h2>\n<p>La <strong>Sudadera con felpa niño Azul Marino</strong> está diseñada para garantizar el máximo confort y libertad de movimiento. Confeccionada con materiales de alta calidad y durabilidad. Esta prenda versátil es perfecta para el día a día de los más pequeños, tanto para sesiones de juego intensas como para tranquilas tardes en casa.</p>\n<h2>Estilo Unico, Versátil y Adaptable</h2>\n<p>Esta sudadera combina la funcionalidad con la moda, lo que la hace una elección ideal para cualquier ocasión. El azul marino añade un toque de sofisticación, mientras que la felpa agrega calidez y comodidad. Perfecta para combinaciones elegantes o casuales, la sudadera se puede combinar fácilmente con cualquier jean o pantalón deportivo.</p>\n<h2>Calidez y Protección Durante Todo el Día</h2>\n<p>La felpa interna de la sudadera ofrece una protección excepcional contra el frío, manteniendo a los niños calientes incluso en los días más frescos. Mientras, el material suave garantiza la comodidad durante todo el día sin irritar la piel sensible de los niños.</p>\n<p>¿Por qué esperar más para brindarle a su pequeño la comodidad y el estilo que necesita?</p>\n<p>¡Compra la Sudadera con felpa niño Azul Marino hoy!</p>\n<p>Composición:</p>\n<p>Sudadera: 80% algodón, 20% poliéster.</p>\n</div>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2022-23",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "743"
+  ],
+  "sourceDefaultCategoryId": "743",
+  "sourceCategoryName": "Sudaderas y jerseys niño",
+  "price": 17.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:55",
+  "sourceUpdatedAt": "2026-10-27 11:11:55",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 5,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        },
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        },
+        {
+          "id": "234",
+          "label": "12"
+        },
+        {
+          "id": "235",
+          "label": "14"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "70398",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "2208030",
+      "productSku": "2208030",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:49.798Z"
+    },
+    {
+      "id": "70400",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2208030",
+      "productSku": "2208030",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:51.383Z"
+    },
+    {
+      "id": "70401",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2208030",
+      "productSku": "2208030",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:53.072Z"
+    },
+    {
+      "id": "80890",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "234",
+          "group": "Tamaño",
+          "value": "12"
+        }
+      ],
+      "sku": "2208030",
+      "productSku": "2208030",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:54.516Z"
+    },
+    {
+      "id": "70403",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "235",
+          "group": "Tamaño",
+          "value": "14"
+        }
+      ],
+      "sku": "2208030",
+      "productSku": "2208030",
+      "taxRate": 21,
+      "price": 17.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:57:56.226Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9917-8042.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/8042-large_default/sudadera-con-felpa-nino-azul-marino.jpg",
+      "alt": "Sudadera con felpa niño Azul Marino",
+      "sourceId": "8042",
+      "variantIds": [],
+      "sha256": "88afd455a44e2bc84cfb4804b4d9a46422b3bc89134a58792096a4e0148f5f63"
+    },
+    {
+      "path": "assets/9917-12960.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12960-large_default/sudadera-con-felpa-nino-azul-marino.jpg",
+      "alt": "Sudadera con felpa niño Azul Marino",
+      "sourceId": "12960",
+      "variantIds": [],
+      "sha256": "45474b20cb2032949194f3c5fb51cd361cecb7ca7598429cf1dc04e249252616"
+    },
+    {
+      "path": "assets/9917-12961.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/12961-large_default/sudadera-con-felpa-nino-azul-marino.jpg",
+      "alt": "Sudadera con felpa niño Azul Marino",
+      "sourceId": "12961",
+      "variantIds": [],
+      "sha256": "12e6491610d9363b1171d33d99fb70e158f9cc891ae03ffbefb095a6181cbfff"
+    },
+    {
+      "path": "assets/9917-9143.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9143-large_default/sudadera-con-felpa-nino-azul-marino.jpg",
+      "alt": "Sudadera con felpa niño Azul Marino",
+      "sourceId": "9143",
+      "variantIds": [],
+      "sha256": "05b3c3d3a9e0a46409677ce44986dd8cbc5b00bdd61eacc81fd014ca16609dd1"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:57:56.499Z",
+  "issues": []
+}

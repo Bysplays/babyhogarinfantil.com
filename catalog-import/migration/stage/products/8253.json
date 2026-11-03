@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "8253",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-escolar/8253-nautico-taylor-velcro-40-43-marron.html",
+  "name": "Nautico Taylor velcro 40-43 Marrón",
+  "brand": "Gorila",
+  "sku": "2006037",
+  "description": "Náutico colegial para niño Gorila en piel marrón con cierre de velcro. Cómodo, resistente y práctico para el uso diario en el colegio. Números 40 y 41.",
+  "details": "El náutico colegial para niño Gorila, númeris 40 y 41, es un zapato resistente y cómodo, diseñado especialmente para acompañar a los más pequeños durante toda la jornada escolar.\n\nEstá fabricado en piel de bovino de gran calidad y presenta el clásico diseño de náutico en color marrón, con pespuntes visibles y detalles laterales que aportan un acabado tradicional y duradero.\n\nEl cierre de velcro facilita que el niño pueda ponerse y quitarse el calzado de forma rápida y autónoma, proporcionando además un ajuste seguro.\n\nSu suela de goma, gruesa y con dibujo antideslizante, proporciona buena estabilidad y resistencia al desgaste, convirtiéndolo en una excelente opción como calzado escolar de uso diario.\n\n\nMarca: Gorila\n\nModelo: 25351\n\nCalzado colegial para niño\n\nColor: marrón\n\nExterior: 100% piel de bovino\n\nInterior: material textil\n\nPlantilla: material textil\n\nSuela: goma\n\nCierre mediante velcro\n\n\nUn zapato colegial de piel práctico y resistente, perfecto para uniforme escolar y para el uso diario durante todo el curso.",
+  "sourceDescriptionHtml": "<p>El <strong>náutico colegial para niño Gorila, númeris 40 y 41, </strong>es un zapato resistente y cómodo, diseñado especialmente para acompañar a los más pequeños durante toda la jornada escolar.</p>\n<p>Está fabricado en <strong>piel de bovino</strong> de gran calidad y presenta el clásico diseño de náutico en color marrón, con pespuntes visibles y detalles laterales que aportan un acabado tradicional y duradero.</p>\n<p>El <strong>cierre de velcro</strong> facilita que el niño pueda ponerse y quitarse el calzado de forma rápida y autónoma, proporcionando además un ajuste seguro.</p>\n<p>Su <strong>suela de goma</strong>, gruesa y con dibujo antideslizante, proporciona buena estabilidad y resistencia al desgaste, convirtiéndolo en una excelente opción como calzado escolar de uso diario.</p>\n<ul>\n<li>Marca: <strong>Gorila</strong></li>\n<li>Modelo: 25351</li>\n<li>Calzado colegial para niño</li>\n<li>Color: marrón</li>\n<li>Exterior: 100% piel de bovino</li>\n<li>Interior: material textil</li>\n<li>Plantilla: material textil</li>\n<li>Suela: goma</li>\n<li>Cierre mediante velcro</li>\n</ul>\n<p>Un <strong>zapato colegial de piel</strong> práctico y resistente, perfecto para uniforme escolar y para el uso diario durante todo el curso.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marrón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "682",
+    "874",
+    "759"
+  ],
+  "sourceDefaultCategoryId": "682",
+  "sourceCategoryName": "Calzado escolar",
+  "price": 69.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:34",
+  "sourceUpdatedAt": "2026-10-27 11:10:39",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "265",
+          "label": "40"
+        },
+        {
+          "id": "294",
+          "label": "41"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "95204",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "265",
+          "group": "Tamaño",
+          "value": "40"
+        }
+      ],
+      "sku": "2006037",
+      "productSku": "2006037",
+      "taxRate": 21,
+      "price": 69.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:53.822Z"
+    },
+    {
+      "id": "140814",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "294",
+          "group": "Tamaño",
+          "value": "41"
+        }
+      ],
+      "sku": "2006037",
+      "productSku": "2006037",
+      "taxRate": 21,
+      "price": 69.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:08:55.427Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8253-21460.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21460-large_default/nautico-taylor-velcro-40-43-marron.jpg",
+      "alt": "Náutico colegial niño marrón con velcro Gorila números 40 y 41",
+      "sourceId": "21460",
+      "variantIds": [],
+      "sha256": "80c6b4b1ba332d1a394fdfb3d1fd16f8400f173db30b8dc7e0601096e3e7f3c3"
+    },
+    {
+      "path": "assets/8253-21461.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21461-large_default/nautico-taylor-velcro-40-43-marron.jpg",
+      "alt": "Vista lateral náutico colegial niño marrón Gorila números 40 y 41",
+      "sourceId": "21461",
+      "variantIds": [],
+      "sha256": "37d61284b60c0389e92dbf0fea5b4a5aafedeb7e744fe0ebf439ee562ee83251"
+    },
+    {
+      "path": "assets/8253-21462.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21462-large_default/nautico-taylor-velcro-40-43-marron.jpg",
+      "alt": "Suela náutico colegial niño marrón Gorila números 40 y 41",
+      "sourceId": "21462",
+      "variantIds": [],
+      "sha256": "8045de88557c692ed503d11e10141dc7227cfa3dc5e7bae031922411c6732257"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:08:55.621Z",
+  "issues": []
+}

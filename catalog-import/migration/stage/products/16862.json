@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "16862",
+  "sourceUrl": "https://babyhogarinfantil.com/chandal-bebe-nino/16862-chandal-3-piezas-honey.html",
+  "name": "Chandal 3 piezas Honey",
+  "brand": "Mayoral",
+  "sku": "2307138",
+  "description": "Conozca el Chandal 3 piezas Honey, elaborado con inigualable calidad e irresistible ternura. Este conjuntito transformará a su pequeño en el alma de los juegos, capturando momentos mágicos de risas y juegos. Imagínese su dulce sonrisa reflejada en el espejo del momento mientras explora el mundo con destreza y seguridad. Sentirá un mar de orgullo cada vez que vea a su bebé luciendo esta joya de la moda infantil. ¿Y lo mejor de todo? Esta pieza tiene un suave tejido que mima la delicada piel de su bebé. No puede faltar en el guardarropa de su hijo. ¡Añade a la cesta ahora!",
+  "details": "Moderno y Sofisticado\n\n\nRefresca la apariencia de tu pequeño con este vanguardista Chándal de 3 piezas Honey. Este conjunto, elaborado con los más finos materiales, invita a la máxima comodidad sin renunciar al estilo. Los modernos patrones y colores vibrantes seguramente pondrán a tu niño un paso adelante en la moda infantil. ¡Es hora de demostrar la elegancia en cada ocasión!\n\n\n\nComodidad Todo el Dia\n \n\nEste chándal de tres piezas no sólo viste a tu pequeño con estilosidad, también promete la comodidad que necesita para el día a día. Ya sea en aventuras de juegos o simplemente para disfrutar de un día tranquilo en casa, este conjunto es la elección perfecta. ¡Descubre la magia de combinar estilo y comodidad en una sola prenda!\n\n\n\nCalidad que Perdura\n \n\nFabricado con la promesa de durabilidad, este chándal de 3 piezas Honey está diseñado para resistir la actividad más enérgica. La alta calidad de los materiales garantiza que se mantenga vibrante y nuevo incluso después de múltiples lavados. ¡No hay mejor inversión que un vestuario que crece con su pequeño!\n\n\n\n\nNo son sólo ropas. Son momentos memorables de la infancia que se visten de estilo. ¡Adelante, añade el Chándal de 3 piezas Honey a tu carrito ahora y crea recuerdos llenos de elegancia y entusiasmo!",
+  "sourceDescriptionHtml": "<h2>Moderno y Sofisticado</h2>\n<p>\nRefresca la apariencia de tu pequeño con este vanguardista Chándal de 3 piezas Honey. Este conjunto, elaborado con los más finos materiales, invita a la máxima comodidad sin renunciar al estilo. Los modernos patrones y colores vibrantes seguramente pondrán a tu niño un paso adelante en la moda infantil. ¡Es hora de demostrar la elegancia en cada ocasión!\n</p>\n\n<h2>Comodidad Todo el Dia</h2> \n<p>\nEste chándal de tres piezas no sólo viste a tu pequeño con estilosidad, también promete la comodidad que necesita para el día a día. Ya sea en aventuras de juegos o simplemente para disfrutar de un día tranquilo en casa, este conjunto es la elección perfecta. ¡Descubre la magia de combinar estilo y comodidad en una sola prenda!\n</p>\n\n<h2>Calidad que Perdura</h2> \n<p>\nFabricado con la promesa de durabilidad, este chándal de 3 piezas Honey está diseñado para resistir la actividad más enérgica. La alta calidad de los materiales garantiza que se mantenga vibrante y nuevo incluso después de múltiples lavados. ¡No hay mejor inversión que un vestuario que crece con su pequeño!\n</p>\n\n<p>\nNo son sólo ropas. Son momentos memorables de la infancia que se visten de estilo. ¡Adelante, añade el Chándal de 3 piezas Honey a tu carrito ahora y crea recuerdos llenos de elegancia y entusiasmo!\n</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2023-24",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Honey",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "787",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "787",
+  "sourceCategoryName": "Chandal bebé niño",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-09-29 08:34:42",
+  "sourceUpdatedAt": "2026-10-27 11:13:00",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "81515",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2307138",
+      "productSku": "2307138",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:54:30.208Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16862-14437.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14437-large_default/chandal-3-piezas-honey.jpg",
+      "alt": "Chandal 3 piezas Honey",
+      "sourceId": "14437",
+      "variantIds": [],
+      "sha256": "b5dabd3e291b16441149acb5ea027e6feb63e9fa60094a24b42dcb7c135500d5"
+    },
+    {
+      "path": "assets/16862-14438.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14438-large_default/chandal-3-piezas-honey.jpg",
+      "alt": "Chandal 3 piezas Honey",
+      "sourceId": "14438",
+      "variantIds": [],
+      "sha256": "cf07e8d596294fce13b5ca5d7e85e58c69e550bc0c05073a46e604b781be8fbc"
+    },
+    {
+      "path": "assets/16862-14439.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14439-large_default/chandal-3-piezas-honey.jpg",
+      "alt": "Chandal 3 piezas Honey",
+      "sourceId": "14439",
+      "variantIds": [],
+      "sha256": "984f63a6a96327310d3923e4e8ff8ef627e8a97a2abd6c671a952049698ea907"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:54:30.339Z",
+  "issues": []
+}

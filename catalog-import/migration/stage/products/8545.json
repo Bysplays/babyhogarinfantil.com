@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "id": "8545",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bebe-nino/8545-bota-con-botones-azulon.html",
+  "name": "Bota con botones Azulón",
+  "brand": "Baby Hogar Infantil",
+  "sku": "2011021",
+  "description": "Botín de piel en color azul Francia, acabado mate. Cierre con tira de velcro. Disponible en color rojo charol.",
+  "details": "Botín de piel en color azul Francia, acabado mate. Cierre con tira de velcro, fácilmente ajustable al pie. Forrado en su interior. Un calzado cómodo y muy ligero, perfecto para los peques que empiezan a usar zapatos. Al ser botín, es ligeramente más alto y sujeta mejor el pie, evitando que se escape o se pierda. Disponible en color rojo charol. La talla 19 está disponible con suela blanda y con semi-suela, para aquellos bebés que comiencen a caminar. \n\nFABRICADO EN ESPAÑA",
+  "sourceDescriptionHtml": "<p>Botín de <strong>piel</strong> en color azul Francia, acabado mate. Cierre con tira de velcro, fácilmente ajustable al pie. Forrado en su interior. Un calzado cómodo y muy ligero, perfecto para los peques que empiezan a usar zapatos. Al ser botín, es ligeramente más alto y sujeta mejor el pie, evitando que se escape o se pierda. <strong>Disponible en color rojo charol. La talla 19 está disponible con suela blanda y con semi-suela, para aquellos bebés que comiencen a caminar. </strong></p>\n<p><strong>FABRICADO EN ESPAÑA</strong></p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azulón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "667",
+    "811"
+  ],
+  "sourceDefaultCategoryId": "667",
+  "sourceCategoryName": "Calzado bebe niño",
+  "price": 29.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:38",
+  "sourceUpdatedAt": "2026-10-27 11:10:52",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 9,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "259",
+          "label": "19con"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67578",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "2011021",
+      "productSku": "2011021",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:55.623Z"
+    },
+    {
+      "id": "67579",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "2011021",
+      "productSku": "2011021",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:05:59.114Z"
+    },
+    {
+      "id": "67580",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "2011021",
+      "productSku": "2011021",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:01.553Z"
+    },
+    {
+      "id": "67582",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "259",
+          "group": "Tamaño",
+          "value": "19con"
+        }
+      ],
+      "sku": "2011021",
+      "productSku": "2011021",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:03.798Z"
+    },
+    {
+      "id": "67581",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "2011021",
+      "productSku": "2011021",
+      "taxRate": 21,
+      "price": 29.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:06.644Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8545-11287.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11287-large_default/bota-con-botones-azulon.jpg",
+      "alt": "Bota con botones Azulón",
+      "sourceId": "11287",
+      "variantIds": [],
+      "sha256": "c1b2614f92c485c5705b3e1bdf85d98d4914a84a29335fafeed6a50c79664f19"
+    },
+    {
+      "path": "assets/8545-6869.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6869-large_default/bota-con-botones-azulon.jpg",
+      "alt": "Bota con botones Azulón",
+      "sourceId": "6869",
+      "variantIds": [],
+      "sha256": "4c754027db14ecdb7cc4b587f53a25a2d178dc7845a9acfbc03bc1eefd3bb6fa"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:06.774Z",
+  "issues": []
+}

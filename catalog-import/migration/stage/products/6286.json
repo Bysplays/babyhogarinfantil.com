@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "6286",
+  "sourceUrl": "https://babyhogarinfantil.com/calcetines-con-pom-pom/6286-calcetin-alto-con-borlas-marron.html",
+  "name": "Calcetín alto con borlas Marrón",
+  "brand": "Condor",
+  "sku": "1020",
+  "description": "Calcetín alto con borlas en ALGODON CALIDO.",
+  "details": "Composici&oacute;n:\nCalcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.",
+  "sourceDescriptionHtml": "<p>Composici&oacute;n:<br />Calcet&iacute;n alto: 80% algod&oacute;n, 20% poliamida.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Marrón",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "686",
+    "840",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "686",
+  "sourceCategoryName": "Calcetines con pom-pom",
+  "price": 9.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:10",
+  "sourceUpdatedAt": "2026-10-27 11:08:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "229",
+          "label": "4"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "63195",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "229",
+          "group": "Tamaño",
+          "value": "4"
+        }
+      ],
+      "sku": "1020",
+      "productSku": "1020",
+      "taxRate": 21,
+      "price": 9.95,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:24:14.927Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6286-4261.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4261-large_default/calcetin-alto-con-borlas-marron.jpg",
+      "alt": "Calcetín alto con borlas Marrón",
+      "sourceId": "4261",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6286-9503.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9503-large_default/calcetin-alto-con-borlas-marron.jpg",
+      "alt": "Calcetín alto con borlas Marrón",
+      "sourceId": "9503",
+      "variantIds": [],
+      "sha256": "f4d1a1f8042802c98a3e610fb2097948689eb3a372302451227a3e1abe75a82e"
+    },
+    {
+      "path": "assets/6286-4260.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4260-large_default/calcetin-alto-con-borlas-marron.jpg",
+      "alt": "Calcetín alto con borlas Marrón",
+      "sourceId": "4260",
+      "variantIds": [],
+      "sha256": "1538e65611b5431ccdb33e3a49d25d9d2d52f82fc29081a01963545b01b9b7b4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:24:15.112Z",
+  "issues": []
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "17882",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-nina/17882-chubasquero-nina-alpaca.html",
+  "name": "Chubasquero niña Alpaca",
+  "brand": "Mayoral",
+  "sku": "2402062",
+  "description": "Chubasquero Niña Alpaca\n\n¡Dale a tu princesa el regalo del estilo y la comodidad con el Chubasquero Niña Alpaca! Esta joya de ropa para niñas transformará los días lluviosos en aventuras de moda. Se destaca por su suavidad y calidez, la cual proporciona un acogedor abrazo en climas fríos. ¡Destaca su personalidad brillante con los hermosos colores y el imaginativo diseño de alpaca! Perfecta para excursiones escolares, viajes en familia, o simplemente un día de juegos en el patio. ¡Porque la moda y la función pueden ir de la mano!",
+  "details": "\"Calidez y Protección\"\n\nLa nueva colección de chubasqueros para niñas \\'Alpaca\\' es ideal para proteger a tu princesa de la lluvia y el frío. Hecho con materiales de alta resistencia que repelen el agua, este chubasquero garantiza la máxima protección contra la lluvia intensa. Además, el interior está forrado con una capa de lana de alpaca, imitando la calidez y comodidad que necesitan.\n\n\"Estilo y Comodidad\"\n\nCreemos que la funcionalidad y el estilo pueden ir de la mano, y este chubasquero es la prueba perfecta de ello. Con un diseño moderno y colores vibrantes, tu pequeña lucirá elegante incluso en días grises. Además, se ha tenido en cuenta la comodidad con un corte diseñado para facilitar el movimiento libre, permitiendo que la diversión al aire libre no pierda su esencia.\n\n\"Cuidado de la Piel\"\n\nLa piel de los niños merece el máximo cuidado. La lana de alpaca es reconocida por su suavidad, convirtiéndola en la opción perfecta para pieles sensibles. El chubasquero Alpaca no sólo protegerá a tu niña de las inclemencias del tiempo, sino que también mantendrá su piel libre de rozaduras, asegurándote de que se sienta cómoda en todo momento.\n\nNo esperes más. Haz que los días lluviosos sean una razón más para sonreír, y añade el chubasquero Alpaca a tu cesta de compra.\n\nComposición:\n\nExterior: 70% poliéster, 30% poliuretano.\n\nForro: 100% poliéster.",
+  "sourceDescriptionHtml": "<h2>\"Calidez y Protección\"</h2>\n<p>La nueva colección de chubasqueros para niñas \\'Alpaca\\' es ideal para proteger a tu princesa de la lluvia y el frío. Hecho con materiales de alta resistencia que repelen el agua, este chubasquero garantiza la máxima protección contra la lluvia intensa. Además, el interior está forrado con una capa de lana de alpaca, imitando la calidez y comodidad que necesitan.</p>\n<h2>\"Estilo y Comodidad\"</h2>\n<p>Creemos que la funcionalidad y el estilo pueden ir de la mano, y este chubasquero es la prueba perfecta de ello. Con un diseño moderno y colores vibrantes, tu pequeña lucirá elegante incluso en días grises. Además, se ha tenido en cuenta la comodidad con un corte diseñado para facilitar el movimiento libre, permitiendo que la diversión al aire libre no pierda su esencia.</p>\n<h2>\"Cuidado de la Piel\"</h2>\n<p>La piel de los niños merece el máximo cuidado. La lana de alpaca es reconocida por su suavidad, convirtiéndola en la opción perfecta para pieles sensibles. El chubasquero Alpaca no sólo protegerá a tu niña de las inclemencias del tiempo, sino que también mantendrá su piel libre de rozaduras, asegurándote de que se sienta cómoda en todo momento.</p>\n<p>No esperes más. Haz que los días lluviosos sean una razón más para sonreír, y añade el chubasquero Alpaca a tu cesta de compra.</p>\n<p><b>Composición:</b></p>\n<p>Exterior: 70% poliéster, 30% poliuretano.</p>\n<p>Forro: 100% poliéster.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2024-25",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Alpaca",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "823",
+    "828"
+  ],
+  "sourceDefaultCategoryId": "828",
+  "sourceCategoryName": "Abrigos Chaquetones niña",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-07-18 15:54:00",
+  "sourceUpdatedAt": "2026-10-26 19:38:09",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "87808",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "2402062",
+      "productSku": "2402062",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:01:26.924Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17882-16414.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16414-large_default/chubasquero-nina-alpaca.jpg",
+      "alt": "Chubasquero niña Alpaca",
+      "sourceId": "16414",
+      "variantIds": [],
+      "sha256": "467956b7f6810ad271ac0b8ab21b69382cda74c951dcd2d2e8c41177ff0cf9c9"
+    },
+    {
+      "path": "assets/17882-16415.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16415-large_default/chubasquero-nina-alpaca.jpg",
+      "alt": "Chubasquero niña Alpaca",
+      "sourceId": "16415",
+      "variantIds": [],
+      "sha256": "92c91fb31068774ec65c9ac4d33518c6dd7fde50c04115a2ab2ebca631a577f1"
+    },
+    {
+      "path": "assets/17882-16416.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/16416-large_default/chubasquero-nina-alpaca.jpg",
+      "alt": "Chubasquero niña Alpaca",
+      "sourceId": "16416",
+      "variantIds": [],
+      "sha256": "24b9a79aa2d3b3525f88262230550cb606595b237ab80e5936072ec3826312e9"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:01:27.055Z",
+  "issues": []
+}

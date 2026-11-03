@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "20415",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nino/20415-conjunto-pololo-bebe-nino-azul-celeste.html",
+  "name": "Conjunto pololo bebe niño Azul Celeste",
+  "brand": "Calamaro",
+  "sku": "2502003",
+  "description": "Conjunto de jersey y ranita con aolgoón orgánico. El jersey se abre completamente por la espalda con botones para facilitar la puesta.\n\nHECHO EN ESPAÑA",
+  "details": "Composición y cuidados:\n\n\n\nJersey: 86% poliester, 10% viscosa, 4% elastano.\n\nPololo: 55% algodón orgánico, 45% algodón.",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:<br /><br /></p>\n<p>Jersey: 86% poliester, 10% viscosa, 4% elastano.</p>\n<p>Pololo: 55% algodón orgánico, 45% algodón.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2025-26",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Celeste",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "836",
+    "820"
+  ],
+  "sourceDefaultCategoryId": "836",
+  "sourceCategoryName": "Conjuntos bebé niño",
+  "price": 34,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2025-08-08 23:54:30",
+  "sourceUpdatedAt": "2026-10-27 11:14:24",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "94533",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2502003",
+      "productSku": "2502003",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:14.800Z"
+    },
+    {
+      "id": "94536",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2502003",
+      "productSku": "2502003",
+      "taxRate": 21,
+      "price": 34,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:52:15.590Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/20415-19608.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/19608-large_default/conjunto-pololo-bebe-nino-azul-celeste.jpg",
+      "alt": "Conjunto pololo bebe niño Azul Celeste",
+      "sourceId": "19608",
+      "variantIds": [],
+      "sha256": "00bd6e9ed7eb9cf99793aea9bf7eca850574e463aec9a4817c8467fdbcbcea0b"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:52:15.664Z",
+  "issues": []
+}

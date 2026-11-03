@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "8284",
+  "sourceUrl": "https://babyhogarinfantil.com/abrigos-chaquetones-bebe-nina/8284-abrigo-bebe-mezclilla-con-pelo-gris.html",
+  "name": "Abrigo bebé mezclilla con pelo Gris",
+  "brand": "Yoedu",
+  "sku": "2007010",
+  "description": "Imprescindible en el guardarropa de tu pequeña, el Abrigo bebé mezclilla con pelo Gris irradia encanto y calidez. ¿Su mayor atractivo? Su suave forro de pelo que promete mantenerla abrigada incluso en los días más fríos. Este abrigo, fabricado con la mejor mezclilla, ofrece a tu bebé un acogedor refugio, añadiendo un toque de elegancia y estilo. Su tono gris neutro permite combinarlo con facilidad, haciendo que tu pequeña luzca adorable y chic. ¡No te pierdas la oportunidad de adquirir esta elegante prenda para tu niña!",
+  "details": "Comodidad y Calidez Insuperable\n\nEl abriguito de mezclilla con pelo Gris ofrece una comodidad excepcional en los días más fríos. Con su interior forrado con suave pelo sintético, este abrigo proporciona a tu bebé una calidez inigualable. Además, su tejido de mezclilla resistente ofrece una durabilidad y una calidad que durará. ¡El abrigo se mantiene cómodo y acogedor sin importar el clima!\n\nComposición y cuidados:\n\nAbrigo: 100% Poliéster.\n\nNO PLANCHAR\n\nNO USAR LEJIAS\n\nLAVAR A 30º RECOMENDADO\n\nNO USAR SECADORA",
+  "sourceDescriptionHtml": "<h2>Comodidad y Calidez Insuperable</h2>\n<p>El <strong>abriguito de mezclilla con pelo Gris</strong> ofrece una comodidad excepcional en los días más fríos. Con su interior forrado con suave pelo sintético, este abrigo proporciona a tu bebé una calidez inigualable. Además, su tejido de mezclilla resistente ofrece una durabilidad y una calidad que durará. ¡El abrigo se mantiene cómodo y acogedor sin importar el clima!</p>\n<p style=\"font-size:11px;font-weight:400;\">Composición y cuidados:</p>\n<p style=\"font-size:11px;font-weight:400;\">Abrigo: 100% Poliéster.</p>\n<p style=\"font-size:11px;font-weight:400;\">NO PLANCHAR</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR LEJIAS</p>\n<p style=\"font-size:11px;font-weight:400;\">LAVAR A 30º RECOMENDADO</p>\n<p style=\"font-size:11px;font-weight:400;\">NO USAR SECADORA</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2020-21",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "818",
+    "830"
+  ],
+  "sourceDefaultCategoryId": "830",
+  "sourceCategoryName": "Abrigos Chaquetones bebé niña",
+  "price": 44,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:35",
+  "sourceUpdatedAt": "2026-10-27 11:10:41",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "243",
+          "label": "9 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "67308",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "243",
+          "group": "Tamaño",
+          "value": "9 m"
+        }
+      ],
+      "sku": "2007010",
+      "productSku": "2007010",
+      "taxRate": 21,
+      "price": 44,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:19:19.729Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/8284-6579.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/6579-large_default/abrigo-bebe-mezclilla-con-pelo-gris.jpg",
+      "alt": "Abrigo bebé mezclilla con pelo Gris",
+      "sourceId": "6579",
+      "variantIds": [],
+      "sha256": "907e61941a7047a3aa60e91644c35fee9bdc71c915052896232294d93ea9d189"
+    },
+    {
+      "path": "assets/8284-11041.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11041-large_default/abrigo-bebe-mezclilla-con-pelo-gris.jpg",
+      "alt": "Abrigo bebé mezclilla con pelo Gris",
+      "sourceId": "11041",
+      "variantIds": [],
+      "sha256": "f86cf992f23aff16b0f559c468ec90783228424f202195ba5c9f5f24ca87cd0d"
+    },
+    {
+      "path": "assets/8284-11042.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/11042-large_default/abrigo-bebe-mezclilla-con-pelo-gris.jpg",
+      "alt": "Abrigo bebé mezclilla con pelo Gris",
+      "sourceId": "11042",
+      "variantIds": [],
+      "sha256": "6d2f843bd82b9fd4830215837be9193504afcd44a09bce0ccb591eafff135ee4"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:19:19.955Z",
+  "issues": []
+}

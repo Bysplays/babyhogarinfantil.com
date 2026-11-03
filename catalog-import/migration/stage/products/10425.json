@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "10425",
+  "sourceUrl": "https://babyhogarinfantil.com/conjuntos-bebe-nina/10425-conjunto-bebe-nina-pantalon-margaritas-amarillo.html",
+  "name": "Conjunto bebe niña pantalon margaritas Amarillo",
+  "brand": "Babybol",
+  "sku": "2301192",
+  "description": "Conjunto de dos piezas, compuesto por camiseta y short tejano estampado",
+  "details": "Composición y cuidados:\n\nConjunto: 95% algodón, 5% elastano.\n\nNO USAR LEJIAS\n\nNO USAR SECADORA\n\nLAVAR A 30º RECOMENDADO",
+  "sourceDescriptionHtml": "<p>Composición y cuidados:</p>\n<p>Conjunto: 95% algodón, 5% elastano.</p>\n<p>NO USAR LEJIAS</p>\n<p>NO USAR SECADORA</p>\n<p>LAVAR A 30º RECOMENDADO</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Amarillo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "835",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "835",
+  "sourceCategoryName": "Conjuntos bebé niña",
+  "price": 34.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:02",
+  "sourceUpdatedAt": "2026-10-27 11:12:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 3,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "241",
+          "label": "3 m"
+        },
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71999",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "241",
+          "group": "Tamaño",
+          "value": "3 m"
+        }
+      ],
+      "sku": "2301192",
+      "productSku": "2301192",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:28.382Z"
+    },
+    {
+      "id": "72001",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301192",
+      "productSku": "2301192",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:30.334Z"
+    },
+    {
+      "id": "72002",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301192",
+      "productSku": "2301192",
+      "taxRate": 21,
+      "price": 34.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:32.296Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10425-13587.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13587-large_default/conjunto-bebe-nina-pantalon-margaritas-amarillo.jpg",
+      "alt": "Conjunto bebe niña pantalon margaritas Amarillo",
+      "sourceId": "13587",
+      "variantIds": [],
+      "sha256": "60d383f2fe4ad7f7c514da1682212b858b5d72188e2ae6b726ab2cd0668c8d19"
+    },
+    {
+      "path": "assets/10425-13588.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13588-large_default/conjunto-bebe-nina-pantalon-margaritas-amarillo.jpg",
+      "alt": "Conjunto bebe niña pantalon",
+      "sourceId": "13588",
+      "variantIds": [],
+      "sha256": "2a1d9ab9f60179ae5de999103d496083d67076b4fe458cc73ee75805fec597cc"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:32.426Z",
+  "issues": []
+}

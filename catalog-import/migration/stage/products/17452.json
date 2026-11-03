@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "17452",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-nino/17452-pantalon-vaquero-corto-sin-boton-nino-azul.html",
+  "name": "Pantalón vaquero corto sin botón niño Azul",
+  "brand": "Babybol",
+  "sku": "2401212",
+  "description": "Te presentamos el Pantalón Vaquero Corto sin Botón para Niño en color Azul, la prenda indispensable para el armario de tu pequeño aventurero. Este diseño combina comodidad y estilo con su corte casual y su suave tejido. Ideal para cualquier ocasión, ya sea para la escuela, salidas al parque o eventos especiales. Estos pantalones proporcionan una libertad de movimiento sin igual, perfectos para las exploraciones diarias de tu niño. Este vaquero azul no solo es de la más alta calidad, sino que también añade un toque de diversión y alegría al vestuario de tu hijo. Su tonalidad azul vibrante refleja la energía y la personalidad desbordante de tu pequeño y, lo mejor de todo, ¡sin botones molestos!",
+  "details": "Encanto Informal\n\n¿Está buscando algo de estilo fresco y moderno para su hijo? No busque más. Este magnífico Pantalón vaquero corto sin botón niño Azul proporciona un toque de encanto informal que tanto adoran los niños. Los padres también apreciarán la facilidad con la que estos pantalones vaqueros cortos llevan desde el parque hasta los días de juego con estilo.\n\nComodidad y Conveniencia\n\nSin botón, estos pantalones son extremadamente cómodos y se pueden poner rápidamente. El diseño sin botón lo convierte en la opción ideal para Niños jóvenes con ganas de practicar su independencia y aprender a vestirse solos. ¡Hacer que su pequeño se vista nunca ha sido tan fácil!\n\nCalidad Superior\n\nFabricado con vaquero de alta calidad, este pantalón es tan resistente como bonito. Los padres pueden estar seguros de que están invirtiendo en una prenda que aguantará el tipo durante toda la temporada de desgaste y más allá, después de innumerables lavados.\n\nEn resumen, el Pantalón vaquero corto sin botón niño Azul es la elección perfecta para dar a su hijo el equilibrio entre estilo, comodidad y durabilidad. ¡Compre ahora y convierta los días normales de su hijo en momentos con estilo y comodidad sin esfuerzo!\n\nComposición:\n\nPantalón: 98% algodón, 2% elastano.",
+  "sourceDescriptionHtml": "<h2>Encanto Informal</h2>\n<p>¿Está buscando algo de estilo fresco y moderno para su hijo? No busque más. Este magnífico <em>Pantalón vaquero corto sin botón niño Azul</em> proporciona un toque de encanto informal que tanto adoran los niños. Los padres también apreciarán la facilidad con la que estos pantalones vaqueros cortos llevan desde el parque hasta los días de juego con estilo.</p>\n<h2>Comodidad y Conveniencia</h2>\n<p>Sin botón, estos pantalones son extremadamente cómodos y se pueden poner rápidamente. El diseño sin botón lo convierte en la opción ideal para Niños jóvenes con ganas de practicar su independencia y aprender a vestirse solos. ¡Hacer que su pequeño se vista nunca ha sido tan fácil!</p>\n<h2>Calidad Superior</h2>\n<p>Fabricado con vaquero de alta calidad, este pantalón es tan resistente como bonito. Los padres pueden estar seguros de que están invirtiendo en una prenda que aguantará el tipo durante toda la temporada de desgaste y más allá, después de innumerables lavados.</p>\n<p>En resumen, el <em>Pantalón vaquero corto sin botón niño Azul </em> es la elección perfecta para dar a su hijo el equilibrio entre estilo, comodidad y durabilidad. ¡Compre ahora y convierta los días normales de su hijo en momentos con estilo y comodidad sin esfuerzo!</p>\n<p>Composición:</p>\n<p>Pantalón: 98% algodón, 2% elastano.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2024",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "719",
+    "824"
+  ],
+  "sourceDefaultCategoryId": "719",
+  "sourceCategoryName": "Pantalones Niño",
+  "price": 23.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2024-03-09 23:55:49",
+  "sourceUpdatedAt": "2026-10-27 11:13:26",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "230",
+          "label": "5"
+        },
+        {
+          "id": "264",
+          "label": "7"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "83110",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "230",
+          "group": "Tamaño",
+          "value": "5"
+        }
+      ],
+      "sku": "2401212",
+      "productSku": "2401212",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:21:59.431Z"
+    },
+    {
+      "id": "83112",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "264",
+          "group": "Tamaño",
+          "value": "7"
+        }
+      ],
+      "sku": "2401212",
+      "productSku": "2401212",
+      "taxRate": 21,
+      "price": 23.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:22:02.429Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17452-15126.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15126-large_default/pantalon-vaquero-corto-sin-boton-nino-azul.jpg",
+      "alt": "Pantalón vaquero corto sin botón niño Azul",
+      "sourceId": "15126",
+      "variantIds": [],
+      "sha256": "17b1d5e0cb33e8d7f295a33a42d686680a618623ef22d14ef462b9b262a01363"
+    },
+    {
+      "path": "assets/17452-15127.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15127-large_default/pantalon-vaquero-corto-sin-boton-nino-azul.jpg",
+      "alt": "Pantalón vaquero corto sin botón niño Azul",
+      "sourceId": "15127",
+      "variantIds": [],
+      "sha256": "8a502639361ad8d00a2a8428c183f473f6cfbf407030ddedd86a8256b6a6fb41"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:22:02.559Z",
+  "issues": []
+}

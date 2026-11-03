@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "6974",
+  "sourceUrl": "https://babyhogarinfantil.com/chaquetas-nino/6974-chaqueta-nino-americana-perchada-gris.html",
+  "name": "Chaqueta niño americana perchada Gris",
+  "brand": "IDO",
+  "sku": "1708121",
+  "description": "Americana para niño. Muy cómoda, es elástica. Hecha en forro polar sin forro, con interior cepillado.",
+  "details": "Composición:\n\nChaqueta: 95% Algodón, 5% Elastano.\n\nForro: 100% poliéster.\n\nNo usar secadora.\n\nNo usar lejias.",
+  "sourceDescriptionHtml": "<p>Composición:</p>\n<p>Chaqueta: 95% Algodón, 5% Elastano.</p>\n<p>Forro: 100% poliéster.</p>\n<p>No usar secadora.</p>\n<p>No usar lejias.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Oto-Inv 2017-18",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "824",
+    "738"
+  ],
+  "sourceDefaultCategoryId": "738",
+  "sourceCategoryName": "Chaquetas Niño",
+  "price": 49.95,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:19",
+  "sourceUpdatedAt": "2026-10-27 11:09:40",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "232",
+          "label": "8"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "64774",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "232",
+          "group": "Tamaño",
+          "value": "8"
+        }
+      ],
+      "sku": "1708121",
+      "productSku": "1708121",
+      "taxRate": 21,
+      "price": 49.95,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T19:56:50.311Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6974-4901.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4901-large_default/chaqueta-nino-americana-perchada-gris.jpg",
+      "alt": "Chaqueta niño americana perchada Gris",
+      "sourceId": "4901",
+      "variantIds": [],
+      "sha256": "9790a6911509da023040e1983fb5ae61dee3ce6b625529565f8995cbc32ae991"
+    },
+    {
+      "path": "assets/6974-9859.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/9859-large_default/chaqueta-nino-americana-perchada-gris.jpg",
+      "alt": "Chaqueta niño americana perchada Gris",
+      "sourceId": "9859",
+      "variantIds": [],
+      "sha256": "f28036ffddaf77eb8d0ff09dabf6effa0fa26f3e5fcc257eba55ab3762ff5ba1"
+    },
+    {
+      "path": "assets/6974-4899.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/4899-large_default/chaqueta-nino-americana-perchada-gris.jpg",
+      "alt": "Chaqueta niño americana perchada Gris",
+      "sourceId": "4899",
+      "variantIds": [],
+      "sha256": "f356e9bb6920f789c46c18ce72157805c0f71fc7454f2fa5eb24400e2cc96c20"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T19:56:50.602Z",
+  "issues": []
+}

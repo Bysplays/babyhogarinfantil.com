@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "16417",
+  "sourceUrl": "https://babyhogarinfantil.com/patucos/16417-patucos-pompom-rosa.html",
+  "name": "Patucos pompom Rosa",
+  "brand": "Mac Ilusión",
+  "sku": "2307009",
+  "description": "Patucos de punto con pompom de pelo. HECHOS EN ESPAÑA",
+  "details": "",
+  "sourceDescriptionHtml": "",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Rosa",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "811",
+    "779"
+  ],
+  "sourceDefaultCategoryId": "779",
+  "sourceCategoryName": "Patucos",
+  "price": 11.75,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-07-11 15:52:57",
+  "sourceUpdatedAt": "2026-10-27 11:12:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 1,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "148698",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11361XA17489",
+      "productSku": "2307009",
+      "taxRate": 21,
+      "price": 11.75,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:06:41.858Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16417-14256.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14256-large_default/patucos-pompom-rosa.jpg",
+      "alt": "Patucos pompom Rosa",
+      "sourceId": "14256",
+      "variantIds": [],
+      "sha256": "6e1ba600b990f614bc7ed6a31ce9ffe09c32fa79928f632384c3ea39d92bd595"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:06:41.922Z",
+  "issues": []
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "10267",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/10267-vestido-bebe-nina-guipur-y-tul-crudo.html",
+  "name": "Vestido bebé niña guipur y tul Crudo",
+  "brand": "Mayoral",
+  "sku": "2301031",
+  "description": "Vestido de manga corta combinado de guipur y tul, en color crudo, con cierre de cremallera trasera invisible y con forro interior. Ideal para ceremonia.",
+  "details": "Vestido de MAYORAL, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. De manga corta y cuello redondo, combina tejido guipur y tul en la falda, en color crudo. Cierre trasero de cremallera invisible y forro interior. Un vestido coqueto y especial, ideal para eventos y ceremonias como el bautizo! Recuerda que disponemos de las velas de bautismo y pañitos bordados personalizados para tal ocasión! \n\nComposición y cuidados:\n\nVestido: 75% poliéster, 15% algodón, 10% poliamida\n\nForro: 100% algodón\n\nLAVAR A MÁQUINA (MÁXIMO 30 ºC)\n\nNO USAR LEJÍAS\n\nNO USAR SECADORA\n\nPLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)",
+  "sourceDescriptionHtml": "<p>Vestido de <strong>MAYORAL</strong>, fundada a principios de los años 70, es hoy en día una gran empresa familiar que basa su éxito en la calidad y la moda en su máxima expresión. De manga corta y cuello redondo, combina tejido <strong>guipur y tul</strong> en la falda, en color crudo. Cierre trasero de <strong>cremallera invisible y forro interior</strong>. Un vestido coqueto y especial, ideal para e<strong>ventos y ceremonias como el bautizo</strong>! Recuerda que disponemos de las <strong>velas de bautismo y pañitos bordados personalizados</strong> para tal ocasión! </p>\n<p>Composición y cuidados:</p>\n<p>Vestido: 75% poliéster, 15% algodón, 10% poliamida</p>\n<p>Forro: 100% algodón</p>\n<p>LAVAR A MÁQUINA (MÁXIMO 30 ºC)</p>\n<p>NO USAR LEJÍAS</p>\n<p>NO USAR SECADORA</p>\n<p>PLANCHAR A BAJA TEMPERATURA (MÁXIMO 110 ºC)</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818",
+    "720"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 41.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:15",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "246",
+          "label": "24 m"
+        },
+        {
+          "id": "247",
+          "label": "36 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71365",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "246",
+          "group": "Tamaño",
+          "value": "24 m"
+        }
+      ],
+      "sku": "2301031",
+      "productSku": "2301031",
+      "taxRate": 21,
+      "price": 41.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:15.345Z"
+    },
+    {
+      "id": "71366",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "247",
+          "group": "Tamaño",
+          "value": "36 m"
+        }
+      ],
+      "sku": "2301031",
+      "productSku": "2301031",
+      "taxRate": 21,
+      "price": 41.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:13:17.664Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10267-13338.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13338-large_default/vestido-bebe-nina-guipur-y-tul-crudo.jpg",
+      "alt": "Vestido bebé niña guipur y tul Crudo",
+      "sourceId": "13338",
+      "variantIds": [],
+      "sha256": "06ddc8a13d4255967f727925690d233fe397236b67cdb1fbba6ab3139ee552ac"
+    },
+    {
+      "path": "assets/10267-13339.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13339-large_default/vestido-bebe-nina-guipur-y-tul-crudo.jpg",
+      "alt": "Vestido bebé niña guipur y tul Crudo",
+      "sourceId": "13339",
+      "variantIds": [],
+      "sha256": "2b173b95eea8457473429396575f3b43d62348d00283bd9604681c120f270599"
+    },
+    {
+      "path": "assets/10267-13337.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13337-large_default/vestido-bebe-nina-guipur-y-tul-crudo.jpg",
+      "alt": "Vestido bebé niña guipur y tul Crudo",
+      "sourceId": "13337",
+      "variantIds": [],
+      "sha256": "0ef8161d9e8ad25cf2228d00f2061392a2085287dc6fb9852845b88c35ab490d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:13:17.785Z",
+  "issues": []
+}

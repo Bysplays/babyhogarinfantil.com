@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "id": "7721",
+  "sourceUrl": "https://babyhogarinfantil.com/calzado-bautizo/7721-zapato-porcelana-velcro-charol-crudo.html",
+  "name": "Zapato porcelana velcro Charol crudo",
+  "brand": "Caminito",
+  "sku": "1904066",
+  "description": "Zapato de piel en CHAROL con cierre de velcro. Número 19 con suela de preandante.",
+  "details": "Recuerda que disponemos de todo lo necesario para el bautizo, desde el faldón o vestido y el traje hasta todos los complementos para el bautizo, como las toquillas, la vela para el padrino, y los paños bautismales que puedes personalizar con nombre y fecha. Consultalo todo en nuestras secciones de bautizo, no dudes en llamarnos para cualquier aclaración a nuestros teléfono 886 166 179 o por WSP 695 251 402.\n\nGarantizamos que para la fabricación de estos zapatos se han empleado materiales de primera calidad en todos sus componentes.\n\nNúmero 19 con opción de suela blanda de pre-andante que facilita el aprendizaje",
+  "sourceDescriptionHtml": "<p>Recuerda que disponemos de todo lo necesario para el bautizo, desde el faldón o vestido y el traje hasta todos los complementos para el bautizo, como las toquillas, la <strong>vela para el padrino</strong>, y los <strong>paños bautismales</strong> que puedes personalizar con nombre y fecha. Consultalo todo en nuestras secciones de bautizo, <span style=\"font-size:small;\"><span style=\"color:#777777;\">no dudes en llamarnos para cualquier aclaración a nuestros teléfono <strong><span style=\"font-family:robotoregular;\">886 166 179</span></strong> o por WSP <strong><span style=\"font-family:robotoregular;\">695 251 402</span></strong></span></span>.</p>\n<p>Garantizamos que para la fabricación de estos zapatos se han empleado materiales de primera calidad en todos sus componentes.</p>\n<p>Número 19 con opción de suela blanda de pre-andante que facilita el aprendizaje </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Charol crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "814",
+    "693"
+  ],
+  "sourceDefaultCategoryId": "693",
+  "sourceCategoryName": "Calzado Bautizo",
+  "price": 28.96,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:28",
+  "sourceUpdatedAt": "2026-10-27 11:10:20",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "239",
+          "label": "0"
+        },
+        {
+          "id": "256",
+          "label": "15"
+        },
+        {
+          "id": "236",
+          "label": "16"
+        },
+        {
+          "id": "257",
+          "label": "17"
+        },
+        {
+          "id": "237",
+          "label": "18"
+        },
+        {
+          "id": "259",
+          "label": "19con"
+        },
+        {
+          "id": "262",
+          "label": "19"
+        },
+        {
+          "id": "249",
+          "label": "20"
+        },
+        {
+          "id": "260",
+          "label": "21"
+        },
+        {
+          "id": "250",
+          "label": "22"
+        },
+        {
+          "id": "261",
+          "label": "23"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "66219",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "236",
+          "group": "Tamaño",
+          "value": "16"
+        }
+      ],
+      "sku": "6412XC10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:49.279Z"
+    },
+    {
+      "id": "146203",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "239",
+          "group": "Tamaño",
+          "value": "0"
+        }
+      ],
+      "sku": "6412XA10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:50.703Z"
+    },
+    {
+      "id": "146204",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "256",
+          "group": "Tamaño",
+          "value": "15"
+        }
+      ],
+      "sku": "6412XB10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:52.343Z"
+    },
+    {
+      "id": "146205",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "257",
+          "group": "Tamaño",
+          "value": "17"
+        }
+      ],
+      "sku": "6412XD10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:53.884Z"
+    },
+    {
+      "id": "146206",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "237",
+          "group": "Tamaño",
+          "value": "18"
+        }
+      ],
+      "sku": "6412XE10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:55.392Z"
+    },
+    {
+      "id": "66222",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "259",
+          "group": "Tamaño",
+          "value": "19con"
+        }
+      ],
+      "sku": "6412XG10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:56.974Z"
+    },
+    {
+      "id": "146207",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "262",
+          "group": "Tamaño",
+          "value": "19"
+        }
+      ],
+      "sku": "6412XF10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:58.404Z"
+    },
+    {
+      "id": "146208",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "249",
+          "group": "Tamaño",
+          "value": "20"
+        }
+      ],
+      "sku": "6412XH10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:35:59.914Z"
+    },
+    {
+      "id": "146209",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "260",
+          "group": "Tamaño",
+          "value": "21"
+        }
+      ],
+      "sku": "6412XI10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:01.258Z"
+    },
+    {
+      "id": "146210",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "250",
+          "group": "Tamaño",
+          "value": "22"
+        }
+      ],
+      "sku": "6412XJ10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:02.732Z"
+    },
+    {
+      "id": "146211",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "261",
+          "group": "Tamaño",
+          "value": "23"
+        }
+      ],
+      "sku": "6412XK10760",
+      "productSku": "1904066",
+      "taxRate": 21,
+      "price": 28.96,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Producto disponible con otras opciones",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:36:04.357Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/7721-5749.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5749-large_default/zapato-porcelana-velcro-charol-crudo.jpg",
+      "alt": "Zapato porcelana velcro Charol crudo",
+      "sourceId": "5749",
+      "variantIds": [],
+      "sha256": "acaa3f0dc64951323f2d2cecf2760e01951c8dba356c037c3750e749439d40a7"
+    },
+    {
+      "path": "assets/7721-5750.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5750-large_default/zapato-porcelana-velcro-charol-crudo.jpg",
+      "alt": "Zapato porcelana velcro Charol crudo",
+      "sourceId": "5750",
+      "variantIds": [],
+      "sha256": "8a0b4b4fd3d1d317c8143cd2a2b43e08a2710f90c84972fa0a8cce213fb424a4"
+    },
+    {
+      "path": "assets/7721-10500.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10500-large_default/zapato-porcelana-velcro-charol-crudo.jpg",
+      "alt": "Zapato porcelana velcro Charol crudo",
+      "sourceId": "10500",
+      "variantIds": [],
+      "sha256": "acaa3f0dc64951323f2d2cecf2760e01951c8dba356c037c3750e749439d40a7"
+    },
+    {
+      "path": "assets/7721-10501.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/10501-large_default/zapato-porcelana-velcro-charol-crudo.jpg",
+      "alt": "Zapato porcelana velcro Charol crudo",
+      "sourceId": "10501",
+      "variantIds": [],
+      "sha256": "8a0b4b4fd3d1d317c8143cd2a2b43e08a2710f90c84972fa0a8cce213fb424a4"
+    },
+    {
+      "path": "assets/7721-5748.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/5748-large_default/zapato-porcelana-velcro-charol-crudo.jpg",
+      "alt": "Zapato porcelana velcro Charol crudo",
+      "sourceId": "5748",
+      "variantIds": [],
+      "sha256": "6d971779f8fed3ad90c6d648fa5132d6ecede30d251e5e9a732a36f5cc6fb8af"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:36:04.639Z",
+  "issues": []
+}

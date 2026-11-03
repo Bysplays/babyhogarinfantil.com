@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "17078",
+  "sourceUrl": "https://babyhogarinfantil.com/mantas-bebe/17078-manta-saco-baby-sac-osito-gris.html",
+  "name": "Manta saco BABY-SAC osito Gris",
+  "brand": "Interbaby",
+  "sku": "2309241",
+  "description": "Manta-saco BABY-SAC osito Gris es una elección perfecta para los amantes de lo delicado y lo acogedor. Hecho con tejidos de alta calidad, este manta-saco va a abrigar a su pequeño con mucho amor y calidez, brindando seguridad y confort. El diseño adorable del osito gris añade un toque juguetón y apacible a cada momento. Basta con deslizar a su bebé dentro del saco y observar cómo disfruta en su dulce y tierno abrazo. Este producto, además de ser un elemento esencial para el cuidado del bebé, es también un regalo maravilloso para nuevos padres. Con el manta-saco osito gris, cada siesta se convertirá en una experiencia de ensueño.",
+  "details": "Confortabilidad y Calidez Para Tu Bebé\n\nDestinado a proporcionar calor y comodidad, el manta saco BABY-SAC osito Gris es la elección perfecta para tu pequeño. Fabricado con materiales de alta calidad, este saco manta garantiza la suavidad y la comodidad que tu bebé necesita. Su cálido forro hace que sea perfecto para los días fríos de invierno, manteniendo a tu bebé acogedor y confortable en todo momento.\n\nDiseño Lindo y Práctico\n\nCon su adorable diseño de osito gris, el manta saco BABY-SAC promete no solo funcionalidad sino también estilo. Su diseño robusto con cierre seguro garantiza que tu bebé permanezca abrigado mientras la cubierta de cabeza con forma de osito añade un toque encantador. Este versátil manta-saco es la opción ideal para cualquier ocasión, desde paseos en el cochecito hasta la hora de la siesta en casa.\n\nUna Inversión en Calidad y Confort\n\nInvertir en el manta saco BABY-SAC osito Gris es invertir en la comodidad y el bienestar de tu bebé. Sus materiales de alta calidad aseguran durabilidad y resistencia, mientras que la suave felpa ofrece una sensación de calidez y confort sin igual. Su fácil mantenimiento y limpieza, así como su resistencia al desgaste, hacen de este la elección ideal para aquellos que buscan lo mejor para sus pequeños.\n\nOfrece a tu bebé el confort y la calidez que merece. Adquiere el manta saco BABY-SAC osito Gris hoy mismo y haz que cada momento sea aún más especial para tu pequeño.",
+  "sourceDescriptionHtml": "<h2>Confortabilidad y Calidez Para Tu Bebé</h2>\n<p>Destinado a proporcionar calor y comodidad, el manta saco BABY-SAC osito Gris es la elección perfecta para tu pequeño. Fabricado con materiales de alta calidad, este saco manta garantiza la suavidad y la comodidad que tu bebé necesita. Su cálido forro hace que sea perfecto para los días fríos de invierno, manteniendo a tu bebé acogedor y confortable en todo momento.</p>\n<h2>Diseño Lindo y Práctico</h2>\n<p>Con su adorable diseño de osito gris, el manta saco BABY-SAC promete no solo funcionalidad sino también estilo. Su diseño robusto con cierre seguro garantiza que tu bebé permanezca abrigado mientras la cubierta de cabeza con forma de osito añade un toque encantador. Este versátil manta-saco es la opción ideal para cualquier ocasión, desde paseos en el cochecito hasta la hora de la siesta en casa.</p>\n<h2>Una Inversión en Calidad y Confort</h2>\n<p>Invertir en el manta saco BABY-SAC osito Gris es invertir en la comodidad y el bienestar de tu bebé. Sus materiales de alta calidad aseguran durabilidad y resistencia, mientras que la suave felpa ofrece una sensación de calidez y confort sin igual. Su fácil mantenimiento y limpieza, así como su resistencia al desgaste, hacen de este la elección ideal para aquellos que buscan lo mejor para sus pequeños.</p>\n<p>Ofrece a tu bebé el confort y la calidez que merece. Adquiere el manta saco BABY-SAC osito Gris hoy mismo y haz que cada momento sea aún más especial para tu pequeño.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "765",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "765",
+  "sourceCategoryName": "Mantas Bebé",
+  "price": 22,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-12-28 15:55:03",
+  "sourceUpdatedAt": "2026-10-27 11:13:13",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "101732",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "11796XA18139",
+      "productSku": "2309241",
+      "taxRate": 21,
+      "price": 22,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:04:22.989Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/17078-15105.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15105-large_default/manta-saco-baby-sac-osito-gris.jpg",
+      "alt": "saco manta gris",
+      "sourceId": "15105",
+      "variantIds": [],
+      "sha256": "02a67b03328817fe6b85b815c05d7f0a5e418090a3b0834e1bbbdd5e0bfa5778"
+    },
+    {
+      "path": "assets/17078-15106.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15106-large_default/manta-saco-baby-sac-osito-gris.jpg",
+      "alt": "saco manta gris cremallera",
+      "sourceId": "15106",
+      "variantIds": [],
+      "sha256": "76eda9d59fff18a6662651b4470c86e33d61fe950fe1514e9866645a552c633a"
+    },
+    {
+      "path": "assets/17078-15107.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15107-large_default/manta-saco-baby-sac-osito-gris.jpg",
+      "alt": "saco manta gris detalle luna",
+      "sourceId": "15107",
+      "variantIds": [],
+      "sha256": "1418ffe0a1928d28e5454fbd76657568d785e71f30b9710f01071a7911e81389"
+    },
+    {
+      "path": "assets/17078-15108.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/15108-large_default/manta-saco-baby-sac-osito-gris.jpg",
+      "alt": "Manta saco BABY-SAC osito Gris",
+      "sourceId": "15108",
+      "variantIds": [],
+      "sha256": "edf4dc876e2cb15b490987fce42c2fccf7e0fa81fc0b933cf8e6977ebf07cefd"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:04:23.195Z",
+  "issues": []
+}

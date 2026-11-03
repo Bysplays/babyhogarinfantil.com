@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "10330",
+  "sourceUrl": "https://babyhogarinfantil.com/vestidos-y-jesusines-bebe-nina/10330-vestido-bebe-nina-devore-crudo.html",
+  "name": "Vestido bebe niña devoré Crudo",
+  "brand": "Mayoral",
+  "sku": "2301092",
+  "description": "Vestido ideal para ocasiones especiales. Sin mangas.\n\nBusca aquí el leotardo que mejor te combine Leotardos Invierno",
+  "details": "50% Viscosa\n\n43% Poliéster\n\n7% Lino\n\nForro: 100% Algodón",
+  "sourceDescriptionHtml": "<p></p>\n<p>50% Viscosa</p>\n<p>43% Poliéster</p>\n<p>7% Lino</p>\n<p>Forro: 100% Algodón </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "Prim-Ver 2023",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Crudo",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "716",
+    "818"
+  ],
+  "sourceDefaultCategoryId": "716",
+  "sourceCategoryName": "Vestidos y Jesusines Bebé Niña",
+  "price": 39.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:39:00",
+  "sourceUpdatedAt": "2026-10-27 11:12:19",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 2,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "244",
+          "label": "12 m"
+        },
+        {
+          "id": "245",
+          "label": "18 m"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "71645",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "244",
+          "group": "Tamaño",
+          "value": "12 m"
+        }
+      ],
+      "sku": "2301092",
+      "productSku": "2301092",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:25.119Z"
+    },
+    {
+      "id": "71646",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "245",
+          "group": "Tamaño",
+          "value": "18 m"
+        }
+      ],
+      "sku": "2301092",
+      "productSku": "2301092",
+      "taxRate": 21,
+      "price": 39.99,
+      "oldPrice": null,
+      "quantity": 1,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:12:27.978Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/10330-13516.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13516-large_default/vestido-bebe-nina-devore-crudo.jpg",
+      "alt": "Vestido bebe niña devoré Crudo",
+      "sourceId": "13516",
+      "variantIds": [],
+      "sha256": "9f0d270aa4f9866a44864d607ef391c65ab7384c21731a20784e5cd64219e194"
+    },
+    {
+      "path": "assets/10330-13517.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13517-large_default/vestido-bebe-nina-devore-crudo.jpg",
+      "alt": "Vestido bebe niña devoré Crudo",
+      "sourceId": "13517",
+      "variantIds": [],
+      "sha256": "b00ff86b8782f63034e75625a3648faecbd736435d8ec7cd0f0140548b15b582"
+    },
+    {
+      "path": "assets/10330-13518.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13518-large_default/vestido-bebe-nina-devore-crudo.jpg",
+      "alt": "Vestido bebe niña devoré Crudo",
+      "sourceId": "13518",
+      "variantIds": [],
+      "sha256": "8b642eb6522be0d70a9c4361c4f19554f04707ddb129257cb07261620890ed4f"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:12:28.187Z",
+  "issues": []
+}

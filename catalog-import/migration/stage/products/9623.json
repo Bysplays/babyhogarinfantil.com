@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "9623",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/9623-pack-lazo-mas-horquillas-azul-marino.html",
+  "name": "Pack lazo mas horquillas Azul Marino",
+  "brand": "Siena",
+  "sku": "2204004",
+  "description": "Lazo de 6 x 4 cm. aproximadamente sobre clip pico-pato de 4 cm.\n\nY dos clips rana de 5 cm. a tono.\n\nHECHO EN ESPAÑA",
+  "details": "Materiales de Calidad Superior\n\n Presentamos una de las piezas más elegantes para los más pequeños, el Pack lazo y horquillas Azul Marino. Estos accesorios están hechos de materiales de alta calidad, resistiendo el desgaste del uso diario, mientras mantienen ese aspecto nuevo y vibrante. \n\n\n Diseño Elegante y Versátil\n\n El Pack lazo y horquillas Azul Marino se distingue por su diseño elegante y sofisticado. Los tonos azul marino nunca pasan de moda, siendo aptos para todas las ocasiones. Ya sea para un cumpleaños, un paseo en el parque o una excursión escolar, tu angelito siempre lucirá elegante y a la moda.\n\n \n Comodidad Sin Compromiso\n\n Uno de los aspectos más destacados del Pack lazo y horquillas Azul Marino es su alta comodidad. Estos accesorios son suaves al tacto y no causarán ninguna molestia a tu pequeño, permitiendo que se concentren en disfrutar su día a plenitud. Todo esto sin comprometer en absoluto su estilo y elegancia.\n\n \n ¿Por qué esperar?\n\n Descubre la calidad, comodidad y estilo de estos magníficos accesorios. Sorprende a tu pequeño con el Pack lazo y horquillas Azul Marino y añádelo a tu carrito de compra ahora mismo. Permíteles lucir elegantes, a la moda y cómodos con este fabuloso conjunto de accesorios.",
+  "sourceDescriptionHtml": "<h2>Materiales de Calidad Superior</h2>\n <p>Presentamos una de las piezas más elegantes para los más pequeños, el Pack lazo y horquillas Azul Marino. Estos accesorios están hechos de materiales de alta calidad, resistiendo el desgaste del uso diario, mientras mantienen ese aspecto nuevo y vibrante. </p>\n\n <h2>Diseño Elegante y Versátil</h2>\n <p>El Pack lazo y horquillas Azul Marino se distingue por su diseño elegante y sofisticado. Los tonos azul marino nunca pasan de moda, siendo aptos para todas las ocasiones. Ya sea para un cumpleaños, un paseo en el parque o una excursión escolar, tu angelito siempre lucirá elegante y a la moda.</p>\n \n <h2>Comodidad Sin Compromiso</h2>\n <p>Uno de los aspectos más destacados del Pack lazo y horquillas Azul Marino es su alta comodidad. Estos accesorios son suaves al tacto y no causarán ninguna molestia a tu pequeño, permitiendo que se concentren en disfrutar su día a plenitud. Todo esto sin comprometer en absoluto su estilo y elegancia.</p>\n \n <h3>¿Por qué esperar?</h3>\n <p>Descubre la calidad, comodidad y estilo de estos magníficos accesorios. Sorprende a tu pequeño con el Pack lazo y horquillas Azul Marino y añádelo a tu carrito de compra ahora mismo. Permíteles lucir elegantes, a la moda y cómodos con este fabuloso conjunto de accesorios. </p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 2.99,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:51",
+  "sourceUpdatedAt": "2026-10-27 11:11:38",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "available",
+  "availabilityMessage": null,
+  "quantityAllVariants": 4,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "253",
+          "label": "TU"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "84967",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "253",
+          "group": "Tamaño",
+          "value": "TU"
+        }
+      ],
+      "sku": "10182XA15881",
+      "productSku": "2204004",
+      "taxRate": 21,
+      "price": 2.99,
+      "oldPrice": null,
+      "quantity": 4,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:02:30.080Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/9623-7844.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/7844-large_default/pack-lazo-mas-horquillas-azul-marino.jpg",
+      "alt": "Pack lazo mas horquillas Azul Marino",
+      "sourceId": "7844",
+      "variantIds": [],
+      "sha256": "45a4ae5b3ff1dce2985dc88589220c03b2e2939fadf80a56ccd1647ab2d8d72d"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:02:30.154Z",
+  "issues": []
+}

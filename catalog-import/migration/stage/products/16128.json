@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "16128",
+  "sourceUrl": "https://babyhogarinfantil.com/lazos-diademas-y-pinzas/16128-lazo-pequeno-azul-marino.html",
+  "name": "Lazo pequeño Azul marino",
+  "brand": "Siena",
+  "sku": "2007020",
+  "description": "Embellece cualquier outfit con el Lazo Pequeño Azul Marino. Diseñado con pasión, este accesorio está lleno de encanto y elegancia. Su color azul marino profundamente rico agrega un toque de sofisticación, perfecto para cualquier ocasión. Hecho de material de alta calidad para garantizar durabilidad y confort, puede disfrutar de un estilo sin esfuerzo y belleza a la vez. Este lazo es la añadidura perfecta a la colección de accesorios de su pequeño, volviéndola aún más adorable. Celebre momentos especiales con estilo y gracia con este lazo azul marino. Lazo de 6x4 cm. aproximadamente.",
+  "details": "Doble Belleza: Comodidad y Estilo\n\nEl Lazo pequeño Azul marino es la perfecta síntesis de elegancia y confort. Confeccionado con tela de alta calidad, este lazo es suave al tacto, haciéndolo ideal para la delicada piel de los niños. La fastuosidad del tono azul marino añade un toque de sofisticación, transformando a su pequeño en el ejemplo palpable de la elegancia infantil.\n\nUna Adición Versátil a Cualquier Conjunto\n\nYa sea que se trate de ocasiones especiales o de citas casuales, el Lazo pequeño Azul marino levanta cualquier atuendo con su rica tonalidad y su diseño atemporal. Se puede combinar con una variedad de ropas y accesorios, garantizando que su niño siempre se vea adorable y refinado. Es un elemento imprescindible para el armario de cualquier niño.\n\nDurabilidad en Cada Uso\n\nEste lazo no solo impresiona con su esthetic, sino que también promete una larga durabilidad. La calidad de los materiales garantiza una resistencia excepcional a cualquier desgaste, asegurando que este pequeño accesorio conserve su belleza incluso después de un uso frecuente. Su estructura también facilita su uso, permitiendo colocarlo y quitarlo sin complicaciones.\n\nCon el Lazo pequeño Azul marino, su niño obtendrá un aspecto estilizado, confort y durabilidad, todo en uno. ¿Por qué esperar? Añádalo a su cesta de compra ahora y deje que su pequeño brille con el encanto único de este lazo.",
+  "sourceDescriptionHtml": "<h2>Doble Belleza: Comodidad y Estilo</h2>\n<p>El Lazo pequeño Azul marino es la perfecta síntesis de elegancia y confort. Confeccionado con tela de alta calidad, este lazo es suave al tacto, haciéndolo ideal para la delicada piel de los niños. La fastuosidad del tono azul marino añade un toque de sofisticación, transformando a su pequeño en el ejemplo palpable de la elegancia infantil.</p>\n<h2>Una Adición Versátil a Cualquier Conjunto</h2>\n<p>Ya sea que se trate de ocasiones especiales o de citas casuales, el Lazo pequeño Azul marino levanta cualquier atuendo con su rica tonalidad y su diseño atemporal. Se puede combinar con una variedad de ropas y accesorios, garantizando que su niño siempre se vea adorable y refinado. Es un elemento imprescindible para el armario de cualquier niño.</p>\n<h2>Durabilidad en Cada Uso</h2>\n<p>Este lazo no solo impresiona con su esthetic, sino que también promete una larga durabilidad. La calidad de los materiales garantiza una resistencia excepcional a cualquier desgaste, asegurando que este pequeño accesorio conserve su belleza incluso después de un uso frecuente. Su estructura también facilita su uso, permitiendo colocarlo y quitarlo sin complicaciones.</p>\n<p>Con el Lazo pequeño Azul marino, su niño obtendrá un aspecto estilizado, confort y durabilidad, todo en uno. ¿Por qué esperar? Añádalo a su cesta de compra ahora y deje que su pequeño brille con el encanto único de este lazo.</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "CONTINUIDAD",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Azul Marino",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "673",
+    "788"
+  ],
+  "sourceDefaultCategoryId": "673",
+  "sourceCategoryName": "Lazos Diademas y pinzas",
+  "price": 0,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-04-20 00:29:14",
+  "sourceUpdatedAt": "2026-10-27 11:10:46",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "unavailable",
+  "availabilityMessage": "Se acabó",
+  "quantityAllVariants": 0,
+  "groups": [],
+  "variants": [
+    {
+      "id": "67343",
+      "attributes": [],
+      "sku": "2007020",
+      "productSku": "2007020",
+      "taxRate": 21,
+      "price": 0,
+      "oldPrice": null,
+      "quantity": 0,
+      "availability": "unavailable",
+      "availabilityMessage": "Se acabó",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:03:38.740Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/16128-13820.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13820-large_default/lazo-pequeno-azul-marino.jpg",
+      "alt": "Lazo pequeño Azul marino",
+      "sourceId": "13820",
+      "variantIds": [],
+      "sha256": "be188b3be27646ecb8487d52d84d20a21b078a221b61eeb0e45eba917eac5e72"
+    },
+    {
+      "path": "assets/16128-13821.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/13821-large_default/lazo-pequeno-azul-marino.jpg",
+      "alt": "Lazo pequeño Azul marino",
+      "sourceId": "13821",
+      "variantIds": [],
+      "sha256": "b17d6a7b1339e14a80449d738d61358ef86cd20a6193deb0c92b00254769ef41"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:03:38.827Z",
+  "issues": []
+}

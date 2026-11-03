@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "6477",
+  "sourceUrl": "https://babyhogarinfantil.com/pantalones-escolares/6477-pantalon-colegial-largo-gomas-de-2-a-10-gris-oscuro.html",
+  "name": "Pantalón colegial LARGO gomas de 2 a 10 Gris Oscuro",
+  "brand": "Ayapunt",
+  "sku": "1561928",
+  "description": "Dele a tus pequeños la comodidad súper suave y el estilo elegante con el \"Pantalón colegial LARGO gomas de 2 a 10 Gris Oscuro\".  Estos pantalones escolares prometen una durabilidad excepcional. El tejido de alta calidad garantiza una sensación de confort durante todo el día. El elegante tono gris oscuro añade un toque de sofisticación, perfecto para realzar el orgullo de su uniforme escolar. Sea la envidia del colégio con esta moderna y funcional elección de uniforme.",
+  "details": "Calidad y Comodidad Inigualable\n\nEncontrarás un pantalón de colegio largo con gomas perfecto para niños de 2 a 10 años en color gris oscuro. Nuestro producto es sublimemente suave y extremadamente cómodo para llevar durante todo el día. Preserva la simplicidad y el estilo sin entrar en conflicto con la comodidad de los más pequeños.\n\nAjuste Perfecto para Cada Niño\n\nGracias a las gomas incluídas, el pantalón se adapta a cualquier tamaño de cintura y crece con tu hijo. Este diseño pensado en el crecimiento de los pequeños se extiende perfectamente desde los 2 hasta los 10 años, garantizando un uso prolongado que se adapta a cada niño a medida que crece.\n\nEstilizado y Práctico para el Uso Diario\n\nEl color gris oscuro de estos pantalones los convierte en una elección estilizada y práctica. Su resistencia al desgaste y su mantenimiento sencillo lo hacen ideal para el uso diario. Estos pantalones soportan la prueba de los deberes escolares, los juegos en el recreo y todo lo que tu pequeño pueda necessitar.\n\nEs hora de darle a tu pequeño el ajuste perfecto y la comodidad que tanto merece. ¡Adquiere ya nuestro Pantalón colegial LARGO con gomas de 2 a 10 Gris Oscuro y descubre la diferencia!",
+  "sourceDescriptionHtml": "<h2>Calidad y Comodidad Inigualable</h2>\n<p>Encontrarás un pantalón de colegio largo con gomas perfecto para niños de 2 a 10 años en color gris oscuro. Nuestro producto es sublimemente suave y extremadamente cómodo para llevar durante todo el día. Preserva la simplicidad y el estilo sin entrar en conflicto con la comodidad de los más pequeños.</p>\n<h2>Ajuste Perfecto para Cada Niño</h2>\n<p>Gracias a las gomas incluídas, el pantalón se adapta a cualquier tamaño de cintura y crece con tu hijo. Este diseño pensado en el crecimiento de los pequeños se extiende perfectamente desde los 2 hasta los 10 años, garantizando un uso prolongado que se adapta a cada niño a medida que crece.</p>\n<h2>Estilizado y Práctico para el Uso Diario</h2>\n<p>El color gris oscuro de estos pantalones los convierte en una elección estilizada y práctica. Su resistencia al desgaste y su mantenimiento sencillo lo hacen ideal para el uso diario. Estos pantalones soportan la prueba de los deberes escolares, los juegos en el recreo y todo lo que tu pequeño pueda necessitar.</p>\n<p>Es hora de darle a tu pequeño el ajuste perfecto y la comodidad que tanto merece. ¡Adquiere ya nuestro Pantalón colegial LARGO con gomas de 2 a 10 Gris Oscuro y descubre la diferencia!</p>",
+  "features": [
+    {
+      "name": "Temporadas",
+      "value": "1 UNIFORMES",
+      "id_feature": "1",
+      "position": "0"
+    },
+    {
+      "name": "Color",
+      "value": "Gris Oscuro",
+      "id_feature": "5",
+      "position": "2"
+    }
+  ],
+  "categoryIds": [
+    "812",
+    "663",
+    "705",
+    "684",
+    "888",
+    "868",
+    "871",
+    "890"
+  ],
+  "sourceDefaultCategoryId": "663",
+  "sourceCategoryName": "Pantalones escolares",
+  "price": 31.51,
+  "oldPrice": null,
+  "new": false,
+  "sourceAddedAt": "2023-03-03 14:38:13",
+  "sourceUpdatedAt": "2026-10-27 11:08:58",
+  "taxRate": 21,
+  "condition": "new",
+  "visibility": "both",
+  "availability": "last_remaining_items",
+  "availabilityMessage": "Últimas unidades en stock",
+  "quantityAllVariants": 8,
+  "groups": [
+    {
+      "id": "2",
+      "label": "Tamaño",
+      "options": [
+        {
+          "id": "231",
+          "label": "6"
+        },
+        {
+          "id": "233",
+          "label": "10"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "98828",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "231",
+          "group": "Tamaño",
+          "value": "6"
+        }
+      ],
+      "sku": "1561928",
+      "productSku": "1561928",
+      "taxRate": 21,
+      "price": 31.51,
+      "oldPrice": null,
+      "quantity": 2,
+      "availability": "last_remaining_items",
+      "availabilityMessage": "Últimas unidades en stock",
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:46.852Z"
+    },
+    {
+      "id": "149598",
+      "attributes": [
+        {
+          "groupId": "2",
+          "id": "233",
+          "group": "Tamaño",
+          "value": "10"
+        }
+      ],
+      "sku": "1561928",
+      "productSku": "1561928",
+      "taxRate": 21,
+      "price": 31.51,
+      "oldPrice": null,
+      "quantity": 5,
+      "availability": "available",
+      "availabilityMessage": null,
+      "availableForOrder": true,
+      "allowBackorder": false,
+      "observedAt": "2026-10-27T20:34:49.039Z"
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/6477-21793.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21793-large_default/pantalon-colegial-largo-gomas-de-2-a-10-gris-oscuro.jpg",
+      "alt": "Pantalon gris marengo con goma",
+      "sourceId": "21793",
+      "variantIds": [],
+      "sha256": "8ee6f8a3f922adb5e557d57282baca9ebd62c9c03bc1f02b4571027a32947b27"
+    },
+    {
+      "path": "assets/6477-14062.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/14062-large_default/pantalon-colegial-largo-gomas-de-2-a-10-gris-oscuro.jpg",
+      "alt": "Detalle cintura pantalón gris marengo",
+      "sourceId": "14062",
+      "variantIds": [],
+      "sha256": "f75ddff54f78ae620d58a7c9d01806390369633c7b26c17b03c1de0dcf628ce3"
+    },
+    {
+      "path": "assets/6477-21791.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21791-large_default/pantalon-colegial-largo-gomas-de-2-a-10-gris-oscuro.jpg",
+      "alt": "Pantalon gris marengo con goma detalle bolsillo",
+      "sourceId": "21791",
+      "variantIds": [],
+      "sha256": "6b6d66d65fcea4d49d43e28563729a2334d6f98e3d199cf71a2532bed71c3c5d"
+    },
+    {
+      "path": "assets/6477-21792.jpg",
+      "sourceUrl": "https://babyhogarinfantil.com/21792-large_default/pantalon-colegial-largo-gomas-de-2-a-10-gris-oscuro.jpg",
+      "alt": "Parte trasera pantalon gris marengo con goma",
+      "sourceId": "21792",
+      "variantIds": [],
+      "sha256": "c21f6379a91467d8ba97d78e3531bfc1a8f9cfacadb27e99b56c2411951b5d69"
+    }
+  ],
+  "attachments": [],
+  "observedAt": "2026-10-27T20:34:49.288Z",
+  "issues": []
+}
